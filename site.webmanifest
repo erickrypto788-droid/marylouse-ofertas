@@ -1,0 +1,19 @@
+﻿{
+  "name": "MaryLouse Ofertas",
+  "short_name": "MaryLouse",
+  "description": "Confira ofertas, achadinhos, cupons e promoÃ§Ãµes selecionadas automaticamente na Shopee, AliExpress e outros marketplaces.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fff7f9",
+  "theme_color": "#ff2f7d",
+  "icons": [
+    {
+      "src": "./assets/favicon.svg",
+      "sizes": "128x128",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
+
+

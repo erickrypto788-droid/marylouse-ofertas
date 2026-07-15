@@ -1,0 +1,3091 @@
+﻿<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>MaryLouse Ofertas | Promoções, Achadinhos e Descontos</title>
+
+  <meta name="description" content="Confira ofertas, achadinhos, cupons e promoções selecionadas automaticamente na Shopee, AliExpress e outros marketplaces." />
+
+  <style>
+    :root {
+      --bg: #fff7f9;
+      --card: #ffffff;
+      --text: #23151a;
+      --muted: #75646a;
+      --primary: #ff2f7d;
+      --primary-dark: #cf1d5f;
+      --secondary: #ffb703;
+      --green: #0fa95a;
+      --green-dark: #08783d;
+      --border: #f0dbe2;
+      --soft: #fff0f5;
+      --shadow: 0 14px 36px rgba(180, 50, 95, 0.13);
+      --shadow-strong: 0 18px 42px rgba(180, 50, 95, 0.20);
+      --radius: 22px;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      background:
+        radial-gradient(circle at top left, rgba(255, 47, 125, 0.16), transparent 34%),
+        radial-gradient(circle at top right, rgba(255, 183, 3, 0.20), transparent 30%),
+        var(--bg);
+      color: var(--text);
+    }
+
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    button,
+    input {
+      font-family: inherit;
+    }
+
+    .container {
+      width: min(1200px, calc(100% - 32px));
+      margin: 0 auto;
+    }
+
+    header {
+      padding: 18px 0;
+      position: sticky;
+      top: 0;
+      z-index: 20;
+      background: rgba(255, 247, 249, 0.88);
+      backdrop-filter: blur(14px);
+      border-bottom: 1px solid rgba(240, 219, 226, 0.8);
+    }
+
+    .nav {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      font-weight: 950;
+      font-size: 24px;
+      letter-spacing: -0.7px;
+    }
+
+    .brand-icon {
+      width: 50px;
+      height: 50px;
+      border-radius: 17px;
+      background: linear-gradient(135deg, var(--primary), var(--secondary));
+      display: grid;
+      place-items: center;
+      color: white;
+      font-size: 25px;
+      box-shadow: var(--shadow);
+    }
+
+    .nav-actions {
+      display: flex;
+      gap: 10px;
+      align-items: center;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+    }
+
+    .pill {
+      padding: 11px 15px;
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      background: rgba(255, 255, 255, 0.82);
+      color: var(--muted);
+      font-weight: 850;
+      font-size: 14px;
+      white-space: nowrap;
+    }
+
+    .hero {
+      padding: 34px 0 28px;
+    }
+
+    .hero-box {
+      background: rgba(255,255,255,0.80);
+      border: 1px solid rgba(255,255,255,0.9);
+      border-radius: 34px;
+      padding: 38px;
+      box-shadow: var(--shadow);
+      display: grid;
+      grid-template-columns: 1.25fr 0.75fr;
+      gap: 28px;
+      align-items: center;
+      backdrop-filter: blur(12px);
+    }
+
+    .eyebrow {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      background: var(--soft);
+      color: var(--primary-dark);
+      border: 1px solid #ffd0df;
+      padding: 9px 13px;
+      border-radius: 999px;
+      font-weight: 900;
+      font-size: 14px;
+      margin-bottom: 18px;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: clamp(34px, 5vw, 62px);
+      line-height: 0.97;
+      letter-spacing: -2px;
+    }
+
+    .hero-text p {
+      color: var(--muted);
+      font-size: 18px;
+      line-height: 1.62;
+      margin: 20px 0 0;
+      max-width: 720px;
+    }
+
+    .hero-buttons {
+      margin-top: 26px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+
+    .btn {
+      border: 0;
+      cursor: pointer;
+      border-radius: 999px;
+      padding: 15px 20px;
+      font-weight: 950;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 9px;
+      transition: transform .18s ease, box-shadow .18s ease, filter .18s ease;
+    }
+
+    .btn:hover {
+      transform: translateY(-2px);
+    }
+
+    .btn-primary {
+      background: linear-gradient(135deg, var(--primary), var(--primary-dark));
+      color: white;
+      box-shadow: 0 12px 25px rgba(255, 47, 125, 0.30);
+    }
+
+    .btn-secondary {
+      background: white;
+      color: var(--primary-dark);
+      border: 1px solid var(--border);
+    }
+
+    .hero-stats {
+      display: grid;
+      gap: 14px;
+    }
+
+    .stat-card {
+      background: white;
+      border: 1px solid var(--border);
+      border-radius: 24px;
+      padding: 22px;
+      box-shadow: 0 12px 28px rgba(180, 50, 95, 0.10);
+    }
+
+    .stat-number {
+      font-size: 34px;
+      font-weight: 950;
+      color: var(--primary-dark);
+      line-height: 1;
+    }
+
+    .stat-label {
+      color: var(--muted);
+      margin-top: 8px;
+      font-weight: 800;
+      line-height: 1.35;
+    }
+
+    .section-head {
+      display: flex;
+      justify-content: space-between;
+      gap: 16px;
+      align-items: flex-end;
+      margin: 28px 0 16px;
+    }
+
+    .section-head h2 {
+      margin: 0;
+      font-size: 36px;
+      letter-spacing: -1.1px;
+    }
+
+    .section-head p {
+      margin: 8px 0 0;
+      color: var(--muted);
+      line-height: 1.5;
+    }
+
+    .updated-info {
+      background: #ffffff;
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      padding: 11px 15px;
+      color: var(--muted);
+      font-weight: 850;
+      font-size: 14px;
+      white-space: nowrap;
+    }
+
+    .toolbar {
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 14px;
+      align-items: center;
+      margin: 18px 0 22px;
+    }
+
+    .search {
+      width: 100%;
+      border: 1px solid var(--border);
+      background: rgba(255,255,255,.90);
+      border-radius: 999px;
+      padding: 15px 18px;
+      font-weight: 800;
+      font-size: 15px;
+      outline: none;
+      box-shadow: 0 10px 22px rgba(180, 50, 95, 0.07);
+    }
+
+    .search:focus {
+      border-color: #ff9ec1;
+      box-shadow: 0 0 0 4px rgba(255, 47, 125, 0.10);
+    }
+
+    .filters {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      justify-content: flex-end;
+    }
+
+    .filter-btn {
+      border: 1px solid var(--border);
+      background: rgba(255,255,255,.90);
+      color: var(--muted);
+      font-weight: 950;
+      border-radius: 999px;
+      padding: 12px 16px;
+      cursor: pointer;
+      transition: .18s ease;
+      box-shadow: 0 8px 18px rgba(180, 50, 95, 0.06);
+    }
+
+    .filter-btn.active,
+    .filter-btn:hover {
+      background: var(--primary);
+      border-color: var(--primary);
+      color: white;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 20px;
+      padding-bottom: 48px;
+    }
+
+    .product-card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      overflow: hidden;
+      box-shadow: var(--shadow);
+      display: flex;
+      flex-direction: column;
+      min-height: 100%;
+      position: relative;
+      transition: transform .18s ease, box-shadow .18s ease;
+    }
+
+    .product-card:hover {
+      transform: translateY(-4px);
+      box-shadow: var(--shadow-strong);
+    }
+
+    .badge {
+      position: absolute;
+      z-index: 2;
+      top: 14px;
+      left: 14px;
+      background: linear-gradient(135deg, var(--secondary), #ff7a00);
+      color: #321b00;
+      font-weight: 950;
+      border-radius: 999px;
+      padding: 8px 11px;
+      box-shadow: 0 8px 18px rgba(255, 122, 0, .20);
+      font-size: 13px;
+    }
+
+    .marketplace {
+      position: absolute;
+      z-index: 2;
+      top: 14px;
+      right: 14px;
+      background: rgba(255,255,255,.96);
+      color: var(--primary-dark);
+      font-weight: 950;
+      border-radius: 999px;
+      padding: 8px 11px;
+      border: 1px solid var(--border);
+      font-size: 13px;
+      max-width: 145px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    .image-wrap {
+      width: 100%;
+      aspect-ratio: 1 / 0.72;
+      background:
+        linear-gradient(135deg, rgba(255,47,125,.10), rgba(255,183,3,.14)),
+        #fff0f4;
+      display: grid;
+      place-items: center;
+      overflow: hidden;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .image-wrap img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+      transition: transform .25s ease;
+    }
+
+    .product-card:hover .image-wrap img {
+      transform: scale(1.035);
+    }
+
+    .product-body {
+      padding: 17px;
+      display: flex;
+      flex-direction: column;
+      flex: 1;
+    }
+
+    .category {
+      color: var(--primary-dark);
+      font-size: 12px;
+      font-weight: 950;
+      margin-bottom: 7px;
+      text-transform: uppercase;
+      letter-spacing: .3px;
+    }
+
+    .product-title {
+      font-size: 18px;
+      line-height: 1.22;
+      margin: 0 0 10px;
+      letter-spacing: -0.35px;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      min-height: 44px;
+    }
+
+    .desc {
+      color: var(--muted);
+      font-size: 14px;
+      line-height: 1.35;
+      margin: 0 0 12px;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      min-height: 38px;
+    }
+
+    .deal-box {
+      margin-top: auto;
+      background: linear-gradient(135deg, #fff7f9, #ffffff);
+      border: 1px solid var(--border);
+      border-radius: 18px;
+      padding: 13px;
+    }
+
+    .old-price-line {
+      color: #8f7d84;
+      font-size: 13px;
+      font-weight: 800;
+      margin-bottom: 5px;
+    }
+
+    .old-price {
+      text-decoration: line-through;
+    }
+
+    .price-line {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+
+    .price-label {
+      color: var(--muted);
+      font-size: 13px;
+      font-weight: 900;
+    }
+
+    .price {
+      color: var(--green);
+      font-size: 28px;
+      font-weight: 950;
+      letter-spacing: -0.8px;
+      line-height: 1;
+    }
+
+    .meta {
+      display: flex;
+      justify-content: space-between;
+      gap: 10px;
+      color: var(--muted);
+      font-size: 13px;
+      font-weight: 850;
+      margin: 12px 0 13px;
+    }
+
+    .buy-btn {
+      width: 100%;
+      min-height: 50px;
+      background: linear-gradient(135deg, var(--green), var(--green-dark));
+      color: #ffffff;
+      text-align: center;
+      border-radius: 16px;
+      padding: 15px 16px;
+      font-weight: 950;
+      font-size: 16px;
+      box-shadow: 0 12px 24px rgba(15, 159, 85, .28);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      text-decoration: none;
+      transition: transform .18s ease, filter .18s ease;
+    }
+
+    .buy-btn:hover {
+      transform: translateY(-2px);
+      filter: brightness(1.04);
+    }
+
+    .empty {
+      background: white;
+      border: 1px dashed var(--border);
+      border-radius: 24px;
+      padding: 40px;
+      text-align: center;
+      color: var(--muted);
+      grid-column: 1 / -1;
+      line-height: 1.6;
+    }
+
+    footer {
+      border-top: 1px solid var(--border);
+      background: rgba(255,255,255,.72);
+      padding: 28px 0;
+      color: var(--muted);
+      font-size: 14px;
+      line-height: 1.6;
+    }
+
+    @media (max-width: 1020px) {
+      .hero-box {
+        grid-template-columns: 1fr;
+      }
+
+      .grid {
+        grid-template-columns: repeat(2, 1fr);
+      }
+
+      .toolbar {
+        grid-template-columns: 1fr;
+      }
+
+      .filters {
+        justify-content: flex-start;
+      }
+    }
+
+    @media (max-width: 650px) {
+      .container {
+        width: min(100% - 22px, 1200px);
+      }
+
+      .nav {
+        align-items: flex-start;
+        flex-direction: column;
+      }
+
+      .nav-actions {
+        justify-content: flex-start;
+      }
+
+      .hero-box {
+        padding: 26px;
+        border-radius: 28px;
+      }
+
+      .section-head {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+
+      .updated-info {
+        white-space: normal;
+        border-radius: 18px;
+      }
+
+      .grid {
+        grid-template-columns: 1fr;
+      }
+
+      .product-title {
+        min-height: auto;
+      }
+
+      .desc {
+        min-height: auto;
+      }
+    }
+  
+/* MARYLOUSE_SUMMARY_STYLE_START */
+
+  .active-filter-summary {
+    margin: 14px 0 0 !important;
+    padding: 12px 14px !important;
+    background: #fff7f9 !important;
+    border: 1px solid #f0dbe2 !important;
+    border-radius: 16px !important;
+    color: #75646a !important;
+    font-weight: 850 !important;
+    font-size: 14px !important;
+    line-height: 1.35 !important;
+    display: inline-flex !important;
+    align-items: center !important;
+    gap: 6px !important;
+    max-width: 100% !important;
+  }
+
+  .active-filter-summary::before {
+    content: "✨";
+  }
+
+  .active-filter-summary strong {
+    color: #cf1d5f !important;
+    font-weight: 950 !important;
+  }
+
+  @media (max-width: 650px) {
+    .active-filter-summary {
+      display: flex !important;
+      width: 100% !important;
+      border-radius: 14px !important;
+      font-size: 13px !important;
+    }
+  }
+
+/* MARYLOUSE_SUMMARY_STYLE_END */
+
+</style>
+
+<!-- MARYLOUSE_SEO_START -->
+<meta name="robots" content="index, follow, max-image-preview:large" />
+<meta name="author" content="MaryLouse Ofertas" />
+<meta name="theme-color" content="#ff2f7d" />
+<meta name="format-detection" content="telephone=no" />
+
+<link rel="canonical" href="https://SEU_USUARIO.github.io/marylouse-ofertas/" />
+<link rel="icon" type="image/svg+xml" href="./assets/favicon.svg" />
+<link rel="manifest" href="./site.webmanifest" />
+
+<meta property="og:type" content="website" />
+<meta property="og:locale" content="pt_BR" />
+<meta property="og:site_name" content="MaryLouse Ofertas" />
+<meta property="og:title" content="MaryLouse Ofertas | Promoções, Achadinhos e Descontos" />
+<meta property="og:description" content="Confira ofertas, achadinhos, cupons e promoções selecionadas automaticamente na Shopee, AliExpress e outros marketplaces." />
+<meta property="og:url" content="https://SEU_USUARIO.github.io/marylouse-ofertas/" />
+<meta property="og:image" content="https://SEU_USUARIO.github.io/marylouse-ofertas/assets/og-image.svg" />
+<meta property="og:image:alt" content="MaryLouse Ofertas - ofertas, promoções e achadinhos" />
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="MaryLouse Ofertas | Promoções, Achadinhos e Descontos" />
+<meta name="twitter:description" content="Confira ofertas, achadinhos, cupons e promoções selecionadas automaticamente na Shopee, AliExpress e outros marketplaces." />
+<meta name="twitter:image" content="https://SEU_USUARIO.github.io/marylouse-ofertas/assets/og-image.svg" />
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "MaryLouse Ofertas",
+  "url": "https://SEU_USUARIO.github.io/marylouse-ofertas/",
+  "description": "Confira ofertas, achadinhos, cupons e promoções selecionadas automaticamente na Shopee, AliExpress e outros marketplaces.",
+  "inLanguage": "pt-BR",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://SEU_USUARIO.github.io/marylouse-ofertas/?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  },
+  "sameAs": [
+    "https://t.me/dmaispromo"
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "MaryLouse Ofertas",
+  "url": "https://SEU_USUARIO.github.io/marylouse-ofertas/",
+  "logo": "https://SEU_USUARIO.github.io/marylouse-ofertas/assets/favicon.svg",
+  "sameAs": [
+    "https://t.me/dmaispromo"
+  ]
+}
+</script>
+<!-- MARYLOUSE_SEO_END -->
+
+</head>
+
+<body>
+  <header>
+    <div class="container nav">
+      <a href="#" class="brand">
+        <span class="brand-icon">🛍️</span>
+        <span>MaryLouse Ofertas</span>
+      </a>
+
+      <div class="nav-actions">
+        <a class="pill" href="#ofertas">🔥 Ofertas</a>
+        <span class="pill">💸 Descontos reais</span>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="container hero">
+      <div class="hero-box">
+        <div class="hero-text">
+          <div class="eyebrow">⚡ Ofertas atualizadas automaticamente</div>
+
+          <h1>Achadinhos e descontos para comprar melhor.</h1>
+
+          <p>
+            Uma vitrine de ofertas selecionadas na Shopee, AliExpress e outros marketplaces.
+            Produtos com desconto, links afiliados e atualizações frequentes.
+          </p>
+
+          <div class="hero-buttons">
+            <a class="btn btn-primary" href="#ofertas">Ver ofertas agora</a>
+            <a class="btn btn-secondary" href="#aviso">Como funciona?</a>
+          </div>
+        </div>
+
+        <div class="hero-stats">
+          <div class="stat-card">
+            <div class="stat-number" id="totalOffers">0</div>
+            <div class="stat-label">ofertas nas últimas 12 horas</div>
+          </div>
+
+          <div class="stat-card">
+            <div class="stat-number" id="marketplaceCount">0</div>
+            <div class="stat-label">marketplaces com ofertas</div>
+          </div>
+
+          <div class="stat-card">
+            <div class="stat-number">💖</div>
+            <div class="stat-label">curadoria focada em economia e conversão</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="container" id="ofertas">
+      <div class="section-head">
+        <div>
+          <h2>🔥 Ofertas em destaque</h2>
+          <p>Produtos e cupons encontrados pelo nosso agente de ofertas.</p>
+        </div>
+
+        <div class="updated-info" id="updatedInfo">
+          Carregando ofertas...
+        </div>
+      </div>
+
+      <div class="toolbar">
+        <input
+          class="search"
+          id="searchInput"
+          type="search"
+          placeholder="Buscar por produto, categoria ou marketplace..."
+        />
+
+        <div class="filters" id="filters">
+          <button class="filter-btn active" data-filter="todos">Todos</button>
+        </div>
+      </div>
+
+      <div class="grid" id="offersGrid">
+        <div class="empty">Carregando ofertas...</div>
+      </div>
+    </section>
+  </main>
+
+  <footer id="aviso">
+    <div class="container">
+      <strong>Aviso de afiliado:</strong>
+      alguns links deste site podem ser links de afiliado. Podemos receber uma comissão caso você compre por eles,
+      sem custo adicional para você.
+      <br />
+      Preços, cupons, estoque e disponibilidade podem mudar a qualquer momento. Sempre confira as informações no marketplace antes de finalizar a compra.
+    </div>
+  </footer>
+
+  <script>
+    const grid = document.getElementById("offersGrid");
+    const filters = document.getElementById("filters");
+    const totalOffers = document.getElementById("totalOffers");
+    const marketplaceCount = document.getElementById("marketplaceCount");
+    const updatedInfo = document.getElementById("updatedInfo");
+    const searchInput = document.getElementById("searchInput");
+
+    let allOffers = [];
+    let activeFilter = "todos";
+    let searchTerm = "";
+
+    const fallbackImage = "data:image/svg+xml;charset=UTF-8," + encodeURIComponent(
+      '<svg xmlns="http://www.w3.org/2000/svg" width="800" height="620" viewBox="0 0 800 620">' +
+      '<defs><linearGradient id="g" x1="0" x2="1" y1="0" y2="1">' +
+      '<stop stop-color="#fff0f5"/><stop offset="1" stop-color="#ffe8b8"/>' +
+      '</linearGradient></defs>' +
+      '<rect width="800" height="620" fill="url(#g)"/>' +
+      '<circle cx="400" cy="250" r="90" fill="#ff2f7d" opacity=".14"/>' +
+      '<text x="400" y="265" text-anchor="middle" font-size="76">🛍️</text>' +
+      '<text x="400" y="365" text-anchor="middle" font-family="Arial" font-size="34" font-weight="700" fill="#cf1d5f">MaryLouse Ofertas</text>' +
+      '<text x="400" y="410" text-anchor="middle" font-family="Arial" font-size="22" fill="#74646a">Oferta selecionada</text>' +
+      '</svg>'
+    );
+
+    function escapeHtml(value) {
+      return String(value ?? "")
+        .replaceAll("&", "&amp;")
+        .replaceAll("<", "&lt;")
+        .replaceAll(">", "&gt;")
+        .replaceAll('"', "&quot;")
+        .replaceAll("'", "&#039;");
+    }
+
+    function normalizeText(value) {
+      return String(value || "")
+        .normalize("NFD")
+cd C:\Users\erick\Downloads\telegram-affiliate-agent
+
+$backupName = ".\site\index.backup_clean_$(Get-Date -Format 'yyyyMMdd_HHmmss').html"
+Copy-Item .\site\index.html $backupName
+Write-Host "[backup] Backup criado em $backupName"
+
+@'
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>MaryLouse Ofertas | Promoções, Achadinhos e Descontos</title>
+
+  <meta name="description" content="Confira ofertas, achadinhos, cupons e promoções selecionadas automaticamente na Shopee, AliExpress e outros marketplaces." />
+
+  <style>
+    :root {
+      --bg: #fff7f9;
+      --card: #ffffff;
+      --text: #23151a;
+      --muted: #75646a;
+      --primary: #ff2f7d;
+      --primary-dark: #cf1d5f;
+      --secondary: #ffb703;
+      --green: #0fa95a;
+      --green-dark: #08783d;
+      --border: #f0dbe2;
+      --soft: #fff0f5;
+      --shadow: 0 14px 36px rgba(180, 50, 95, 0.13);
+      --shadow-strong: 0 18px 42px rgba(180, 50, 95, 0.20);
+      --radius: 22px;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      background:
+        radial-gradient(circle at top left, rgba(255, 47, 125, 0.16), transparent 34%),
+        radial-gradient(circle at top right, rgba(255, 183, 3, 0.20), transparent 30%),
+        var(--bg);
+      color: var(--text);
+    }
+
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    button,
+    input {
+      font-family: inherit;
+    }
+
+    .container {
+      width: min(1200px, calc(100% - 32px));
+      margin: 0 auto;
+    }
+
+    header {
+      padding: 18px 0;
+      position: sticky;
+      top: 0;
+      z-index: 20;
+      background: rgba(255, 247, 249, 0.88);
+      backdrop-filter: blur(14px);
+      border-bottom: 1px solid rgba(240, 219, 226, 0.8);
+    }
+
+    .nav {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      font-weight: 950;
+      font-size: 24px;
+      letter-spacing: -0.7px;
+    }
+
+    .brand-icon {
+      width: 50px;
+      height: 50px;
+      border-radius: 17px;
+      background: linear-gradient(135deg, var(--primary), var(--secondary));
+      display: grid;
+      place-items: center;
+      color: white;
+      font-size: 25px;
+      box-shadow: var(--shadow);
+    }
+
+    .nav-actions {
+      display: flex;
+      gap: 10px;
+      align-items: center;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+    }
+
+    .pill {
+      padding: 11px 15px;
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      background: rgba(255, 255, 255, 0.82);
+      color: var(--muted);
+      font-weight: 850;
+      font-size: 14px;
+      white-space: nowrap;
+    }
+
+    .hero {
+      padding: 34px 0 28px;
+    }
+
+    .hero-box {
+      background: rgba(255,255,255,0.80);
+      border: 1px solid rgba(255,255,255,0.9);
+      border-radius: 34px;
+      padding: 38px;
+      box-shadow: var(--shadow);
+      display: grid;
+      grid-template-columns: 1.25fr 0.75fr;
+      gap: 28px;
+      align-items: center;
+      backdrop-filter: blur(12px);
+    }
+
+    .eyebrow {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      background: var(--soft);
+      color: var(--primary-dark);
+      border: 1px solid #ffd0df;
+      padding: 9px 13px;
+      border-radius: 999px;
+      font-weight: 900;
+      font-size: 14px;
+      margin-bottom: 18px;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: clamp(34px, 5vw, 62px);
+      line-height: 0.97;
+      letter-spacing: -2px;
+    }
+
+    .hero-text p {
+      color: var(--muted);
+      font-size: 18px;
+      line-height: 1.62;
+      margin: 20px 0 0;
+      max-width: 720px;
+    }
+
+    .hero-buttons {
+      margin-top: 26px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+
+    .btn {
+      border: 0;
+      cursor: pointer;
+      border-radius: 999px;
+      padding: 15px 20px;
+      font-weight: 950;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 9px;
+      transition: transform .18s ease, box-shadow .18s ease, filter .18s ease;
+    }
+
+    .btn:hover {
+      transform: translateY(-2px);
+    }
+
+    .btn-primary {
+      background: linear-gradient(135deg, var(--primary), var(--primary-dark));
+      color: white;
+      box-shadow: 0 12px 25px rgba(255, 47, 125, 0.30);
+    }
+
+    .btn-secondary {
+      background: white;
+      color: var(--primary-dark);
+      border: 1px solid var(--border);
+    }
+
+    .hero-stats {
+      display: grid;
+      gap: 14px;
+    }
+
+    .stat-card {
+      background: white;
+      border: 1px solid var(--border);
+      border-radius: 24px;
+      padding: 22px;
+      box-shadow: 0 12px 28px rgba(180, 50, 95, 0.10);
+    }
+
+    .stat-number {
+      font-size: 34px;
+      font-weight: 950;
+      color: var(--primary-dark);
+      line-height: 1;
+    }
+
+    .stat-label {
+      color: var(--muted);
+      margin-top: 8px;
+      font-weight: 800;
+      line-height: 1.35;
+    }
+
+    .section-head {
+      display: flex;
+      justify-content: space-between;
+      gap: 16px;
+      align-items: flex-end;
+      margin: 28px 0 16px;
+    }
+
+    .section-head h2 {
+      margin: 0;
+      font-size: 36px;
+      letter-spacing: -1.1px;
+    }
+
+    .section-head p {
+      margin: 8px 0 0;
+      color: var(--muted);
+      line-height: 1.5;
+    }
+
+    .updated-info {
+      background: #ffffff;
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      padding: 11px 15px;
+      color: var(--muted);
+      font-weight: 850;
+      font-size: 14px;
+      white-space: nowrap;
+    }
+
+    .toolbar {
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 14px;
+      align-items: center;
+      margin: 18px 0 22px;
+    }
+
+    .search {
+      width: 100%;
+      border: 1px solid var(--border);
+      background: rgba(255,255,255,.90);
+      border-radius: 999px;
+      padding: 15px 18px;
+      font-weight: 800;
+      font-size: 15px;
+      outline: none;
+      box-shadow: 0 10px 22px rgba(180, 50, 95, 0.07);
+    }
+
+    .search:focus {
+      border-color: #ff9ec1;
+      box-shadow: 0 0 0 4px rgba(255, 47, 125, 0.10);
+    }
+
+    .filters {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      justify-content: flex-end;
+    }
+
+    .filter-btn {
+      border: 1px solid var(--border);
+      background: rgba(255,255,255,.90);
+      color: var(--muted);
+      font-weight: 950;
+      border-radius: 999px;
+      padding: 12px 16px;
+      cursor: pointer;
+      transition: .18s ease;
+      box-shadow: 0 8px 18px rgba(180, 50, 95, 0.06);
+    }
+
+    .filter-btn.active,
+    .filter-btn:hover {
+      background: var(--primary);
+      border-color: var(--primary);
+      color: white;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 20px;
+      padding-bottom: 48px;
+    }
+
+    .product-card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      overflow: hidden;
+      box-shadow: var(--shadow);
+      display: flex;
+      flex-direction: column;
+      min-height: 100%;
+      position: relative;
+      transition: transform .18s ease, box-shadow .18s ease;
+    }
+
+    .product-card:hover {
+      transform: translateY(-4px);
+      box-shadow: var(--shadow-strong);
+    }
+
+    .badge {
+      position: absolute;
+      z-index: 2;
+      top: 14px;
+      left: 14px;
+      background: linear-gradient(135deg, var(--secondary), #ff7a00);
+      color: #321b00;
+      font-weight: 950;
+      border-radius: 999px;
+      padding: 8px 11px;
+      box-shadow: 0 8px 18px rgba(255, 122, 0, .20);
+      font-size: 13px;
+    }
+
+    .marketplace {
+      position: absolute;
+      z-index: 2;
+      top: 14px;
+      right: 14px;
+      background: rgba(255,255,255,.96);
+      color: var(--primary-dark);
+      font-weight: 950;
+      border-radius: 999px;
+      padding: 8px 11px;
+      border: 1px solid var(--border);
+      font-size: 13px;
+      max-width: 145px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    .image-wrap {
+      width: 100%;
+      aspect-ratio: 1 / 0.72;
+      background:
+        linear-gradient(135deg, rgba(255,47,125,.10), rgba(255,183,3,.14)),
+        #fff0f4;
+      display: grid;
+      place-items: center;
+      overflow: hidden;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .image-wrap img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+      transition: transform .25s ease;
+    }
+
+    .product-card:hover .image-wrap img {
+      transform: scale(1.035);
+    }
+
+    .product-body {
+      padding: 17px;
+      display: flex;
+      flex-direction: column;
+      flex: 1;
+    }
+
+    .category {
+      color: var(--primary-dark);
+      font-size: 12px;
+      font-weight: 950;
+      margin-bottom: 7px;
+      text-transform: uppercase;
+      letter-spacing: .3px;
+    }
+
+    .product-title {
+      font-size: 18px;
+      line-height: 1.22;
+      margin: 0 0 10px;
+      letter-spacing: -0.35px;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      min-height: 44px;
+    }
+
+    .desc {
+      color: var(--muted);
+      font-size: 14px;
+      line-height: 1.35;
+      margin: 0 0 12px;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      min-height: 38px;
+    }
+
+    .deal-box {
+      margin-top: auto;
+      background: linear-gradient(135deg, #fff7f9, #ffffff);
+      border: 1px solid var(--border);
+      border-radius: 18px;
+      padding: 13px;
+    }
+
+    .old-price-line {
+      color: #8f7d84;
+      font-size: 13px;
+      font-weight: 800;
+      margin-bottom: 5px;
+    }
+
+    .old-price {
+      text-decoration: line-through;
+    }
+
+    .price-line {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+
+    .price-label {
+      color: var(--muted);
+      font-size: 13px;
+      font-weight: 900;
+    }
+
+    .price {
+      color: var(--green);
+      font-size: 28px;
+      font-weight: 950;
+      letter-spacing: -0.8px;
+      line-height: 1;
+    }
+
+    .meta {
+      display: flex;
+      justify-content: space-between;
+      gap: 10px;
+      color: var(--muted);
+      font-size: 13px;
+      font-weight: 850;
+      margin: 12px 0 13px;
+    }
+
+    .buy-btn {
+      width: 100%;
+      min-height: 50px;
+      background: linear-gradient(135deg, var(--green), var(--green-dark));
+      color: #ffffff;
+      text-align: center;
+      border-radius: 16px;
+      padding: 15px 16px;
+      font-weight: 950;
+      font-size: 16px;
+      box-shadow: 0 12px 24px rgba(15, 159, 85, .28);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      text-decoration: none;
+      transition: transform .18s ease, filter .18s ease;
+    }
+
+    .buy-btn:hover {
+      transform: translateY(-2px);
+      filter: brightness(1.04);
+    }
+
+    .empty {
+      background: white;
+      border: 1px dashed var(--border);
+      border-radius: 24px;
+      padding: 40px;
+      text-align: center;
+      color: var(--muted);
+      grid-column: 1 / -1;
+      line-height: 1.6;
+    }
+
+    footer {
+      border-top: 1px solid var(--border);
+      background: rgba(255,255,255,.72);
+      padding: 28px 0;
+      color: var(--muted);
+      font-size: 14px;
+      line-height: 1.6;
+    }
+
+    @media (max-width: 1020px) {
+      .hero-box {
+        grid-template-columns: 1fr;
+      }
+
+      .grid {
+        grid-template-columns: repeat(2, 1fr);
+      }
+
+      .toolbar {
+        grid-template-columns: 1fr;
+      }
+
+      .filters {
+        justify-content: flex-start;
+      }
+    }
+
+    @media (max-width: 650px) {
+      .container {
+        width: min(100% - 22px, 1200px);
+      }
+
+      .nav {
+        align-items: flex-start;
+        flex-direction: column;
+      }
+
+      .nav-actions {
+        justify-content: flex-start;
+      }
+
+      .hero-box {
+        padding: 26px;
+        border-radius: 28px;
+      }
+
+      .section-head {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+
+      .updated-info {
+        white-space: normal;
+        border-radius: 18px;
+      }
+
+      .grid {
+        grid-template-columns: 1fr;
+      }
+
+      .product-title {
+        min-height: auto;
+      }
+
+      .desc {
+        min-height: auto;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <div class="container nav">
+      <a href="#" class="brand">
+        <span class="brand-icon">🛍️</span>
+        <span>MaryLouse Ofertas</span>
+      </a>
+
+      <div class="nav-actions">
+        <a class="pill" href="#ofertas">🔥 Ofertas</a>
+        <span class="pill">💸 Descontos reais</span>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="container hero">
+      <div class="hero-box">
+        <div class="hero-text">
+          <div class="eyebrow">⚡ Ofertas atualizadas automaticamente</div>
+
+          <h1>Achadinhos e descontos para comprar melhor.</h1>
+
+          <p>
+            Uma vitrine de ofertas selecionadas na Shopee, AliExpress e outros marketplaces.
+            Produtos com desconto, links afiliados e atualizações frequentes.
+          </p>
+
+          <div class="hero-buttons">
+            <a class="btn btn-primary" href="#ofertas">Ver ofertas agora</a>
+            <a class="btn btn-secondary" href="#aviso">Como funciona?</a>
+          </div>
+        </div>
+
+        <div class="hero-stats">
+          <div class="stat-card">
+            <div class="stat-number" id="totalOffers">0</div>
+            <div class="stat-label">ofertas nas últimas 12 horas</div>
+          </div>
+
+          <div class="stat-card">
+            <div class="stat-number" id="marketplaceCount">0</div>
+            <div class="stat-label">marketplaces com ofertas</div>
+          </div>
+
+          <div class="stat-card">
+            <div class="stat-number">💖</div>
+            <div class="stat-label">curadoria focada em economia e conversão</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="container" id="ofertas">
+      <div class="section-head">
+        <div>
+          <h2>🔥 Ofertas em destaque</h2>
+          <p>Produtos e cupons encontrados pelo nosso agente de ofertas.</p>
+        </div>
+
+        <div class="updated-info" id="updatedInfo">
+          Carregando ofertas...
+        </div>
+      </div>
+
+      <div class="toolbar">
+        <input
+          class="search"
+          id="searchInput"
+          type="search"
+          placeholder="Buscar por produto, categoria ou marketplace..."
+        />
+
+        <div class="filters" id="filters">
+          <button class="filter-btn active" data-filter="todos">Todos</button>
+        </div>
+      </div>
+
+      <div class="grid" id="offersGrid">
+        <div class="empty">Carregando ofertas...</div>
+      </div>
+    </section>
+  </main>
+
+  <footer id="aviso">
+    <div class="container">
+      <strong>Aviso de afiliado:</strong>
+      alguns links deste site podem ser links de afiliado. Podemos receber uma comissão caso você compre por eles,
+      sem custo adicional para você.
+      <br />
+      Preços, cupons, estoque e disponibilidade podem mudar a qualquer momento. Sempre confira as informações no marketplace antes de finalizar a compra.
+    </div>
+  </footer>
+
+  <script>
+    const grid = document.getElementById("offersGrid");
+    const filters = document.getElementById("filters");
+    const totalOffers = document.getElementById("totalOffers");
+    const marketplaceCount = document.getElementById("marketplaceCount");
+    const updatedInfo = document.getElementById("updatedInfo");
+    const searchInput = document.getElementById("searchInput");
+
+    let allOffers = [];
+    let activeFilter = "todos";
+    let searchTerm = "";
+
+    const fallbackImage = "data:image/svg+xml;charset=UTF-8," + encodeURIComponent(
+      '<svg xmlns="http://www.w3.org/2000/svg" width="800" height="620" viewBox="0 0 800 620">' +
+      '<defs><linearGradient id="g" x1="0" x2="1" y1="0" y2="1">' +
+      '<stop stop-color="#fff0f5"/><stop offset="1" stop-color="#ffe8b8"/>' +
+      '</linearGradient></defs>' +
+      '<rect width="800" height="620" fill="url(#g)"/>' +
+      '<circle cx="400" cy="250" r="90" fill="#ff2f7d" opacity=".14"/>' +
+      '<text x="400" y="265" text-anchor="middle" font-size="76">🛍️</text>' +
+      '<text x="400" y="365" text-anchor="middle" font-family="Arial" font-size="34" font-weight="700" fill="#cf1d5f">MaryLouse Ofertas</text>' +
+      '<text x="400" y="410" text-anchor="middle" font-family="Arial" font-size="22" fill="#74646a">Oferta selecionada</text>' +
+      '</svg>'
+    );
+
+    function escapeHtml(value) {
+      return String(value ?? "")
+        .replaceAll("&", "&amp;")
+        .replaceAll("<", "&lt;")
+        .replaceAll(">", "&gt;")
+        .replaceAll('"', "&quot;")
+        .replaceAll("'", "&#039;");
+    }
+
+    function normalizeText(value) {
+      return String(value || "")
+        .normalize("NFD")
+        .replace(/[\u0300-\u036f]/g, "")
+        .toLowerCase()
+        .trim();
+    }
+
+    function normalizeMarketplace(value) {
+      const raw = String(value || "Oferta").trim();
+      const key = raw.toLowerCase().replace(/[\s_-]/g, "");
+
+      const labels = {
+        aliexpress: "AliExpress",
+        shopee: "Shopee",
+        amazon: "Amazon",
+        mercadolivre: "Mercado Livre",
+        ml: "Mercado Livre"
+      };
+
+      return labels[key] || raw;
+    }
+
+    function productImage(src) {
+      if (!src) return fallbackImage;
+      return src;
+    }
+
+    function getCreatedTs(offer) {
+      if (offer.created_ts) {
+        const ts = Number(offer.created_ts);
+        if (!Number.isNaN(ts)) return ts;
+      }
+
+      if (offer.created_at_iso) {
+        const d = new Date(offer.created_at_iso);
+        if (!Number.isNaN(d.getTime())) return Math.floor(d.getTime() / 1000);
+      }
+
+      return 0;
+    }
+
+    function timeAgo(offer) {
+      const ts = getCreatedTs(offer);
+
+      if (!ts) {
+        return offer.created_at || "";
+      }
+
+      const now = Math.floor(Date.now() / 1000);
+      const diff = Math.max(0, now - ts);
+
+      if (diff < 60) return "agora";
+      if (diff < 3600) return "há " + Math.floor(diff / 60) + " min";
+      if (diff < 86400) return "há " + Math.floor(diff / 3600) + " h";
+
+      return offer.created_at || "";
+    }
+
+    function renderFilters(offers) {
+      const marketplaces = [...new Set(offers.map(o => normalizeMarketplace(o.marketplace)))].filter(Boolean);
+
+      filters.innerHTML = '<button class="filter-btn active" data-filter="todos">Todos</button>';
+
+      marketplaces.forEach(mp => {
+        const btn = document.createElement("button");
+        btn.className = "filter-btn";
+        btn.dataset.filter = mp;
+        btn.textContent = mp;
+        filters.appendChild(btn);
+      });
+
+      filters.querySelectorAll(".filter-btn").forEach(btn => {
+        btn.addEventListener("click", () => {
+          filters.querySelectorAll(".filter-btn").forEach(b => b.classList.remove("active"));
+          btn.classList.add("active");
+          activeFilter = btn.dataset.filter;
+          renderOffers();
+        });
+      });
+    }
+
+    function getFilteredOffers() {
+      return allOffers.filter(offer => {
+        const marketplace = normalizeMarketplace(offer.marketplace);
+
+        if (activeFilter !== "todos" && marketplace !== activeFilter) {
+          return false;
+        }
+
+        if (searchTerm) {
+          const haystack = normalizeText([
+            offer.title,
+            offer.description,
+            offer.marketplace,
+            offer.category
+          ].join(" "));
+
+          if (!haystack.includes(searchTerm)) {
+            return false;
+          }
+        }
+
+        return true;
+      });
+    }
+
+    function renderStats() {
+      totalOffers.textContent = allOffers.length;
+
+      const marketplaces = new Set(allOffers.map(o => normalizeMarketplace(o.marketplace)).filter(Boolean));
+      marketplaceCount.textContent = marketplaces.size;
+
+      if (!allOffers.length) {
+        updatedInfo.textContent = "Nenhuma oferta disponível no momento";
+        return;
+      }
+
+      const newest = [...allOffers].sort((a, b) => getCreatedTs(b) - getCreatedTs(a))[0];
+      updatedInfo.textContent = "Última atualização: " + timeAgo(newest);
+    }
+
+    function renderOffers() {
+      renderStats();
+
+      const offers = getFilteredOffers();
+
+      if (!offers.length) {
+        grid.innerHTML =
+          '<div class="empty">' +
+          'Nenhuma oferta encontrada para este filtro.<br />' +
+          'Tente buscar outro termo ou selecione "Todos".' +
+          '</div>';
+        return;
+      }
+
+      grid.innerHTML = offers.map(offer => {
+        const title = escapeHtml(offer.title || "Oferta encontrada");
+        const description = escapeHtml(offer.description || "Confira essa oferta selecionada para você.");
+        const marketplace = escapeHtml(normalizeMarketplace(offer.marketplace));
+        const category = escapeHtml(offer.category || "Oferta");
+        const oldPrice = escapeHtml(offer.old_price || "");
+        const price = escapeHtml(offer.price || "");
+        const discount = offer.discount_percent ? escapeHtml(Number(offer.discount_percent).toFixed(0)) + "% OFF" : "Oferta";
+        const rating = offer.rating ? "⭐ " + escapeHtml(offer.rating) + "/5" : "⭐ Oferta";
+        const created = escapeHtml(timeAgo(offer));
+        const url = escapeHtml(offer.affiliate_url || "#");
+        const image = escapeHtml(productImage(offer.image));
+
+        const oldPriceBlock = oldPrice
+          ? '<div class="old-price-line">De: <span class="old-price">' + oldPrice + '</span></div>'
+          : '<div class="old-price-line">Oferta por tempo limitado</div>';
+
+        const priceBlock = price
+          ? '<div class="price-line"><span class="price-label">Por apenas</span><span class="price">' + price + '</span></div>'
+          : '<div class="price-line"><span class="price-label">Preço especial no marketplace</span></div>';
+
+        return (
+          '<article class="product-card">' +
+            '<div class="badge">' + discount + '</div>' +
+            '<div class="marketplace">' + marketplace + '</div>' +
+
+            '<a class="image-wrap" href="' + url + '" target="_blank" rel="nofollow sponsored noopener">' +
+              '<img src="' + image + '" alt="' + title + '" loading="lazy" onerror="this.onerror=null;this.src=\'' + fallbackImage + '\'" />' +
+            '</a>' +
+
+            '<div class="product-body">' +
+              '<div class="category">' + category + '</div>' +
+              '<h3 class="product-title">' + title + '</h3>' +
+              '<p class="desc">' + description + '</p>' +
+
+              '<div class="deal-box">' +
+                oldPriceBlock +
+                priceBlock +
+              '</div>' +
+
+              '<div class="meta">' +
+                '<span>' + rating + '</span>' +
+                '<span>🕒 ' + created + '</span>' +
+              '</div>' +
+
+              '<a class="buy-btn" href="' + url + '" target="_blank" rel="nofollow sponsored noopener">' +
+                '🛒 Comprar agora' +
+              '</a>' +
+            '</div>' +
+          '</article>'
+        );
+      }).join("");
+    }
+
+    async function loadOffers() {
+      try {
+        const response = await fetch("./data/offers.json?cache=" + Date.now());
+
+        if (!response.ok) {
+          throw new Error("Não foi possível carregar offers.json. Status: " + response.status);
+        }
+
+        const data = await response.json();
+
+        allOffers = Array.isArray(data) ? data : [];
+
+        allOffers = allOffers
+          .filter(offer => offer && typeof offer === "object")
+          .sort((a, b) => getCreatedTs(b) - getCreatedTs(a));
+
+        renderFilters(allOffers);
+        renderOffers();
+      } catch (error) {
+        console.error(error);
+
+        grid.innerHTML =
+          '<div class="empty">' +
+          'Não foi possível carregar as ofertas.<br />' +
+          'Abra <strong>http://localhost:8000/data/offers.json</strong> e verifique se o arquivo aparece.' +
+          '</div>';
+
+        updatedInfo.textContent = "Erro ao carregar ofertas";
+      }
+    }
+
+    searchInput.addEventListener("input", () => {
+      searchTerm = normalizeText(searchInput.value);
+      renderOffers();
+    });
+
+    loadOffers();
+  </script>
+
+
+
+
+<!-- MARYLOUSE_CATEGORY_RENDER_START -->
+<style>
+  .category-filter-box {
+    margin: -6px 0 24px;
+    background: rgba(255, 255, 255, 0.72);
+    border: 1px solid #f0dbe2;
+    border-radius: 22px;
+    padding: 14px;
+    box-shadow: 0 10px 22px rgba(180, 50, 95, 0.07);
+  }
+
+  .category-filter-title {
+    font-weight: 950;
+    color: #cf1d5f;
+    font-size: 14px;
+    margin: 0 0 10px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .category-filter-title::before {
+    content: "🏷️";
+  }
+
+  .category-filters {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+
+  .category-btn {
+    border: 1px solid #f0dbe2;
+    background: rgba(255, 255, 255, 0.92);
+    color: #75646a;
+    font-weight: 900;
+    border-radius: 999px;
+    padding: 10px 14px;
+    cursor: pointer;
+    transition: .18s ease;
+    box-shadow: 0 8px 18px rgba(180, 50, 95, 0.05);
+  }
+
+  .category-btn.active,
+  .category-btn:hover {
+    background: #ff2f7d;
+    border-color: #ff2f7d;
+    color: white;
+  }
+
+  .filter-btn .count,
+  .category-btn .count {
+    opacity: .72;
+    font-weight: 850;
+    margin-left: 4px;
+  }
+
+  .active-filter-summary {
+    margin: -10px 0 18px;
+    color: #75646a;
+    font-weight: 800;
+    font-size: 14px;
+  }
+
+  .active-filter-summary strong {
+    color: #cf1d5f;
+  }
+
+  .product-title {
+    display: -webkit-box !important;
+    -webkit-line-clamp: 2 !important;
+    line-clamp: 2 !important;
+    -webkit-box-orient: vertical !important;
+    overflow: hidden !important;
+    min-height: auto !important;
+    max-height: 46px !important;
+  }
+
+  .desc {
+    display: -webkit-box !important;
+    -webkit-line-clamp: 2 !important;
+    line-clamp: 2 !important;
+    -webkit-box-orient: vertical !important;
+    overflow: hidden !important;
+    min-height: auto !important;
+    max-height: 40px !important;
+  }
+
+  .buy-btn {
+    width: 100% !important;
+    min-height: 52px !important;
+    background: linear-gradient(135deg, #10a85a, #08783d) !important;
+    color: #ffffff !important;
+    text-align: center !important;
+    border-radius: 16px !important;
+    padding: 15px 16px !important;
+    font-weight: 950 !important;
+    font-size: 16px !important;
+    box-shadow: 0 12px 24px rgba(15, 159, 85, .28) !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    gap: 8px !important;
+    text-decoration: none !important;
+  }
+
+  @media (max-width: 650px) {
+    .category-filter-box {
+      border-radius: 18px;
+      padding: 12px;
+    }
+
+    .category-btn {
+      padding: 10px 12px;
+      font-size: 14px;
+    }
+  }
+</style>
+
+<script>
+(function () {
+  var allOffers = [];
+  var activeMarketplace = "todos";
+  var activeCategory = "todos";
+  var searchTerm = "";
+
+  function byId(id) {
+    return document.getElementById(id);
+  }
+
+  function escapeHtml(value) {
+    return String(value == null ? "" : value)
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;")
+      .replace(/"/g, "&quot;")
+      .replace(/'/g, "&#039;");
+  }
+
+  function normalizeText(value) {
+    return String(value || "")
+      .normalize("NFD")
+      .replace(/[\u0300-\u036f]/g, "")
+      .toLowerCase()
+      .trim();
+  }
+
+  function marketplaceLabel(value) {
+    var raw = String(value || "Oferta").trim();
+    var key = raw.toLowerCase().replace(/[\s_-]/g, "");
+
+    if (key === "aliexpress") return "AliExpress";
+    if (key === "shopee") return "Shopee";
+    if (key === "amazon") return "Amazon";
+    if (key === "mercadolivre" || key === "ml") return "Mercado Livre";
+
+    return raw || "Oferta";
+  }
+
+  function categoryLabel(offer) {
+    var raw = "";
+
+    if (offer) {
+      if (offer.niche && offer.niche.name) {
+        raw = offer.niche.name;
+      } else {
+        raw = offer.category || "";
+      }
+    }
+
+    raw = String(raw || "").trim();
+
+    if (!raw) return "Outros";
+
+    var key = normalizeText(raw);
+
+    if (
+      key === "oferta" ||
+      key === "ofertas" ||
+      key === "produto" ||
+      key === "produtos" ||
+      key === "sem categoria"
+    ) {
+      return "Outros";
+    }
+
+    return raw;
+  }
+
+  function createdTs(offer) {
+    if (offer && offer.created_ts) {
+      var ts = Number(offer.created_ts);
+      if (!isNaN(ts)) return ts;
+    }
+
+    if (offer && offer.created_at_iso) {
+      var d = new Date(offer.created_at_iso);
+      if (!isNaN(d.getTime())) return Math.floor(d.getTime() / 1000);
+    }
+
+    return 0;
+  }
+
+  function timeAgo(offer) {
+    var ts = createdTs(offer);
+
+    if (!ts) {
+      return offer.created_at || "";
+    }
+
+    var now = Math.floor(Date.now() / 1000);
+    var diff = Math.max(0, now - ts);
+
+    if (diff < 60) return "agora";
+    if (diff < 3600) return "há " + Math.floor(diff / 60) + " min";
+    if (diff < 86400) return "há " + Math.floor(diff / 3600) + " h";
+
+    return offer.created_at || "";
+  }
+
+  function ensureCategoryUI() {
+    if (byId("categoryFilters")) return;
+
+    var toolbar = document.querySelector(".toolbar");
+
+    if (!toolbar || !toolbar.parentNode) return;
+
+    var box = document.createElement("div");
+    box.className = "category-filter-box";
+    box.innerHTML =
+      '<div class="category-filter-title">Filtrar por categoria/nicho</div>' +
+      '<div class="category-filters" id="categoryFilters">' +
+        '<button class="category-btn active" data-category="todos">Todos os nichos</button>' +
+      '</div>' +
+      '<div class="active-filter-summary" id="activeFilterSummary"></div>';
+
+    toolbar.parentNode.insertBefore(box, toolbar.nextSibling);
+  }
+
+  function countBy(items, labelFn) {
+    var counts = {};
+
+    items.forEach(function (item) {
+      var label = labelFn(item);
+      counts[label] = (counts[label] || 0) + 1;
+    });
+
+    return counts;
+  }
+
+  function renderMarketplaceFilters() {
+    var filters = byId("filters");
+    if (!filters) return;
+
+    var counts = countBy(allOffers, function (offer) {
+      return marketplaceLabel(offer.marketplace);
+    });
+
+    var total = allOffers.length;
+
+    var html =
+      '<button class="filter-btn active" data-filter="todos">' +
+        'Todos <span class="count">(' + total + ')</span>' +
+      '</button>';
+
+    Object.keys(counts).sort().forEach(function (mp) {
+      html +=
+        '<button class="filter-btn" data-filter="' + escapeHtml(mp) + '">' +
+          escapeHtml(mp) + ' <span class="count">(' + counts[mp] + ')</span>' +
+        '</button>';
+    });
+
+    filters.innerHTML = html;
+
+    Array.prototype.forEach.call(filters.querySelectorAll(".filter-btn"), function (btn) {
+      btn.addEventListener("click", function () {
+        Array.prototype.forEach.call(filters.querySelectorAll(".filter-btn"), function (b) {
+          b.classList.remove("active");
+        });
+
+        btn.classList.add("active");
+        activeMarketplace = btn.getAttribute("data-filter") || "todos";
+        renderOffers();
+      });
+    });
+  }
+
+  function renderCategoryFilters() {
+    ensureCategoryUI();
+
+    var categoryFilters = byId("categoryFilters");
+    if (!categoryFilters) return;
+
+    var baseOffers = allOffers.filter(function (offer) {
+      var mp = marketplaceLabel(offer.marketplace);
+      return activeMarketplace === "todos" || mp === activeMarketplace;
+    });
+
+    var counts = countBy(baseOffers, categoryLabel);
+    var total = baseOffers.length;
+
+    var html =
+      '<button class="category-btn active" data-category="todos">' +
+        'Todos os nichos <span class="count">(' + total + ')</span>' +
+      '</button>';
+
+    Object.keys(counts).sort(function (a, b) {
+      if (a === "Outros") return 1;
+      if (b === "Outros") return -1;
+      return a.localeCompare(b);
+    }).forEach(function (cat) {
+      html +=
+        '<button class="category-btn" data-category="' + escapeHtml(cat) + '">' +
+          escapeHtml(cat) + ' <span class="count">(' + counts[cat] + ')</span>' +
+        '</button>';
+    });
+
+    categoryFilters.innerHTML = html;
+
+    Array.prototype.forEach.call(categoryFilters.querySelectorAll(".category-btn"), function (btn) {
+      if ((btn.getAttribute("data-category") || "todos") === activeCategory) {
+        btn.classList.add("active");
+      } else {
+        btn.classList.remove("active");
+      }
+
+      btn.addEventListener("click", function () {
+        Array.prototype.forEach.call(categoryFilters.querySelectorAll(".category-btn"), function (b) {
+          b.classList.remove("active");
+        });
+
+        btn.classList.add("active");
+        activeCategory = btn.getAttribute("data-category") || "todos";
+        renderOffers();
+      });
+    });
+  }
+
+  function filteredOffers() {
+    return allOffers.filter(function (offer) {
+      var mp = marketplaceLabel(offer.marketplace);
+      var cat = categoryLabel(offer);
+
+      if (activeMarketplace !== "todos" && mp !== activeMarketplace) {
+        return false;
+      }
+
+      if (activeCategory !== "todos" && cat !== activeCategory) {
+        return false;
+      }
+
+      if (searchTerm) {
+        var haystack = normalizeText([
+          offer.title,
+          offer.raw_title,
+          offer.description,
+          offer.marketplace,
+          offer.category,
+          cat
+        ].join(" "));
+
+        if (haystack.indexOf(searchTerm) === -1) {
+          return false;
+        }
+      }
+
+      return true;
+    });
+  }
+
+  function renderStats() {
+    var totalOffers = byId("totalOffers");
+    var marketplaceCount = byId("marketplaceCount");
+    var updatedInfo = byId("updatedInfo");
+
+    if (totalOffers) {
+      totalOffers.textContent = allOffers.length;
+    }
+
+    if (marketplaceCount) {
+      var map = {};
+      allOffers.forEach(function (offer) {
+        map[marketplaceLabel(offer.marketplace)] = true;
+      });
+
+      marketplaceCount.textContent = Object.keys(map).length;
+    }
+
+    if (updatedInfo) {
+      if (!allOffers.length) {
+        updatedInfo.textContent = "Nenhuma oferta disponível";
+      } else {
+        var newest = allOffers.slice().sort(function (a, b) {
+          return createdTs(b) - createdTs(a);
+        })[0];
+
+        updatedInfo.textContent = "Última atualização: " + timeAgo(newest);
+      }
+    }
+  }
+
+  function renderSummary(offers) {
+    var summary = byId("activeFilterSummary");
+    if (!summary) return;
+
+    var parts = [];
+
+    if (activeMarketplace !== "todos") {
+      parts.push("Marketplace: <strong>" + escapeHtml(activeMarketplace) + "</strong>");
+    }
+
+    if (activeCategory !== "todos") {
+      parts.push("Categoria: <strong>" + escapeHtml(activeCategory) + "</strong>");
+    }
+
+    if (searchTerm) {
+      parts.push("Busca ativa");
+    }
+
+    if (!parts.length) {
+      
+      var palavraOferta = offers.length === 1 ? "oferta recente" : "ofertas recentes";
+      summary.innerHTML = "Exibindo <strong>" + offers.length + "</strong> " + palavraOferta + " nas últimas 12 horas.";
+    } else {
+      
+      var palavraEncontrada = offers.length === 1 ? "oferta encontrada" : "ofertas encontradas";
+      summary.innerHTML = parts.join(" • ") + " — <strong>" + offers.length + "</strong> " + palavraEncontrada + ".";
+    }
+  }
+
+  function renderOffers() {
+    var grid = byId("offersGrid");
+    if (!grid) return;
+
+    renderStats();
+    renderCategoryFilters();
+
+    var offers = filteredOffers();
+
+    renderSummary(offers);
+
+    if (!offers.length) {
+      grid.innerHTML =
+        '<div class="empty">' +
+        'Nenhuma oferta encontrada para este filtro.<br>' +
+        'Tente outro nicho, marketplace ou termo de busca.' +
+        '</div>';
+      return;
+    }
+
+    grid.innerHTML = offers.map(function (offer) {
+      var title = escapeHtml(offer.title || "Oferta encontrada");
+      var description = escapeHtml(offer.description || "Confira essa oferta selecionada para você.");
+      var marketplace = escapeHtml(marketplaceLabel(offer.marketplace));
+      var category = escapeHtml(categoryLabel(offer));
+      var oldPrice = escapeHtml(offer.old_price || "");
+      var price = escapeHtml(offer.price || "");
+      var discount = offer.discount_percent ? escapeHtml(Number(offer.discount_percent).toFixed(0)) + "% OFF" : "Oferta";
+      var rating = offer.rating ? "⭐ " + escapeHtml(offer.rating) + "/5" : "⭐ Oferta";
+      var created = escapeHtml(timeAgo(offer));
+      var url = escapeHtml(offer.affiliate_url || "#");
+      var image = escapeHtml(offer.image || "");
+
+      var oldPriceBlock = oldPrice
+        ? '<div class="old-price-line">De: <span class="old-price">' + oldPrice + '</span></div>'
+        : '<div class="old-price-line">Oferta por tempo limitado</div>';
+
+      var priceBlock = price
+        ? '<div class="price-line"><span class="price-label">Por apenas</span><span class="price">' + price + '</span></div>'
+        : '<div class="price-line"><span class="price-label">Preço especial no marketplace</span></div>';
+
+      return (
+        '<article class="product-card">' +
+          '<div class="badge">' + discount + '</div>' +
+          '<div class="marketplace">' + marketplace + '</div>' +
+
+          '<a class="image-wrap" href="' + url + '" target="_blank" rel="nofollow sponsored noopener">' +
+            '<img src="' + image + '" alt="' + title + '" loading="lazy" onerror="this.style.display=\'none\'">' +
+          '</a>' +
+
+          '<div class="product-body">' +
+            '<div class="category">' + category + '</div>' +
+            '<h3 class="product-title">' + title + '</h3>' +
+            '<p class="desc">' + description + '</p>' +
+
+            '<div class="deal-box">' +
+              oldPriceBlock +
+              priceBlock +
+            '</div>' +
+
+            '<div class="meta">' +
+              '<span>' + rating + '</span>' +
+              '<span>🕒 ' + created + '</span>' +
+            '</div>' +
+
+            '<a class="buy-btn" href="' + url + '" target="_blank" rel="nofollow sponsored noopener">' +
+              '🛒 Comprar agora' +
+            '</a>' +
+          '</div>' +
+        '</article>'
+      );
+    }).join("");
+  }
+
+  function loadOffers() {
+    var grid = byId("offersGrid");
+
+    fetch("./data/offers.json?cache=" + Date.now())
+      .then(function (response) {
+        if (!response.ok) {
+          throw new Error("Erro ao carregar offers.json: " + response.status);
+        }
+
+        return response.json();
+      })
+      .then(function (data) {
+        allOffers = Array.isArray(data) ? data : [];
+
+        allOffers = allOffers
+          .filter(function (offer) {
+            return offer && typeof offer === "object";
+          })
+          .sort(function (a, b) {
+            return createdTs(b) - createdTs(a);
+          });
+
+        activeMarketplace = "todos";
+        activeCategory = "todos";
+
+        renderMarketplaceFilters();
+        renderCategoryFilters();
+        renderOffers();
+      })
+      .catch(function (error) {
+        console.error(error);
+
+        if (grid) {
+          grid.innerHTML =
+            '<div class="empty">' +
+            'Não foi possível carregar as ofertas.<br>' +
+            'Verifique se o servidor local está rodando e se o arquivo offers.json existe.' +
+            '</div>';
+        }
+
+        var updatedInfo = byId("updatedInfo");
+        if (updatedInfo) {
+          updatedInfo.textContent = "Erro ao carregar ofertas";
+        }
+      });
+  }
+
+  document.addEventListener("DOMContentLoaded", function () {
+    ensureCategoryUI();
+
+    var searchInput = byId("searchInput");
+
+    if (searchInput) {
+      searchInput.addEventListener("input", function () {
+        searchTerm = normalizeText(searchInput.value);
+        renderOffers();
+      });
+    }
+
+    loadOffers();
+  });
+
+  if (document.readyState === "interactive" || document.readyState === "complete") {
+    ensureCategoryUI();
+    loadOffers();
+  }
+})();
+</script>
+<!-- MARYLOUSE_CATEGORY_RENDER_END -->
+
+
+<!-- MARYLOUSE_HOT_OFFERS_START -->
+<style>
+  .hot-offers-section {
+    margin: 12px auto 34px;
+  }
+
+  .hot-offers-box {
+    background: linear-gradient(135deg, rgba(255,255,255,.90), rgba(255,240,245,.92));
+    border: 1px solid #f0dbe2;
+    border-radius: 30px;
+    padding: 24px;
+    box-shadow: 0 16px 40px rgba(180, 50, 95, 0.13);
+    position: relative;
+    overflow: hidden;
+  }
+
+  .hot-offers-box::before {
+    content: "";
+    position: absolute;
+    width: 260px;
+    height: 260px;
+    border-radius: 50%;
+    background: radial-gradient(circle, rgba(255,47,125,.20), transparent 68%);
+    top: -130px;
+    right: -90px;
+    pointer-events: none;
+  }
+
+  .hot-offers-head {
+    display: flex;
+    justify-content: space-between;
+    gap: 18px;
+    align-items: flex-end;
+    margin-bottom: 18px;
+    position: relative;
+    z-index: 1;
+  }
+
+  .hot-offers-title-wrap h2 {
+    margin: 0;
+    font-size: 32px;
+    letter-spacing: -1px;
+    line-height: 1.05;
+  }
+
+  .hot-offers-title-wrap p {
+    margin: 8px 0 0;
+    color: #75646a;
+    font-weight: 750;
+    line-height: 1.45;
+  }
+
+  .hot-offers-badge {
+    background: linear-gradient(135deg, #ff2f7d, #cf1d5f);
+    color: white;
+    border-radius: 999px;
+    padding: 11px 15px;
+    font-weight: 950;
+    box-shadow: 0 12px 25px rgba(255,47,125,.25);
+    white-space: nowrap;
+  }
+
+  .hot-offers-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+    position: relative;
+    z-index: 1;
+  }
+
+  .hot-card {
+    background: white;
+    border: 1px solid #f0dbe2;
+    border-radius: 22px;
+    overflow: hidden;
+    box-shadow: 0 12px 28px rgba(180, 50, 95, 0.11);
+    display: grid;
+    grid-template-columns: 132px 1fr;
+    min-height: 176px;
+    position: relative;
+    transition: transform .18s ease, box-shadow .18s ease;
+  }
+
+  .hot-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 18px 38px rgba(180, 50, 95, 0.18);
+  }
+
+  .hot-image {
+    background:
+      linear-gradient(135deg, rgba(255,47,125,.12), rgba(255,183,3,.18)),
+      #fff0f5;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .hot-image img {
+    width: 100%;
+    height: 100%;
+    min-height: 176px;
+    object-fit: cover;
+    display: block;
+  }
+
+  .hot-rank {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background: linear-gradient(135deg, #ffb703, #ff7a00);
+    color: #321b00;
+    font-weight: 950;
+    font-size: 12px;
+    padding: 7px 9px;
+    border-radius: 999px;
+    box-shadow: 0 8px 18px rgba(255, 122, 0, .22);
+  }
+
+  .hot-body {
+    padding: 14px;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+  }
+
+  .hot-topline {
+    display: flex;
+    justify-content: space-between;
+    gap: 8px;
+    align-items: center;
+    margin-bottom: 8px;
+  }
+
+  .hot-marketplace {
+    color: #cf1d5f;
+    font-size: 12px;
+    font-weight: 950;
+    text-transform: uppercase;
+    letter-spacing: .25px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .hot-discount {
+    background: #fff0d4;
+    color: #9b4d00;
+    border: 1px solid #ffd48a;
+    border-radius: 999px;
+    padding: 5px 8px;
+    font-size: 12px;
+    font-weight: 950;
+    white-space: nowrap;
+  }
+
+  .hot-title {
+    margin: 0 0 9px;
+    font-size: 16px;
+    line-height: 1.20;
+    font-weight: 950;
+    letter-spacing: -0.25px;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .hot-meta {
+    display: flex;
+    justify-content: space-between;
+    gap: 8px;
+    color: #75646a;
+    font-size: 12px;
+    font-weight: 850;
+    margin-bottom: 8px;
+  }
+
+  .hot-price-row {
+    margin-top: auto;
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 8px;
+    margin-bottom: 10px;
+  }
+
+  .hot-price-label {
+    color: #75646a;
+    font-size: 12px;
+    font-weight: 900;
+  }
+
+  .hot-price {
+    color: #0fa95a;
+    font-size: 23px;
+    font-weight: 950;
+    letter-spacing: -0.7px;
+    line-height: 1;
+    white-space: nowrap;
+  }
+
+  .hot-button {
+    width: 100%;
+    min-height: 42px;
+    background: linear-gradient(135deg, #10a85a, #08783d);
+    color: white;
+    text-align: center;
+    border-radius: 14px;
+    padding: 12px 13px;
+    font-weight: 950;
+    font-size: 14px;
+    box-shadow: 0 10px 20px rgba(15, 159, 85, .22);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+  }
+
+  .hot-empty {
+    background: white;
+    border: 1px dashed #f0dbe2;
+    border-radius: 20px;
+    padding: 24px;
+    color: #75646a;
+    font-weight: 800;
+    text-align: center;
+  }
+
+  @media (max-width: 1080px) {
+    .hot-offers-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .hot-card {
+      grid-template-columns: 150px 1fr;
+    }
+  }
+
+  @media (max-width: 650px) {
+    .hot-offers-box {
+      padding: 18px;
+      border-radius: 24px;
+    }
+
+    .hot-offers-head {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+
+    .hot-offers-title-wrap h2 {
+      font-size: 28px;
+    }
+
+    .hot-card {
+      grid-template-columns: 1fr;
+    }
+
+    .hot-image {
+      aspect-ratio: 1 / 0.62;
+    }
+
+    .hot-image img {
+      min-height: auto;
+      height: 100%;
+    }
+
+    .hot-price {
+      font-size: 26px;
+    }
+
+    .hot-button {
+      min-height: 48px;
+      font-size: 15px;
+    }
+  }
+</style>
+
+<script>
+(function () {
+  function byId(id) {
+    return document.getElementById(id);
+  }
+
+  function escapeHtml(value) {
+    return String(value == null ? "" : value)
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;")
+      .replace(/"/g, "&quot;")
+      .replace(/'/g, "&#039;");
+  }
+
+  function marketplaceLabel(value) {
+    var raw = String(value || "Oferta").trim();
+    var key = raw.toLowerCase().replace(/[\s_-]/g, "");
+
+    if (key === "aliexpress") return "AliExpress";
+    if (key === "shopee") return "Shopee";
+    if (key === "amazon") return "Amazon";
+    if (key === "mercadolivre" || key === "ml") return "Mercado Livre";
+
+    return raw || "Oferta";
+  }
+
+  function createdTs(offer) {
+    if (offer && offer.created_ts) {
+      var ts = Number(offer.created_ts);
+      if (!isNaN(ts)) return ts;
+    }
+
+    if (offer && offer.created_at_iso) {
+      var d = new Date(offer.created_at_iso);
+      if (!isNaN(d.getTime())) return Math.floor(d.getTime() / 1000);
+    }
+
+    return 0;
+  }
+
+  function timeAgo(offer) {
+    var ts = createdTs(offer);
+
+    if (!ts) {
+      return offer.created_at || "";
+    }
+
+    var now = Math.floor(Date.now() / 1000);
+    var diff = Math.max(0, now - ts);
+
+    if (diff < 60) return "agora";
+    if (diff < 3600) return "há " + Math.floor(diff / 60) + " min";
+    if (diff < 86400) return "há " + Math.floor(diff / 3600) + " h";
+
+    return offer.created_at || "";
+  }
+
+  function safeNumber(value, fallback) {
+    var n = Number(value);
+    return isNaN(n) ? fallback : n;
+  }
+
+  function hotScore(offer) {
+    var discount = safeNumber(offer.discount_percent, 0);
+    var rating = safeNumber(offer.rating, 0);
+    var ts = createdTs(offer);
+    var now = Math.floor(Date.now() / 1000);
+    var ageHours = ts ? Math.max(0, (now - ts) / 3600) : 12;
+
+    var recencyScore = Math.max(0, 12 - ageHours) * 2;
+
+    return (discount * 2.2) + (rating * 8) + recencyScore;
+  }
+
+  function ensureHotSection() {
+    if (byId("hotOffersSection")) return;
+
+    var ofertasSection = byId("ofertas");
+    if (!ofertasSection || !ofertasSection.parentNode) return;
+
+    var section = document.createElement("section");
+    section.className = "container hot-offers-section";
+    section.id = "hotOffersSection";
+    section.innerHTML =
+      '<div class="hot-offers-box">' +
+        '<div class="hot-offers-head">' +
+          '<div class="hot-offers-title-wrap">' +
+            '<h2>🔥 Ofertas mais quentes agora</h2>' +
+            '<p>Selecionadas automaticamente por desconto, avaliação e recência.</p>' +
+          '</div>' +
+          '<div class="hot-offers-badge">Top 3 achadinhos</div>' +
+        '</div>' +
+        '<div class="hot-offers-grid" id="hotOffersGrid">' +
+          '<div class="hot-empty">Carregando ofertas quentes...</div>' +
+        '</div>' +
+      '</div>';
+
+    ofertasSection.parentNode.insertBefore(section, ofertasSection);
+  }
+
+  function renderHotOffers(offers) {
+    ensureHotSection();
+
+    var grid = byId("hotOffersGrid");
+    if (!grid) return;
+
+    var validOffers = (Array.isArray(offers) ? offers : [])
+      .filter(function (offer) {
+        return offer && typeof offer === "object" && offer.affiliate_url;
+      })
+      .sort(function (a, b) {
+        return hotScore(b) - hotScore(a);
+      })
+      .slice(0, 3);
+
+    if (!validOffers.length) {
+      grid.innerHTML = '<div class="hot-empty">Ainda não há ofertas suficientes para destacar.</div>';
+      return;
+    }
+
+    grid.innerHTML = validOffers.map(function (offer, index) {
+      var title = escapeHtml(offer.title || "Oferta encontrada");
+      var marketplace = escapeHtml(marketplaceLabel(offer.marketplace));
+      var discount = offer.discount_percent ? escapeHtml(Number(offer.discount_percent).toFixed(0)) + "% OFF" : "Oferta";
+      var rating = offer.rating ? "⭐ " + escapeHtml(offer.rating) + "/5" : "⭐ Oferta";
+      var created = escapeHtml(timeAgo(offer));
+      var price = escapeHtml(offer.price || "Ver preço");
+      var url = escapeHtml(offer.affiliate_url || "#");
+      var image = escapeHtml(offer.image || "");
+
+      return (
+        '<article class="hot-card">' +
+          '<a class="hot-image" href="' + url + '" target="_blank" rel="nofollow sponsored noopener">' +
+            '<span class="hot-rank">TOP ' + (index + 1) + '</span>' +
+            '<img src="' + image + '" alt="' + title + '" loading="lazy" onerror="this.style.display=\'none\'">' +
+          '</a>' +
+
+          '<div class="hot-body">' +
+            '<div class="hot-topline">' +
+              '<span class="hot-marketplace">' + marketplace + '</span>' +
+              '<span class="hot-discount">' + discount + '</span>' +
+            '</div>' +
+
+            '<h3 class="hot-title">' + title + '</h3>' +
+
+            '<div class="hot-meta">' +
+              '<span>' + rating + '</span>' +
+              '<span>🕒 ' + created + '</span>' +
+            '</div>' +
+
+            '<div class="hot-price-row">' +
+              '<span class="hot-price-label">Por apenas</span>' +
+              '<span class="hot-price">' + price + '</span>' +
+            '</div>' +
+
+            '<a class="hot-button" href="' + url + '" target="_blank" rel="nofollow sponsored noopener">' +
+              '🛒 Pegar oferta' +
+            '</a>' +
+          '</div>' +
+        '</article>'
+      );
+    }).join("");
+  }
+
+  function loadHotOffers() {
+    ensureHotSection();
+
+    fetch("./data/offers.json?hot=" + Date.now())
+      .then(function (response) {
+        if (!response.ok) {
+          throw new Error("Erro ao carregar ofertas quentes: " + response.status);
+        }
+
+        return response.json();
+      })
+      .then(function (data) {
+        renderHotOffers(Array.isArray(data) ? data : []);
+      })
+      .catch(function (error) {
+        console.error(error);
+
+        var grid = byId("hotOffersGrid");
+        if (grid) {
+          grid.innerHTML = '<div class="hot-empty">Não foi possível carregar as ofertas quentes.</div>';
+        }
+      });
+  }
+
+  document.addEventListener("DOMContentLoaded", function () {
+    loadHotOffers();
+  });
+
+  if (document.readyState === "interactive" || document.readyState === "complete") {
+    loadHotOffers();
+  }
+})();
+</script>
+<!-- MARYLOUSE_HOT_OFFERS_END -->
+
+
+<!-- MARYLOUSE_TELEGRAM_CTA_START -->
+<style>
+  .telegram-cta-section {
+    margin: 0 auto 34px;
+  }
+
+  .telegram-cta-box {
+    background:
+      radial-gradient(circle at top left, rgba(46, 170, 220, .22), transparent 34%),
+      linear-gradient(135deg, #ffffff, #eef8ff);
+    border: 1px solid #d8edf8;
+    border-radius: 30px;
+    padding: 24px;
+    box-shadow: 0 16px 38px rgba(46, 170, 220, 0.14);
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 22px;
+    align-items: center;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .telegram-cta-box::after {
+    content: "✈️";
+    position: absolute;
+    right: 24px;
+    top: -18px;
+    font-size: 92px;
+    opacity: .10;
+    transform: rotate(-10deg);
+    pointer-events: none;
+  }
+
+  .telegram-cta-kicker {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    background: #e7f6ff;
+    color: #1683bd;
+    border: 1px solid #cbeafb;
+    border-radius: 999px;
+    padding: 8px 12px;
+    font-size: 13px;
+    font-weight: 950;
+    margin-bottom: 12px;
+  }
+
+  .telegram-cta-title {
+    margin: 0;
+    font-size: 30px;
+    line-height: 1.05;
+    letter-spacing: -0.8px;
+  }
+
+  .telegram-cta-text {
+    margin: 9px 0 0;
+    color: #5f6c78;
+    font-size: 16px;
+    font-weight: 750;
+    line-height: 1.45;
+    max-width: 720px;
+  }
+
+  .telegram-cta-actions {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+    position: relative;
+    z-index: 1;
+  }
+
+  .telegram-cta-button {
+    background: linear-gradient(135deg, #2eaadc, #1683bd);
+    color: #ffffff !important;
+    border-radius: 999px;
+    padding: 15px 20px;
+    font-weight: 950;
+    box-shadow: 0 12px 25px rgba(46, 170, 220, .28);
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 9px;
+    text-decoration: none !important;
+    min-height: 52px;
+    transition: transform .18s ease, filter .18s ease;
+    white-space: nowrap;
+  }
+
+  .telegram-cta-button:hover {
+    transform: translateY(-2px);
+    filter: brightness(1.03);
+  }
+
+  .telegram-cta-mini {
+    color: #1683bd !important;
+    background: #ffffff;
+    border: 1px solid #cbeafb;
+    border-radius: 999px;
+    padding: 13px 16px;
+    font-weight: 950;
+    text-decoration: none !important;
+    white-space: nowrap;
+  }
+
+  .telegram-floating {
+    position: fixed;
+    right: 22px;
+    bottom: 22px;
+    z-index: 50;
+    background: linear-gradient(135deg, #2eaadc, #1683bd);
+    color: #ffffff !important;
+    border-radius: 999px;
+    padding: 14px 18px;
+    font-weight: 950;
+    box-shadow: 0 14px 30px rgba(46, 170, 220, .34);
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 9px;
+    text-decoration: none !important;
+    transition: transform .18s ease, filter .18s ease;
+  }
+
+  .telegram-floating:hover {
+    transform: translateY(-3px);
+    filter: brightness(1.04);
+  }
+
+  .pill.telegram-nav-pill {
+    background: linear-gradient(135deg, #2eaadc, #1683bd) !important;
+    color: white !important;
+    border-color: transparent !important;
+    box-shadow: 0 10px 22px rgba(46, 170, 220, .20);
+  }
+
+  @media (max-width: 760px) {
+    .telegram-cta-box {
+      grid-template-columns: 1fr;
+      padding: 20px;
+      border-radius: 24px;
+    }
+
+    .telegram-cta-title {
+      font-size: 26px;
+    }
+
+    .telegram-cta-actions {
+      justify-content: flex-start;
+    }
+
+    .telegram-cta-button,
+    .telegram-cta-mini {
+      width: 100%;
+    }
+
+    .telegram-floating {
+      right: 14px;
+      bottom: 14px;
+      padding: 13px 15px;
+      font-size: 14px;
+    }
+  }
+</style>
+
+<script>
+(function () {
+  var TELEGRAM_URL = "https://t.me/dmaispromo";
+
+  function addTelegramNavButton() {
+    var navActions = document.querySelector(".nav-actions");
+
+    if (!navActions) return;
+    if (document.getElementById("telegramNavButton")) return;
+
+    var link = document.createElement("a");
+    link.id = "telegramNavButton";
+    link.className = "pill telegram-nav-pill";
+    link.href = TELEGRAM_URL;
+    link.target = "_blank";
+    link.rel = "noopener";
+    link.innerHTML = "📲 Telegram";
+
+    navActions.appendChild(link);
+  }
+
+  function ensureTelegramCta() {
+    if (document.getElementById("telegramCtaSection")) return;
+
+    var ofertasSection = document.getElementById("ofertas");
+    if (!ofertasSection || !ofertasSection.parentNode) return;
+
+    var section = document.createElement("section");
+    section.className = "container telegram-cta-section";
+    section.id = "telegramCtaSection";
+
+    section.innerHTML =
+      '<div class="telegram-cta-box">' +
+        '<div class="telegram-cta-content">' +
+          '<div class="telegram-cta-kicker">📲 Ofertas em tempo real</div>' +
+          '<h2 class="telegram-cta-title">Receba os melhores achadinhos direto no Telegram</h2>' +
+          '<p class="telegram-cta-text">' +
+            'Entre no canal MaryLouse Ofertas e acompanhe promoções, cupons e descontos assim que aparecerem.' +
+          '</p>' +
+        '</div>' +
+        '<div class="telegram-cta-actions">' +
+          '<a class="telegram-cta-button" href="' + TELEGRAM_URL + '" target="_blank" rel="noopener">' +
+            'Entrar no canal' +
+          '</a>' +
+          '<a class="telegram-cta-mini" href="' + TELEGRAM_URL + '" target="_blank" rel="noopener">' +
+            '@marylouse' +
+          '</a>' +
+        '</div>' +
+      '</div>';
+
+    var hotSection = document.getElementById("hotOffersSection");
+
+    if (hotSection && hotSection.parentNode) {
+      hotSection.parentNode.insertBefore(section, hotSection.nextSibling);
+    } else {
+      ofertasSection.parentNode.insertBefore(section, ofertasSection);
+    }
+  }
+
+  function ensureFloatingButton() {
+    if (document.getElementById("telegramFloatingButton")) return;
+
+    var link = document.createElement("a");
+    link.id = "telegramFloatingButton";
+    link.className = "telegram-floating";
+    link.href = TELEGRAM_URL;
+    link.target = "_blank";
+    link.rel = "noopener";
+    link.innerHTML = "📲 Telegram";
+
+    document.body.appendChild(link);
+  }
+
+  function initTelegramCta() {
+    addTelegramNavButton();
+    ensureTelegramCta();
+    ensureFloatingButton();
+  }
+
+  document.addEventListener("DOMContentLoaded", function () {
+    initTelegramCta();
+    setTimeout(initTelegramCta, 300);
+    setTimeout(initTelegramCta, 800);
+    setTimeout(initTelegramCta, 1500);
+  });
+
+  if (document.readyState === "interactive" || document.readyState === "complete") {
+    initTelegramCta();
+    setTimeout(initTelegramCta, 300);
+    setTimeout(initTelegramCta, 800);
+  }
+})();
+</script>
+<!-- MARYLOUSE_TELEGRAM_CTA_END -->
+\n</body>
+</html>
+
+
+

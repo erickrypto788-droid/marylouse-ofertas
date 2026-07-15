@@ -1,0 +1,6 @@
+﻿User-agent: *
+Allow: /
+
+Sitemap: https://SEU_USUARIO.github.io/marylouse-ofertas/sitemap.xml
+
+

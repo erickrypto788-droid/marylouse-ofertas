@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#fff0f5"/>
+      <stop offset="1" stop-color="#fff7dc"/>
+    </linearGradient>
+    <linearGradient id="brand" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#ff2f7d"/>
+      <stop offset="1" stop-color="#ffb703"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1040" cy="100" r="210" fill="#ff2f7d" opacity=".10"/>
+  <circle cx="120" cy="540" r="220" fill="#ffb703" opacity=".16"/>
+
+  <rect x="80" y="80" width="1040" height="470" rx="44" fill="#ffffff" opacity=".86"/>
+
+  <rect x="130" y="130" width="96" height="96" rx="28" fill="url(#brand)"/>
+  <text x="178" y="196" text-anchor="middle" font-size="50">🛍️</text>
+
+  <text x="250" y="172" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="900" fill="#24171b">
+    MaryLouse Ofertas
+  </text>
+
+  <text x="130" y="300" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="900" fill="#24171b">
+    Achadinhos e descontos
+  </text>
+
+  <text x="130" y="370" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="800" fill="#cf1d5f">
+    Shopee • AliExpress • Promoções
+  </text>
+
+  <text x="130" y="450" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#75646a">
+    Ofertas selecionadas automaticamente para economizar melhor.
+  </text>
+
+  <rect x="130" y="490" width="300" height="62" rx="31" fill="#0fa95a"/>
+  <text x="280" y="531" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="900" fill="#ffffff">
+    Comprar melhor
+  </text>
+</svg>

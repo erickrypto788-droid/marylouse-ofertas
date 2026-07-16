@@ -2491,8 +2491,282 @@
 })();
 </script>
 <!-- MARYLOUSE_GA4_EVENTS_END -->
+<!-- MARYLOUSE_SHOPEE_COUPON_CTA_START -->
+<style>
+  .shopee-coupon-section {
+    margin: 0 auto 34px;
+  }
+
+  .shopee-coupon-box {
+    background:
+      radial-gradient(circle at top right, rgba(255, 87, 34, .20), transparent 34%),
+      linear-gradient(135deg, #ffffff, #fff1eb);
+    border: 1px solid #ffd2c2;
+    border-radius: 30px;
+    padding: 24px;
+    box-shadow: 0 16px 38px rgba(255, 87, 34, 0.14);
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 22px;
+    align-items: center;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .shopee-coupon-box::after {
+    content: "🎟️";
+    position: absolute;
+    right: 24px;
+    top: -22px;
+    font-size: 94px;
+    opacity: .12;
+    transform: rotate(9deg);
+    pointer-events: none;
+  }
+
+  .shopee-coupon-kicker {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    background: #fff1eb;
+    color: #ee4d2d;
+    border: 1px solid #ffd2c2;
+    border-radius: 999px;
+    padding: 8px 12px;
+    font-size: 13px;
+    font-weight: 950;
+    margin-bottom: 12px;
+  }
+
+  .shopee-coupon-title {
+    margin: 0;
+    font-size: 30px;
+    line-height: 1.05;
+    letter-spacing: -0.8px;
+  }
+
+  .shopee-coupon-text {
+    margin: 9px 0 0;
+    color: #75646a;
+    font-size: 16px;
+    font-weight: 750;
+    line-height: 1.45;
+    max-width: 760px;
+  }
+
+  .shopee-coupon-benefits {
+    display: flex;
+    gap: 9px;
+    flex-wrap: wrap;
+    margin-top: 14px;
+  }
+
+  .shopee-coupon-benefit {
+    background: #ffffff;
+    border: 1px solid #ffd2c2;
+    color: #8d341f;
+    border-radius: 999px;
+    padding: 9px 12px;
+    font-size: 13px;
+    font-weight: 900;
+  }
+
+  .shopee-coupon-actions {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+    position: relative;
+    z-index: 1;
+  }
+
+  .shopee-coupon-button {
+    background: linear-gradient(135deg, #ee4d2d, #ff7a45);
+    color: #ffffff !important;
+    border-radius: 999px;
+    padding: 15px 20px;
+    font-weight: 950;
+    box-shadow: 0 12px 25px rgba(238, 77, 45, .28);
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 9px;
+    text-decoration: none !important;
+    min-height: 52px;
+    white-space: nowrap;
+    transition: transform .18s ease, filter .18s ease;
+  }
+
+  .shopee-coupon-button:hover {
+    transform: translateY(-2px);
+    filter: brightness(1.03);
+  }
+
+  .shopee-coupon-mini {
+    color: #ee4d2d !important;
+    background: #ffffff;
+    border: 1px solid #ffd2c2;
+    border-radius: 999px;
+    padding: 13px 16px;
+    font-weight: 950;
+    text-decoration: none !important;
+    white-space: nowrap;
+  }
+
+  .pill.shopee-coupon-nav {
+    background: linear-gradient(135deg, #ee4d2d, #ff7a45) !important;
+    color: white !important;
+    border-color: transparent !important;
+    box-shadow: 0 10px 22px rgba(238, 77, 45, .20);
+  }
+
+  @media (max-width: 760px) {
+    .shopee-coupon-box {
+      grid-template-columns: 1fr;
+      padding: 20px;
+      border-radius: 24px;
+    }
+
+    .shopee-coupon-title {
+      font-size: 26px;
+    }
+
+    .shopee-coupon-actions {
+      justify-content: flex-start;
+    }
+
+    .shopee-coupon-button,
+    .shopee-coupon-mini {
+      width: 100%;
+    }
+  }
+</style>
+
+<script>
+(function () {
+  var SHOPEE_COUPON_URL = "https://s.shopee.com.br/111NhMP4uM";
+
+  function addShopeeCouponNavButton() {
+    var navActions = document.querySelector(".nav-actions");
+
+    if (!navActions) return;
+    if (document.getElementById("shopeeCouponNavButton")) return;
+
+    var link = document.createElement("a");
+    link.id = "shopeeCouponNavButton";
+    link.className = "pill shopee-coupon-nav shopee-coupon-link";
+    link.href = SHOPEE_COUPON_URL;
+    link.target = "_blank";
+    link.rel = "nofollow sponsored noopener";
+    link.innerHTML = "🎟️ Cupons Shopee";
+
+    navActions.appendChild(link);
+  }
+
+  function insertAfter(newNode, referenceNode) {
+    if (!referenceNode || !referenceNode.parentNode) return;
+
+    if (referenceNode.nextSibling) {
+      referenceNode.parentNode.insertBefore(newNode, referenceNode.nextSibling);
+    } else {
+      referenceNode.parentNode.appendChild(newNode);
+    }
+  }
+
+  function ensureShopeeCouponSection() {
+    if (document.getElementById("shopeeCouponSection")) return;
+
+    var ofertasSection = document.getElementById("ofertas");
+    if (!ofertasSection || !ofertasSection.parentNode) return;
+
+    var section = document.createElement("section");
+    section.className = "container shopee-coupon-section";
+    section.id = "shopeeCouponSection";
+
+    section.innerHTML =
+      '<div class="shopee-coupon-box">' +
+        '<div class="shopee-coupon-content">' +
+          '<div class="shopee-coupon-kicker">🎟️ Cupons oficiais Shopee</div>' +
+          '<h2 class="shopee-coupon-title">Pegue cupons, frete grátis e descontos extras</h2>' +
+          '<p class="shopee-coupon-text">' +
+            'Antes de finalizar sua compra, confira a página oficial de cupons da Shopee e veja se existe algum desconto disponível para combinar com suas ofertas.' +
+          '</p>' +
+          '<div class="shopee-coupon-benefits">' +
+            '<span class="shopee-coupon-benefit">🚚 Frete grátis</span>' +
+            '<span class="shopee-coupon-benefit">🏷️ Cupom de desconto</span>' +
+            '<span class="shopee-coupon-benefit">🏬 Cupom de loja</span>' +
+          '</div>' +
+        '</div>' +
+        '<div class="shopee-coupon-actions">' +
+          '<a class="shopee-coupon-button shopee-coupon-link" href="' + SHOPEE_COUPON_URL + '" target="_blank" rel="nofollow sponsored noopener">' +
+            'Ver cupons da Shopee' +
+          '</a>' +
+          '<a class="shopee-coupon-mini shopee-coupon-link" href="' + SHOPEE_COUPON_URL + '" target="_blank" rel="nofollow sponsored noopener">' +
+            'Abrir página oficial' +
+          '</a>' +
+        '</div>' +
+      '</div>';
+
+    var telegramSection = document.getElementById("telegramCtaSection");
+    var hotSection = document.getElementById("hotOffersSection");
+
+    if (telegramSection && telegramSection.parentNode) {
+      insertAfter(section, telegramSection);
+    } else if (hotSection && hotSection.parentNode) {
+      insertAfter(section, hotSection);
+    } else {
+      ofertasSection.parentNode.insertBefore(section, ofertasSection);
+    }
+  }
+
+  function trackShopeeCouponClick(element) {
+    try {
+      if (typeof window.gtag === "function") {
+        window.gtag("event", "click_coupon_shopee", {
+          event_category: "coupon",
+          event_label: "Cupons Shopee",
+          url: element && element.href ? element.href : SHOPEE_COUPON_URL
+        });
+      }
+    } catch (error) {
+      console.warn("Erro ao rastrear clique em cupom Shopee:", error);
+    }
+  }
+
+  document.addEventListener("click", function (event) {
+    var link = event.target.closest(".shopee-coupon-link");
+
+    if (link) {
+      trackShopeeCouponClick(link);
+    }
+  });
+
+  function initShopeeCouponCta() {
+    addShopeeCouponNavButton();
+    ensureShopeeCouponSection();
+  }
+
+  document.addEventListener("DOMContentLoaded", function () {
+    initShopeeCouponCta();
+
+    setTimeout(initShopeeCouponCta, 300);
+    setTimeout(initShopeeCouponCta, 800);
+    setTimeout(initShopeeCouponCta, 1500);
+  });
+
+  if (document.readyState === "interactive" || document.readyState === "complete") {
+    initShopeeCouponCta();
+
+    setTimeout(initShopeeCouponCta, 300);
+    setTimeout(initShopeeCouponCta, 800);
+  }
+})();
+</script>
+<!-- MARYLOUSE_SHOPEE_COUPON_CTA_END -->
 </body>
 </html>
+
 
 
 

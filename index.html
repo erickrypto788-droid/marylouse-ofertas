@@ -682,6 +682,24 @@
 </script>
 <!-- MARYLOUSE_SEO_END -->
 
+<!-- MARYLOUSE_GA4_START -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7VR5K3CEMR"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+
+  gtag("js", new Date());
+
+  gtag("config", "G-7VR5K3CEMR", {
+    page_title: "MaryLouse Ofertas",
+    page_location: window.location.href,
+    send_page_view: true
+  });
+</script>
+<!-- MARYLOUSE_GA4_END -->
 </head>
 
 <body>
@@ -1409,6 +1427,24 @@ Write-Host "[backup] Backup criado em $backupName"
       }
     }
   </style>
+<!-- MARYLOUSE_GA4_START -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7VR5K3CEMR"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+
+  gtag("js", new Date());
+
+  gtag("config", "G-7VR5K3CEMR", {
+    page_title: "MaryLouse Ofertas",
+    page_location: window.location.href,
+    send_page_view: true
+  });
+</script>
+<!-- MARYLOUSE_GA4_END -->
 </head>
 
 <body>
@@ -3084,8 +3120,184 @@ Write-Host "[backup] Backup criado em $backupName"
 })();
 </script>
 <!-- MARYLOUSE_TELEGRAM_CTA_END -->
-\n</body>
+\n<!-- MARYLOUSE_GA4_EVENTS_START -->
+<script>
+(function () {
+  function cleanText(value, maxLength) {
+    var text = String(value || "").replace(/\s+/g, " ").trim();
+    maxLength = maxLength || 120;
+
+    if (text.length > maxLength) {
+      text = text.slice(0, maxLength - 3) + "...";
+    }
+
+    return text;
+  }
+
+  function sendEvent(name, params) {
+    try {
+      if (typeof window.gtag !== "function") {
+        return;
+      }
+
+      window.gtag("event", name, params || {});
+    } catch (error) {
+      console.warn("Erro ao enviar evento GA4:", error);
+    }
+  }
+
+  function getCardData(element) {
+    var card = element.closest(".product-card") || element.closest(".hot-card");
+
+    if (!card) {
+      return {};
+    }
+
+    var titleEl = card.querySelector(".product-title, .hot-title, h3");
+    var marketplaceEl = card.querySelector(".marketplace, .hot-marketplace");
+    var categoryEl = card.querySelector(".category");
+    var priceEl = card.querySelector(".price, .hot-price");
+    var discountEl = card.querySelector(".badge, .hot-discount");
+
+    return {
+      product_title: cleanText(titleEl ? titleEl.textContent : "", 120),
+      marketplace: cleanText(marketplaceEl ? marketplaceEl.textContent : "", 60),
+      category: cleanText(categoryEl ? categoryEl.textContent : "", 60),
+      price: cleanText(priceEl ? priceEl.textContent : "", 40),
+      discount: cleanText(discountEl ? discountEl.textContent : "", 40)
+    };
+  }
+
+  document.addEventListener("click", function (event) {
+    var target = event.target;
+
+    var buyButton = target.closest(".buy-btn");
+    if (buyButton) {
+      var buyData = getCardData(buyButton);
+
+      sendEvent("click_buy_button", {
+        event_category: "affiliate",
+        event_label: buyData.product_title || "Comprar agora",
+        product_title: buyData.product_title,
+        marketplace: buyData.marketplace,
+        category: buyData.category,
+        price: buyData.price,
+        discount: buyData.discount,
+        url: buyButton.href || ""
+      });
+
+      return;
+    }
+
+    var hotButton = target.closest(".hot-button");
+    if (hotButton) {
+      var hotData = getCardData(hotButton);
+
+      sendEvent("click_hot_offer", {
+        event_category: "hot_offers",
+        event_label: hotData.product_title || "Oferta quente",
+        product_title: hotData.product_title,
+        marketplace: hotData.marketplace,
+        price: hotData.price,
+        discount: hotData.discount,
+        url: hotButton.href || ""
+      });
+
+      return;
+    }
+
+    var hotImage = target.closest(".hot-image");
+    if (hotImage) {
+      var hotImageData = getCardData(hotImage);
+
+      sendEvent("click_hot_offer_image", {
+        event_category: "hot_offers",
+        event_label: hotImageData.product_title || "Imagem oferta quente",
+        product_title: hotImageData.product_title,
+        marketplace: hotImageData.marketplace,
+        price: hotImageData.price,
+        discount: hotImageData.discount,
+        url: hotImage.href || ""
+      });
+
+      return;
+    }
+
+    var telegramLink = target.closest(".telegram-cta-button, .telegram-cta-mini, .telegram-floating, .telegram-nav-pill");
+    if (telegramLink) {
+      sendEvent("click_telegram", {
+        event_category: "telegram",
+        event_label: cleanText(telegramLink.textContent, 80),
+        url: telegramLink.href || ""
+      });
+
+      return;
+    }
+
+    var marketplaceFilter = target.closest(".filter-btn");
+    if (marketplaceFilter) {
+      sendEvent("filter_marketplace", {
+        event_category: "filters",
+        marketplace: cleanText(marketplaceFilter.textContent, 80)
+      });
+
+      return;
+    }
+
+    var categoryFilter = target.closest(".category-btn");
+    if (categoryFilter) {
+      sendEvent("filter_category", {
+        event_category: "filters",
+        category: cleanText(categoryFilter.textContent, 80)
+      });
+
+      return;
+    }
+  });
+
+  var searchTimer = null;
+
+  function setupSearchTracking() {
+    var searchInput = document.getElementById("searchInput");
+
+    if (!searchInput || searchInput.dataset.gaTrackingReady === "1") {
+      return;
+    }
+
+    searchInput.dataset.gaTrackingReady = "1";
+
+    searchInput.addEventListener("input", function () {
+      var value = cleanText(searchInput.value, 80);
+
+      clearTimeout(searchTimer);
+
+      searchTimer = setTimeout(function () {
+        if (!value || value.length < 2) {
+          return;
+        }
+
+        sendEvent("search_site", {
+          event_category: "search",
+          search_term: value
+        });
+      }, 900);
+    });
+  }
+
+  document.addEventListener("DOMContentLoaded", setupSearchTracking);
+
+  if (document.readyState === "interactive" || document.readyState === "complete") {
+    setupSearchTracking();
+  }
+
+  setTimeout(setupSearchTracking, 1000);
+  setTimeout(setupSearchTracking, 2500);
+})();
+</script>
+<!-- MARYLOUSE_GA4_EVENTS_END -->
+</body>
 </html>
+
 
 
 

@@ -1,5 +1,43 @@
 [
   {
+    "id": "ee5fadab2f8673fd16",
+    "title": "Women's Fluffy Cross Strap Fur Slippers Lightweight Soft Warm Plush H…",
+    "raw_title": "Women's Fluffy Cross Strap Fur Slippers Lightweight Soft Warm Plush House Slippers Woman Autumn Winter Flat Indoor Fuzzy Slides",
+    "description": "🔥 58% OFF — Oferta encontrada! 📌 Women's Fluffy Cross Strap Fur Slippers Lightweight Soft Warm Plush House Slippers Woman Autumn Winter Flat Indoor Fuzz...",
+    "marketplace": "AliExpress",
+    "category": "Oferta",
+    "old_price": "R$ 62,32",
+    "price": "R$ 25,86",
+    "discount_percent": 58.0,
+    "rating": 4.8,
+    "image": "https://ae-pic-a1.aliexpress-media.com/kf/S43524edf8af446f49e3079dbf8aa5b9ei.jpg",
+    "affiliate_url": "https://s.click.aliexpress.com/e/_c2weaaFD",
+    "created_at": "19/07/2026 04:11",
+    "created_at_iso": "2026-07-19T04:11:00",
+    "created_ts": 1784434260
+  },
+  {
+    "id": "ac555e75e15c55c3c8",
+    "title": "BML Smartphone 12GB+512GB ram AI Global 5G Dual Sim Android 14, 7.3''…",
+    "raw_title": "BML Smartphone 12GB+512GB ram AI Global 5G Dual Sim Android 14, 7.3'' Tela,Câmera 108MP-Bateria De 8000 mAh",
+    "description": "🔥 70% OFF — Oferta encontrada! 📌 BML Smartphone 12GB+512GB ram AI Global 5G Dual Sim Android 14, 7.3'' Tela,Câmera 108MP-Bateria De 8000 mAh Confira os...",
+    "marketplace": "Shopee",
+    "category": "Celulares e Dispositivos",
+    "old_price": "R$ 3.999,97",
+    "price": "R$ 1.199,99",
+    "discount_percent": 70.0,
+    "rating": 4.7,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mn9pw6j9nlz62f",
+    "affiliate_url": "https://s.shopee.com.br/9Uzw4yRuWe",
+    "created_at": "19/07/2026 04:09",
+    "created_at_iso": "2026-07-19T04:09:59",
+    "created_ts": 1784434199,
+    "niche": {
+      "key": "celulares_dispositivos",
+      "name": "Celulares e Dispositivos"
+    }
+  },
+  {
     "id": "4a66cef78a71b2c718",
     "title": "Women's Fluffy Cross Strap Fur Slippers Lightweight Soft Warm Plush H…",
     "raw_title": "Women's Fluffy Cross Strap Fur Slippers Lightweight Soft Warm Plush House Slippers Woman Autumn Winter Flat Indoor Fuzzy Slides",
@@ -15,27 +53,6 @@
     "created_at": "19/07/2026 03:32",
     "created_at_iso": "2026-07-19T03:32:38",
     "created_ts": 1784431958
-  },
-  {
-    "id": "ac555e75e15c55c3c8",
-    "title": "BML Smartphone 12GB+512GB ram AI Global 5G Dual Sim Android 14, 7.3''…",
-    "raw_title": "BML Smartphone 12GB+512GB ram AI Global 5G Dual Sim Android 14, 7.3'' Tela,Câmera 108MP-Bateria De 8000 mAh",
-    "description": "🔥 70% OFF — Oferta encontrada! 📌 BML Smartphone 12GB+512GB ram AI Global 5G Dual Sim Android 14, 7.3'' Tela,Câmera 108MP-Bateria De 8000 mAh Confira os...",
-    "marketplace": "Shopee",
-    "category": "Celulares e Dispositivos",
-    "old_price": "R$ 3.999,97",
-    "price": "R$ 1.199,99",
-    "discount_percent": 70.0,
-    "rating": 4.7,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mn9pw6j9nlz62f",
-    "affiliate_url": "https://s.shopee.com.br/9Uzw4yRuWe",
-    "created_at": "19/07/2026 03:31",
-    "created_at_iso": "2026-07-19T03:31:37",
-    "created_ts": 1784431897,
-    "niche": {
-      "key": "celulares_dispositivos",
-      "name": "Celulares e Dispositivos"
-    }
   },
   {
     "id": "ce50a780e95590560c",

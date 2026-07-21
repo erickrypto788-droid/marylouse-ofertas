@@ -2764,8 +2764,369 @@
 })();
 </script>
 <!-- MARYLOUSE_SHOPEE_COUPON_CTA_END -->
+<!-- MARYLOUSE_CATEGORY_NORMALIZER_START -->
+<style>
+  .category-filter-box {
+    margin-top: 18px !important;
+  }
+
+  .category-filters {
+    gap: 9px !important;
+  }
+
+  .category-btn {
+    display: inline-flex !important;
+    align-items: center !important;
+    gap: 4px !important;
+  }
+
+  .category-btn[data-category="Supermercados"],
+  .category-btn[data-category="Mercado Livre"],
+  .category-btn[data-category="Shopee"] {
+    font-weight: 950 !important;
+  }
+</style>
+
+<script>
+(function () {
+  const CATEGORY_ORDER = [
+    "Todos os nichos",
+    "Supermercados",
+    "Celulares",
+    "Eletrônicos",
+    "Informática",
+    "Games",
+    "Casa e Cozinha",
+    "Eletrodomésticos",
+    "Casa e Decoração",
+    "Moda Feminina",
+    "Moda Masculina",
+    "Moda",
+    "Calçados",
+    "Bolsas",
+    "Beleza",
+    "Esportes",
+    "Brinquedos",
+    "Bebês",
+    "Pet",
+    "Saúde",
+    "Papelaria",
+    "Ferramentas",
+    "Outros"
+  ];
+
+  const CATEGORY_ICONS = {
+    "Todos os nichos": "✨",
+    "Supermercados": "🛒",
+    "Celulares": "📱",
+    "Eletrônicos": "🎧",
+    "Informática": "💻",
+    "Games": "🎮",
+    "Casa e Cozinha": "🍳",
+    "Eletrodomésticos": "🔌",
+    "Casa e Decoração": "🏠",
+    "Moda Feminina": "👗",
+    "Moda Masculina": "👕",
+    "Moda": "🛍️",
+    "Calçados": "👟",
+    "Bolsas": "👜",
+    "Beleza": "💄",
+    "Esportes": "🏋️",
+    "Brinquedos": "🧸",
+    "Bebês": "🍼",
+    "Pet": "🐶",
+    "Saúde": "❤️",
+    "Papelaria": "📚",
+    "Ferramentas": "🧰",
+    "Outros": "📦"
+  };
+
+  function normalizeTextML(value) {
+    return String(value || "")
+      .normalize("NFD")
+      .replace(/[\u0300-\u036f]/g, "")
+      .toLowerCase()
+      .trim();
+  }
+
+  function canonicalCategory(raw, offer) {
+    const text = String(raw || "").trim();
+    const key = normalizeTextML(text);
+    const title = normalizeTextML((offer && (offer.title || offer.raw_title || offer.description)) || "");
+
+    // Categorias vazias/genéricas ou nomes de loja viram Outros.
+    if (
+      !key ||
+      key === "oferta" ||
+      key === "ofertas" ||
+      key === "produto" ||
+      key === "produtos" ||
+      key === "sem categoria" ||
+      key.includes("dafushop") ||
+      key.includes("isabela") ||
+      key.includes("mbsutilidades")
+    ) {
+      return inferCategoryFromTitle(title) || "Outros";
+    }
+
+    // Mercado Livre / Shopee categorias já normalizadas.
+    if (key.includes("supermercado") || key.includes("mercado")) return "Supermercados";
+
+    if (key.includes("celular") || key.includes("telefone") || key.includes("cellphone")) return "Celulares";
+
+    if (
+      key.includes("eletronico") ||
+      key.includes("electronics") ||
+      key.includes("audio") ||
+      key.includes("video")
+    ) return "Eletrônicos";
+
+    if (
+      key.includes("informatica") ||
+      key.includes("computador") ||
+      key.includes("notebook") ||
+      key.includes("computer")
+    ) return "Informática";
+
+    if (
+      key.includes("game") ||
+      key.includes("jogo") ||
+      key.includes("console") ||
+      key.includes("hobbies")
+    ) return "Games";
+
+    if (
+      key.includes("casa e cozinha") ||
+      key.includes("cozinha") ||
+      key.includes("cookware") ||
+      key.includes("air fryer")
+    ) return "Casa e Cozinha";
+
+    if (
+      key.includes("eletrodomestico") ||
+      key.includes("eletrodoméstico")
+    ) return "Eletrodomésticos";
+
+    if (
+      key.includes("decoracao") ||
+      key.includes("decoração") ||
+      key.includes("moveis") ||
+      key.includes("móveis") ||
+      key.includes("casa e decoracao") ||
+      key.includes("casa e decoração")
+    ) return "Casa e Decoração";
+
+    if (key.includes("moda feminina") || key.includes("roupas femininas")) return "Moda Feminina";
+    if (key.includes("moda masculina") || key.includes("roupas masculinas")) return "Moda Masculina";
+
+    if (
+      key.includes("moda") ||
+      key.includes("roupa") ||
+      key.includes("calcados") ||
+      key.includes("calçados") ||
+      key.includes("sapatos") ||
+      key.includes("bolsas")
+    ) {
+      if (key.includes("sapato") || key.includes("calcado") || key.includes("calçado")) return "Calçados";
+      if (key.includes("bolsa")) return "Bolsas";
+      return "Moda";
+    }
+
+    if (key.includes("beleza") || key.includes("beauty")) return "Beleza";
+    if (key.includes("esporte") || key.includes("fitness")) return "Esportes";
+    if (key.includes("brinquedo") || key.includes("toy")) return "Brinquedos";
+    if (key.includes("bebe") || key.includes("bebê") || key.includes("maternity") || key.includes("baby")) return "Bebês";
+    if (key.includes("pet")) return "Pet";
+    if (key.includes("saude") || key.includes("saúde") || key.includes("health")) return "Saúde";
+    if (key.includes("papelaria") || key.includes("armarinho")) return "Papelaria";
+    if (key.includes("ferramenta") || key.includes("tool")) return "Ferramentas";
+
+    return inferCategoryFromTitle(title) || text || "Outros";
+  }
+
+  function inferCategoryFromTitle(title) {
+    if (!title) return "";
+
+    if (
+      title.includes("fralda") ||
+      title.includes("sabonete") ||
+      title.includes("detergente") ||
+      title.includes("amaciante") ||
+      title.includes("papel higienico") ||
+      title.includes("papel higiênico") ||
+      title.includes("lava roupas")
+    ) return "Supermercados";
+
+    if (
+      title.includes("smartphone") ||
+      title.includes("celular") ||
+      title.includes("iphone") ||
+      title.includes("galaxy") ||
+      title.includes("xiaomi") ||
+      title.includes("redmi")
+    ) return "Celulares";
+
+    if (
+      title.includes("fone") ||
+      title.includes("bluetooth") ||
+      title.includes("caixa de som") ||
+      title.includes("projetor") ||
+      title.includes("camera") ||
+      title.includes("câmera")
+    ) return "Eletrônicos";
+
+    if (
+      title.includes("notebook") ||
+      title.includes("monitor") ||
+      title.includes("ssd") ||
+      title.includes("teclado") ||
+      title.includes("mouse") ||
+      title.includes("roteador")
+    ) return "Informática";
+
+    if (
+      title.includes("xbox") ||
+      title.includes("playstation") ||
+      title.includes("ps5") ||
+      title.includes("nintendo") ||
+      title.includes("console") ||
+      title.includes("game")
+    ) return "Games";
+
+    if (
+      title.includes("air fryer") ||
+      title.includes("panela") ||
+      title.includes("cafeteira") ||
+      title.includes("liquidificador")
+    ) return "Casa e Cozinha";
+
+    if (
+      title.includes("vestido") ||
+      title.includes("blusa feminina") ||
+      title.includes("bolsa feminina")
+    ) return "Moda Feminina";
+
+    if (
+      title.includes("camiseta masculina") ||
+      title.includes("camisa masculina") ||
+      title.includes("bermuda masculina")
+    ) return "Moda Masculina";
+
+    if (
+      title.includes("tenis") ||
+      title.includes("tênis") ||
+      title.includes("sapato") ||
+      title.includes("sandalia") ||
+      title.includes("sandália")
+    ) return "Calçados";
+
+    if (title.includes("bolsa") || title.includes("mochila")) return "Bolsas";
+    if (title.includes("bebê") || title.includes("bebe") || title.includes("mamadeira")) return "Bebês";
+    if (title.includes("pet") || title.includes("cachorro") || title.includes("gato")) return "Pet";
+    if (title.includes("brinquedo") || title.includes("lego")) return "Brinquedos";
+    if (title.includes("furadeira") || title.includes("parafusadeira")) return "Ferramentas";
+    if (title.includes("skincare") || title.includes("maquiagem") || title.includes("secador")) return "Beleza";
+
+    return "";
+  }
+
+  function patchCategoryFunctions() {
+    // Substitui categoryLabel global se existir.
+    window.marylouseCanonicalCategory = canonicalCategory;
+
+    // Se a função categoryLabel existir no escopo global, alguns navegadores permitem sobrescrever.
+    try {
+      window.categoryLabel = function (offer) {
+        let raw = "";
+
+        if (offer) {
+          if (offer.niche && offer.niche.name) {
+            raw = offer.niche.name;
+          } else {
+            raw = offer.category || "";
+          }
+        }
+
+        return canonicalCategory(raw, offer);
+      };
+    } catch (e) {}
+  }
+
+  function categoryOrderValue(cat) {
+    const idx = CATEGORY_ORDER.indexOf(cat);
+    return idx >= 0 ? idx : 999;
+  }
+
+  function patchRenderedCategoryButtons() {
+    const container = document.getElementById("categoryFilters");
+    if (!container) return;
+
+    const buttons = Array.from(container.querySelectorAll(".category-btn"));
+
+    buttons.forEach((btn) => {
+      const raw = btn.getAttribute("data-category") || btn.textContent || "";
+      const countMatch = btn.textContent.match(/\(\d+\)/);
+      const clean = raw.replace(/\(\d+\)/g, "").trim();
+
+      const canonical = clean === "todos" || normalizeTextML(clean).includes("todos")
+        ? "Todos os nichos"
+        : canonicalCategory(clean, null);
+
+      const icon = CATEGORY_ICONS[canonical] || "📦";
+      const count = countMatch ? " " + countMatch[0] : "";
+
+      btn.setAttribute("data-category", canonical === "Todos os nichos" ? "todos" : canonical);
+      btn.innerHTML = `${icon} ${canonical}${count}`;
+    });
+
+    const sorted = Array.from(container.querySelectorAll(".category-btn")).sort((a, b) => {
+      const ca = a.getAttribute("data-category") === "todos" ? "Todos os nichos" : a.getAttribute("data-category");
+      const cb = b.getAttribute("data-category") === "todos" ? "Todos os nichos" : b.getAttribute("data-category");
+      return categoryOrderValue(ca) - categoryOrderValue(cb);
+    });
+
+    sorted.forEach(btn => container.appendChild(btn));
+  }
+
+  function patchCategoryTextOnCards() {
+    document.querySelectorAll(".product-card .category").forEach((el) => {
+      const card = el.closest(".product-card");
+      const title = card ? (card.querySelector(".product-title")?.textContent || "") : "";
+      const canonical = canonicalCategory(el.textContent, { title });
+      const icon = CATEGORY_ICONS[canonical] || "📦";
+      el.textContent = `${icon} ${canonical}`;
+    });
+  }
+
+  function runCategoryPatch() {
+    patchCategoryFunctions();
+    patchRenderedCategoryButtons();
+    patchCategoryTextOnCards();
+  }
+
+  document.addEventListener("DOMContentLoaded", function () {
+    runCategoryPatch();
+    setTimeout(runCategoryPatch, 500);
+    setTimeout(runCategoryPatch, 1500);
+  });
+
+  const observer = new MutationObserver(function () {
+    runCategoryPatch();
+  });
+
+  document.addEventListener("DOMContentLoaded", function () {
+    const grid = document.getElementById("offersGrid");
+    const filters = document.getElementById("categoryFilters");
+
+    if (grid) observer.observe(grid, { childList: true, subtree: true });
+    if (filters) observer.observe(filters, { childList: true, subtree: true });
+  });
+})();
+</script>
+<!-- MARYLOUSE_CATEGORY_NORMALIZER_END -->
 </body>
 </html>
+
 
 
 

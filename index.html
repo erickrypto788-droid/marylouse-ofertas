@@ -2764,8 +2764,297 @@
 })();
 </script>
 <!-- MARYLOUSE_SHOPEE_COUPON_CTA_END -->
+<!-- MARYLOUSE_MAIN_TABS_START -->
+<style>
+  .main-tabs-section {
+    margin: 0 auto 26px;
+  }
+
+  .main-tabs-box {
+    background: rgba(255, 255, 255, 0.78);
+    border: 1px solid #f0dbe2;
+    border-radius: 26px;
+    padding: 18px;
+    box-shadow: 0 12px 28px rgba(180, 50, 95, 0.10);
+  }
+
+  .main-tabs-head {
+    display: flex;
+    justify-content: space-between;
+    gap: 14px;
+    align-items: flex-end;
+    margin-bottom: 14px;
+  }
+
+  .main-tabs-title {
+    margin: 0;
+    font-size: 22px;
+    font-weight: 950;
+    letter-spacing: -0.5px;
+  }
+
+  .main-tabs-subtitle {
+    margin: 5px 0 0;
+    color: #75646a;
+    font-size: 14px;
+    font-weight: 750;
+    line-height: 1.4;
+  }
+
+  .main-tabs-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+
+  .main-tab-btn {
+    border: 1px solid #f0dbe2;
+    background: #ffffff;
+    color: #75646a;
+    border-radius: 999px;
+    padding: 11px 14px;
+    font-weight: 950;
+    font-size: 14px;
+    cursor: pointer;
+    box-shadow: 0 8px 18px rgba(180, 50, 95, 0.06);
+    transition: transform .16s ease, background .16s ease, color .16s ease, border-color .16s ease;
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
+  }
+
+  .main-tab-btn:hover {
+    transform: translateY(-2px);
+  }
+
+  .main-tab-btn.active {
+    background: linear-gradient(135deg, #ff2f7d, #cf1d5f);
+    color: #ffffff;
+    border-color: transparent;
+    box-shadow: 0 10px 22px rgba(255, 47, 125, 0.22);
+  }
+
+  .main-tabs-note {
+    margin-top: 12px;
+    color: #75646a;
+    font-size: 13px;
+    font-weight: 800;
+  }
+
+  .main-tabs-note strong {
+    color: #cf1d5f;
+  }
+
+  @media (max-width: 680px) {
+    .main-tabs-box {
+      border-radius: 20px;
+      padding: 14px;
+    }
+
+    .main-tabs-head {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+
+    .main-tab-btn {
+      padding: 10px 12px;
+      font-size: 13px;
+    }
+  }
+</style>
+
+<script>
+(function () {
+  const MAIN_TABS = [
+    { label: "Todos", category: "todos", icon: "✨" },
+    { label: "Supermercados", category: "Supermercados", icon: "🛒" },
+    { label: "Celulares", category: "Celulares", icon: "📱" },
+    { label: "Eletrônicos", category: "Eletrônicos", icon: "🎧" },
+    { label: "Informática", category: "Informática", icon: "💻" },
+    { label: "Games", category: "Jogos e Consoles", icon: "🎮" },
+    { label: "Casa e Cozinha", category: "Casa e Cozinha", icon: "🍳" },
+    { label: "Eletrodomésticos", category: "Eletrodomésticos", icon: "🔌" },
+    { label: "Moda", category: "Moda", icon: "🛍️" },
+    { label: "Beleza", category: "Beleza", icon: "💄" },
+    { label: "Esportes", category: "Esportes e Lazer", icon: "🏋️" },
+    { label: "Mãe e Bebê", category: "Mãe e Bebê", icon: "🍼" },
+    { label: "Pet", category: "Pet", icon: "🐶" },
+    { label: "Saúde", category: "Saúde", icon: "❤️" },
+    { label: "Papelaria", category: "Papelaria", icon: "📚" },
+    { label: "Ferramentas", category: "Ferramentas", icon: "🧰" }
+  ];
+
+  function normalize(value) {
+    return String(value || "")
+      .normalize("NFD")
+      .replace(/[\u0300-\u036f]/g, "")
+      .toLowerCase()
+      .replace(/\s+/g, " ")
+      .trim();
+  }
+
+  function ensureMainTabs() {
+    if (document.getElementById("mainTabsSection")) return;
+
+    const ofertas = document.getElementById("ofertas");
+    if (!ofertas || !ofertas.parentNode) return;
+
+    const section = document.createElement("section");
+    section.className = "container main-tabs-section";
+    section.id = "mainTabsSection";
+
+    section.innerHTML = `
+      <div class="main-tabs-box">
+        <div class="main-tabs-head">
+          <div>
+            <h2 class="main-tabs-title">🧭 Explore por categoria</h2>
+            <p class="main-tabs-subtitle">
+              Acesse rapidamente os principais nichos de ofertas da MaryLouse.
+            </p>
+          </div>
+        </div>
+
+        <div class="main-tabs-grid" id="mainTabsGrid">
+          ${MAIN_TABS.map((tab, index) => `
+            <button
+              class="main-tab-btn ${index === 0 ? "active" : ""}"
+              type="button"
+              data-main-category="${tab.category}"
+            >
+              <span>${tab.icon}</span>
+              <span>${tab.label}</span>
+            </button>
+          `).join("")}
+        </div>
+
+        <div class="main-tabs-note" id="mainTabsNote">
+          <strong>Dica:</strong> escolha uma categoria para filtrar as ofertas disponíveis.
+        </div>
+      </div>
+    `;
+
+    ofertas.parentNode.insertBefore(section, ofertas);
+
+    section.querySelectorAll(".main-tab-btn").forEach((btn) => {
+      btn.addEventListener("click", () => {
+        section.querySelectorAll(".main-tab-btn").forEach((b) => b.classList.remove("active"));
+        btn.classList.add("active");
+
+        const category = btn.getAttribute("data-main-category") || "todos";
+        applyMainCategory(category);
+
+        try {
+          if (typeof window.gtag === "function") {
+            window.gtag("event", "click_main_category_tab", {
+              event_category: "navigation",
+              category: category
+            });
+          }
+        } catch (error) {}
+      });
+    });
+  }
+
+  function applyMainCategory(category) {
+    const ofertas = document.getElementById("ofertas");
+
+    if (ofertas) {
+      ofertas.scrollIntoView({ behavior: "smooth", block: "start" });
+    }
+
+    const note = document.getElementById("mainTabsNote");
+
+    if (note) {
+      if (category === "todos") {
+        note.innerHTML = "<strong>Exibindo:</strong> todas as ofertas recentes.";
+      } else {
+        note.innerHTML = "<strong>Exibindo categoria:</strong> " + category + ".";
+      }
+    }
+
+    setTimeout(() => {
+      const categoryButtons = Array.from(document.querySelectorAll(".category-btn"));
+
+      if (!categoryButtons.length) {
+        return;
+      }
+
+      if (category === "todos") {
+        const allBtn = categoryButtons.find((btn) => {
+          const data = btn.getAttribute("data-category") || "";
+          const text = btn.textContent || "";
+          return data === "todos" || normalize(text).includes("todos");
+        });
+
+        if (allBtn) {
+          allBtn.click();
+        }
+
+        return;
+      }
+
+      const wanted = normalize(category);
+
+      let btn = categoryButtons.find((button) => {
+        const data = normalize(button.getAttribute("data-category") || "");
+        const text = normalize(button.textContent || "");
+        return data === wanted || text.includes(wanted);
+      });
+
+      // Fallback para categorias com nomes próximos
+      if (!btn) {
+        const aliases = {
+          "games": ["jogos", "console", "consoles"],
+          "jogos e consoles": ["games", "jogos", "console", "consoles"],
+          "casa e cozinha": ["cozinha", "casa"],
+          "mae e bebe": ["bebe", "bebes", "maternidade"],
+          "mãe e bebê": ["bebe", "bebes", "maternidade"],
+          "eletronicos": ["eletronicos", "eletrônicos", "audio", "video"],
+          "eletrônicos": ["eletronicos", "audio", "video"]
+        };
+
+        const aliasList = aliases[wanted] || [];
+
+        btn = categoryButtons.find((button) => {
+          const data = normalize(button.getAttribute("data-category") || "");
+          const text = normalize(button.textContent || "");
+          return aliasList.some((alias) => data.includes(alias) || text.includes(alias));
+        });
+      }
+
+      if (btn) {
+        btn.click();
+      } else {
+        // Se a categoria ainda não existir nos filtros, usa busca como fallback.
+        const search = document.getElementById("searchInput");
+
+        if (search) {
+          search.value = category;
+          search.dispatchEvent(new Event("input", { bubbles: true }));
+        }
+      }
+    }, 300);
+  }
+
+  function init() {
+    ensureMainTabs();
+  }
+
+  document.addEventListener("DOMContentLoaded", function () {
+    init();
+    setTimeout(init, 400);
+    setTimeout(init, 1200);
+  });
+
+  if (document.readyState === "interactive" || document.readyState === "complete") {
+    init();
+  }
+})();
+</script>
+<!-- MARYLOUSE_MAIN_TABS_END -->
 </body>
 </html>
+
 
 
 

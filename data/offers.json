@@ -5,7 +5,7 @@
     "raw_title": "Controle Xbox 360 Preto",
     "description": "🎮 De volta ao jogo! Controle Xbox 360 Preto para você reviver os clássicos. 🔥 Qualidade e diversão garantidas! 🚚 Frete Grátis!",
     "marketplace": "Mercado Livre",
-    "category": "Gamepads And Joysticks",
+    "category": "Jogos e Consoles",
     "old_price": "",
     "price": "R$ 600,00",
     "discount_percent": 0.0,
@@ -14,7 +14,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65998922?matt_word=eu20251007130002&matt_tool=50459180&forceInApp=true",
     "created_at": "22/07/2026 08:06",
     "created_at_iso": "2026-07-22T08:06:04",
-    "created_ts": 1784707564
+    "created_ts": 1784707564,
+    "original_category": "Gamepads And Joysticks"
   },
   {
     "id": "e5ada9a54d4955694e",
@@ -136,7 +137,7 @@
     "raw_title": "Jogos ​​Labirinto Magnético Montessori de Madeira - Classificação de Cores para Criança / Infantil Brinquedo Educativo",
     "description": "🧠 Seu filho vai amar aprender brincando! Labirinto Magnético Montessori de Madeira: um brinquedo educativo que estimula a coordenação, o raciocínio e a...",
     "marketplace": "Shopee",
-    "category": "Brinquedos e Hobbies",
+    "category": "Pet",
     "old_price": "R$ 80,81",
     "price": "R$ 29,90",
     "discount_percent": 63.0,
@@ -149,7 +150,8 @@
     "niche": {
       "key": "shopee_brinquedos_hobbies",
       "name": "Brinquedos e Hobbies"
-    }
+    },
+    "original_category": "Brinquedos e Hobbies"
   },
   {
     "id": "5719eb68c9948f5df8",
@@ -178,7 +180,7 @@
     "raw_title": "Kit Pintura Terapêutica - Cervo",
     "description": "🎨 Relaxe e Crie! ✨ Transforme seu dia com o Kit Pintura Terapêutica - Cervo. Uma experiência única para aliviar o estresse e despertar sua criatividade....",
     "marketplace": "Mercado Livre",
-    "category": "Canvas And Wooden Frames",
+    "category": "Papelaria",
     "old_price": "",
     "price": "R$ 139,90",
     "discount_percent": 0.0,
@@ -187,7 +189,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB34706446?matt_word=eu20251007130002&matt_tool=50459180&forceInApp=true",
     "created_at": "22/07/2026 07:06",
     "created_at_iso": "2026-07-22T07:06:46",
-    "created_ts": 1784704006
+    "created_ts": 1784704006,
+    "original_category": "Canvas And Wooden Frames"
   },
   {
     "id": "abd360946b925f7439",
@@ -195,7 +198,7 @@
     "raw_title": "Kit Pintura Terapêutica - Artistas",
     "description": "🎨 Liberte sua criatividade com o Kit Pintura Terapêutica - Artistas! Perfeito para relaxar e expressar sua arte. ✨ ✅ Frete Grátis para todo Brasil! 📦",
     "marketplace": "Mercado Livre",
-    "category": "Canvas And Wooden Frames",
+    "category": "Papelaria",
     "old_price": "",
     "price": "R$ 139,90",
     "discount_percent": 0.0,
@@ -204,7 +207,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59864860?matt_word=eu20251007130002&matt_tool=50459180&forceInApp=true",
     "created_at": "22/07/2026 07:05",
     "created_at_iso": "2026-07-22T07:05:36",
-    "created_ts": 1784703936
+    "created_ts": 1784703936,
+    "original_category": "Canvas And Wooden Frames"
   },
   {
     "id": "c34359acb5c59ef76e",
@@ -212,7 +216,7 @@
     "raw_title": "Kit Desenho Sketching Caran d'Ache 14 Peças Lápis Grafite",
     "description": "🎨 Desperte o artista em você! Kit Desenho Sketching Caran d'Ache 14 Peças Lápis Grafite com desconto! Um kit completo para dar vida às suas criações, co...",
     "marketplace": "Mercado Livre",
-    "category": "Pencils",
+    "category": "Papelaria",
     "old_price": "R$ 554,62",
     "price": "R$ 526,88",
     "discount_percent": 5.0,
@@ -221,7 +225,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB27015525?matt_word=eu20251007130002&matt_tool=50459180&forceInApp=true",
     "created_at": "22/07/2026 07:04",
     "created_at_iso": "2026-07-22T07:04:27",
-    "created_ts": 1784703867
+    "created_ts": 1784703867,
+    "original_category": "Pencils"
   },
   {
     "id": "dba41d9e8701cf1251",
@@ -229,7 +234,7 @@
     "raw_title": "Ribbon Resina Mastercorp 110x300 Para Impressora Etiquetas BOPP Vinil",
     "description": "⚡️ Qualidade Mastercorp com desconto! Garanta impressões duráveis e de alta resistência com o Ribbon Resina Mastercorp 110x300 para Impressora de Etique...",
     "marketplace": "Mercado Livre",
-    "category": "Printer Ribbons",
+    "category": "Informática",
     "old_price": "R$ 638,40",
     "price": "R$ 606,48",
     "discount_percent": 5.0,
@@ -238,7 +243,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB44215301?matt_word=eu20251007130002&matt_tool=50459180&forceInApp=true",
     "created_at": "22/07/2026 07:03",
     "created_at_iso": "2026-07-22T07:03:14",
-    "created_ts": 1784703794
+    "created_ts": 1784703794,
+    "original_category": "Printer Ribbons"
   },
   {
     "id": "d45aacce1e47bd49c9",
@@ -246,7 +252,7 @@
     "raw_title": "Kit Pintura Terapêutica - Mandalah",
     "description": "🔥 5% OFF — Oferta encontrada! 📌 Kit Pintura Terapêutica - Mandalah Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
     "marketplace": "Mercado Livre",
-    "category": "Canvas And Wooden Frames",
+    "category": "Papelaria",
     "old_price": "R$ 84,42",
     "price": "R$ 80,19",
     "discount_percent": 5.0,
@@ -255,7 +261,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB37803808?matt_word=eu20251007130002&matt_tool=50459180&forceInApp=true",
     "created_at": "22/07/2026 07:02",
     "created_at_iso": "2026-07-22T07:02:02",
-    "created_ts": 1784703722
+    "created_ts": 1784703722,
+    "original_category": "Canvas And Wooden Frames"
   },
   {
     "id": "67a386a2016c6e430a",
@@ -284,7 +291,7 @@
     "raw_title": "KIT COM 2 SHORTS FEMININO 2 EM 1 FEMININO DRY FIT C/ Bolso Porta Celular Kaizen Academia, Treino",
     "description": "🔥 64% OFF — Oferta encontrada! 📌 KIT COM 2 SHORTS FEMININO 2 EM 1 FEMININO DRY FIT C/ Bolso Porta Celular Kaizen Academia, Treino Confira os detalhes e...",
     "marketplace": "Shopee",
-    "category": "Esportes e Lazer",
+    "category": "Celulares",
     "old_price": "R$ 91,11",
     "price": "R$ 32,80",
     "discount_percent": 64.0,
@@ -297,7 +304,8 @@
     "niche": {
       "key": "shopee_esportes_lazer",
       "name": "Esportes e Lazer"
-    }
+    },
+    "original_category": "Esportes e Lazer"
   },
   {
     "id": "b81da435cad81d42e1",
@@ -368,7 +376,7 @@
     "raw_title": "Tchauzinho, Fralda! - Melhoramentos",
     "description": "🔥 10% OFF — Oferta encontrada! 📌 Tchauzinho, Fralda! - Melhoramentos Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
     "marketplace": "Mercado Livre",
-    "category": "Books",
+    "category": "Supermercados",
     "old_price": "R$ 55,00",
     "price": "R$ 49,50",
     "discount_percent": 10.0,
@@ -377,7 +385,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB40540370?matt_word=eu20251007130002&matt_tool=50459180&forceInApp=true",
     "created_at": "22/07/2026 06:06",
     "created_at_iso": "2026-07-22T06:06:19",
-    "created_ts": 1784700379
+    "created_ts": 1784700379,
+    "original_category": "Books"
   },
   {
     "id": "4e15cc0d101e5a26dd",
@@ -385,7 +394,7 @@
     "raw_title": "Kit Carrinho Bebê + Bebê Conforto Dourado",
     "description": "🔥 10% OFF — Oferta encontrada! 📌 Kit Carrinho Bebê + Bebê Conforto Dourado Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
     "marketplace": "Mercado Livre",
-    "category": "Baby Strollers",
+    "category": "Mãe e Bebê",
     "old_price": "R$ 2.249,90",
     "price": "R$ 2.024,91",
     "discount_percent": 10.0,
@@ -394,7 +403,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB53969172?matt_word=eu20251007130002&matt_tool=50459180&forceInApp=true",
     "created_at": "22/07/2026 06:05",
     "created_at_iso": "2026-07-22T06:05:14",
-    "created_ts": 1784700314
+    "created_ts": 1784700314,
+    "original_category": "Baby Strollers"
   },
   {
     "id": "f1eaee51c2f2310433",
@@ -402,7 +412,7 @@
     "raw_title": "Cadeira De Alimentação Portátil Infantil Bebê Refeição 3em1 Cadeira Alimentação Rosa",
     "description": "🔥 17% OFF — Oferta encontrada! 📌 Cadeira De Alimentação Portátil Infantil Bebê Refeição 3em1 Cadeira Alimentação Rosa Confira os detalhes e aproveite en...",
     "marketplace": "Mercado Livre",
-    "category": "Baby High Chairs",
+    "category": "Mãe e Bebê",
     "old_price": "R$ 299,99",
     "price": "R$ 248,99",
     "discount_percent": 17.0,
@@ -411,7 +421,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB69613472?matt_word=eu20251007130002&matt_tool=50459180&forceInApp=true",
     "created_at": "22/07/2026 06:04",
     "created_at_iso": "2026-07-22T06:04:10",
-    "created_ts": 1784700250
+    "created_ts": 1784700250,
+    "original_category": "Baby High Chairs"
   },
   {
     "id": "5c39781739af8c2f89",
@@ -419,7 +430,7 @@
     "raw_title": "Babá Eletrônica Hellobaby Hb66pro Monitor Bebê 3.2 White",
     "description": "🔥 19% OFF — Oferta encontrada! 📌 Babá Eletrônica Hellobaby Hb66pro Monitor Bebê 3.2 White Confira os detalhes e aproveite enquanto a oferta estiver disp...",
     "marketplace": "Mercado Livre",
-    "category": "Baby Monitors",
+    "category": "Informática",
     "old_price": "R$ 431,42",
     "price": "R$ 348,00",
     "discount_percent": 19.0,
@@ -428,7 +439,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51893724?matt_word=eu20251007130002&matt_tool=50459180&forceInApp=true",
     "created_at": "22/07/2026 06:02",
     "created_at_iso": "2026-07-22T06:02:01",
-    "created_ts": 1784700121
+    "created_ts": 1784700121,
+    "original_category": "Baby Monitors"
   },
   {
     "id": "e88bfa1e61a46440fb",
@@ -436,7 +448,7 @@
     "raw_title": "Kit 4 Peças Conjunto Infantil Bebê Menino Verão Algodão Promoção 2 Camisas 2 Shorts Envio Sortido",
     "description": "🔥 67% OFF — Oferta encontrada! 📌 Kit 4 Peças Conjunto Infantil Bebê Menino Verão Algodão Promoção 2 Camisas 2 Shorts Envio Sortido Confira os detalhes e...",
     "marketplace": "Shopee",
-    "category": "Moda infantil",
+    "category": "Mãe e Bebê",
     "old_price": "R$ 130,30",
     "price": "R$ 43,00",
     "discount_percent": 67.0,
@@ -449,7 +461,8 @@
     "niche": {
       "key": "shopee_moda_infantil",
       "name": "Moda infantil"
-    }
+    },
+    "original_category": "Moda infantil"
   },
   {
     "id": "0e2eac78fd70dbe747",
@@ -541,7 +554,7 @@
     "raw_title": "Comedouro Elevado Duplo Ração Gato Porcelana Acrilico 190ml Porta Racao Gato Comedouro Rosa",
     "description": "🔥 30% OFF — Oferta encontrada! 📌 Comedouro Elevado Duplo Ração Gato Porcelana Acrilico 190ml Porta Racao Gato Comedouro Rosa Confira os detalhes e aprov...",
     "marketplace": "Mercado Livre",
-    "category": "Cat And Dog Drinkers And Feeders",
+    "category": "Pet",
     "old_price": "R$ 78,80",
     "price": "R$ 54,80",
     "discount_percent": 30.0,
@@ -550,7 +563,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67529462?matt_word=eu20251007130002&matt_tool=50459180&forceInApp=true",
     "created_at": "22/07/2026 05:06",
     "created_at_iso": "2026-07-22T05:06:23",
-    "created_ts": 1784696783
+    "created_ts": 1784696783,
+    "original_category": "Cat And Dog Drinkers And Feeders"
   },
   {
     "id": "0027abb2f3ab98b975",
@@ -558,7 +572,7 @@
     "raw_title": "Arranhador Gato Torre 86cm G Base Estável Arranhador Torre Cor Vermelho",
     "description": "🔥 21% OFF — Oferta encontrada! 📌 Arranhador Gato Torre 86cm G Base Estável Arranhador Torre Cor Vermelho Confira os detalhes e aproveite enquanto a ofer...",
     "marketplace": "Mercado Livre",
-    "category": "Cat Scratchers",
+    "category": "Pet",
     "old_price": "R$ 219,87",
     "price": "R$ 174,60",
     "discount_percent": 21.0,
@@ -567,7 +581,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB73643949?matt_word=eu20251007130002&matt_tool=50459180&forceInApp=true",
     "created_at": "22/07/2026 05:05",
     "created_at_iso": "2026-07-22T05:05:19",
-    "created_ts": 1784696719
+    "created_ts": 1784696719,
+    "original_category": "Cat Scratchers"
   },
   {
     "id": "ca6909685432378ed3",
@@ -575,7 +590,7 @@
     "raw_title": "Cama Para Cachorro Grande Suspensa Cama Pet Tamanho G Cama Cachorro Lavável Ortopédica Dogets",
     "description": "🔥 24% OFF — Oferta encontrada! 📌 Cama Para Cachorro Grande Suspensa Cama Pet Tamanho G Cama Cachorro Lavável Ortopédica Dogets Confira os detalhes e apr...",
     "marketplace": "Mercado Livre",
-    "category": "Cat And Dog Beds",
+    "category": "Pet",
     "old_price": "R$ 249,90",
     "price": "R$ 189,90",
     "discount_percent": 24.0,
@@ -584,7 +599,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB26797811?matt_word=eu20251007130002&matt_tool=50459180&forceInApp=true",
     "created_at": "22/07/2026 05:04",
     "created_at_iso": "2026-07-22T05:04:14",
-    "created_ts": 1784696654
+    "created_ts": 1784696654,
+    "original_category": "Cat And Dog Beds"
   },
   {
     "id": "05fd8ad0d8ebd0a7fb",
@@ -592,7 +608,7 @@
     "raw_title": "Chalesco Tapete Cama Cachorro Gelado Grande Cor Azul",
     "description": "🔥 24% OFF — Oferta encontrada! 📌 Chalesco Tapete Cama Cachorro Gelado Grande Cor Azul Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
     "marketplace": "Mercado Livre",
-    "category": "Cat And Dog Beds",
+    "category": "Pet",
     "old_price": "R$ 112,00",
     "price": "R$ 85,05",
     "discount_percent": 24.0,
@@ -601,7 +617,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB26166826?matt_word=eu20251007130002&matt_tool=50459180&forceInApp=true",
     "created_at": "22/07/2026 05:03",
     "created_at_iso": "2026-07-22T05:03:10",
-    "created_ts": 1784696590
+    "created_ts": 1784696590,
+    "original_category": "Cat And Dog Beds"
   },
   {
     "id": "bc7962acf91c1a6295",
@@ -609,7 +626,7 @@
     "raw_title": "Ração Gato Estimacat Premium Adulto Sabor Carne 15kg",
     "description": "🔥 25% OFF — Oferta encontrada! 📌 Ração Gato Estimacat Premium Adulto Sabor Carne 15kg Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
     "marketplace": "Mercado Livre",
-    "category": "Cat And Dog Foods",
+    "category": "Pet",
     "old_price": "R$ 356,33",
     "price": "R$ 267,24",
     "discount_percent": 25.0,
@@ -618,7 +635,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66541712?matt_word=eu20251007130002&matt_tool=50459180&forceInApp=true",
     "created_at": "22/07/2026 05:02",
     "created_at_iso": "2026-07-22T05:02:06",
-    "created_ts": 1784696526
+    "created_ts": 1784696526,
+    "original_category": "Cat And Dog Foods"
   },
   {
     "id": "652a83958e070eae77",
@@ -626,7 +644,7 @@
     "raw_title": "Bota Feminina GiGiL Cano Longo Enrugado Slouch Bico Fino Salto Bloco Médio Elegante Clássica Casual",
     "description": "🔥 59% OFF — Oferta encontrada! 📌 Bota Feminina GiGiL Cano Longo Enrugado Slouch Bico Fino Salto Bloco Médio Elegante Clássica Casual Confira os detalhes...",
     "marketplace": "Shopee",
-    "category": "Sapatos Femininos",
+    "category": "Sapatos",
     "old_price": "R$ 301,37",
     "price": "R$ 123,56",
     "discount_percent": 59.0,
@@ -639,7 +657,8 @@
     "niche": {
       "key": "shopee_sapatos_femininos",
       "name": "Sapatos Femininos"
-    }
+    },
+    "original_category": "Sapatos Femininos"
   },
   {
     "id": "f39e5e9da26c76f3d9",
@@ -647,7 +666,7 @@
     "raw_title": "Sandália Feminina Chinelos de Praia Com Enfeites Luxo Confortável Eva",
     "description": "🔥 72% OFF — Oferta encontrada! 📌 Sandália Feminina Chinelos de Praia Com Enfeites Luxo Confortável Eva Confira os detalhes e aproveite enquanto a oferta...",
     "marketplace": "Shopee",
-    "category": "Sapatos Femininos",
+    "category": "Sapatos",
     "old_price": "R$ 128,54",
     "price": "R$ 35,99",
     "discount_percent": 72.0,
@@ -660,7 +679,8 @@
     "niche": {
       "key": "shopee_sapatos_femininos",
       "name": "Sapatos Femininos"
-    }
+    },
+    "original_category": "Sapatos Femininos"
   },
   {
     "id": "fc5e4b396aa2e720eb",
@@ -668,7 +688,7 @@
     "raw_title": "Sandália Feminina Conforto Premium Com Detalhe Dourado Elegante | Casual E Sofisticada GABI",
     "description": "🔥 63% OFF — Oferta encontrada! 📌 Sandália Feminina Conforto Premium Com Detalhe Dourado Elegante | Casual E Sofisticada GABI Confira os detalhes e aprov...",
     "marketplace": "Shopee",
-    "category": "Sapatos Femininos",
+    "category": "Sapatos",
     "old_price": "R$ 121,30",
     "price": "R$ 44,88",
     "discount_percent": 63.0,
@@ -681,7 +701,8 @@
     "niche": {
       "key": "shopee_sapatos_femininos",
       "name": "Sapatos Femininos"
-    }
+    },
+    "original_category": "Sapatos Femininos"
   },
   {
     "id": "1ea5eed7b0d50e3a76",
@@ -689,7 +710,7 @@
     "raw_title": "Tênis Sapatênis Sapatilha feminino Slip On Zíp casual Leve e confortável envio imediato",
     "description": "🔥 46% OFF — Oferta encontrada! 📌 Tênis Sapatênis Sapatilha feminino Slip On Zíp casual Leve e confortável envio imediato Confira os detalhes e aproveite...",
     "marketplace": "Shopee",
-    "category": "Sapatos Femininos",
+    "category": "Sapatos",
     "old_price": "R$ 99,96",
     "price": "R$ 53,98",
     "discount_percent": 46.0,
@@ -702,7 +723,8 @@
     "niche": {
       "key": "shopee_sapatos_femininos",
       "name": "Sapatos Femininos"
-    }
+    },
+    "original_category": "Sapatos Femininos"
   },
   {
     "id": "48f6c2f1bbc3164783",
@@ -710,7 +732,7 @@
     "raw_title": "pronta entrega envio imediato Sandália Saltinho 4 cm Tira de Strass Brilho Calce Fácil Confortável elegante dia a dia",
     "description": "🔥 56% OFF — Oferta encontrada! 📌 pronta entrega envio imediato Sandália Saltinho 4 cm Tira de Strass Brilho Calce Fácil Confortável elegante dia a dia C...",
     "marketplace": "Shopee",
-    "category": "Sapatos Femininos",
+    "category": "Sapatos",
     "old_price": "R$ 79,93",
     "price": "R$ 35,17",
     "discount_percent": 56.0,
@@ -723,7 +745,8 @@
     "niche": {
       "key": "shopee_sapatos_femininos",
       "name": "Sapatos Femininos"
-    }
+    },
+    "original_category": "Sapatos Femininos"
   },
   {
     "id": "508e3d28d4fe903128",
@@ -731,7 +754,7 @@
     "raw_title": "Braçadeira para Aparelho Monitor Pressão Digital Infantil Omron",
     "description": "🔥 Oferta encontrada! 📌 Braçadeira para Aparelho Monitor Pressão Digital Infantil Omron Confira os detalhes e aproveite enquanto a oferta estiver disponí...",
     "marketplace": "Mercado Livre",
-    "category": "Blood Pressure Monitors",
+    "category": "Informática",
     "old_price": "",
     "price": "R$ 159,90",
     "discount_percent": 0.0,
@@ -740,7 +763,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21719639?matt_word=eu20251007130002&matt_tool=50459180&forceInApp=true",
     "created_at": "22/07/2026 04:06",
     "created_at_iso": "2026-07-22T04:06:16",
-    "created_ts": 1784693176
+    "created_ts": 1784693176,
+    "original_category": "Blood Pressure Monitors"
   },
   {
     "id": "866b1e48a38af72506",
@@ -748,7 +772,7 @@
     "raw_title": "Aparelho Monitor Pressão Arterial Portátil Pulso Omron",
     "description": "🔥 Oferta encontrada! 📌 Aparelho Monitor Pressão Arterial Portátil Pulso Omron Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
     "marketplace": "Mercado Livre",
-    "category": "Blood Pressure Monitors",
+    "category": "Informática",
     "old_price": "",
     "price": "R$ 189,88",
     "discount_percent": 0.0,
@@ -757,7 +781,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB22958206?matt_word=eu20251007130002&matt_tool=50459180&forceInApp=true",
     "created_at": "22/07/2026 04:05",
     "created_at_iso": "2026-07-22T04:05:11",
-    "created_ts": 1784693111
+    "created_ts": 1784693111,
+    "original_category": "Blood Pressure Monitors"
   },
   {
     "id": "ea70e149e06d9afb47",
@@ -765,7 +790,7 @@
     "raw_title": "Mini Ar Condicionado Portatil Umidificador Ar Cor Coral",
     "description": "🔥 33% OFF — Oferta encontrada! 📌 Mini Ar Condicionado Portatil Umidificador Ar Cor Coral Confira os detalhes e aproveite enquanto a oferta estiver dispo...",
     "marketplace": "Mercado Livre",
-    "category": "Portable Evaporative Air Coolers",
+    "category": "Eletrodomésticos",
     "old_price": "R$ 69,90",
     "price": "R$ 46,99",
     "discount_percent": 33.0,
@@ -774,7 +799,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB44412035?matt_word=eu20251007130002&matt_tool=50459180&forceInApp=true",
     "created_at": "22/07/2026 04:04",
     "created_at_iso": "2026-07-22T04:04:06",
-    "created_ts": 1784693046
+    "created_ts": 1784693046,
+    "original_category": "Portable Evaporative Air Coolers"
   },
   {
     "id": "f1a613b1e90b871309",
@@ -782,7 +808,7 @@
     "raw_title": "Monitor De Pressão Arterial De Braço Monitor pressao arterial HC10014 MUINAIFTE Cor Blanco",
     "description": "❤️ Sua saúde em primeiro lugar! Aproveite a oferta imperdível no Monitor de Pressão Arterial de Braço MUINAIFTE! Com ele, você monitora sua pressão com...",
     "marketplace": "Mercado Livre",
-    "category": "Blood Pressure Monitors",
+    "category": "Informática",
     "old_price": "R$ 149,98",
     "price": "R$ 97,49",
     "discount_percent": 35.0,
@@ -791,7 +817,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62814199?matt_word=eu20251007130002&matt_tool=50459180&forceInApp=true",
     "created_at": "22/07/2026 04:03",
     "created_at_iso": "2026-07-22T04:03:01",
-    "created_ts": 1784692981
+    "created_ts": 1784692981,
+    "original_category": "Blood Pressure Monitors"
   },
   {
     "id": "20a69ca6439b1638e9",
@@ -799,7 +826,7 @@
     "raw_title": "Monitor De Pressão Arterial De Braço Monitor pressao arterial HC10013 MUINAIFTE Cor Blanco",
     "description": "🔥 35% OFF — Oferta encontrada! 📌 Monitor De Pressão Arterial De Braço Monitor pressao arterial HC10013 MUINAIFTE Cor Blanco Confira os detalhes e aprove...",
     "marketplace": "Mercado Livre",
-    "category": "Blood Pressure Monitors",
+    "category": "Informática",
     "old_price": "R$ 149,98",
     "price": "R$ 97,49",
     "discount_percent": 35.0,
@@ -808,7 +835,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62574644?matt_word=eu20251007130002&matt_tool=50459180&forceInApp=true",
     "created_at": "22/07/2026 04:01",
     "created_at_iso": "2026-07-22T04:01:44",
-    "created_ts": 1784692904
+    "created_ts": 1784692904,
+    "original_category": "Blood Pressure Monitors"
   },
   {
     "id": "e1e771189a0960b28b",
@@ -921,7 +949,7 @@
     "raw_title": "Carrinho De Controle Remoto Vermelho 2 Funções Brinquedo Vermelho Carrinho Controle Remoto",
     "description": "🔥 Oferta encontrada! 📌 Carrinho De Controle Remoto Vermelho 2 Funções Brinquedo Vermelho Carrinho Controle Remoto Confira os detalhes e aproveite enquan...",
     "marketplace": "Mercado Livre",
-    "category": "Remote Control Toy Vehicles",
+    "category": "Brinquedos e Hobbies",
     "old_price": "",
     "price": "R$ 42,00",
     "discount_percent": 0.0,
@@ -930,7 +958,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB64234514?matt_word=eu20251007130002&matt_tool=50459180&forceInApp=true",
     "created_at": "22/07/2026 03:06",
     "created_at_iso": "2026-07-22T03:06:07",
-    "created_ts": 1784689567
+    "created_ts": 1784689567,
+    "original_category": "Remote Control Toy Vehicles"
   },
   {
     "id": "3b1aae4a125ec9ea81",
@@ -938,7 +967,7 @@
     "raw_title": "Caneta Gel Lego Sem Boneco Lego Cinza",
     "description": "🔥 Oferta encontrada! 📌 Caneta Gel Lego Sem Boneco Lego Cinza Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
     "marketplace": "Mercado Livre",
-    "category": "Pens",
+    "category": "Papelaria",
     "old_price": "",
     "price": "R$ 47,99",
     "discount_percent": 0.0,
@@ -947,7 +976,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75122905?matt_word=eu20251007130002&matt_tool=50459180&forceInApp=true",
     "created_at": "22/07/2026 03:05",
     "created_at_iso": "2026-07-22T03:05:02",
-    "created_ts": 1784689502
+    "created_ts": 1784689502,
+    "original_category": "Pens"
   },
   {
     "id": "6655fc923c214e977c",
@@ -955,7 +985,7 @@
     "raw_title": "Caneta Gel Lego Sem Boneco Lego Verde",
     "description": "🔥 Oferta encontrada! 📌 Caneta Gel Lego Sem Boneco Lego Verde Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
     "marketplace": "Mercado Livre",
-    "category": "Pens",
+    "category": "Papelaria",
     "old_price": "",
     "price": "R$ 47,99",
     "discount_percent": 0.0,
@@ -964,7 +994,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB69869955?matt_word=eu20251007130002&matt_tool=50459180&forceInApp=true",
     "created_at": "22/07/2026 03:03",
     "created_at_iso": "2026-07-22T03:03:58",
-    "created_ts": 1784689438
+    "created_ts": 1784689438,
+    "original_category": "Pens"
   },
   {
     "id": "1b5b6da1bda3b02e3a",
@@ -972,7 +1003,7 @@
     "raw_title": "Almofada Lego Personalizada Com Nome Colorido Lego",
     "description": "🔥 Oferta encontrada! 📌 Almofada Lego Personalizada Com Nome Colorido Lego Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
     "marketplace": "Mercado Livre",
-    "category": "Cushions",
+    "category": "Brinquedos e Hobbies",
     "old_price": "",
     "price": "R$ 59,90",
     "discount_percent": 0.0,
@@ -981,7 +1012,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65346593?matt_word=eu20251007130002&matt_tool=50459180&forceInApp=true",
     "created_at": "22/07/2026 03:02",
     "created_at_iso": "2026-07-22T03:02:54",
-    "created_ts": 1784689374
+    "created_ts": 1784689374,
+    "original_category": "Cushions"
   },
   {
     "id": "47a391c6f9fc9cf660",
@@ -989,7 +1021,7 @@
     "raw_title": "Carrinho Controle Remoto Fusca Azul - Polibrinq",
     "description": "🔥 Oferta encontrada! 📌 Carrinho Controle Remoto Fusca Azul - Polibrinq Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
     "marketplace": "Mercado Livre",
-    "category": "Remote Control Toy Vehicles",
+    "category": "Brinquedos e Hobbies",
     "old_price": "",
     "price": "R$ 89,90",
     "discount_percent": 0.0,
@@ -998,7 +1030,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB49758899?matt_word=eu20251007130002&matt_tool=50459180&forceInApp=true",
     "created_at": "22/07/2026 03:01",
     "created_at_iso": "2026-07-22T03:01:50",
-    "created_ts": 1784689310
+    "created_ts": 1784689310,
+    "original_category": "Remote Control Toy Vehicles"
   },
   {
     "id": "29494b17f616be8c00",
@@ -1006,7 +1039,7 @@
     "raw_title": "Panela De Pressão 4,5litros Panelux Linha Classic Alto Brilho A Mais Vendida Do Brasil",
     "description": "⚡️ OFERTA IMPERDÍVEL! Panela de Pressão Panelux 4,5L! ⚡️ A Panela de Pressão Linha Classic, alto brilho e a MAIS VENDIDA do Brasil, para agilizar seu di...",
     "marketplace": "Shopee",
-    "category": "Eletrodomésticos",
+    "category": "Saúde",
     "old_price": "R$ 115,80",
     "price": "R$ 57,90",
     "discount_percent": 50.0,
@@ -1019,7 +1052,8 @@
     "niche": {
       "key": "shopee_eletrodomesticos",
       "name": "Eletrodomésticos"
-    }
+    },
+    "original_category": "Eletrodomésticos"
   },
   {
     "id": "54eac123527c3ea351",
@@ -1027,7 +1061,7 @@
     "raw_title": "Passadeira 110v Vaporizador A Vapor De Roupas Tira Amasso Portátil 800w",
     "description": "🔥 60% OFF — Oferta encontrada! 📌 Passadeira 110v Vaporizador A Vapor De Roupas Tira Amasso Portátil 800w Confira os detalhes e aproveite enquanto a ofer...",
     "marketplace": "Shopee",
-    "category": "Eletrodomésticos",
+    "category": "Moda",
     "old_price": "R$ 149,97",
     "price": "R$ 59,99",
     "discount_percent": 60.0,
@@ -1040,7 +1074,8 @@
     "niche": {
       "key": "shopee_eletrodomesticos",
       "name": "Eletrodomésticos"
-    }
+    },
+    "original_category": "Eletrodomésticos"
   },
   {
     "id": "5c8a2e3d54e0ebe617",
@@ -1048,7 +1083,7 @@
     "raw_title": "Panela de Pressão Elétrica Digital 5/6 litros Preta ou Inox - kian",
     "description": "🔥 34% OFF — Oferta encontrada! 📌 Panela de Pressão Elétrica Digital 5/6 litros Preta ou Inox - kian Confira os detalhes e aproveite enquanto a oferta es...",
     "marketplace": "Shopee",
-    "category": "Eletrodomésticos",
+    "category": "Saúde",
     "old_price": "R$ 499,85",
     "price": "R$ 329,90",
     "discount_percent": 34.0,
@@ -1061,7 +1096,8 @@
     "niche": {
       "key": "shopee_eletrodomesticos",
       "name": "Eletrodomésticos"
-    }
+    },
+    "original_category": "Eletrodomésticos"
   },
   {
     "id": "8bb49967c2cf63bb5c",
@@ -1069,7 +1105,7 @@
     "raw_title": "Gaabor Aspirador de pó portátil 2 em 1 com fio e haste de pressão sucção forte de 16000Pa dust off GVCW-M15A",
     "description": "🔥 47% OFF — Oferta encontrada! 📌 Gaabor Aspirador de pó portátil 2 em 1 com fio e haste de pressão sucção forte de 16000Pa dust off GVCW-M15A Confira os...",
     "marketplace": "Shopee",
-    "category": "Eletrodomésticos",
+    "category": "Saúde",
     "old_price": "R$ 356,60",
     "price": "R$ 189,00",
     "discount_percent": 47.0,
@@ -1082,7 +1118,8 @@
     "niche": {
       "key": "shopee_eletrodomesticos",
       "name": "Eletrodomésticos"
-    }
+    },
+    "original_category": "Eletrodomésticos"
   },
   {
     "id": "9adfd22adc4d3300e4",
@@ -1111,7 +1148,7 @@
     "raw_title": "Mini Carregador Pequeno Power Bank 5000mah Portátil iPhone Android Power Bank Pequeno Carregador Celular Pequeno Para Ios Apple Usb Usbc Homologado Motorola...",
     "description": "🔥 Oferta encontrada! 📌 Mini Carregador Pequeno Power Bank 5000mah Portátil iPhone Android Power Bank Pequeno Carregador Celular Pequeno Para Ios Apple U...",
     "marketplace": "Mercado Livre",
-    "category": "Mobile Device Chargers",
+    "category": "Celulares",
     "old_price": "",
     "price": "R$ 60,90",
     "discount_percent": 0.0,
@@ -1120,7 +1157,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65464935?matt_word=eu20251007130002&matt_tool=50459180&forceInApp=true",
     "created_at": "22/07/2026 02:03",
     "created_at_iso": "2026-07-22T02:03:47",
-    "created_ts": 1784685827
+    "created_ts": 1784685827,
+    "original_category": "Mobile Device Chargers"
   },
   {
     "id": "ff166fb9136d211fe9",
@@ -1128,7 +1166,7 @@
     "raw_title": "Cabo Adaptador Fone P2 E Carregador iPhone Lightning",
     "description": "🔥 Oferta encontrada! 📌 Cabo Adaptador Fone P2 E Carregador iPhone Lightning Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
     "marketplace": "Mercado Livre",
-    "category": "Data Cables And Adapters",
+    "category": "Celulares",
     "old_price": "",
     "price": "R$ 25,00",
     "discount_percent": 0.0,
@@ -1137,7 +1175,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB38503540?matt_word=eu20251007130002&matt_tool=50459180&forceInApp=true",
     "created_at": "22/07/2026 02:02",
     "created_at_iso": "2026-07-22T02:02:43",
-    "created_ts": 1784685763
+    "created_ts": 1784685763,
+    "original_category": "Data Cables And Adapters"
   },
   {
     "id": "6002b3ea9fb7b3653b",
@@ -1145,7 +1184,7 @@
     "raw_title": "Cabo Carregador iPhone Tipo Lightning 1,0m",
     "description": "🔥 Oferta encontrada! 📌 Cabo Carregador iPhone Tipo Lightning 1,0m Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
     "marketplace": "Mercado Livre",
-    "category": "Data Cables And Adapters",
+    "category": "Celulares",
     "old_price": "",
     "price": "R$ 19,70",
     "discount_percent": 0.0,
@@ -1154,7 +1193,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB27772425?matt_word=eu20251007130002&matt_tool=50459180&forceInApp=true",
     "created_at": "22/07/2026 02:01",
     "created_at_iso": "2026-07-22T02:01:38",
-    "created_ts": 1784685698
+    "created_ts": 1784685698,
+    "original_category": "Data Cables And Adapters"
   },
   {
     "id": "3de6bfcce197831777",
@@ -1162,7 +1202,7 @@
     "raw_title": "Smartphone Xiaomi Redmi 15 256gb/128gb Versão Global Original Envio IMEDIATO",
     "description": "🔥 32% OFF — Oferta encontrada! 📌 Smartphone Xiaomi Redmi 15 256gb/128gb Versão Global Original Envio IMEDIATO Confira os detalhes e aproveite enquanto a...",
     "marketplace": "Shopee",
-    "category": "Celulares e Dispositivos",
+    "category": "Celulares",
     "old_price": "R$ 1.613,94",
     "price": "R$ 1.097,48",
     "discount_percent": 32.0,
@@ -1175,7 +1215,8 @@
     "niche": {
       "key": "shopee_celulares_dispositivos",
       "name": "Celulares e Dispositivos"
-    }
+    },
+    "original_category": "Celulares e Dispositivos"
   },
   {
     "id": "67f28493dce13a23c6",
@@ -1183,7 +1224,7 @@
     "raw_title": "Smartphone A17 256GB 8GB RAM 4G Câmera Tripla Traseira 50 MP Samsung",
     "description": "🔥 26% OFF — Oferta encontrada! 📌 Smartphone A17 256GB 8GB RAM 4G Câmera Tripla Traseira 50 MP Samsung Confira os detalhes e aproveite enquanto a oferta...",
     "marketplace": "Shopee",
-    "category": "Celulares e Dispositivos",
+    "category": "Celulares",
     "old_price": "R$ 1.591,97",
     "price": "R$ 1.178,06",
     "discount_percent": 26.0,
@@ -1196,7 +1237,8 @@
     "niche": {
       "key": "shopee_celulares_dispositivos",
       "name": "Celulares e Dispositivos"
-    }
+    },
+    "original_category": "Celulares e Dispositivos"
   },
   {
     "id": "aa58577a2411a2f1da",
@@ -1204,7 +1246,7 @@
     "raw_title": "Xiaomi Redmi Note 15 4G, 256GB-8GB RAM, ou 128GB-6GB RAM, Câmera 108 MP, Bateria 6000mAh",
     "description": "🔥 35% OFF — Oferta encontrada! 📌 Xiaomi Redmi Note 15 4G, 256GB-8GB RAM, ou 128GB-6GB RAM, Câmera 108 MP, Bateria 6000mAh Confira os detalhes e aproveit...",
     "marketplace": "Shopee",
-    "category": "Celulares e Dispositivos",
+    "category": "Celulares",
     "old_price": "R$ 2.101,71",
     "price": "R$ 1.366,11",
     "discount_percent": 35.0,
@@ -1217,7 +1259,8 @@
     "niche": {
       "key": "shopee_celulares_dispositivos",
       "name": "Celulares e Dispositivos"
-    }
+    },
+    "original_category": "Celulares e Dispositivos"
   },
   {
     "id": "945a376376b78171e8",
@@ -1225,7 +1268,7 @@
     "raw_title": "Celular Smartphone Samsung Galaxy A17, 128GB, 4GB, 50MP Tela 6.7\", IP54 - Preto",
     "description": "🔥 39% OFF — Oferta encontrada! 📌 Celular Smartphone Samsung Galaxy A17, 128GB, 4GB, 50MP Tela 6.7\", IP54 - Preto Confira os detalhes e aproveite enquant...",
     "marketplace": "Shopee",
-    "category": "Celulares e Dispositivos",
+    "category": "Celulares",
     "old_price": "R$ 1.637,54",
     "price": "R$ 998,90",
     "discount_percent": 39.0,
@@ -1238,7 +1281,8 @@
     "niche": {
       "key": "shopee_celulares_dispositivos",
       "name": "Celulares e Dispositivos"
-    }
+    },
+    "original_category": "Celulares e Dispositivos"
   },
   {
     "id": "aac273acf51652bc45",
@@ -1246,7 +1290,7 @@
     "raw_title": "OWS-15 Fones De Ouvido Sem Fio Bluetooth Fone Com Microfones Alta Fidelidade Som Estéreo Toque Inteligente Esportes",
     "description": "💥 Liberdade Sonora Total! Experimente o som estéreo de alta fidelidade com os Fones OWS-15! Sem fios, com Bluetooth, microfone e controle de toque intel...",
     "marketplace": "Shopee",
-    "category": "Celulares e Dispositivos",
+    "category": "Celulares",
     "old_price": "",
     "price": "R$ 99,00",
     "discount_percent": 0.0,
@@ -1259,7 +1303,8 @@
     "niche": {
       "key": "shopee_celulares_dispositivos",
       "name": "Celulares e Dispositivos"
-    }
+    },
+    "original_category": "Celulares e Dispositivos"
   },
   {
     "id": "34645884f0a88fe697",
@@ -1267,7 +1312,7 @@
     "raw_title": "Box Friends Nona Temporada",
     "description": "🔥 Oferta encontrada! 📌 Box Friends Nona Temporada Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
     "marketplace": "Mercado Livre",
-    "category": "Tv Series",
+    "category": "Outros",
     "old_price": "",
     "price": "R$ 75,92",
     "discount_percent": 0.0,
@@ -1276,7 +1321,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB26927101?matt_word=eu20251007130002&matt_tool=50459180&forceInApp=true",
     "created_at": "22/07/2026 01:05",
     "created_at_iso": "2026-07-22T01:05:51",
-    "created_ts": 1784682351
+    "created_ts": 1784682351,
+    "original_category": "Tv Series"
   },
   {
     "id": "ae31efbd53981d3804",
@@ -1284,7 +1330,7 @@
     "raw_title": "Câmera De Segurança Teleheer Camera Seguranca 1080p Camera Segurança Com Resolução 1080p - Branco",
     "description": "🔥 Oferta encontrada! 📌 Câmera De Segurança Teleheer Camera Seguranca 1080p Camera Segurança Com Resolução 1080p - Branco Confira os detalhes e aproveite...",
     "marketplace": "Mercado Livre",
-    "category": "Surveillance Cameras",
+    "category": "Outros",
     "old_price": "",
     "price": "R$ 63,80",
     "discount_percent": 0.0,
@@ -1293,7 +1339,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68253387?matt_word=eu20251007130002&matt_tool=50459180&forceInApp=true",
     "created_at": "22/07/2026 01:04",
     "created_at_iso": "2026-07-22T01:04:47",
-    "created_ts": 1784682287
+    "created_ts": 1784682287,
+    "original_category": "Surveillance Cameras"
   },
   {
     "id": "11fd373fb77b7f7d6e",
@@ -1301,7 +1348,7 @@
     "raw_title": "Soundbar Samsung Hw-b400f + Soundbar Hw-b400f Preto",
     "description": "🔥 Oferta encontrada! 📌 Soundbar Samsung Hw-b400f + Soundbar Hw-b400f Preto Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
     "marketplace": "Mercado Livre",
-    "category": "Home Theaters",
+    "category": "Outros",
     "old_price": "",
     "price": "R$ 1.598,95",
     "discount_percent": 0.0,
@@ -1310,7 +1357,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65128982?matt_word=eu20251007130002&matt_tool=50459180&forceInApp=true",
     "created_at": "22/07/2026 01:03",
     "created_at_iso": "2026-07-22T01:03:43",
-    "created_ts": 1784682223
+    "created_ts": 1784682223,
+    "original_category": "Home Theaters"
   },
   {
     "id": "5ef839dc7cb136875a",
@@ -1318,7 +1366,7 @@
     "raw_title": "Soundbar Samsung Hw-q990f + Soundbar Hw-b400f",
     "description": "🔥 Oferta encontrada! 📌 Soundbar Samsung Hw-q990f + Soundbar Hw-b400f Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
     "marketplace": "Mercado Livre",
-    "category": "Home Theaters",
+    "category": "Outros",
     "old_price": "",
     "price": "R$ 7.788,42",
     "discount_percent": 0.0,
@@ -1327,7 +1375,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65564566?matt_word=eu20251007130002&matt_tool=50459180&forceInApp=true",
     "created_at": "22/07/2026 01:02",
     "created_at_iso": "2026-07-22T01:02:39",
-    "created_ts": 1784682159
+    "created_ts": 1784682159,
+    "original_category": "Home Theaters"
   },
   {
     "id": "eb483ff7e4c2342216",
@@ -1335,7 +1384,7 @@
     "raw_title": "Soundbar Samsung Hw-b450f + Soundbar Hw-b400f",
     "description": "🔥 Oferta encontrada! 📌 Soundbar Samsung Hw-b450f + Soundbar Hw-b400f Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
     "marketplace": "Mercado Livre",
-    "category": "Home Theaters",
+    "category": "Outros",
     "old_price": "",
     "price": "R$ 1.904,21",
     "discount_percent": 0.0,
@@ -1344,7 +1393,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65128496?matt_word=eu20251007130002&matt_tool=50459180&forceInApp=true",
     "created_at": "22/07/2026 01:01",
     "created_at_iso": "2026-07-22T01:01:35",
-    "created_ts": 1784682095
+    "created_ts": 1784682095,
+    "original_category": "Home Theaters"
   },
   {
     "id": "b4e12467c1a9324e9e",
@@ -1352,7 +1402,7 @@
     "raw_title": "Tênis Sapatênis Masculino Casual Trabalho Social Dia a Dia Jaca Qualidade",
     "description": "🔥 44% OFF — Oferta encontrada! 📌 Tênis Sapatênis Masculino Casual Trabalho Social Dia a Dia Jaca Qualidade Confira os detalhes e aproveite enquanto a of...",
     "marketplace": "Shopee",
-    "category": "Sapatos Masculinos",
+    "category": "Sapatos",
     "old_price": "R$ 80,18",
     "price": "R$ 44,90",
     "discount_percent": 44.0,
@@ -1365,7 +1415,8 @@
     "niche": {
       "key": "shopee_sapatos_masculinos",
       "name": "Sapatos Masculinos"
-    }
+    },
+    "original_category": "Sapatos Masculinos"
   },
   {
     "id": "36068f0af60c2b229f",
@@ -1373,7 +1424,7 @@
     "raw_title": "Tênis Casual Masculino e Feminino Confortável e Macio Primeira Linha Original Dia a Dia",
     "description": "🔥 38% OFF — Oferta encontrada! 📌 Tênis Casual Masculino e Feminino Confortável e Macio Primeira Linha Original Dia a Dia Confira os detalhes e aproveite...",
     "marketplace": "Shopee",
-    "category": "Sapatos Masculinos",
+    "category": "Sapatos",
     "old_price": "R$ 88,55",
     "price": "R$ 54,90",
     "discount_percent": 38.0,
@@ -1386,7 +1437,8 @@
     "niche": {
       "key": "shopee_sapatos_masculinos",
       "name": "Sapatos Masculinos"
-    }
+    },
+    "original_category": "Sapatos Masculinos"
   },
   {
     "id": "9b70c55b1218995744",
@@ -1394,7 +1446,7 @@
     "raw_title": "Tênis Masculino presente NATAL ANO NOVO Super confortável - Envio Imediato.",
     "description": "🔥 85% OFF — Oferta encontrada! 📌 Tênis Masculino presente NATAL ANO NOVO Super confortável - Envio Imediato. Confira os detalhes e aproveite enquanto a...",
     "marketplace": "Shopee",
-    "category": "Sapatos Masculinos",
+    "category": "Sapatos",
     "old_price": "R$ 299,93",
     "price": "R$ 44,99",
     "discount_percent": 85.0,
@@ -1407,7 +1459,8 @@
     "niche": {
       "key": "shopee_sapatos_masculinos",
       "name": "Sapatos Masculinos"
-    }
+    },
+    "original_category": "Sapatos Masculinos"
   },
   {
     "id": "5cb0ed9df1481d35c2",
@@ -1415,7 +1468,7 @@
     "raw_title": "Tenis Masculino Escolar Academia Original FREEDOM Corrida Caminhada Lançamento PRETO e DOURADO",
     "description": "🔥 36% OFF — Oferta encontrada! 📌 Tenis Masculino Escolar Academia Original FREEDOM Corrida Caminhada Lançamento PRETO e DOURADO Confira os detalhes e ap...",
     "marketplace": "Shopee",
-    "category": "Sapatos Masculinos",
+    "category": "Sapatos",
     "old_price": "R$ 77,97",
     "price": "R$ 49,90",
     "discount_percent": 36.0,
@@ -1428,7 +1481,8 @@
     "niche": {
       "key": "shopee_sapatos_masculinos",
       "name": "Sapatos Masculinos"
-    }
+    },
+    "original_category": "Sapatos Masculinos"
   },
   {
     "id": "ae19d7b250e0b5480a",
@@ -1436,7 +1490,7 @@
     "raw_title": "NEW NOVO TENIS INCRIVEL MODELO PARA REVEILLON TODO BRANCO LINDO DIRETO DA FABRICA PROMOCAO",
     "description": "🔥 82% OFF — Oferta encontrada! 📌 NEW NOVO TENIS INCRIVEL MODELO PARA REVEILLON TODO BRANCO LINDO DIRETO DA FABRICA PROMOCAO Confira os detalhes e aprove...",
     "marketplace": "Shopee",
-    "category": "Sapatos Masculinos",
+    "category": "Sapatos",
     "old_price": "R$ 249,94",
     "price": "R$ 44,99",
     "discount_percent": 82.0,
@@ -1449,7 +1503,8 @@
     "niche": {
       "key": "shopee_sapatos_masculinos",
       "name": "Sapatos Masculinos"
-    }
+    },
+    "original_category": "Sapatos Masculinos"
   },
   {
     "id": "565043f1d7c19da25d",
@@ -1457,7 +1512,7 @@
     "raw_title": "Fita De Impressora Epson",
     "description": "🔥 Oferta encontrada! 📌 Fita De Impressora Epson Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
     "marketplace": "Mercado Livre",
-    "category": "Printer Ribbons",
+    "category": "Informática",
     "old_price": "",
     "price": "R$ 26,80",
     "discount_percent": 0.0,
@@ -1466,7 +1521,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB35289965?matt_word=eu20251007130002&matt_tool=50459180&forceInApp=true",
     "created_at": "22/07/2026 00:05",
     "created_at_iso": "2026-07-22T00:05:58",
-    "created_ts": 1784678758
+    "created_ts": 1784678758,
+    "original_category": "Printer Ribbons"
   },
   {
     "id": "01ff0b5aaf5c32c73e",
@@ -1474,7 +1530,7 @@
     "raw_title": "Ribbon Impressora Intermec",
     "description": "🔥 Oferta encontrada! 📌 Ribbon Impressora Intermec Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
     "marketplace": "Mercado Livre",
-    "category": "Printer Ribbons",
+    "category": "Informática",
     "old_price": "",
     "price": "R$ 37,53",
     "discount_percent": 0.0,
@@ -1483,7 +1539,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47336063?matt_word=eu20251007130002&matt_tool=50459180&forceInApp=true",
     "created_at": "22/07/2026 00:04",
     "created_at_iso": "2026-07-22T00:04:53",
-    "created_ts": 1784678693
+    "created_ts": 1784678693,
+    "original_category": "Printer Ribbons"
   },
   {
     "id": "a8b8033c594b908f57",
@@ -1491,7 +1548,7 @@
     "raw_title": "Roteador Wifi 300mb/s Huawei Ws318n",
     "description": "🔥 Oferta encontrada! 📌 Roteador Wifi 300mb/s Huawei Ws318n Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
     "marketplace": "Mercado Livre",
-    "category": "Routers And Wireless Systems",
+    "category": "Informática",
     "old_price": "",
     "price": "R$ 131,00",
     "discount_percent": 0.0,
@@ -1500,7 +1557,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24527094?matt_word=eu20251007130002&matt_tool=50459180&forceInApp=true",
     "created_at": "22/07/2026 00:03",
     "created_at_iso": "2026-07-22T00:03:48",
-    "created_ts": 1784678628
+    "created_ts": 1784678628,
+    "original_category": "Routers And Wireless Systems"
   },
   {
     "id": "e2200cf59135157708",
@@ -1508,7 +1566,7 @@
     "raw_title": "Roteador Wifi 6 Dual Band Flt - X3000",
     "description": "🔥 Oferta encontrada! 📌 Roteador Wifi 6 Dual Band Flt - X3000 Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
     "marketplace": "Mercado Livre",
-    "category": "Routers And Wireless Systems",
+    "category": "Informática",
     "old_price": "",
     "price": "R$ 349,00",
     "discount_percent": 0.0,
@@ -1517,7 +1575,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB42833702?matt_word=eu20251007130002&matt_tool=50459180&forceInApp=true",
     "created_at": "22/07/2026 00:02",
     "created_at_iso": "2026-07-22T00:02:45",
-    "created_ts": 1784678565
+    "created_ts": 1784678565,
+    "original_category": "Routers And Wireless Systems"
   },
   {
     "id": "aec4a0789602316f8b",
@@ -1525,7 +1584,7 @@
     "raw_title": "Teclado mecânico Gamer Redragon Kumara K552-RGB Switch Blue Teclado mecânico preto Idioma espanhol Espanha",
     "description": "🔥 Oferta encontrada! 📌 Teclado mecânico Gamer Redragon Kumara K552-RGB Switch Blue Teclado mecânico preto Idioma espanhol Espanha Confira os detalhes e...",
     "marketplace": "Mercado Livre",
-    "category": "Pc Keyboards",
+    "category": "Informática",
     "old_price": "",
     "price": "R$ 1.500,00",
     "discount_percent": 0.0,
@@ -1534,7 +1593,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB56930844?matt_word=eu20251007130002&matt_tool=50459180&forceInApp=true",
     "created_at": "22/07/2026 00:01",
     "created_at_iso": "2026-07-22T00:01:40",
-    "created_ts": 1784678500
+    "created_ts": 1784678500,
+    "original_category": "Pc Keyboards"
   },
   {
     "id": "30128f9d86514fafb2",
@@ -1542,7 +1602,7 @@
     "raw_title": "Caixa Ferramentas 14 C/ Bandeja Carbografite Verde",
     "description": "🔥 Oferta encontrada! 📌 Caixa Ferramentas 14 C/ Bandeja Carbografite Verde Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
     "marketplace": "Mercado Livre",
-    "category": "Tool Boxes",
+    "category": "Ferramentas",
     "old_price": "",
     "price": "R$ 61,02",
     "discount_percent": 0.0,
@@ -1551,7 +1611,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62814320?matt_word=eu20251007130002&matt_tool=50459180&forceInApp=true",
     "created_at": "21/07/2026 23:54",
     "created_at_iso": "2026-07-21T23:54:56",
-    "created_ts": 1784678096
+    "created_ts": 1784678096,
+    "original_category": "Tool Boxes"
   },
   {
     "id": "d7664702554f050bd5",
@@ -1559,7 +1620,7 @@
     "raw_title": "Kit Ferramentas Simples Tateti",
     "description": "🔥 Oferta encontrada! 📌 Kit Ferramentas Simples Tateti Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
     "marketplace": "Mercado Livre",
-    "category": "Toy Tools Kits",
+    "category": "Brinquedos e Hobbies",
     "old_price": "",
     "price": "R$ 65,95",
     "discount_percent": 0.0,
@@ -1568,7 +1629,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB69774811?matt_word=eu20251007130002&matt_tool=50459180&forceInApp=true",
     "created_at": "21/07/2026 23:53",
     "created_at_iso": "2026-07-21T23:53:52",
-    "created_ts": 1784678032
+    "created_ts": 1784678032,
+    "original_category": "Toy Tools Kits"
   },
   {
     "id": "e7b05deaea83a1e703",
@@ -1576,7 +1638,7 @@
     "raw_title": "Esmerilhadeira Angular Deko 900W 5 Pol. Amarelo 127V Mini Esmerilhadeira",
     "description": "🔥 5% OFF — Oferta encontrada! 📌 Esmerilhadeira Angular Deko 900W 5 Pol. Amarelo 127V Mini Esmerilhadeira Confira os detalhes e aproveite enquanto a ofer...",
     "marketplace": "Mercado Livre",
-    "category": "Power Grinders",
+    "category": "Outros",
     "old_price": "R$ 270,99",
     "price": "R$ 257,44",
     "discount_percent": 5.0,
@@ -1585,7 +1647,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB44557193?matt_word=eu20251007130002&matt_tool=50459180&forceInApp=true",
     "created_at": "21/07/2026 23:52",
     "created_at_iso": "2026-07-21T23:52:48",
-    "created_ts": 1784677968
+    "created_ts": 1784677968,
+    "original_category": "Power Grinders"
   },
   {
     "id": "f5861267d8b7059875",
@@ -1593,7 +1656,7 @@
     "raw_title": "Caixa Ferramentas Metal Azul 01 Fercar Bandeja Extendível",
     "description": "🔥 Oferta encontrada! 📌 Caixa Ferramentas Metal Azul 01 Fercar Bandeja Extendível Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
     "marketplace": "Mercado Livre",
-    "category": "Tool Boxes",
+    "category": "Ferramentas",
     "old_price": "",
     "price": "R$ 62,00",
     "discount_percent": 0.0,
@@ -1602,7 +1665,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB22367718?matt_word=eu20251007130002&matt_tool=50459180&forceInApp=true",
     "created_at": "21/07/2026 23:51",
     "created_at_iso": "2026-07-21T23:51:44",
-    "created_ts": 1784677904
+    "created_ts": 1784677904,
+    "original_category": "Tool Boxes"
   },
   {
     "id": "e2a4b14d6729c765bb",
@@ -1610,7 +1674,7 @@
     "raw_title": "Lavadora Alta Pressão Recarregável Portátil",
     "description": "🔥 Oferta encontrada! 📌 Lavadora Alta Pressão Recarregável Portátil Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
     "marketplace": "Mercado Livre",
-    "category": "Electric Pressure Washers",
+    "category": "Saúde",
     "old_price": "",
     "price": "R$ 159,00",
     "discount_percent": 0.0,
@@ -1619,7 +1683,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB64355771?matt_word=eu20251007130002&matt_tool=50459180&forceInApp=true",
     "created_at": "21/07/2026 23:50",
     "created_at_iso": "2026-07-21T23:50:40",
-    "created_ts": 1784677840
+    "created_ts": 1784677840,
+    "original_category": "Electric Pressure Washers"
   },
   {
     "id": "8185ad09d23655084a",
@@ -1627,7 +1692,7 @@
     "raw_title": "Kit 10 Calcinha Cos Alto Extra Grande Calçola Plus Size em Microfibra Lisa e Estampada GG1 E GG2",
     "description": "🔥 47% OFF — Oferta encontrada! 📌 Kit 10 Calcinha Cos Alto Extra Grande Calçola Plus Size em Microfibra Lisa e Estampada GG1 E GG2 Confira os detalhes e...",
     "marketplace": "Shopee",
-    "category": "Roupas Plus Size",
+    "category": "Moda",
     "old_price": "R$ 59,00",
     "price": "R$ 31,27",
     "discount_percent": 47.0,
@@ -1640,7 +1705,8 @@
     "niche": {
       "key": "shopee_roupas_plus_size",
       "name": "Roupas Plus Size"
-    }
+    },
+    "original_category": "Roupas Plus Size"
   },
   {
     "id": "98afdb20a7a0f12d3e",
@@ -1648,7 +1714,7 @@
     "raw_title": "Kit 2 Blusas de Frio Feminina Gola Alta Cacharrel Plus Size Blusa Segunda Pele Inverno",
     "description": "🔥 67% OFF — Oferta encontrada! 📌 Kit 2 Blusas de Frio Feminina Gola Alta Cacharrel Plus Size Blusa Segunda Pele Inverno Confira os detalhes e aproveite...",
     "marketplace": "Shopee",
-    "category": "Roupas Plus Size",
+    "category": "Moda",
     "old_price": "R$ 119,88",
     "price": "R$ 39,56",
     "discount_percent": 67.0,
@@ -1661,7 +1727,8 @@
     "niche": {
       "key": "shopee_roupas_plus_size",
       "name": "Roupas Plus Size"
-    }
+    },
+    "original_category": "Roupas Plus Size"
   },
   {
     "id": "d9af673aa3edab9783",
@@ -1669,7 +1736,7 @@
     "raw_title": "Calça Wide Leg Plus Size Jeans Feminina Cintura Alta Pantalona Tecido Leve",
     "description": "🔥 54% OFF — Oferta encontrada! 📌 Calça Wide Leg Plus Size Jeans Feminina Cintura Alta Pantalona Tecido Leve Confira os detalhes e aproveite enquanto a o...",
     "marketplace": "Shopee",
-    "category": "Roupas Plus Size",
+    "category": "Moda",
     "old_price": "R$ 158,48",
     "price": "R$ 72,90",
     "discount_percent": 54.0,
@@ -1682,7 +1749,8 @@
     "niche": {
       "key": "shopee_roupas_plus_size",
       "name": "Roupas Plus Size"
-    }
+    },
+    "original_category": "Roupas Plus Size"
   },
   {
     "id": "097b0a784759be9ce8",
@@ -1690,7 +1758,7 @@
     "raw_title": "Vestido Plus size Duna G,GG,G1",
     "description": "✨ **IMPERDÍVEL!** Vestido Plus size Duna para você arrasar! 👗 Com um caimento perfeito e super confortável, este vestido é a escolha ideal para qualquer...",
     "marketplace": "Shopee",
-    "category": "Roupas Plus Size",
+    "category": "Roupas Femininas",
     "old_price": "R$ 160,71",
     "price": "R$ 45,00",
     "discount_percent": 72.0,
@@ -1703,7 +1771,8 @@
     "niche": {
       "key": "shopee_roupas_plus_size",
       "name": "Roupas Plus Size"
-    }
+    },
+    "original_category": "Roupas Plus Size"
   },
   {
     "id": "dc12bc3593b86b5c90",
@@ -1711,7 +1780,7 @@
     "raw_title": "SELAH - VESTIDO MANGA LONGA DANIELLA PLUS SIZE",
     "description": "🔥 56% OFF — Oferta encontrada! 📌 SELAH - VESTIDO MANGA LONGA DANIELLA PLUS SIZE Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
     "marketplace": "Shopee",
-    "category": "Roupas Plus Size",
+    "category": "Roupas Femininas",
     "old_price": "R$ 88,64",
     "price": "R$ 39,00",
     "discount_percent": 56.0,
@@ -1724,7 +1793,8 @@
     "niche": {
       "key": "shopee_roupas_plus_size",
       "name": "Roupas Plus Size"
-    }
+    },
+    "original_category": "Roupas Plus Size"
   },
   {
     "id": "647fe5e9614f274e2e",
@@ -1816,7 +1886,7 @@
     "raw_title": "Calça Jogger Plus Size Moletom Masculina Bolsos Laterais Tecido Leve Confortável Casual Esportivo",
     "description": "🔥 47% OFF — Oferta encontrada! 📌 Calça Jogger Plus Size Moletom Masculina Bolsos Laterais Tecido Leve Confortável Casual Esportivo Confira os detalhes e...",
     "marketplace": "Shopee",
-    "category": "Roupas Masculinas",
+    "category": "Esportes e Lazer",
     "old_price": "R$ 75,28",
     "price": "R$ 39,90",
     "discount_percent": 47.0,
@@ -1829,7 +1899,8 @@
     "niche": {
       "key": "shopee_roupas_masculinas",
       "name": "Roupas Masculinas"
-    }
+    },
+    "original_category": "Roupas Masculinas"
   },
   {
     "id": "948911be7c9ea3aa9c",
@@ -1837,7 +1908,7 @@
     "raw_title": "Maquina Cortar Cabelo Kemei Km-2299 Sem Fio USB 3 Pentes",
     "description": "🔥 Oferta encontrada! 📌 Maquina Cortar Cabelo Kemei Km-2299 Sem Fio USB 3 Pentes Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
     "marketplace": "Mercado Livre",
-    "category": "Hair Clippers Electric Shavers And Hair Trimmers",
+    "category": "Beleza",
     "old_price": "",
     "price": "R$ 124,95",
     "discount_percent": 0.0,
@@ -1846,7 +1917,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB44781631?matt_word=eu20251007130002&matt_tool=50459180&forceInApp=true",
     "created_at": "21/07/2026 21:06",
     "created_at_iso": "2026-07-21T21:06:33",
-    "created_ts": 1784667993
+    "created_ts": 1784667993,
+    "original_category": "Hair Clippers Electric Shavers And Hair Trimmers"
   },
   {
     "id": "3cff72abc5a327fc20",
@@ -1854,7 +1926,7 @@
     "raw_title": "Chapinha Cabelo Prancha Profissional Cor Azul",
     "description": "🔥 Oferta encontrada! 📌 Chapinha Cabelo Prancha Profissional Cor Azul Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
     "marketplace": "Mercado Livre",
-    "category": "Hair Straighteners",
+    "category": "Beleza",
     "old_price": "",
     "price": "R$ 249,99",
     "discount_percent": 0.0,
@@ -1863,7 +1935,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB35049339?matt_word=eu20251007130002&matt_tool=50459180&forceInApp=true",
     "created_at": "21/07/2026 21:05",
     "created_at_iso": "2026-07-21T21:05:28",
-    "created_ts": 1784667928
+    "created_ts": 1784667928,
+    "original_category": "Hair Straighteners"
   },
   {
     "id": "1a46ac628a5d93d746",
@@ -1871,7 +1944,7 @@
     "raw_title": "Hello Mini - Kit Skincare ( Faixa + Esponjas ) - Kit 02",
     "description": "🔥 13% OFF — Oferta encontrada! 📌 Hello Mini - Kit Skincare ( Faixa + Esponjas ) - Kit 02 Confira os detalhes e aproveite enquanto a oferta estiver dispo...",
     "marketplace": "Mercado Livre",
-    "category": "Makeup Sponges",
+    "category": "Beleza",
     "old_price": "R$ 19,95",
     "price": "R$ 17,31",
     "discount_percent": 13.0,
@@ -1880,7 +1953,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB28260687?matt_word=eu20251007130002&matt_tool=50459180&forceInApp=true",
     "created_at": "21/07/2026 21:04",
     "created_at_iso": "2026-07-21T21:04:23",
-    "created_ts": 1784667863
+    "created_ts": 1784667863,
+    "original_category": "Makeup Sponges"
   },
   {
     "id": "3c5e488b791c3651b5",
@@ -1888,7 +1962,7 @@
     "raw_title": "Kit Skincare Facial Glow",
     "description": "✨ Sua pele merece esse glow! ✨ O Kit Skincare Facial Glow é a rotina completa para uma pele radiante. 💖 🚚 Frete grátis!",
     "marketplace": "Mercado Livre",
-    "category": "Skin Care Kits",
+    "category": "Beleza",
     "old_price": "R$ 69,90",
     "price": "R$ 66,40",
     "discount_percent": 5.0,
@@ -1897,7 +1971,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68084122?matt_word=eu20251007130002&matt_tool=50459180&forceInApp=true",
     "created_at": "21/07/2026 21:03",
     "created_at_iso": "2026-07-21T21:03:18",
-    "created_ts": 1784667798
+    "created_ts": 1784667798,
+    "original_category": "Skin Care Kits"
   },
   {
     "id": "79dbef9bddce324e80",
@@ -1905,7 +1980,7 @@
     "raw_title": "Lamina Aparador Pelos Philips Bodygroom Qg3379 Qg3280 Qg3380",
     "description": "✨ Mantenha seu Bodygroom Philips sempre novo! Lâmina de reposição para os modelos Qg3379, Qg3280 e Qg3380. 🚀 Aproveite 13% OFF e Frete Grátis!",
     "marketplace": "Mercado Livre",
-    "category": "Razor Blades",
+    "category": "Beleza",
     "old_price": "R$ 149,90",
     "price": "R$ 130,41",
     "discount_percent": 13.0,
@@ -1914,7 +1989,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24908965?matt_word=eu20251007130002&matt_tool=50459180&forceInApp=true",
     "created_at": "21/07/2026 21:02",
     "created_at_iso": "2026-07-21T21:02:10",
-    "created_ts": 1784667730
+    "created_ts": 1784667730,
+    "original_category": "Razor Blades"
   },
   {
     "id": "124c2e2cdb7ed686fe",
@@ -2006,7 +2082,7 @@
     "raw_title": "Luva Academia Treino Musculação Preto - Integralmedica",
     "description": "🔥 Oferta encontrada! 📌 Luva Academia Treino Musculação Preto - Integralmedica Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
     "marketplace": "Mercado Livre",
-    "category": "Gym Gloves",
+    "category": "Esportes e Lazer",
     "old_price": "",
     "price": "R$ 19,90",
     "discount_percent": 0.0,
@@ -2015,6 +2091,7 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB60292353?matt_word=eu20251007130002&matt_tool=50459180&forceInApp=true",
     "created_at": "21/07/2026 20:06",
     "created_at_iso": "2026-07-21T20:06:24",
-    "created_ts": 1784664384
+    "created_ts": 1784664384,
+    "original_category": "Gym Gloves"
   }
 ]

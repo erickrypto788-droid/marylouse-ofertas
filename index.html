@@ -689,7 +689,7 @@
         <div class="hero-stats">
           <div class="stat-card">
             <div class="stat-number" id="totalOffers">0</div>
-            <div class="stat-label">ofertas nas últimas 12 horas</div>
+            <div class="stat-label">ofertas nas últimas 24 horas</div>
           </div>
 
           <div class="stat-card">
@@ -1463,7 +1463,7 @@
     if (!parts.length) {
       
       var palavraOferta = offers.length === 1 ? "oferta recente" : "ofertas recentes";
-      summary.innerHTML = "Exibindo <strong>" + offers.length + "</strong> " + palavraOferta + " nas últimas 12 horas.";
+      summary.innerHTML = "Exibindo <strong>" + offers.length + "</strong> " + palavraOferta + " nas últimas 24 horas.";
     } else {
       
       var palavraEncontrada = offers.length === 1 ? "oferta encontrada" : "ofertas encontradas";
@@ -3114,6 +3114,7 @@
 <!-- MARYLOUSE_MAIN_TABS_END -->
 </body>
 </html>
+
 
 
 

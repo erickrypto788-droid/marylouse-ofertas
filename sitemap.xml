@@ -1,13 +1,111 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://SEU_USUARIO.github.io/marylouse-ofertas/</loc>
-    <lastmod>2026-07-15</lastmod>
+    <loc>https://marylouse-ofertas.vercel.app/</loc>
+    <lastmod>2026-07-21</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
+  <url>
+    <loc>https://marylouse-ofertas.vercel.app/ofertas-celulares.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://marylouse-ofertas.vercel.app/ofertas-eletronicos.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://marylouse-ofertas.vercel.app/ofertas-informatica.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://marylouse-ofertas.vercel.app/ofertas-games.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://marylouse-ofertas.vercel.app/ofertas-eletrodomesticos.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://marylouse-ofertas.vercel.app/ofertas-supermercados.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://marylouse-ofertas.vercel.app/ofertas-moda-infantil.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://marylouse-ofertas.vercel.app/ofertas-beleza.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://marylouse-ofertas.vercel.app/ofertas-esportes.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://marylouse-ofertas.vercel.app/ofertas-bebes.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://marylouse-ofertas.vercel.app/ofertas-pet.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://marylouse-ofertas.vercel.app/ofertas-saude.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://marylouse-ofertas.vercel.app/ofertas-ferramentas.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://marylouse-ofertas.vercel.app/ofertas-papelaria.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
-
-
-
-

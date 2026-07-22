@@ -2996,6 +2996,13 @@
   }
 
   function applyMainCategory(category) {
+    // Limpa busca anterior para não combinar categoria nova com termo antigo.
+    const searchInput = document.getElementById("searchInput");
+    if (searchInput) {
+      searchInput.value = "";
+      searchInput.dispatchEvent(new Event("input", { bubbles: true }));
+    }
+
     const ofertas = document.getElementById("ofertas");
 
     if (ofertas) {
@@ -3044,6 +3051,19 @@
       // Fallback para categorias com nomes próximos
       if (!btn) {
         const aliases = {
+          "informatica": ["computadores e acessorios", "computadores", "notebook", "monitor", "printers", "thermal printers"],
+          "celulares": ["celulares", "cell batteries", "mobile device chargers", "data cables", "telefone", "smartphone"],
+          "supermercados": ["supermercados", "bebidas e alimentos", "bar soaps", "fabric softeners", "papel higienico", "fralda"],
+          "moda feminina": ["roupas femininas", "moda feminina", "vestido", "blusa feminina"],
+          "moda masculina": ["roupas masculinas", "moda masculina", "camiseta masculina", "camisa masculina"],
+          "moda infantil": ["moda infantil", "infantil", "baby clothing", "roupa infantil"],
+          "beleza": ["beleza", "beauty", "hair", "skin care", "razor", "makeup"],
+          "esportes": ["esportes e lazer", "esportes", "fitness", "gym"],
+          "mae e bebe": ["mãe e bebê", "mae e bebe", "baby", "bebes", "maternidade"],
+          "pet": ["pet", "cat", "dog"],
+          "saude": ["saúde", "saude", "blood glucose", "blood pressure", "wheelchairs"],
+          "papelaria": ["papelaria", "drafting", "stationery"],
+          "ferramentas": ["ferramentas", "tools"],
           "games": ["jogos", "console", "consoles"],
           "jogos e consoles": ["games", "jogos", "console", "consoles"],
           "casa e cozinha": ["cozinha", "casa"],
@@ -3094,6 +3114,7 @@
 <!-- MARYLOUSE_MAIN_TABS_END -->
 </body>
 </html>
+
 
 
 

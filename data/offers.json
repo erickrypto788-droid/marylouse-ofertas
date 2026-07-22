@@ -74,7 +74,7 @@
     "raw_title": "Livro Sonoro Interativo para Crianças Português e Inglês Livro Ilustrado Bilíngue Brinquedo Educativo Sensível ao Toque",
     "description": "🤩 Seu filho vai amar aprender brincando! Aproveite esta oferta imperdível no Livro Sonoro Interativo Bilíngue (Português e Inglês)! 📚 Estimula a linguag...",
     "marketplace": "Shopee",
-    "category": "Brinquedos e Hobbies",
+    "category": "Papelaria",
     "old_price": "R$ 139,94",
     "price": "R$ 48,98",
     "discount_percent": 65.0,
@@ -87,7 +87,8 @@
     "niche": {
       "key": "shopee_brinquedos_hobbies",
       "name": "Brinquedos e Hobbies"
-    }
+    },
+    "original_category": "Brinquedos e Hobbies"
   },
   {
     "id": "bec946e6910063c28e",
@@ -137,7 +138,7 @@
     "raw_title": "Jogos ​​Labirinto Magnético Montessori de Madeira - Classificação de Cores para Criança / Infantil Brinquedo Educativo",
     "description": "🧠 Seu filho vai amar aprender brincando! Labirinto Magnético Montessori de Madeira: um brinquedo educativo que estimula a coordenação, o raciocínio e a...",
     "marketplace": "Shopee",
-    "category": "Pet",
+    "category": "Brinquedos e Hobbies",
     "old_price": "R$ 80,81",
     "price": "R$ 29,90",
     "discount_percent": 63.0,
@@ -448,7 +449,7 @@
     "raw_title": "Kit 4 Peças Conjunto Infantil Bebê Menino Verão Algodão Promoção 2 Camisas 2 Shorts Envio Sortido",
     "description": "🔥 67% OFF — Oferta encontrada! 📌 Kit 4 Peças Conjunto Infantil Bebê Menino Verão Algodão Promoção 2 Camisas 2 Shorts Envio Sortido Confira os detalhes e...",
     "marketplace": "Shopee",
-    "category": "Mãe e Bebê",
+    "category": "Moda infantil",
     "old_price": "R$ 130,30",
     "price": "R$ 43,00",
     "discount_percent": 67.0,
@@ -1330,7 +1331,7 @@
     "raw_title": "Câmera De Segurança Teleheer Camera Seguranca 1080p Camera Segurança Com Resolução 1080p - Branco",
     "description": "🔥 Oferta encontrada! 📌 Câmera De Segurança Teleheer Camera Seguranca 1080p Camera Segurança Com Resolução 1080p - Branco Confira os detalhes e aproveite...",
     "marketplace": "Mercado Livre",
-    "category": "Outros",
+    "category": "Eletrônicos",
     "old_price": "",
     "price": "R$ 63,80",
     "discount_percent": 0.0,
@@ -1348,7 +1349,7 @@
     "raw_title": "Soundbar Samsung Hw-b400f + Soundbar Hw-b400f Preto",
     "description": "🔥 Oferta encontrada! 📌 Soundbar Samsung Hw-b400f + Soundbar Hw-b400f Preto Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
     "marketplace": "Mercado Livre",
-    "category": "Outros",
+    "category": "Eletrônicos",
     "old_price": "",
     "price": "R$ 1.598,95",
     "discount_percent": 0.0,
@@ -1366,7 +1367,7 @@
     "raw_title": "Soundbar Samsung Hw-q990f + Soundbar Hw-b400f",
     "description": "🔥 Oferta encontrada! 📌 Soundbar Samsung Hw-q990f + Soundbar Hw-b400f Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
     "marketplace": "Mercado Livre",
-    "category": "Outros",
+    "category": "Eletrônicos",
     "old_price": "",
     "price": "R$ 7.788,42",
     "discount_percent": 0.0,
@@ -1384,7 +1385,7 @@
     "raw_title": "Soundbar Samsung Hw-b450f + Soundbar Hw-b400f",
     "description": "🔥 Oferta encontrada! 📌 Soundbar Samsung Hw-b450f + Soundbar Hw-b400f Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
     "marketplace": "Mercado Livre",
-    "category": "Outros",
+    "category": "Eletrônicos",
     "old_price": "",
     "price": "R$ 1.904,21",
     "discount_percent": 0.0,
@@ -1638,7 +1639,7 @@
     "raw_title": "Esmerilhadeira Angular Deko 900W 5 Pol. Amarelo 127V Mini Esmerilhadeira",
     "description": "🔥 5% OFF — Oferta encontrada! 📌 Esmerilhadeira Angular Deko 900W 5 Pol. Amarelo 127V Mini Esmerilhadeira Confira os detalhes e aproveite enquanto a ofer...",
     "marketplace": "Mercado Livre",
-    "category": "Outros",
+    "category": "Ferramentas",
     "old_price": "R$ 270,99",
     "price": "R$ 257,44",
     "discount_percent": 5.0,
@@ -1844,7 +1845,7 @@
     "raw_title": "Kit 6 Peças Moletom Infantil Menino Conjunto 1 ao 14 Masculino Inverno Manga Longa",
     "description": "🔥 47% OFF — Oferta encontrada! 📌 Kit 6 Peças Moletom Infantil Menino Conjunto 1 ao 14 Masculino Inverno Manga Longa Confira os detalhes e aproveite enqu...",
     "marketplace": "Shopee",
-    "category": "Roupas Masculinas",
+    "category": "Moda infantil",
     "old_price": "R$ 109,25",
     "price": "R$ 57,90",
     "discount_percent": 47.0,
@@ -1857,7 +1858,8 @@
     "niche": {
       "key": "shopee_roupas_masculinas",
       "name": "Roupas Masculinas"
-    }
+    },
+    "original_category": "Roupas Masculinas"
   },
   {
     "id": "330b41aaf96c940432",

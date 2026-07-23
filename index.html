@@ -2915,6 +2915,7 @@
         { label: "Moda Feminina", category: "Roupas Femininas", icon: "👗" },
     { label: "Moda Masculina", category: "Roupas Masculinas", icon: "👕" },
     { label: "Moda Infantil", category: "Moda infantil", icon: "🧒" },
+    { label: "Calçados", category: "Sapatos", icon: "👟" },
     { label: "Beleza", category: "Beleza", icon: "💄" },
     { label: "Esportes", category: "Esportes e Lazer", icon: "🏋️" },
     { label: "Mãe e Bebê", category: "Mãe e Bebê", icon: "🍼" },
@@ -3051,6 +3052,8 @@
       // Fallback para categorias com nomes próximos
       if (!btn) {
         const aliases = {
+          "sapatos": ["calçados", "calcados", "sapatos masculinos", "sapatos femininos", "tenis", "tênis", "sandalia", "sandália", "bota", "chinelo"],
+          "calçados": ["sapatos", "sapatos masculinos", "sapatos femininos", "tenis", "tênis", "sandalia", "sandália", "bota", "chinelo"],
           "informatica": ["computadores e acessorios", "computadores", "notebook", "monitor", "printers", "thermal printers"],
           "celulares": ["celulares", "cell batteries", "mobile device chargers", "data cables", "telefone", "smartphone"],
           "supermercados": ["supermercados", "bebidas e alimentos", "bar soaps", "fabric softeners", "papel higienico", "fralda"],
@@ -3114,6 +3117,7 @@
 <!-- MARYLOUSE_MAIN_TABS_END -->
 </body>
 </html>
+
 
 
 

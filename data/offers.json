@@ -473,7 +473,7 @@
     "raw_title": "Tênis Masculino Esporte Fit Casual Caminhada Corrida Academia Leve Confortável Amortecedor Diário",
     "description": "🔥 46% OFF — Oferta encontrada! 📌 Tênis Masculino Esporte Fit Casual Caminhada Corrida Academia Leve Confortável Amortecedor Diário Confira os detalhes e...",
     "marketplace": "Shopee",
-    "category": "Esportes e Lazer",
+    "category": "Sapatos",
     "old_price": "R$ 129,43",
     "price": "R$ 69,89",
     "discount_percent": 46.0,
@@ -2002,7 +2002,7 @@
     "raw_title": "Tênis Menino Spring Infantil Menino Criança Confortável Estiloso Antiderrapante Original Promoção",
     "description": "🔥 47% OFF — Oferta encontrada! 📌 Tênis Menino Spring Infantil Menino Criança Confortável Estiloso Antiderrapante Original Promoção Confira os detalhes e...",
     "marketplace": "Shopee",
-    "category": "Moda infantil",
+    "category": "Sapatos",
     "old_price": "R$ 90,38",
     "price": "R$ 47,90",
     "discount_percent": 47.0,
@@ -2015,7 +2015,8 @@
     "niche": {
       "key": "shopee_moda_infantil",
       "name": "Moda infantil"
-    }
+    },
+    "original_category": "Moda infantil"
   },
   {
     "id": "584b1adff4a8c2cd90",
@@ -2065,7 +2066,7 @@
     "raw_title": "Sandália Babuche Lisa Infantil Confortável Escolar Promoção Kidstep",
     "description": "🔥 63% OFF — Oferta encontrada! 📌 Sandália Babuche Lisa Infantil Confortável Escolar Promoção Kidstep Confira os detalhes e aproveite enquanto a oferta e...",
     "marketplace": "Shopee",
-    "category": "Moda infantil",
+    "category": "Sapatos",
     "old_price": "R$ 59,19",
     "price": "R$ 21,90",
     "discount_percent": 63.0,
@@ -2078,7 +2079,8 @@
     "niche": {
       "key": "shopee_moda_infantil",
       "name": "Moda infantil"
-    }
+    },
+    "original_category": "Moda infantil"
   },
   {
     "id": "6e47fd28403c5513fd",

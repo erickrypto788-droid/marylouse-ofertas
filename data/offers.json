@@ -1,5 +1,110 @@
 [
   {
+    "id": "d7d54f46863515125e",
+    "title": "Creatina Soldiers Nutrition",
+    "raw_title": "Creatina Suplemento Monohidratada em Pó 100% Pura Importada - Soldiers Nutrition",
+    "description": "💪 OFERTA RELÂMPAGO! A Creatina 100% Pura e Importada da Soldiers Nutrition está com um SUPER desconto! Ideal para turbinar seus treinos e resultados. Nã...",
+    "marketplace": "Shopee",
+    "category": "Bebidas e Alimentos",
+    "old_price": "R$ 101,17",
+    "price": "R$ 24,28",
+    "discount_percent": 76.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m9-mpwm1rqctatfc5",
+    "affiliate_url": "https://s.shopee.com.br/4VbQGhgPY1",
+    "created_at": "23/07/2026 10:20",
+    "created_at_iso": "2026-07-23T10:20:03",
+    "created_ts": 1784802003,
+    "niche": {
+      "key": "shopee_bebidas_alimentos",
+      "name": "Bebidas e Alimentos"
+    }
+  },
+  {
+    "id": "cd6ba387ca3e02b6c9",
+    "title": "Creatina Dark Lab Pura",
+    "raw_title": "Creatina Monohidratada Pura 1kg, 500g, 600, 300g e 150g - Dark Lab",
+    "description": "💪 OFERTA IMPERDÍVEL! A Creatina Monohidratada Pura da Dark Lab é essencial para seus treinos! Ganhe mais força e performance com a qualidade que você co...",
+    "marketplace": "Shopee",
+    "category": "Bebidas e Alimentos",
+    "old_price": "R$ 73,11",
+    "price": "R$ 32,90",
+    "discount_percent": 55.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzawb2jf7rxhf2",
+    "affiliate_url": "https://s.shopee.com.br/40f9fmiJYw",
+    "created_at": "23/07/2026 10:18",
+    "created_at_iso": "2026-07-23T10:18:55",
+    "created_ts": 1784801935,
+    "niche": {
+      "key": "shopee_bebidas_alimentos",
+      "name": "Bebidas e Alimentos"
+    }
+  },
+  {
+    "id": "de85a989e3db265917",
+    "title": "Filtro Coador Café Inox Reutilizável",
+    "raw_title": "Filtro Coador De Café Inox 103 - Com Pegador em Silicone - Peneira Aço Reutilizável - CH",
+    "description": "☕ Diga adeus ao filtro de papel! Tenha um café delicioso e sustentável com o Filtro Coador de Café Inox 103. Reutilizável, com pegador em silicone, é a...",
+    "marketplace": "Shopee",
+    "category": "Bebidas e Alimentos",
+    "old_price": "R$ 90,00",
+    "price": "R$ 27,90",
+    "discount_percent": 69.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m3gpzu9ozvaw87",
+    "affiliate_url": "https://s.shopee.com.br/9ANFpHTBOT",
+    "created_at": "23/07/2026 10:17",
+    "created_at_iso": "2026-07-23T10:17:47",
+    "created_ts": 1784801867,
+    "niche": {
+      "key": "shopee_bebidas_alimentos",
+      "name": "Bebidas e Alimentos"
+    }
+  },
+  {
+    "id": "a33dbd113c07efa63c",
+    "title": "Creatina Dark Lab 1Kg",
+    "raw_title": "Creatina Monohidratada Pura Refil 1Kg Dark Lab - Creatine, Creatina 100% Pura",
+    "description": "💪 CHEGOU A HORA DE TURBINAR SEUS TREINOS! Creatina Monohidratada Pura 1Kg Dark Lab. Aumente sua força, resistência e ganho de massa muscular com a purez...",
+    "marketplace": "Shopee",
+    "category": "Bebidas e Alimentos",
+    "old_price": "R$ 179,23",
+    "price": "R$ 69,90",
+    "discount_percent": 61.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzaxxyrolf6t9e",
+    "affiliate_url": "https://s.shopee.com.br/30mcTwm7aq",
+    "created_at": "23/07/2026 10:16",
+    "created_at_iso": "2026-07-23T10:16:36",
+    "created_ts": 1784801796,
+    "niche": {
+      "key": "shopee_bebidas_alimentos",
+      "name": "Bebidas e Alimentos"
+    }
+  },
+  {
+    "id": "f3c5c08af896da049d",
+    "title": "Creatina Ultra FTW 300g",
+    "raw_title": "Creatina Ultra Pote 300g - FTW",
+    "description": "⚡️ IMPERDÍVEL! Creatina Ultra FTW 300g com 58% OFF! Turbine seus treinos e alcance seus objetivos com a Creatina Ultra da FTW! 💪 Qualidade e resultados...",
+    "marketplace": "Shopee",
+    "category": "Bebidas e Alimentos",
+    "old_price": "R$ 71,19",
+    "price": "R$ 29,90",
+    "discount_percent": 58.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-meourptjpj4194",
+    "affiliate_url": "https://s.shopee.com.br/50XgrceVXA",
+    "created_at": "23/07/2026 10:15",
+    "created_at_iso": "2026-07-23T10:15:30",
+    "created_ts": 1784801730,
+    "niche": {
+      "key": "shopee_bebidas_alimentos",
+      "name": "Bebidas e Alimentos"
+    }
+  },
+  {
     "id": "e3cb8a1d72e1bdf06f",
     "title": "Monitor Gamer ARZOPA M1RC",
     "raw_title": "Monitor Gamer ARZOPA M1RC, 27\" 2K QHD 180Hz IPS, 1ms, 115% sRGB, USB-C, HDMI, Display Port",

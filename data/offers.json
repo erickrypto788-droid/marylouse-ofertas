@@ -2142,7 +2142,7 @@
     "raw_title": "Kit 2 Sandália Infantil Menina Brilhante Confortável Leve",
     "description": "🔥 77% OFF — Oferta encontrada! 📌 Kit 2 Sandália Infantil Menina Brilhante Confortável Leve Confira os detalhes e aproveite enquanto a oferta estiver dis...",
     "marketplace": "Shopee",
-    "category": "Moda infantil",
+    "category": "Sapatos",
     "old_price": "R$ 130,00",
     "price": "R$ 29,90",
     "discount_percent": 77.0,
@@ -2155,7 +2155,8 @@
     "niche": {
       "key": "shopee_moda_infantil",
       "name": "Moda infantil"
-    }
+    },
+    "original_category": "Moda infantil"
   },
   {
     "id": "d79904cb9ee157ac6b",
@@ -2226,7 +2227,7 @@
     "raw_title": "Sandália Babuche Lisa Infantil Confortável Escolar Promoção Kidstep",
     "description": "🔥 63% OFF — Oferta encontrada! 📌 Sandália Babuche Lisa Infantil Confortável Escolar Promoção Kidstep Confira os detalhes e aproveite enquanto a oferta e...",
     "marketplace": "Shopee",
-    "category": "Moda infantil",
+    "category": "Sapatos",
     "old_price": "R$ 59,19",
     "price": "R$ 21,90",
     "discount_percent": 63.0,
@@ -2239,7 +2240,8 @@
     "niche": {
       "key": "shopee_moda_infantil",
       "name": "Moda infantil"
-    }
+    },
+    "original_category": "Moda infantil"
   },
   {
     "id": "3ca1eec774fa6259c3",
@@ -2332,7 +2334,7 @@
     "raw_title": "Bota Feminina Linda Moça Cano Longo Montaria Confort Preta",
     "description": "🚨 MEGA OFERTA: Bota Montaria Confortável! 👢 A Bota Feminina Linda Moça Cano Longo Montaria Confort Preta é perfeita para você arrasar com estilo e muito...",
     "marketplace": "Shopee",
-    "category": "Sapatos Femininos",
+    "category": "Sapatos",
     "old_price": "R$ 189,80",
     "price": "R$ 94,90",
     "discount_percent": 50.0,
@@ -2345,7 +2347,8 @@
     "niche": {
       "key": "shopee_sapatos_femininos",
       "name": "Sapatos Femininos"
-    }
+    },
+    "original_category": "Sapatos Femininos"
   },
   {
     "id": "045d326c40f318dd4a",
@@ -2353,7 +2356,7 @@
     "raw_title": "Sapato Feminino Social Scarpin Bico Fino Luxo Salto Baixo Gross 6cm Caramelo,Preto,Nude,Offwhite",
     "description": "🔥 51% OFF — Oferta encontrada! 📌 Sapato Feminino Social Scarpin Bico Fino Luxo Salto Baixo Gross 6cm Caramelo,Preto,Nude,Offwhite Confira os detalhes e...",
     "marketplace": "Shopee",
-    "category": "Sapatos Femininos",
+    "category": "Sapatos",
     "old_price": "R$ 120,20",
     "price": "R$ 58,90",
     "discount_percent": 51.0,
@@ -2366,7 +2369,8 @@
     "niche": {
       "key": "shopee_sapatos_femininos",
       "name": "Sapatos Femininos"
-    }
+    },
+    "original_category": "Sapatos Femininos"
   },
   {
     "id": "2ce823764a48bee13b",
@@ -2374,7 +2378,7 @@
     "raw_title": "Babuche Feminino EVA com Apliques (Envio Aleatório), Leve, Confortável e Antiderrapante",
     "description": "🔥 58% OFF — Oferta encontrada! 📌 Babuche Feminino EVA com Apliques (Envio Aleatório), Leve, Confortável e Antiderrapante Confira os detalhes e aproveite...",
     "marketplace": "Shopee",
-    "category": "Sapatos Femininos",
+    "category": "Sapatos",
     "old_price": "R$ 100,00",
     "price": "R$ 42,00",
     "discount_percent": 58.0,
@@ -2387,7 +2391,8 @@
     "niche": {
       "key": "shopee_sapatos_femininos",
       "name": "Sapatos Femininos"
-    }
+    },
+    "original_category": "Sapatos Femininos"
   },
   {
     "id": "1b7a96685c7acb8e70",
@@ -2395,7 +2400,7 @@
     "raw_title": "Sandália Feminina Asa Delta Rasteira Conforto Medalhas Douradas com Fivela Reveillon",
     "description": "✨ Sandália Rasteira com 64% OFF! ✨ Conforto e elegância para seus pés! Esta Sandália Feminina Asa Delta conta com detalhes de medalhas douradas e fivela...",
     "marketplace": "Shopee",
-    "category": "Sapatos Femininos",
+    "category": "Sapatos",
     "old_price": "R$ 110,83",
     "price": "R$ 39,90",
     "discount_percent": 64.0,
@@ -2408,7 +2413,8 @@
     "niche": {
       "key": "shopee_sapatos_femininos",
       "name": "Sapatos Femininos"
-    }
+    },
+    "original_category": "Sapatos Femininos"
   },
   {
     "id": "3f7762a5421467eaec",
@@ -2416,7 +2422,7 @@
     "raw_title": "Sandália Feminina Tamanco Salto Baixo Macio Leve Confortável Antiderrapante Moda Casual Dia Dia",
     "description": "🚨 OFERTA RELÂMPAGO! Sandália Feminina com 53% OFF! 🚨 Conforto e estilo para seus pés! ✨ Esta sandália tamanco é macia, leve, confortável e antiderrapant...",
     "marketplace": "Shopee",
-    "category": "Sapatos Femininos",
+    "category": "Sapatos",
     "old_price": "R$ 80,64",
     "price": "R$ 37,90",
     "discount_percent": 53.0,
@@ -2429,7 +2435,8 @@
     "niche": {
       "key": "shopee_sapatos_femininos",
       "name": "Sapatos Femininos"
-    }
+    },
+    "original_category": "Sapatos Femininos"
   },
   {
     "id": "e04ef7f80d9f90d9a6",

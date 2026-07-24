@@ -1,5 +1,90 @@
 [
   {
+    "id": "7cd4d94cf0ec2cd0dd",
+    "title": "Sabão em Pó Ypê Tixan 2.2kg",
+    "raw_title": "Sabão em pó Ypê Lava Roupas em Pó Tixan Lava Roupas em pó garrafa 2.2 kg",
+    "description": "✨ Roupas limpas e cheirosas com super economia! Sabão em pó Ypê Lava Roupas Tixan 2.2kg. Garanta já o seu e deixe suas roupas impecáveis! 🧺",
+    "marketplace": "Mercado Livre",
+    "category": "Laundry Detergents",
+    "old_price": "R$ 34,49",
+    "price": "R$ 23,45",
+    "discount_percent": 32.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_859332-MLA110236441709_042026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51325266?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "24/07/2026 12:11",
+    "created_at_iso": "2026-07-24T12:11:02",
+    "created_ts": 1784895062
+  },
+  {
+    "id": "f66ade6881a03b3e31",
+    "title": "Fralda Pampers Premium Care Tamanho P 40 Unidades",
+    "raw_title": "Fralda Pampers Premium Care Tamanho P 40 Unidades",
+    "description": "🔥 21% OFF — Oferta encontrada! 📌 Fralda Pampers Premium Care Tamanho P 40 Unidades Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Supermercados",
+    "old_price": "R$ 99,08",
+    "price": "R$ 78,21",
+    "discount_percent": 21.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_825242-MLA109518750392_042026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23414358?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "24/07/2026 12:09",
+    "created_at_iso": "2026-07-24T12:09:53",
+    "created_ts": 1784894993
+  },
+  {
+    "id": "4f42bef3316535d3bf",
+    "title": "Azeite Oliva Extra Virgem Italiano 500ml Mercatto",
+    "raw_title": "Azeite Oliva Extra Virgem Italiano 500ml Mercatto",
+    "description": "🔥 41% OFF — Oferta encontrada! 📌 Azeite Oliva Extra Virgem Italiano 500ml Mercatto Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Supermercados",
+    "old_price": "R$ 78,88",
+    "price": "R$ 46,68",
+    "discount_percent": 41.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_766611-MLA99898139973_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB54332454?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "24/07/2026 12:08",
+    "created_at_iso": "2026-07-24T12:08:49",
+    "created_ts": 1784894929
+  },
+  {
+    "id": "2d16929e54cdef9974",
+    "title": "Sabonete Barra Madressenza Karité 180 G",
+    "raw_title": "Sabonete Barra Madressenza Karité 180 G",
+    "description": "🔥 44% OFF — Oferta encontrada! 📌 Sabonete Barra Madressenza Karité 180 G Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Supermercados",
+    "old_price": "R$ 49,90",
+    "price": "R$ 27,90",
+    "discount_percent": 44.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_936933-MLA99373588020_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20648720?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "24/07/2026 12:07",
+    "created_at_iso": "2026-07-24T12:07:45",
+    "created_ts": 1784894865
+  },
+  {
+    "id": "5422ade5222e0c69f9",
+    "title": "Arroz Arbório Scotti - 1kg",
+    "raw_title": "Arroz Arbório Scotti - 1kg",
+    "description": "🔥 55% OFF — Oferta encontrada! 📌 Arroz Arbório Scotti - 1kg Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Rice",
+    "old_price": "R$ 61,84",
+    "price": "R$ 27,66",
+    "discount_percent": 55.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_677763-MLA99361612326_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB19763877?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "24/07/2026 12:06",
+    "created_at_iso": "2026-07-24T12:06:41",
+    "created_ts": 1784894801
+  },
+  {
     "id": "cd272514b4fa8856d5",
     "title": "Monitor Gamer ARZOPA M1RC, 27\" 2K QHD 180Hz IPS, 1ms, 115% sRGB, USB-…",
     "raw_title": "Monitor Gamer ARZOPA M1RC, 27\" 2K QHD 180Hz IPS, 1ms, 115% sRGB, USB-C, HDMI, Display Port",
@@ -2781,27 +2866,6 @@
     "niche": {
       "key": "shopee_roupas_femininas",
       "name": "Roupas Femininas"
-    }
-  },
-  {
-    "id": "20338ba18629850305",
-    "title": "GameStick Retrô M15 PRO 4K Lançamento 64GB 20 mil Jogos Retrô Clássi…",
-    "raw_title": "GameStick Retrô M15 PRO 4K Lançamento 64GB 20 mil Jogos Retrô Clássicos 2 Controles Sem Fio",
-    "description": "🔥 60% OFF — Oferta encontrada! 📌 GameStick Retrô M15 PRO 4K Lançamento 64GB 20 mil Jogos Retrô Clássicos 2 Controles Sem Fio Confira os detalhes e aprov...",
-    "marketplace": "Shopee",
-    "category": "Jogos e Consoles",
-    "old_price": "R$ 302,47",
-    "price": "R$ 120,99",
-    "discount_percent": 60.0,
-    "rating": 4.7,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7rfgt-m3toccgkzrri36",
-    "affiliate_url": "https://s.shopee.com.br/6L34WBy9dS",
-    "created_at": "23/07/2026 11:20",
-    "created_at_iso": "2026-07-23T11:20:02",
-    "created_ts": 1784805602,
-    "niche": {
-      "key": "shopee_jogos_consoles",
-      "name": "Jogos e Consoles"
     }
   }
 ]

@@ -3031,7 +3031,7 @@
     "raw_title": "Kit 48 Carrinhos De Metal Fricção Brinquedo Menino Maleta Pista Presente",
     "description": "🏎️💨 PISTA DE DIVERSÃO GARANTIDA! 🏎️💨 Seu filho vai amar este Kit INCRÍVEL com 48 Carrinhos de Metal de Fricção! Vem com maleta e é o presente perfeito p...",
     "marketplace": "Shopee",
-    "category": "Mãe e Bebê",
+    "category": "Brinquedos e Hobbies",
     "old_price": "R$ 148,91",
     "price": "R$ 69,99",
     "discount_percent": 53.0,
@@ -3309,7 +3309,7 @@
     "raw_title": "Caderno Adesivos 3d com 20 Cenários para Montar e Decorar.",
     "description": "🔥 76% OFF — Oferta encontrada! 📌 Caderno Adesivos 3d com 20 Cenários para Montar e Decorar. Confira os detalhes e aproveite enquanto a oferta estiver di...",
     "marketplace": "Shopee",
-    "category": "Papelaria",
+    "category": "Brinquedos e Hobbies",
     "old_price": "R$ 90,83",
     "price": "R$ 21,80",
     "discount_percent": 76.0,
@@ -3438,7 +3438,7 @@
     "raw_title": "Whey Protein Concentrado 1kg Refil - FTW",
     "description": "🔥 60% OFF — Oferta encontrada! 📌 Whey Protein Concentrado 1kg Refil - FTW Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
     "marketplace": "Shopee",
-    "category": "Esportes e Lazer",
+    "category": "Supermercados",
     "old_price": "R$ 197,25",
     "price": "R$ 78,90",
     "discount_percent": 60.0,
@@ -3451,7 +3451,8 @@
     "niche": {
       "key": "shopee_esportes_lazer",
       "name": "Esportes e Lazer"
-    }
+    },
+    "original_category": "Esportes e Lazer"
   },
   {
     "id": "daa88c21495b446a83",

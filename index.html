@@ -1,6 +1,4 @@
-﻿from pathlib import Path
-
-html = r'''<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8" />
@@ -868,23 +866,156 @@ html = r'''<!DOCTYPE html>
       return original || "Outros";
     }
 
-    function createdTs(offer) {
-      if (offer.created_ts) {
-        const ts = Number(offer.created_ts);
-        if (!Number.isNaN(ts)) return ts;
+    function firstValue(...values) {
+      for (const value of values) {
+        if (value === undefined || value === null) continue;
+
+        const text = String(value).trim();
+
+        if (!text) continue;
+        if (text.toLowerCase() === "none") continue;
+        if (text.toLowerCase() === "null") continue;
+        if (text.toLowerCase() === "undefined") continue;
+
+        return value;
       }
 
-      if (offer.created_at_iso) {
-        const d = new Date(offer.created_at_iso);
-        if (!Number.isNaN(d.getTime())) return Math.floor(d.getTime() / 1000);
+      return "";
+    }
+
+    function formatMoney(value) {
+      if (value === undefined || value === null) return "";
+
+      if (typeof value === "number") {
+        if (!Number.isFinite(value) || value <= 0) return "";
+
+        return value.toLocaleString("pt-BR", {
+          style: "currency",
+          currency: "BRL"
+        });
+      }
+
+      let raw = String(value).trim();
+
+      if (!raw) return "";
+
+      if (/^R\$/i.test(raw)) {
+        return raw.replace(/^R\$\s*/i, "R$ ");
+      }
+
+      let cleaned = raw
+        .replace(/\s/g, "")
+        .replace(/^R\$/i, "")
+        .replace(/[^\d,.-]/g, "");
+
+      if (!cleaned) return "";
+
+      if (cleaned.includes(",") && cleaned.includes(".")) {
+        cleaned = cleaned.replace(/\./g, "").replace(",", ".");
+      } else if (cleaned.includes(",")) {
+        cleaned = cleaned.replace(",", ".");
+      }
+
+      const number = Number(cleaned);
+
+      if (!Number.isFinite(number) || number <= 0) return "";
+
+      return number.toLocaleString("pt-BR", {
+        style: "currency",
+        currency: "BRL"
+      });
+    }
+
+    function offerPrice(offer) {
+      return formatMoney(firstValue(
+        offer.price_text,
+        offer.formatted_price,
+        offer.current_price,
+        offer.sale_price,
+        offer.price
+      ));
+    }
+
+    function offerOldPrice(offer) {
+      return formatMoney(firstValue(
+        offer.old_price_text,
+        offer.original_price_text,
+        offer.old_price,
+        offer.original_price,
+        offer.list_price
+      ));
+    }
+
+    function parseDateToTs(value) {
+      if (value === undefined || value === null || value === "") return 0;
+
+      if (typeof value === "number") {
+        if (!Number.isFinite(value) || value <= 0) return 0;
+
+        if (value > 1000000000000) {
+          return Math.floor(value / 1000);
+        }
+
+        return Math.floor(value);
+      }
+
+      const text = String(value).trim();
+
+      if (!text) return 0;
+
+      if (/^\d+$/.test(text)) {
+        return parseDateToTs(Number(text));
+      }
+
+      const br = text.match(/^(\d{2})\/(\d{2})\/(\d{4})(?:\s+(\d{2}):(\d{2}))?/);
+
+      if (br) {
+        const day = Number(br[1]);
+        const month = Number(br[2]) - 1;
+        const year = Number(br[3]);
+        const hour = Number(br[4] || 0);
+        const minute = Number(br[5] || 0);
+        const d = new Date(year, month, day, hour, minute, 0);
+
+        if (!Number.isNaN(d.getTime())) {
+          return Math.floor(d.getTime() / 1000);
+        }
+      }
+
+      const d = new Date(text);
+
+      if (!Number.isNaN(d.getTime())) {
+        return Math.floor(d.getTime() / 1000);
       }
 
       return 0;
     }
 
+    function createdTs(offer) {
+      const directTs = parseDateToTs(firstValue(
+        offer.created_ts,
+        offer.timestamp,
+        offer.ts
+      ));
+
+      if (directTs) return directTs;
+
+      return parseDateToTs(firstValue(
+        offer.created_at_iso,
+        offer.created_at,
+        offer.published_at,
+        offer.posted_at,
+        offer.collected_at,
+        offer.updated_at
+      ));
+    }
+
     function timeAgo(offer) {
       const ts = createdTs(offer);
-      if (!ts) return offer.created_at || "";
+
+      if (!ts) {
+        return offer.created_at || offer.published_at || "";
+      }
 
       const now = Math.floor(Date.now() / 1000);
       const diff = Math.max(0, now - ts);
@@ -892,7 +1023,17 @@ html = r'''<!DOCTYPE html>
       if (diff < 60) return "agora";
       if (diff < 3600) return "há " + Math.floor(diff / 60) + " min";
       if (diff < 86400) return "há " + Math.floor(diff / 3600) + " h";
-      return offer.created_at || "";
+      if (diff < 604800) return "há " + Math.floor(diff / 86400) + " d";
+
+      const d = new Date(ts * 1000);
+
+      return d.toLocaleString("pt-BR", {
+        day: "2-digit",
+        month: "2-digit",
+        year: "numeric",
+        hour: "2-digit",
+        minute: "2-digit"
+      });
     }
 
     function activeCategoryDef() {
@@ -1046,7 +1187,7 @@ html = r'''<!DOCTYPE html>
         const title = escapeHtml(offer.title || "Oferta encontrada");
         const marketplace = escapeHtml(marketplaceLabel(offer.marketplace));
         const discount = offer.discount_percent ? `${Number(offer.discount_percent).toFixed(0)}% OFF` : "Oferta";
-        const price = escapeHtml(offer.price || "Ver preço");
+        const price = escapeHtml(offerPrice(offer) || "Ver preço");
         const url = escapeHtml(offer.affiliate_url || "#");
         const image = escapeHtml(offer.image || fallbackImage);
 
@@ -1099,8 +1240,8 @@ html = r'''<!DOCTYPE html>
         const description = escapeHtml(offer.description || "Confira essa oferta selecionada para você.");
         const marketplace = escapeHtml(marketplaceLabel(offer.marketplace));
         const category = escapeHtml(offer._category || canonicalCategory(offer));
-        const oldPrice = escapeHtml(offer.old_price || "");
-        const price = escapeHtml(offer.price || "");
+        const oldPrice = escapeHtml(offerOldPrice(offer));
+        const price = escapeHtml(offerPrice(offer));
         const discount = offer.discount_percent ? `${Number(offer.discount_percent).toFixed(0)}% OFF` : "Oferta";
         const rating = offer.rating ? "⭐ " + escapeHtml(offer.rating) + "/5" : "⭐ Oferta";
         const created = escapeHtml(timeAgo(offer));

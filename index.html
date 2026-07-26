@@ -831,6 +831,16 @@
 
       const has = (words) => words.some(word => text.includes(normalize(word)));
 
+      // Overrides de prioridade máxima para evitar categorias erradas.
+      // Ex.: "monitor de pressão" não deve cair em Informática só por conter "monitor".
+      if (has(["monitor de pressao", "monitor de pressão", "pressao arterial", "pressão arterial", "aparelho de pressao", "aparelho de pressão", "termometro", "termômetro", "inalador", "nebulizador", "oximetro", "oxímetro", "glicose", "medidor de glicose", "bioimpedancia", "bioimpedância", "balanca digital", "balança digital", "massageador", "medidor corporal"])) return "Saúde";
+
+      if (has(["painel para tv", "painel tv", "rack para tv", "rack para sala", "rack sala", "sala de estar", "cadeira escritorio", "cadeira escritório", "cadeira presidente", "cadeira gamer", "mesa computador", "mesa para computador", "escrivaninha", "mesa gamer", "fruteira", "cesto multiuso", "organizador de cozinha", "tapete", "luminaria", "luminária", "lampada", "lâmpada"])) return "Casa e Cozinha";
+
+      if (has(["notebook", "laptop", "macbook", "chromebook", "pc gamer", "asus tuf", "tuf gaming", "rtx", "gtx", "geforce", "ryzen", "intel core", "processador", "placa de video", "placa de vídeo", "placa mae", "placa mãe", "ssd", "hd externo", "memoria ram", "memória ram", "teclado", "mouse", "webcam", "roteador", "router", "impressora", "toner", "cartucho", "hub usb", "pendrive", "fonte notebook"])) return "Informática";
+
+
+
       if (has(["mochila", "bolsa", "mala", "necessaire", "pochete", "carteira feminina", "carteira masculina", "backpack", "maleta", "kit organizador de malas", "saco a vacuo", "saco organizador"])) return "Bolsas";
 
       if (has(["tenis", "tênis", "sapatennis", "sapatênis", "sapato", "sandalia", "sandália", "chinelo", "bota", "sneaker", "slip on", "calcado", "calçado", "rasteirinha", "scarpin", "coturno"])) return "Calçados";

@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 26/07/2026 19:50
+Gerado em: 26/07/2026 20:04
 
 ## Objetivo do dia
 
@@ -10,8 +10,8 @@ Gerar tráfego gratuito para páginas de categoria, aumentar cliques em ofertas 
 
 - 🍼 **Mãe e Bebê**: 22 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=organic_report&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🍳 **Casa e Cozinha**: 18 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=organic_report&utm_medium=organic&utm_campaign=categoria_casa-cozinha
-- 👟 **Calçados**: 17 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=organic_report&utm_medium=organic&utm_campaign=categoria_calcados
 - 🏋️ **Esportes**: 16 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=organic_report&utm_medium=organic&utm_campaign=categoria_esportes
+- 👟 **Calçados**: 16 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=organic_report&utm_medium=organic&utm_campaign=categoria_calcados
 - ❤️ **Saúde**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=organic_report&utm_medium=organic&utm_campaign=categoria_saude
 - 🧸 **Brinquedos**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=organic_report&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 💻 **Informática**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=organic_report&utm_medium=organic&utm_campaign=categoria_informatica

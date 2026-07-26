@@ -1,0 +1,569 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Feed Visual de Ofertas | MaryLouse Ofertas</title>
+  <meta name="description" content="Feed visual com as ofertas mais recentes da MaryLouse Ofertas."/>
+  <style>
+    body { margin: 0; font-family: Arial, Helvetica, sans-serif; background: linear-gradient(180deg, #fff4f8, #ffffff); color: #1f1720; }
+    .header { background: rgba(255,255,255,.92); border-bottom: 1px solid #f0d7df; position: sticky; top: 0; z-index: 5; backdrop-filter: blur(12px); }
+    .header-inner { max-width: 1180px; margin: 0 auto; padding: 14px 20px; display: flex; align-items: center; justify-content: space-between; gap: 16px; }
+    .brand { display: flex; align-items: center; gap: 12px; text-decoration: none; color: #064750; font-size: 24px; font-weight: 950; }
+    .brand img { width: 54px; height: 54px; border-radius: 16px; }
+    .nav { display: flex; gap: 10px; flex-wrap: wrap; }
+    .nav a { text-decoration: none; padding: 11px 16px; border-radius: 999px; background: #fff; border: 1px solid #f0d7df; color: #6e5e67; font-weight: 900; }
+    .wrap { max-width: 1180px; margin: 0 auto; padding: 34px 20px; }
+    .hero { background: rgba(255,255,255,.9); border: 1px solid #f0d7df; border-radius: 32px; padding: 32px; box-shadow: 0 16px 35px rgba(154, 41, 92, .10); margin-bottom: 24px; }
+    h1 { margin: 0 0 10px; color: #064750; font-size: clamp(34px, 5vw, 56px); letter-spacing: -1.5px; }
+    .hero p { color: #6e5e67; font-size: 19px; line-height: 1.55; max-width: 850px; }
+    .links { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 18px; }
+    .links a, .buy { display: inline-flex; align-items: center; justify-content: center; padding: 13px 17px; border-radius: 999px; background: #ef2473; color: #fff; text-decoration: none; font-weight: 950; }
+    .links a.secondary { background: #fff; color: #ef2473; border: 1px solid #f0d7df; }
+    .grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 20px; }
+    .card { background: #fff; border: 1px solid #f0d7df; border-radius: 26px; overflow: hidden; box-shadow: 0 14px 30px rgba(126, 34, 80, .10); }
+    .image { display: block; height: 245px; background: #fff; }
+    .image img { width: 100%; height: 100%; object-fit: contain; display: block; }
+    .body { padding: 17px; }
+    .cat { display: inline-block; margin-bottom: 8px; color: #ef2473; font-weight: 950; font-size: 13px; text-transform: uppercase; }
+    .card h2 { margin: 0 0 10px; font-size: 19px; line-height: 1.28; min-height: 74px; }
+    .card p { color: #6e5e67; font-weight: 850; }
+    .buy { width: 100%; border-radius: 16px; margin-top: 10px; background: linear-gradient(135deg, #10b960, #07863b); }
+    @media (max-width: 920px) { .grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+    @media (max-width: 640px) { .header-inner { align-items: flex-start; flex-direction: column; } .grid { grid-template-columns: 1fr; } }
+  </style>
+</head>
+<body>
+  <header class="header">
+    <div class="header-inner">
+      <a class="brand" href="./index.html">
+        <img src="./assets/logo.png" alt="MaryLouse Ofertas"/>
+        <span>MaryLouse Ofertas</span>
+      </a>
+      <nav class="nav">
+        <a href="./index.html#ofertas">🔥 Ofertas</a>
+        <a href="./index.html#categorias">🧭 Categorias</a>
+        <a href="https://t.me/dmaispromo" target="_blank" rel="noopener">📲 Telegram</a>
+      </nav>
+    </div>
+  </header>
+  <main class="wrap">
+    <section class="hero">
+      <h1>🔥 Feed visual de ofertas</h1>
+      <p>As ofertas mais recentes da MaryLouse Ofertas em formato fácil de navegar. Use esta página para acompanhar os destaques e acessar as categorias atualizadas.</p>
+      <div class="links">
+        <a href="./index.html">Ver site completo</a>
+        <a class="secondary" href="./feed.xml">Abrir RSS técnico</a>
+        <a class="secondary" href="https://t.me/dmaispromo" target="_blank" rel="noopener">Entrar no Telegram</a>
+      </div>
+    </section>
+    <section class="grid">
+      
+        <article class="card">
+          <a class="image" href="ofertas-informatica.html">
+            <img src="https://http2.mlstatic.com/D_NQ_NP_883611-MLU78942001945_092024-F.jpg" alt="Mesa Computador Escrivaninha Notebook Gamer cor branco AJL" loading="lazy"/>
+          </a>
+          <div class="body">
+            <span class="cat">Informática</span>
+            <h2>Mesa Computador Escrivaninha Notebook Gamer cor branco AJL</h2>
+            <p>Mercado Livre | R$ 267,20</p>
+            <a class="buy" href="ofertas-informatica.html">Ver ofertas da categoria</a>
+          </div>
+        </article>
+        
+        <article class="card">
+          <a class="image" href="ofertas-informatica.html">
+            <img src="https://http2.mlstatic.com/D_NQ_NP_697321-MLA99502086258_112025-F.jpg" alt="Roteador Wifi Ac 1200 2 Flex" loading="lazy"/>
+          </a>
+          <div class="body">
+            <span class="cat">Informática</span>
+            <h2>Roteador Wifi Ac 1200 2 Flex</h2>
+            <p>Mercado Livre | R$ 169,14</p>
+            <a class="buy" href="ofertas-informatica.html">Ver ofertas da categoria</a>
+          </div>
+        </article>
+        
+        <article class="card">
+          <a class="image" href="ofertas-informatica.html">
+            <img src="https://http2.mlstatic.com/D_NQ_NP_949056-MLA99915280699_112025-F.jpg" alt="Hd Externo Portátil - Ssd - 1tb - Sandisk - Preto" loading="lazy"/>
+          </a>
+          <div class="body">
+            <span class="cat">Informática</span>
+            <h2>Hd Externo Portátil - Ssd - 1tb - Sandisk - Preto</h2>
+            <p>Mercado Livre | R$ 949,63</p>
+            <a class="buy" href="ofertas-informatica.html">Ver ofertas da categoria</a>
+          </div>
+        </article>
+        
+        <article class="card">
+          <a class="image" href="ofertas-bolsas.html">
+            <img src="https://cf.shopee.com.br/file/br-11134207-7r98o-m2jd0pedaa5231" alt="Bolso de Ombro Pequenas Feminina,Mini Bolsas Sacola Tiracolo Moderna…" loading="lazy"/>
+          </a>
+          <div class="body">
+            <span class="cat">Bolsas</span>
+            <h2>Bolso de Ombro Pequenas Feminina,Mini Bolsas Sacola Tiracolo Moderna…</h2>
+            <p>Shopee | R$ 69,99</p>
+            <a class="buy" href="ofertas-bolsas.html">Ver ofertas da categoria</a>
+          </div>
+        </article>
+        
+        <article class="card">
+          <a class="image" href="ofertas-bolsas.html">
+            <img src="https://cf.shopee.com.br/file/sg-11134201-824ij-mpm4eovkx5349e" alt="Bolsa Mochila Feminina Grande De Ombro Com Alça Transversal De Couro…" loading="lazy"/>
+          </a>
+          <div class="body">
+            <span class="cat">Bolsas</span>
+            <h2>Bolsa Mochila Feminina Grande De Ombro Com Alça Transversal De Couro…</h2>
+            <p>Shopee | R$ 79,98</p>
+            <a class="buy" href="ofertas-bolsas.html">Ver ofertas da categoria</a>
+          </div>
+        </article>
+        
+        <article class="card">
+          <a class="image" href="ofertas-bolsas.html">
+            <img src="https://cf.shopee.com.br/file/br-11134207-820l8-mnwcoooh21a9da" alt="Bolsa de Ombra Feminina com Alça Ajustável, Bolsa Feminina Elegante c…" loading="lazy"/>
+          </a>
+          <div class="body">
+            <span class="cat">Bolsas</span>
+            <h2>Bolsa de Ombra Feminina com Alça Ajustável, Bolsa Feminina Elegante c…</h2>
+            <p>Shopee | R$ 69,98</p>
+            <a class="buy" href="ofertas-bolsas.html">Ver ofertas da categoria</a>
+          </div>
+        </article>
+        
+        <article class="card">
+          <a class="image" href="ofertas-informatica.html">
+            <img src="https://cf.shopee.com.br/file/br-11134207-820lp-mmi9yl6sf3ls65" alt="ROMANTIC CROWN Mochla de Viagem MascuIino e Feminina ImpermeaveI Refo…" loading="lazy"/>
+          </a>
+          <div class="body">
+            <span class="cat">Informática</span>
+            <h2>ROMANTIC CROWN Mochla de Viagem MascuIino e Feminina ImpermeaveI Refo…</h2>
+            <p>Shopee | R$ 110,19</p>
+            <a class="buy" href="ofertas-informatica.html">Ver ofertas da categoria</a>
+          </div>
+        </article>
+        
+        <article class="card">
+          <a class="image" href="ofertas-informatica.html">
+            <img src="https://cf.shopee.com.br/file/br-11134207-820mf-mmgwyk55dxjb9c" alt="Mochila Vlagem Feminina Masculinas Multifuncional Reforçada Impermeáv…" loading="lazy"/>
+          </a>
+          <div class="body">
+            <span class="cat">Informática</span>
+            <h2>Mochila Vlagem Feminina Masculinas Multifuncional Reforçada Impermeáv…</h2>
+            <p>Shopee | R$ 119,98</p>
+            <a class="buy" href="ofertas-informatica.html">Ver ofertas da categoria</a>
+          </div>
+        </article>
+        
+        <article class="card">
+          <a class="image" href="ofertas-ferramentas.html">
+            <img src="https://http2.mlstatic.com/D_NQ_NP_784742-MLA100042438679_122025-F.jpg" alt="Kit Furadeira e Parafusadeira com Parafusadeira Dewalt Modelo DCK200M…" loading="lazy"/>
+          </a>
+          <div class="body">
+            <span class="cat">Ferramentas</span>
+            <h2>Kit Furadeira e Parafusadeira com Parafusadeira Dewalt Modelo DCK200M…</h2>
+            <p>Mercado Livre | R$ 3.189,00</p>
+            <a class="buy" href="ofertas-ferramentas.html">Ver ofertas da categoria</a>
+          </div>
+        </article>
+        
+        <article class="card">
+          <a class="image" href="ofertas-ferramentas.html">
+            <img src="https://http2.mlstatic.com/D_NQ_NP_760221-MLA99494941634_112025-F.jpg" alt="Combo Furadeira Parafusadeira DF333D + Parafusadeira de Impacto TD110…" loading="lazy"/>
+          </a>
+          <div class="body">
+            <span class="cat">Ferramentas</span>
+            <h2>Combo Furadeira Parafusadeira DF333D + Parafusadeira de Impacto TD110…</h2>
+            <p>Mercado Livre | R$ 1.189,00</p>
+            <a class="buy" href="ofertas-ferramentas.html">Ver ofertas da categoria</a>
+          </div>
+        </article>
+        
+        <article class="card">
+          <a class="image" href="ofertas-ferramentas.html">
+            <img src="https://http2.mlstatic.com/D_NQ_NP_941219-MLU77146464530_062024-F.jpg" alt="Combo Parafusadeira Furadeira de Impacto 13mm + Parafusadeira de Impa…" loading="lazy"/>
+          </a>
+          <div class="body">
+            <span class="cat">Ferramentas</span>
+            <h2>Combo Parafusadeira Furadeira de Impacto 13mm + Parafusadeira de Impa…</h2>
+            <p>Mercado Livre | R$ 1.585,00</p>
+            <a class="buy" href="ofertas-ferramentas.html">Ver ofertas da categoria</a>
+          </div>
+        </article>
+        
+        <article class="card">
+          <a class="image" href="ofertas-mae-bebe.html">
+            <img src="https://cf.shopee.com.br/file/sg-11134201-8260n-ml4ey8056v45bd" alt="Caminhão Dinossauro Dino Engole Carrinhos Brinquedo Infantil Menino K…" loading="lazy"/>
+          </a>
+          <div class="body">
+            <span class="cat">Mãe e Bebê</span>
+            <h2>Caminhão Dinossauro Dino Engole Carrinhos Brinquedo Infantil Menino K…</h2>
+            <p>Shopee | R$ 66,99</p>
+            <a class="buy" href="ofertas-mae-bebe.html">Ver ofertas da categoria</a>
+          </div>
+        </article>
+        
+        <article class="card">
+          <a class="image" href="ofertas-mae-bebe.html">
+            <img src="https://cf.shopee.com.br/file/br-11134207-81z1k-mek5jgx2qi2qf5" alt="Almofada para Carro Formato H com Cinto de Segurança + BRINDE TRAVESS…" loading="lazy"/>
+          </a>
+          <div class="body">
+            <span class="cat">Mãe e Bebê</span>
+            <h2>Almofada para Carro Formato H com Cinto de Segurança + BRINDE TRAVESS…</h2>
+            <p>Shopee | R$ 79,99</p>
+            <a class="buy" href="ofertas-mae-bebe.html">Ver ofertas da categoria</a>
+          </div>
+        </article>
+        
+        <article class="card">
+          <a class="image" href="ofertas-mae-bebe.html">
+            <img src="https://cf.shopee.com.br/file/br-11134207-81ztc-mkhgxo1ghn9c12" alt="Berço Portátil Moises Co-bed Com Balanço Mosquiteiro e Cesto Regulage…" loading="lazy"/>
+          </a>
+          <div class="body">
+            <span class="cat">Mãe e Bebê</span>
+            <h2>Berço Portátil Moises Co-bed Com Balanço Mosquiteiro e Cesto Regulage…</h2>
+            <p>Shopee | R$ 539,49</p>
+            <a class="buy" href="ofertas-mae-bebe.html">Ver ofertas da categoria</a>
+          </div>
+        </article>
+        
+        <article class="card">
+          <a class="image" href="ofertas-mae-bebe.html">
+            <img src="https://cf.shopee.com.br/file/br-11134207-81z1k-mgs1rc6f4jr899" alt="Kit de 3 Lençol Cercado De Bebê Chiqueirinho com elástico Percal 400…" loading="lazy"/>
+          </a>
+          <div class="body">
+            <span class="cat">Mãe e Bebê</span>
+            <h2>Kit de 3 Lençol Cercado De Bebê Chiqueirinho com elástico Percal 400…</h2>
+            <p>Shopee | R$ 29,06</p>
+            <a class="buy" href="ofertas-mae-bebe.html">Ver ofertas da categoria</a>
+          </div>
+        </article>
+        
+        <article class="card">
+          <a class="image" href="ofertas-mae-bebe.html">
+            <img src="https://cf.shopee.com.br/file/sg-11134201-824gx-mpsetr31n6yp75" alt="Kit 40 Carrinhos Mini Infantil Sortidos + Caixa Organizadora | Presen…" loading="lazy"/>
+          </a>
+          <div class="body">
+            <span class="cat">Mãe e Bebê</span>
+            <h2>Kit 40 Carrinhos Mini Infantil Sortidos + Caixa Organizadora | Presen…</h2>
+            <p>Shopee | R$ 44,99</p>
+            <a class="buy" href="ofertas-mae-bebe.html">Ver ofertas da categoria</a>
+          </div>
+        </article>
+        
+        <article class="card">
+          <a class="image" href="ofertas-casa-cozinha.html">
+            <img src="https://http2.mlstatic.com/D_NQ_NP_887284-MLU78285122081_082024-F.jpg" alt="Liquidificador portátil, Mini liquidificador recarregável USB, Liquid…" loading="lazy"/>
+          </a>
+          <div class="body">
+            <span class="cat">Casa e Cozinha</span>
+            <h2>Liquidificador portátil, Mini liquidificador recarregável USB, Liquid…</h2>
+            <p>Mercado Livre | R$ 98,00</p>
+            <a class="buy" href="ofertas-casa-cozinha.html">Ver ofertas da categoria</a>
+          </div>
+        </article>
+        
+        <article class="card">
+          <a class="image" href="ofertas-casa-cozinha.html">
+            <img src="https://http2.mlstatic.com/D_NQ_NP_601992-MLA100011667808_122025-F.jpg" alt="Air fryer Britânia Fritadeira Air Fryer preto" loading="lazy"/>
+          </a>
+          <div class="body">
+            <span class="cat">Casa e Cozinha</span>
+            <h2>Air fryer Britânia Fritadeira Air Fryer preto</h2>
+            <p>Mercado Livre | R$ 329,99</p>
+            <a class="buy" href="ofertas-casa-cozinha.html">Ver ofertas da categoria</a>
+          </div>
+        </article>
+        
+        <article class="card">
+          <a class="image" href="ofertas-casa-cozinha.html">
+            <img src="https://http2.mlstatic.com/D_NQ_NP_644709-MLU77329806717_062024-F.jpg" alt="Air fryer Gaabor Air Fryer GA-E45A0 de 4 L cinza" loading="lazy"/>
+          </a>
+          <div class="body">
+            <span class="cat">Casa e Cozinha</span>
+            <h2>Air fryer Gaabor Air Fryer GA-E45A0 de 4 L cinza</h2>
+            <p>Mercado Livre | R$ 249,90</p>
+            <a class="buy" href="ofertas-casa-cozinha.html">Ver ofertas da categoria</a>
+          </div>
+        </article>
+        
+        <article class="card">
+          <a class="image" href="ofertas-beleza.html">
+            <img src="https://http2.mlstatic.com/D_NQ_NP_962334-MLA95523966556_102025-F.jpg" alt="Barbeador Costas Masculino Traseiro Dobrável Aparador Pelos" loading="lazy"/>
+          </a>
+          <div class="body">
+            <span class="cat">Beleza</span>
+            <h2>Barbeador Costas Masculino Traseiro Dobrável Aparador Pelos</h2>
+            <p>Mercado Livre | R$ 231,00</p>
+            <a class="buy" href="ofertas-beleza.html">Ver ofertas da categoria</a>
+          </div>
+        </article>
+        
+        <article class="card">
+          <a class="image" href="ofertas-beleza.html">
+            <img src="https://http2.mlstatic.com/D_NQ_NP_637972-MLA112771846976_062026-F.jpg" alt="Chapinha Cabelo Profissional Prancha Alisadora De Cabelo chapinha Par…" loading="lazy"/>
+          </a>
+          <div class="body">
+            <span class="cat">Beleza</span>
+            <h2>Chapinha Cabelo Profissional Prancha Alisadora De Cabelo chapinha Par…</h2>
+            <p>Mercado Livre | R$ 58,00</p>
+            <a class="buy" href="ofertas-beleza.html">Ver ofertas da categoria</a>
+          </div>
+        </article>
+        
+        <article class="card">
+          <a class="image" href="ofertas-beleza.html">
+            <img src="https://http2.mlstatic.com/D_NQ_NP_782959-MLA99825071093_112025-F.jpg" alt="Lamina Aparador Pelos Philips Bodygroom Qg3379 Qg3280 Qg3380" loading="lazy"/>
+          </a>
+          <div class="body">
+            <span class="cat">Beleza</span>
+            <h2>Lamina Aparador Pelos Philips Bodygroom Qg3379 Qg3280 Qg3380</h2>
+            <p>Mercado Livre | R$ 108,78</p>
+            <a class="buy" href="ofertas-beleza.html">Ver ofertas da categoria</a>
+          </div>
+        </article>
+        
+        <article class="card">
+          <a class="image" href="ofertas-casa-cozinha.html">
+            <img src="https://cf.shopee.com.br/file/br-11134207-7r98o-ma49suo8rq4n1f" alt="Mini Balança Digital De Cozinha Alta Precisão 0,1g Até 2000g" loading="lazy"/>
+          </a>
+          <div class="body">
+            <span class="cat">Casa e Cozinha</span>
+            <h2>Mini Balança Digital De Cozinha Alta Precisão 0,1g Até 2000g</h2>
+            <p>Shopee | R$ 25,98</p>
+            <a class="buy" href="ofertas-casa-cozinha.html">Ver ofertas da categoria</a>
+          </div>
+        </article>
+        
+        <article class="card">
+          <a class="image" href="ofertas-saude.html">
+            <img src="https://cf.shopee.com.br/file/sg-11134201-824gr-mfchnakx2w3vc6" alt="Medidor Glicose Diabete Gtech Vita / Ultra Kit Com 1 Aparelho 1 Canet…" loading="lazy"/>
+          </a>
+          <div class="body">
+            <span class="cat">Saúde</span>
+            <h2>Medidor Glicose Diabete Gtech Vita / Ultra Kit Com 1 Aparelho 1 Canet…</h2>
+            <p>Shopee | R$ 65,99</p>
+            <a class="buy" href="ofertas-saude.html">Ver ofertas da categoria</a>
+          </div>
+        </article>
+        
+        <article class="card">
+          <a class="image" href="ofertas-saude.html">
+            <img src="https://cf.shopee.com.br/file/br-11134207-81z1k-mflnxsd5vnyf22" alt="Kit Umidificador De Ar + 3 Essências 10ml | Difusor Aromatizador Vaso…" loading="lazy"/>
+          </a>
+          <div class="body">
+            <span class="cat">Saúde</span>
+            <h2>Kit Umidificador De Ar + 3 Essências 10ml | Difusor Aromatizador Vaso…</h2>
+            <p>Shopee | R$ 25,99</p>
+            <a class="buy" href="ofertas-saude.html">Ver ofertas da categoria</a>
+          </div>
+        </article>
+        
+        <article class="card">
+          <a class="image" href="ofertas-saude.html">
+            <img src="https://cf.shopee.com.br/file/br-11134207-7r98o-m314shpkk6px3e" alt="Balança Bioimpedância Digital Profissional Suporta Até 140kg via Blue…" loading="lazy"/>
+          </a>
+          <div class="body">
+            <span class="cat">Saúde</span>
+            <h2>Balança Bioimpedância Digital Profissional Suporta Até 140kg via Blue…</h2>
+            <p>Shopee | R$ 33,97</p>
+            <a class="buy" href="ofertas-saude.html">Ver ofertas da categoria</a>
+          </div>
+        </article>
+        
+        <article class="card">
+          <a class="image" href="ofertas-saude.html">
+            <img src="https://cf.shopee.com.br/file/br-11134207-7r98o-m6sdynukshmva6" alt="Balança Corporal Digital Até 180kg Com Vidro Temperado Premium" loading="lazy"/>
+          </a>
+          <div class="body">
+            <span class="cat">Saúde</span>
+            <h2>Balança Corporal Digital Até 180kg Com Vidro Temperado Premium</h2>
+            <p>Shopee | R$ 33,97</p>
+            <a class="buy" href="ofertas-saude.html">Ver ofertas da categoria</a>
+          </div>
+        </article>
+        
+        <article class="card">
+          <a class="image" href="ofertas-esportes.html">
+            <img src="https://http2.mlstatic.com/D_NQ_NP_826055-MLA110587103658_052026-F.jpg" alt="Luva Academia Musculação Fitness Tamanho P" loading="lazy"/>
+          </a>
+          <div class="body">
+            <span class="cat">Esportes</span>
+            <h2>Luva Academia Musculação Fitness Tamanho P</h2>
+            <p>Mercado Livre | R$ 26,83</p>
+            <a class="buy" href="ofertas-esportes.html">Ver ofertas da categoria</a>
+          </div>
+        </article>
+        
+        <article class="card">
+          <a class="image" href="ofertas-esportes.html">
+            <img src="https://http2.mlstatic.com/D_NQ_NP_651330-MLA100034011273_122025-F.jpg" alt="Bike Spinning Kikos Max-ks5 Preto" loading="lazy"/>
+          </a>
+          <div class="body">
+            <span class="cat">Esportes</span>
+            <h2>Bike Spinning Kikos Max-ks5 Preto</h2>
+            <p>Mercado Livre | R$ 2.947,83</p>
+            <a class="buy" href="ofertas-esportes.html">Ver ofertas da categoria</a>
+          </div>
+        </article>
+        
+        <article class="card">
+          <a class="image" href="ofertas-esportes.html">
+            <img src="https://http2.mlstatic.com/D_NQ_NP_608527-MLU73129423550_122023-F.jpg" alt="Bola Futebol Campo Vinil Vermelho Costurada" loading="lazy"/>
+          </a>
+          <div class="body">
+            <span class="cat">Esportes</span>
+            <h2>Bola Futebol Campo Vinil Vermelho Costurada</h2>
+            <p>Mercado Livre | R$ 20,99</p>
+            <a class="buy" href="ofertas-esportes.html">Ver ofertas da categoria</a>
+          </div>
+        </article>
+        
+        <article class="card">
+          <a class="image" href="ofertas-esportes.html">
+            <img src="https://http2.mlstatic.com/D_NQ_NP_648848-MLA113038268844_072026-F.jpg" alt="Bike Spinning Bicicleta 6kg Wct Fitness Preta" loading="lazy"/>
+          </a>
+          <div class="body">
+            <span class="cat">Esportes</span>
+            <h2>Bike Spinning Bicicleta 6kg Wct Fitness Preta</h2>
+            <p>Mercado Livre | R$ 649,00</p>
+            <a class="buy" href="ofertas-esportes.html">Ver ofertas da categoria</a>
+          </div>
+        </article>
+        
+        <article class="card">
+          <a class="image" href="ofertas-esportes.html">
+            <img src="https://http2.mlstatic.com/D_NQ_NP_896507-MLA111915598406_062026-F.jpg" alt="Esteira Ergométrica Elétrica Dobrável Com Bluetooth Tela Led 14km/h J…" loading="lazy"/>
+          </a>
+          <div class="body">
+            <span class="cat">Esportes</span>
+            <h2>Esteira Ergométrica Elétrica Dobrável Com Bluetooth Tela Led 14km/h J…</h2>
+            <p>Mercado Livre | R$ 1.454,81</p>
+            <a class="buy" href="ofertas-esportes.html">Ver ofertas da categoria</a>
+          </div>
+        </article>
+        
+        <article class="card">
+          <a class="image" href="ofertas-brinquedos.html">
+            <img src="https://cf.shopee.com.br/file/br-11134207-820lx-mn8ellbycoao9f" alt="60 a 240 PCS Massinha Argila EVA Macia Leve Cores Ferramentas Massa N…" loading="lazy"/>
+          </a>
+          <div class="body">
+            <span class="cat">Brinquedos e Hobbies</span>
+            <h2>60 a 240 PCS Massinha Argila EVA Macia Leve Cores Ferramentas Massa N…</h2>
+            <p>Shopee | R$ 39,99</p>
+            <a class="buy" href="ofertas-brinquedos.html">Ver ofertas da categoria</a>
+          </div>
+        </article>
+        
+        <article class="card">
+          <a class="image" href="ofertas-brinquedos.html">
+            <img src="https://cf.shopee.com.br/file/br-11134207-820mb-mneet6xljq4i13" alt="Carrinho Blocos De Montar Com 302 Peças Com Controle Remoto Colecioná…" loading="lazy"/>
+          </a>
+          <div class="body">
+            <span class="cat">Brinquedos e Hobbies</span>
+            <h2>Carrinho Blocos De Montar Com 302 Peças Com Controle Remoto Colecioná…</h2>
+            <p>Shopee | R$ 42,79</p>
+            <a class="buy" href="ofertas-brinquedos.html">Ver ofertas da categoria</a>
+          </div>
+        </article>
+        
+        <article class="card">
+          <a class="image" href="ofertas-brinquedos.html">
+            <img src="https://cf.shopee.com.br/file/br-11134207-820lc-mqbg4yk9af4216" alt="Livro Sonoro Interativo para Crianças Português e Inglês Livro Ilustr…" loading="lazy"/>
+          </a>
+          <div class="body">
+            <span class="cat">Brinquedos e Hobbies</span>
+            <h2>Livro Sonoro Interativo para Crianças Português e Inglês Livro Ilustr…</h2>
+            <p>Shopee | R$ 48,99</p>
+            <a class="buy" href="ofertas-brinquedos.html">Ver ofertas da categoria</a>
+          </div>
+        </article>
+        
+        <article class="card">
+          <a class="image" href="ofertas-brinquedos.html">
+            <img src="https://cf.shopee.com.br/file/br-11134207-820lw-mpnps4fzbfuoca" alt="Patinete infantil 3 rodas com led luzes dobrável ajustável menino men…" loading="lazy"/>
+          </a>
+          <div class="body">
+            <span class="cat">Brinquedos e Hobbies</span>
+            <h2>Patinete infantil 3 rodas com led luzes dobrável ajustável menino men…</h2>
+            <p>Shopee | R$ 48,29</p>
+            <a class="buy" href="ofertas-brinquedos.html">Ver ofertas da categoria</a>
+          </div>
+        </article>
+        
+        <article class="card">
+          <a class="image" href="ofertas-brinquedos.html">
+            <img src="https://cf.shopee.com.br/file/br-11134207-7r98o-md2b8ko2fn0217" alt="Barraca Infantil Menina Tenda Minha Casinha" loading="lazy"/>
+          </a>
+          <div class="body">
+            <span class="cat">Brinquedos e Hobbies</span>
+            <h2>Barraca Infantil Menina Tenda Minha Casinha</h2>
+            <p>Shopee | R$ 55,77</p>
+            <a class="buy" href="ofertas-brinquedos.html">Ver ofertas da categoria</a>
+          </div>
+        </article>
+        
+        <article class="card">
+          <a class="image" href="ofertas-outros.html">
+            <img src="https://http2.mlstatic.com/D_NQ_NP_725732-MLA113726873657_062026-F.jpg" alt="Conjunto Feminino Shorts Saia E Blusa Elegante Festa Balada Cor Conju…" loading="lazy"/>
+          </a>
+          <div class="body">
+            <span class="cat">Outros</span>
+            <h2>Conjunto Feminino Shorts Saia E Blusa Elegante Festa Balada Cor Conju…</h2>
+            <p>Mercado Livre | R$ 191,92</p>
+            <a class="buy" href="ofertas-outros.html">Ver ofertas da categoria</a>
+          </div>
+        </article>
+        
+        <article class="card">
+          <a class="image" href="ofertas-bolsas.html">
+            <img src="https://http2.mlstatic.com/D_NQ_NP_913174-MLA111302440702_052026-F.jpg" alt="Bolsa Feminina De Festa Casamento Bolsa Feminina Pequena Prateado" loading="lazy"/>
+          </a>
+          <div class="body">
+            <span class="cat">Bolsas</span>
+            <h2>Bolsa Feminina De Festa Casamento Bolsa Feminina Pequena Prateado</h2>
+            <p>Mercado Livre | R$ 135,00</p>
+            <a class="buy" href="ofertas-bolsas.html">Ver ofertas da categoria</a>
+          </div>
+        </article>
+        
+        <article class="card">
+          <a class="image" href="ofertas-outros.html">
+            <img src="https://http2.mlstatic.com/D_NQ_NP_753116-MLA113589081679_062026-F.jpg" alt="Conjunto Bata Com Calça Jeans Trick Nick Bege" loading="lazy"/>
+          </a>
+          <div class="body">
+            <span class="cat">Outros</span>
+            <h2>Conjunto Bata Com Calça Jeans Trick Nick Bege</h2>
+            <p>Mercado Livre | R$ 118,78</p>
+            <a class="buy" href="ofertas-outros.html">Ver ofertas da categoria</a>
+          </div>
+        </article>
+        
+        <article class="card">
+          <a class="image" href="ofertas-calcados.html">
+            <img src="https://http2.mlstatic.com/D_NQ_NP_863542-MLA106613237548_022026-F.jpg" alt="Chinelo Masculino Go Consistent Skechers" loading="lazy"/>
+          </a>
+          <div class="body">
+            <span class="cat">Calçados</span>
+            <h2>Chinelo Masculino Go Consistent Skechers</h2>
+            <p>Mercado Livre | R$ 189,90</p>
+            <a class="buy" href="ofertas-calcados.html">Ver ofertas da categoria</a>
+          </div>
+        </article>
+        
+        <article class="card">
+          <a class="image" href="ofertas-outros.html">
+            <img src="https://http2.mlstatic.com/D_NQ_NP_708960-MLA108482639823_032026-F.jpg" alt="Calça Jeans Masculina Skinny Premium" loading="lazy"/>
+          </a>
+          <div class="body">
+            <span class="cat">Outros</span>
+            <h2>Calça Jeans Masculina Skinny Premium</h2>
+            <p>Mercado Livre | R$ 38,27</p>
+            <a class="buy" href="ofertas-outros.html">Ver ofertas da categoria</a>
+          </div>
+        </article>
+        
+    </section>
+  </main>
+</body>
+</html>

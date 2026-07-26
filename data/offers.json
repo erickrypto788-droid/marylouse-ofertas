@@ -5,7 +5,7 @@
     "raw_title": "Monitor digital de pressão arterial de braço totalmente automático anjgg",
     "description": "🔥 68% OFF — Oferta encontrada! 📌 Monitor digital de pressão arterial de braço totalmente automático anjgg Confira os detalhes e aproveite enquanto a ofe...",
     "marketplace": "Shopee",
-    "category": "Saúde",
+    "category": "Informática",
     "old_price": "R$ 118,72",
     "price": "R$ 37,99",
     "discount_percent": 68.0,
@@ -18,7 +18,8 @@
     "niche": {
       "key": "shopee_saude",
       "name": "Saúde"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "6030e4131008b3fa9a",
@@ -89,7 +90,7 @@
     "raw_title": "Monitor De Pressão Arterial De Pulso Recarregável Alta XYY-2551",
     "description": "CUIDADO COM A SAÚDE! 🚨 Monitore sua pressão arterial com praticidade! Tenha mais controle sobre seu bem-estar com este Monitor de Pressão Arterial de Pu...",
     "marketplace": "Shopee",
-    "category": "Saúde",
+    "category": "Informática",
     "old_price": "R$ 199,45",
     "price": "R$ 39,89",
     "discount_percent": 80.0,
@@ -102,7 +103,8 @@
     "niche": {
       "key": "shopee_saude",
       "name": "Saúde"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "c0ea4a382c1b6b5fa3",
@@ -110,7 +112,7 @@
     "raw_title": "Painel D'Rossi Painel Para TV para TV até 60\" cumaru de mdf/mdp",
     "description": "🔥 18% OFF — Oferta encontrada! 📌 Painel D'Rossi Painel Para TV para TV até 60\" cumaru de mdf/mdp Confira os detalhes e aproveite enquanto a oferta estiv...",
     "marketplace": "Mercado Livre",
-    "category": "Casa e Decoração",
+    "category": "Pet",
     "old_price": "R$ 798,90",
     "price": "R$ 655,10",
     "discount_percent": 18.0,
@@ -119,7 +121,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74184723?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
     "created_at": "25/07/2026 23:08",
     "created_at_iso": "2026-07-25T23:08:35",
-    "created_ts": 1785020915
+    "created_ts": 1785020915,
+    "_category_fixed": true
   },
   {
     "id": "c809fccfadf765d065",
@@ -161,7 +164,7 @@
     "raw_title": "Rack Para Sala De Estar Rack Para Tv C/ Prateleira Flex Cor Off-white",
     "description": "🔥 38% OFF — Oferta encontrada! 📌 Rack Para Sala De Estar Rack Para Tv C/ Prateleira Flex Cor Off-white Confira os detalhes e aproveite enquanto a oferta...",
     "marketplace": "Mercado Livre",
-    "category": "Casa e Decoração",
+    "category": "Casa e Cozinha",
     "old_price": "R$ 619,82",
     "price": "R$ 385,00",
     "discount_percent": 38.0,
@@ -170,7 +173,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39369998?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
     "created_at": "25/07/2026 23:05",
     "created_at_iso": "2026-07-25T23:05:22",
-    "created_ts": 1785020722
+    "created_ts": 1785020722,
+    "_category_fixed": true
   },
   {
     "id": "0bdb7a784100b1031d",
@@ -178,7 +182,7 @@
     "raw_title": "Cadeira Massagem Escritorio Cadeira Escritorio Presidente Cor Âmbar",
     "description": "🔥 50% OFF — Oferta encontrada! 📌 Cadeira Massagem Escritorio Cadeira Escritorio Presidente Cor Âmbar Confira os detalhes e aproveite enquanto a oferta e...",
     "marketplace": "Mercado Livre",
-    "category": "Casa e Decoração",
+    "category": "Casa e Cozinha",
     "old_price": "R$ 1.868,00",
     "price": "R$ 926,93",
     "discount_percent": 50.0,
@@ -187,7 +191,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59413555?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
     "created_at": "25/07/2026 23:04",
     "created_at_iso": "2026-07-25T23:04:18",
-    "created_ts": 1785020658
+    "created_ts": 1785020658,
+    "_category_fixed": true
   },
   {
     "id": "manual-amazon-fa9a09a6cbfe1f85",
@@ -306,7 +311,7 @@
     "raw_title": "Copo com Canudo Hot Wheels - Aventura Sobre Rodas! Personalizado 1200ml Em Policarbonato + Brinde",
     "description": "ACELERE para essa oferta! 🚀 Copo Hot Wheels 1200ml Personalizado com Canudo em Policarbonato + Brinde. A aventura espera!",
     "marketplace": "Shopee",
-    "category": "Brinquedos e Hobbies",
+    "category": "Casa e Cozinha",
     "old_price": "R$ 89,28",
     "price": "R$ 25,89",
     "discount_percent": 71.0,
@@ -319,7 +324,8 @@
     "niche": {
       "key": "shopee_brinquedos_hobbies",
       "name": "Brinquedos e Hobbies"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "ffa96df37ebeb476b0",
@@ -327,7 +333,7 @@
     "raw_title": "Jogo da Forca Magnético Com Boneco Interativo Multikids",
     "description": "🔥 62% OFF — Oferta encontrada! 📌 Jogo da Forca Magnético Com Boneco Interativo Multikids Confira os detalhes e aproveite enquanto a oferta estiver dispo...",
     "marketplace": "Shopee",
-    "category": "Brinquedos e Hobbies",
+    "category": "Moda Infantil",
     "old_price": "R$ 120,79",
     "price": "R$ 45,90",
     "discount_percent": 62.0,
@@ -340,7 +346,8 @@
     "niche": {
       "key": "shopee_brinquedos_hobbies",
       "name": "Brinquedos e Hobbies"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "a5dd15472de62affa5",
@@ -369,7 +376,7 @@
     "raw_title": "Jogos ​​Labirinto Magnético Montessori de Madeira - Classificação de Cores para Criança / Infantil Brinquedo Educativo",
     "description": "🔥 60% OFF — Oferta encontrada! 📌 Jogos ​​Labirinto Magnético Montessori de Madeira - Classificação de Cores para Criança / Infantil Brinquedo Educativo...",
     "marketplace": "Shopee",
-    "category": "Brinquedos e Hobbies",
+    "category": "Moda Infantil",
     "old_price": "R$ 79,75",
     "price": "R$ 31,90",
     "discount_percent": 60.0,
@@ -382,7 +389,8 @@
     "niche": {
       "key": "shopee_brinquedos_hobbies",
       "name": "Brinquedos e Hobbies"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "0c6be98aab75a94618",
@@ -390,7 +398,7 @@
     "raw_title": "Patinete infantil 3 rodas com led ajustável scooter dobrável menino menina",
     "description": "🔥 63% OFF — Oferta encontrada! 📌 Patinete infantil 3 rodas com led ajustável scooter dobrável menino menina Confira os detalhes e aproveite enquanto a o...",
     "marketplace": "Shopee",
-    "category": "Brinquedos e Hobbies",
+    "category": "Moda Infantil",
     "old_price": "R$ 161,89",
     "price": "R$ 59,90",
     "discount_percent": 63.0,
@@ -403,7 +411,8 @@
     "niche": {
       "key": "shopee_brinquedos_hobbies",
       "name": "Brinquedos e Hobbies"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "dae4fd859a16fa4233",
@@ -411,7 +420,7 @@
     "raw_title": "Tenis Masculino Escolar Academia Corrida Original FREEDOM Corrida Caminhada Lançamento EXCLUSIVO CINZA GRAVITE e LARANJA",
     "description": "🔥 54% OFF — Oferta encontrada! 📌 Tenis Masculino Escolar Academia Corrida Original FREEDOM Corrida Caminhada Lançamento EXCLUSIVO CINZA GRAVITE e LARANJ...",
     "marketplace": "Shopee",
-    "category": "Esportes e Lazer",
+    "category": "Calçados",
     "old_price": "R$ 89,11",
     "price": "R$ 40,99",
     "discount_percent": 54.0,
@@ -424,7 +433,8 @@
     "niche": {
       "key": "shopee_esportes_lazer",
       "name": "Esportes e Lazer"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "973fb33626273b3b96",
@@ -432,7 +442,7 @@
     "raw_title": "Promoção Kit com 2 Camisa Termica Manga Longa UV50+ Malha fria Academia Corrida Símbolo Refletivo",
     "description": "🔥 38% OFF — Oferta encontrada! 📌 Promoção Kit com 2 Camisa Termica Manga Longa UV50+ Malha fria Academia Corrida Símbolo Refletivo Confira os detalhes e...",
     "marketplace": "Shopee",
-    "category": "Esportes e Lazer",
+    "category": "Esportes",
     "old_price": "R$ 56,37",
     "price": "R$ 34,95",
     "discount_percent": 38.0,
@@ -445,7 +455,8 @@
     "niche": {
       "key": "shopee_esportes_lazer",
       "name": "Esportes e Lazer"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "356bf2f4cd11ec53ed",
@@ -453,7 +464,7 @@
     "raw_title": "Bicicleta Bike Ergometrica Spinning Academia Fitness Profissional 120kg",
     "description": "🔥 71% OFF — Oferta encontrada! 📌 Bicicleta Bike Ergometrica Spinning Academia Fitness Profissional 120kg Confira os detalhes e aproveite enquanto a ofer...",
     "marketplace": "Shopee",
-    "category": "Esportes e Lazer",
+    "category": "Esportes",
     "old_price": "R$ 1.609,17",
     "price": "R$ 466,66",
     "discount_percent": 71.0,
@@ -466,7 +477,8 @@
     "niche": {
       "key": "shopee_esportes_lazer",
       "name": "Esportes e Lazer"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "b26d4151850effd1b7",
@@ -474,7 +486,7 @@
     "raw_title": "Garrafa 800ml 1000ml Térmica Quente & Frio Isolamento Térmico Grande Capacidade Academia Dia A Dia",
     "description": "🔥 50% OFF — Oferta encontrada! 📌 Garrafa 800ml 1000ml Térmica Quente & Frio Isolamento Térmico Grande Capacidade Academia Dia A Dia Confira os detalhes...",
     "marketplace": "Shopee",
-    "category": "Esportes e Lazer",
+    "category": "Casa e Cozinha",
     "old_price": "R$ 60,00",
     "price": "R$ 30,00",
     "discount_percent": 50.0,
@@ -487,7 +499,8 @@
     "niche": {
       "key": "shopee_esportes_lazer",
       "name": "Esportes e Lazer"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "7368236bdd5ecf868f",
@@ -495,7 +508,7 @@
     "raw_title": "Conjunto Academia Top Manga Curta Cropped Costa Aberta + Short Colado Roupa de Academia Mini Short Verão blogueira",
     "description": "🔥 71% OFF — Oferta encontrada! 📌 Conjunto Academia Top Manga Curta Cropped Costa Aberta + Short Colado Roupa de Academia Mini Short Verão blogueira Conf...",
     "marketplace": "Shopee",
-    "category": "Esportes e Lazer",
+    "category": "Moda Feminina",
     "old_price": "R$ 119,93",
     "price": "R$ 34,78",
     "discount_percent": 71.0,
@@ -508,7 +521,8 @@
     "niche": {
       "key": "shopee_esportes_lazer",
       "name": "Esportes e Lazer"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "7cd4d94cf0ec2cd0dd",
@@ -516,7 +530,7 @@
     "raw_title": "Sabão em pó Ypê Lava Roupas em Pó Tixan Lava Roupas em pó garrafa 2.2 kg",
     "description": "🔥 32% OFF — Oferta encontrada! 📌 Sabão em pó Ypê Lava Roupas em Pó Tixan Lava Roupas em pó garrafa 2.2 kg Confira os detalhes e aproveite enquanto a ofe...",
     "marketplace": "Mercado Livre",
-    "category": "Supermercados",
+    "category": "Casa e Cozinha",
     "old_price": "R$ 34,49",
     "price": "R$ 23,45",
     "discount_percent": 32.0,
@@ -525,7 +539,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51325266?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
     "created_at": "25/07/2026 21:10",
     "created_at_iso": "2026-07-25T21:10:53",
-    "created_ts": 1785013853
+    "created_ts": 1785013853,
+    "_category_fixed": true
   },
   {
     "id": "f66ade6881a03b3e31",
@@ -533,7 +548,7 @@
     "raw_title": "Fralda Pampers Premium Care Tamanho P 40 Unidades",
     "description": "🔥 21% OFF — Oferta encontrada! 📌 Fralda Pampers Premium Care Tamanho P 40 Unidades Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
     "marketplace": "Mercado Livre",
-    "category": "Supermercados",
+    "category": "Mãe e Bebê",
     "old_price": "R$ 99,08",
     "price": "R$ 78,21",
     "discount_percent": 21.0,
@@ -542,7 +557,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23414358?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
     "created_at": "25/07/2026 21:09",
     "created_at_iso": "2026-07-25T21:09:49",
-    "created_ts": 1785013789
+    "created_ts": 1785013789,
+    "_category_fixed": true
   },
   {
     "id": "4f42bef3316535d3bf",
@@ -584,7 +600,7 @@
     "raw_title": "Arroz Arbório Scotti - 1kg",
     "description": "🍚 OFERTA RELÂMPAGO! O Arroz Arbório Scotti de 1kg, ideal para risotos cremosos e pratos sofisticados, está com um super desconto de mais de 55%! Garanta...",
     "marketplace": "Mercado Livre",
-    "category": "Rice",
+    "category": "Supermercados",
     "old_price": "R$ 61,84",
     "price": "R$ 27,66",
     "discount_percent": 55.0,
@@ -593,7 +609,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB19763877?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
     "created_at": "25/07/2026 21:06",
     "created_at_iso": "2026-07-25T21:06:37",
-    "created_ts": 1785013597
+    "created_ts": 1785013597,
+    "_category_fixed": true
   },
   {
     "id": "d060ab2baab1ed8695",
@@ -601,7 +618,7 @@
     "raw_title": "KIT 4 Un Calça Moletom Infantil 1 a 16 anos unissex menina e menino",
     "description": "🔥 50% OFF — Oferta encontrada! 📌 KIT 4 Un Calça Moletom Infantil 1 a 16 anos unissex menina e menino Confira os detalhes e aproveite enquanto a oferta e...",
     "marketplace": "Shopee",
-    "category": "Moda infantil",
+    "category": "Moda Infantil",
     "old_price": "R$ 139,80",
     "price": "R$ 69,90",
     "discount_percent": 50.0,
@@ -614,7 +631,8 @@
     "niche": {
       "key": "shopee_moda_infantil",
       "name": "Moda infantil"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "41d791c4257666726e",
@@ -622,7 +640,7 @@
     "raw_title": "Kit 5 Body Manga Curta Liso Infantil Bebê Menino Menina",
     "description": "🔥 60% OFF — Oferta encontrada! 📌 Kit 5 Body Manga Curta Liso Infantil Bebê Menino Menina Confira os detalhes e aproveite enquanto a oferta estiver dispo...",
     "marketplace": "Shopee",
-    "category": "Moda infantil",
+    "category": "Mãe e Bebê",
     "old_price": "R$ 99,47",
     "price": "R$ 39,79",
     "discount_percent": 60.0,
@@ -635,7 +653,8 @@
     "niche": {
       "key": "shopee_moda_infantil",
       "name": "Moda infantil"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "eaf491477a8a964a6b",
@@ -643,7 +662,7 @@
     "raw_title": "Sandalia Infantil de menina emborachado papete feminina",
     "description": "🔥 60% OFF — Oferta encontrada! 📌 Sandalia Infantil de menina emborachado papete feminina Confira os detalhes e aproveite enquanto a oferta estiver dispo...",
     "marketplace": "Shopee",
-    "category": "Moda infantil",
+    "category": "Calçados",
     "old_price": "R$ 59,50",
     "price": "R$ 23,80",
     "discount_percent": 60.0,
@@ -656,7 +675,8 @@
     "niche": {
       "key": "shopee_moda_infantil",
       "name": "Moda infantil"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "26b67c93a747197970",
@@ -664,7 +684,7 @@
     "raw_title": "Kit 3 un. Calça Moletom Infantil Apeluciada com Punho tamanho 1 ao 12",
     "description": "🔥 56% OFF — Oferta encontrada! 📌 Kit 3 un. Calça Moletom Infantil Apeluciada com Punho tamanho 1 ao 12 Confira os detalhes e aproveite enquanto a oferta...",
     "marketplace": "Shopee",
-    "category": "Moda infantil",
+    "category": "Moda Infantil",
     "old_price": "R$ 90,66",
     "price": "R$ 39,89",
     "discount_percent": 56.0,
@@ -677,7 +697,8 @@
     "niche": {
       "key": "shopee_moda_infantil",
       "name": "Moda infantil"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "65504d6beb5a3da433",
@@ -685,7 +706,7 @@
     "raw_title": "Sandália Babuche Lisa Infantil Confortável Escolar Promoção Kidstep",
     "description": "🔥 60% OFF — Oferta encontrada! 📌 Sandália Babuche Lisa Infantil Confortável Escolar Promoção Kidstep Confira os detalhes e aproveite enquanto a oferta e...",
     "marketplace": "Shopee",
-    "category": "Moda infantil",
+    "category": "Calçados",
     "old_price": "R$ 59,75",
     "price": "R$ 23,90",
     "discount_percent": 60.0,
@@ -698,7 +719,8 @@
     "niche": {
       "key": "shopee_moda_infantil",
       "name": "Moda infantil"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "b058170bc8579e7f04",
@@ -706,7 +728,7 @@
     "raw_title": "Gears Tactics - Xbox One / Xbox Series X",
     "description": "🔥 5% OFF — Oferta encontrada! 📌 Gears Tactics - Xbox One / Xbox Series X Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
     "marketplace": "Mercado Livre",
-    "category": "Jogos e Consoles",
+    "category": "Games",
     "old_price": "R$ 347,00",
     "price": "R$ 329,65",
     "discount_percent": 5.0,
@@ -715,7 +737,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB28798767?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
     "created_at": "25/07/2026 20:06",
     "created_at_iso": "2026-07-25T20:06:09",
-    "created_ts": 1785009969
+    "created_ts": 1785009969,
+    "_category_fixed": true
   },
   {
     "id": "c67ad9f152f32a3d2d",
@@ -723,7 +746,7 @@
     "raw_title": "Jogo Ps5 Persona 5 Tactica Fisico",
     "description": "🔥 21% OFF — Oferta encontrada! 📌 Jogo Ps5 Persona 5 Tactica Fisico Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
     "marketplace": "Mercado Livre",
-    "category": "Jogos e Consoles",
+    "category": "Games",
     "old_price": "R$ 195,43",
     "price": "R$ 154,38",
     "discount_percent": 21.0,
@@ -732,7 +755,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB28415024?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
     "created_at": "25/07/2026 20:05",
     "created_at_iso": "2026-07-25T20:05:05",
-    "created_ts": 1785009905
+    "created_ts": 1785009905,
+    "_category_fixed": true
   },
   {
     "id": "549c3d76042f267114",
@@ -740,7 +764,7 @@
     "raw_title": "Starfield Playstation 5 Ps5",
     "description": "🔥 25% OFF — Oferta encontrada! 📌 Starfield Playstation 5 Ps5 Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
     "marketplace": "Mercado Livre",
-    "category": "Jogos e Consoles",
+    "category": "Games",
     "old_price": "R$ 452,06",
     "price": "R$ 339,05",
     "discount_percent": 25.0,
@@ -749,7 +773,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68101897?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
     "created_at": "25/07/2026 20:04",
     "created_at_iso": "2026-07-25T20:04:00",
-    "created_ts": 1785009840
+    "created_ts": 1785009840,
+    "_category_fixed": true
   },
   {
     "id": "0ca69fb9ae02bfd978",
@@ -757,7 +782,7 @@
     "raw_title": "Wwe 2k26 - Playstation 5",
     "description": "🔥 44% OFF — Oferta encontrada! 📌 Wwe 2k26 - Playstation 5 Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
     "marketplace": "Mercado Livre",
-    "category": "Jogos e Consoles",
+    "category": "Games",
     "old_price": "R$ 499,90",
     "price": "R$ 280,00",
     "discount_percent": 44.0,
@@ -766,7 +791,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66364304?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
     "created_at": "25/07/2026 20:02",
     "created_at_iso": "2026-07-25T20:02:56",
-    "created_ts": 1785009776
+    "created_ts": 1785009776,
+    "_category_fixed": true
   },
   {
     "id": "ffd580dd7498e6737c",
@@ -774,7 +800,7 @@
     "raw_title": "Suporte De Controle Duplo Compativel Ps5 Acessório Gamer",
     "description": "🎮 Gamers de PS5, essa é pra vocês! 🎮 Organize seus controles com estilo e praticidade! ✨ Suporte de Controle Duplo Compatível PS5 Acessório Gamer com um...",
     "marketplace": "Mercado Livre",
-    "category": "Jogos e Consoles",
+    "category": "Games",
     "old_price": "R$ 59,99",
     "price": "R$ 27,18",
     "discount_percent": 55.0,
@@ -783,7 +809,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67646810?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
     "created_at": "25/07/2026 20:01",
     "created_at_iso": "2026-07-25T20:01:52",
-    "created_ts": 1785009712
+    "created_ts": 1785009712,
+    "_category_fixed": true
   },
   {
     "id": "11e7811ceceaa81b32",
@@ -791,7 +818,7 @@
     "raw_title": "Bota Feminina Linda Moça Cano Longo Montaria Confort Preta",
     "description": "🔥 50% OFF — Oferta encontrada! 📌 Bota Feminina Linda Moça Cano Longo Montaria Confort Preta Confira os detalhes e aproveite enquanto a oferta estiver di...",
     "marketplace": "Shopee",
-    "category": "Sapatos Femininos",
+    "category": "Calçados",
     "old_price": "R$ 189,80",
     "price": "R$ 94,90",
     "discount_percent": 50.0,
@@ -804,7 +831,8 @@
     "niche": {
       "key": "shopee_sapatos_femininos",
       "name": "Sapatos Femininos"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "82f798b5b54bbecda5",
@@ -812,7 +840,7 @@
     "raw_title": "Sapato Feminino Social Scarpin Bico Fino Luxo Salto Baixo Gross 6cm Caramelo,Preto,Nude,Offwhite",
     "description": "🔥 51% OFF — Oferta encontrada! 📌 Sapato Feminino Social Scarpin Bico Fino Luxo Salto Baixo Gross 6cm Caramelo,Preto,Nude,Offwhite Confira os detalhes e...",
     "marketplace": "Shopee",
-    "category": "Sapatos Femininos",
+    "category": "Calçados",
     "old_price": "R$ 120,20",
     "price": "R$ 58,90",
     "discount_percent": 51.0,
@@ -825,7 +853,8 @@
     "niche": {
       "key": "shopee_sapatos_femininos",
       "name": "Sapatos Femininos"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "74c28c5d92daebdb4a",
@@ -833,7 +862,7 @@
     "raw_title": "Babuche Feminino EVA com Apliques (Envio Aleatório), Leve, Confortável e Antiderrapante",
     "description": "🔥 60% OFF — Oferta encontrada! 📌 Babuche Feminino EVA com Apliques (Envio Aleatório), Leve, Confortável e Antiderrapante Confira os detalhes e aproveite...",
     "marketplace": "Shopee",
-    "category": "Sapatos Femininos",
+    "category": "Calçados",
     "old_price": "R$ 100,80",
     "price": "R$ 40,32",
     "discount_percent": 60.0,
@@ -846,7 +875,8 @@
     "niche": {
       "key": "shopee_sapatos_femininos",
       "name": "Sapatos Femininos"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "922b8e7cbd4196ef2b",
@@ -854,7 +884,7 @@
     "raw_title": "Sandália Feminina Asa Delta Rasteira Conforto Medalhas Douradas com Fivela Reveillon",
     "description": "🔥 64% OFF — Oferta encontrada! 📌 Sandália Feminina Asa Delta Rasteira Conforto Medalhas Douradas com Fivela Reveillon Confira os detalhes e aproveite en...",
     "marketplace": "Shopee",
-    "category": "Sapatos Femininos",
+    "category": "Calçados",
     "old_price": "R$ 110,83",
     "price": "R$ 39,90",
     "discount_percent": 64.0,
@@ -867,7 +897,8 @@
     "niche": {
       "key": "shopee_sapatos_femininos",
       "name": "Sapatos Femininos"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "cc81044d47303328f9",
@@ -875,7 +906,7 @@
     "raw_title": "Sandália Feminina Tamanco Salto Baixo Macio Leve Confortável Antiderrapante Moda Casual Dia Dia",
     "description": "🔥 53% OFF — Oferta encontrada! 📌 Sandália Feminina Tamanco Salto Baixo Macio Leve Confortável Antiderrapante Moda Casual Dia Dia Confira os detalhes e a...",
     "marketplace": "Shopee",
-    "category": "Sapatos Femininos",
+    "category": "Calçados",
     "old_price": "R$ 80,64",
     "price": "R$ 37,90",
     "discount_percent": 53.0,
@@ -888,7 +919,8 @@
     "niche": {
       "key": "shopee_sapatos_femininos",
       "name": "Sapatos Femininos"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "d8562c1b43a486719b",
@@ -964,7 +996,7 @@
     "raw_title": "Gaveteiro Com 4 Gavetas Organizador Escritório Rodinhas Grafite/mel",
     "description": "🔥 45% OFF — Oferta encontrada! 📌 Gaveteiro Com 4 Gavetas Organizador Escritório Rodinhas Grafite/mel Confira os detalhes e aproveite enquanto a oferta e...",
     "marketplace": "Mercado Livre",
-    "category": "Filing Cabinets",
+    "category": "Casa e Cozinha",
     "old_price": "R$ 570,00",
     "price": "R$ 313,50",
     "discount_percent": 45.0,
@@ -973,7 +1005,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67219157?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
     "created_at": "25/07/2026 19:01",
     "created_at_iso": "2026-07-25T19:01:59",
-    "created_ts": 1785006119
+    "created_ts": 1785006119,
+    "_category_fixed": true
   },
   {
     "id": "a30f079a51879b8a35",
@@ -1234,7 +1267,7 @@
     "raw_title": "Mixer 3 em 1 1000W Inox Turbo Triturador Processador Copo 700ml Kian Preto",
     "description": "🔥 38% OFF — Oferta encontrada! 📌 Mixer 3 em 1 1000W Inox Turbo Triturador Processador Copo 700ml Kian Preto Confira os detalhes e aproveite enquanto a o...",
     "marketplace": "Shopee",
-    "category": "Eletrodomésticos",
+    "category": "Informática",
     "old_price": "R$ 249,98",
     "price": "R$ 154,99",
     "discount_percent": 38.0,
@@ -1247,7 +1280,8 @@
     "niche": {
       "key": "shopee_eletrodomesticos",
       "name": "Eletrodomésticos"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "b6b73f15b7fa591233",
@@ -1255,7 +1289,7 @@
     "raw_title": "Panela de Pressão Elétrica Digital 5/6 litros Preta ou Inox - kian",
     "description": "🔥 37% OFF — Oferta encontrada! 📌 Panela de Pressão Elétrica Digital 5/6 litros Preta ou Inox - kian Confira os detalhes e aproveite enquanto a oferta es...",
     "marketplace": "Shopee",
-    "category": "Eletrodomésticos",
+    "category": "Casa e Cozinha",
     "old_price": "R$ 499,84",
     "price": "R$ 314,90",
     "discount_percent": 37.0,
@@ -1268,7 +1302,8 @@
     "niche": {
       "key": "shopee_eletrodomesticos",
       "name": "Eletrodomésticos"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "69d9b5117925d8cc51",
@@ -1293,7 +1328,7 @@
     "raw_title": "Chalesco Tapete Cama Cachorro Gelado Grande Cor Azul",
     "description": "🔥 24% OFF — Oferta encontrada! 📌 Chalesco Tapete Cama Cachorro Gelado Grande Cor Azul Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
     "marketplace": "Mercado Livre",
-    "category": "Pet",
+    "category": "Casa e Cozinha",
     "old_price": "R$ 112,00",
     "price": "R$ 85,05",
     "discount_percent": 24.0,
@@ -1302,7 +1337,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB26166826?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
     "created_at": "25/07/2026 17:05",
     "created_at_iso": "2026-07-25T17:05:14",
-    "created_ts": 1784999114
+    "created_ts": 1784999114,
+    "_category_fixed": true
   },
   {
     "id": "67be3426bce05ce7ed",
@@ -1361,7 +1397,7 @@
     "raw_title": "Celular Smartphone Xiaomi Poco C71 128GB / 64GB Dual Sim Global",
     "description": "🔥 42% OFF — Oferta encontrada! 📌 Celular Smartphone Xiaomi Poco C71 128GB / 64GB Dual Sim Global Confira os detalhes e aproveite enquanto a oferta estiv...",
     "marketplace": "Shopee",
-    "category": "Celulares e Dispositivos",
+    "category": "Celulares",
     "old_price": "R$ 1.310,17",
     "price": "R$ 759,90",
     "discount_percent": 42.0,
@@ -1374,7 +1410,8 @@
     "niche": {
       "key": "shopee_celulares_dispositivos",
       "name": "Celulares e Dispositivos"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "3a78d2f5e6634f04e0",
@@ -1382,7 +1419,7 @@
     "raw_title": "BML Smartphone 512GB/12GB ram 5G LTE Wi-Fi Dual Sim Android 14 8000mAh 7.3'' Tela,Câmera 108MP",
     "description": "🔥 75% OFF — Oferta encontrada! 📌 BML Smartphone 512GB/12GB ram 5G LTE Wi-Fi Dual Sim Android 14 8000mAh 7.3'' Tela,Câmera 108MP Confira os detalhes e ap...",
     "marketplace": "Shopee",
-    "category": "Celulares e Dispositivos",
+    "category": "Celulares",
     "old_price": "R$ 3.996,00",
     "price": "R$ 999,00",
     "discount_percent": 75.0,
@@ -1395,7 +1432,8 @@
     "niche": {
       "key": "shopee_celulares_dispositivos",
       "name": "Celulares e Dispositivos"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "7a32aa54f3614ce309",
@@ -1403,7 +1441,7 @@
     "raw_title": "Novo Smartphone De Rede 4G/5G Tela De 6.7 Polegadas 8GB + 256GB 5000mAh Bateria Cartão Duplo",
     "description": "🔥 77% OFF — Oferta encontrada! 📌 Novo Smartphone De Rede 4G/5G Tela De 6.7 Polegadas 8GB + 256GB 5000mAh Bateria Cartão Duplo Confira os detalhes e apro...",
     "marketplace": "Shopee",
-    "category": "Celulares e Dispositivos",
+    "category": "Celulares",
     "old_price": "R$ 2.130,39",
     "price": "R$ 489,99",
     "discount_percent": 77.0,
@@ -1416,7 +1454,8 @@
     "niche": {
       "key": "shopee_celulares_dispositivos",
       "name": "Celulares e Dispositivos"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "ca4a52f4585414841f",
@@ -1424,7 +1463,7 @@
     "raw_title": "BETTDOW Samsung Tab S9/S9 FE Lite 11 polegadas Teclado Bluetooth + Capa com Slot para Caneta (Tablet Não Incluso)",
     "description": "🔥 54% OFF — Oferta encontrada! 📌 BETTDOW Samsung Tab S9/S9 FE Lite 11 polegadas Teclado Bluetooth + Capa com Slot para Caneta (Tablet Não Incluso) Confi...",
     "marketplace": "Shopee",
-    "category": "Celulares e Dispositivos",
+    "category": "Celulares",
     "old_price": "R$ 299,98",
     "price": "R$ 137,99",
     "discount_percent": 54.0,
@@ -1437,7 +1476,8 @@
     "niche": {
       "key": "shopee_celulares_dispositivos",
       "name": "Celulares e Dispositivos"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "d6250dfe157d3d6663",
@@ -1445,7 +1485,7 @@
     "raw_title": "Smartwatch GPS BETTDOW com aplicativo de IA integrado, 100 modos esportivos, resistência à água de 3 ATM e tela AMOLED",
     "description": "🔥 55% OFF — Oferta encontrada! 📌 Smartwatch GPS BETTDOW com aplicativo de IA integrado, 100 modos esportivos, resistência à água de 3 ATM e tela AMOLED...",
     "marketplace": "Shopee",
-    "category": "Celulares e Dispositivos",
+    "category": "Celulares",
     "old_price": "R$ 700,00",
     "price": "R$ 315,00",
     "discount_percent": 55.0,
@@ -1458,7 +1498,8 @@
     "niche": {
       "key": "shopee_celulares_dispositivos",
       "name": "Celulares e Dispositivos"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "602a0a403d8b25da68",
@@ -1500,7 +1541,7 @@
     "raw_title": "Monitor De Pressão Arterial De Braço Monitor pressao arterial HC10014 MUINAIFTE Cor Blanco",
     "description": "🔥 30% OFF — Oferta encontrada! 📌 Monitor De Pressão Arterial De Braço Monitor pressao arterial HC10014 MUINAIFTE Cor Blanco Confira os detalhes e aprove...",
     "marketplace": "Mercado Livre",
-    "category": "Saúde",
+    "category": "Informática",
     "old_price": "R$ 149,98",
     "price": "R$ 104,99",
     "discount_percent": 30.0,
@@ -1509,7 +1550,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62814199?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
     "created_at": "25/07/2026 16:03",
     "created_at_iso": "2026-07-25T16:03:33",
-    "created_ts": 1784995413
+    "created_ts": 1784995413,
+    "_category_fixed": true
   },
   {
     "id": "eb42198299105fdaee",
@@ -1534,7 +1576,7 @@
     "raw_title": "Monitor De Pressão Arterial De Braço Monitor pressao arterial HC10013 MUINAIFTE Cor Blanco",
     "description": "🔥 35% OFF — Oferta encontrada! 📌 Monitor De Pressão Arterial De Braço Monitor pressao arterial HC10013 MUINAIFTE Cor Blanco Confira os detalhes e aprove...",
     "marketplace": "Mercado Livre",
-    "category": "Saúde",
+    "category": "Informática",
     "old_price": "R$ 149,98",
     "price": "R$ 97,49",
     "discount_percent": 35.0,
@@ -1543,7 +1585,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62574644?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
     "created_at": "25/07/2026 16:01",
     "created_at_iso": "2026-07-25T16:01:25",
-    "created_ts": 1784995285
+    "created_ts": 1784995285,
+    "_category_fixed": true
   },
   {
     "id": "a1f30af4f940ec4a75",
@@ -1551,7 +1594,7 @@
     "raw_title": "Botina Coturno Masculina Casual Confortavél Trabalho Couro Sintético Sola Adventure Estilo",
     "description": "🔥 61% OFF — Oferta encontrada! 📌 Botina Coturno Masculina Casual Confortavél Trabalho Couro Sintético Sola Adventure Estilo Confira os detalhes e aprove...",
     "marketplace": "Shopee",
-    "category": "Sapatos Masculinos",
+    "category": "Calçados",
     "old_price": "R$ 140,77",
     "price": "R$ 54,90",
     "discount_percent": 61.0,
@@ -1564,7 +1607,8 @@
     "niche": {
       "key": "shopee_sapatos_masculinos",
       "name": "Sapatos Masculinos"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "f9c726df7af46d1d9b",
@@ -1572,7 +1616,7 @@
     "raw_title": "Tenis Masculino Escolar Academia Original FREEDOM Corrida Caminhada Lançamento PRETO e DOURADO",
     "description": "🔥 38% OFF — Oferta encontrada! 📌 Tenis Masculino Escolar Academia Original FREEDOM Corrida Caminhada Lançamento PRETO e DOURADO Confira os detalhes e ap...",
     "marketplace": "Shopee",
-    "category": "Sapatos Masculinos",
+    "category": "Calçados",
     "old_price": "R$ 78,03",
     "price": "R$ 48,38",
     "discount_percent": 38.0,
@@ -1585,7 +1629,8 @@
     "niche": {
       "key": "shopee_sapatos_masculinos",
       "name": "Sapatos Masculinos"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "b0a33f106341b7f95c",
@@ -1593,7 +1638,7 @@
     "raw_title": "Sapato Casual Masculino Camurça Versales Derby Calce Fácil Conforto Gravata Bege Marrom Preto",
     "description": "🔥 50% OFF — Oferta encontrada! 📌 Sapato Casual Masculino Camurça Versales Derby Calce Fácil Conforto Gravata Bege Marrom Preto Confira os detalhes e apr...",
     "marketplace": "Shopee",
-    "category": "Sapatos Masculinos",
+    "category": "Calçados",
     "old_price": "R$ 144,80",
     "price": "R$ 72,40",
     "discount_percent": 50.0,
@@ -1606,7 +1651,8 @@
     "niche": {
       "key": "shopee_sapatos_masculinos",
       "name": "Sapatos Masculinos"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "75c925bffc1077574e",
@@ -1614,7 +1660,7 @@
     "raw_title": "NEW NOVO TENIS INCRIVEL MODELO PARA REVEILLON TODO BRANCO LINDO DIRETO DA FABRICA PROMOCAO",
     "description": "🎉 Brilhe no Réveillon com este tênis incrível! 👟 Tênis todo branco, perfeito para suas festas de fim de ano. Conforto e estilo direto da fábrica com um...",
     "marketplace": "Shopee",
-    "category": "Sapatos Masculinos",
+    "category": "Calçados",
     "old_price": "R$ 249,94",
     "price": "R$ 39,99",
     "discount_percent": 84.0,
@@ -1627,7 +1673,8 @@
     "niche": {
       "key": "shopee_sapatos_masculinos",
       "name": "Sapatos Masculinos"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "78ee8e50596334f54e",
@@ -1635,7 +1682,7 @@
     "raw_title": "Bota Galocha Impermeável EPI com C.A. Original Proteção Chuva Motoboy Limpeza ENVIO IMEDIATO",
     "description": "⚡️ 52% OFF! Proteção essencial para seus pés! Não deixe a chuva atrapalhar seu dia! ☔️ Garanta já a Bota Galocha Impermeável EPI com C.A. Original. Perf...",
     "marketplace": "Shopee",
-    "category": "Sapatos Masculinos",
+    "category": "Calçados",
     "old_price": "R$ 85,40",
     "price": "R$ 40,99",
     "discount_percent": 52.0,
@@ -1648,7 +1695,8 @@
     "niche": {
       "key": "shopee_sapatos_masculinos",
       "name": "Sapatos Masculinos"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "03305355562e35084c",
@@ -1673,7 +1721,7 @@
     "raw_title": "Carrinho Controle Remoto Recarregável Rosa Roxo 1:18 Guedes Brinquedo Infantil",
     "description": "🔥 8% OFF — Oferta encontrada! 📌 Carrinho Controle Remoto Recarregável Rosa Roxo 1:18 Guedes Brinquedo Infantil Confira os detalhes e aproveite enquanto...",
     "marketplace": "Mercado Livre",
-    "category": "Brinquedos e Hobbies",
+    "category": "Moda Infantil",
     "old_price": "R$ 68,25",
     "price": "R$ 62,89",
     "discount_percent": 8.0,
@@ -1682,7 +1730,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB53770505?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
     "created_at": "25/07/2026 15:04",
     "created_at_iso": "2026-07-25T15:04:45",
-    "created_ts": 1784991885
+    "created_ts": 1784991885,
+    "_category_fixed": true
   },
   {
     "id": "4e934764918f9601de",
@@ -1690,7 +1739,7 @@
     "raw_title": "Patinete Infantil de 3 Rodas com Luz e Som para Crianças",
     "description": "🔥 10% OFF — Oferta encontrada! 📌 Patinete Infantil de 3 Rodas com Luz e Som para Crianças Confira os detalhes e aproveite enquanto a oferta estiver disp...",
     "marketplace": "Mercado Livre",
-    "category": "Brinquedos e Hobbies",
+    "category": "Moda Infantil",
     "old_price": "R$ 276,90",
     "price": "R$ 249,21",
     "discount_percent": 10.0,
@@ -1699,7 +1748,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB72970730?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
     "created_at": "25/07/2026 15:03",
     "created_at_iso": "2026-07-25T15:03:41",
-    "created_ts": 1784991821
+    "created_ts": 1784991821,
+    "_category_fixed": true
   },
   {
     "id": "44ceef09ac0aea32d2",
@@ -1707,7 +1757,7 @@
     "raw_title": "Patinete Infantil Futuro Kids 3 Rodas Dobrável Ajustável Verde",
     "description": "🔥 10% OFF — Oferta encontrada! 📌 Patinete Infantil Futuro Kids 3 Rodas Dobrável Ajustável Verde Confira os detalhes e aproveite enquanto a oferta estive...",
     "marketplace": "Mercado Livre",
-    "category": "Brinquedos e Hobbies",
+    "category": "Moda Infantil",
     "old_price": "R$ 149,90",
     "price": "R$ 134,91",
     "discount_percent": 10.0,
@@ -1716,7 +1766,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB28584960?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
     "created_at": "25/07/2026 15:02",
     "created_at_iso": "2026-07-25T15:02:37",
-    "created_ts": 1784991757
+    "created_ts": 1784991757,
+    "_category_fixed": true
   },
   {
     "id": "89c00f1b2578db7776",
@@ -1741,7 +1792,7 @@
     "raw_title": "Kit 10 Calcinha Cos Alto Extra Grande Calçola Plus Size em Microfibra Lisa e Estampada GG1 E GG2",
     "description": "🔥 47% OFF — Oferta encontrada! 📌 Kit 10 Calcinha Cos Alto Extra Grande Calçola Plus Size em Microfibra Lisa e Estampada GG1 E GG2 Confira os detalhes e...",
     "marketplace": "Shopee",
-    "category": "Roupas Plus Size",
+    "category": "Moda Plus Size",
     "old_price": "R$ 59,00",
     "price": "R$ 31,27",
     "discount_percent": 47.0,
@@ -1754,7 +1805,8 @@
     "niche": {
       "key": "shopee_roupas_plus_size",
       "name": "Roupas Plus Size"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "ea9e8cce77b122e568",
@@ -1762,7 +1814,7 @@
     "raw_title": "Kit 2 Blusas de Frio Feminina Gola Alta Cacharrel Plus Size Blusa Segunda Pele Inverno",
     "description": "🔥 71% OFF — Oferta encontrada! 📌 Kit 2 Blusas de Frio Feminina Gola Alta Cacharrel Plus Size Blusa Segunda Pele Inverno Confira os detalhes e aproveite...",
     "marketplace": "Shopee",
-    "category": "Roupas Plus Size",
+    "category": "Moda Plus Size",
     "old_price": "R$ 136,41",
     "price": "R$ 39,56",
     "discount_percent": 71.0,
@@ -1775,7 +1827,8 @@
     "niche": {
       "key": "shopee_roupas_plus_size",
       "name": "Roupas Plus Size"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "2fd8c63efb0d295cfb",
@@ -1783,7 +1836,7 @@
     "raw_title": "Calça Wide Leg Plus Size Jeans Feminina Cintura Alta Pantalona Tecido Leve",
     "description": "🔥 54% OFF — Oferta encontrada! 📌 Calça Wide Leg Plus Size Jeans Feminina Cintura Alta Pantalona Tecido Leve Confira os detalhes e aproveite enquanto a o...",
     "marketplace": "Shopee",
-    "category": "Roupas Plus Size",
+    "category": "Moda Plus Size",
     "old_price": "R$ 158,48",
     "price": "R$ 72,90",
     "discount_percent": 54.0,
@@ -1796,7 +1849,8 @@
     "niche": {
       "key": "shopee_roupas_plus_size",
       "name": "Roupas Plus Size"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "c1436a0913279fc934",
@@ -1804,7 +1858,7 @@
     "raw_title": "Calça Plus Size Feminina Social Tecido Bengaline Estica Muito com Bolso e Botões 42 ao 52",
     "description": "✨ Calça Plus Size Social com 57% OFF! Estilo e conforto que estica muito! 👖 Arrase em qualquer ocasião com a Calça Plus Size Feminina Social de Bengalin...",
     "marketplace": "Shopee",
-    "category": "Roupas Plus Size",
+    "category": "Moda Plus Size",
     "old_price": "R$ 151,16",
     "price": "R$ 65,00",
     "discount_percent": 57.0,
@@ -1817,7 +1871,8 @@
     "niche": {
       "key": "shopee_roupas_plus_size",
       "name": "Roupas Plus Size"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "ff24c722921eec2f01",
@@ -1825,7 +1880,7 @@
     "raw_title": "SELAH - VESTIDO MANGA LONGA DANIELLA PLUS SIZE",
     "description": "🚨 OFERTA RELÂMPAGO! 🚨 🔥 Vestido Manga Longa Daniella Plus Size com 56% de DESCONTO! ✨ Conforto e elegância para você arrasar em qualquer lugar. Mais de...",
     "marketplace": "Shopee",
-    "category": "Roupas Plus Size",
+    "category": "Moda Feminina",
     "old_price": "R$ 88,64",
     "price": "R$ 39,00",
     "discount_percent": 56.0,
@@ -1838,7 +1893,8 @@
     "niche": {
       "key": "shopee_roupas_plus_size",
       "name": "Roupas Plus Size"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "295f456bfb015ca161",
@@ -1931,7 +1987,7 @@
     "raw_title": "Kit 6 Peças Moletom Infantil Menino Conjunto 1 ao 14 Masculino Inverno Manga Longa",
     "description": "🔥 47% OFF — Oferta encontrada! 📌 Kit 6 Peças Moletom Infantil Menino Conjunto 1 ao 14 Masculino Inverno Manga Longa Confira os detalhes e aproveite enqu...",
     "marketplace": "Shopee",
-    "category": "Roupas Masculinas",
+    "category": "Moda Masculina",
     "old_price": "R$ 109,25",
     "price": "R$ 57,90",
     "discount_percent": 47.0,
@@ -1944,7 +2000,8 @@
     "niche": {
       "key": "shopee_roupas_masculinas",
       "name": "Roupas Masculinas"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "b5ca50ff18efca8257",
@@ -1952,7 +2009,7 @@
     "raw_title": "Calças Sarja Masculina Jeans Colorido Slim Oferta especial de fábrica de vendas diretas bolsa de faca",
     "description": "🔥 71% OFF — Oferta encontrada! 📌 Calças Sarja Masculina Jeans Colorido Slim Oferta especial de fábrica de vendas diretas bolsa de faca Confira os detalh...",
     "marketplace": "Shopee",
-    "category": "Roupas Masculinas",
+    "category": "Bolsas",
     "old_price": "R$ 172,38",
     "price": "R$ 49,99",
     "discount_percent": 71.0,
@@ -1965,7 +2022,8 @@
     "niche": {
       "key": "shopee_roupas_masculinas",
       "name": "Roupas Masculinas"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "86551c4f818334817e",
@@ -1973,7 +2031,7 @@
     "raw_title": "Blusa de Compressão Masculina Academia Corrida Treino Camisa de compressão Justa ao Corpo",
     "description": "🔥 77% OFF — Oferta encontrada! 📌 Blusa de Compressão Masculina Academia Corrida Treino Camisa de compressão Justa ao Corpo Confira os detalhes e aprovei...",
     "marketplace": "Shopee",
-    "category": "Roupas Masculinas",
+    "category": "Moda Masculina",
     "old_price": "R$ 130,39",
     "price": "R$ 29,99",
     "discount_percent": 77.0,
@@ -1986,7 +2044,8 @@
     "niche": {
       "key": "shopee_roupas_masculinas",
       "name": "Roupas Masculinas"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "50e59ea4118537cf7a",
@@ -1994,7 +2053,7 @@
     "raw_title": "Daily T-shirt Insider",
     "description": "🔥 52% OFF — Oferta encontrada! 📌 Daily T-shirt Insider Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
     "marketplace": "Shopee",
-    "category": "Roupas Masculinas",
+    "category": "Moda Masculina",
     "old_price": "R$ 139,56",
     "price": "R$ 66,99",
     "discount_percent": 52.0,
@@ -2007,7 +2066,8 @@
     "niche": {
       "key": "shopee_roupas_masculinas",
       "name": "Roupas Masculinas"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "ac36b86baed9b1d001",
@@ -2015,7 +2075,7 @@
     "raw_title": "Bobojaco Jaqueta Puffer Térmica Casaco Masculino Impermeável Inverno Frio",
     "description": "🔥 61% OFF — Oferta encontrada! 📌 Bobojaco Jaqueta Puffer Térmica Casaco Masculino Impermeável Inverno Frio Confira os detalhes e aproveite enquanto a of...",
     "marketplace": "Shopee",
-    "category": "Roupas Masculinas",
+    "category": "Moda Masculina",
     "old_price": "R$ 202,54",
     "price": "R$ 78,99",
     "discount_percent": 61.0,
@@ -2028,7 +2088,8 @@
     "niche": {
       "key": "shopee_roupas_masculinas",
       "name": "Roupas Masculinas"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "377551c34bce1c204d",
@@ -2036,7 +2097,7 @@
     "raw_title": "Kit 2 Calça Legging Flare Flanelada Leg Boca De Sino Bailarina Grossa Zero Transparência",
     "description": "🔥 61% OFF — Oferta encontrada! 📌 Kit 2 Calça Legging Flare Flanelada Leg Boca De Sino Bailarina Grossa Zero Transparência Confira os detalhes e aproveit...",
     "marketplace": "Shopee",
-    "category": "Roupas Femininas",
+    "category": "Moda Feminina",
     "old_price": "R$ 171,77",
     "price": "R$ 66,99",
     "discount_percent": 61.0,
@@ -2049,7 +2110,8 @@
     "niche": {
       "key": "shopee_roupas_femininas",
       "name": "Roupas Femininas"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "05b8b2ff9bece3d572",
@@ -2057,7 +2119,7 @@
     "raw_title": "Calça Legging Flare Flanelada Leg Boca De Sino Bailarina",
     "description": "🔥 67% OFF — Oferta encontrada! 📌 Calça Legging Flare Flanelada Leg Boca De Sino Bailarina Confira os detalhes e aproveite enquanto a oferta estiver disp...",
     "marketplace": "Shopee",
-    "category": "Roupas Femininas",
+    "category": "Moda Feminina",
     "old_price": "R$ 111,52",
     "price": "R$ 36,80",
     "discount_percent": 67.0,
@@ -2070,7 +2132,8 @@
     "niche": {
       "key": "shopee_roupas_femininas",
       "name": "Roupas Femininas"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "71c980de15fbee99d1",
@@ -2078,7 +2141,7 @@
     "raw_title": "Calça Legging Flare Flanelada Leg Boca De Sino Bailarina Grossa Zero Transparência",
     "description": "🔥 67% OFF — Oferta encontrada! 📌 Calça Legging Flare Flanelada Leg Boca De Sino Bailarina Grossa Zero Transparência Confira os detalhes e aproveite enqu...",
     "marketplace": "Shopee",
-    "category": "Roupas Femininas",
+    "category": "Moda Feminina",
     "old_price": "R$ 111,52",
     "price": "R$ 36,80",
     "discount_percent": 67.0,
@@ -2091,7 +2154,8 @@
     "niche": {
       "key": "shopee_roupas_femininas",
       "name": "Roupas Femininas"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "1936c57131541c531c",
@@ -2099,7 +2163,7 @@
     "raw_title": "Moletom Gola Redonda Unissex Blusa De Frio Careca Casaco Feminino Masculino Flanelado Sem Estampa Algodão",
     "description": "🔥 45% OFF — Oferta encontrada! 📌 Moletom Gola Redonda Unissex Blusa De Frio Careca Casaco Feminino Masculino Flanelado Sem Estampa Algodão Confira os de...",
     "marketplace": "Shopee",
-    "category": "Roupas Femininas",
+    "category": "Moda Feminina",
     "old_price": "R$ 59,80",
     "price": "R$ 32,89",
     "discount_percent": 45.0,
@@ -2112,7 +2176,8 @@
     "niche": {
       "key": "shopee_roupas_femininas",
       "name": "Roupas Femininas"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "435ca4371c5520902a",
@@ -2120,7 +2185,7 @@
     "raw_title": "Meia-Calça Térmica Feminina Peluciada Translúcida Alta Elasticidade Super Quente Para Inverno",
     "description": "🔥 73% OFF — Oferta encontrada! 📌 Meia-Calça Térmica Feminina Peluciada Translúcida Alta Elasticidade Super Quente Para Inverno Confira os detalhes e apr...",
     "marketplace": "Shopee",
-    "category": "Roupas Femininas",
+    "category": "Moda Feminina",
     "old_price": "R$ 99,96",
     "price": "R$ 26,99",
     "discount_percent": 73.0,
@@ -2133,7 +2198,8 @@
     "niche": {
       "key": "shopee_roupas_femininas",
       "name": "Roupas Femininas"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "0bb425000f500f06b1",
@@ -2158,7 +2224,7 @@
     "raw_title": "Fone Bluetooth Esportivo 320mah Fone Sem Fio Fone Academia Preto",
     "description": "🏃‍♀️💨 OFERTA RELÂMPAGO! Fone Bluetooth Esportivo para seus treinos! Liberdade total e som de qualidade para a academia e o dia a dia. Fone sem fio, perf...",
     "marketplace": "Mercado Livre",
-    "category": "Eletrônicos",
+    "category": "Esportes",
     "old_price": "R$ 78,99",
     "price": "R$ 48,00",
     "discount_percent": 39.0,
@@ -2167,7 +2233,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68059006?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
     "created_at": "25/07/2026 13:04",
     "created_at_iso": "2026-07-25T13:04:52",
-    "created_ts": 1784984692
+    "created_ts": 1784984692,
+    "_category_fixed": true
   },
   {
     "id": "d635d9422f2a8f2837",
@@ -2175,7 +2242,7 @@
     "raw_title": "Fone Bluetooth Esportivo 320mah Fone Sem Fio Fone Academia Lilás",
     "description": "🔥 39% OFF — Oferta encontrada! 📌 Fone Bluetooth Esportivo 320mah Fone Sem Fio Fone Academia Lilás Confira os detalhes e aproveite enquanto a oferta esti...",
     "marketplace": "Mercado Livre",
-    "category": "Eletrônicos",
+    "category": "Esportes",
     "old_price": "R$ 78,99",
     "price": "R$ 48,00",
     "discount_percent": 39.0,
@@ -2184,7 +2251,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66915787?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
     "created_at": "25/07/2026 13:03",
     "created_at_iso": "2026-07-25T13:03:40",
-    "created_ts": 1784984620
+    "created_ts": 1784984620,
+    "_category_fixed": true
   },
   {
     "id": "88b3e5d4d30a781d8f",
@@ -2192,7 +2260,7 @@
     "raw_title": "Caixa Som Bluetooth 5.1 Caixa Som Amplificador Caixa Inova Cor Vermelho 3v",
     "description": "🔥 40% OFF — Oferta encontrada! 📌 Caixa Som Bluetooth 5.1 Caixa Som Amplificador Caixa Inova Cor Vermelho 3v Confira os detalhes e aproveite enquanto a o...",
     "marketplace": "Mercado Livre",
-    "category": "EletrÃ´nicos",
+    "category": "Outros",
     "old_price": "R$ 75,00",
     "price": "R$ 45,10",
     "discount_percent": 40.0,
@@ -2201,7 +2269,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB69906067?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
     "created_at": "25/07/2026 13:02",
     "created_at_iso": "2026-07-25T13:02:36",
-    "created_ts": 1784984556
+    "created_ts": 1784984556,
+    "_category_fixed": true
   },
   {
     "id": "d5c29cc86d72d165c9",
@@ -2243,7 +2312,7 @@
     "raw_title": "Mesa Computador Escrivaninha Notebook Gamer cor branco AJL",
     "description": "🔥 Oferta encontrada! 📌 Mesa Computador Escrivaninha Notebook Gamer cor branco AJL Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
     "marketplace": "Mercado Livre",
-    "category": "Papelaria",
+    "category": "Informática",
     "old_price": "",
     "price": "R$ 267,20",
     "discount_percent": 0.0,
@@ -2252,7 +2321,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29479675?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
     "created_at": "25/07/2026 12:05",
     "created_at_iso": "2026-07-25T12:05:18",
-    "created_ts": 1784981118
+    "created_ts": 1784981118,
+    "_category_fixed": true
   },
   {
     "id": "bfde13584ff8e5eb4f",
@@ -2260,7 +2330,7 @@
     "raw_title": "Fonte Notebook Positivo 19v Notebook",
     "description": "🔥 Oferta encontrada! 📌 Fonte Notebook Positivo 19v Notebook Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
     "marketplace": "Mercado Livre",
-    "category": "Papelaria",
+    "category": "Informática",
     "old_price": "",
     "price": "R$ 49,87",
     "discount_percent": 0.0,
@@ -2269,7 +2339,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23080901?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
     "created_at": "25/07/2026 12:04",
     "created_at_iso": "2026-07-25T12:04:14",
-    "created_ts": 1784981054
+    "created_ts": 1784981054,
+    "_category_fixed": true
   },
   {
     "id": "5c59027a89b796a1a0",
@@ -2311,7 +2382,7 @@
     "raw_title": "Console Portátil R36S + de 15.000 Jogos Vídeo Game 64g Linux Tela IPS 3.5 Polegadas MARISA",
     "description": "🔥 65% OFF — Oferta encontrada! 📌 Console Portátil R36S + de 15.000 Jogos Vídeo Game 64g Linux Tela IPS 3.5 Polegadas MARISA Confira os detalhes e aprove...",
     "marketplace": "Shopee",
-    "category": "Jogos e Consoles",
+    "category": "Games",
     "old_price": "R$ 502,83",
     "price": "R$ 175,99",
     "discount_percent": 65.0,
@@ -2324,7 +2395,8 @@
     "niche": {
       "key": "shopee_jogos_consoles",
       "name": "Jogos e Consoles"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "d7ba193cdd37026fd3",
@@ -2332,7 +2404,7 @@
     "raw_title": "Game Stick M15 Pro 4k 64GB com 2 controles sem fio +20.000 jogos Marisa",
     "description": "🔥 61% OFF — Oferta encontrada! 📌 Game Stick M15 Pro 4k 64GB com 2 controles sem fio +20.000 jogos Marisa Confira os detalhes e aproveite enquanto a ofer...",
     "marketplace": "Shopee",
-    "category": "Jogos e Consoles",
+    "category": "Games",
     "old_price": "R$ 297,41",
     "price": "R$ 115,99",
     "discount_percent": 61.0,
@@ -2345,7 +2417,8 @@
     "niche": {
       "key": "shopee_jogos_consoles",
       "name": "Jogos e Consoles"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "c63f2c646324305b57",
@@ -2353,7 +2426,7 @@
     "raw_title": "Cadeira Gamer Ergonômica Reclinável com Apoio de Pés Ajustável e Base Giratória – Máximo Conforto para Longas Sessões de",
     "description": "🔥 53% OFF — Oferta encontrada! 📌 Cadeira Gamer Ergonômica Reclinável com Apoio de Pés Ajustável e Base Giratória – Máximo Conforto para Longas Sessões d...",
     "marketplace": "Shopee",
-    "category": "Jogos e Consoles",
+    "category": "Games",
     "old_price": "R$ 998,53",
     "price": "R$ 469,31",
     "discount_percent": 53.0,
@@ -2366,7 +2439,8 @@
     "niche": {
       "key": "shopee_jogos_consoles",
       "name": "Jogos e Consoles"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "2f3f33990e6368562b",
@@ -2374,7 +2448,7 @@
     "raw_title": "Game Stick M15 Pro 4k 64GB com 2 controles sem fio +20.000 jogos",
     "description": "🔥 61% OFF — Oferta encontrada! 📌 Game Stick M15 Pro 4k 64GB com 2 controles sem fio +20.000 jogos Confira os detalhes e aproveite enquanto a oferta esti...",
     "marketplace": "Shopee",
-    "category": "Jogos e Consoles",
+    "category": "Games",
     "old_price": "R$ 297,41",
     "price": "R$ 115,99",
     "discount_percent": 61.0,
@@ -2387,7 +2461,8 @@
     "niche": {
       "key": "shopee_jogos_consoles",
       "name": "Jogos e Consoles"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "a0a3f63b79d1519b80",
@@ -2480,7 +2555,7 @@
     "raw_title": "Caneca Misturadora Automática Elétrica USB Bateria Recarregável Mixer Café 380ml",
     "description": "🔥 69% OFF — Oferta encontrada! 📌 Caneca Misturadora Automática Elétrica USB Bateria Recarregável Mixer Café 380ml Confira os detalhes e aproveite enquan...",
     "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
+    "category": "Casa e Cozinha",
     "old_price": "R$ 118,97",
     "price": "R$ 36,88",
     "discount_percent": 69.0,
@@ -2493,7 +2568,8 @@
     "niche": {
       "key": "shopee_bebidas_alimentos",
       "name": "Bebidas e Alimentos"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "21ce368e8ec4f54e9f",
@@ -2501,7 +2577,7 @@
     "raw_title": "Creatina Monohidratada 600g 100% Pura Importada Soldiers Nutrition Suplemento Performance Muscular Força",
     "description": "🔥 68% OFF — Oferta encontrada! 📌 Creatina Monohidratada 600g 100% Pura Importada Soldiers Nutrition Suplemento Performance Muscular Força Confira os det...",
     "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
+    "category": "Outros",
     "old_price": "R$ 143,44",
     "price": "R$ 45,90",
     "discount_percent": 68.0,
@@ -2514,7 +2590,8 @@
     "niche": {
       "key": "shopee_bebidas_alimentos",
       "name": "Bebidas e Alimentos"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "5f90361c02c9ab398b",
@@ -2522,7 +2599,7 @@
     "raw_title": "Creatina Monohidratada 500g 100% Pura Importada Soldiers Nutrition Suplemento Performance Muscular Força",
     "description": "🔥 69% OFF — Oferta encontrada! 📌 Creatina Monohidratada 500g 100% Pura Importada Soldiers Nutrition Suplemento Performance Muscular Força Confira os det...",
     "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
+    "category": "Outros",
     "old_price": "R$ 131,94",
     "price": "R$ 40,90",
     "discount_percent": 69.0,
@@ -2535,7 +2612,8 @@
     "niche": {
       "key": "shopee_bebidas_alimentos",
       "name": "Bebidas e Alimentos"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "54fdcc6ed6c541df76",
@@ -2543,7 +2621,7 @@
     "raw_title": "NAC Antioxidante Fígado N-Acetil L-Cisteína 500mg - 60 Cápsulas Original",
     "description": "🔥 82% OFF — Oferta encontrada! 📌 NAC Antioxidante Fígado N-Acetil L-Cisteína 500mg - 60 Cápsulas Original Confira os detalhes e aproveite enquanto a ofe...",
     "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
+    "category": "Outros",
     "old_price": "R$ 122,17",
     "price": "R$ 21,99",
     "discount_percent": 82.0,
@@ -2556,7 +2634,8 @@
     "niche": {
       "key": "shopee_bebidas_alimentos",
       "name": "Bebidas e Alimentos"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "c147da1d0eb698c180",
@@ -2564,7 +2643,7 @@
     "raw_title": "Whey Protein Concentrado 1kg Refil - FTW",
     "description": "🔥 60% OFF — Oferta encontrada! 📌 Whey Protein Concentrado 1kg Refil - FTW Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
     "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
+    "category": "Esportes",
     "old_price": "R$ 197,25",
     "price": "R$ 78,90",
     "discount_percent": 60.0,
@@ -2577,7 +2656,8 @@
     "niche": {
       "key": "shopee_bebidas_alimentos",
       "name": "Bebidas e Alimentos"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "f02e94f4c832a5bd43",
@@ -2653,7 +2733,7 @@
     "raw_title": "Cadeira de Escritório Secretária Base Cromada com Rodinha Fortt Lisboa Preta - CSF02-P",
     "description": "🔥 46% OFF — Oferta encontrada! 📌 Cadeira de Escritório Secretária Base Cromada com Rodinha Fortt Lisboa Preta - CSF02-P Confira os detalhes e aproveite...",
     "marketplace": "Shopee",
-    "category": "Computadores e Acessórios",
+    "category": "Informática",
     "old_price": "R$ 212,48",
     "price": "R$ 114,74",
     "discount_percent": 46.0,
@@ -2666,7 +2746,8 @@
     "niche": {
       "key": "shopee_computadores_acessorios",
       "name": "Computadores e Acessórios"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "42281c9d7bbc4c78c7",
@@ -2674,7 +2755,7 @@
     "raw_title": "Teclado Mecânico Gamer Teclado Computador Cinza 60% Hot Swap Switch Bronw Red ABNT2 USB Titorion",
     "description": "🔥 53% OFF — Oferta encontrada! 📌 Teclado Mecânico Gamer Teclado Computador Cinza 60% Hot Swap Switch Bronw Red ABNT2 USB Titorion Confira os detalhes e...",
     "marketplace": "Shopee",
-    "category": "Computadores e Acessórios",
+    "category": "Informática",
     "old_price": "R$ 300,02",
     "price": "R$ 141,01",
     "discount_percent": 53.0,
@@ -2687,7 +2768,8 @@
     "niche": {
       "key": "shopee_computadores_acessorios",
       "name": "Computadores e Acessórios"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "135379ac6005bc44e3",
@@ -2695,7 +2777,7 @@
     "raw_title": "Teclado Mecânico Gamer RGB 68 Teclas Eixo Vermelho USB+2.4G+BT ABNT2 TK08",
     "description": "🔥 O Teclado Mecânico Gamer RGB TK08 que você queria está com 61% OFF! 🚀 Com 68 teclas, eixo vermelho, layout ABNT2 e conectividade tripla (USB+2.4G+BT),...",
     "marketplace": "Shopee",
-    "category": "Computadores e Acessórios",
+    "category": "Informática",
     "old_price": "R$ 402,54",
     "price": "R$ 156,99",
     "discount_percent": 61.0,
@@ -2708,7 +2790,8 @@
     "niche": {
       "key": "shopee_computadores_acessorios",
       "name": "Computadores e Acessórios"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "6340d760d36860385a",
@@ -2716,7 +2799,7 @@
     "raw_title": "ROMANTIC CROWN Mochla de Viagem MascuIino e Feminina ImpermeaveI Reforçada Executiva para Notebook",
     "description": "🔥 84% OFF — Oferta encontrada! 📌 ROMANTIC CROWN Mochla de Viagem MascuIino e Feminina ImpermeaveI Reforçada Executiva para Notebook Confira os detalhes...",
     "marketplace": "Shopee",
-    "category": "Computadores e Acessórios",
+    "category": "Informática",
     "old_price": "R$ 688,69",
     "price": "R$ 110,19",
     "discount_percent": 84.0,
@@ -2729,7 +2812,8 @@
     "niche": {
       "key": "shopee_computadores_acessorios",
       "name": "Computadores e Acessórios"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "969da2f2f2ae5b9836",
@@ -2737,7 +2821,7 @@
     "raw_title": "Mochila Vlagem Feminina Masculinas Multifuncional Reforçada Impermeável Expansível Mochila Notebook Antifurto USB",
     "description": "🎒 IMPERDÍVEL! Mochila Perfeita para TODAS as suas aventuras! Chegou a Mochila Multifuncional Reforçada, Impermeável e Expansível que você sempre quis! C...",
     "marketplace": "Shopee",
-    "category": "Computadores e Acessórios",
+    "category": "Bolsas",
     "old_price": "R$ 507,14",
     "price": "R$ 106,50",
     "discount_percent": 79.0,
@@ -2750,7 +2834,8 @@
     "niche": {
       "key": "shopee_computadores_acessorios",
       "name": "Computadores e Acessórios"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "7502db8e056c4aa894",
@@ -2843,7 +2928,7 @@
     "raw_title": "Caneta Gel Colorgel Canetinhas Coloridas Perfumadas Glitter Kit 24 Cores",
     "description": "🎨 Cores, brilho e perfume para sua arte! Transforme suas anotações e desenhos com o Kit Caneta Gel Colorgel de 24 Cores! 🌈 Cada caneta é perfumada e tem...",
     "marketplace": "Shopee",
-    "category": "Papelaria",
+    "category": "Beleza",
     "old_price": "R$ 44,42",
     "price": "R$ 16,88",
     "discount_percent": 62.0,
@@ -2856,7 +2941,8 @@
     "niche": {
       "key": "shopee_papelaria",
       "name": "Papelaria"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "cad03ca8923d8a8fa2",
@@ -2885,7 +2971,7 @@
     "raw_title": "Estojo Maleta Pintura Infantil Lápis Cores Giz Canetinhas e Diversos Tamanhos Desenhos Para Colorir",
     "description": "🎉 SEU PEQUENO ARTISTA VAI AMAR! 🎨 Estojo Maleta de Pintura Infantil completo com lápis, giz e canetinhas para a diversão da criançada! São diversas core...",
     "marketplace": "Shopee",
-    "category": "Papelaria",
+    "category": "Bolsas",
     "old_price": "R$ 49,69",
     "price": "R$ 15,90",
     "discount_percent": 68.0,
@@ -2898,7 +2984,8 @@
     "niche": {
       "key": "shopee_papelaria",
       "name": "Papelaria"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "d2290bd59b8087d587",
@@ -2906,7 +2993,7 @@
     "raw_title": "Mochila Escolar Reforçada Nylon Impermeável Viagem Esportiva",
     "description": "🚨 OPORTUNIDADE ÚNICA! Mochila Reforçada Nylon Impermeável com 60% OFF! Perfeita para escola, trabalho, viagens e esportes. Super resistente, espaçosa e...",
     "marketplace": "Shopee",
-    "category": "Papelaria",
+    "category": "Bolsas",
     "old_price": "R$ 99,75",
     "price": "R$ 39,90",
     "discount_percent": 60.0,
@@ -2919,7 +3006,8 @@
     "niche": {
       "key": "shopee_papelaria",
       "name": "Papelaria"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "04c49a1ef35906aaf6",
@@ -2927,7 +3015,7 @@
     "raw_title": "Fruteira de Mesa ou Cesto Multiuso Cesta de metal portátil Organizador para Casa Cozinha Escritório ES",
     "description": "Chega de bagunça! Essa Fruteira de Mesa ou Cesto Multiuso de metal é perfeita para organizar sua casa, cozinha ou escritório com praticidade e design mo...",
     "marketplace": "Shopee",
-    "category": "Papelaria",
+    "category": "Bolsas",
     "old_price": "R$ 90,23",
     "price": "R$ 38,80",
     "discount_percent": 57.0,
@@ -2940,7 +3028,8 @@
     "niche": {
       "key": "shopee_papelaria",
       "name": "Papelaria"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "e4675ff7cd1da9d46f",
@@ -2948,7 +3037,7 @@
     "raw_title": "Bike Spinning Kikos Max-ks5 Preto",
     "description": "🔥 TREINE EM CASA COM ESTILO E ECONOMIA! 💪 Garanta a sua Bike Spinning Kikos Max-KS5 Preto com um super desconto no Mercado Livre! Economize mais de 39%...",
     "marketplace": "Mercado Livre",
-    "category": "Esportes e Lazer",
+    "category": "Esportes",
     "old_price": "R$ 3.989,77",
     "price": "R$ 2.415,88",
     "discount_percent": 39.0,
@@ -2957,7 +3046,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB18603556?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
     "created_at": "25/07/2026 08:06",
     "created_at_iso": "2026-07-25T08:06:41",
-    "created_ts": 1784966801
+    "created_ts": 1784966801,
+    "_category_fixed": true
   },
   {
     "id": "65a3c10c99c72f7442",
@@ -2965,7 +3055,7 @@
     "raw_title": "Bola Futebol Campo Vinil Vermelho Costurada",
     "description": "GOL DE OFERTA! ⚽️ Bola de Futebol Campo Vinil Vermelho Costurada com um preço inacreditável! Perfeita para suas partidas e treinos. Qualidade e durabili...",
     "marketplace": "Mercado Livre",
-    "category": "Esportes e Lazer",
+    "category": "Esportes",
     "old_price": "R$ 44,99",
     "price": "R$ 20,99",
     "discount_percent": 53.0,
@@ -2974,7 +3064,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24737159?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
     "created_at": "25/07/2026 08:05",
     "created_at_iso": "2026-07-25T08:05:33",
-    "created_ts": 1784966733
+    "created_ts": 1784966733,
+    "_category_fixed": true
   },
   {
     "id": "09bb46317541a28ff6",
@@ -2982,7 +3073,7 @@
     "raw_title": "Bike Spinning Bicicleta 6kg Wct Fitness Preta",
     "description": "🔥 Transforme seu corpo em casa! 🚴‍♀️ Bike Spinning Bicicleta 6kg Wct Fitness Preta 🚚 Frete grátis para todo o Brasil!",
     "marketplace": "Mercado Livre",
-    "category": "Esportes e Lazer",
+    "category": "Esportes",
     "old_price": "R$ 1.132,90",
     "price": "R$ 649,00",
     "discount_percent": 43.0,
@@ -2991,7 +3082,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75107533?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
     "created_at": "25/07/2026 08:04",
     "created_at_iso": "2026-07-25T08:04:25",
-    "created_ts": 1784966665
+    "created_ts": 1784966665,
+    "_category_fixed": true
   },
   {
     "id": "13cd4d104867fe7986",
@@ -2999,7 +3091,7 @@
     "raw_title": "Esteira Ergométrica Elétrica Dobrável Com Bluetooth Tela Led 14km/h Jmjn 127v/220v Esteira Ergometrica 120kg",
     "description": "🔥 Oportunidade ÚNICA! Transforme seu corpo sem sair de casa com a Esteira Ergométrica Elétrica Dobrável com Bluetooth Tela Led 14km/h Jmjn 127v/220v Est...",
     "marketplace": "Mercado Livre",
-    "category": "Esportes e Lazer",
+    "category": "Esportes",
     "old_price": "R$ 3.399,00",
     "price": "R$ 1.454,81",
     "discount_percent": 57.0,
@@ -3008,7 +3100,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB73080390?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
     "created_at": "25/07/2026 08:03",
     "created_at_iso": "2026-07-25T08:03:18",
-    "created_ts": 1784966598
+    "created_ts": 1784966598,
+    "_category_fixed": true
   },
   {
     "id": "f7848fa898fc964418",
@@ -3016,7 +3109,7 @@
     "raw_title": "Esteira Ergométrica Elétrica Dobrável Com Bluetooth Tela Led 14km/h Jmjn 220v Esteira Ergometrica 120kg",
     "description": "🏃‍♀️ Transforme seu treino em casa AGORA! A Esteira Ergométrica Elétrica Dobrável com Bluetooth e Tela LED é a solução perfeita para sua rotina. Alcança...",
     "marketplace": "Mercado Livre",
-    "category": "Esportes e Lazer",
+    "category": "Esportes",
     "old_price": "R$ 3.399,00",
     "price": "R$ 1.454,81",
     "discount_percent": 57.0,
@@ -3025,7 +3118,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB73080389?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
     "created_at": "25/07/2026 08:02",
     "created_at_iso": "2026-07-25T08:02:04",
-    "created_ts": 1784966524
+    "created_ts": 1784966524,
+    "_category_fixed": true
   },
   {
     "id": "d52aa68d0912c28573",
@@ -3033,7 +3127,7 @@
     "raw_title": "Kit Saco a Vacuo + Bomba Manual Organização de Roupas Mala Viagem Guarda Roupas",
     "description": "Chega de bagunça! 🤩 Otimize seu espaço como nunca! Com o Kit Saco a Vácuo + Bomba Manual, você organiza roupas, malas e guarda-roupas de forma prática e...",
     "marketplace": "Shopee",
-    "category": "Bolsas Masculinas",
+    "category": "Bolsas",
     "old_price": "R$ 69,47",
     "price": "R$ 27,79",
     "discount_percent": 60.0,
@@ -3046,7 +3140,8 @@
     "niche": {
       "key": "shopee_bolsas_masculinas",
       "name": "Bolsas Masculinas"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "69a0a7dc74e6d5c034",
@@ -3054,7 +3149,7 @@
     "raw_title": "Mala Para Viagem De Bordo 10kg P Abs Com Zíper Expansível Rodinhas 360 Removíveis Bagagens de mão",
     "description": "✈️ IMPERDÍVEL! Mala de Bordo com 90% OFF! ✨ Sua viagem merece o melhor! Leve e resistente, esta mala de bordo 10kg em ABS é perfeita. Com zíper expansív...",
     "marketplace": "Shopee",
-    "category": "Bolsas Masculinas",
+    "category": "Bolsas",
     "old_price": "R$ 1.788,00",
     "price": "R$ 178,80",
     "discount_percent": 90.0,
@@ -3067,7 +3162,8 @@
     "niche": {
       "key": "shopee_bolsas_masculinas",
       "name": "Bolsas Masculinas"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "9b7f457ff6a438246e",
@@ -3075,7 +3171,7 @@
     "raw_title": "Mochila Militar Tática Impermeável 50 Litros Grande Reforçada com Brinde Bandeira",
     "description": "💥 IMPERDÍVEL! Mochila Militar Tática 50L com 61% de desconto! Prepare-se para qualquer aventura com a Mochila Militar Tática Impermeável de 50 Litros! 💪...",
     "marketplace": "Shopee",
-    "category": "Bolsas Masculinas",
+    "category": "Bolsas",
     "old_price": "R$ 251,26",
     "price": "R$ 97,99",
     "discount_percent": 61.0,
@@ -3088,7 +3184,8 @@
     "niche": {
       "key": "shopee_bolsas_masculinas",
       "name": "Bolsas Masculinas"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "b5ad0243d3afb0ab33",
@@ -3096,7 +3193,7 @@
     "raw_title": "Mochila Unissex Grande Capacidade para Faculdade com Compartimentos Reforçada Impermeável para Notebook Trabalho",
     "description": "🎒 A mochila perfeita para TUDO! Grande capacidade, reforçada, impermeável e com compartimento para notebook. Ideal para faculdade, trabalho e dia a dia! ✨",
     "marketplace": "Shopee",
-    "category": "Bolsas Masculinas",
+    "category": "Bolsas",
     "old_price": "R$ 199,71",
     "price": "R$ 69,90",
     "discount_percent": 65.0,
@@ -3109,7 +3206,8 @@
     "niche": {
       "key": "shopee_bolsas_masculinas",
       "name": "Bolsas Masculinas"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "83368ff964de21a469",
@@ -3117,7 +3215,7 @@
     "raw_title": "mochila grande unissex resistente impermeável notebook alta capacidade com compartimentos ideal trabalho faculdade",
     "description": "🚨 IMPERDÍVEL! Mochila ideal para tudo! 🎒 Mochila grande, unissex e super resistente! Perfeita para trabalho, faculdade ou dia a dia. Com compartimentos...",
     "marketplace": "Shopee",
-    "category": "Bolsas Masculinas",
+    "category": "Bolsas",
     "old_price": "R$ 199,71",
     "price": "R$ 69,90",
     "discount_percent": 65.0,
@@ -3130,7 +3228,8 @@
     "niche": {
       "key": "shopee_bolsas_masculinas",
       "name": "Bolsas Masculinas"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "7f4e5b4c572556ee18",
@@ -3138,7 +3237,7 @@
     "raw_title": "Conjunto Infantil Inverno Masculino Moletom Faixas Laterais Preto 4",
     "description": "👶 Seu pequeno pronto para o inverno com muito estilo! Este Conjunto Infantil Masculino de Moletom com faixas laterais é perfeito para aquecer e deixar s...",
     "marketplace": "Mercado Livre",
-    "category": "Moda infantil",
+    "category": "Moda Masculina",
     "old_price": "R$ 119,90",
     "price": "R$ 97,90",
     "discount_percent": 18.0,
@@ -3147,7 +3246,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB73157323?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
     "created_at": "25/07/2026 07:07",
     "created_at_iso": "2026-07-25T07:07:19",
-    "created_ts": 1784963239
+    "created_ts": 1784963239,
+    "_category_fixed": true
   },
   {
     "id": "4bea107befc3535284",
@@ -3155,7 +3255,7 @@
     "raw_title": "Conjunto Feminino Shorts Saia E Blusa Elegante Festa Balada Cor Conjunto Feminino Shorts Saia Preto",
     "description": "✨ LOOK DE ARRASAR COM PREÇO INCRÍVEL! ✨ Este Conjunto Feminino elegante de Shorts Saia e Blusa é perfeito para você brilhar em festas e baladas. Na cor...",
     "marketplace": "Mercado Livre",
-    "category": "Moda",
+    "category": "Moda Feminina",
     "old_price": "R$ 239,90",
     "price": "R$ 191,92",
     "discount_percent": 20.0,
@@ -3164,7 +3264,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74520688?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
     "created_at": "25/07/2026 07:06",
     "created_at_iso": "2026-07-25T07:06:09",
-    "created_ts": 1784963169
+    "created_ts": 1784963169,
+    "_category_fixed": true
   },
   {
     "id": "51e8749b4800d9249b",
@@ -3189,7 +3290,7 @@
     "raw_title": "Chinelo Masculino Go Consistent Skechers",
     "description": "🔥 Chinelo Masculino Go Consistent Skechers com oferta imperdível! Relaxe com o máximo conforto e a qualidade que você já conhece. Perfeito para o dia a...",
     "marketplace": "Mercado Livre",
-    "category": "Sapatos",
+    "category": "Calçados",
     "old_price": "R$ 279,99",
     "price": "R$ 169,62",
     "discount_percent": 39.0,
@@ -3198,7 +3299,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65300042?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
     "created_at": "25/07/2026 07:03",
     "created_at_iso": "2026-07-25T07:03:49",
-    "created_ts": 1784963029
+    "created_ts": 1784963029,
+    "_category_fixed": true
   },
   {
     "id": "6185e13e0b4087beec",
@@ -3206,7 +3308,7 @@
     "raw_title": "Calça Jeans Masculina Tradicional Elastano Premium Skinny Preto Meteoro 44",
     "description": "👖 OFERTA IMPERDÍVEL! 👖 Calça Jeans Masculina Tradicional Elastano Premium Skinny Preto Meteoro 44. Estilo e conforto para todas as ocasiões! ✨",
     "marketplace": "Mercado Livre",
-    "category": "Moda",
+    "category": "Outros",
     "old_price": "R$ 78,90",
     "price": "R$ 38,27",
     "discount_percent": 52.0,
@@ -3215,7 +3317,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65008435?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
     "created_at": "25/07/2026 07:02",
     "created_at_iso": "2026-07-25T07:02:41",
-    "created_ts": 1784962961
+    "created_ts": 1784962961,
+    "_category_fixed": true
   },
   {
     "id": "b133d595c2ee5d0bd0",
@@ -3223,7 +3326,7 @@
     "raw_title": "Mochila De Viagem Feminina Multifuncional Impermeável Reforçada Expansível para Trilha Esportiva",
     "description": "🔥 85% OFF — Oferta encontrada! 📌 Mochila De Viagem Feminina Multifuncional Impermeável Reforçada Expansível para Trilha Esportiva Confira os detalhes e...",
     "marketplace": "Shopee",
-    "category": "Bolsas Femininas",
+    "category": "Bolsas",
     "old_price": "R$ 710,00",
     "price": "R$ 106,50",
     "discount_percent": 85.0,
@@ -3236,7 +3339,8 @@
     "niche": {
       "key": "shopee_bolsas_femininas",
       "name": "Bolsas Femininas"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "47dc39ad65fccfa169",
@@ -3244,7 +3348,7 @@
     "raw_title": "Bolsa Mochila Feminina Grande De Ombro Com Alça Transversal De Couro PU TM9034 LING",
     "description": "🔥 60% OFF — Oferta encontrada! 📌 Bolsa Mochila Feminina Grande De Ombro Com Alça Transversal De Couro PU TM9034 LING Confira os detalhes e aproveite enq...",
     "marketplace": "Shopee",
-    "category": "Bolsas Femininas",
+    "category": "Bolsas",
     "old_price": "R$ 199,95",
     "price": "R$ 79,98",
     "discount_percent": 60.0,
@@ -3257,7 +3361,8 @@
     "niche": {
       "key": "shopee_bolsas_femininas",
       "name": "Bolsas Femininas"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "9753f5b8c9f1b5c550",
@@ -3265,7 +3370,7 @@
     "raw_title": "Mochila Unissex Grande Impermeável para Notebook Masculina Feminina Alta Capacidade Reforçada Trabalho Faculdade",
     "description": "🔥 70% OFF — Oferta encontrada! 📌 Mochila Unissex Grande Impermeável para Notebook Masculina Feminina Alta Capacidade Reforçada Trabalho Faculdade Confir...",
     "marketplace": "Shopee",
-    "category": "Bolsas Femininas",
+    "category": "Bolsas",
     "old_price": "R$ 199,67",
     "price": "R$ 59,90",
     "discount_percent": 70.0,
@@ -3278,7 +3383,8 @@
     "niche": {
       "key": "shopee_bolsas_femininas",
       "name": "Bolsas Femininas"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "b7a28e0efccba9847f",
@@ -3286,7 +3392,7 @@
     "raw_title": "Bolso de Ombro Pequenas Feminina,Mini Bolsas Sacola Tiracolo Moderna de Couro Impermeável,Shoulder Handbag",
     "description": "🔥 77% OFF — Oferta encontrada! 📌 Bolso de Ombro Pequenas Feminina,Mini Bolsas Sacola Tiracolo Moderna de Couro Impermeável,Shoulder Handbag Confira os d...",
     "marketplace": "Shopee",
-    "category": "Bolsas Femininas",
+    "category": "Bolsas",
     "old_price": "R$ 304,30",
     "price": "R$ 69,99",
     "discount_percent": 77.0,
@@ -3299,7 +3405,8 @@
     "niche": {
       "key": "shopee_bolsas_femininas",
       "name": "Bolsas Femininas"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "e8ea709f6729752e4f",
@@ -3307,7 +3414,7 @@
     "raw_title": "Bolsa de Ombra Feminina com Alça Ajustável, Bolsa Feminina Elegante com Couro Sintetico Preto, Presente",
     "description": "🔥 77% OFF — Oferta encontrada! 📌 Bolsa de Ombra Feminina com Alça Ajustável, Bolsa Feminina Elegante com Couro Sintetico Preto, Presente Confira os deta...",
     "marketplace": "Shopee",
-    "category": "Bolsas Femininas",
+    "category": "Bolsas",
     "old_price": "R$ 304,26",
     "price": "R$ 69,98",
     "discount_percent": 77.0,
@@ -3320,7 +3427,8 @@
     "niche": {
       "key": "shopee_bolsas_femininas",
       "name": "Bolsas Femininas"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "e929e9e01eb731c587",
@@ -3328,7 +3436,7 @@
     "raw_title": "Rack Para Sala De Estar Rack Para Tv C/ Prateleira Flex Cor Preto",
     "description": "🔥 25% OFF — Oferta encontrada! 📌 Rack Para Sala De Estar Rack Para Tv C/ Prateleira Flex Cor Preto Confira os detalhes e aproveite enquanto a oferta est...",
     "marketplace": "Mercado Livre",
-    "category": "Casa e Decoração",
+    "category": "Casa e Cozinha",
     "old_price": "R$ 495,66",
     "price": "R$ 373,45",
     "discount_percent": 25.0,
@@ -3337,7 +3445,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39315109?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
     "created_at": "25/07/2026 06:06",
     "created_at_iso": "2026-07-25T06:06:48",
-    "created_ts": 1784959608
+    "created_ts": 1784959608,
+    "_category_fixed": true
   },
   {
     "id": "7e9557e8f859a156ed",
@@ -3555,7 +3664,7 @@
     "raw_title": "Suporte Controle Ps5 Duplo Dualsense Base Mesa Gamer Preto Organizador Controle Ps5",
     "description": "🔥 24% OFF — Oferta encontrada! 📌 Suporte Controle Ps5 Duplo Dualsense Base Mesa Gamer Preto Organizador Controle Ps5 Confira os detalhes e aproveite enq...",
     "marketplace": "Mercado Livre",
-    "category": "Casa e Decoração",
+    "category": "Games",
     "old_price": "R$ 19,99",
     "price": "R$ 15,28",
     "discount_percent": 24.0,
@@ -3564,7 +3673,8 @@
     "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65318023?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
     "created_at": "25/07/2026 04:06",
     "created_at_iso": "2026-07-25T04:06:13",
-    "created_ts": 1784952373
+    "created_ts": 1784952373,
+    "_category_fixed": true
   },
   {
     "id": "e5f4ce071b032cc396",
@@ -3614,7 +3724,7 @@
     "raw_title": "Carrinho Blocos De Montar Com 302 Peças Com Controle Remoto Colecionável Brinquedo Infantil Criança",
     "description": "🔥 71% OFF — Oferta encontrada! 📌 Carrinho Blocos De Montar Com 302 Peças Com Controle Remoto Colecionável Brinquedo Infantil Criança Confira os detalhes...",
     "marketplace": "Shopee",
-    "category": "Brinquedos e Hobbies",
+    "category": "Moda Infantil",
     "old_price": "R$ 147,55",
     "price": "R$ 42,79",
     "discount_percent": 71.0,
@@ -3627,7 +3737,8 @@
     "niche": {
       "key": "shopee_brinquedos_hobbies",
       "name": "Brinquedos e Hobbies"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "b75c78aaf15d8f379f",
@@ -3635,7 +3746,7 @@
     "raw_title": "Livro Sonoro Interativo para Crianças Português e Inglês Livro Ilustrado Bilíngue Brinquedo Educativo Sensível ao Toque",
     "description": "🔥 65% OFF — Oferta encontrada! 📌 Livro Sonoro Interativo para Crianças Português e Inglês Livro Ilustrado Bilíngue Brinquedo Educativo Sensível ao Toque...",
     "marketplace": "Shopee",
-    "category": "Brinquedos e Hobbies",
+    "category": "Moda Infantil",
     "old_price": "R$ 139,94",
     "price": "R$ 48,98",
     "discount_percent": 65.0,
@@ -3648,7 +3759,8 @@
     "niche": {
       "key": "shopee_brinquedos_hobbies",
       "name": "Brinquedos e Hobbies"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "3f54d3994badc94441",
@@ -3656,7 +3768,7 @@
     "raw_title": "Barraca Infantil Menina Tenda Minha Casinha",
     "description": "🔥 65% OFF — Oferta encontrada! 📌 Barraca Infantil Menina Tenda Minha Casinha Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
     "marketplace": "Shopee",
-    "category": "Brinquedos e Hobbies",
+    "category": "Moda Infantil",
     "old_price": "R$ 159,34",
     "price": "R$ 55,77",
     "discount_percent": 65.0,
@@ -3669,7 +3781,8 @@
     "niche": {
       "key": "shopee_brinquedos_hobbies",
       "name": "Brinquedos e Hobbies"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "b5e6248b3e6f534575",
@@ -3677,7 +3790,7 @@
     "raw_title": "Kit de Halteres Treino 20 Kg Bonafit 3 em 1 Musculação Ajustável Segurança e Durabilidade + Ebook",
     "description": "🔥 71% OFF — Oferta encontrada! 📌 Kit de Halteres Treino 20 Kg Bonafit 3 em 1 Musculação Ajustável Segurança e Durabilidade + Ebook Confira os detalhes e...",
     "marketplace": "Shopee",
-    "category": "Papelaria",
+    "category": "Esportes",
     "old_price": "R$ 689,62",
     "price": "R$ 199,99",
     "discount_percent": 71.0,
@@ -3691,7 +3804,8 @@
       "key": "shopee_esportes_lazer",
       "name": "Esportes e Lazer"
     },
-    "original_category": "Esportes e Lazer"
+    "original_category": "Esportes e Lazer",
+    "_category_fixed": true
   },
   {
     "id": "7bb89124f93cffeb93",
@@ -3699,7 +3813,7 @@
     "raw_title": "Nova Placa De Carbono Profissional Tênis De Corrida Sapatos De Moda Para Homens E Mulheres 33-44",
     "description": "🔥 53% OFF — Oferta encontrada! 📌 Nova Placa De Carbono Profissional Tênis De Corrida Sapatos De Moda Para Homens E Mulheres 33-44 Confira os detalhes e...",
     "marketplace": "Shopee",
-    "category": "Sapatos",
+    "category": "Calçados",
     "old_price": "R$ 152,38",
     "price": "R$ 71,62",
     "discount_percent": 53.0,
@@ -3713,7 +3827,8 @@
       "key": "shopee_esportes_lazer",
       "name": "Esportes e Lazer"
     },
-    "original_category": "Esportes e Lazer"
+    "original_category": "Esportes e Lazer",
+    "_category_fixed": true
   },
   {
     "id": "a459f0a195ff81a247",
@@ -3721,7 +3836,7 @@
     "raw_title": "KIT COM 2 SHORTS FEMININO 2 EM 1 FEMININO DRY FIT C/ Bolso Porta Celular Kaizen Academia, Treino",
     "description": "🔥 64% OFF — Oferta encontrada! 📌 KIT COM 2 SHORTS FEMININO 2 EM 1 FEMININO DRY FIT C/ Bolso Porta Celular Kaizen Academia, Treino Confira os detalhes e...",
     "marketplace": "Shopee",
-    "category": "Roupas Femininas",
+    "category": "Celulares",
     "old_price": "R$ 91,11",
     "price": "R$ 32,80",
     "discount_percent": 64.0,
@@ -3735,7 +3850,8 @@
       "key": "shopee_esportes_lazer",
       "name": "Esportes e Lazer"
     },
-    "original_category": "Esportes e Lazer"
+    "original_category": "Esportes e Lazer",
+    "_category_fixed": true
   },
   {
     "id": "212050af52df78ad8d",
@@ -3743,7 +3859,7 @@
     "raw_title": "Watersy Garrafa Térmica 500ml Inox 304 c/ Tampa Copo – Quente/Frio, Colorida p/ Academia e Escola",
     "description": "🔥 72% OFF — Oferta encontrada! 📌 Watersy Garrafa Térmica 500ml Inox 304 c/ Tampa Copo – Quente/Frio, Colorida p/ Academia e Escola Confira os detalhes e...",
     "marketplace": "Shopee",
-    "category": "Esportes e Lazer",
+    "category": "Casa e Cozinha",
     "old_price": "R$ 110,68",
     "price": "R$ 30,99",
     "discount_percent": 72.0,
@@ -3756,7 +3872,8 @@
     "niche": {
       "key": "shopee_esportes_lazer",
       "name": "Esportes e Lazer"
-    }
+    },
+    "_category_fixed": true
   },
   {
     "id": "8a9d494025c3a4306c",
@@ -3764,7 +3881,7 @@
     "raw_title": "Blusa Regata Feminina Halter Efeito Silicone Modeladora Frente Unica Casual Verão Tendencia",
     "description": "🔥 65% OFF — Oferta encontrada! 📌 Blusa Regata Feminina Halter Efeito Silicone Modeladora Frente Unica Casual Verão Tendencia Confira os detalhes e aprov...",
     "marketplace": "Shopee",
-    "category": "Roupas Femininas",
+    "category": "Moda Feminina",
     "old_price": "R$ 99,43",
     "price": "R$ 34,80",
     "discount_percent": 65.0,
@@ -3778,7 +3895,8 @@
       "key": "shopee_esportes_lazer",
       "name": "Esportes e Lazer"
     },
-    "original_category": "Esportes e Lazer"
+    "original_category": "Esportes e Lazer",
+    "_category_fixed": true
   },
   {
     "id": "43310aaa12611d3044",
@@ -3854,7 +3972,7 @@
     "store": "Amazon",
     "title": "MamyPoko Lenços Umedecidos Dia&Noite 200 Unidades",
     "description": "Oferta Amazon selecionada manualmente. Preço conferido no momento da publicação.",
-    "category": "Outros",
+    "category": "Mãe e Bebê",
     "price": 22.9,
     "current_price": 22.9,
     "sale_price": 22.9,
@@ -3874,7 +3992,8 @@
     "collected_at": "2026-07-25T22:38:18.147407+00:00",
     "expires_at": "2026-07-26T22:38:18.147407+00:00",
     "valid_hours": 24,
-    "disclaimer": "Preço conferido no momento da publicação e pode mudar a qualquer momento."
+    "disclaimer": "Preço conferido no momento da publicação e pode mudar a qualquer momento.",
+    "_category_fixed": true
   },
   {
     "id": "manual-amazon-00e8318fd120ee76",
@@ -3947,7 +4066,7 @@
     "store": "Amazon",
     "title": "Calça Legging Lupo Fitness Feminina Esportiva Em Poliamida Texturizada a Ar Sem Costura",
     "description": "Oferta Amazon selecionada manualmente. Preço conferido no momento da publicação.",
-    "category": "Outros",
+    "category": "Moda Feminina",
     "price": 141.63,
     "current_price": 141.63,
     "sale_price": 141.63,
@@ -3967,7 +4086,8 @@
     "collected_at": "2026-07-25T21:23:48.358195+00:00",
     "expires_at": "2026-07-26T21:23:48.358195+00:00",
     "valid_hours": 24,
-    "disclaimer": "Preço conferido no momento da publicação e pode mudar a qualquer momento."
+    "disclaimer": "Preço conferido no momento da publicação e pode mudar a qualquer momento.",
+    "_category_fixed": true
   },
   {
     "id": "manual-amazon-9bd53d7a39479a9f",

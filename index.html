@@ -818,54 +818,89 @@
     }
 
     function canonicalCategory(offer) {
-      const original = String(offer.category || "Outros").trim();
+      const raw = String(offer.category || "").trim();
 
       const text = normalize([
-        offer.category,
-        offer.original_category,
-        offer.niche && offer.niche.name,
         offer.title,
         offer.raw_title,
-        offer.description
+        offer.name,
+        offer.description,
+        offer.category,
+        offer.marketplace
       ].join(" "));
 
-      function has(terms) {
-        return terms.some(term => text.includes(normalize(term)));
-      }
+      const has = (words) => words.some(word => text.includes(normalize(word)));
 
-      if (has(["sapatos", "sapatos femininos", "sapatos masculinos", "tenis", "tênis", "sapato", "sandalia", "sandália", "bota", "chinelo", "sneaker", "sneakers", "clogs", "babuche", "rasteirinha", "sapatilha", "coturno", "mocassim", "calçado", "calcado", "tenis infantil", "tênis infantil", "sandalia infantil", "sandália infantil"])) return "Sapatos";
-      if (has(["moda infantil", "baby clothing sets", "roupa infantil", "conjunto infantil", "moletom infantil", "infantil menino", "infantil menina", "criança", "crianca"])) return "Moda infantil";
-      if (has(["plus size"])) return "Roupas Plus Size";
-      if (has(["roupas femininas", "moda feminina", "vestido", "blusa feminina", "cropped", "legging feminina", "saia feminina", "conjunto feminino", "regata feminina", "feminina", "feminino", "mulher", "women", "female"])) return "Roupas Femininas";
-      if (has(["roupas masculinas", "moda masculina", "camiseta masculina", "camisa masculina", "cueca", "bermuda masculina", "calca jeans masculina", "calça jeans masculina", "moletom masculino", "masculina", "masculino", "homem", "men shirt", "male"])) return "Roupas Masculinas";
-      if (has(["bolsas femininas", "bolsas masculinas", "bolsa", "handbag", "handbags", "mochila", "bag", "pochete", "carteira", "necessaire", "mala viagem", "kit organizador de malas", "saco a vacuo", "saco a vácuo"])) return "Bolsas";
+      if (has(["mochila", "bolsa", "mala", "necessaire", "pochete", "carteira feminina", "carteira masculina", "backpack", "maleta", "kit organizador de malas", "saco a vacuo", "saco organizador"])) return "Bolsas";
 
-      if (has(["livro", "book", "caderno", "papelaria", "drafting", "stationery", "pencil", "pencils", "lapis", "lápis", "caneta", "marcador", "marca texto", "sketch", "sketching", "desenho", "pintura", "canvas", "wooden frames", "kit pintura", "caran d ache", "base de corte", "planner"])) return "Papelaria";
-      if (has(["brinquedo", "toy", "toys", "toy robots", "puzzles", "puzzle", "lego", "boneca", "carrinho controle remoto", "kick scooters", "scooter", "patinete", "montessori", "labirinto magnetico", "jogo da forca", "brinquedo educativo", "massinha", "doll clothes kits", "carrinho blocos"])) return "Brinquedos e Hobbies";
+      if (has(["tenis", "tênis", "sapatennis", "sapatênis", "sapato", "sandalia", "sandália", "chinelo", "bota", "sneaker", "slip on", "calcado", "calçado", "rasteirinha", "scarpin", "coturno"])) return "Calçados";
 
-      if (has(["panela de pressao", "panela de pressão", "air fryer", "fritadeira", "panela eletrica", "panela elétrica", "cafeteira", "liquidificador", "cookware", "stovetop popcorn", "jogo de panelas", "dining kits"])) return "Casa e Cozinha";
-      if (has(["aspirador", "purificador agua", "purificador água", "ventilador", "microondas", "air purifiers", "umidificador", "batedeira", "sanduicheira", "ferro de passar"])) return "Eletrodomésticos";
-      if (has(["lavadora alta pressao", "esmerilhadeira", "furadeira", "parafusadeira", "serra circular", "chave impacto", "ferramenta", "tools", "drill", "screwdriver", "multimeter", "laser level"])) return "Ferramentas";
+      if (has(["fralda", "pampers", "huggies", "mamypoko", "mamy poko", "mamy-poko", "lenco umedecido", "lenço umedecido", "bebe", "bebê", "baby", "mamadeira", "chupeta", "carrinho de bebe", "carrinho de bebê", "cadeirinha", "berco", "berço"])) return "Mãe e Bebê";
 
-      if (has(["baba eletronica", "baby monitor", "monitor bebe", "mãe e bebê", "mae e bebe", "mamadeira", "chupeta", "carrinho bebe", "bebe conforto", "banheira bebe", "baby bathtubs", "baby strollers", "baby high chairs", "baby pacifier clips", "mochila maternidade", "cadeira alimentacao", "diaper bag", "maternity bag"])) return "Mãe e Bebê";
-      if (has(["monitor pressao", "pressao arterial", "blood pressure", "blood glucose", "medidor glicose", "oximetro", "termometro", "glicose", "wheelchair", "cadeira de rodas", "inalador", "nebulizador", "omron"])) return "Saúde";
+      if (has(["smartphone", "celular", "iphone", "galaxy", "xiaomi", "redmi", "poco", "motorola", "samsung s", "android", "5g", "phone", "carregador celular", "capa celular", "capinha", "pelicula", "película", "power bank"])) return "Celulares";
 
-      if (has(["supermercado", "bebidas e alimentos", "bar soaps", "fabric softeners", "laundry detergents", "rice", "fralda", "lenco umedecido", "sabonete", "detergente", "amaciante", "papel higienico", "lava roupas", "desinfetante", "absorvente", "creme dental", "saco lixo", "papel toalha", "shampoo infantil"])) return "Supermercados";
-      if (has(["cat and dog foods", "pet collars", "gato", "cachorro", "racao", "ração", "coleira", "arranhador", "bebedouro pet"]) || text.includes(" pet ")) return "Pet";
+      if (has(["notebook", "laptop", "macbook", "chromebook", "computador", "pc gamer", "monitor", "monitor gamer", "ssd", "hd externo", "memoria ram", "memória ram", "placa mae", "placa mãe", "placa de video", "placa de vídeo", "processador", "ryzen", "intel core", "geforce", "rtx", "gtx", "teclado", "mouse", "webcam", "roteador", "router", "impressora", "cartucho", "toner", "hub usb", "pendrive", "tablet grafico", "tablet gráfico", "mesa digitalizadora", "fonte notebook", "computadores e acessorios", "computadores e acessórios", "informatica", "informática"])) return "Informática";
 
-      if (has(["notebook", "printer", "impressora", "ribbon", "monitor gamer", "ssd", "teclado", "mouse", "roteador", "router", "webcam", "hub usb", "mini pc", "computadores e acessórios", "computadores e acessorios", "informatica", "informática", "filing cabinets"])) return "Informática";
-      if (has(["xbox", "playstation", "ps5", "nintendo", "console", "gamepad", "joystick", "arcade", "headset gamer", "video game", "jogos e consoles"])) return "Jogos e Consoles";
-      if (has(["soundbar", "caixa de som", "bluetooth speaker", "security camera", "camera seguranca", "projetor", "projector", "fone bluetooth", "wireless earphones", "microfone", "tv box", "smart plug", "led strip", "action camera", "eletronicos", "eletrônicos", "eletrã"])) return "Eletrônicos";
-      if (has(["smartphone", "celular", "iphone", "redmi", "galaxy", "xiaomi", "phone charger", "usb c", "power bank", "cell batteries", "data cables", "celulares e dispositivos"])) return "Celulares";
+      if (has(["playstation", "ps5", "ps4", "xbox", "nintendo", "switch", "console", "controle gamer", "joystick", "gamepad", "jogo ps5", "jogo xbox", "video game", "videogame", "games", "jogos e consoles"])) return "Games";
 
-      if (has(["fitness", "gym", "esporte", "whey", "bike", "bicicleta", "yoga", "bola futebol", "treadmill", "stationary bicycles", "football balls", "treadmills"])) return "Esportes e Lazer";
-      if (has(["beauty", "makeup", "skin care", "razor", "shaving", "hair", "barbeador", "secador", "chapinha", "escova secadora", "perfume", "body splash", "beleza"])) return "Beleza";
-      if (has(["casa decoracao", "decoracao", "moveis", "office chairs", "cadeira escritorio", "cadeira gamer", "mesa gamer", "rack", "painel tv", "tapete"])) return "Casa e Decoração";
-      if (has(["clothing lots", "clothing", "moda", "roupa", "clothes"])) return "Moda";
+      if (has(["monitor de pressao", "monitor de pressão", "pressao arterial", "pressão arterial", "oximetro", "oxímetro", "termometro", "termômetro", "glicose", "medidor de glicose", "nebulizador", "inalador", "balanca digital", "balança digital", "massageador", "saude", "saúde"])) return "Saúde";
 
-      return original || "Outros";
+      if (has(["barbeador", "aparador", "lamina aparador", "lâmina aparador", "perfume", "body splash", "hidratante", "shampoo", "condicionador", "protetor solar", "maquiagem", "batom", "base facial", "secador", "chapinha", "escova secadora", "alisadora", "creme", "skin care", "beleza", "beauty", "hair"])) return "Beleza";
+
+      if (has(["air fryer", "panela", "frigideira", "cafeteira", "liquidificador", "batedeira", "mixer", "microondas", "micro ondas", "micro-ondas", "garrafa", "copo", "xícara", "xicara", "jogo de cama", "toalha", "tapete", "luminaria", "luminária", "lampada", "lâmpada", "organizador", "cesto", "fruteira", "porta tempero", "pote hermetico", "pote hermético", "utensilio", "utensílio", "cozinha", "casa e cozinha", "cadeira escritorio", "cadeira escritório", "cadeira gamer", "rack", "painel tv", "mesa computador", "escrivaninha", "mesa gamer"])) return "Casa e Cozinha";
+
+      if (has(["geladeira", "fogao", "fogão", "cooktop", "lavadora", "maquina de lavar", "máquina de lavar", "ar condicionado", "ventilador", "purificador de ar", "aspirador de po", "aspirador de pó", "eletrodomestico", "eletrodoméstico", "eletrodomésticos"])) return "Eletrodomésticos";
+
+      if (has(["racao", "ração", "cachorro", "gato", "pet", "areia higienica", "areia higiênica", "coleira", "arranhador", "bebedouro pet", "comedouro", "brinquedo pet"])) return "Pet";
+
+      if (has(["papel higienico", "papel higiênico", "detergente", "amaciante", "sabao em po", "sabão em pó", "sabonete", "creme dental", "desinfetante", "saco de lixo", "papel toalha", "arroz", "feijao", "feijão", "azeite", "oleo de soja", "óleo de soja", "supermercado", "limpeza", "lava roupas"])) return "Supermercados";
+
+      if (has(["vestido", "blusa feminina", "cropped", "saia", "legging", "calca legging", "calça legging", "moda feminina", "roupas femininas", "top feminino", "conjunto feminino", "lupo fitness feminina", "feminina esportiva"])) return "Moda Feminina";
+
+      if (has(["camiseta masculina", "camisa masculina", "calca masculina", "calça masculina", "bermuda masculina", "cueca", "moda masculina", "roupas masculinas", "masculino"])) return "Moda Masculina";
+
+      if (has(["plus size", "moda plus size", "roupas plus size"])) return "Moda Plus Size";
+
+      if (has(["infantil", "menino", "menina", "criança", "crianca", "kids", "moda infantil", "roupa infantil"])) return "Moda Infantil";
+
+      if (has(["halter", "halteres", "academia", "fitness", "bike spinning", "bicicleta", "bola futebol", "bola de futebol", "yoga", "whey", "esteira", "luva academia", "esporte", "esportes", "corrida"])) return "Esportes";
+
+      if (has(["hot wheels", "lego", "boneca", "boneco", "brinquedo", "jogo da forca", "quebra cabeca", "quebra-cabeça", "quebra cabeça", "carrinho brinquedo", "brinquedos e hobbies", "toys"])) return "Brinquedos e Hobbies";
+
+      if (has(["caneta", "lapis", "lápis", "caderno", "agenda", "marca texto", "marcador", "papel sulfite", "estojo escolar", "maleta pintura", "kit pintura", "material escolar", "papelaria"])) return "Papelaria";
+
+      if (has(["furadeira", "parafusadeira", "chave de fenda", "martelo", "serra", "trena", "alicate", "kit ferramentas", "ferramenta", "ferramentas"])) return "Ferramentas";
+
+      const aliases = {
+        "Eletronicos": "Eletrônicos",
+        "Informatica": "Informática",
+        "Jogos e Consoles": "Games",
+        "Eletrodomesticos": "Eletrodomésticos",
+        "Roupas Femininas": "Moda Feminina",
+        "Roupas Masculinas": "Moda Masculina",
+        "Roupas Plus Size": "Moda Plus Size",
+        "Moda infantil": "Moda Infantil",
+        "Sapatos": "Calçados",
+        "Esportes e Lazer": "Esportes",
+        "Mae e Bebe": "Mãe e Bebê",
+        "Saude": "Saúde"
+      };
+
+      const allowed = [
+        "Supermercados", "Celulares", "Eletrônicos", "Informática", "Games",
+        "Casa e Cozinha", "Eletrodomésticos", "Moda Feminina", "Moda Masculina",
+        "Moda Plus Size", "Moda Infantil", "Calçados", "Bolsas", "Beleza",
+        "Esportes", "Mãe e Bebê", "Pet", "Saúde", "Papelaria", "Ferramentas",
+        "Brinquedos e Hobbies"
+      ];
+
+      if (aliases[raw]) return aliases[raw];
+      if (allowed.includes(raw)) return raw;
+
+      return "Outros";
     }
 
+    
     function firstValue(...values) {
       for (const value of values) {
         if (value === undefined || value === null) continue;
@@ -1043,7 +1078,7 @@
     function offerMatchesCategory(offer, category) {
       if (category === "todos") return true;
 
-      const canonical = offer._category || canonicalCategory(offer);
+      const canonical = canonicalCategory(offer);
       const def = CATEGORY_DEFS.find(c => c.category === category);
 
       if (canonical === category) return true;
@@ -1239,7 +1274,7 @@
         const title = escapeHtml(offer.title || "Oferta encontrada");
         const description = escapeHtml(offer.description || "Confira essa oferta selecionada para você.");
         const marketplace = escapeHtml(marketplaceLabel(offer.marketplace));
-        const category = escapeHtml(offer._category || canonicalCategory(offer));
+        const category = escapeHtml(canonicalCategory(offer));
         const oldPrice = escapeHtml(offerOldPrice(offer));
         const price = escapeHtml(offerPrice(offer));
         const discount = offer.discount_percent ? `${Number(offer.discount_percent).toFixed(0)}% OFF` : "Oferta";

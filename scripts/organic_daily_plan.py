@@ -424,7 +424,7 @@ def write_telegram_digest(offers):
     lines.append("Aviso: podemos receber comissão por compras feitas pelos links.")
 
     out = OUTPUT_DIR / "telegram_digest.txt"
-    out.write_text("\\n".join(lines).strip() + "\\n", encoding="utf-8", newline="\\n")
+    out.write_text("\n".join(lines).strip() + "\n", encoding="utf-8")
 
     print(f"OK: {out}")
 
@@ -471,7 +471,7 @@ def write_daily_plan(offers, counts):
     lines.append("4. Priorizar categorias com maior intenção de compra: Bebê, Casa, Supermercado, Beleza, Celulares e Pet.")
 
     out = OUTPUT_DIR / "daily_growth_plan.md"
-    out.write_text("\\n".join(lines).strip() + "\\n", encoding="utf-8", newline="\\n")
+    out.write_text("\n".join(lines).strip() + "\n", encoding="utf-8")
 
     print(f"OK: {out}")
 

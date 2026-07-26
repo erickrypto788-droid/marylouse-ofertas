@@ -1,70 +1,70 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 26/07/2026 22:07
+Gerado em: 26/07/2026 23:05
 
 ## Categorias prioritárias
 
-- 🍼 **Mãe e Bebê**: 21 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 🍼 **Mãe e Bebê**: 19 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 👜 **Bolsas**: 17 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 - 💻 **Informática**: 16 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - ❤️ **Saúde**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 📦 **Outros**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
-- 🧸 **Brinquedos**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
+- 📱 **Celulares**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 👟 **Calçados**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 📱 **Celulares**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
-- 🍳 **Casa e Cozinha**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 💄 **Beleza**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 🏋️ **Esportes**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
+- 🧸 **Brinquedos**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 
 ## Top ofertas para destacar
 
-1. **Mochila Unissex Grande Impermeável para Notebook**
+1. **Celular 5G 16GB/512GB Android 15**
+   - Categoria: Celulares
+   - Loja: Mercado Livre
+   - Preço: R$ 1.680,00
+   - Desconto: 58% OFF
+   - Link: https://www.mercadolivre.com.br/p/MLB75208845?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+2. **Mochila Unissex Grande Impermeável para Notebook**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 69,90
    - Desconto: 65% OFF
    - Link: https://s.shopee.com.br/50XmNcikxH
 
-2. **Chapinha Cabelo Profissional Prancha Alisadora De Cabelo chapinha Par…**
+3. **Chapinha Cabelo Profissional Prancha Alisadora De Cabelo chapinha Par…**
    - Categoria: Beleza
    - Loja: Mercado Livre
    - Preço: R$ 58,00
    - Desconto: 50% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB74602351?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-3. **Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler…**
+4. **Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler…**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 37,62
    - Desconto: 62% OFF
    - Link: https://s.shopee.com.br/9zwQXYSEHD
 
-4. **Perfume Attracione Feminino by Attracione Woman Mulher**
+5. **Perfume Attracione Feminino by Attracione Woman Mulher**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 49,00
    - Desconto: 71% OFF
    - Link: https://s.shopee.com.br/qiBcidcjH
 
-5. **CELULAR XIAOMI POCO X8 PRO MAX 512GB / 256GB 5G 12RAM NFC VERSÃO GLOB…**
+6. **CELULAR XIAOMI POCO X8 PRO MAX 512GB / 256GB 5G 12RAM NFC VERSÃO GLOB…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 3.359,00
    - Desconto: 51% OFF
    - Link: https://s.shopee.com.br/9fJbGzdIuJ
 
-6. **BML Smartphone 12GB+512GB ram AI Global 5G Dual Sim Android 15, 6.56'…**
+7. **BML Smartphone 12GB+512GB ram AI Global 5G Dual Sim Android 15, 6.56'…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 1.299,00
    - Desconto: 68% OFF
    - Link: https://s.shopee.com.br/1Vxp5vVRGU
-
-7. **Celular 5G de Alta Performance**
-   - Categoria: Celulares
-   - Loja: Mercado Livre
-   - Preço: R$ 1.680,00
-   - Desconto: 58% OFF
-   - Link: https://www.mercadolivre.com.br/p/MLB75208845?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 8. **mochila grande unissex impermeável notebook alta capacidade resistent…**
    - Categoria: Informática

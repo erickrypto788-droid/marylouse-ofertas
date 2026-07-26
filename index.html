@@ -749,24 +749,30 @@
   <script>
     const CATEGORY_DEFS = [
       { label: "Todos", category: "todos", icon: "✨", aliases: [] },
+
       { label: "Supermercados", category: "Supermercados", icon: "🛒", aliases: ["Bebidas e Alimentos", "Laundry Detergents", "Rice"] },
       { label: "Celulares", category: "Celulares", icon: "📱", aliases: ["Celulares e Dispositivos"] },
-      { label: "Eletrônicos", category: "Eletrônicos", icon: "🎧", aliases: ["EletrÃ´nicos"] },
-      { label: "Informática", category: "Informática", icon: "💻", aliases: ["Computadores e Acessórios", "Filing Cabinets"] },
-      { label: "Games", category: "Jogos e Consoles", icon: "🎮", aliases: ["Games"] },
-      { label: "Casa e Cozinha", category: "Casa e Cozinha", icon: "🍳", aliases: ["Dining Kits"] },
-      { label: "Eletrodomésticos", category: "Eletrodomésticos", icon: "🔌", aliases: [] },
-      { label: "Moda Feminina", category: "Roupas Femininas", icon: "👗", aliases: [] },
-      { label: "Moda Masculina", category: "Roupas Masculinas", icon: "👕", aliases: [] },
-      { label: "Moda Plus Size", category: "Roupas Plus Size", icon: "✨", aliases: [] },
-      { label: "Moda Infantil", category: "Moda infantil", icon: "🧒", aliases: [] },
-      { label: "Calçados", category: "Sapatos", icon: "👟", aliases: ["Sapatos Femininos", "Sapatos Masculinos", "Sneakers", "Sandals And Clogs"] },
+      { label: "Eletrônicos", category: "Eletrônicos", icon: "🎧", aliases: ["Eletronicos", "EletrÃ´nicos"] },
+      { label: "Informática", category: "Informática", icon: "💻", aliases: ["Informatica", "Computadores e Acessórios", "Computadores e Acessorios", "Filing Cabinets"] },
+      { label: "Games", category: "Games", icon: "🎮", aliases: ["Jogos e Consoles"] },
+
+      { label: "Casa e Cozinha", category: "Casa e Cozinha", icon: "🍳", aliases: ["Casa e Decoração", "Dining Kits"] },
+      { label: "Eletrodomésticos", category: "Eletrodomésticos", icon: "🔌", aliases: ["Eletrodomesticos"] },
+
+      { label: "Moda Feminina", category: "Moda Feminina", icon: "👗", aliases: ["Roupas Femininas"] },
+      { label: "Moda Masculina", category: "Moda Masculina", icon: "👕", aliases: ["Roupas Masculinas"] },
+      { label: "Moda Plus Size", category: "Moda Plus Size", icon: "✨", aliases: ["Roupas Plus Size"] },
+      { label: "Moda Infantil", category: "Moda Infantil", icon: "🧒", aliases: ["Moda infantil"] },
+      { label: "Calçados", category: "Calçados", icon: "👟", aliases: ["Sapatos", "Sapatos Femininos", "Sapatos Masculinos", "Sneakers", "Sandals And Clogs"] },
+
       { label: "Bolsas", category: "Bolsas", icon: "👜", aliases: ["Bolsas Femininas", "Bolsas Masculinas", "Handbags"] },
       { label: "Beleza", category: "Beleza", icon: "💄", aliases: [] },
-      { label: "Esportes", category: "Esportes e Lazer", icon: "🏋️", aliases: ["Stationary Bicycles", "Football Balls", "Treadmills"] },
-      { label: "Mãe e Bebê", category: "Mãe e Bebê", icon: "🍼", aliases: [] },
+      { label: "Esportes", category: "Esportes", icon: "🏋️", aliases: ["Esportes e Lazer", "Stationary Bicycles", "Football Balls", "Treadmills"] },
+      { label: "Brinquedos", category: "Brinquedos e Hobbies", icon: "🧸", aliases: ["Brinquedos e Hobbies", "Toys", "Toys & Games"] },
+
+      { label: "Mãe e Bebê", category: "Mãe e Bebê", icon: "🍼", aliases: ["Mae e Bebe"] },
       { label: "Pet", category: "Pet", icon: "🐶", aliases: [] },
-      { label: "Saúde", category: "Saúde", icon: "❤️", aliases: [] },
+      { label: "Saúde", category: "Saúde", icon: "❤️", aliases: ["Saude"] },
       { label: "Papelaria", category: "Papelaria", icon: "📚", aliases: [] },
       { label: "Ferramentas", category: "Ferramentas", icon: "🧰", aliases: [] },
       { label: "Outros", category: "Outros", icon: "📦", aliases: [] }
@@ -1153,7 +1159,6 @@
       });
 
       container.innerHTML = CATEGORY_DEFS
-        .filter(def => def.category === "todos" || counts[def.category] > 0)
         .map(def => {
           const count = def.category === "todos" ? allOffers.length : counts[def.category];
 

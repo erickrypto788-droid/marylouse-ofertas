@@ -140,6 +140,50 @@
       border: 1px solid var(--border);
     }
 
+    .filters {
+      margin: 0 0 22px;
+      padding: 22px;
+      background: rgba(255,255,255,.9);
+      border: 1px solid var(--border);
+      border-radius: 28px;
+      box-shadow: 0 12px 26px rgba(126, 34, 80, .08);
+    }
+
+    .filters h2 {
+      margin: 0 0 12px;
+      font-size: 24px;
+    }
+
+    .filter-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+
+    .filter-btn {
+      border: 1px solid var(--border);
+      background: #fff;
+      color: var(--muted);
+      border-radius: 999px;
+      padding: 11px 15px;
+      font-weight: 950;
+      cursor: pointer;
+      font-size: 15px;
+    }
+
+    .filter-btn.active {
+      background: var(--pink);
+      color: #fff;
+      border-color: var(--pink);
+      box-shadow: 0 10px 20px rgba(239, 36, 115, .18);
+    }
+
+    .result-note {
+      margin-top: 12px;
+      color: var(--muted);
+      font-weight: 800;
+    }
+
     .grid {
       display: grid;
       grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -191,6 +235,14 @@
 
     .body {
       padding: 17px;
+    }
+
+    .cat {
+      color: var(--pink);
+      font-size: 13px;
+      font-weight: 950;
+      text-transform: uppercase;
+      margin-bottom: 8px;
     }
 
     .card h2 {
@@ -279,8 +331,8 @@
       </a>
 
       <nav class="nav">
-        <a href="./index.html#ofertas">🔥 Ofertas</a>
-        <a href="./index.html#categorias">🧭 Categorias</a>
+        <a href="./index.html#marketplaces">🛍️ Marketplaces</a>
+        <a href="./cupons-shopee.html">🎟️ Cupons</a>
         <a href="./feed.html">📡 Feed</a>
         <a href="https://t.me/dmaispromo" target="_blank" rel="noopener">📲 Telegram</a>
       </nav>
@@ -295,13 +347,26 @@
 
       <div class="actions">
         <a class="btn" href="#ofertas">Ver ofertas</a>
-        <a class="btn secondary" href="./index.html#categorias">Ver categorias</a>
+        <a class="btn secondary" href="./index.html#marketplaces">Voltar para marketplaces</a>
       </div>
+    </section>
+
+    <section class="filters">
+      <h2>Filtrar por categoria</h2>
+      <div class="filter-list">
+        <button class="filter-btn active" type="button" data-category="Todos">✨ Todos <small>(7)</small></button>
+<button class="filter-btn" type="button" data-category="Celulares">Celulares <small>(2)</small></button>
+<button class="filter-btn" type="button" data-category="Informática">Informática <small>(1)</small></button>
+<button class="filter-btn" type="button" data-category="Esportes">Esportes <small>(1)</small></button>
+<button class="filter-btn" type="button" data-category="Mãe e Bebê">Mãe e Bebê <small>(2)</small></button>
+<button class="filter-btn" type="button" data-category="Outros">Outros <small>(1)</small></button>
+      </div>
+      <div class="result-note" id="resultNote">Exibindo todas as ofertas.</div>
     </section>
 
     <section id="ofertas" class="grid">
       
-    <article class="card">
+    <article class="card" data-category="Celulares">
       <a class="image" href="https://link.amazon/B00ufZ7Cn" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://m.media-amazon.com/images/I/61ctYsUobKL._AC_SL1500_.jpg" alt="Apple iPhone 16 (256 GB) – Branco" loading="lazy"/>
         <span class="badge">Oferta</span>
@@ -309,6 +374,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Celulares</div>
         <h2>Apple iPhone 16 (256 GB) – Branco</h2>
         <div class="pricebox">
           <div class="old">Oferta por tempo limitado</div>
@@ -322,7 +388,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Mãe e Bebê">
       <a class="image" href="https://link.amazon/B01DPTJOi" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://m.media-amazon.com/images/I/81LbIKRgAqL._AC_SL1500_.jpg" alt="MamyPoko Lenços Umedecidos Dia&amp;Noite 200 Unidades" loading="lazy"/>
         <span class="badge">Oferta</span>
@@ -330,6 +396,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Mãe e Bebê</div>
         <h2>MamyPoko Lenços Umedecidos Dia&amp;Noite 200 Unidades</h2>
         <div class="pricebox">
           <div class="old">Oferta por tempo limitado</div>
@@ -343,7 +410,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Informática">
       <a class="image" href="https://link.amazon/B06GgZNKC" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://m.media-amazon.com/images/I/81e77LWZn8L._AC_SX522_.jpg" alt="Notebook Gamer ASUS TUF Gaming A15, RTX3050 AMD RYZEN 7, 16 GB, 512 GB SSD, W11 Home, 15.6&#x27;&#x27; IPS 144Hz, Graphite Black - FA506NCG-HN217W" loading="lazy"/>
         <span class="badge">Oferta</span>
@@ -351,6 +418,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Informática</div>
         <h2>Notebook Gamer ASUS TUF Gaming A15, RTX3050 AMD RYZEN 7, 16 GB, 512 GB SSD, W11 Home, 15.…</h2>
         <div class="pricebox">
           <div class="old">Oferta por tempo limitado</div>
@@ -364,7 +432,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Celulares">
       <a class="image" href="https://link.amazon/B03zPxCPX" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://m.media-amazon.com/images/I/81dBp8x7IqL._AC_SL1500_.jpg" alt="Smartphone Xiaomi Poco X7 5G NFC Black (Preto) 12GB RAM 512GB ROM" loading="lazy"/>
         <span class="badge">Oferta</span>
@@ -372,6 +440,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Celulares</div>
         <h2>Smartphone Xiaomi Poco X7 5G NFC Black (Preto) 12GB RAM 512GB ROM</h2>
         <div class="pricebox">
           <div class="old">Oferta por tempo limitado</div>
@@ -385,7 +454,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Esportes">
       <a class="image" href="https://link.amazon/B0cpdrQDY" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://m.media-amazon.com/images/I/61-hQbBX-nL._AC_SX385_.jpg" alt="Calça Legging Lupo Fitness Feminina Esportiva Em Poliamida Texturizada a Ar Sem Costura" loading="lazy"/>
         <span class="badge">Oferta</span>
@@ -393,6 +462,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Esportes</div>
         <h2>Calça Legging Lupo Fitness Feminina Esportiva Em Poliamida Texturizada a Ar Sem Costura</h2>
         <div class="pricebox">
           <div class="old">Oferta por tempo limitado</div>
@@ -406,7 +476,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Mãe e Bebê">
       <a class="image" href="https://link.amazon/B0arbryw9" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://m.media-amazon.com/images/I/61mqXz0vdmL._AC_SL1200_.jpg" alt="&quot;Fralda Pampers Pants Ajuste Total Tamanho M, Fácil de Vestir, 84 Unidades&quot;" loading="lazy"/>
         <span class="badge">Oferta</span>
@@ -414,6 +484,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Mãe e Bebê</div>
         <h2>&quot;Fralda Pampers Pants Ajuste Total Tamanho M, Fácil de Vestir, 84 Unidades&quot;</h2>
         <div class="pricebox">
           <div class="old">Oferta por tempo limitado</div>
@@ -427,7 +498,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Outros">
       <a class="image" href="https://amzn.to/seulink" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://m.media-amazon.com/images/I/EXEMPLO.jpg" alt="Produto exemplo Amazon" loading="lazy"/>
         <span class="badge">Oferta</span>
@@ -435,6 +506,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Outros</div>
         <h2>Produto exemplo Amazon</h2>
         <div class="pricebox">
           <div class="old">Oferta por tempo limitado</div>
@@ -449,5 +521,44 @@
     
     </section>
   </main>
+
+  <script>
+    (function () {
+      const buttons = Array.from(document.querySelectorAll(".filter-btn"));
+      const cards = Array.from(document.querySelectorAll(".card"));
+      const note = document.getElementById("resultNote");
+
+      function applyFilter(category) {
+        let visible = 0;
+
+        cards.forEach(function (card) {
+          const cardCategory = card.getAttribute("data-category") || "Outros";
+          const show = category === "Todos" || cardCategory === category;
+
+          card.style.display = show ? "" : "none";
+
+          if (show) visible++;
+        });
+
+        buttons.forEach(function (btn) {
+          btn.classList.toggle("active", btn.getAttribute("data-category") === category);
+        });
+
+        if (note) {
+          if (category === "Todos") {
+            note.textContent = "Exibindo todas as ofertas.";
+          } else {
+            note.textContent = "Exibindo " + visible + " oferta(s) em " + category + ".";
+          }
+        }
+      }
+
+      buttons.forEach(function (btn) {
+        btn.addEventListener("click", function () {
+          applyFilter(btn.getAttribute("data-category") || "Todos");
+        });
+      });
+    })();
+  </script>
 </body>
 </html>

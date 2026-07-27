@@ -140,6 +140,50 @@
       border: 1px solid var(--border);
     }
 
+    .filters {
+      margin: 0 0 22px;
+      padding: 22px;
+      background: rgba(255,255,255,.9);
+      border: 1px solid var(--border);
+      border-radius: 28px;
+      box-shadow: 0 12px 26px rgba(126, 34, 80, .08);
+    }
+
+    .filters h2 {
+      margin: 0 0 12px;
+      font-size: 24px;
+    }
+
+    .filter-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+
+    .filter-btn {
+      border: 1px solid var(--border);
+      background: #fff;
+      color: var(--muted);
+      border-radius: 999px;
+      padding: 11px 15px;
+      font-weight: 950;
+      cursor: pointer;
+      font-size: 15px;
+    }
+
+    .filter-btn.active {
+      background: var(--pink);
+      color: #fff;
+      border-color: var(--pink);
+      box-shadow: 0 10px 20px rgba(239, 36, 115, .18);
+    }
+
+    .result-note {
+      margin-top: 12px;
+      color: var(--muted);
+      font-weight: 800;
+    }
+
     .grid {
       display: grid;
       grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -191,6 +235,14 @@
 
     .body {
       padding: 17px;
+    }
+
+    .cat {
+      color: var(--pink);
+      font-size: 13px;
+      font-weight: 950;
+      text-transform: uppercase;
+      margin-bottom: 8px;
     }
 
     .card h2 {
@@ -279,8 +331,8 @@
       </a>
 
       <nav class="nav">
-        <a href="./index.html#ofertas">🔥 Ofertas</a>
-        <a href="./index.html#categorias">🧭 Categorias</a>
+        <a href="./index.html#marketplaces">🛍️ Marketplaces</a>
+        <a href="./cupons-shopee.html">🎟️ Cupons</a>
         <a href="./feed.html">📡 Feed</a>
         <a href="https://t.me/dmaispromo" target="_blank" rel="noopener">📲 Telegram</a>
       </nav>
@@ -295,13 +347,35 @@
 
       <div class="actions">
         <a class="btn" href="#ofertas">Ver ofertas</a>
-        <a class="btn secondary" href="./index.html#categorias">Ver categorias</a>
+        <a class="btn secondary" href="./index.html#marketplaces">Voltar para marketplaces</a>
       </div>
+    </section>
+
+    <section class="filters">
+      <h2>Filtrar por categoria</h2>
+      <div class="filter-list">
+        <button class="filter-btn active" type="button" data-category="Todos">✨ Todos <small>(60)</small></button>
+<button class="filter-btn" type="button" data-category="Supermercados">Supermercados <small>(2)</small></button>
+<button class="filter-btn" type="button" data-category="Celulares">Celulares <small>(3)</small></button>
+<button class="filter-btn" type="button" data-category="Informática">Informática <small>(6)</small></button>
+<button class="filter-btn" type="button" data-category="Games">Games <small>(5)</small></button>
+<button class="filter-btn" type="button" data-category="Casa e Cozinha">Casa e Cozinha <small>(6)</small></button>
+<button class="filter-btn" type="button" data-category="Calçados">Calçados <small>(1)</small></button>
+<button class="filter-btn" type="button" data-category="Bolsas">Bolsas <small>(1)</small></button>
+<button class="filter-btn" type="button" data-category="Beleza">Beleza <small>(3)</small></button>
+<button class="filter-btn" type="button" data-category="Esportes">Esportes <small>(6)</small></button>
+<button class="filter-btn" type="button" data-category="Mãe e Bebê">Mãe e Bebê <small>(6)</small></button>
+<button class="filter-btn" type="button" data-category="Pet">Pet <small>(5)</small></button>
+<button class="filter-btn" type="button" data-category="Saúde">Saúde <small>(3)</small></button>
+<button class="filter-btn" type="button" data-category="Papelaria">Papelaria <small>(5)</small></button>
+<button class="filter-btn" type="button" data-category="Ferramentas">Ferramentas <small>(3)</small></button>
+      </div>
+      <div class="result-note" id="resultNote">Exibindo todas as ofertas.</div>
     </section>
 
     <section id="ofertas" class="grid">
       
-    <article class="card">
+    <article class="card" data-category="Pet">
       <a class="image" href="https://www.mercadolivre.com.br/p/MLB21775692?matt_word=marylouse&amp;matt_tool=50459180&amp;forceInApp=true" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://http2.mlstatic.com/D_NQ_NP_652342-MLU77835186881_072024-F.jpg" alt="Oxímetro, oxímetro de pulso, oxigênio, coração pediátrico para adultos" loading="lazy"/>
         <span class="badge">Oferta</span>
@@ -309,6 +383,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Pet</div>
         <h2>Oxímetro, oxímetro de pulso, oxigênio, coração pediátrico para adultos</h2>
         <div class="pricebox">
           <div class="old">Oferta por tempo limitado</div>
@@ -322,7 +397,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Saúde">
       <a class="image" href="https://www.mercadolivre.com.br/p/MLB21719639?matt_word=marylouse&amp;matt_tool=50459180&amp;forceInApp=true" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://http2.mlstatic.com/D_NQ_NP_618730-MLU72637345875_112023-F.jpg" alt="Braçadeira para Aparelho Monitor Pressão Digital Infantil Omron" loading="lazy"/>
         <span class="badge">Oferta</span>
@@ -330,6 +405,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Saúde</div>
         <h2>Braçadeira para Aparelho Monitor Pressão Digital Infantil Omron</h2>
         <div class="pricebox">
           <div class="old">Oferta por tempo limitado</div>
@@ -343,7 +419,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Saúde">
       <a class="image" href="https://www.mercadolivre.com.br/p/MLB22958206?matt_word=marylouse&amp;matt_tool=50459180&amp;forceInApp=true" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://http2.mlstatic.com/D_NQ_NP_732248-MLA108909250030_032026-F.jpg" alt="Monitor de Pressão Arterial Omron" loading="lazy"/>
         <span class="badge">Oferta</span>
@@ -351,6 +427,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Saúde</div>
         <h2>Monitor de Pressão Arterial Omron</h2>
         <div class="pricebox">
           <div class="old">Oferta por tempo limitado</div>
@@ -364,7 +441,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Saúde">
       <a class="image" href="https://www.mercadolivre.com.br/p/MLB62574644?matt_word=marylouse&amp;matt_tool=50459180&amp;forceInApp=true" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://http2.mlstatic.com/D_NQ_NP_747118-MLA108179638358_032026-F.jpg" alt="Monitor De Pressão Arterial De Braço Monitor pressao arterial HC10013…" loading="lazy"/>
         <span class="badge">35% OFF</span>
@@ -372,6 +449,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Saúde</div>
         <h2>Monitor De Pressão Arterial De Braço Monitor pressao arterial HC10013…</h2>
         <div class="pricebox">
           <div class="old">De: <span>R$ 149,98</span></div>
@@ -385,7 +463,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Celulares">
       <a class="image" href="https://www.mercadolivre.com.br/p/MLB47326105?matt_word=marylouse&amp;matt_tool=50459180&amp;forceInApp=true" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://http2.mlstatic.com/D_NQ_NP_728028-MLA99575117872_122025-F.jpg" alt="Smartphone Xiaomi Redmi 9c 32gb Azul" loading="lazy"/>
         <span class="badge">Oferta</span>
@@ -393,6 +471,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Celulares</div>
         <h2>Smartphone Xiaomi Redmi 9c 32gb Azul</h2>
         <div class="pricebox">
           <div class="old">Oferta por tempo limitado</div>
@@ -406,7 +485,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Celulares">
       <a class="image" href="https://www.mercadolivre.com.br/p/MLB39444837?matt_word=marylouse&amp;matt_tool=50459180&amp;forceInApp=true" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://http2.mlstatic.com/D_NQ_NP_662216-MLA99464976462_112025-F.jpg" alt="Samsung Galaxy S23 Ultra 512GB Creme" loading="lazy"/>
         <span class="badge">Oferta</span>
@@ -414,6 +493,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Celulares</div>
         <h2>Samsung Galaxy S23 Ultra 512GB Creme</h2>
         <div class="pricebox">
           <div class="old">Oferta por tempo limitado</div>
@@ -427,7 +507,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Celulares">
       <a class="image" href="https://www.mercadolivre.com.br/p/MLB75208845?matt_word=marylouse&amp;matt_tool=50459180&amp;forceInApp=true" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://http2.mlstatic.com/D_NQ_NP_611284-MLA114284605789_072026-F.jpg" alt="Celular 5G 16GB/512GB Android 15" loading="lazy"/>
         <span class="badge">58% OFF</span>
@@ -435,6 +515,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Celulares</div>
         <h2>Celular 5G 16GB/512GB Android 15</h2>
         <div class="pricebox">
           <div class="old">De: <span>R$ 4.000,00</span></div>
@@ -448,7 +529,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Pet">
       <a class="image" href="https://www.mercadolivre.com.br/p/MLB59821316?matt_word=marylouse&amp;matt_tool=50459180&amp;forceInApp=true" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://http2.mlstatic.com/D_NQ_NP_683378-MLA99463515480_112025-F.jpg" alt="TV Box RBI Smart TV Box 4K PROSB-2000 Preto 5ª Geração Wi-Fi HDMI" loading="lazy"/>
         <span class="badge">Oferta</span>
@@ -456,6 +537,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Pet</div>
         <h2>TV Box RBI Smart TV Box 4K PROSB-2000 Preto 5ª Geração Wi-Fi HDMI</h2>
         <div class="pricebox">
           <div class="old">Oferta por tempo limitado</div>
@@ -469,7 +551,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Informática">
       <a class="image" href="https://www.mercadolivre.com.br/p/MLB65128982?matt_word=marylouse&amp;matt_tool=50459180&amp;forceInApp=true" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://http2.mlstatic.com/D_NQ_NP_860491-MLA106268126163_012026-F.jpg" alt="Soundbar Samsung Hw-b400f + Soundbar Hw-b400f Preto" loading="lazy"/>
         <span class="badge">Oferta</span>
@@ -477,6 +559,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Informática</div>
         <h2>Soundbar Samsung Hw-b400f + Soundbar Hw-b400f Preto</h2>
         <div class="pricebox">
           <div class="old">Oferta por tempo limitado</div>
@@ -490,7 +573,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Informática">
       <a class="image" href="https://www.mercadolivre.com.br/p/MLB65564566?matt_word=marylouse&amp;matt_tool=50459180&amp;forceInApp=true" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://http2.mlstatic.com/D_NQ_NP_983158-MLA106538972464_022026-F.jpg" alt="Soundbar Samsung Hw-q990f + Soundbar Hw-b400f" loading="lazy"/>
         <span class="badge">Oferta</span>
@@ -498,6 +581,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Informática</div>
         <h2>Soundbar Samsung Hw-q990f + Soundbar Hw-b400f</h2>
         <div class="pricebox">
           <div class="old">Oferta por tempo limitado</div>
@@ -511,7 +595,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Informática">
       <a class="image" href="https://www.mercadolivre.com.br/p/MLB65128496?matt_word=marylouse&amp;matt_tool=50459180&amp;forceInApp=true" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://http2.mlstatic.com/D_NQ_NP_721586-MLA106267176725_012026-F.jpg" alt="Soundbar Samsung Hw-b450f + Soundbar Hw-b400f" loading="lazy"/>
         <span class="badge">Oferta</span>
@@ -519,6 +603,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Informática</div>
         <h2>Soundbar Samsung Hw-b450f + Soundbar Hw-b400f</h2>
         <div class="pricebox">
           <div class="old">Oferta por tempo limitado</div>
@@ -532,7 +617,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Esportes">
       <a class="image" href="https://www.mercadolivre.com.br/p/MLB66915787?matt_word=marylouse&amp;matt_tool=50459180&amp;forceInApp=true" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://http2.mlstatic.com/D_NQ_NP_621843-MLA108323387828_032026-F.jpg" alt="Fone Bluetooth Esportivo 320mah Fone Sem Fio Fone Academia Lilás" loading="lazy"/>
         <span class="badge">39% OFF</span>
@@ -540,6 +625,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Esportes</div>
         <h2>Fone Bluetooth Esportivo 320mah Fone Sem Fio Fone Academia Lilás</h2>
         <div class="pricebox">
           <div class="old">De: <span>R$ 78,99</span></div>
@@ -553,7 +639,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Informática">
       <a class="image" href="https://www.mercadolivre.com.br/p/MLB29479675?matt_word=marylouse&amp;matt_tool=50459180&amp;forceInApp=true" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://http2.mlstatic.com/D_NQ_NP_883611-MLU78942001945_092024-F.jpg" alt="Mesa Computador Escrivaninha Notebook Gamer cor branco AJL" loading="lazy"/>
         <span class="badge">Oferta</span>
@@ -561,6 +647,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Informática</div>
         <h2>Mesa Computador Escrivaninha Notebook Gamer cor branco AJL</h2>
         <div class="pricebox">
           <div class="old">Oferta por tempo limitado</div>
@@ -574,7 +661,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Informática">
       <a class="image" href="https://www.mercadolivre.com.br/p/MLB47353377?matt_word=marylouse&amp;matt_tool=50459180&amp;forceInApp=true" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://http2.mlstatic.com/D_NQ_NP_697321-MLA99502086258_112025-F.jpg" alt="Roteador Wifi Ac 1200 2 Flex" loading="lazy"/>
         <span class="badge">15% OFF</span>
@@ -582,6 +669,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Informática</div>
         <h2>Roteador Wifi Ac 1200 2 Flex</h2>
         <div class="pricebox">
           <div class="old">De: <span>R$ 198,15</span></div>
@@ -595,7 +683,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Informática">
       <a class="image" href="https://www.mercadolivre.com.br/p/MLB42182462?matt_word=marylouse&amp;matt_tool=50459180&amp;forceInApp=true" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://http2.mlstatic.com/D_NQ_NP_949056-MLA99915280699_112025-F.jpg" alt="Hd Externo Portátil - Ssd - 1tb - Sandisk - Preto" loading="lazy"/>
         <span class="badge">17% OFF</span>
@@ -603,6 +691,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Informática</div>
         <h2>Hd Externo Portátil - Ssd - 1tb - Sandisk - Preto</h2>
         <div class="pricebox">
           <div class="old">De: <span>R$ 1.150,00</span></div>
@@ -616,7 +705,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Ferramentas">
       <a class="image" href="https://www.mercadolivre.com.br/p/MLB37180897?matt_word=marylouse&amp;matt_tool=50459180&amp;forceInApp=true" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://http2.mlstatic.com/D_NQ_NP_784742-MLA100042438679_122025-F.jpg" alt="Kit Furadeira e Parafusadeira com Parafusadeira Dewalt Modelo DCK200M…" loading="lazy"/>
         <span class="badge">Oferta</span>
@@ -624,6 +713,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Ferramentas</div>
         <h2>Kit Furadeira e Parafusadeira com Parafusadeira Dewalt Modelo DCK200M…</h2>
         <div class="pricebox">
           <div class="old">Oferta por tempo limitado</div>
@@ -637,7 +727,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Ferramentas">
       <a class="image" href="https://www.mercadolivre.com.br/p/MLB19765397?matt_word=marylouse&amp;matt_tool=50459180&amp;forceInApp=true" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://http2.mlstatic.com/D_NQ_NP_760221-MLA99494941634_112025-F.jpg" alt="Combo Furadeira Parafusadeira DF333D + Parafusadeira de Impacto TD110…" loading="lazy"/>
         <span class="badge">6% OFF</span>
@@ -645,6 +735,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Ferramentas</div>
         <h2>Combo Furadeira Parafusadeira DF333D + Parafusadeira de Impacto TD110…</h2>
         <div class="pricebox">
           <div class="old">De: <span>R$ 1.259,00</span></div>
@@ -658,7 +749,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Ferramentas">
       <a class="image" href="https://www.mercadolivre.com.br/p/MLB21865416?matt_word=marylouse&amp;matt_tool=50459180&amp;forceInApp=true" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://http2.mlstatic.com/D_NQ_NP_941219-MLU77146464530_062024-F.jpg" alt="Combo Parafusadeira Furadeira de Impacto 13mm + Parafusadeira de Impa…" loading="lazy"/>
         <span class="badge">Oferta</span>
@@ -666,6 +757,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Ferramentas</div>
         <h2>Combo Parafusadeira Furadeira de Impacto 13mm + Parafusadeira de Impa…</h2>
         <div class="pricebox">
           <div class="old">Oferta por tempo limitado</div>
@@ -679,7 +771,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Casa e Cozinha">
       <a class="image" href="https://www.mercadolivre.com.br/p/MLB38338044?matt_word=marylouse&amp;matt_tool=50459180&amp;forceInApp=true" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://http2.mlstatic.com/D_NQ_NP_887284-MLU78285122081_082024-F.jpg" alt="Liquidificador portátil, Mini liquidificador recarregável USB, Liquid…" loading="lazy"/>
         <span class="badge">Oferta</span>
@@ -687,6 +779,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Casa e Cozinha</div>
         <h2>Liquidificador portátil, Mini liquidificador recarregável USB, Liquid…</h2>
         <div class="pricebox">
           <div class="old">Oferta por tempo limitado</div>
@@ -700,7 +793,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Casa e Cozinha">
       <a class="image" href="https://www.mercadolivre.com.br/p/MLB62888998?matt_word=marylouse&amp;matt_tool=50459180&amp;forceInApp=true" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://http2.mlstatic.com/D_NQ_NP_601992-MLA100011667808_122025-F.jpg" alt="Air fryer Britânia Fritadeira Air Fryer preto" loading="lazy"/>
         <span class="badge">Oferta</span>
@@ -708,6 +801,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Casa e Cozinha</div>
         <h2>Air fryer Britânia Fritadeira Air Fryer preto</h2>
         <div class="pricebox">
           <div class="old">Oferta por tempo limitado</div>
@@ -721,7 +815,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Casa e Cozinha">
       <a class="image" href="https://www.mercadolivre.com.br/p/MLB19635472?matt_word=marylouse&amp;matt_tool=50459180&amp;forceInApp=true" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://http2.mlstatic.com/D_NQ_NP_644709-MLU77329806717_062024-F.jpg" alt="Air fryer Gaabor Air Fryer GA-E45A0 de 4 L cinza" loading="lazy"/>
         <span class="badge">31% OFF</span>
@@ -729,6 +823,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Casa e Cozinha</div>
         <h2>Air fryer Gaabor Air Fryer GA-E45A0 de 4 L cinza</h2>
         <div class="pricebox">
           <div class="old">De: <span>R$ 362,34</span></div>
@@ -742,7 +837,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Beleza">
       <a class="image" href="https://www.mercadolivre.com.br/p/MLB51434487?matt_word=marylouse&amp;matt_tool=50459180&amp;forceInApp=true" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://http2.mlstatic.com/D_NQ_NP_962334-MLA95523966556_102025-F.jpg" alt="Barbeador Costas Masculino Traseiro Dobrável Aparador Pelos" loading="lazy"/>
         <span class="badge">34% OFF</span>
@@ -750,6 +845,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Beleza</div>
         <h2>Barbeador Costas Masculino Traseiro Dobrável Aparador Pelos</h2>
         <div class="pricebox">
           <div class="old">De: <span>R$ 351,08</span></div>
@@ -763,7 +859,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Beleza">
       <a class="image" href="https://www.mercadolivre.com.br/p/MLB74602351?matt_word=marylouse&amp;matt_tool=50459180&amp;forceInApp=true" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://http2.mlstatic.com/D_NQ_NP_637972-MLA112771846976_062026-F.jpg" alt="Chapinha Cabelo Profissional Prancha Alisadora De Cabelo chapinha Par…" loading="lazy"/>
         <span class="badge">50% OFF</span>
@@ -771,6 +867,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Beleza</div>
         <h2>Chapinha Cabelo Profissional Prancha Alisadora De Cabelo chapinha Par…</h2>
         <div class="pricebox">
           <div class="old">De: <span>R$ 116,00</span></div>
@@ -784,7 +881,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Beleza">
       <a class="image" href="https://www.mercadolivre.com.br/p/MLB24908965?matt_word=marylouse&amp;matt_tool=50459180&amp;forceInApp=true" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://http2.mlstatic.com/D_NQ_NP_782959-MLA99825071093_112025-F.jpg" alt="Lamina Aparador Pelos Philips Bodygroom Qg3379 Qg3280 Qg3380" loading="lazy"/>
         <span class="badge">27% OFF</span>
@@ -792,6 +889,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Beleza</div>
         <h2>Lamina Aparador Pelos Philips Bodygroom Qg3379 Qg3280 Qg3380</h2>
         <div class="pricebox">
           <div class="old">De: <span>R$ 149,90</span></div>
@@ -805,7 +903,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Esportes">
       <a class="image" href="https://www.mercadolivre.com.br/p/MLB69134972?matt_word=marylouse&amp;matt_tool=50459180&amp;forceInApp=true" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://http2.mlstatic.com/D_NQ_NP_826055-MLA110587103658_052026-F.jpg" alt="Luva Academia Musculação Fitness Tamanho P" loading="lazy"/>
         <span class="badge">32% OFF</span>
@@ -813,6 +911,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Esportes</div>
         <h2>Luva Academia Musculação Fitness Tamanho P</h2>
         <div class="pricebox">
           <div class="old">De: <span>R$ 39,25</span></div>
@@ -826,7 +925,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Esportes">
       <a class="image" href="https://www.mercadolivre.com.br/p/MLB18603556?matt_word=marylouse&amp;matt_tool=50459180&amp;forceInApp=true" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://http2.mlstatic.com/D_NQ_NP_651330-MLA100034011273_122025-F.jpg" alt="Bike Spinning Kikos Max-ks5 Preto" loading="lazy"/>
         <span class="badge">26% OFF</span>
@@ -834,6 +933,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Esportes</div>
         <h2>Bike Spinning Kikos Max-ks5 Preto</h2>
         <div class="pricebox">
           <div class="old">De: <span>R$ 3.989,77</span></div>
@@ -847,7 +947,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Esportes">
       <a class="image" href="https://www.mercadolivre.com.br/p/MLB24737159?matt_word=marylouse&amp;matt_tool=50459180&amp;forceInApp=true" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://http2.mlstatic.com/D_NQ_NP_608527-MLU73129423550_122023-F.jpg" alt="Bola Futebol Campo Vinil Vermelho Costurada" loading="lazy"/>
         <span class="badge">53% OFF</span>
@@ -855,6 +955,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Esportes</div>
         <h2>Bola Futebol Campo Vinil Vermelho Costurada</h2>
         <div class="pricebox">
           <div class="old">De: <span>R$ 44,99</span></div>
@@ -868,7 +969,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Esportes">
       <a class="image" href="https://www.mercadolivre.com.br/p/MLB75107533?matt_word=marylouse&amp;matt_tool=50459180&amp;forceInApp=true" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://http2.mlstatic.com/D_NQ_NP_648848-MLA113038268844_072026-F.jpg" alt="Bike Spinning Bicicleta 6kg Wct Fitness Preta" loading="lazy"/>
         <span class="badge">43% OFF</span>
@@ -876,6 +977,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Esportes</div>
         <h2>Bike Spinning Bicicleta 6kg Wct Fitness Preta</h2>
         <div class="pricebox">
           <div class="old">De: <span>R$ 1.132,90</span></div>
@@ -889,7 +991,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Esportes">
       <a class="image" href="https://www.mercadolivre.com.br/p/MLB73080389?matt_word=marylouse&amp;matt_tool=50459180&amp;forceInApp=true" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://http2.mlstatic.com/D_NQ_NP_896507-MLA111915598406_062026-F.jpg" alt="Esteira Ergométrica Elétrica Dobrável Com Bluetooth Tela Led 14km/h J…" loading="lazy"/>
         <span class="badge">57% OFF</span>
@@ -897,6 +999,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Esportes</div>
         <h2>Esteira Ergométrica Elétrica Dobrável Com Bluetooth Tela Led 14km/h J…</h2>
         <div class="pricebox">
           <div class="old">De: <span>R$ 3.399,00</span></div>
@@ -910,7 +1013,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Moda">
       <a class="image" href="https://www.mercadolivre.com.br/p/MLB74520688?matt_word=marylouse&amp;matt_tool=50459180&amp;forceInApp=true" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://http2.mlstatic.com/D_NQ_NP_725732-MLA113726873657_062026-F.jpg" alt="Conjunto Feminino Shorts Saia E Blusa Elegante Festa Balada Cor Conju…" loading="lazy"/>
         <span class="badge">20% OFF</span>
@@ -918,6 +1021,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Moda</div>
         <h2>Conjunto Feminino Shorts Saia E Blusa Elegante Festa Balada Cor Conju…</h2>
         <div class="pricebox">
           <div class="old">De: <span>R$ 239,90</span></div>
@@ -931,7 +1035,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Bolsas">
       <a class="image" href="https://www.mercadolivre.com.br/p/MLB70373953?matt_word=marylouse&amp;matt_tool=50459180&amp;forceInApp=true" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://http2.mlstatic.com/D_NQ_NP_913174-MLA111302440702_052026-F.jpg" alt="Bolsa Feminina De Festa Casamento Bolsa Feminina Pequena Prateado" loading="lazy"/>
         <span class="badge">28% OFF</span>
@@ -939,6 +1043,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Bolsas</div>
         <h2>Bolsa Feminina De Festa Casamento Bolsa Feminina Pequena Prateado</h2>
         <div class="pricebox">
           <div class="old">De: <span>R$ 188,00</span></div>
@@ -952,7 +1057,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Moda">
       <a class="image" href="https://www.mercadolivre.com.br/p/MLB74321764?matt_word=marylouse&amp;matt_tool=50459180&amp;forceInApp=true" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://http2.mlstatic.com/D_NQ_NP_753116-MLA113589081679_062026-F.jpg" alt="Conjunto Bata Com Calça Jeans Trick Nick Bege" loading="lazy"/>
         <span class="badge">28% OFF</span>
@@ -960,6 +1065,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Moda</div>
         <h2>Conjunto Bata Com Calça Jeans Trick Nick Bege</h2>
         <div class="pricebox">
           <div class="old">De: <span>R$ 165,99</span></div>
@@ -973,7 +1079,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Calçados">
       <a class="image" href="https://www.mercadolivre.com.br/p/MLB65640157?matt_word=marylouse&amp;matt_tool=50459180&amp;forceInApp=true" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://http2.mlstatic.com/D_NQ_NP_863542-MLA106613237548_022026-F.jpg" alt="Chinelo Masculino Go Consistent Skechers" loading="lazy"/>
         <span class="badge">32% OFF</span>
@@ -981,6 +1087,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Calçados</div>
         <h2>Chinelo Masculino Go Consistent Skechers</h2>
         <div class="pricebox">
           <div class="old">De: <span>R$ 279,99</span></div>
@@ -994,7 +1101,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Moda">
       <a class="image" href="https://www.mercadolivre.com.br/p/MLB65008435?matt_word=marylouse&amp;matt_tool=50459180&amp;forceInApp=true" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://http2.mlstatic.com/D_NQ_NP_708960-MLA108482639823_032026-F.jpg" alt="Calça Jeans Masculina Skinny Premium" loading="lazy"/>
         <span class="badge">52% OFF</span>
@@ -1002,6 +1109,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Moda</div>
         <h2>Calça Jeans Masculina Skinny Premium</h2>
         <div class="pricebox">
           <div class="old">De: <span>R$ 78,90</span></div>
@@ -1015,7 +1123,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Casa e Cozinha">
       <a class="image" href="https://www.mercadolivre.com.br/p/MLB74184723?matt_word=marylouse&amp;matt_tool=50459180&amp;forceInApp=true" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://http2.mlstatic.com/D_NQ_NP_815339-MLA113527420537_062026-F.jpg" alt="Painel D&#x27;Rossi Painel Para TV para TV até 60&quot; cumaru de mdf/mdp" loading="lazy"/>
         <span class="badge">18% OFF</span>
@@ -1023,6 +1131,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Casa e Cozinha</div>
         <h2>Painel D&#x27;Rossi Painel Para TV para TV até 60&quot; cumaru de mdf/mdp</h2>
         <div class="pricebox">
           <div class="old">De: <span>R$ 798,90</span></div>
@@ -1036,7 +1145,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Casa e Cozinha">
       <a class="image" href="https://www.mercadolivre.com.br/p/MLB32947723?matt_word=marylouse&amp;matt_tool=50459180&amp;forceInApp=true" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://http2.mlstatic.com/D_NQ_NP_774864-MLA95218701324_102025-F.jpg" alt="Conjunto Panelas Antiaderente Tramontina 5peças Vermelho" loading="lazy"/>
         <span class="badge">18% OFF</span>
@@ -1044,6 +1153,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Casa e Cozinha</div>
         <h2>Conjunto Panelas Antiaderente Tramontina 5peças Vermelho</h2>
         <div class="pricebox">
           <div class="old">De: <span>R$ 366,46</span></div>
@@ -1057,7 +1167,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Casa e Cozinha">
       <a class="image" href="https://www.mercadolivre.com.br/p/MLB39369998?matt_word=marylouse&amp;matt_tool=50459180&amp;forceInApp=true" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://http2.mlstatic.com/D_NQ_NP_980670-MLA100018890221_122025-F.jpg" alt="Rack Para Sala De Estar Rack Para Tv C/ Prateleira Flex Cor Off-white" loading="lazy"/>
         <span class="badge">38% OFF</span>
@@ -1065,6 +1175,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Casa e Cozinha</div>
         <h2>Rack Para Sala De Estar Rack Para Tv C/ Prateleira Flex Cor Off-white</h2>
         <div class="pricebox">
           <div class="old">De: <span>R$ 619,82</span></div>
@@ -1078,7 +1189,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Pet">
       <a class="image" href="https://www.mercadolivre.com.br/p/MLB59413555?matt_word=marylouse&amp;matt_tool=50459180&amp;forceInApp=true" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://http2.mlstatic.com/D_NQ_NP_655852-MLA94182066838_102025-F.jpg" alt="Cadeira Massagem Escritorio Cadeira Escritorio Presidente Cor Âmbar" loading="lazy"/>
         <span class="badge">50% OFF</span>
@@ -1086,6 +1197,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Pet</div>
         <h2>Cadeira Massagem Escritorio Cadeira Escritorio Presidente Cor Âmbar</h2>
         <div class="pricebox">
           <div class="old">De: <span>R$ 1.868,00</span></div>
@@ -1099,7 +1211,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Papelaria">
       <a class="image" href="https://www.mercadolivre.com.br/p/MLB45702929?matt_word=marylouse&amp;matt_tool=50459180&amp;forceInApp=true" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://http2.mlstatic.com/D_NQ_NP_769193-MLA99434554738_112025-F.jpg" alt="Papel Higiênico Tork Folha Dupla" loading="lazy"/>
         <span class="badge">21% OFF</span>
@@ -1107,6 +1219,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Papelaria</div>
         <h2>Papel Higiênico Tork Folha Dupla</h2>
         <div class="pricebox">
           <div class="old">De: <span>R$ 338,00</span></div>
@@ -1120,7 +1233,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Mãe e Bebê">
       <a class="image" href="https://www.mercadolivre.com.br/p/MLB23414358?matt_word=marylouse&amp;matt_tool=50459180&amp;forceInApp=true" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://http2.mlstatic.com/D_NQ_NP_825242-MLA109518750392_042026-F.jpg" alt="Fralda Pampers Premium Care Tamanho P 40 Unidades" loading="lazy"/>
         <span class="badge">21% OFF</span>
@@ -1128,6 +1241,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Mãe e Bebê</div>
         <h2>Fralda Pampers Premium Care Tamanho P 40 Unidades</h2>
         <div class="pricebox">
           <div class="old">De: <span>R$ 99,08</span></div>
@@ -1141,7 +1255,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Supermercados">
       <a class="image" href="https://www.mercadolivre.com.br/p/MLB54332454?matt_word=marylouse&amp;matt_tool=50459180&amp;forceInApp=true" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://http2.mlstatic.com/D_NQ_NP_766611-MLA99898139973_112025-F.jpg" alt="Azeite Oliva Extra Virgem Italiano 500ml Mercatto" loading="lazy"/>
         <span class="badge">41% OFF</span>
@@ -1149,6 +1263,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Supermercados</div>
         <h2>Azeite Oliva Extra Virgem Italiano 500ml Mercatto</h2>
         <div class="pricebox">
           <div class="old">De: <span>R$ 78,88</span></div>
@@ -1162,7 +1277,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Supermercados">
       <a class="image" href="https://www.mercadolivre.com.br/p/MLB20648720?matt_word=marylouse&amp;matt_tool=50459180&amp;forceInApp=true" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://http2.mlstatic.com/D_NQ_NP_936933-MLA99373588020_112025-F.jpg" alt="Sabonete Barra Madressenza Karité 180 G" loading="lazy"/>
         <span class="badge">44% OFF</span>
@@ -1170,6 +1285,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Supermercados</div>
         <h2>Sabonete Barra Madressenza Karité 180 G</h2>
         <div class="pricebox">
           <div class="old">De: <span>R$ 49,90</span></div>
@@ -1183,7 +1299,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Rice">
       <a class="image" href="https://www.mercadolivre.com.br/p/MLB19763877?matt_word=marylouse&amp;matt_tool=50459180&amp;forceInApp=true" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://http2.mlstatic.com/D_NQ_NP_677763-MLA99361612326_112025-F.jpg" alt="Arroz Arbório Scotti - 1kg" loading="lazy"/>
         <span class="badge">55% OFF</span>
@@ -1191,6 +1307,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Rice</div>
         <h2>Arroz Arbório Scotti - 1kg</h2>
         <div class="pricebox">
           <div class="old">De: <span>R$ 61,84</span></div>
@@ -1204,7 +1321,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Games">
       <a class="image" href="https://www.mercadolivre.com.br/p/MLB28798767?matt_word=marylouse&amp;matt_tool=50459180&amp;forceInApp=true" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://http2.mlstatic.com/D_NQ_NP_905973-MLU78075179385_072024-F.jpg" alt="Gears Tactics - Xbox One / Xbox Series X" loading="lazy"/>
         <span class="badge">5% OFF</span>
@@ -1212,6 +1329,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Games</div>
         <h2>Gears Tactics - Xbox One / Xbox Series X</h2>
         <div class="pricebox">
           <div class="old">De: <span>R$ 347,00</span></div>
@@ -1225,7 +1343,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Games">
       <a class="image" href="https://www.mercadolivre.com.br/p/MLB28415024?matt_word=marylouse&amp;matt_tool=50459180&amp;forceInApp=true" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://http2.mlstatic.com/D_NQ_NP_712193-MLA99955535899_112025-F.jpg" alt="Jogo Ps5 Persona 5 Tactica Fisico" loading="lazy"/>
         <span class="badge">21% OFF</span>
@@ -1233,6 +1351,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Games</div>
         <h2>Jogo Ps5 Persona 5 Tactica Fisico</h2>
         <div class="pricebox">
           <div class="old">De: <span>R$ 195,43</span></div>
@@ -1246,7 +1365,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Games">
       <a class="image" href="https://www.mercadolivre.com.br/p/MLB68101897?matt_word=marylouse&amp;matt_tool=50459180&amp;forceInApp=true" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://http2.mlstatic.com/D_NQ_NP_940500-MLA110515031671_042026-F.jpg" alt="Starfield Playstation 5 Ps5" loading="lazy"/>
         <span class="badge">25% OFF</span>
@@ -1254,6 +1373,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Games</div>
         <h2>Starfield Playstation 5 Ps5</h2>
         <div class="pricebox">
           <div class="old">De: <span>R$ 452,06</span></div>
@@ -1267,7 +1387,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Games">
       <a class="image" href="https://www.mercadolivre.com.br/p/MLB66364304?matt_word=marylouse&amp;matt_tool=50459180&amp;forceInApp=true" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://http2.mlstatic.com/D_NQ_NP_725716-MLA107632277696_032026-F.jpg" alt="Wwe 2k26 - Playstation 5" loading="lazy"/>
         <span class="badge">44% OFF</span>
@@ -1275,6 +1395,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Games</div>
         <h2>Wwe 2k26 - Playstation 5</h2>
         <div class="pricebox">
           <div class="old">De: <span>R$ 499,90</span></div>
@@ -1288,7 +1409,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Games">
       <a class="image" href="https://www.mercadolivre.com.br/p/MLB67646810?matt_word=marylouse&amp;matt_tool=50459180&amp;forceInApp=true" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://http2.mlstatic.com/D_NQ_NP_810831-MLA110117620595_042026-F.jpg" alt="Suporte De Controle Duplo Compativel Ps5 Acessório Gamer" loading="lazy"/>
         <span class="badge">55% OFF</span>
@@ -1296,6 +1417,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Games</div>
         <h2>Suporte De Controle Duplo Compativel Ps5 Acessório Gamer</h2>
         <div class="pricebox">
           <div class="old">De: <span>R$ 59,99</span></div>
@@ -1309,7 +1431,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Papelaria">
       <a class="image" href="https://www.mercadolivre.com.br/p/MLB36524983?matt_word=marylouse&amp;matt_tool=50459180&amp;forceInApp=true" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://http2.mlstatic.com/D_NQ_NP_650142-MLA95559805073_102025-F.jpg" alt="Kit Pintura Terapêutica - Girafa Psicodélica" loading="lazy"/>
         <span class="badge">22% OFF</span>
@@ -1317,6 +1439,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Papelaria</div>
         <h2>Kit Pintura Terapêutica - Girafa Psicodélica</h2>
         <div class="pricebox">
           <div class="old">De: <span>R$ 149,90</span></div>
@@ -1330,7 +1453,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Papelaria">
       <a class="image" href="https://www.mercadolivre.com.br/p/MLB51290805?matt_word=marylouse&amp;matt_tool=50459180&amp;forceInApp=true" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://http2.mlstatic.com/D_NQ_NP_966983-MLA99515505658_112025-F.jpg" alt="Kit Desenho Técnico Marco Modelo 39 Com 39 Peças Inclui Estojo" loading="lazy"/>
         <span class="badge">35% OFF</span>
@@ -1338,6 +1461,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Papelaria</div>
         <h2>Kit Desenho Técnico Marco Modelo 39 Com 39 Peças Inclui Estojo</h2>
         <div class="pricebox">
           <div class="old">De: <span>R$ 96,05</span></div>
@@ -1351,7 +1475,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Papelaria">
       <a class="image" href="https://www.mercadolivre.com.br/p/MLB44692135?matt_word=marylouse&amp;matt_tool=50459180&amp;forceInApp=true" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://http2.mlstatic.com/D_NQ_NP_615631-MLA99589697824_122025-F.jpg" alt="Arts Kit Desenho Moana 2" loading="lazy"/>
         <span class="badge">41% OFF</span>
@@ -1359,6 +1483,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Papelaria</div>
         <h2>Arts Kit Desenho Moana 2</h2>
         <div class="pricebox">
           <div class="old">De: <span>R$ 79,99</span></div>
@@ -1372,7 +1497,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Papelaria">
       <a class="image" href="https://www.mercadolivre.com.br/p/MLB64714706?matt_word=marylouse&amp;matt_tool=50459180&amp;forceInApp=true" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://http2.mlstatic.com/D_NQ_NP_714440-MLA104910806904_012026-F.jpg" alt="Kit Pintura Terapêutica - Araras" loading="lazy"/>
         <span class="badge">31% OFF</span>
@@ -1380,6 +1505,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Papelaria</div>
         <h2>Kit Pintura Terapêutica - Araras</h2>
         <div class="pricebox">
           <div class="old">De: <span>R$ 149,90</span></div>
@@ -1393,7 +1519,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Filing Cabinets">
       <a class="image" href="https://www.mercadolivre.com.br/p/MLB67219157?matt_word=marylouse&amp;matt_tool=50459180&amp;forceInApp=true" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://http2.mlstatic.com/D_NQ_NP_948119-MLA109556501131_032026-F.jpg" alt="Gaveteiro Com 4 Gavetas Organizador Escritório Rodinhas Grafite/mel" loading="lazy"/>
         <span class="badge">45% OFF</span>
@@ -1401,6 +1527,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Filing Cabinets</div>
         <h2>Gaveteiro Com 4 Gavetas Organizador Escritório Rodinhas Grafite/mel</h2>
         <div class="pricebox">
           <div class="old">De: <span>R$ 570,00</span></div>
@@ -1414,7 +1541,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Mãe e Bebê">
       <a class="image" href="https://www.mercadolivre.com.br/p/MLB70007436?matt_word=marylouse&amp;matt_tool=50459180&amp;forceInApp=true" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://http2.mlstatic.com/D_NQ_NP_974728-MLA110938742476_052026-F.jpg" alt="Cadeira De Alimentação Portátil Infantil Bebê Refeição 3em1 Cadeira A…" loading="lazy"/>
         <span class="badge">17% OFF</span>
@@ -1422,6 +1549,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Mãe e Bebê</div>
         <h2>Cadeira De Alimentação Portátil Infantil Bebê Refeição 3em1 Cadeira A…</h2>
         <div class="pricebox">
           <div class="old">De: <span>R$ 299,99</span></div>
@@ -1435,7 +1563,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Mãe e Bebê">
       <a class="image" href="https://www.mercadolivre.com.br/p/MLB27170986?matt_word=marylouse&amp;matt_tool=50459180&amp;forceInApp=true" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://http2.mlstatic.com/D_NQ_NP_899923-MLA99533129948_122025-F.jpg" alt="Banheira Bebê Classic Dino - Galzerano" loading="lazy"/>
         <span class="badge">25% OFF</span>
@@ -1443,6 +1571,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Mãe e Bebê</div>
         <h2>Banheira Bebê Classic Dino - Galzerano</h2>
         <div class="pricebox">
           <div class="old">De: <span>R$ 639,00</span></div>
@@ -1456,7 +1585,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Mãe e Bebê">
       <a class="image" href="https://www.mercadolivre.com.br/p/MLB23036772?matt_word=marylouse&amp;matt_tool=50459180&amp;forceInApp=true" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://http2.mlstatic.com/D_NQ_NP_839668-MLA95958123614_102025-F.jpg" alt="Carrinho Bebê Romano + Bebê Conforto Preto/cobre Galzerano" loading="lazy"/>
         <span class="badge">36% OFF</span>
@@ -1464,6 +1593,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Mãe e Bebê</div>
         <h2>Carrinho Bebê Romano + Bebê Conforto Preto/cobre Galzerano</h2>
         <div class="pricebox">
           <div class="old">De: <span>R$ 1.570,09</span></div>
@@ -1477,7 +1607,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Mãe e Bebê">
       <a class="image" href="https://www.mercadolivre.com.br/p/MLB65861229?matt_word=marylouse&amp;matt_tool=50459180&amp;forceInApp=true" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://http2.mlstatic.com/D_NQ_NP_659280-MLA107467697843_022026-F.jpg" alt="Cadeira De Refeição Infantil Ajustável Cadeira Alimentação Cor Azul A…" loading="lazy"/>
         <span class="badge">50% OFF</span>
@@ -1485,6 +1615,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Mãe e Bebê</div>
         <h2>Cadeira De Refeição Infantil Ajustável Cadeira Alimentação Cor Azul A…</h2>
         <div class="pricebox">
           <div class="old">De: <span>R$ 387,25</span></div>
@@ -1498,7 +1629,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Mãe e Bebê">
       <a class="image" href="https://www.mercadolivre.com.br/p/MLB70151591?matt_word=marylouse&amp;matt_tool=50459180&amp;forceInApp=true" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://http2.mlstatic.com/D_NQ_NP_714117-MLA111858012818_062026-F.jpg" alt="Cadeira De Alimentação Bebe Portatil 6 Em 1 Cinto Segurança Cadeira A…" loading="lazy"/>
         <span class="badge">53% OFF</span>
@@ -1506,6 +1637,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Mãe e Bebê</div>
         <h2>Cadeira De Alimentação Bebe Portatil 6 Em 1 Cinto Segurança Cadeira A…</h2>
         <div class="pricebox">
           <div class="old">De: <span>R$ 699,00</span></div>
@@ -1519,7 +1651,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Pet">
       <a class="image" href="https://www.mercadolivre.com.br/p/MLB24232951?matt_word=marylouse&amp;matt_tool=50459180&amp;forceInApp=true" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://http2.mlstatic.com/D_NQ_NP_972578-MLA95393958676_102025-F.jpg" alt="Caixa Transporte Pet N4 Azul MEC Até 12kg" loading="lazy"/>
         <span class="badge">24% OFF</span>
@@ -1527,6 +1659,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Pet</div>
         <h2>Caixa Transporte Pet N4 Azul MEC Até 12kg</h2>
         <div class="pricebox">
           <div class="old">De: <span>R$ 59,90</span></div>
@@ -1540,7 +1673,7 @@
     </article>
     
 
-    <article class="card">
+    <article class="card" data-category="Pet">
       <a class="image" href="https://www.mercadolivre.com.br/p/MLB26166826?matt_word=marylouse&amp;matt_tool=50459180&amp;forceInApp=true" target="_blank" rel="nofollow sponsored noopener">
         <img src="https://http2.mlstatic.com/D_NQ_NP_935484-MLA103302340418_012026-F.jpg" alt="Chalesco Tapete Cama Cachorro Gelado Grande Cor Azul" loading="lazy"/>
         <span class="badge">24% OFF</span>
@@ -1548,6 +1681,7 @@
       </a>
 
       <div class="body">
+        <div class="cat">Pet</div>
         <h2>Chalesco Tapete Cama Cachorro Gelado Grande Cor Azul</h2>
         <div class="pricebox">
           <div class="old">De: <span>R$ 112,00</span></div>
@@ -1562,5 +1696,44 @@
     
     </section>
   </main>
+
+  <script>
+    (function () {
+      const buttons = Array.from(document.querySelectorAll(".filter-btn"));
+      const cards = Array.from(document.querySelectorAll(".card"));
+      const note = document.getElementById("resultNote");
+
+      function applyFilter(category) {
+        let visible = 0;
+
+        cards.forEach(function (card) {
+          const cardCategory = card.getAttribute("data-category") || "Outros";
+          const show = category === "Todos" || cardCategory === category;
+
+          card.style.display = show ? "" : "none";
+
+          if (show) visible++;
+        });
+
+        buttons.forEach(function (btn) {
+          btn.classList.toggle("active", btn.getAttribute("data-category") === category);
+        });
+
+        if (note) {
+          if (category === "Todos") {
+            note.textContent = "Exibindo todas as ofertas.";
+          } else {
+            note.textContent = "Exibindo " + visible + " oferta(s) em " + category + ".";
+          }
+        }
+      }
+
+      buttons.forEach(function (btn) {
+        btn.addEventListener("click", function () {
+          applyFilter(btn.getAttribute("data-category") || "Todos");
+        });
+      });
+    })();
+  </script>
 </body>
 </html>

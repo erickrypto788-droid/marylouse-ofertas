@@ -1,6 +1,6 @@
 # Pinterest Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 27/07/2026 16:45
+Gerado em: 27/07/2026 16:57
 
 ## Como usar
 
@@ -22,7 +22,7 @@ Recomendação inicial: publicar de 3 a 5 pins por dia.
 
 **Imagem/card:**
 
-https://marylouse-ofertas.vercel.app/growth/cards/mae-bebe.svg
+https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
 
 **Título:**
 
@@ -50,7 +50,7 @@ Categoria com 19 oferta(s) e boa intenção de compra.
 
 **Imagem/card:**
 
-https://marylouse-ofertas.vercel.app/growth/cards/casa-cozinha.svg
+https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
 
 **Título:**
 
@@ -78,7 +78,7 @@ Categoria com 10 oferta(s) e boa intenção de compra.
 
 **Imagem/card:**
 
-https://marylouse-ofertas.vercel.app/growth/cards/beleza.svg
+https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
 
 **Título:**
 
@@ -106,7 +106,7 @@ Categoria com 7 oferta(s) e boa intenção de compra.
 
 **Imagem/card:**
 
-https://marylouse-ofertas.vercel.app/growth/cards/celulares.svg
+https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
 
 **Título:**
 
@@ -134,7 +134,7 @@ Categoria com 10 oferta(s) e boa intenção de compra.
 
 **Imagem/card:**
 
-https://marylouse-ofertas.vercel.app/growth/cards/beleza.svg
+https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
 
 **Título:**
 

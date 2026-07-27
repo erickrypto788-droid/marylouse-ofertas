@@ -1628,5 +1628,48 @@
 </script>
 <!-- MARKETPLACE_HUB_SCRIPT_END -->
 
+
+<!-- HOME_REMOVE_OLD_CTA_SCRIPT_START -->
+<script>
+  (function () {
+    function removeOldHomeCtas() {
+      const phrases = [
+        "Receba achadinhos direto no Telegram",
+        "Pegue cupons, frete grátis e descontos extras",
+        "Cupons oficiais Shopee",
+        "Ofertas em tempo real"
+      ];
+
+      const sections = Array.from(document.querySelectorAll("section, .section, div"));
+
+      sections.forEach(function (el) {
+        const text = (el.innerText || "").trim();
+
+        if (!text) return;
+
+        const hasPhrase = phrases.some(function (phrase) {
+          return text.includes(phrase);
+        });
+
+        if (!hasPhrase) return;
+
+        // Evita esconder a página inteira.
+        const rect = el.getBoundingClientRect();
+
+        if (rect.height > 80 && rect.height < 700) {
+          el.style.display = "none";
+        }
+      });
+    }
+
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", removeOldHomeCtas);
+    } else {
+      removeOldHomeCtas();
+    }
+  })();
+</script>
+<!-- HOME_REMOVE_OLD_CTA_SCRIPT_END -->
+
 </body>
 </html>

@@ -1,91 +1,91 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 27/07/2026 17:15
+Gerado em: 27/07/2026 17:37
 
 ## Categorias prioritárias
 
 - 🍼 **Mãe e Bebê**: 19 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 💻 **Informática**: 17 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - ❤️ **Saúde**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
+- 👜 **Bolsas**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 - 🏋️ **Esportes**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
+- 📱 **Celulares**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 👟 **Calçados**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 📱 **Celulares**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
-- 🧸 **Brinquedos**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 🍳 **Casa e Cozinha**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
-- 📦 **Outros**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
-- 👜 **Bolsas**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
+- 💄 **Beleza**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 📦 **Outros**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 
 ## Top ofertas para destacar
 
-1. **Celular 5g Smartphone 16gb/512gb Rom Dimensity 7200 Impressão Digital…**
+1. **Crazy Bag Bolsa Feminina Transversal Touch Screen com Porta Celular e…**
+   - Categoria: Celulares
+   - Loja: Shopee
+   - Preço: R$ 28,65
+   - Desconto: 71% OFF
+   - Link: https://s.shopee.com.br/2g9rXDOeau
+
+2. **Celular 5g Smartphone 16gb/512gb Rom Dimensity 7200 Impressão Digital…**
    - Categoria: Celulares
    - Loja: Mercado Livre
    - Preço: R$ 1.680,00
    - Desconto: 58% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB75208845?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-2. **GOKOCO Escova Secadora 7 Em 1 GD032 Conjunto De Secador De Cabelo Mul…**
+3. **GOKOCO Escova Secadora 7 Em 1 GD032 Conjunto De Secador De Cabelo Mul…**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 569,00
    - Desconto: 56% OFF
    - Link: https://s.shopee.com.br/4AygFeVyHC
 
-3. **Escova Secadora 110V Alisador Elétrica Quente Cabelo Com 3 Em1 Hair S…**
+4. **Escova Secadora 110V Alisador Elétrica Quente Cabelo Com 3 Em1 Hair S…**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 38,66
    - Desconto: 61% OFF
    - Link: https://s.shopee.com.br/5fnU2PQGEK
 
-4. **Chapinha Profissional Bivolt**
+5. **Chapinha Profissional Bivolt**
    - Categoria: Beleza
    - Loja: Mercado Livre
    - Preço: R$ 58,00
    - Desconto: 50% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB74602351?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-5. **Smartphone 4G/5G Potente**
+6. **Smartphone 4G/5G Potente**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 489,99
    - Desconto: 77% OFF
    - Link: https://s.shopee.com.br/6VMatiDW0P
 
-6. **Smartphone BML 12GB RAM 512GB 5G Câmera 108MP**
+7. **Smartphone BML 12GB RAM 512GB 5G Câmera 108MP**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 1.199,99
    - Desconto: 70% OFF
    - Link: https://s.shopee.com.br/8V7fHO5twb
 
-7. **Mochila Unissex Grande Impermeável para Notebook**
+8. **Mochila Unissex Grande Impermeável para Notebook**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 69,90
    - Desconto: 65% OFF
    - Link: https://s.shopee.com.br/50XmNcikxH
 
-8. **Air fryer Gaabor Air Fryer GA-E45A0 de 4 L cinza**
+9. **Air fryer Gaabor Air Fryer GA-E45A0 de 4 L cinza**
    - Categoria: Casa e Cozinha
    - Loja: Mercado Livre
    - Preço: R$ 249,90
    - Desconto: 31% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB19635472?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-9. **Barbeador Costas Masculino Traseiro Dobrável Aparador Pelos**
+10. **Barbeador Costas Masculino Traseiro Dobrável Aparador Pelos**
    - Categoria: Beleza
    - Loja: Mercado Livre
    - Preço: R$ 231,00
    - Desconto: 34% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB51434487?matt_word=marylouse&matt_tool=50459180&forceInApp=true
-
-10. **Panela de Pressão Elétrica Kian**
-   - Categoria: Casa e Cozinha
-   - Loja: Shopee
-   - Preço: R$ 314,90
-   - Desconto: 37% OFF
-   - Link: https://s.shopee.com.br/1gHLCwccvk
 
 ## Ações gratuitas recomendadas
 

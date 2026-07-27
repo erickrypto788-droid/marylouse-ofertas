@@ -211,6 +211,132 @@ def load_offers():
     return offers
 
 
+def offer_category(offer):
+    raw = str(offer.get("category") or "Outros").strip()
+
+    aliases = {
+        "Roupas Femininas": "Moda Feminina",
+        "Roupas Masculinas": "Moda Masculina",
+        "Roupas Plus Size": "Moda Plus Size",
+        "Moda infantil": "Moda Infantil",
+        "Sapatos": "Calçados",
+        "Sapatos Femininos": "Calçados",
+        "Sapatos Masculinos": "Calçados",
+        "Esportes e Lazer": "Esportes",
+        "Jogos e Consoles": "Games",
+        "Mae e Bebe": "Mãe e Bebê",
+        "Saude": "Saúde",
+        "Informatica": "Informática",
+        "Eletronicos": "Eletrônicos",
+    }
+
+    raw = aliases.get(raw, raw)
+
+    title = normalize(offer.get("title") or "")
+    desc = normalize(offer.get("description") or "")
+    text = f"{title} {desc} {normalize(raw)}"
+
+    if any(t in text for t in ["fralda", "pampers", "huggies", "mamypoko", "mamy poko", "lenco umedecido", "bebe", "baby"]):
+        return "Mãe e Bebê"
+
+    if any(t in text for t in ["smartphone", "celular", "iphone", "xiaomi", "redmi", "galaxy", "motorola", "android", "5g"]):
+        return "Celulares"
+
+    if any(t in text for t in ["notebook", "laptop", "ssd", "ryzen", "rtx", "gtx", "monitor gamer", "teclado", "mouse", "impressora"]):
+        return "Informática"
+
+    if any(t in text for t in ["air fryer", "panela", "liquidificador", "cafeteira", "cozinha", "rack para tv", "painel para tv"]):
+        return "Casa e Cozinha"
+
+    if any(t in text for t in ["barbeador", "perfume", "secador", "chapinha", "escova secadora", "maquiagem", "shampoo"]):
+        return "Beleza"
+
+    if any(t in text for t in ["racao", "cachorro", "gato", "areia higienica", "pet"]):
+        return "Pet"
+
+    if any(t in text for t in ["monitor de pressao", "pressao arterial", "termometro", "inalador", "oximetro", "glicose"]):
+        return "Saúde"
+
+    if any(t in text for t in ["tenis", "sapato", "sandalia", "chinelo", "bota", "calcado"]):
+        return "Calçados"
+
+    if any(t in text for t in ["mochila", "bolsa", "mala", "necessaire"]):
+        return "Bolsas"
+
+    if any(t in text for t in ["hot wheels", "lego", "boneca", "boneco", "brinquedo", "jogo da forca"]):
+        return "Brinquedos e Hobbies"
+
+    if any(t in text for t in ["halter", "academia", "fitness", "bike spinning", "bicicleta", "whey", "creatina", "esteira", "corrida"]):
+        return "Esportes"
+
+    if any(t in text for t in ["caneta", "lapis", "caderno", "papelaria", "estojo", "material escolar"]):
+        return "Papelaria"
+
+    if any(t in text for t in ["furadeira", "parafusadeira", "ferramenta", "martelo", "trena", "alicate"]):
+        return "Ferramentas"
+
+    return raw or "Outros"
+
+
+def category_order():
+    return [
+        "Todos",
+        "Supermercados",
+        "Celulares",
+        "Eletrônicos",
+        "Informática",
+        "Games",
+        "Casa e Cozinha",
+        "Eletrodomésticos",
+        "Moda Feminina",
+        "Moda Masculina",
+        "Moda Plus Size",
+        "Moda Infantil",
+        "Calçados",
+        "Bolsas",
+        "Beleza",
+        "Esportes",
+        "Brinquedos e Hobbies",
+        "Mãe e Bebê",
+        "Pet",
+        "Saúde",
+        "Papelaria",
+        "Ferramentas",
+        "Outros",
+    ]
+
+
+def build_filters(offers):
+    counts = {}
+
+    for offer in offers:
+        cat = offer_category(offer)
+        counts[cat] = counts.get(cat, 0) + 1
+
+    buttons = []
+
+    total = len(offers)
+
+    buttons.append(
+        f'<button class="filter-btn active" type="button" data-category="Todos">✨ Todos <small>({total})</small></button>'
+    )
+
+    for cat in category_order():
+        if cat == "Todos":
+            continue
+
+        count = counts.get(cat, 0)
+
+        if count <= 0:
+            continue
+
+        buttons.append(
+            f'<button class="filter-btn" type="button" data-category="{esc(cat)}">{esc(cat)} <small>({count})</small></button>'
+        )
+
+    return "\n".join(buttons)
+
+
 def card(offer):
     title = offer.get("title") or "Oferta"
     url = link(offer)
@@ -219,6 +345,7 @@ def card(offer):
     price_text = price(offer)
     old = old_price(offer)
     badge = discount(offer)
+    cat = offer_category(offer)
 
     old_html = ""
 
@@ -228,7 +355,7 @@ def card(offer):
         old_html = '<div class="old">Oferta por tempo limitado</div>'
 
     return f"""
-    <article class="card">
+    <article class="card" data-category="{esc(cat)}">
       <a class="image" href="{esc(url)}" target="_blank" rel="nofollow sponsored noopener">
         <img src="{esc(img)}" alt="{esc(title)}" loading="lazy"/>
         <span class="badge">{esc(badge)}</span>
@@ -236,6 +363,7 @@ def card(offer):
       </a>
 
       <div class="body">
+        <div class="cat">{esc(cat)}</div>
         <h2>{esc(short(title, 90))}</h2>
         <div class="pricebox">
           {old_html}
@@ -250,10 +378,18 @@ def card(offer):
     """
 
 
-def layout(page, cards_html, count):
+def layout(page, offers):
     page_url = f"{SITE_URL}/{page['filename']}"
     title = f"{page['title']} | MaryLouse Ofertas"
     description = page["description"]
+
+    count = len(offers)
+    cards_html = "\n".join(card(offer) for offer in offers)
+
+    if not cards_html:
+        cards_html = '<div class="empty">Nenhuma oferta disponível agora. Volte em breve.</div>'
+
+    filters_html = build_filters(offers)
 
     return f"""<!DOCTYPE html>
 <html lang="pt-BR">
@@ -397,6 +533,50 @@ def layout(page, cards_html, count):
       border: 1px solid var(--border);
     }}
 
+    .filters {{
+      margin: 0 0 22px;
+      padding: 22px;
+      background: rgba(255,255,255,.9);
+      border: 1px solid var(--border);
+      border-radius: 28px;
+      box-shadow: 0 12px 26px rgba(126, 34, 80, .08);
+    }}
+
+    .filters h2 {{
+      margin: 0 0 12px;
+      font-size: 24px;
+    }}
+
+    .filter-list {{
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+    }}
+
+    .filter-btn {{
+      border: 1px solid var(--border);
+      background: #fff;
+      color: var(--muted);
+      border-radius: 999px;
+      padding: 11px 15px;
+      font-weight: 950;
+      cursor: pointer;
+      font-size: 15px;
+    }}
+
+    .filter-btn.active {{
+      background: var(--pink);
+      color: #fff;
+      border-color: var(--pink);
+      box-shadow: 0 10px 20px rgba(239, 36, 115, .18);
+    }}
+
+    .result-note {{
+      margin-top: 12px;
+      color: var(--muted);
+      font-weight: 800;
+    }}
+
     .grid {{
       display: grid;
       grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -448,6 +628,14 @@ def layout(page, cards_html, count):
 
     .body {{
       padding: 17px;
+    }}
+
+    .cat {{
+      color: var(--pink);
+      font-size: 13px;
+      font-weight: 950;
+      text-transform: uppercase;
+      margin-bottom: 8px;
     }}
 
     .card h2 {{
@@ -536,8 +724,8 @@ def layout(page, cards_html, count):
       </a>
 
       <nav class="nav">
-        <a href="./index.html#ofertas">🔥 Ofertas</a>
-        <a href="./index.html#categorias">🧭 Categorias</a>
+        <a href="./index.html#marketplaces">🛍️ Marketplaces</a>
+        <a href="./cupons-shopee.html">🎟️ Cupons</a>
         <a href="./feed.html">📡 Feed</a>
         <a href="https://t.me/dmaispromo" target="_blank" rel="noopener">📲 Telegram</a>
       </nav>
@@ -552,18 +740,64 @@ def layout(page, cards_html, count):
 
       <div class="actions">
         <a class="btn" href="#ofertas">Ver ofertas</a>
-        <a class="btn secondary" href="./index.html#categorias">Ver categorias</a>
+        <a class="btn secondary" href="./index.html#marketplaces">Voltar para marketplaces</a>
       </div>
+    </section>
+
+    <section class="filters">
+      <h2>Filtrar por categoria</h2>
+      <div class="filter-list">
+        {filters_html}
+      </div>
+      <div class="result-note" id="resultNote">Exibindo todas as ofertas.</div>
     </section>
 
     <section id="ofertas" class="grid">
       {cards_html}
     </section>
   </main>
+
+  <script>
+    (function () {{
+      const buttons = Array.from(document.querySelectorAll(".filter-btn"));
+      const cards = Array.from(document.querySelectorAll(".card"));
+      const note = document.getElementById("resultNote");
+
+      function applyFilter(category) {{
+        let visible = 0;
+
+        cards.forEach(function (card) {{
+          const cardCategory = card.getAttribute("data-category") || "Outros";
+          const show = category === "Todos" || cardCategory === category;
+
+          card.style.display = show ? "" : "none";
+
+          if (show) visible++;
+        }});
+
+        buttons.forEach(function (btn) {{
+          btn.classList.toggle("active", btn.getAttribute("data-category") === category);
+        }});
+
+        if (note) {{
+          if (category === "Todos") {{
+            note.textContent = "Exibindo todas as ofertas.";
+          }} else {{
+            note.textContent = "Exibindo " + visible + " oferta(s) em " + category + ".";
+          }}
+        }}
+      }}
+
+      buttons.forEach(function (btn) {{
+        btn.addEventListener("click", function () {{
+          applyFilter(btn.getAttribute("data-category") || "Todos");
+        }});
+      }});
+    }})();
+  </script>
 </body>
 </html>
 """
-
 
 def cupons_shopee_page():
     return f"""<!DOCTYPE html>
@@ -719,13 +953,8 @@ def main():
 
         selected = selected[:60]
 
-        if selected:
-            cards = "\n".join(card(offer) for offer in selected)
-        else:
-            cards = '<div class="empty">Nenhuma oferta disponível agora. Volte em breve.</div>'
-
         Path(page["filename"]).write_text(
-            layout(page, cards, len(selected)),
+            layout(page, selected),
             encoding="utf-8",
             newline="\n"
         )

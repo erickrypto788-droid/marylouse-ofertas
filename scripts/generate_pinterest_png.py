@@ -422,7 +422,7 @@ def create_card(cat, offers):
 
     # Botão
     rounded_rect(draw, (110, 1374, 720, 1454), 40, "#08a64b")
-    draw.text((160, 1396), "Comprar agora", font=font(34, True), fill="#ffffff")
+    draw.text((160, 1396), "Ver oferta no link", font=font(32, True), fill="#ffffff")
 
     out = OUT_DIR / f"{cat['slug']}.png"
     base.convert("RGB").save(out, "PNG", optimize=True)

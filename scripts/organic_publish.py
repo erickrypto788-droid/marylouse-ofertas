@@ -339,7 +339,7 @@ def generate_card(cat, offers):
     url = affiliate_link(top) if top else page_url(cat)
 
     title_nodes = []
-    y = 858
+    y = 970
 
     for line in split_lines(title, 32, 3):
         title_nodes.append(
@@ -349,15 +349,15 @@ def generate_card(cat, offers):
 
     if price_text:
         price_block = f"""
-    <text x="110" y="1064" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="850" fill="#6e5e67">Por apenas</text>
-    <text x="110" y="1134" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="950" fill="#08a64b">{esc(price_text)}</text>
+    <text x="110" y="1215" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="850" fill="#6e5e67">Por apenas</text>
+    <text x="110" y="1290" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="950" fill="#08a64b">{esc(price_text)}</text>
 """
     else:
         price_block = """
-    <text x="110" y="1110" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="900" fill="#08a64b">Ver oferta no marketplace</text>
+    <text x="110" y="1270" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="900" fill="#08a64b">Ver oferta no marketplace</text>
 """
 
-    svg = f"""<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+    svg = f"""<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1620" viewBox="0 0 1080 1620">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#fff2e8"/>
@@ -375,40 +375,40 @@ def generate_card(cat, offers):
     </filter>
 
     <clipPath id="imageClip">
-      <rect x="90" y="235" width="900" height="470" rx="42"/>
+      <rect x="90" y="245" width="900" height="560" rx="42"/>
     </clipPath>
   </defs>
 
   <a href="{esc(url)}" target="_top">
     <rect width="1080" height="1350" fill="url(#bg)"/>
 
-    <rect x="58" y="56" width="964" height="1238" rx="58" fill="#ffffff" opacity=".97" filter="url(#shadow)"/>
+    <rect x="58" y="56" width="964" height="1508" rx="58" fill="#ffffff" opacity=".97" filter="url(#shadow)"/>
 
     <image href="{SITE_URL}/assets/logo.png" x="90" y="88" width="92" height="92" preserveAspectRatio="xMidYMid slice"/>
     <text x="202" y="142" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="950" fill="#064750">MaryLouse Ofertas</text>
     <text x="202" y="180" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="800" fill="#ef2473">Achadinhos e descontos selecionados</text>
 
-    <rect x="90" y="235" width="900" height="470" rx="42" fill="#fff4f8" stroke="#f0d7df"/>
-    <image href="{esc(img)}" x="90" y="235" width="900" height="470" clip-path="url(#imageClip)" preserveAspectRatio="xMidYMid meet"/>
+    <rect x="90" y="245" width="900" height="560" rx="42" fill="#fff4f8" stroke="#f0d7df"/>
+    <image href="{esc(img)}" x="90" y="245" width="900" height="560" clip-path="url(#imageClip)" preserveAspectRatio="xMidYMid meet"/>
 
-    <rect x="118" y="262" width="250" height="72" rx="36" fill="#ffb000"/>
-    <text x="150" y="310" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="950" fill="#221900">{esc(discount_text)}</text>
+    <rect x="118" y="276" width="250" height="72" rx="36" fill="#ffb000"/>
+    <text x="150" y="324" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="950" fill="#221900">{esc(discount_text)}</text>
 
-    <rect x="708" y="262" width="250" height="72" rx="36" fill="#ffffff" filter="url(#shadow)"/>
-    <text x="748" y="310" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="950" fill="#ef2473">{esc(store_text)}</text>
+    <rect x="708" y="276" width="250" height="72" rx="36" fill="#ffffff" filter="url(#shadow)"/>
+    <text x="748" y="324" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="950" fill="#ef2473">{esc(store_text)}</text>
 
-    <rect x="90" y="735" width="900" height="430" rx="42" fill="#ffffff" stroke="#f0d7df"/>
+    <rect x="90" y="835" width="900" height="550" rx="42" fill="#ffffff" stroke="#f0d7df"/>
 
-    <text x="110" y="805" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="950" fill="#ef2473">{esc(cat['emoji'])} {esc(cat['label'])}</text>
+    <text x="110" y="915" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="950" fill="#ef2473">{esc(cat['emoji'])} {esc(cat['label'])}</text>
 
     {''.join(title_nodes)}
 
     {price_block}
 
-    <text x="110" y="1198" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="800" fill="#6e5e67">{count} oferta(s) nesta categoria hoje</text>
+    <text x="110" y="1388" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="800" fill="#6e5e67">{count} oferta(s) nesta categoria hoje</text>
 
-    <rect x="110" y="1230" width="620" height="86" rx="43" fill="url(#btn)"/>
-    <text x="165" y="1285" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="950" fill="#ffffff">Comprar agora</text>
+    <rect x="110" y="1430" width="660" height="94" rx="43" fill="url(#btn)"/>
+    <text x="165" y="1490" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="950" fill="#ffffff">Comprar agora</text>
   </a>
 </svg>
 """

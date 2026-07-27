@@ -275,6 +275,36 @@ def offer_category(offer):
     if any(t in text for t in ["furadeira", "parafusadeira", "ferramenta", "martelo", "trena", "alicate"]):
         return "Ferramentas"
 
+    if any(t in text for t in [
+        "vestido", "saia", "cropped", "blusa feminina", "camisa feminina",
+        "camiseta feminina", "calca feminina", "calça feminina", "legging",
+        "calca legging", "calça legging", "top feminino", "conjunto feminino",
+        "moda feminina", "roupas femininas", "feminina", "mulher", "women",
+        "body feminino", "short feminino", "shorts feminino"
+    ]):
+        return "Moda Feminina"
+
+    if any(t in text for t in [
+        "camiseta masculina", "camisa masculina", "calca masculina",
+        "calça masculina", "bermuda masculina", "short masculino",
+        "shorts masculino", "cueca", "moda masculina", "roupas masculinas",
+        "masculina", "masculino", "homem", "men shirt", "men", "polo masculina"
+    ]):
+        return "Moda Masculina"
+
+    if any(t in text for t in [
+        "plus size", "moda plus size", "roupas plus size", "tamanho grande",
+        "gg plus", "xg plus"
+    ]):
+        return "Moda Plus Size"
+
+    if any(t in text for t in [
+        "infantil", "menino", "menina", "crianca", "criança", "kids",
+        "roupa infantil", "moda infantil", "bebê menino", "bebe menino",
+        "bebê menina", "bebe menina"
+    ]):
+        return "Moda Infantil"
+
     return raw or "Outros"
 
 

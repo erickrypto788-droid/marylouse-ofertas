@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 27/07/2026 09:21
+Gerado em: 27/07/2026 10:06
 
 ## Categorias prioritárias
 
@@ -11,46 +11,46 @@ Gerado em: 27/07/2026 09:21
 - 🍳 **Casa e Cozinha**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 📦 **Outros**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 🏋️ **Esportes**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- ❤️ **Saúde**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 🐶 **Pet**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 🎮 **Games**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-games.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_games
+- 👜 **Bolsas**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 
 ## Top ofertas para destacar
 
-1. **Smartphone 4G/5G Potente**
+1. **Chapinha Profissional Bivolt**
+   - Categoria: Beleza
+   - Loja: Mercado Livre
+   - Preço: R$ 58,00
+   - Desconto: 50% OFF
+   - Link: https://www.mercadolivre.com.br/p/MLB74602351?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+2. **Smartphone 4G/5G Potente**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 489,99
    - Desconto: 77% OFF
    - Link: https://s.shopee.com.br/6VMatiDW0P
 
-2. **Smartphone BML 12GB RAM 512GB 5G Câmera 108MP**
+3. **Smartphone BML 12GB RAM 512GB 5G Câmera 108MP**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 1.199,99
    - Desconto: 70% OFF
    - Link: https://s.shopee.com.br/8V7fHO5twb
 
-3. **Celular 5G 16GB/512GB Android 15**
+4. **Celular 5G 16GB/512GB Android 15**
    - Categoria: Celulares
    - Loja: Mercado Livre
    - Preço: R$ 1.680,00
    - Desconto: 58% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB75208845?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-4. **Mochila Unissex Grande Impermeável para Notebook**
+5. **Mochila Unissex Grande Impermeável para Notebook**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 69,90
    - Desconto: 65% OFF
    - Link: https://s.shopee.com.br/50XmNcikxH
-
-5. **Chapinha Cabelo Profissional Prancha Alisadora De Cabelo chapinha Par…**
-   - Categoria: Beleza
-   - Loja: Mercado Livre
-   - Preço: R$ 58,00
-   - Desconto: 50% OFF
-   - Link: https://www.mercadolivre.com.br/p/MLB74602351?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 6. **Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler…**
    - Categoria: Beleza
@@ -80,12 +80,12 @@ Gerado em: 27/07/2026 09:21
    - Desconto: 68% OFF
    - Link: https://s.shopee.com.br/1Vxp5vVRGU
 
-10. **Panela de Pressão Elétrica Kian**
-   - Categoria: Casa e Cozinha
-   - Loja: Shopee
-   - Preço: R$ 314,90
-   - Desconto: 37% OFF
-   - Link: https://s.shopee.com.br/1gHLCwccvk
+10. **Barbeador Costas Masculino Traseiro Dobrável Aparador Pelos**
+   - Categoria: Beleza
+   - Loja: Mercado Livre
+   - Preço: R$ 231,00
+   - Desconto: 34% OFF
+   - Link: https://www.mercadolivre.com.br/p/MLB51434487?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ## Ações gratuitas recomendadas
 

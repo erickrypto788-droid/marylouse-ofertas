@@ -1,0 +1,155 @@
+# Pinterest Pack do Dia — MaryLouse Ofertas
+
+Gerado em: 27/07/2026 16:23
+
+## Como usar
+
+1. Abra o Pinterest Business.
+2. Clique em **Criar Pin**.
+3. Use a imagem indicada.
+4. Copie o título, descrição e link.
+5. Publique no board sugerido.
+
+Recomendação inicial: publicar de 3 a 5 pins por dia.
+
+---
+
+## Pin 1 — Mãe e Bebê
+
+**Tipo:** categoria
+
+**Board sugerido:** Ofertas para Bebê
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/cards/mae-bebe.svg
+
+**Título:**
+
+🍼 Ofertas de Mãe e Bebê atualizadas hoje
+
+**Descrição:**
+
+Veja ofertas de Mãe e Bebê selecionadas pela MaryLouse Ofertas. Destaque de hoje: Monitor Fetal Doppler Ultrassom Ouvir Batimentos Bebe. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+
+**Link:**
+
+https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=pinterest&utm_medium=organic&utm_campaign=pin_mae-bebe
+
+**Por que postar:**
+
+Categoria com 19 oferta(s) e boa intenção de compra.
+
+---
+
+## Pin 2 — Casa e Cozinha
+
+**Tipo:** categoria
+
+**Board sugerido:** Achadinhos de Casa
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/cards/casa-cozinha.svg
+
+**Título:**
+
+🍳 Ofertas de Casa e Cozinha atualizadas hoje
+
+**Descrição:**
+
+Veja ofertas de Casa e Cozinha selecionadas pela MaryLouse Ofertas. Destaque de hoje: Air fryer Gaabor Air Fryer GA-E45A0 de 4 L cinza. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+
+**Link:**
+
+https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=pinterest&utm_medium=organic&utm_campaign=pin_casa-cozinha
+
+**Por que postar:**
+
+Categoria com 10 oferta(s) e boa intenção de compra.
+
+---
+
+## Pin 3 — Beleza
+
+**Tipo:** categoria
+
+**Board sugerido:** Beleza e Cuidados
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/cards/beleza.svg
+
+**Título:**
+
+💄 Ofertas de Beleza atualizadas hoje
+
+**Descrição:**
+
+Veja ofertas de Beleza selecionadas pela MaryLouse Ofertas. Destaque de hoje: Escova Secadora 110V Alisador Elétrica Quente Cabelo Com 3 Em1 Hair S…. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+
+**Link:**
+
+https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=pinterest&utm_medium=organic&utm_campaign=pin_beleza
+
+**Por que postar:**
+
+Categoria com 7 oferta(s) e boa intenção de compra.
+
+---
+
+## Pin 4 — Celulares
+
+**Tipo:** categoria
+
+**Board sugerido:** Celulares e Tecnologia
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/cards/celulares.svg
+
+**Título:**
+
+📱 Ofertas de Celulares atualizadas hoje
+
+**Descrição:**
+
+Veja ofertas de Celulares selecionadas pela MaryLouse Ofertas. Destaque de hoje: Smartphone 4G/5G Potente. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+
+**Link:**
+
+https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=pinterest&utm_medium=organic&utm_campaign=pin_celulares
+
+**Por que postar:**
+
+Categoria com 10 oferta(s) e boa intenção de compra.
+
+---
+
+## Pin 5 — Beleza
+
+**Tipo:** produto_direto
+
+**Board sugerido:** Beleza e Cuidados
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/cards/beleza.svg
+
+**Título:**
+
+61% OFF: Escova Secadora 110V Alisador Elétrica Quente Cabelo Com 3 Em1 Hair S…
+
+**Descrição:**
+
+Oferta destaque em Beleza encontrada pela MaryLouse Ofertas. Preço: R$ 38,66. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+
+**Link:**
+
+https://s.shopee.com.br/5fnU2PQGEK
+
+**Por que postar:**
+
+Produto com bom score orgânico (100) e link direto afiliado.
+
+---

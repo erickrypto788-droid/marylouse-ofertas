@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 27/07/2026 13:05
+Gerado em: 27/07/2026 13:21
 
 ## Categorias prioritárias
 
 - 👟 **Calçados**: 19 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 💻 **Informática**: 17 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 🏋️ **Esportes**: 16 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 🍼 **Mãe e Bebê**: 15 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 💄 **Beleza**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🍳 **Casa e Cozinha**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
-- 🏋️ **Esportes**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 📦 **Outros**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 📱 **Celulares**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 🎮 **Games**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-games.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_games
 - 👜 **Bolsas**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
+- 💄 **Beleza**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 
 ## Top ofertas para destacar
 
@@ -66,26 +66,26 @@ Gerado em: 27/07/2026 13:05
    - Desconto: 65% OFF
    - Link: https://s.shopee.com.br/50XmNcikxH
 
-8. **Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler…**
-   - Categoria: Beleza
-   - Loja: Shopee
-   - Preço: R$ 37,62
-   - Desconto: 62% OFF
-   - Link: https://s.shopee.com.br/9zwQXYSEHD
-
-9. **Perfume Attracione Feminino by Attracione Woman Mulher**
-   - Categoria: Beleza
-   - Loja: Shopee
-   - Preço: R$ 49,00
-   - Desconto: 71% OFF
-   - Link: https://s.shopee.com.br/qiBcidcjH
-
-10. **Air fryer Gaabor Air Fryer GA-E45A0 de 4 L cinza**
+8. **Air fryer Gaabor Air Fryer GA-E45A0 de 4 L cinza**
    - Categoria: Casa e Cozinha
    - Loja: Mercado Livre
    - Preço: R$ 249,90
    - Desconto: 31% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB19635472?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+9. **Barbeador Costas Masculino Traseiro Dobrável Aparador Pelos**
+   - Categoria: Beleza
+   - Loja: Mercado Livre
+   - Preço: R$ 231,00
+   - Desconto: 34% OFF
+   - Link: https://www.mercadolivre.com.br/p/MLB51434487?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+10. **Panela de Pressão Elétrica Kian**
+   - Categoria: Casa e Cozinha
+   - Loja: Shopee
+   - Preço: R$ 314,90
+   - Desconto: 37% OFF
+   - Link: https://s.shopee.com.br/1gHLCwccvk
 
 ## Ações gratuitas recomendadas
 

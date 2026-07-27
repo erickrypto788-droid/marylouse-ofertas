@@ -610,7 +610,133 @@
       .hot-card { grid-template-columns: 1fr; }
       .hot-image { aspect-ratio: 1 / .62; }
     }
-  </style>
+  
+/* MARKETPLACE_HUB_CSS_START */
+.marketplace-hub {
+  max-width: 1180px;
+  margin: 28px auto;
+  padding: 0 20px;
+}
+
+.marketplace-hub-card {
+  background: rgba(255,255,255,.92);
+  border: 1px solid #f0d7df;
+  border-radius: 32px;
+  padding: 30px;
+  box-shadow: 0 16px 35px rgba(154, 41, 92, .10);
+}
+
+.marketplace-hub-card h2 {
+  margin: 0 0 8px;
+  font-size: clamp(30px, 4vw, 46px);
+  color: #1f1720;
+  letter-spacing: -1px;
+}
+
+.marketplace-hub-card > p {
+  color: #6e5e67;
+  font-size: 18px;
+  line-height: 1.55;
+  margin: 0 0 22px;
+  max-width: 850px;
+}
+
+.marketplace-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 18px;
+}
+
+.marketplace-tile {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  min-height: 210px;
+  padding: 22px;
+  border-radius: 26px;
+  background: #fff;
+  border: 1px solid #f0d7df;
+  text-decoration: none;
+  color: #1f1720;
+  box-shadow: 0 12px 26px rgba(126, 34, 80, .08);
+  transition: transform .18s ease, box-shadow .18s ease;
+}
+
+.marketplace-tile:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 18px 34px rgba(126, 34, 80, .14);
+}
+
+.marketplace-icon {
+  width: 58px;
+  height: 58px;
+  display: grid;
+  place-items: center;
+  border-radius: 18px;
+  font-size: 30px;
+  background: #fff4f8;
+}
+
+.marketplace-tile h3 {
+  margin: 0;
+  font-size: 22px;
+  line-height: 1.15;
+}
+
+.marketplace-tile p {
+  margin: 0;
+  color: #6e5e67;
+  line-height: 1.4;
+  font-weight: 650;
+}
+
+.marketplace-cta {
+  margin-top: auto;
+  color: #ef2473;
+  font-weight: 950;
+}
+
+.marketplace-tile.primary {
+  background: linear-gradient(135deg, #fff, #fff2f7);
+}
+
+.marketplace-tile.telegram {
+  background: linear-gradient(135deg, #eaf8ff, #ffffff);
+}
+
+.marketplace-tile.coupon {
+  background: linear-gradient(135deg, #fff3df, #ffffff);
+}
+
+.home-clean-note {
+  margin-top: 22px;
+  padding: 16px 18px;
+  border-radius: 20px;
+  background: #fff8fb;
+  border: 1px solid #f0d7df;
+  color: #6e5e67;
+  font-weight: 750;
+}
+
+@media (max-width: 980px) {
+  .marketplace-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 620px) {
+  .marketplace-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .marketplace-hub-card {
+    padding: 22px;
+    border-radius: 24px;
+  }
+}
+/* MARKETPLACE_HUB_CSS_END */
+
+</style>
 </head>
 
 <body>
@@ -624,8 +750,8 @@
       </a>
 
       <nav class="nav-actions">
-        <a class="pill" href="#ofertas">🔥 Ofertas</a>
-        <a class="pill" href="#categorias">🧭 Categorias</a>
+        <a class="pill" href="#marketplaces">🔥 Ofertas</a>
+        <a class="pill" href="#marketplaces">🧭 Categorias</a>
         <a class="pill telegram" href="https://t.me/dmaispromo" target="_blank" rel="noopener">📲 Telegram</a>
         <a class="pill coupon" href="https://s.shopee.com.br/111NhMP4uM" target="_blank" rel="nofollow sponsored noopener">🎟️ Cupons Shopee</a>
       </nav>
@@ -639,12 +765,12 @@
           <div class="eyebrow">⚡ Ofertas atualizadas automaticamente</div>
           <h1>Achadinhos e descontos para comprar melhor.</h1>
           <p>
-            Uma vitrine inteligente de ofertas da Shopee e Mercado Livre,
+            Uma vitrine inteligente de ofertas da Amazon, Shopee e Mercado Livre,
             com cupons, categorias e produtos selecionados para economizar todos os dias.
           </p>
 
           <div class="hero-actions">
-            <a class="btn btn-primary" href="#ofertas">Ver ofertas agora</a>
+            <a class="btn btn-primary" href="#marketplaces">Ver ofertas agora</a>
             <a class="btn btn-secondary" href="https://t.me/dmaispromo" target="_blank" rel="noopener">Entrar no Telegram</a>
           </div>
         </div>
@@ -703,7 +829,69 @@
       </div>
     </section>
 
-    <section class="container section" id="categorias">
+    
+<!-- MARKETPLACE_HUB_START -->
+<section class="marketplace-hub" id="marketplaces">
+  <div class="marketplace-hub-card">
+    <h2>🛍️ Escolha onde ver ofertas</h2>
+    <p>
+      Para deixar sua experiência mais organizada, separamos as ofertas por marketplace.
+      Escolha uma loja abaixo para ver produtos atualizados, cupons e achadinhos sem misturar tudo em uma única vitrine.
+    </p>
+
+    <div class="marketplace-grid">
+      <a class="marketplace-tile primary" href="./ofertas-amazon.html">
+        <span class="marketplace-icon">🛒</span>
+        <h3>Ofertas Amazon</h3>
+        <p>Achadinhos selecionados manualmente com validade curta e foco em boas oportunidades.</p>
+        <span class="marketplace-cta">Ver ofertas Amazon →</span>
+      </a>
+
+      <a class="marketplace-tile primary" href="./ofertas-shopee.html">
+        <span class="marketplace-icon">🧡</span>
+        <h3>Ofertas Shopee</h3>
+        <p>Produtos com descontos, achadinhos populares e oportunidades atualizadas automaticamente.</p>
+        <span class="marketplace-cta">Ver ofertas Shopee →</span>
+      </a>
+
+      <a class="marketplace-tile primary" href="./ofertas-mercado-livre.html">
+        <span class="marketplace-icon">💛</span>
+        <h3>Mercado Livre</h3>
+        <p>Ofertas do Mercado Livre com links afiliados, filtros de qualidade e curadoria automática.</p>
+        <span class="marketplace-cta">Ver Mercado Livre →</span>
+      </a>
+
+      <a class="marketplace-tile coupon" href="./cupons-shopee.html">
+        <span class="marketplace-icon">🎟️</span>
+        <h3>Cupons Shopee</h3>
+        <p>Antes de comprar, veja cupons ativos, frete grátis e descontos extras da Shopee.</p>
+        <span class="marketplace-cta">Pegar cupons →</span>
+      </a>
+
+      <a class="marketplace-tile" href="./feed.html">
+        <span class="marketplace-icon">📡</span>
+        <h3>Feed visual</h3>
+        <p>Veja uma seleção visual das ofertas mais recentes geradas automaticamente.</p>
+        <span class="marketplace-cta">Abrir feed →</span>
+      </a>
+
+      <a class="marketplace-tile telegram" href="https://t.me/dmaispromo" target="_blank" rel="noopener">
+        <span class="marketplace-icon">📲</span>
+        <h3>Telegram</h3>
+        <p>Receba ofertas e cupons direto no canal MaryLouse Ofertas.</p>
+        <span class="marketplace-cta">Entrar no canal →</span>
+      </a>
+    </div>
+
+    <div class="home-clean-note">
+      Aviso: a MaryLouse Ofertas pode receber comissão por compras feitas pelos links. 
+      Preços e disponibilidade podem mudar a qualquer momento.
+    </div>
+  </div>
+</section>
+<!-- MARKETPLACE_HUB_END -->
+
+<section class="container section" id="categorias">
       <div class="section-card">
         <h2 class="section-title">🧭 Explore por categoria</h2>
         <p class="section-desc">Use uma categoria principal para filtrar rapidamente as ofertas.</p>
@@ -1388,5 +1576,57 @@
 
     loadOffers();
   </script>
+
+<!-- MARKETPLACE_HUB_SCRIPT_START -->
+<script>
+  (function () {
+    function hideOldMixedSections() {
+      const idsToHide = ["categorias", "ofertas"];
+
+      idsToHide.forEach(function (id) {
+        const el = document.getElementById(id);
+        if (el) {
+          el.style.display = "none";
+        }
+      });
+
+      const hotGrid = document.getElementById("hotGrid");
+      if (hotGrid) {
+        const section = hotGrid.closest("section");
+        if (section) {
+          section.style.display = "none";
+        }
+      }
+
+      const categoryTabs = document.getElementById("categoryTabs");
+      if (categoryTabs) {
+        const section = categoryTabs.closest("section");
+        if (section) {
+          section.style.display = "none";
+        }
+      }
+
+      const productGrid =
+        document.getElementById("productGrid") ||
+        document.getElementById("offersGrid") ||
+        document.getElementById("productsGrid");
+
+      if (productGrid) {
+        const section = productGrid.closest("section");
+        if (section) {
+          section.style.display = "none";
+        }
+      }
+    }
+
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", hideOldMixedSections);
+    } else {
+      hideOldMixedSections();
+    }
+  })();
+</script>
+<!-- MARKETPLACE_HUB_SCRIPT_END -->
+
 </body>
 </html>

@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 27/07/2026 04:21
+Gerado em: 27/07/2026 05:03
 
 ## Categorias prioritárias
 
@@ -12,8 +12,8 @@ Gerado em: 27/07/2026 04:21
 - 👟 **Calçados**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 🍳 **Casa e Cozinha**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - ❤️ **Saúde**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
+- 🐶 **Pet**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 🏋️ **Esportes**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 🧸 **Brinquedos**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 
 ## Top ofertas para destacar
 

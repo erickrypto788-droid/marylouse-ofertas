@@ -14,6 +14,7 @@ on:
       - "scripts/generate_special_pages.py"
       - "scripts/organic_daily_plan.py"
       - "scripts/generate_pinterest_today.py"
+      - "scripts/generate_whatsapp_today.py"
       - ".github/workflows/organic-growth.yml"
 
 permissions:
@@ -56,6 +57,7 @@ jobs:
           python scripts/generate_pinterest_png.py
           python scripts/organic_daily_plan.py
           python scripts/generate_pinterest_today.py
+          python scripts/generate_whatsapp_today.py
 
       - name: Commit automatico dos arquivos gerados
         run: |

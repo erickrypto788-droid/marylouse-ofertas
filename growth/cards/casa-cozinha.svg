@@ -42,14 +42,14 @@
 
     <text x="110" y="805" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="950" fill="#ef2473">🍳 Casa e Cozinha</text>
 
-    <text x="110" y="858" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="900" fill="#1f1720">Air fryer Gaabor Air Fryer</text><text x="110" y="912" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="900" fill="#1f1720">GA-E45A0 de 4 L cinza</text>
+    <text x="110" y="858" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="900" fill="#1f1720">Air Fryer Gaabor 4L Cinza</text>
 
     
     <text x="110" y="1064" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="850" fill="#6e5e67">Por apenas</text>
     <text x="110" y="1134" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="950" fill="#08a64b">R$ 249,90</text>
 
 
-    <text x="110" y="1198" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="800" fill="#6e5e67">11 oferta(s) nesta categoria hoje</text>
+    <text x="110" y="1198" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="800" fill="#6e5e67">12 oferta(s) nesta categoria hoje</text>
 
     <rect x="110" y="1230" width="620" height="86" rx="43" fill="url(#btn)"/>
     <text x="165" y="1285" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="950" fill="#ffffff">Comprar agora</text>

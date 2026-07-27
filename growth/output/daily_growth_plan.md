@@ -1,18 +1,18 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 27/07/2026 02:05
+Gerado em: 27/07/2026 02:21
 
 ## Categorias prioritárias
 
-- 💻 **Informática**: 19 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 📦 **Outros**: 16 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 📦 **Outros**: 21 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 💻 **Informática**: 17 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 🍼 **Mãe e Bebê**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 👜 **Bolsas**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 - 📱 **Celulares**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 👟 **Calçados**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - ❤️ **Saúde**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 📚 **Papelaria**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 - 🐶 **Pet**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
+- 👜 **Bolsas**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 - 🍳 **Casa e Cozinha**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 
 ## Top ofertas para destacar
@@ -66,26 +66,26 @@ Gerado em: 27/07/2026 02:05
    - Desconto: 68% OFF
    - Link: https://s.shopee.com.br/1Vxp5vVRGU
 
-8. **mochila grande unissex impermeável notebook alta capacidade resistent…**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 69,90
-   - Desconto: 65% OFF
-   - Link: https://s.shopee.com.br/195A95dj2
-
-9. **Ração Cachorro Filhotes Quatree Select 15kg Premium Especial**
+8. **Ração Cachorro Filhotes Quatree Select 15kg Premium Especial**
    - Categoria: Pet
    - Loja: Mercado Livre
    - Preço: R$ 179,90
    - Desconto: 45% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB36472861?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-10. **Ração Golden Adultos Light 15kg**
+9. **Ração Golden Adultos Light 15kg**
    - Categoria: Pet
    - Loja: Mercado Livre
    - Preço: R$ 164,00
    - Desconto: 32% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB26246485?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+10. **Air fryer Gaabor Air Fryer GA-E45A0 de 4 L cinza**
+   - Categoria: Casa e Cozinha
+   - Loja: Mercado Livre
+   - Preço: R$ 249,90
+   - Desconto: 31% OFF
+   - Link: https://www.mercadolivre.com.br/p/MLB19635472?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ## Ações gratuitas recomendadas
 

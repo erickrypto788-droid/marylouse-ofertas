@@ -1,6 +1,6 @@
 # Pinterest Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 27/07/2026 17:37
+Gerado em: 27/07/2026 17:40
 
 ## Como usar
 
@@ -20,7 +20,7 @@ Recomendação inicial: publicar de 3 a 5 pins por dia.
 
 **Board sugerido:** Ofertas para Bebê
 
-**Imagem/card:**
+**Imagem para upload no Pinterest:**
 
 https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
 
@@ -32,7 +32,7 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
 
 Veja ofertas de Mãe e Bebê selecionadas pela MaryLouse Ofertas. Destaque de hoje: Monitor Fetal Doppler Ultrassom Ouvir Batimentos Bebe. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
-**Link:**
+**Link de destino do Pin:**
 
 https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=pinterest&utm_medium=organic&utm_campaign=pin_mae-bebe
 
@@ -48,7 +48,7 @@ Categoria com 19 oferta(s) e boa intenção de compra.
 
 **Board sugerido:** Achadinhos de Casa
 
-**Imagem/card:**
+**Imagem para upload no Pinterest:**
 
 https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
 
@@ -60,7 +60,7 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
 
 Veja ofertas de Casa e Cozinha selecionadas pela MaryLouse Ofertas. Destaque de hoje: Air fryer Gaabor Air Fryer GA-E45A0 de 4 L cinza. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
-**Link:**
+**Link de destino do Pin:**
 
 https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=pinterest&utm_medium=organic&utm_campaign=pin_casa-cozinha
 
@@ -76,7 +76,7 @@ Categoria com 10 oferta(s) e boa intenção de compra.
 
 **Board sugerido:** Beleza e Cuidados
 
-**Imagem/card:**
+**Imagem para upload no Pinterest:**
 
 https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
 
@@ -88,7 +88,7 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
 
 Veja ofertas de Beleza selecionadas pela MaryLouse Ofertas. Destaque de hoje: Escova Secadora 110V Alisador Elétrica Quente Cabelo Com 3 Em1 Hair S…. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
-**Link:**
+**Link de destino do Pin:**
 
 https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=pinterest&utm_medium=organic&utm_campaign=pin_beleza
 
@@ -104,7 +104,7 @@ Categoria com 7 oferta(s) e boa intenção de compra.
 
 **Board sugerido:** Celulares e Tecnologia
 
-**Imagem/card:**
+**Imagem para upload no Pinterest:**
 
 https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
 
@@ -116,7 +116,7 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
 
 Veja ofertas de Celulares selecionadas pela MaryLouse Ofertas. Destaque de hoje: Crazy Bag Bolsa Feminina Transversal Touch Screen com Porta Celular e…. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
-**Link:**
+**Link de destino do Pin:**
 
 https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=pinterest&utm_medium=organic&utm_campaign=pin_celulares
 
@@ -132,7 +132,7 @@ Categoria com 11 oferta(s) e boa intenção de compra.
 
 **Board sugerido:** Celulares e Tecnologia
 
-**Imagem/card:**
+**Imagem para upload no Pinterest:**
 
 https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
 
@@ -144,7 +144,7 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
 
 Oferta destaque em Celulares encontrada pela MaryLouse Ofertas. Preço: R$ 28,65. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
-**Link:**
+**Link de destino do Pin:**
 
 https://s.shopee.com.br/2g9rXDOeau
 

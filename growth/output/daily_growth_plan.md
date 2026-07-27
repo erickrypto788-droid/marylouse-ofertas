@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 27/07/2026 09:05
+Gerado em: 27/07/2026 09:21
 
 ## Categorias prioritárias
 
@@ -8,12 +8,12 @@ Gerado em: 27/07/2026 09:05
 - 👟 **Calçados**: 18 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 💻 **Informática**: 17 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 📱 **Celulares**: 15 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
-- 🍳 **Casa e Cozinha**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
+- 🍳 **Casa e Cozinha**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 📦 **Outros**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 🏋️ **Esportes**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - ❤️ **Saúde**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
-- ✨ **Moda Plus Size**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
 - 🐶 **Pet**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
+- 🎮 **Games**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-games.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_games
 
 ## Top ofertas para destacar
 
@@ -80,12 +80,12 @@ Gerado em: 27/07/2026 09:05
    - Desconto: 68% OFF
    - Link: https://s.shopee.com.br/1Vxp5vVRGU
 
-10. **Xiaomi Poco X8 Pro Max 5G**
-   - Categoria: Celulares
+10. **Panela de Pressão Elétrica Kian**
+   - Categoria: Casa e Cozinha
    - Loja: Shopee
-   - Preço: R$ 3.449,00
-   - Desconto: 49% OFF
-   - Link: https://s.shopee.com.br/1BL39N9f9b
+   - Preço: R$ 314,90
+   - Desconto: 37% OFF
+   - Link: https://s.shopee.com.br/1gHLCwccvk
 
 ## Ações gratuitas recomendadas
 

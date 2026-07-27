@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 27/07/2026 18:21
+Gerado em: 27/07/2026 19:07
 
 ## Categorias prioritárias
 
@@ -73,19 +73,19 @@ Gerado em: 27/07/2026 18:21
    - Desconto: 65% OFF
    - Link: https://s.shopee.com.br/50XmNcikxH
 
-9. **Air fryer Gaabor Air Fryer GA-E45A0 de 4 L cinza**
-   - Categoria: Casa e Cozinha
+9. **Alimento Golden Adultos Light 15kg Ração Cachorro Saudável**
+   - Categoria: Pet
    - Loja: Mercado Livre
-   - Preço: R$ 249,90
-   - Desconto: 31% OFF
-   - Link: https://www.mercadolivre.com.br/p/MLB19635472?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+   - Preço: R$ 164,00
+   - Desconto: 32% OFF
+   - Link: https://www.mercadolivre.com.br/p/MLB26246485?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-10. **Barbeador Costas Masculino Traseiro Dobrável Aparador Pelos**
-   - Categoria: Beleza
+10. **Ração Quatree Select Filhotes 15kg**
+   - Categoria: Pet
    - Loja: Mercado Livre
-   - Preço: R$ 231,00
-   - Desconto: 34% OFF
-   - Link: https://www.mercadolivre.com.br/p/MLB51434487?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+   - Preço: R$ 169,90
+   - Desconto: 48% OFF
+   - Link: https://www.mercadolivre.com.br/p/MLB36472861?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ## Ações gratuitas recomendadas
 

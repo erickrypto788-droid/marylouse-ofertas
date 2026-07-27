@@ -264,7 +264,7 @@ def category_page_url(cat, source="pinterest", medium="organic"):
 
 
 def card_url(cat):
-    return f"{SITE_URL}/growth/cards/{cat['slug']}.svg"
+    return f"{SITE_URL}/growth/pinterest/{cat['slug']}.png"
 
 
 def load_offers():

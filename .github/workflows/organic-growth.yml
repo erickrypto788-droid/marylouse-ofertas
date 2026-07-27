@@ -10,6 +10,7 @@ on:
       - "data/offers.json"
       - "scripts/generate_all_category_pages.py"
       - "scripts/organic_publish.py"
+      - "scripts/generate_pinterest_png.py"
       - "scripts/generate_special_pages.py"
       - "scripts/organic_daily_plan.py"
       - "scripts/generate_pinterest_today.py"
@@ -35,6 +36,11 @@ jobs:
         with:
           python-version: "3.11"
 
+      - name: Instalar dependencias de imagem
+        run: |
+          python -m pip install --upgrade pip
+          pip install pillow
+
       - name: Gerar paginas SEO por categoria
         run: |
           if [ -f scripts/generate_all_category_pages.py ]; then
@@ -47,6 +53,7 @@ jobs:
       - name: Gerar feed e cards organicos
         run: |
           python scripts/organic_publish.py
+          python scripts/generate_pinterest_png.py
           python scripts/organic_daily_plan.py
           python scripts/generate_pinterest_today.py
 
@@ -58,6 +65,7 @@ jobs:
           git add ofertas-*.html cupons-shopee.html sitemap.xml feed.xml feed.html rss.xsl || true
           git add scripts/organic_daily_plan.py scripts/generate_special_pages.py || true
           git add growth/cards || true
+          git add growth/pinterest || true
           git add growth/output || true
 
           if git diff --cached --quiet; then

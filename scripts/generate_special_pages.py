@@ -266,6 +266,16 @@ def offer_category(offer):
     if any(t in text for t in ["hot wheels", "lego", "boneca", "boneco", "brinquedo", "jogo da forca"]):
         return "Brinquedos e Hobbies"
 
+    # Prioridade: roupas femininas de treino continuam sendo Moda Feminina,
+    # não Esportes. Ex.: shorts feminino dry fit, blusa regata feminina, top feminino.
+    if any(t in text for t in [
+        "short feminino", "shorts feminino", "shorts femininos",
+        "blusa feminina", "blusa regata feminina", "regata feminina",
+        "top feminino", "cropped", "legging", "calca legging", "calça legging",
+        "conjunto feminino", "feminina", "feminino", "mulher"
+    ]):
+        return "Moda Feminina"
+
     if any(t in text for t in ["halter", "academia", "fitness", "bike spinning", "bicicleta", "whey", "creatina", "esteira", "corrida"]):
         return "Esportes"
 

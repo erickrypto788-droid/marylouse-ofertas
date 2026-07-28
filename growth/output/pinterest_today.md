@@ -1,6 +1,6 @@
 # Pinterest Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 28/07/2026 03:05
+Gerado em: 28/07/2026 03:21
 
 ## Como usar
 
@@ -38,7 +38,7 @@ https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=pinterest&
 
 **Por que postar:**
 
-Categoria com 16 oferta(s) e boa intenção de compra.
+Categoria com 15 oferta(s) e boa intenção de compra.
 
 ---
 
@@ -114,7 +114,7 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
 
 **Descrição:**
 
-Veja ofertas de Celulares selecionadas pela MaryLouse Ofertas. Destaque de hoje: Crazy Bag Bolsa Feminina Transversal Touch Screen com Porta Celular e…. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Veja ofertas de Celulares selecionadas pela MaryLouse Ofertas. Destaque de hoje: BML Smartphone 12GB+512GB ram AI Global 5G Dual Sim Android 15, 6.56'…. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
@@ -122,7 +122,7 @@ https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=pinterest
 
 **Por que postar:**
 
-Categoria com 11 oferta(s) e boa intenção de compra.
+Categoria com 16 oferta(s) e boa intenção de compra.
 
 ---
 
@@ -138,15 +138,15 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
 
 **Título:**
 
-71% OFF: Crazy Bag Bolsa Feminina Transversal Touch Screen com Porta Celular e…
+73% OFF: BML Smartphone 12GB+512GB ram AI Global 5G Dual Sim Android 15, 6.56'…
 
 **Descrição:**
 
-Oferta destaque em Celulares encontrada pela MaryLouse Ofertas. Preço: R$ 28,65. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Oferta destaque em Celulares encontrada pela MaryLouse Ofertas. Preço: R$ 1.098,00. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
-https://s.shopee.com.br/2g9rXDOeau
+https://s.shopee.com.br/60QLZ4m8Ls
 
 **Por que postar:**
 

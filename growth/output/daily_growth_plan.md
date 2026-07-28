@@ -1,17 +1,17 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 28/07/2026 17:21
+Gerado em: 28/07/2026 18:06
 
 ## Categorias prioritárias
 
 - 💻 **Informática**: 19 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 📦 **Outros**: 16 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
-- 👜 **Bolsas**: 16 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 - 🍼 **Mãe e Bebê**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 👟 **Calçados**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 📱 **Celulares**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 👜 **Bolsas**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 - 🎮 **Games**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-games.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_games
 - 🍳 **Casa e Cozinha**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
+- 📱 **Celulares**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 💄 **Beleza**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🐶 **Pet**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 
@@ -52,40 +52,40 @@ Gerado em: 28/07/2026 17:21
    - Desconto: 50% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB74602351?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-6. **Crazy Bag Bolsa Feminina Transversal Touch Screen com Porta Celular e…**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 28,65
-   - Desconto: 71% OFF
-   - Link: https://s.shopee.com.br/2g9rXDOeau
-
-7. **Air fryer Gaabor Air Fryer GA-E45A0 de 4 L cinza**
+6. **Air fryer Gaabor Air Fryer GA-E45A0 de 4 L cinza**
    - Categoria: Casa e Cozinha
    - Loja: Mercado Livre
    - Preço: R$ 249,90
    - Desconto: 31% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB19635472?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-8. **Alimento Royal Canin Hair & Skin 3kg Ração Gato**
+7. **Alimento Royal Canin Hair & Skin 3kg Ração Gato**
    - Categoria: Pet
    - Loja: Mercado Livre
    - Preço: R$ 264,71
    - Desconto: 34% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB28523781?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-9. **Ração Cachorro Filhotes Quatree Select 15kg Premium Especial**
+8. **Ração Cachorro Filhotes Quatree Select 15kg Premium Especial**
    - Categoria: Pet
    - Loja: Mercado Livre
    - Preço: R$ 169,90
    - Desconto: 48% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB36472861?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-10. **Smartphone Xiaomi POCO C85 4G, NFC Tela LCD 6.9", Câmera 50MP, Versão…**
+9. **Smartphone Xiaomi POCO C85 4G, NFC Tela LCD 6.9", Câmera 50MP, Versão…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 979,90
    - Desconto: 42% OFF
    - Link: https://s.shopee.com.br/2g9tawTt76
+
+10. **Celular Smartphone Xiaomi Poco C71 128GB / 64GB Dual Sim Global**
+   - Categoria: Celulares
+   - Loja: Shopee
+   - Preço: R$ 759,90
+   - Desconto: 42% OFF
+   - Link: https://s.shopee.com.br/3Vj0aTQiQD
 
 ## Ações gratuitas recomendadas
 

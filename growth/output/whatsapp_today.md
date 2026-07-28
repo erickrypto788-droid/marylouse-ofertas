@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 28/07/2026 19:58
+Gerado em: 28/07/2026 20:06
 
 ## Como usar
 
@@ -177,7 +177,7 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
 ```txt
 🍳 Oferta para Casa e Cozinha
 
-Air fryer Gaabor Air Fryer GA-E45A0 de 4 L cinza
+Air Fryer Gaabor 4L Cinza
 
 💸 De: R$ 362,34
 🔥 Por: R$ 249,90

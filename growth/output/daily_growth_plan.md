@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 28/07/2026 14:21
+Gerado em: 28/07/2026 15:14
 
 ## Categorias prioritárias
 
@@ -9,9 +9,9 @@ Gerado em: 28/07/2026 14:21
 - 💻 **Informática**: 16 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - ❤️ **Saúde**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 👟 **Calçados**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 📱 **Celulares**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
-- 🍳 **Casa e Cozinha**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
+- 📱 **Celulares**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 🐶 **Pet**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
+- 🍳 **Casa e Cozinha**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 💄 **Beleza**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 📦 **Outros**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 
@@ -59,33 +59,33 @@ Gerado em: 28/07/2026 14:21
    - Desconto: 71% OFF
    - Link: https://s.shopee.com.br/2g9rXDOeau
 
-7. **Celular 5g Smartphone 16gb/512gb Rom Dimensity 7200 Impressão Digital…**
-   - Categoria: Celulares
-   - Loja: Mercado Livre
-   - Preço: R$ 1.680,00
-   - Desconto: 58% OFF
-   - Link: https://www.mercadolivre.com.br/p/MLB75208845?matt_word=marylouse&matt_tool=50459180&forceInApp=true
-
-8. **Alimento Royal Canin Hair & Skin 3kg Ração Gato**
+7. **Alimento Royal Canin Hair & Skin 3kg Ração Gato**
    - Categoria: Pet
    - Loja: Mercado Livre
    - Preço: R$ 264,71
    - Desconto: 34% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB28523781?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-9. **Ração Cachorro Filhotes Quatree Select 15kg Premium Especial**
+8. **Ração Cachorro Filhotes Quatree Select 15kg Premium Especial**
    - Categoria: Pet
    - Loja: Mercado Livre
    - Preço: R$ 169,90
    - Desconto: 48% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB36472861?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-10. **Air Fryer Gaabor 4L Cinza**
+9. **Air Fryer Gaabor 4L Cinza**
    - Categoria: Casa e Cozinha
    - Loja: Mercado Livre
    - Preço: R$ 249,90
    - Desconto: 31% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB19635472?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+10. **Smartphone Xiaomi POCO C85 4G, NFC Tela LCD 6.9", Câmera 50MP, Versão…**
+   - Categoria: Celulares
+   - Loja: Shopee
+   - Preço: R$ 979,90
+   - Desconto: 42% OFF
+   - Link: https://s.shopee.com.br/2g9tawTt76
 
 ## Ações gratuitas recomendadas
 

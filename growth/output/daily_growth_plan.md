@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 27/07/2026 23:21
+Gerado em: 28/07/2026 00:06
 
 ## Categorias prioritárias
 
@@ -9,8 +9,8 @@ Gerado em: 27/07/2026 23:21
 - 📦 **Outros**: 16 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 📱 **Celulares**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 👟 **Calçados**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 🐶 **Pet**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 👗 **Moda Feminina**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
-- 🍳 **Casa e Cozinha**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 💄 **Beleza**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - ❤️ **Saúde**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 🏋️ **Esportes**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
@@ -66,26 +66,26 @@ Gerado em: 27/07/2026 23:21
    - Desconto: 70% OFF
    - Link: https://s.shopee.com.br/8V7fHO5twb
 
-8. **Alimento Golden Adultos Light 15kg Ração Cachorro Saudável**
+8. **Air fryer Gaabor Air Fryer GA-E45A0 de 4 L cinza**
+   - Categoria: Casa e Cozinha
+   - Loja: Mercado Livre
+   - Preço: R$ 249,90
+   - Desconto: 31% OFF
+   - Link: https://www.mercadolivre.com.br/p/MLB19635472?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+9. **Alimento Golden Adultos Light 15kg Ração Cachorro Saudável**
    - Categoria: Pet
    - Loja: Mercado Livre
    - Preço: R$ 164,00
    - Desconto: 32% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB26246485?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-9. **Ração Quatree Select Filhotes 15kg**
+10. **Ração Quatree Select Filhotes 15kg**
    - Categoria: Pet
    - Loja: Mercado Livre
    - Preço: R$ 169,90
    - Desconto: 48% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB36472861?matt_word=marylouse&matt_tool=50459180&forceInApp=true
-
-10. **Air fryer Gaabor Air Fryer GA-E45A0 de 4 L cinza**
-   - Categoria: Casa e Cozinha
-   - Loja: Mercado Livre
-   - Preço: R$ 249,90
-   - Desconto: 31% OFF
-   - Link: https://www.mercadolivre.com.br/p/MLB19635472?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ## Ações gratuitas recomendadas
 

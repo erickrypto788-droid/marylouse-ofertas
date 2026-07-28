@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 28/07/2026 22:21
+Gerado em: 28/07/2026 23:05
 
 ## Categorias prioritárias
 
@@ -9,11 +9,11 @@ Gerado em: 28/07/2026 22:21
 - 👗 **Moda Feminina**: 15 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 🍼 **Mãe e Bebê**: 15 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 📦 **Outros**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 💄 **Beleza**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🏋️ **Esportes**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - ✨ **Moda Plus Size**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
 - 👕 **Moda Masculina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 - 📱 **Celulares**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
-- 🍳 **Casa e Cozinha**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 
 ## Top ofertas para destacar
 
@@ -59,33 +59,33 @@ Gerado em: 28/07/2026 22:21
    - Desconto: 73% OFF
    - Link: https://s.shopee.com.br/60QLZ4m8Ls
 
-7. **Air Fryer Gaabor 4L Cinza**
+7. **Escova Secadora Profissional**
+   - Categoria: Beleza
+   - Loja: Mercado Livre
+   - Preço: R$ 43,99
+   - Desconto: 44% OFF
+   - Link: https://www.mercadolivre.com.br/p/MLB37914167?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+8. **Air Fryer Gaabor 4L Cinza**
    - Categoria: Casa e Cozinha
    - Loja: Mercado Livre
    - Preço: R$ 249,90
    - Desconto: 31% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB19635472?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-8. **Barbeador Costas Masculino Traseiro Dobrável Aparador Pelos**
+9. **Barbeador Costas Masculino Traseiro Dobrável Aparador Pelos**
    - Categoria: Beleza
    - Loja: Mercado Livre
    - Preço: R$ 231,00
    - Desconto: 34% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB51434487?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-9. **Alimento Royal Canin Hair & Skin 3kg Ração Gato**
+10. **Alimento Royal Canin Hair & Skin 3kg Ração Gato**
    - Categoria: Pet
    - Loja: Mercado Livre
    - Preço: R$ 264,71
    - Desconto: 34% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB28523781?matt_word=marylouse&matt_tool=50459180&forceInApp=true
-
-10. **Ração Cachorro Filhotes Quatree Select 15kg Premium Especial**
-   - Categoria: Pet
-   - Loja: Mercado Livre
-   - Preço: R$ 169,90
-   - Desconto: 48% OFF
-   - Link: https://www.mercadolivre.com.br/p/MLB36472861?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ## Ações gratuitas recomendadas
 

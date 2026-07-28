@@ -1,5 +1,56 @@
 [
   {
+    "id": "d4cd5808d38df63d97",
+    "title": "Smartphone Xiaomi Poco C85",
+    "raw_title": "Smartphone xiaomi Poco C85 6gb ram + 128gb, Preto",
+    "description": "🚀 OFERTA IMPERDÍVEL! Chegou o Smartphone Xiaomi Poco C85 na cor preta! 📱 Com 6GB de RAM e 128GB de armazenamento, ele garante performance e espaço de so...",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "",
+    "price": "R$ 716,50",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_634067-MLA99461655120_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB56425611?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "28/07/2026 08:04",
+    "created_at_iso": "2026-07-28T08:04:37",
+    "created_ts": 1785225877
+  },
+  {
+    "id": "9ca2971769f9f2beac",
+    "title": "Xiaomi Redmi 9c 32GB Azul",
+    "raw_title": "Smartphone Xiaomi Redmi 9c 32gb Azul",
+    "description": "⚡️ OFERTA RELÂMPAGO! ⚡️ Garanta já seu novo Smartphone Xiaomi Redmi 9c 32gb Azul! 📱✨ Perfeito para o dia a dia, com ótimo desempenho e design moderno.",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "",
+    "price": "R$ 999,99",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_728028-MLA99575117872_122025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47326105?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "28/07/2026 08:03",
+    "created_at_iso": "2026-07-28T08:03:19",
+    "created_ts": 1785225799
+  },
+  {
+    "id": "d088df19f476852bee",
+    "title": "Samsung S23 Ultra 512GB Creme",
+    "raw_title": "Smartphone Samsung Galaxy S23 Ultra 512gb Creme",
+    "description": "🚀 TECNOLOGIA DE PONTA NAS SUAS MÃOS! 🚀 Chegou a hora de ter o Smartphone Samsung Galaxy S23 Ultra 512GB Creme! Performance incrível e espaço de sobra pa...",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "",
+    "price": "R$ 5.999,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_662216-MLA99464976462_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39444837?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "28/07/2026 08:02",
+    "created_at_iso": "2026-07-28T08:02:09",
+    "created_ts": 1785225729
+  },
+  {
     "id": "59577480d232952c33",
     "title": "Cobertor Manta Brilha no Escuro Antialérgico",
     "raw_title": "Cobertor Manta Infantil Casal 2,00x1,80Mt Brilha no Escuro Antialérgico",
@@ -2516,40 +2567,6 @@
     }
   },
   {
-    "id": "9ca2971769f9f2beac",
-    "title": "Smartphone Xiaomi Redmi 9c 32gb Azul",
-    "raw_title": "Smartphone Xiaomi Redmi 9c 32gb Azul",
-    "description": "🔥 Oferta encontrada! 📌 Smartphone Xiaomi Redmi 9c 32gb Azul Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Mercado Livre",
-    "category": "Informática",
-    "old_price": "",
-    "price": "R$ 999,99",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_728028-MLA99575117872_122025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47326105?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "27/07/2026 15:04",
-    "created_at_iso": "2026-07-27T15:04:08",
-    "created_ts": 1785164648
-  },
-  {
-    "id": "d088df19f476852bee",
-    "title": "Smartphone Samsung Galaxy S23 Ultra 512gb Creme",
-    "raw_title": "Smartphone Samsung Galaxy S23 Ultra 512gb Creme",
-    "description": "🔥 Oferta encontrada! 📌 Smartphone Samsung Galaxy S23 Ultra 512gb Creme Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Mercado Livre",
-    "category": "Informática",
-    "old_price": "",
-    "price": "R$ 5.999,00",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_662216-MLA99464976462_112025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39444837?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "27/07/2026 15:03",
-    "created_at_iso": "2026-07-27T15:03:04",
-    "created_ts": 1785164584
-  },
-  {
     "id": "09ba571c3747d590b6",
     "title": "Celular 5g Smartphone 16gb/512gb Rom Dimensity 7200 Impressão Digital…",
     "raw_title": "Celular 5g Smartphone 16gb/512gb Rom Dimensity 7200 Impressão Digital Android 15",
@@ -3333,27 +3350,6 @@
     "niche": {
       "key": "shopee_celulares_dispositivos",
       "name": "Celulares e Dispositivos"
-    }
-  },
-  {
-    "id": "a10285cb7a395273f6",
-    "title": "Botina Coturno Masculina",
-    "raw_title": "Botina Coturno Masculina Casual Confortavél Trabalho Couro Sintético Sola Adventure Estilo",
-    "description": "🚨 IMPERDÍVEL: Conforto e Estilo para Seus Pés! 👞 A Botina Coturno Masculina Casual que combina com tudo! Perfeita para o trabalho ou aventuras do dia a...",
-    "marketplace": "Shopee",
-    "category": "Sapatos Masculinos",
-    "old_price": "R$ 140,77",
-    "price": "R$ 54,90",
-    "discount_percent": 61.0,
-    "rating": 4.2,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9a6aosf54hu3d",
-    "affiliate_url": "https://s.shopee.com.br/AAFtCKDjeZ",
-    "created_at": "27/07/2026 07:20",
-    "created_at_iso": "2026-07-27T07:20:22",
-    "created_ts": 1785136822,
-    "niche": {
-      "key": "shopee_sapatos_masculinos",
-      "name": "Sapatos Masculinos"
     }
   },
   {

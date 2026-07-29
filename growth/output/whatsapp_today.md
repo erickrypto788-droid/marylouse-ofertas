@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 29/07/2026 15:05
+Gerado em: 29/07/2026 15:21
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Calça Jeans Feminina Cintura Alta Wide Leg Com Bolso
+Conjunto Segunda Pele Térmica Flanelado Frio Intenso Preto Proteção U…
 
-💸 De: R$ 199,97
-🔥 Por: R$ 69,99
-🏷️ 65% OFF
+💸 De: R$ 90,61
+🔥 Por: R$ 29,90
+🏷️ 67% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/qiHjnbDG9
+Ver oferta: https://s.shopee.com.br/9fJcTCbhI8
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

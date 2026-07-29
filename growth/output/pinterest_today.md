@@ -1,6 +1,6 @@
 # Pinterest Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 29/07/2026 07:06
+Gerado em: 29/07/2026 07:21
 
 ## Como usar
 
@@ -30,7 +30,7 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
 
 **Descrição:**
 
-Veja ofertas de Mãe e Bebê selecionadas pela MaryLouse Ofertas. Destaque de hoje: Berço Portátil Moises Co-bed Com Balanço Mosquiteiro e Cesto Regulage…. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Veja ofertas de Mãe e Bebê selecionadas pela MaryLouse Ofertas. Destaque de hoje: Fraldas SUMIKKO Ajustáveis. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
@@ -38,7 +38,7 @@ https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=pinterest&
 
 **Por que postar:**
 
-Categoria com 15 oferta(s) e boa intenção de compra.
+Categoria com 19 oferta(s) e boa intenção de compra.
 
 ---
 
@@ -126,27 +126,27 @@ Categoria com 7 oferta(s) e boa intenção de compra.
 
 ---
 
-## Pin 5 — Beleza
+## Pin 5 — Mãe e Bebê
 
 **Tipo:** produto_direto
 
-**Board sugerido:** Beleza e Cuidados
+**Board sugerido:** Ofertas para Bebê
 
 **Imagem para upload no Pinterest:**
 
-https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
+https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
 
 **Título:**
 
-61% OFF: Escova Secadora 110V Alisador Elétrica Quente Cabelo Com 3 Em1 Hair S…
+65% OFF: Fraldas SUMIKKO Ajustáveis
 
 **Descrição:**
 
-Oferta destaque em Beleza encontrada pela MaryLouse Ofertas. Preço: R$ 38,66. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Oferta destaque em Mãe e Bebê encontrada pela MaryLouse Ofertas. Preço: R$ 69,00. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
-https://s.shopee.com.br/1LeXXHAl2Y
+https://s.shopee.com.br/8AUs0QjbJU
 
 **Por que postar:**
 

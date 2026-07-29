@@ -1,91 +1,91 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 29/07/2026 02:05
+Gerado em: 29/07/2026 02:21
 
 ## Categorias prioritárias
 
-- 👟 **Calçados**: 22 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 💻 **Informática**: 17 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 👟 **Calçados**: 17 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 💄 **Beleza**: 16 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🍼 **Mãe e Bebê**: 15 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 📦 **Outros**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 📱 **Celulares**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 🍳 **Casa e Cozinha**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
-- 💄 **Beleza**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🏋️ **Esportes**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 👗 **Moda Feminina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 👜 **Bolsas**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 
 ## Top ofertas para destacar
 
-1. **Panela De Pressão 4,5litros Panelux Linha Classic Alto Brilho A Mais…**
+1. **Escova Secadora 110V Alisador Elétrica Quente Cabelo Com 3 Em1 Hair S…**
+   - Categoria: Beleza
+   - Loja: Shopee
+   - Preço: R$ 38,66
+   - Desconto: 61% OFF
+   - Link: https://s.shopee.com.br/1LeXXHAl2Y
+
+2. **Attracione Men (Perfume Masculino com Feromônios Ativados)**
+   - Categoria: Beleza
+   - Loja: Shopee
+   - Preço: R$ 59,00
+   - Desconto: 80% OFF
+   - Link: https://s.shopee.com.br/1Vxxja5RsP
+
+3. **Panela De Pressão 4,5litros Panelux Linha Classic Alto Brilho A Mais…**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 57,90
    - Desconto: 50% OFF
    - Link: https://s.shopee.com.br/8pkX0PUrt6
 
-2. **Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com…**
+4. **Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 19,79
    - Desconto: 61% OFF
    - Link: https://s.shopee.com.br/5fnWZ071RT
 
-3. **Mesa Dobrável Notebook Retrátil Home Office Apoio Cama Sofá Trabalho…**
+5. **Mesa Dobrável Notebook Retrátil Home Office Apoio Cama Sofá Trabalho…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 37,89
    - Desconto: 57% OFF
    - Link: https://s.shopee.com.br/5fnWGutPP1
 
-4. **Chapinha Cabelo Profissional Prancha Alisadora De Cabelo chapinha Par…**
+6. **Chapinha Cabelo Profissional Prancha Alisadora De Cabelo chapinha Par…**
    - Categoria: Beleza
    - Loja: Mercado Livre
    - Preço: R$ 58,00
    - Desconto: 50% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB74602351?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-5. **Mochila Unissex Impermeável Notebook**
+7. **Mochila Unissex Impermeável Notebook**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 69,90
    - Desconto: 65% OFF
    - Link: https://s.shopee.com.br/W5OPtKKao
 
-6. **Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler…**
+8. **Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler…**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 37,62
    - Desconto: 62% OFF
    - Link: https://s.shopee.com.br/7VF8DmJHVf
 
-7. **Perfume Attracione Feminino by Attracione Woman Mulher**
+9. **Perfume Attracione Feminino by Attracione Woman Mulher**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 49,00
    - Desconto: 71% OFF
    - Link: https://s.shopee.com.br/8KoGTbZMHn
 
-8. **BML Smartphone 12GB+512GB ram AI Global 5G Dual Sim Android 15, 6.56'…**
+10. **BML Smartphone 12GB+512GB ram AI Global 5G Dual Sim Android 15, 6.56'…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 1.098,00
    - Desconto: 73% OFF
    - Link: https://s.shopee.com.br/60QLZ4m8Ls
-
-9. **Panela de Pressão Elétrica Digital 5/6 litros Preta ou Inox - kian**
-   - Categoria: Casa e Cozinha
-   - Loja: Shopee
-   - Preço: R$ 314,90
-   - Desconto: 37% OFF
-   - Link: https://s.shopee.com.br/40fIe37DsX
-
-10. **Escova Secadora Profissional**
-   - Categoria: Beleza
-   - Loja: Mercado Livre
-   - Preço: R$ 43,99
-   - Desconto: 44% OFF
-   - Link: https://www.mercadolivre.com.br/p/MLB37914167?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ## Ações gratuitas recomendadas
 

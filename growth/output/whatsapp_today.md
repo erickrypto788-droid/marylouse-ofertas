@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 29/07/2026 02:05
+Gerado em: 29/07/2026 02:21
 
 ## Como usar
 
@@ -57,14 +57,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
 ```txt
 💄 Oferta para Beleza e Cuidados
 
-Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler…
+Escova Secadora 110V Alisador Elétrica Quente Cabelo Com 3 Em1 Hair S…
 
-💸 De: R$ 99,00
-🔥 Por: R$ 37,62
-🏷️ 62% OFF
+💸 De: R$ 99,13
+🔥 Por: R$ 38,66
+🏷️ 61% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/7VF8DmJHVf
+Ver oferta: https://s.shopee.com.br/1LeXXHAl2Y
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Kit 2 Blusas de Frio Feminina Gola Alta Cacharrel Plus Size Blusa Seg…
+Kit Body Splash Dolce + Florata Red 200ml Feminino.
 
-💸 De: R$ 136,41
-🔥 Por: R$ 39,56
-🏷️ 71% OFF
+💸 De: R$ 99,72
+🔥 Por: R$ 35,90
+🏷️ 64% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/3g2QeXlZYi
+Ver oferta: https://s.shopee.com.br/20uEKUzHab
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

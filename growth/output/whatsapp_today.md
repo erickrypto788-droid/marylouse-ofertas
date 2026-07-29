@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 29/07/2026 01:06
+Gerado em: 29/07/2026 01:21
 
 ## Como usar
 
@@ -72,7 +72,37 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 3 — Ofertas Pet
+## Post 3 — Casa e Cozinha
+
+**Canal recomendado:** Casa e Cozinha
+
+**Horário sugerido:** 18:00 - 20:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
+
+**Texto pronto:**
+
+```txt
+🍳 Oferta para Casa e Cozinha
+
+Panela De Pressão 4,5litros Panelux Linha Classic Alto Brilho A Mais…
+
+💸 De: R$ 115,80
+🔥 Por: R$ 57,90
+🏷️ 50% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/8pkX0PUrt6
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 4 — Ofertas Pet
 
 **Canal recomendado:** Ofertas Pet
 
@@ -102,7 +132,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Mamãe e Bebê
+## Post 5 — Mamãe e Bebê
 
 **Canal recomendado:** Mamãe e Bebê
 
@@ -132,7 +162,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 5 — Moda Feminina
+## Post 6 — Moda Feminina
 
 **Canal recomendado:** Moda Feminina
 
@@ -155,36 +185,6 @@ Kit 2 Blusas de Frio Feminina Gola Alta Cacharrel Plus Size Blusa Seg…
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/3g2QeXlZYi
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 6 — Casa e Cozinha
-
-**Canal recomendado:** Casa e Cozinha
-
-**Horário sugerido:** 18:00 - 20:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
-
-**Texto pronto:**
-
-```txt
-🍳 Oferta para Casa e Cozinha
-
-Air Fryer Gaabor 4L Cinza
-
-💸 De: R$ 362,34
-🔥 Por: R$ 249,90
-🏷️ 31% OFF
-🛒 Loja: Mercado Livre
-
-Ver oferta: https://www.mercadolivre.com.br/p/MLB19635472?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

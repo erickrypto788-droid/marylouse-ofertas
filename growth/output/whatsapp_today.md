@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 29/07/2026 21:05
+Gerado em: 29/07/2026 21:21
 
 ## Como usar
 
@@ -87,14 +87,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
 ```txt
 💄 Oferta para Beleza e Cuidados
 
-Escova Secadora 110V Alisador Elétrica Quente Cabelo Com 3 Em1 Hair S…
+Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler…
 
-💸 De: R$ 99,13
-🔥 Por: R$ 38,66
-🏷️ 61% OFF
+💸 De: R$ 99,00
+🔥 Por: R$ 37,62
+🏷️ 62% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/1LeXXHAl2Y
+Ver oferta: https://s.shopee.com.br/1qao8C8r1d
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

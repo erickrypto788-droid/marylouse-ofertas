@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 29/07/2026 04:21
+Gerado em: 29/07/2026 05:21
 
 ## Como usar
 
@@ -117,14 +117,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
 ```txt
 🐶 Oferta para Ofertas Pet
 
-Sandália Papete Ortopédica Confortável
+Tapete Tatame Infantil Emborrachado
 
-💸 De: R$ 90,00
-🔥 Por: R$ 36,90
-🏷️ 59% OFF
+💸 De: R$ 105,00
+🔥 Por: R$ 63,00
+🏷️ 40% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/9fJfGEG0iT
+Ver oferta: https://s.shopee.com.br/8fR8T6yvX1
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

@@ -33,7 +33,7 @@
     <image href="https://http2.mlstatic.com/D_NQ_NP_784742-MLA100042438679_122025-F.jpg" x="90" y="245" width="900" height="560" clip-path="url(#imageClip)" preserveAspectRatio="xMidYMid meet"/>
 
     <rect x="118" y="276" width="250" height="72" rx="36" fill="#ffb000"/>
-    <text x="150" y="324" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="950" fill="#221900">3% OFF</text>
+    <text x="150" y="324" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="950" fill="#221900">Oferta</text>
 
     <rect x="708" y="276" width="250" height="72" rx="36" fill="#ffffff" filter="url(#shadow)"/>
     <text x="748" y="324" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="950" fill="#ef2473">Mercado Livre</text>
@@ -46,7 +46,7 @@
 
     
     <text x="110" y="1215" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="850" fill="#6e5e67">Por apenas</text>
-    <text x="110" y="1290" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="950" fill="#08a64b">R$ 3.161,23</text>
+    <text x="110" y="1290" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="950" fill="#08a64b">R$ 3.120,00</text>
 
 
     <text x="110" y="1388" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="800" fill="#6e5e67">3 oferta(s) nesta categoria hoje</text>

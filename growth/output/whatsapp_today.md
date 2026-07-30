@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 30/07/2026 11:05
+Gerado em: 30/07/2026 11:21
 
 ## Como usar
 
@@ -147,14 +147,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Calça Legging Flare Flanelada Zero Transparência
+Calças Jeans Femininas Plus Size Cintura Alta Até o Umbigo Lycra
 
-💸 De: R$ 111,52
-🔥 Por: R$ 36,80
-🏷️ 67% OFF
+💸 De: R$ 159,32
+🔥 Por: R$ 49,39
+🏷️ 69% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/7ps3KwuGy4
+Ver oferta: https://s.shopee.com.br/5ArIIHrnie
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

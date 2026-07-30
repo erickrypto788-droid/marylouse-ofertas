@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 30/07/2026 05:21
+Gerado em: 30/07/2026 06:06
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
 ```txt
 🍳 Oferta para Casa e Cozinha
 
-Mini Balança Digital De Cozinha Alta Precisão 0,1g Até 2000g
+Conjunto Panelas Antiaderente 5 Peças Antiaderente Cor Azul Hauskraft
 
-💸 De: R$ 92,79
-🔥 Por: R$ 25,98
-🏷️ 72% OFF
-🛒 Loja: Shopee
+💸 De: R$ 398,00
+🔥 Por: R$ 310,44
+🏷️ 22% OFF
+🛒 Loja: Mercado Livre
 
-Ver oferta: https://s.shopee.com.br/5ArHd5pLIX
+Ver oferta: https://www.mercadolivre.com.br/p/MLB65826128?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

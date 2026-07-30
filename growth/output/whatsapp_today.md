@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 30/07/2026 17:21
+Gerado em: 30/07/2026 18:21
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Kit Body Splash Dolce + Florata Red 200ml Feminino.
+Blusa Regata Feminina Halter Efeito Silicone Modeladora Frente Unica…
 
-💸 De: R$ 99,71
-🔥 Por: R$ 34,90
+💸 De: R$ 99,97
+🔥 Por: R$ 34,99
 🏷️ 65% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/8KoKOiiSf3
+Ver oferta: https://s.shopee.com.br/20uGzJtk3k
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

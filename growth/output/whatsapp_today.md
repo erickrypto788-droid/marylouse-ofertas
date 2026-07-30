@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 30/07/2026 05:06
+Gerado em: 30/07/2026 05:21
 
 ## Como usar
 
@@ -57,14 +57,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
 ```txt
 📱 Oferta para Celulares e Tecnologia
 
-Kit 2 em1 Película Vidro 3D + Capa Capinha Transparente Para Samsung…
+Fones Xiaomi Redmi Airdots
 
-💸 De: R$ 33,15
-🔥 Por: R$ 12,93
+💸 De: R$ 50,74
+🔥 Por: R$ 19,79
 🏷️ 61% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/1gHNne0Ju4
+Ver oferta: https://s.shopee.com.br/BSbwNIau7
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

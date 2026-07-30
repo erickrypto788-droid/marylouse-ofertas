@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 29/07/2026 23:21
+Gerado em: 30/07/2026 00:05
 
 ## Como usar
 
@@ -147,14 +147,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
 ```txt
 🐶 Oferta para Ofertas Pet
 
-Tapete Tatame Infantil Emborrachado
+Ração Cachorro Filhotes Quatree Select 15kg Premium Especial
 
-💸 De: R$ 105,00
-🔥 Por: R$ 63,00
-🏷️ 40% OFF
-🛒 Loja: Shopee
+💸 De: R$ 328,80
+🔥 Por: R$ 169,90
+🏷️ 48% OFF
+🛒 Loja: Mercado Livre
 
-Ver oferta: https://s.shopee.com.br/8fR8T6yvX1
+Ver oferta: https://www.mercadolivre.com.br/p/MLB36472861?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

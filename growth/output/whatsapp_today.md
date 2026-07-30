@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 30/07/2026 12:21
+Gerado em: 30/07/2026 13:21
 
 ## Como usar
 
@@ -117,14 +117,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
 ```txt
 🐶 Oferta para Ofertas Pet
 
-Ração Cachorro Filhotes Quatree Select 15kg Premium Especial
+Sandália Papete Feminina Ortopédica com Elástico Confortável Moderna…
 
-💸 De: R$ 328,80
-🔥 Por: R$ 169,90
-🏷️ 48% OFF
-🛒 Loja: Mercado Livre
+💸 De: R$ 90,00
+🔥 Por: R$ 36,90
+🏷️ 59% OFF
+🛒 Loja: Shopee
 
-Ver oferta: https://www.mercadolivre.com.br/p/MLB36472861?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+Ver oferta: https://s.shopee.com.br/9ANRBscjhM
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

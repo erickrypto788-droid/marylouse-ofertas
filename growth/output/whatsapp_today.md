@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 30/07/2026 06:21
+Gerado em: 30/07/2026 07:21
 
 ## Como usar
 
@@ -12,37 +12,7 @@ Gerado em: 30/07/2026 06:21
 
 ---
 
-## Post 1 — Mamãe e Bebê
-
-**Canal recomendado:** Mamãe e Bebê
-
-**Horário sugerido:** 09:00 - 11:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
-
-**Texto pronto:**
-
-```txt
-🍼 Oferta para Mamãe e Bebê
-
-Fraldas SUMIKKO Ajustáveis
-
-💸 De: R$ 197,14
-🔥 Por: R$ 69,00
-🏷️ 65% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/8AUs0QjbJU
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 2 — Celulares e Tecnologia
+## Post 1 — Celulares e Tecnologia
 
 **Canal recomendado:** Celulares e Tecnologia
 
@@ -72,7 +42,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 3 — Beleza e Cuidados
+## Post 2 — Beleza e Cuidados
 
 **Canal recomendado:** Beleza e Cuidados
 
@@ -95,6 +65,36 @@ Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler…
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/1qao8C8r1d
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 3 — Mamãe e Bebê
+
+**Canal recomendado:** Mamãe e Bebê
+
+**Horário sugerido:** 09:00 - 11:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
+
+**Texto pronto:**
+
+```txt
+🍼 Oferta para Mamãe e Bebê
+
+Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…
+
+💸 De: R$ 59,98
+🔥 Por: R$ 26,99
+🏷️ 55% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/1gHPWljFpg
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

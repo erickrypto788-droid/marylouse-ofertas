@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 31/07/2026 01:21
+Gerado em: 31/07/2026 02:05
 
 ## Categorias prioritárias
 
@@ -8,84 +8,84 @@ Gerado em: 31/07/2026 01:21
 - 👜 **Bolsas**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 - 🏋️ **Esportes**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 👗 **Moda Feminina**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
-- 💻 **Informática**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 💻 **Informática**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 👟 **Calçados**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 📱 **Celulares**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 💄 **Beleza**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 📦 **Outros**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 🍳 **Casa e Cozinha**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
-- 🐶 **Pet**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 
 ## Top ofertas para destacar
 
-1. **Mochila CHL Bolsa Reforçada Notebook Impermeavel Material Premium Col…**
+1. **Chapinha Profissional Bivolt**
+   - Categoria: Beleza
+   - Loja: Mercado Livre
+   - Preço: R$ 58,00
+   - Desconto: 50% OFF
+   - Link: https://www.mercadolivre.com.br/p/MLB74602351?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+2. **Mochila CHL Bolsa Reforçada Notebook Impermeavel Material Premium Col…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 39,99
    - Desconto: 55% OFF
    - Link: https://s.shopee.com.br/50Xrd9JXNc
 
-2. **Mochila Faculdade Reforçada Compartimento Para Notebook Escolar Uniss…**
+3. **Mochila Faculdade Reforçada Compartimento Para Notebook Escolar Uniss…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 32,90
    - Desconto: 56% OFF
    - Link: https://s.shopee.com.br/8AUufFzzPe
 
-3. **Mochila Unissex Grande Impermeável para Notebook Masculina Feminina A…**
+4. **Mochila Unissex Grande Impermeável para Notebook Masculina Feminina A…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 59,90
    - Desconto: 70% OFF
    - Link: https://s.shopee.com.br/8pkbOMdTQB
 
-4. **SUMIKKO 50 e 100 unidades Infantil Calça Fraldas Ajustável total max…**
+5. **SUMIKKO 50 e 100 unidades Infantil Calça Fraldas Ajustável total max…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 69,00
    - Desconto: 65% OFF
    - Link: https://s.shopee.com.br/2BDhNz9Otx
 
-5. **Kit 10 Unidades Fralda De Pano Estampada 60 x 60 Enxoval Infantil Beb…**
+6. **Kit 10 Unidades Fralda De Pano Estampada 60 x 60 Enxoval Infantil Beb…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 28,98
    - Desconto: 76% OFF
    - Link: https://s.shopee.com.br/9V0I7ShU1Z
 
-6. **Escova Secadora 110V Alisador Elétrica Quente Cabelo Com 3 Em1 Hair S…**
+7. **Escova Secadora 110V Alisador Elétrica Quente Cabelo Com 3 Em1 Hair S…**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 35,88
    - Desconto: 64% OFF
    - Link: https://s.shopee.com.br/9041BwozsM
 
-7. **Attracione Men - Perfume com Feromônios**
+8. **Attracione Men - Perfume com Feromônios**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 59,00
    - Desconto: 80% OFF
    - Link: https://s.shopee.com.br/6L3G12uc2o
 
-8. **Panela De Pressão 4,5litros Panelux Linha Classic Alto Brilho A Mais…**
+9. **Panela De Pressão 4,5litros Panelux Linha Classic Alto Brilho A Mais…**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 57,90
    - Desconto: 50% OFF
    - Link: https://s.shopee.com.br/7Kvn8lF1LT
 
-9. **Mesa Dobrável Notebook Retrátil**
+10. **Mesa Dobrável Notebook Retrátil**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 37,89
    - Desconto: 57% OFF
    - Link: https://s.shopee.com.br/1qapzYaYkt
-
-10. **Caderno A5 de couro macio 360 folhas retro notebook para agenda 2026…**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 35,99
-   - Desconto: 57% OFF
-   - Link: https://s.shopee.com.br/40fKVQGvQI
 
 ## Ações gratuitas recomendadas
 

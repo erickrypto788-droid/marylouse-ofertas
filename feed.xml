@@ -6,8 +6,14 @@
     <link>https://marylouse-ofertas.vercel.app/</link>
     <description>Ofertas, achadinhos e descontos atualizados automaticamente.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 31 Jul 2026 13:21:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 14:03:08 GMT</lastBuildDate>
 
+    <item>
+      <title>Cadeira Gamer Profissional</title>
+      <link>https://marylouse-ofertas.vercel.app/ofertas-pet.html</link>
+      <description>Pet | Mercado Livre | R$ 900,00</description>
+      <guid>https://marylouse-ofertas.vercel.app/ofertas-pet.html#cadeira gamer profissional</guid>
+    </item>
     <item>
       <title>Conjunto Térmico Infantil Blusa E Calça Peluciada</title>
       <link>https://marylouse-ofertas.vercel.app/ofertas-moda-infantil.html</link>
@@ -301,12 +307,6 @@
       <link>https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html</link>
       <description>Moda Plus Size | Shopee | R$ 39,99</description>
       <guid>https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html#legging flare plus size flanelada</guid>
-    </item>
-    <item>
-      <title>Blusa Cacharrel Plus Size</title>
-      <link>https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html</link>
-      <description>Moda Plus Size | Shopee | R$ 31,99</description>
-      <guid>https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html#blusa cacharrel plus size</guid>
     </item>
   </channel>
 </rss>

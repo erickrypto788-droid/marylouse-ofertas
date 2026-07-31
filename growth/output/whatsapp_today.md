@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 31/07/2026 07:05
+Gerado em: 31/07/2026 07:21
 
 ## Como usar
 
@@ -147,14 +147,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Calça Jeans Feminina Cintura Alta Wide Leg Com Bolso
+Legging Flare Plus Size Flanelada
 
-💸 De: R$ 199,97
-🔥 Por: R$ 69,99
-🏷️ 65% OFF
+💸 De: R$ 121,18
+🔥 Por: R$ 39,99
+🏷️ 67% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/9KgsS7Rzpf
+Ver oferta: https://s.shopee.com.br/3qLw2FIVQP
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

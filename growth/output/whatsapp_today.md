@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 31/07/2026 17:18
+Gerado em: 31/07/2026 17:33
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
 ```txt
 🍳 Oferta para Casa e Cozinha
 
-Mini Balança Digital Cozinha
+Panela de Pressão Tramontina Vancouver Effect em Alumínio com Revestimento Interno e Externo em Antiaderente Starflon M…
 
-💸 De: R$ 92,79
-🔥 Por: R$ 25,98
-🏷️ 72% OFF
-🛒 Loja: Shopee
+💸 De: R$ 241,06
+🔥 Por: R$ 171,40
+🏷️ 29% OFF
+🛒 Loja: Amazon
 
-Ver oferta: https://s.shopee.com.br/5ArKDmuxKB
+Ver oferta: https://link.amazon/B0errzLR5
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

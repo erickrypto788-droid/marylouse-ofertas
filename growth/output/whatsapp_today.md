@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 31/07/2026 16:09
+Gerado em: 31/07/2026 16:21
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
 ```txt
 🍳 Oferta para Casa e Cozinha
 
-Air fryer Gaabor Air Fryer GA-E45A0 de 4 L cinza
+Mini Balança Digital Cozinha
 
-💸 De: R$ 362,34
-🔥 Por: R$ 249,90
-🏷️ 31% OFF
-🛒 Loja: Mercado Livre
+💸 De: R$ 92,79
+🔥 Por: R$ 25,98
+🏷️ 72% OFF
+🛒 Loja: Shopee
 
-Ver oferta: https://www.mercadolivre.com.br/p/MLB19635472?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+Ver oferta: https://s.shopee.com.br/5ArKDmuxKB
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

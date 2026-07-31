@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 31/07/2026 14:03
+Gerado em: 31/07/2026 14:23
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Legging Flare Plus Size Flanelada
+Regata Feminina Blusa Alça fina Poliamida Premium Fitness Casual com…
 
-💸 De: R$ 121,18
-🔥 Por: R$ 39,99
-🏷️ 67% OFF
+💸 De: R$ 99,90
+🔥 Por: R$ 39,96
+🏷️ 60% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/3qLw2FIVQP
+Ver oferta: https://s.shopee.com.br/8fRBetLjdS
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

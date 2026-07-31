@@ -11,6 +11,7 @@ on:
       - "scripts/generate_all_category_pages.py"
       - "scripts/organic_publish.py"
       - "scripts/generate_pinterest_png.py"
+      - "scripts/generate_shorts_pack.py"
       - "scripts/generate_special_pages.py"
       - "scripts/organic_daily_plan.py"
       - "scripts/generate_pinterest_today.py"
@@ -55,6 +56,7 @@ jobs:
         run: |
           python scripts/organic_publish.py
           python scripts/generate_pinterest_png.py
+          python scripts/generate_shorts_pack.py
           python scripts/organic_daily_plan.py
           python scripts/generate_pinterest_today.py
           python scripts/generate_whatsapp_today.py
@@ -68,6 +70,7 @@ jobs:
           git add scripts/organic_daily_plan.py scripts/generate_special_pages.py || true
           git add growth/cards || true
           git add growth/pinterest || true
+          git add growth/shorts || true
           git add growth/output || true
 
           if git diff --cached --quiet; then

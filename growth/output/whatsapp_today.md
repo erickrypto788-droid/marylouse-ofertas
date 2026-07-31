@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 31/07/2026 19:05
+Gerado em: 31/07/2026 19:22
 
 ## Como usar
 
@@ -102,37 +102,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Ofertas Pet
-
-**Canal recomendado:** Ofertas Pet
-
-**Horário sugerido:** 17:00 - 20:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
-
-**Texto pronto:**
-
-```txt
-🐶 Oferta para Ofertas Pet
-
-TAPETE TATAME INFANTÍL 6mm×120cm×180cm EMBORRACHADO UNISEX
-
-💸 De: R$ 105,00
-🔥 Por: R$ 63,00
-🏷️ 40% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/3LPedsijDz
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 5 — Moda Feminina
+## Post 4 — Moda Feminina
 
 **Canal recomendado:** Moda Feminina
 
@@ -162,7 +132,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 6 — Casa e Cozinha
+## Post 5 — Casa e Cozinha
 
 **Canal recomendado:** Casa e Cozinha
 
@@ -185,6 +155,36 @@ Panela de Pressão Tramontina Vancouver Effect em Alumínio com Revestimento Int
 🛒 Loja: Amazon
 
 Ver oferta: https://link.amazon/B0errzLR5
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 6 — Ofertas Pet
+
+**Canal recomendado:** Ofertas Pet
+
+**Horário sugerido:** 17:00 - 20:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
+
+**Texto pronto:**
+
+```txt
+🐶 Oferta para Ofertas Pet
+
+Electrolux Filtro de Água Refil Original Acqua Pure para Purificador PE12, Refil Duração 6 Meses ou 3000L
+
+💸 De: R$ 80,99
+🔥 Por: R$ 61,90
+🏷️ 24% OFF
+🛒 Loja: Amazon
+
+Ver oferta: https://link.amazon/B0jlUZzy1
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

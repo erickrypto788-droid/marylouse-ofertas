@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 31/07/2026 05:05
+Gerado em: 31/07/2026 05:21
 
 ## Como usar
 
@@ -42,37 +42,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 2 — Celulares e Tecnologia
-
-**Canal recomendado:** Celulares e Tecnologia
-
-**Horário sugerido:** 19:00 - 21:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
-
-**Texto pronto:**
-
-```txt
-📱 Oferta para Celulares e Tecnologia
-
-Fones Xiaomi Redmi Airdots
-
-💸 De: R$ 50,74
-🔥 Por: R$ 19,79
-🏷️ 61% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/BSbwNIau7
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 3 — Beleza e Cuidados
+## Post 2 — Beleza e Cuidados
 
 **Canal recomendado:** Beleza e Cuidados
 
@@ -102,7 +72,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Casa e Cozinha
+## Post 3 — Casa e Cozinha
 
 **Canal recomendado:** Casa e Cozinha
 
@@ -132,7 +102,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 5 — Ofertas Pet
+## Post 4 — Ofertas Pet
 
 **Canal recomendado:** Ofertas Pet
 
@@ -162,7 +132,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 6 — Moda Feminina
+## Post 5 — Moda Feminina
 
 **Canal recomendado:** Moda Feminina
 
@@ -177,14 +147,44 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Blusa Regata Feminina Halter Efeito Silicone Modeladora Frente Unica…
+Calça Jeans Feminina Cintura Alta Wide Leg Com Bolso
 
-💸 De: R$ 99,97
-🔥 Por: R$ 34,99
+💸 De: R$ 199,97
+🔥 Por: R$ 69,99
 🏷️ 65% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/20uGzJtk3k
+Ver oferta: https://s.shopee.com.br/9KgsS7Rzpf
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 6 — Celulares e Tecnologia
+
+**Canal recomendado:** Celulares e Tecnologia
+
+**Horário sugerido:** 19:00 - 21:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
+
+**Texto pronto:**
+
+```txt
+📱 Oferta para Celulares e Tecnologia
+
+Gamesir T4 Nova Lite Controlador De Jogo Sem Fio Multiplataforma Efei…
+
+💸 De: R$ 314,29
+🔥 Por: R$ 110,00
+🏷️ 65% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/AUspm8PdOV
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

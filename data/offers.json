@@ -1,5 +1,56 @@
 [
   {
+    "id": "44b521bc184650425f",
+    "title": "Monitor de Pressão Omron Pulso",
+    "raw_title": "Aparelho Monitor Pressão Arterial Portátil Pulso Omron",
+    "description": "🚨 Saúde no pulso, a qualquer hora! Com o Aparelho Monitor Pressão Arterial Portátil Pulso Omron, você tem precisão e praticidade para acompanhar sua pre...",
+    "marketplace": "Mercado Livre",
+    "category": "Saúde",
+    "old_price": "",
+    "price": "R$ 189,88",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_732248-MLA108909250030_032026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB22958206?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "31/07/2026 09:03",
+    "created_at_iso": "2026-07-31T09:03:51",
+    "created_ts": 1785488631
+  },
+  {
+    "id": "874c066657d591175f",
+    "title": "Braçadeira Monitor Pressão Infantil Omron",
+    "raw_title": "Braçadeira para Aparelho Monitor Pressão Digital Infantil Omron",
+    "description": "🚨 OFERTA IMPERDÍVEL! 🚨 Cuide da saúde dos pequenos com a Braçadeira para Aparelho Monitor Pressão Digital Infantil Omron! Essencial para um acompanhamen...",
+    "marketplace": "Mercado Livre",
+    "category": "Saúde",
+    "old_price": "R$ 159,90",
+    "price": "R$ 124,08",
+    "discount_percent": 22.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_618730-MLU72637345875_112023-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21719639?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "31/07/2026 09:02",
+    "created_at_iso": "2026-07-31T09:02:42",
+    "created_ts": 1785488562
+  },
+  {
+    "id": "ef699de2953ef1c633",
+    "title": "Monitor de Pressão Arterial",
+    "raw_title": "Monitor De Pressão Arterial De Braço Monitor pressao arterial HC10014 MUINAIFTE Cor Blanco",
+    "description": "❤️ Cuide da sua saúde com essa super oferta! Monitor De Pressão Arterial De Braço com 30% de desconto! 🚚 Frete grátis!",
+    "marketplace": "Mercado Livre",
+    "category": "Saúde",
+    "old_price": "R$ 149,98",
+    "price": "R$ 104,99",
+    "discount_percent": 30.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_955323-MLA108180209918_032026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62814199?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "31/07/2026 09:01",
+    "created_at_iso": "2026-07-31T09:01:33",
+    "created_ts": 1785488493
+  },
+  {
     "id": "4baa26cf2890b30932",
     "title": "Botina de Segurança Couro Legítimo com CA",
     "raw_title": "Botina Bota Segurança Couro Legitimo Com Biqueira Elastico Com CA",
@@ -3245,27 +3296,6 @@
     "niche": {
       "key": "shopee_roupas_femininas",
       "name": "Roupas Femininas"
-    }
-  },
-  {
-    "id": "58b5623351d39ec28a",
-    "title": "PS5 Slim Digital com Desconto",
-    "raw_title": "Console PlayStation 5 Slim Digital 825GB",
-    "description": "🎮 Oportunidade ÚNICA! PS5 Slim Digital com super desconto! Leve o seu Console PlayStation 5 Slim Digital 825GB e mergulhe em uma nova geração de jogos!...",
-    "marketplace": "Shopee",
-    "category": "Jogos e Consoles",
-    "old_price": "R$ 5.128,08",
-    "price": "R$ 3.999,90",
-    "discount_percent": 22.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfmltid9j6dj4f",
-    "affiliate_url": "https://s.shopee.com.br/9ANQrHV0hU",
-    "created_at": "30/07/2026 08:20",
-    "created_at_iso": "2026-07-30T08:20:06",
-    "created_ts": 1785399606,
-    "niche": {
-      "key": "shopee_jogos_consoles",
-      "name": "Jogos e Consoles"
     }
   }
 ]

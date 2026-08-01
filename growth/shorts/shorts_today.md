@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 31/07/2026 23:05
+Gerado em: 01/08/2026 00:04
 
 ## Como usar
 
@@ -56,7 +56,7 @@ Gerado em: 31/07/2026 23:05
 
 - Mini Balança Digital Cozinha
 - Panela de Pressão Tramontina Vancouver Effect em Alumínio com Revestimento Interno e Externo em Antiaderente Starflon Max Preto 20 cm 4,5 L
-- Air fryer Gaabor Air Fryer GA-E45A0 de 4 L cinza
+- Etiquetas para Potes de Condimentos
 
 ---
 

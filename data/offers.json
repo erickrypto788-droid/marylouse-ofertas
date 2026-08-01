@@ -1,5 +1,22 @@
 [
   {
+    "id": "188e91ecb1674f3852",
+    "title": "Oxímetro de Pulso",
+    "raw_title": "Oxímetro, oxímetro de pulso, oxigênio, coração pediátrico para adultos",
+    "description": "🚨 Essencial para sua saúde e da família! Monitore os níveis de oxigênio e batimentos cardíacos com precisão. O Oxímetro de Pulso é ideal para uso pediát...",
+    "marketplace": "Mercado Livre",
+    "category": "Saúde",
+    "old_price": "",
+    "price": "R$ 49,90",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_652342-MLU77835186881_072024-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21775692?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "01/08/2026 20:01",
+    "created_at_iso": "2026-08-01T20:01:46",
+    "created_ts": 1785614506
+  },
+  {
     "id": "2f34b1896e3ae03e8e",
     "title": "HUB 3 EM 1 Adaptador Tipo C Hdmi Usb Dex Compatível com S8 S9 S10 Not…",
     "raw_title": "HUB 3 EM 1 Adaptador Tipo C Hdmi Usb Dex Compatível com S8 S9 S10 Note 8 9 10 Macbook",
@@ -2911,22 +2928,5 @@
     "created_at": "31/07/2026 20:02",
     "created_at_iso": "2026-07-31T20:02:48",
     "created_ts": 1785528168
-  },
-  {
-    "id": "7d51df4cbfe8129be8",
-    "title": "Lamina Aparador Pelos Philips Bodygroom Qg3379 Qg3280 Qg3380",
-    "raw_title": "Lamina Aparador Pelos Philips Bodygroom Qg3379 Qg3280 Qg3380",
-    "description": "🔥 13% OFF — Oferta encontrada! 📌 Lamina Aparador Pelos Philips Bodygroom Qg3379 Qg3280 Qg3380 Confira os detalhes e aproveite enquanto a oferta estiver...",
-    "marketplace": "Mercado Livre",
-    "category": "Beleza",
-    "old_price": "R$ 149,90",
-    "price": "R$ 130,41",
-    "discount_percent": 13.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_782959-MLA99825071093_112025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24908965?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "31/07/2026 20:01",
-    "created_at_iso": "2026-07-31T20:01:37",
-    "created_ts": 1785528097
   }
 ]

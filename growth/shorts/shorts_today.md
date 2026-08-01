@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 01/08/2026 15:05
+Gerado em: 01/08/2026 15:21
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 01/08/2026 15:05
 
 **Produtos usados:**
 
+- SUMIKKO 50 e 100 unidades Infantil Calça Fraldas Ajustável total max…
+- Kit 10 Unidades Fralda De Pano Estampada 60 x 60 Enxoval Infantil Beb…
 - Fraldas de Pano Kit 10 Unidades Minasrey
-- Lixa Elétrica para Unhas de Bebê
-- Ninho Redutor de Berço 400 Fios
 
 ---
 
@@ -127,7 +127,7 @@ Gerado em: 01/08/2026 15:05
 **Produtos usados:**
 
 - Personal VIP - Papel Higiênico, Folha Dupla, 12 unidades
-- Papel higiênico INDAIAL CAICAI PAPEL HIGIENICO folha dupla 22.5 m de…
 - Azeite Oliva Mercatto 500ml
+- Personal Papel Higiênico Vip Folha Tripla Com 12 Rolos De 20M
 
 ---

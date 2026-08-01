@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 01/08/2026 16:21
+Gerado em: 01/08/2026 17:21
 
 ## Como usar
 
@@ -121,13 +121,11 @@ Gerado em: 01/08/2026 16:21
 - growth/shorts/slides/supermercados/01_intro.png
 - growth/shorts/slides/supermercados/02_produto_1.png
 - growth/shorts/slides/supermercados/03_produto_2.png
-- growth/shorts/slides/supermercados/04_produto_3.png
 - growth/shorts/slides/supermercados/05_cta.png
 
 **Produtos usados:**
 
-- Personal VIP - Papel Higiênico, Folha Dupla, 12 unidades
 - Azeite Oliva Mercatto 500ml
-- Personal Papel Higiênico Vip Folha Tripla Com 12 Rolos De 20M
+- Amaciante Sensiv Titila 5L
 
 ---

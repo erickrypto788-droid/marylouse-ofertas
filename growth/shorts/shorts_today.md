@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 01/08/2026 10:07
+Gerado em: 01/08/2026 10:21
 
 ## Como usar
 
@@ -78,9 +78,9 @@ Gerado em: 01/08/2026 10:07
 
 **Produtos usados:**
 
+- Escova 5 em 1 Secador, Pente, Modelador, Aumenta volume Profissional…
+- Escova Secadora 110V Alisador Elétrica Quente Cabelo Com 3 Em1 Hair S…
 - Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler…
-- Perfume Attracione Feminino
-- GOKOCO Escova Secadora 7 Em 1 GD032 Conjunto De Secador De Cabelo Mul…
 
 ---
 
@@ -102,9 +102,9 @@ Gerado em: 01/08/2026 10:07
 
 **Produtos usados:**
 
-- Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com…
 - Fone Lightning para iPhone com Microfone
 - Suporte Veicular Magnético
+- Kit 2 Capinhas iPhone Anti-Impacto
 
 ---
 

@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 01/08/2026 07:22
+Gerado em: 01/08/2026 08:16
 
 ## Como usar
 
@@ -128,6 +128,6 @@ Gerado em: 01/08/2026 07:22
 
 - Personal VIP - Papel Higiênico, Folha Dupla, 12 unidades
 - Papel higiênico INDAIAL CAICAI PAPEL HIGIENICO folha dupla 22.5 m de…
-- Sabonete Barra Madressenza Karité 180 G
+- Azeite Oliva Mercatto 500ml
 
 ---

@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 01/08/2026 21:06
+Gerado em: 01/08/2026 21:21
 
 ## Como usar
 
@@ -32,7 +32,7 @@ Gerado em: 01/08/2026 21:06
 
 - SUMIKKO 50 e 100 unidades Infantil Calça Fraldas Ajustável total max…
 - Kit 10 Unidades Fralda De Pano Estampada 60 x 60 Enxoval Infantil Beb…
-- Lixa Elétrica para Unhas de Bebê
+- 1pcs Mobile Centopeia Espiral Ideal Carrinho Bebê Conforto Berço Com…
 
 ---
 
@@ -103,8 +103,8 @@ Gerado em: 01/08/2026 21:06
 **Produtos usados:**
 
 - Fone Xiaomi Redmi Airdots
+- Gamesir T4 Nova Lite Controlador De Jogo Sem Fio Multiplataforma Efei…
 - Fone Lightning para iPhone com Microfone
-- Suporte Veicular Magnético
 
 ---
 

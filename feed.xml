@@ -6,8 +6,14 @@
     <link>https://marylouse-ofertas.vercel.app/</link>
     <description>Ofertas, achadinhos e descontos atualizados automaticamente.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 01 Aug 2026 19:38:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 20:03:06 GMT</lastBuildDate>
 
+    <item>
+      <title>Oxímetro de Pulso</title>
+      <link>https://marylouse-ofertas.vercel.app/ofertas-saude.html</link>
+      <description>Saúde | Mercado Livre | R$ 49,90</description>
+      <guid>https://marylouse-ofertas.vercel.app/ofertas-saude.html#oximetro de pulso</guid>
+    </item>
     <item>
       <title>HUB 3 EM 1 Adaptador Tipo C Hdmi Usb Dex Compatível com S8 S9 S10 Not…</title>
       <link>https://marylouse-ofertas.vercel.app/ofertas-outros.html</link>
@@ -301,12 +307,6 @@
       <link>https://marylouse-ofertas.vercel.app/ofertas-esportes.html</link>
       <description>Esportes | Mercado Livre | R$ 785,99</description>
       <guid>https://marylouse-ofertas.vercel.app/ofertas-esportes.html#bicicleta ergometrica gimp bike spinning</guid>
-    </item>
-    <item>
-      <title>Prancha Esteira Dream Dr2110</title>
-      <link>https://marylouse-ofertas.vercel.app/ofertas-esportes.html</link>
-      <description>Esportes | Mercado Livre | R$ 185,24</description>
-      <guid>https://marylouse-ofertas.vercel.app/ofertas-esportes.html#prancha esteira dream dr2110</guid>
     </item>
   </channel>
 </rss>

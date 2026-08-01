@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 01/08/2026 18:06
+Gerado em: 01/08/2026 18:21
 
 ## Como usar
 
@@ -32,7 +32,7 @@ Gerado em: 01/08/2026 18:06
 
 - SUMIKKO 50 e 100 unidades Infantil Calça Fraldas Ajustável total max…
 - Kit 10 Unidades Fralda De Pano Estampada 60 x 60 Enxoval Infantil Beb…
-- Fraldas de Pano Kit 10 Unidades Minasrey
+- Lixa Elétrica para Unhas de Bebê
 
 ---
 
@@ -80,7 +80,7 @@ Gerado em: 01/08/2026 18:06
 
 - Escova 5 em 1 Secador, Pente, Modelador, Aumenta volume Profissional…
 - Escova Secadora 110V Alisador Elétrica Quente Cabelo Com 3 Em1 Hair S…
-- Kit 3 Body Splash Masculino Essenciale + Kayak + Malbec
+- 32 Peças Kit De Maquiagem Para Crianças Lavável/Conjunto Portátil Men…
 
 ---
 
@@ -102,9 +102,9 @@ Gerado em: 01/08/2026 18:06
 
 **Produtos usados:**
 
+- Fone Xiaomi Redmi Airdots
 - Fone Lightning para iPhone com Microfone
 - Suporte Veicular Magnético
-- Kit 2 Capinhas iPhone Anti-Impacto
 
 ---
 

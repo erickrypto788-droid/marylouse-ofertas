@@ -1,5 +1,110 @@
 [
   {
+    "id": "96ddeda633c7352f3b",
+    "title": "Cápsula Dolce Gusto Chocolate",
+    "raw_title": "Cápsula Dolce Gusto Chocolate Café Italle 10 Und",
+    "description": "☕🍫 AMANTES DE CHOCOLATE E CAFÉ, ATENÇÃO! Cápsula Dolce Gusto Chocolate Café Italle 10 Und com 45% OFF! 🚀 Garanta já o seu! 🏃‍♀️",
+    "marketplace": "Shopee",
+    "category": "Bebidas e Alimentos",
+    "old_price": "R$ 35,91",
+    "price": "R$ 19,75",
+    "discount_percent": 45.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-23010-9d1dm47viimvca",
+    "affiliate_url": "https://s.shopee.com.br/4fv49pC98T",
+    "created_at": "01/08/2026 00:20",
+    "created_at_iso": "2026-08-01T00:20:14",
+    "created_ts": 1785543614,
+    "niche": {
+      "key": "shopee_bebidas_alimentos",
+      "name": "Bebidas e Alimentos"
+    }
+  },
+  {
+    "id": "cf8fd7e9c8add3a581",
+    "title": "Creatina Dark Lab 300g",
+    "raw_title": "Creatina Monohidratada Pura 300g Dark Lab - 100% Pura",
+    "description": "💪 IMPERDÍVEL! Sua Creatina Pura com 47% OFF! Creatina Monohidratada Pura 300g Dark Lab - 100% Pura",
+    "marketplace": "Shopee",
+    "category": "Bebidas e Alimentos",
+    "old_price": "R$ 75,28",
+    "price": "R$ 39,90",
+    "discount_percent": 47.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzavjbelk90577",
+    "affiliate_url": "https://s.shopee.com.br/9V0Jui70w0",
+    "created_at": "01/08/2026 00:19",
+    "created_at_iso": "2026-08-01T00:19:02",
+    "created_ts": 1785543542,
+    "niche": {
+      "key": "shopee_bebidas_alimentos",
+      "name": "Bebidas e Alimentos"
+    }
+  },
+  {
+    "id": "1ec3047e8aef46ef83",
+    "title": "Caneca Misturadora Automática Elétrica USB",
+    "raw_title": "Caneca Misturadora Automática Elétrica USB Bateria Recarregável Mixer Café 380ml",
+    "description": "☕ Sua bebida perfeita, sem esforço e sem sujeira! ✨ Prepare seu café, shake ou qualquer bebida com a Caneca Misturadora Automática Elétrica. Com bateria...",
+    "marketplace": "Shopee",
+    "category": "Bebidas e Alimentos",
+    "old_price": "R$ 118,97",
+    "price": "R$ 36,88",
+    "discount_percent": 69.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81zts-mktlcixqn18h4e",
+    "affiliate_url": "https://s.shopee.com.br/1BLBzOGSrn",
+    "created_at": "01/08/2026 00:17",
+    "created_at_iso": "2026-08-01T00:17:53",
+    "created_ts": 1785543473,
+    "niche": {
+      "key": "shopee_bebidas_alimentos",
+      "name": "Bebidas e Alimentos"
+    }
+  },
+  {
+    "id": "7f49687f8482b1030c",
+    "title": "Creatina Monohidratada 600g Soldiers Nutrition",
+    "raw_title": "Creatina Monohidratada 600g 100% Pura Importada Soldiers Nutrition Suplemento Performance Muscular Força",
+    "description": "💪 Potencialize seus treinos com a Creatina Monohidratada 600g 100% Pura da Soldiers Nutrition! Ganhe mais força e performance muscular. 🚀",
+    "marketplace": "Shopee",
+    "category": "Bebidas e Alimentos",
+    "old_price": "R$ 143,44",
+    "price": "R$ 45,90",
+    "discount_percent": 68.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m2-mnzolhuktd6o5a",
+    "affiliate_url": "https://s.shopee.com.br/AKZQuF3qF9",
+    "created_at": "01/08/2026 00:16",
+    "created_at_iso": "2026-08-01T00:16:41",
+    "created_ts": 1785543401,
+    "niche": {
+      "key": "shopee_bebidas_alimentos",
+      "name": "Bebidas e Alimentos"
+    }
+  },
+  {
+    "id": "9c87f689b534da75ac",
+    "title": "NAC Antioxidante Fígado 500mg",
+    "raw_title": "NAC Antioxidante Fígado N-Acetil L-Cisteína 500mg - 60 Cápsulas Original",
+    "description": "✨ SAÚDE em dia com preço inacreditável! Garanta seu NAC Antioxidante Fígado N-Acetil L-Cisteína 500mg - 60 Cápsulas Original e fortaleça seu corpo! Prot...",
+    "marketplace": "Shopee",
+    "category": "Bebidas e Alimentos",
+    "old_price": "R$ 122,17",
+    "price": "R$ 21,99",
+    "discount_percent": 82.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m2-moev8r8rmscl9c",
+    "affiliate_url": "https://s.shopee.com.br/9zwaVd56v3",
+    "created_at": "01/08/2026 00:15",
+    "created_at_iso": "2026-08-01T00:15:33",
+    "created_ts": 1785543333,
+    "niche": {
+      "key": "shopee_bebidas_alimentos",
+      "name": "Bebidas e Alimentos"
+    }
+  },
+  {
     "id": "444347dbdcb05b78b7",
     "title": "TV Box RBI Smart TV Box 4K PROSB-2000 Preto 5ª Geração Wi-Fi HDMI",
     "raw_title": "TV Box RBI Smart TV Box 4K PROSB-2000 Preto 5ª Geração Wi-Fi HDMI",
@@ -4403,56 +4508,5 @@
     "created_at": "31/07/2026 01:02",
     "created_at_iso": "2026-07-31T01:02:02",
     "created_ts": 1785459722
-  },
-  {
-    "id": "800ce3b83c02132eb2",
-    "title": "Kit 7 Shorts Feminino Modelador Selene Levanta Bumbum Cor Bege Tamanh…",
-    "raw_title": "Kit 7 Shorts Feminino Modelador Selene Levanta Bumbum Cor Bege Tamanho M",
-    "description": "🔥 5% OFF — Oferta encontrada! 📌 Kit 7 Shorts Feminino Modelador Selene Levanta Bumbum Cor Bege Tamanho M Confira os detalhes e aproveite enquanto a ofer...",
-    "marketplace": "Mercado Livre",
-    "category": "Roupas Femininas",
-    "old_price": "R$ 157,99",
-    "price": "R$ 150,09",
-    "discount_percent": 5.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_908344-MLA112814459863_062026-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB72674383?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "31/07/2026 00:05",
-    "created_at_iso": "2026-07-31T00:05:18",
-    "created_ts": 1785456318
-  },
-  {
-    "id": "9e47efd4ac168c86c9",
-    "title": "Shorts Feminino Sem Costura Loba Plus Size Redutor Tamanho XXG Sortido",
-    "raw_title": "Shorts Feminino Sem Costura Loba Plus Size Redutor Tamanho XXG Sortido",
-    "description": "🔥 9% OFF — Oferta encontrada! 📌 Shorts Feminino Sem Costura Loba Plus Size Redutor Tamanho XXG Sortido Confira os detalhes e aproveite enquanto a oferta...",
-    "marketplace": "Mercado Livre",
-    "category": "Roupas Femininas",
-    "old_price": "R$ 159,72",
-    "price": "R$ 145,49",
-    "discount_percent": 9.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_947895-MLA98540351161_112025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62222654?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "31/07/2026 00:04",
-    "created_at_iso": "2026-07-31T00:04:14",
-    "created_ts": 1785456254
-  },
-  {
-    "id": "4bea107befc3535284",
-    "title": "Conjunto Feminino Shorts Saia E Blusa Elegante Festa Balada Cor Conju…",
-    "raw_title": "Conjunto Feminino Shorts Saia E Blusa Elegante Festa Balada Cor Conjunto Feminino Shorts Saia Preto",
-    "description": "🔥 20% OFF — Oferta encontrada! 📌 Conjunto Feminino Shorts Saia E Blusa Elegante Festa Balada Cor Conjunto Feminino Shorts Saia Preto Confira os detalhes...",
-    "marketplace": "Mercado Livre",
-    "category": "Roupas Femininas",
-    "old_price": "R$ 239,90",
-    "price": "R$ 191,92",
-    "discount_percent": 20.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_725732-MLA113726873657_062026-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74520688?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "31/07/2026 00:03",
-    "created_at_iso": "2026-07-31T00:03:10",
-    "created_ts": 1785456190
   }
 ]

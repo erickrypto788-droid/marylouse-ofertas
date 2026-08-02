@@ -1,16 +1,16 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 02/08/2026 02:21
+Gerado em: 02/08/2026 03:08
 
 ## Categorias prioritárias
 
 - 👟 **Calçados**: 16 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 🍼 **Mãe e Bebê**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 👗 **Moda Feminina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - ✨ **Moda Plus Size**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
 - 💻 **Informática**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 👕 **Moda Masculina**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 - 🏋️ **Esportes**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 👗 **Moda Feminina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 🐶 **Pet**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 📦 **Outros**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros

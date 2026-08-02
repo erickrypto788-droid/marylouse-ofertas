@@ -1,91 +1,91 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 02/08/2026 11:06
+Gerado em: 02/08/2026 11:21
 
 ## Categorias prioritárias
 
 - 🏋️ **Esportes**: 16 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
+- 🍼 **Mãe e Bebê**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 💻 **Informática**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 👟 **Calçados**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 👟 **Calçados**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - ❤️ **Saúde**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 💄 **Beleza**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 👗 **Moda Feminina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
-- 🍼 **Mãe e Bebê**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🧸 **Brinquedos**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 📦 **Outros**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 
 ## Top ofertas para destacar
 
-1. **Chapinha Profissional Bivolt**
+1. **Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 26,99
+   - Desconto: 55% OFF
+   - Link: https://s.shopee.com.br/8AUyeTpszi
+
+2. **Chapinha Profissional Bivolt**
    - Categoria: Beleza
    - Loja: Mercado Livre
    - Preço: R$ 58,00
    - Desconto: 50% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB74602351?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-2. **GOKOCO Escova Secadora 7 Em 1 GD032 Conjunto De Secador De Cabelo Mul…**
+3. **GOKOCO Escova Secadora 7 Em 1 GD032 Conjunto De Secador De Cabelo Mul…**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 579,00
    - Desconto: 55% OFF
    - Link: https://s.shopee.com.br/19GarZeYV
 
-3. **Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler…**
+4. **Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler…**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 37,80
    - Desconto: 62% OFF
    - Link: https://s.shopee.com.br/8pkazdpdDJ
 
-4. **Mesa Notebook Ergonômica Multiuso Altura Regulável Rodinhas Mesa Escr…**
+5. **Mesa Notebook Ergonômica Multiuso Altura Regulável Rodinhas Mesa Escr…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 79,90
    - Desconto: 80% OFF
    - Link: https://s.shopee.com.br/2LX9FIXn4G
 
-5. **Fone Xiaomi Redmi Airdots**
+6. **Fone Xiaomi Redmi Airdots**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 19,79
    - Desconto: 61% OFF
    - Link: https://s.shopee.com.br/5VUBcDGSU5
 
-6. **Mochila Faculdade Reforçada Compartimento Para Notebook Escolar Uniss…**
+7. **Mochila Faculdade Reforçada Compartimento Para Notebook Escolar Uniss…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 32,90
    - Desconto: 56% OFF
    - Link: https://s.shopee.com.br/3B6HV7J4Jd
 
-7. **Mochila CHL Bolsa Reforçada Notebook Impermeavel Material Premium Col…**
+8. **Mochila CHL Bolsa Reforçada Notebook Impermeavel Material Premium Col…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 39,99
    - Desconto: 55% OFF
    - Link: https://s.shopee.com.br/1gHSJq91Da
 
-8. **Mochila Unissex Grande Impermeável para Notebook Masculina Feminina A…**
+9. **Mochila Unissex Grande Impermeável para Notebook Masculina Feminina A…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 59,90
    - Desconto: 70% OFF
    - Link: https://s.shopee.com.br/3g2Y1vNJJh
 
-9. **SUMIKKO 50 e 100 unidades Infantil Calça Fraldas Ajustável total max…**
+10. **SUMIKKO 50 e 100 unidades Infantil Calça Fraldas Ajustável total max…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 69,00
    - Desconto: 65% OFF
    - Link: https://s.shopee.com.br/111lONtBSg
-
-10. **Kit 10 Unidades Fralda De Pano Estampada 60 x 60 Enxoval Infantil Beb…**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 28,98
-   - Desconto: 76% OFF
-   - Link: https://s.shopee.com.br/8V7mKAQdFL
 
 ## Ações gratuitas recomendadas
 

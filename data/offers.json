@@ -1,5 +1,56 @@
 [
   {
+    "id": "dec4ea1fb14491edd0",
+    "title": "Escova Secadora Profissional",
+    "raw_title": "Escova Secadora Profissional",
+    "description": "✨ Cabelos perfeitos em minutos! ✨ Conheça a Escova Secadora Profissional que vai transformar seu dia a dia. Seque, alise e modele com facilidade e rapid...",
+    "marketplace": "Mercado Livre",
+    "category": "Beleza",
+    "old_price": "",
+    "price": "R$ 89,90",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_741740-MLA80076698772_102024-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB37914551?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "02/08/2026 07:04",
+    "created_at_iso": "2026-08-02T07:04:21",
+    "created_ts": 1785654261
+  },
+  {
+    "id": "ea23f535d34f0b72a5",
+    "title": "Barbeador Costas Masculino Dobrável",
+    "raw_title": "Barbeador Costas Masculino Traseiro Dobrável Aparador Pelos",
+    "description": "Chega de malabarismo! Com o Barbeador Costas Masculino Dobrável, você apara os pelos sozinho e com total praticidade. Tenha uma pele lisa e impecável em...",
+    "marketplace": "Mercado Livre",
+    "category": "Beleza",
+    "old_price": "R$ 369,06",
+    "price": "R$ 249,00",
+    "discount_percent": 33.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_962334-MLA95523966556_102025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51434487?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "02/08/2026 07:03",
+    "created_at_iso": "2026-08-02T07:03:11",
+    "created_ts": 1785654191
+  },
+  {
+    "id": "c7b14dafedaf1f9c15",
+    "title": "Chapinha Profissional Bivolt",
+    "raw_title": "Chapinha Cabelo Profissional Prancha Alisadora De Cabelo chapinha Para Cabelo Bivolt Chapinha",
+    "description": "✨ CABELOS IMPECÁVEIS! ✨ Alise seus fios com a Chapinha Profissional Bivolt! Perfeita para um liso duradouro e com praticidade. Não perca essa oferta! 💇‍♀️",
+    "marketplace": "Mercado Livre",
+    "category": "Beleza",
+    "old_price": "R$ 116,00",
+    "price": "R$ 58,00",
+    "discount_percent": 50.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_637972-MLA112771846976_062026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74602351?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "02/08/2026 07:02",
+    "created_at_iso": "2026-08-02T07:02:03",
+    "created_ts": 1785654123
+  },
+  {
     "id": "747c8acd3f50d17081",
     "title": "Kit 3 Perfumes Malbec Masculino Importado Aroma Marcante Essência Al…",
     "raw_title": "Kit 3 Perfumes Malbec Masculino Importado Aroma Marcante Essência Alta Fixação Projeção Duradoura",
@@ -2979,26 +3030,5 @@
     "created_at": "01/08/2026 07:15",
     "created_at_iso": "2026-08-01T07:15:40",
     "created_ts": 1785568540
-  },
-  {
-    "id": "9aca02df1a7f73aa1c",
-    "title": "Bota Feminina Linda Moça Cano Longo Montaria Confort Preta",
-    "raw_title": "Bota Feminina Linda Moça Cano Longo Montaria Confort Preta",
-    "description": "🔥 57% OFF — Oferta encontrada! 📌 Bota Feminina Linda Moça Cano Longo Montaria Confort Preta Confira os detalhes e aproveite enquanto a oferta estiver di...",
-    "marketplace": "Shopee",
-    "category": "Sapatos Femininos",
-    "old_price": "R$ 191,86",
-    "price": "R$ 82,50",
-    "discount_percent": 57.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m5rhn1l6qo4y13",
-    "affiliate_url": "https://s.shopee.com.br/2VqZyZltwj",
-    "created_at": "01/08/2026 06:19",
-    "created_at_iso": "2026-08-01T06:19:59",
-    "created_ts": 1785565199,
-    "niche": {
-      "key": "shopee_sapatos_femininos",
-      "name": "Sapatos Femininos"
-    }
   }
 ]

@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 02/08/2026 15:05
+Gerado em: 02/08/2026 15:21
 
 ## Como usar
 
@@ -12,37 +12,7 @@ Gerado em: 02/08/2026 15:05
 
 ---
 
-## Post 1 — Mamãe e Bebê
-
-**Canal recomendado:** Mamãe e Bebê
-
-**Horário sugerido:** 09:00 - 11:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
-
-**Texto pronto:**
-
-```txt
-🍼 Oferta para Mamãe e Bebê
-
-SUMIKKO 50 e 100 unidades Infantil Calça Fraldas Ajustável total max…
-
-💸 De: R$ 197,14
-🔥 Por: R$ 69,00
-🏷️ 65% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/111lONtBSg
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 2 — Celulares e Tecnologia
+## Post 1 — Celulares e Tecnologia
 
 **Canal recomendado:** Celulares e Tecnologia
 
@@ -72,7 +42,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 3 — Beleza e Cuidados
+## Post 2 — Beleza e Cuidados
 
 **Canal recomendado:** Beleza e Cuidados
 
@@ -95,6 +65,36 @@ Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler…
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/8pkazdpdDJ
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 3 — Mamãe e Bebê
+
+**Canal recomendado:** Mamãe e Bebê
+
+**Horário sugerido:** 09:00 - 11:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
+
+**Texto pronto:**
+
+```txt
+🍼 Oferta para Mamãe e Bebê
+
+Toalha de Banho Fralda Soft com Capuz para Bebê OU Kit com 2, 3 ou…
+
+💸 De: R$ 60,36
+🔥 Por: R$ 31,99
+🏷️ 47% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/1gHQn4BIuo
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

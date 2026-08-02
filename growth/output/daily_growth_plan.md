@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 02/08/2026 19:03
+Gerado em: 02/08/2026 19:21
 
 ## Categorias prioritárias
 
-- 💻 **Informática**: 17 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 👗 **Moda Feminina**: 15 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
-- 📦 **Outros**: 15 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 💻 **Informática**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 🍼 **Mãe e Bebê**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 📦 **Outros**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 👟 **Calçados**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 👕 **Moda Masculina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 - 🐶 **Pet**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 🎮 **Games**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-games.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_games
 - ❤️ **Saúde**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 🏋️ **Esportes**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 💄 **Beleza**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 
 ## Top ofertas para destacar
 
@@ -73,19 +73,19 @@ Gerado em: 02/08/2026 19:03
    - Desconto: 62% OFF
    - Link: https://s.shopee.com.br/8pkazdpdDJ
 
-9. **Mesa Notebook Ergonômica Multiuso Altura Regulável Rodinhas Mesa Escr…**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 79,90
-   - Desconto: 80% OFF
-   - Link: https://s.shopee.com.br/2LX9FIXn4G
-
-10. **Adaptador Bluetooth 5.0 USB Transmissor Áudio Sem Fio para Notebook e…**
+9. **Adaptador Bluetooth 5.0 USB Transmissor Áudio Sem Fio para Notebook e…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 12,99
    - Desconto: 45% OFF
    - Link: https://s.shopee.com.br/4VbgYDeSe6
+
+10. **Toalha de Banho Fralda Soft com Capuz para Bebê OU Kit com 2, 3 ou…**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 31,99
+   - Desconto: 47% OFF
+   - Link: https://s.shopee.com.br/1gHQn4BIuo
 
 ## Ações gratuitas recomendadas
 

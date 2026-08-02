@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 02/08/2026 19:21
+Gerado em: 02/08/2026 20:14
 
 ## Como usar
 
@@ -121,11 +121,13 @@ Gerado em: 02/08/2026 19:21
 - growth/shorts/slides/supermercados/01_intro.png
 - growth/shorts/slides/supermercados/02_produto_1.png
 - growth/shorts/slides/supermercados/03_produto_2.png
+- growth/shorts/slides/supermercados/04_produto_3.png
 - growth/shorts/slides/supermercados/05_cta.png
 
 **Produtos usados:**
 
-- 30 Escova Dental + 30 Porta Escova Dental + 30 Creme Dental Cor Sorti…
-- Dispenser Porta Detergente Inox Detergente Utensílio 3 Em 1 NLQT Cor…
+- Papel higiênico INDAIAL CAICAI PAPEL HIGIENICO folha dupla 22.5 m de…
+- Sabonete Barra Madressenza Karité 180 G
+- Azeite Vila Oliva Português (3 Un)
 
 ---

@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 02/08/2026 10:05
+Gerado em: 02/08/2026 10:21
 
 ## Como usar
 
@@ -54,9 +54,9 @@ Gerado em: 02/08/2026 10:05
 
 **Produtos usados:**
 
+- Mini Balança Digital De Cozinha Alta Precisão 0,1g Até 2000g
 - Air fryer Gaabor Air Fryer GA-E45A0 de 4 L cinza
-- Conjunto Panelas Antiaderente Azul
-- Jogo Panelas Ipanema 5 Peças
+- Espremedor Elétrico USB
 
 ---
 
@@ -80,7 +80,7 @@ Gerado em: 02/08/2026 10:05
 
 - Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler…
 - Escova 5 em 1 Secador, Pente, Modelador, Aumenta volume Profissional…
-- Escova Secadora 110V Alisador Elétrica Quente Cabelo Com 3 Em1 Hair S…
+- Chapinha Profissional Bivolt
 
 ---
 

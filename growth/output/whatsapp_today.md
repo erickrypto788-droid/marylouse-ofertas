@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 02/08/2026 15:30
+Gerado em: 02/08/2026 16:06
 
 ## Como usar
 
@@ -162,29 +162,29 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 6 — Moda e Calçados
+## Post 6 — Ofertas Pet
 
-**Canal recomendado:** Moda e Calçados
+**Canal recomendado:** Ofertas Pet
 
-**Horário sugerido:** 12:00 - 15:00
+**Horário sugerido:** 17:00 - 20:00
 
 **Imagem/card:**
 
-https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
+https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
 
 **Texto pronto:**
 
 ```txt
-👟 Oferta para Moda e Calçados
+🐶 Oferta para Ofertas Pet
 
-Sandália Feminina Chinelos de Praia Com Enfeites Luxo Confortável Eva
+Ração Gato Estimacat Premium Carne 15kg
 
-💸 De: R$ 128,54
-🔥 Por: R$ 35,99
-🏷️ 72% OFF
-🛒 Loja: Shopee
+💸 De: R$ 356,33
+🔥 Por: R$ 267,24
+🏷️ 25% OFF
+🛒 Loja: Mercado Livre
 
-Ver oferta: https://s.shopee.com.br/7Kvr7zHyjL
+Ver oferta: https://www.mercadolivre.com.br/p/MLB66541712?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

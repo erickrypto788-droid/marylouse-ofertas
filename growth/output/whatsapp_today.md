@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 02/08/2026 06:06
+Gerado em: 02/08/2026 06:21
 
 ## Como usar
 
@@ -87,14 +87,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
 ```txt
 💄 Oferta para Beleza e Cuidados
 
-Escova 5 em 1 Secador, Pente, Modelador, Aumenta volume Profissional…
+Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler…
 
-💸 De: R$ 148,69
-🔥 Por: R$ 57,99
-🏷️ 61% OFF
+💸 De: R$ 99,47
+🔥 Por: R$ 37,80
+🏷️ 62% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/8fRAnKqGYG
+Ver oferta: https://s.shopee.com.br/8pkazdpdDJ
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

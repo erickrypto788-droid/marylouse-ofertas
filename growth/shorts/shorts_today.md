@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 02/08/2026 10:21
+Gerado em: 02/08/2026 11:06
 
 ## Como usar
 
@@ -79,8 +79,8 @@ Gerado em: 02/08/2026 10:21
 **Produtos usados:**
 
 - Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler…
-- Escova 5 em 1 Secador, Pente, Modelador, Aumenta volume Profissional…
 - Chapinha Profissional Bivolt
+- Kit 3 Perfumes Malbec Masculino Importado Aroma Marcante Essência Al…
 
 ---
 

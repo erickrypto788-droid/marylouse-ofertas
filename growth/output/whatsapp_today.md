@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 02/08/2026 08:05
+Gerado em: 02/08/2026 08:21
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Calça Pantalona Plus Size Feminina Elástico Na Cintura Com Bolso Cint…
+Blusa Regata Halter Modeladora
 
-💸 De: R$ 129,81
-🔥 Por: R$ 33,75
-🏷️ 74% OFF
+💸 De: R$ 99,43
+🔥 Por: R$ 34,80
+🏷️ 65% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/3g2Yd09ZMn
+Ver oferta: https://s.shopee.com.br/3g2YQe2LrW
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

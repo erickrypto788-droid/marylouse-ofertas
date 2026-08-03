@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 03/08/2026 14:13
+Gerado em: 03/08/2026 14:21
 
 ## Como usar
 
@@ -32,7 +32,7 @@ Gerado em: 03/08/2026 14:13
 
 - Fraldas Calça SUMIKKO
 - Kit 10 Fraldas de Pano Estampadas
-- Lixa Elétrica Bebê
+- Fralda Geriátrica Roupa Intima Higifral Pants 42 Fralda G/xg G/xg
 
 ---
 

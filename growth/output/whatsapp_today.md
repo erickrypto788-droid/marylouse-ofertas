@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 03/08/2026 16:08
+Gerado em: 03/08/2026 16:22
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Calça Legging Flare Flanelada Leg Boca De Sino Bailarina
+Conjunto Segunda Pele Térmica Flanelado Frio Intenso Preto Proteção U…
 
-💸 De: R$ 108,54
-🔥 Por: R$ 37,99
-🏷️ 65% OFF
+💸 De: R$ 90,61
+🔥 Por: R$ 29,90
+🏷️ 67% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/1Vy2WGAtpn
+Ver oferta: https://s.shopee.com.br/30muMMb8IL
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

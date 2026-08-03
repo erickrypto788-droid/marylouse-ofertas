@@ -369,35 +369,71 @@ def wrap_lines(text, max_chars=24, max_lines=3):
     return lines or ["Oferta encontrada"]
 
 
+def safe_label(value):
+    # Evita emojis no texto renderizado pelo Pillow para não aparecer quadradinho.
+    text = str(value or "")
+    for emoji in ["🍼", "🍳", "💄", "📱", "🛒", "🔥", "❤️", "👗", "👟", "🐶", "🎧", "💻"]:
+        text = text.replace(emoji, "")
+    return text.strip()
+
+
+def draw_wrapped(draw, text, x, y, max_chars, max_lines, font_obj, fill, line_gap=10):
+    lines = wrap_lines(text, max_chars=max_chars, max_lines=max_lines)
+    current_y = y
+
+    for line in lines:
+        draw.text((x, current_y), line, font=font_obj, fill=fill)
+        current_y += font_obj.size + line_gap
+
+    return current_y
+
+
+def draw_centered_text(draw, text, y, font_obj, fill, x1=0, x2=W):
+    bbox = draw.textbbox((0, 0), text, font=font_obj)
+    tw = bbox[2] - bbox[0]
+    x = x1 + ((x2 - x1) - tw) // 2
+    draw.text((x, y), text, font=font_obj, fill=fill)
+
+
 def slide_intro(config):
     img = gradient_bg(config["theme"])
     draw = ImageDraw.Draw(img)
+
+    # Card central
+    rounded(draw, (60, 90, 1020, 1830), 64, "#ffffff")
 
     logo = load_logo()
 
     if logo:
         logo.thumbnail((170, 170), Image.LANCZOS)
-        img.alpha_composite(logo, ((W - logo.width) // 2, 210))
+        img.alpha_composite(logo, ((W - logo.width) // 2, 230))
 
-    draw.text((90, 470), "MaryLouse Ofertas", font=font(56, True), fill="#064750")
-    draw.text((90, 570), f"{config['emoji']} {config['label']}", font=font(72, True), fill=config["theme"])
+    draw_centered_text(draw, "MaryLouse Ofertas", 455, font(58, True), "#064750")
+    draw_centered_text(draw, "Achadinhos atualizados", 530, font(34, True), "#ef2473")
 
-    lines = [
-        "Achadinhos e descontos",
-        "atualizados hoje",
-    ]
+    category = safe_label(config["label"])
 
-    y = 760
+    # Pílula de categoria
+    rounded(draw, (150, 680, 930, 780), 50, config["theme"])
+    draw_centered_text(draw, category, 705, font(40, True), "#ffffff", 150, 930)
 
-    for line in lines:
-        draw.text((90, y), line, font=font(68, True), fill="#1f1720")
-        y += 82
+    draw_wrapped(
+        draw,
+        "Ofertas selecionadas para economizar hoje",
+        120,
+        920,
+        max_chars=24,
+        max_lines=3,
+        font_obj=font(70, True),
+        fill="#1f1720",
+        line_gap=16,
+    )
 
-    rounded(draw, (90, 1120, 860, 1240), 60, config["theme"])
-    draw.text((135, 1155), "Veja até o final", font=font(44, True), fill="#ffffff")
+    rounded(draw, (120, 1310, 850, 1430), 60, "#08a64b")
+    draw.text((175, 1348), "Veja até o final", font=font(46, True), fill="#ffffff")
 
-    draw.text((90, 1625), "Preços podem mudar a qualquer momento", font=font(28, True), fill="#6e5e67")
-    draw.text((90, 1680), "marylouse-ofertas.vercel.app", font=font(30, True), fill="#6e5e67")
+    draw.text((120, 1610), "Preços podem mudar a qualquer momento", font=font(29, True), fill="#6e5e67")
+    draw.text((120, 1670), "marylouse-ofertas.vercel.app", font=font(32, True), fill="#064750")
 
     return img
 
@@ -406,46 +442,82 @@ def slide_product(config, offer, index):
     img = gradient_bg(config["theme"])
     draw = ImageDraw.Draw(img)
 
-    # Card branco
-    rounded(draw, (55, 65, 1025, 1815), 56, "#ffffff")
+    theme = config["theme"]
+    category = safe_label(config["label"])
+    store = marketplace(offer)
+    disc = discount_label(offer)
+    current_price = price(offer)
+    previous_price = old_price(offer)
 
-    draw.text((95, 105), f"{config['emoji']} Oferta {index}", font=font(42, True), fill=config["theme"])
-    draw.text((95, 160), marketplace(offer), font=font(32, True), fill="#6e5e67")
+    # Card principal
+    rounded(draw, (50, 55, 1030, 1845), 58, "#ffffff")
 
-    # imagem
-    rounded(draw, (95, 245, 985, 850), 42, "#fff4f8", "#f0d7df", 2)
-
-    product_img = load_image(image_url(offer))
+    # Header
     logo = load_logo()
 
+    if logo:
+        logo.thumbnail((74, 74), Image.LANCZOS)
+        img.alpha_composite(logo, (85, 85))
+
+    draw.text((175, 88), "MaryLouse Ofertas", font=font(32, True), fill="#064750")
+    draw.text((175, 130), "Oferta selecionada", font=font(22, True), fill="#ef2473")
+
+    # Categoria no topo direito
+    rounded(draw, (610, 82, 975, 142), 30, "#fff4f8", "#f0d7df", 2)
+    draw_centered_text(draw, category[:22], 98, font(24, True), theme, 610, 975)
+
+    # Bloco da imagem
+    rounded(draw, (85, 210, 995, 850), 46, "#fff7fb", "#f0d7df", 2)
+
+    product_img = load_image(image_url(offer))
+
     if product_img:
-        paste_contain(img, product_img, (115, 265, 850, 565))
-    elif logo:
-        paste_contain(img, logo, (115, 265, 850, 565))
+        paste_contain(img, product_img, (125, 250, 830, 560))
+    else:
+        logo = load_logo()
+        if logo:
+            paste_contain(img, logo, (125, 250, 830, 560))
 
-    # badge desconto
-    rounded(draw, (125, 280, 370, 352), 36, "#ffb000")
-    draw.text((158, 300), discount_label(offer), font=font(30, True), fill="#221900")
+    # Badge desconto
+    rounded(draw, (120, 245, 370, 315), 35, "#ffb000")
+    draw_centered_text(draw, disc, 264, font(28, True), "#221900", 120, 370)
 
-    # título
-    y = 930
+    # Loja
+    rounded(draw, (700, 245, 950, 315), 35, "#ffffff")
+    draw_centered_text(draw, store[:16], 264, font(26, True), "#ef2473", 700, 950)
 
-    for line in wrap_lines(offer.get("title"), 28, 4):
-        draw.text((95, y), line, font=font(50, True), fill="#1f1720")
-        y += 62
+    # Bloco texto
+    rounded(draw, (85, 895, 995, 1545), 46, "#ffffff", "#f0d7df", 2)
 
-    old = old_price(offer)
+    draw.text((120, 945), f"Oferta {index}", font=font(34, True), fill=theme)
 
-    if old:
-        draw.text((95, 1240), f"De: {old}", font=font(34, True), fill="#6e5e67")
+    y = draw_wrapped(
+        draw,
+        offer.get("title") or "Oferta encontrada",
+        120,
+        1010,
+        max_chars=28,
+        max_lines=4,
+        font_obj=font(50, True),
+        fill="#1f1720",
+        line_gap=10,
+    )
 
-    draw.text((95, 1315), "Por apenas", font=font(34, True), fill="#6e5e67")
-    draw.text((95, 1385), price(offer), font=font(82, True), fill="#08a64b")
+    # Preço
+    price_y = 1290
 
-    rounded(draw, (95, 1580, 760, 1690), 55, config["theme"])
-    draw.text((145, 1613), "Veja no site", font=font(46, True), fill="#ffffff")
+    if previous_price:
+        draw.text((120, price_y), f"De: {previous_price}", font=font(31, True), fill="#6e5e67")
+        price_y += 52
 
-    draw.text((95, 1750), "Link na bio / MaryLouse Ofertas", font=font(28, True), fill="#6e5e67")
+    draw.text((120, price_y), "Por apenas", font=font(31, True), fill="#6e5e67")
+    draw.text((120, price_y + 56), current_price, font=font(76, True), fill="#08a64b")
+
+    # CTA
+    rounded(draw, (120, 1610, 820, 1725), 58, "#08a64b")
+    draw.text((175, 1648), "Veja no site", font=font(46, True), fill="#ffffff")
+
+    draw.text((120, 1780), "Link na bio / MaryLouse Ofertas", font=font(29, True), fill="#6e5e67")
 
     return img
 
@@ -454,27 +526,39 @@ def slide_cta(config):
     img = gradient_bg(config["theme"])
     draw = ImageDraw.Draw(img)
 
+    rounded(draw, (60, 90, 1020, 1830), 64, "#ffffff")
+
     logo = load_logo()
 
     if logo:
-        logo.thumbnail((190, 190), Image.LANCZOS)
-        img.alpha_composite(logo, ((W - logo.width) // 2, 220))
+        logo.thumbnail((180, 180), Image.LANCZOS)
+        img.alpha_composite(logo, ((W - logo.width) // 2, 230))
 
-    draw.text((90, 520), "Gostou das ofertas?", font=font(66, True), fill="#1f1720")
-    draw.text((90, 630), "Veja mais achadinhos", font=font(62, True), fill=config["theme"])
-    draw.text((90, 720), "atualizados no site", font=font(62, True), fill="#1f1720")
+    draw_centered_text(draw, "Gostou das ofertas?", 500, font(62, True), "#1f1720")
+    draw_centered_text(draw, "Veja mais achadinhos", 600, font(60, True), config["theme"])
+    draw_centered_text(draw, "atualizados no site", 685, font(60, True), "#1f1720")
 
-    rounded(draw, (90, 1010, 900, 1140), 65, config["theme"])
-    draw.text((140, 1050), "MaryLouse Ofertas", font=font(48, True), fill="#ffffff")
+    rounded(draw, (120, 980, 960, 1110), 65, config["theme"])
+    draw_centered_text(draw, "MaryLouse Ofertas", 1020, font(48, True), "#ffffff", 120, 960)
 
-    draw.text((90, 1260), config["cta"], font=font(42, True), fill="#6e5e67")
-    draw.text((90, 1360), "Preços e disponibilidade podem mudar.", font=font(30, True), fill="#6e5e67")
-    draw.text((90, 1420), "Podemos receber comissão pelos links.", font=font(30, True), fill="#6e5e67")
+    draw_wrapped(
+        draw,
+        config["cta"],
+        120,
+        1250,
+        max_chars=28,
+        max_lines=2,
+        font_obj=font(42, True),
+        fill="#6e5e67",
+        line_gap=10,
+    )
 
-    draw.text((90, 1680), "marylouse-ofertas.vercel.app", font=font(34, True), fill="#064750")
+    draw.text((120, 1460), "Preços e disponibilidade podem mudar.", font=font(30, True), fill="#6e5e67")
+    draw.text((120, 1520), "Podemos receber comissão pelos links.", font=font(30, True), fill="#6e5e67")
+
+    draw.text((120, 1690), "marylouse-ofertas.vercel.app", font=font(36, True), fill="#064750")
 
     return img
-
 
 def load_offers():
     offers = json.loads(OFFERS_PATH.read_text(encoding="utf-8"))

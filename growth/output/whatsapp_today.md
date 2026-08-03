@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 03/08/2026 01:00
+Gerado em: 03/08/2026 01:21
 
 ## Como usar
 
@@ -102,7 +102,37 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Ofertas Pet
+## Post 4 — Casa e Cozinha
+
+**Canal recomendado:** Casa e Cozinha
+
+**Horário sugerido:** 18:00 - 20:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
+
+**Texto pronto:**
+
+```txt
+🍳 Oferta para Casa e Cozinha
+
+Panela De Pressão 4,5litros Panelux Linha Classic Alto Brilho A Mais…
+
+💸 De: R$ 115,80
+🔥 Por: R$ 57,90
+🏷️ 50% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/111p2ztdHr
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 5 — Ofertas Pet
 
 **Canal recomendado:** Ofertas Pet
 
@@ -132,7 +162,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 5 — Moda Feminina
+## Post 6 — Moda Feminina
 
 **Canal recomendado:** Moda Feminina
 
@@ -155,36 +185,6 @@ Kit 2 Blusas de Frio Feminina Gola Alta Cacharrel Plus Size Blusa Seg…
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/W5Y7T9wFa
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 6 — Casa e Cozinha
-
-**Canal recomendado:** Casa e Cozinha
-
-**Horário sugerido:** 18:00 - 20:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
-
-**Texto pronto:**
-
-```txt
-🍳 Oferta para Casa e Cozinha
-
-Mini Balança Digital De Cozinha Alta Precisão 0,1g Até 2000g
-
-💸 De: R$ 92,79
-🔥 Por: R$ 25,98
-🏷️ 72% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/6L3KOzCQ2x
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

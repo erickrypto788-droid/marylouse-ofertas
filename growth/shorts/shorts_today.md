@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 03/08/2026 19:21
+Gerado em: 03/08/2026 20:21
 
 ## Como usar
 
@@ -104,7 +104,7 @@ Gerado em: 03/08/2026 19:21
 
 - Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com…
 - Celular Samsung Galaxy A37 5G, 256GB, 8GB, 50MP Tela 6.7" - Preto
-- Kit 2 Capinha Para Iphone Anti Impacto Transparente Tpu Para IPhone…
+- Carregador Portátil Indução para iPhone/Android Magsafe Sem fio Bater…
 
 ---
 
@@ -121,13 +121,11 @@ Gerado em: 03/08/2026 19:21
 - growth/shorts/slides/supermercados/01_intro.png
 - growth/shorts/slides/supermercados/02_produto_1.png
 - growth/shorts/slides/supermercados/03_produto_2.png
-- growth/shorts/slides/supermercados/04_produto_3.png
 - growth/shorts/slides/supermercados/05_cta.png
 
 **Produtos usados:**
 
-- Papel higiênico INDAIAL CAICAI PAPEL HIGIENICO folha dupla 22.5 m de…
 - Azeite Oliva Extra Virgem Italiano 500ml Mercatto
-- Sabonete Barra Madressenza Karité 180 G
+- Amaciante Roupas Macias Sensiv Titila 5l
 
 ---

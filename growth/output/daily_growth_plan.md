@@ -1,91 +1,91 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 03/08/2026 07:22
+Gerado em: 03/08/2026 08:23
 
 ## Categorias prioritárias
 
+- 💻 **Informática**: 18 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 🍼 **Mãe e Bebê**: 18 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 💻 **Informática**: 17 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 🏋️ **Esportes**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - ❤️ **Saúde**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
+- 👜 **Bolsas**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 - 👟 **Calçados**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 🐶 **Pet**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
+- 🏋️ **Esportes**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 💄 **Beleza**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 🍳 **Casa e Cozinha**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 📦 **Outros**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 🧸 **Brinquedos**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 
 ## Top ofertas para destacar
 
-1. **Fraldas Calça SUMIKKO**
+1. **Mochila Impermeável Notebook**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 59,90
+   - Desconto: 70% OFF
+   - Link: https://s.shopee.com.br/5fnf4S0cEG
+
+2. **Fraldas Calça SUMIKKO**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 69,00
    - Desconto: 65% OFF
    - Link: https://s.shopee.com.br/9fJnleasWk
 
-2. **Kit 10 Fraldas de Pano Estampadas**
+3. **Kit 10 Fraldas de Pano Estampadas**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 28,98
    - Desconto: 76% OFF
    - Link: https://s.shopee.com.br/6pzcORlfHR
 
-3. **Escova 5 em 1 Secador, Pente, Modelador, Aumenta volume Profissional…**
+4. **Escova 5 em 1 Secador, Pente, Modelador, Aumenta volume Profissional…**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 57,99
    - Desconto: 61% OFF
    - Link: https://s.shopee.com.br/6pzc3qdwJH
 
-4. **Escova Secadora 110V Alisador Elétrica Quente Cabelo Com 3 Em1 Hair S…**
+5. **Escova Secadora 110V Alisador Elétrica Quente Cabelo Com 3 Em1 Hair S…**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 38,66
    - Desconto: 61% OFF
    - Link: https://s.shopee.com.br/7ps9Fga8HV
 
-5. **Soprador Turbo Jet Fan Secador Automotivo 2 Baterias 48V com Maleta -…**
+6. **Soprador Turbo Jet Fan Secador Automotivo 2 Baterias 48V com Maleta -…**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 79,00
    - Desconto: 57% OFF
    - Link: https://s.shopee.com.br/1Vy5dueFts
 
-6. **Panela De Pressão 4,5litros Panelux Linha Classic Alto Brilho A Mais…**
+7. **Panela De Pressão 4,5litros Panelux Linha Classic Alto Brilho A Mais…**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 57,90
    - Desconto: 50% OFF
    - Link: https://s.shopee.com.br/111p2ztdHr
 
-7. **Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com…**
+8. **Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 19,79
    - Desconto: 61% OFF
    - Link: https://s.shopee.com.br/1LefJMenPi
 
-8. **Mesa Dobrável Notebook Retrátil Home Office Apoio Cama Sofá Trabalho…**
+9. **Mesa Dobrável Notebook Retrátil Home Office Apoio Cama Sofá Trabalho…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 37,99
    - Desconto: 57% OFF
    - Link: https://s.shopee.com.br/9043JmmdyY
 
-9. **Caderno A5 de couro macio 360 folhas retro notebook para agenda 2026…**
+10. **Caderno A5 de couro macio 360 folhas retro notebook para agenda 2026…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 35,99
    - Desconto: 57% OFF
    - Link: https://s.shopee.com.br/9ANUiGyGxb
-
-10. **Mochila Couro PU Grande Executiva Para Notebook Trabalho Faculdade Re…**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 38,98
-   - Desconto: 64% OFF
-   - Link: https://s.shopee.com.br/30msdDfGTA
 
 ## Ações gratuitas recomendadas
 

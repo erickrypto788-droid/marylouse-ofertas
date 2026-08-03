@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 03/08/2026 17:21
+Gerado em: 03/08/2026 18:02
 
 ## Como usar
 
@@ -32,7 +32,7 @@ Gerado em: 03/08/2026 17:21
 
 - Fraldas Calça SUMIKKO
 - Kit 10 Fraldas de Pano Estampadas
-- Mobile Centopeia Espiral para Bebê
+- Fralda Descartável Huggies Máxima Proteção Tamanho XG 140 unidades – aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos e máxima proteção
 
 ---
 
@@ -54,9 +54,9 @@ Gerado em: 03/08/2026 17:21
 
 **Produtos usados:**
 
+- Fritadeira Air Fryer Britânia 5,5L 1500W BFR50 Redstone 220V
 - Panela De Pressão 4,5litros Panelux Linha Classic Alto Brilho A Mais…
 - Jogo Panelas Ipanema 5 Peças
-- Panela de Pressão Elétrica Digital 5/6 litros Preta ou Inox - kian
 
 ---
 

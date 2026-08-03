@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 03/08/2026 04:05
+Gerado em: 03/08/2026 04:21
 
 ## Como usar
 
@@ -103,8 +103,8 @@ Gerado em: 03/08/2026 04:05
 **Produtos usados:**
 
 - Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com…
-- Carregador Portátil Indução para iPhone/Android Magsafe Sem fio Bater…
-- Amplificador De Imagem Da Tela Do Celular Lupa 3D 21,6CM*16,6CM*2,7CM…
+- Kit 2 Capinha Para Iphone Anti Impacto Transparente Tpu Para IPhone…
+- Smartphone xiaomi Poco C85 6gb ram + 128gb, Preto
 
 ---
 

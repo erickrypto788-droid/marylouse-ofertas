@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 03/08/2026 13:22
+Gerado em: 03/08/2026 14:13
 
 ## Como usar
 
@@ -127,7 +127,7 @@ Gerado em: 03/08/2026 13:22
 **Produtos usados:**
 
 - Papel higiênico INDAIAL CAICAI PAPEL HIGIENICO folha dupla 22.5 m de…
+- Azeite Oliva Extra Virgem Italiano 500ml Mercatto
 - Sabonete Barra Madressenza Karité 180 G
-- Azeite Vila Oliva Português (3 Un)
 
 ---

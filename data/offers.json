@@ -1,5 +1,22 @@
 [
   {
+    "id": "e8ceac326071b13ed1",
+    "title": "Mini Impressora Niimbot B1 Bluetooth",
+    "raw_title": "Mini Impressora Niimbot B1 etiqueta Bluetooth Cor Prateado impressora etiquetas adesivas",
+    "description": "🚨 OFERTA RELÂMPAGO! 🚨 Transforme sua organização com a Mini Impressora Niimbot B1 Bluetooth! 🏷️ Crie etiquetas adesivas personalizadas para casa, escrit...",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "R$ 399,99",
+    "price": "R$ 223,99",
+    "discount_percent": 44.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_656520-MLA93232832197_092025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "03/08/2026 12:02",
+    "created_at_iso": "2026-08-03T12:02:19",
+    "created_ts": 1785758539
+  },
+  {
     "id": "73bcb582bf6588e4c7",
     "title": "Papel Fotográfico Adesivo 130G Glossy 100 Folhas A4 MASTERPRINT (PAPE…",
     "raw_title": "Papel Fotográfico Adesivo 130G Glossy 100 Folhas A4 MASTERPRINT (PAPEL ADESIVO)",
@@ -3186,43 +3203,5 @@
     "created_at": "02/08/2026 12:02",
     "created_at_iso": "2026-08-02T12:02:58",
     "created_ts": 1785672178
-  },
-  {
-    "id": "d088df19f476852bee",
-    "title": "Samsung Galaxy S23 Ultra 512GB Creme",
-    "raw_title": "Smartphone Samsung Galaxy S23 Ultra 512gb Creme",
-    "description": "🚀 PODER ABSOLUTO na palma da sua mão! Prepare-se para o Smartphone Samsung Galaxy S23 Ultra 512gb Creme! 🤩 Desempenho surreal, câmera impecável e espaço...",
-    "marketplace": "Mercado Livre",
-    "category": "Informática",
-    "old_price": "",
-    "price": "R$ 5.999,00",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_662216-MLA99464976462_112025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39444837?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "02/08/2026 12:01",
-    "created_at_iso": "2026-08-02T12:01:48",
-    "created_ts": 1785672108
-  },
-  {
-    "id": "3a9ce36446613e9e10",
-    "title": "Toalha de Banho Fralda Soft com Capuz para Bebê OU Kit com 2, 3 ou…",
-    "raw_title": "Toalha de Banho Fralda Soft com Capuz para Bebê OU Kit com 2, 3 ou 4 Toalhas",
-    "description": "🔥 47% OFF — Oferta encontrada! 📌 Toalha de Banho Fralda Soft com Capuz para Bebê OU Kit com 2, 3 ou 4 Toalhas Confira os detalhes e aproveite enquanto a...",
-    "marketplace": "Shopee",
-    "category": "Mãe e Bebê",
-    "old_price": "R$ 60,36",
-    "price": "R$ 31,99",
-    "discount_percent": 47.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7rcd0-ltolekuk92vba4",
-    "affiliate_url": "https://s.shopee.com.br/1gHQn4BIuo",
-    "created_at": "02/08/2026 11:19",
-    "created_at_iso": "2026-08-02T11:19:59",
-    "created_ts": 1785669599,
-    "niche": {
-      "key": "shopee_mae_bebe",
-      "name": "Mãe e Bebê"
-    }
   }
 ]

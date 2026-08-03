@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 03/08/2026 23:05
+Gerado em: 03/08/2026 23:21
 
 ## Como usar
 
@@ -32,7 +32,7 @@ Gerado em: 03/08/2026 23:05
 
 - Fraldas Calça SUMIKKO
 - Kit 10 Fraldas de Pano Estampadas
-- Fralda Descartável Huggies Máxima Proteção Tamanho XG 140 unidades – aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos e máxima proteção
+- Kit 4 Peças Infantil Menino Verão
 
 ---
 

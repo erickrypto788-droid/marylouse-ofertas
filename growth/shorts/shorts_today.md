@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 04/08/2026 17:05
+Gerado em: 04/08/2026 17:21
 
 ## Como usar
 
@@ -78,9 +78,9 @@ Gerado em: 04/08/2026 17:05
 
 **Produtos usados:**
 
+- Escova Secadora 110V Alisador Elétrica Quente Cabelo Com 3 Em1 Hair S…
 - Perfume Attracione Feminino by Attracione Woman Mulher
 - Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler…
-- Attracione Men (Perfume Masculino com Feromônios Ativados)
 
 ---
 

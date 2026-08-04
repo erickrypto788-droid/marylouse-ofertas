@@ -1,5 +1,39 @@
 [
   {
+    "id": "b38d77b5362348e324",
+    "title": "Quatree gourmet ração cachorro filhotes Premium 20kg",
+    "raw_title": "Quatree gourmet ração cachorro filhotes Premium 20kg",
+    "description": "🔥 Oferta encontrada! 📌 Quatree gourmet ração cachorro filhotes Premium 20kg Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Pet",
+    "old_price": "",
+    "price": "R$ 243,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_870369-MLA99883569265_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36069603?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "04/08/2026 05:03",
+    "created_at_iso": "2026-08-04T05:03:03",
+    "created_ts": 1785819783
+  },
+  {
+    "id": "1ffe155fc479ca1ed1",
+    "title": "Comedouro Automático Ração Aquário Terrario Peixe Tartaruga",
+    "raw_title": "Comedouro Automático Ração Aquário Terrario Peixe Tartaruga",
+    "description": "🔥 38% OFF — Oferta encontrada! 📌 Comedouro Automático Ração Aquário Terrario Peixe Tartaruga Confira os detalhes e aproveite enquanto a oferta estiver d...",
+    "marketplace": "Mercado Livre",
+    "category": "Pet",
+    "old_price": "R$ 142,86",
+    "price": "R$ 88,01",
+    "discount_percent": 38.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_980327-MLA99939124635_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB44164135?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "04/08/2026 05:01",
+    "created_at_iso": "2026-08-04T05:01:58",
+    "created_ts": 1785819718
+  },
+  {
     "id": "843af71c4276b6a3b1",
     "title": "TOMI MITO Bolsa Feminina Casual de Ombro com Estampa Geométrica e Pin…",
     "raw_title": "TOMI MITO Bolsa Feminina Casual de Ombro com Estampa Geométrica e Pingente Charmoso para Trabalho e Passeios TM9187",
@@ -3318,43 +3352,5 @@
     "created_at": "03/08/2026 05:03",
     "created_at_iso": "2026-08-03T05:03:10",
     "created_ts": 1785733390
-  },
-  {
-    "id": "91b9fcbec3de99bcb9",
-    "title": "SSD NVMe Cuso 500GB",
-    "raw_title": "Ssd Nvme Cuso 500gb 2300mb/s Cor Preto",
-    "description": "🚀 Upgrade DEFINITIVO para o seu PC! Chega de lentidão! O SSD NVMe Cuso 500GB com 2300MB/s de velocidade vai turbinar seu sistema. 🔥 📦 Frete Grátis!",
-    "marketplace": "Mercado Livre",
-    "category": "Informática",
-    "old_price": "R$ 579,00",
-    "price": "R$ 550,05",
-    "discount_percent": 5.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_828033-MLU78972015136_092024-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB34291524?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "03/08/2026 05:02",
-    "created_at_iso": "2026-08-03T05:02:02",
-    "created_ts": 1785733322
-  },
-  {
-    "id": "2a008cd8622be13111",
-    "title": "Bicicleta Bike Ergometrica Spinning Academia Fitness Profissional 120…",
-    "raw_title": "Bicicleta Bike Ergometrica Spinning Academia Fitness Profissional 120kg",
-    "description": "🔥 71% OFF — Oferta encontrada! 📌 Bicicleta Bike Ergometrica Spinning Academia Fitness Profissional 120kg Confira os detalhes e aproveite enquanto a ofer...",
-    "marketplace": "Shopee",
-    "category": "Esportes e Lazer",
-    "old_price": "R$ 1.609,17",
-    "price": "R$ 466,66",
-    "discount_percent": 71.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8dq90menppta0",
-    "affiliate_url": "https://s.shopee.com.br/80BZaDRXas",
-    "created_at": "03/08/2026 04:20",
-    "created_at_iso": "2026-08-03T04:20:02",
-    "created_ts": 1785730802,
-    "niche": {
-      "key": "shopee_esportes_lazer",
-      "name": "Esportes e Lazer"
-    }
   }
 ]

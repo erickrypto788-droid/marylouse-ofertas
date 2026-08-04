@@ -1,5 +1,90 @@
 [
   {
+    "id": "a2881972b2d838a7d0",
+    "title": "Sabonete Natura Ekos Andiroba",
+    "raw_title": "Sabonete Barra Natura Ekos Andiroba",
+    "description": "🌿 Sinta a natureza na sua pele! Sabonete Barra Natura Ekos Andiroba: o toque da Amazônia para uma pele macia e renovada. ✨ 🚚 Frete grátis!",
+    "marketplace": "Mercado Livre",
+    "category": "Supermercados",
+    "old_price": "",
+    "price": "R$ 46,33",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_862425-MLA99407940712_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB27572942?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "04/08/2026 09:12",
+    "created_at_iso": "2026-08-04T09:12:44",
+    "created_ts": 1785834764
+  },
+  {
+    "id": "6035a42e8cd3617d03",
+    "title": "Kit Pomada Assadura 20 Unid.",
+    "raw_title": "Kit C/20 Pomada Assadura 10xtradicional + 10xóleo Amêndoas",
+    "description": "👶✨ Cuidado essencial para o seu bebê! Garanta já o Kit com 20 Pomadas para Assadura, com 10 tradicionais e 10 com óleo de amêndoas. Proteção e hidrataçã...",
+    "marketplace": "Mercado Livre",
+    "category": "Mãe e Bebê",
+    "old_price": "",
+    "price": "R$ 220,91",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_780176-MLA111819162305_052026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB69801251?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "04/08/2026 09:11",
+    "created_at_iso": "2026-08-04T09:11:36",
+    "created_ts": 1785834696
+  },
+  {
+    "id": "b02b1332eea964bcbf",
+    "title": "Bepantol Baby 200g",
+    "raw_title": "Bepantol Baby Pomada Assadura Bebe Hipoalergênica, 200g",
+    "description": "👶 Proteção garantida contra assaduras para o seu bebê! Bepantol Baby Pomada Hipoalergênica, 200g, é o cuidado que a pele delicada do seu pequeno merece....",
+    "marketplace": "Mercado Livre",
+    "category": "Mãe e Bebê",
+    "old_price": "",
+    "price": "R$ 109,90",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_772325-MLA110843234303_042026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68578906?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "04/08/2026 09:10",
+    "created_at_iso": "2026-08-04T09:10:25",
+    "created_ts": 1785834625
+  },
+  {
+    "id": "b50e84f767b81aac34",
+    "title": "Kit Higiene Bucal Completo - 30 Unidades",
+    "raw_title": "30 Escova Dental + 30 Porta Escova Dental + 30 Creme Dental Cor Sortidas",
+    "description": "✨ Oportunidade ÚNICA! ✨ Garanta agora seu kit completo de higiene bucal com 30 escovas, 30 porta-escovas e 30 cremes dentais! Perfeito para viagens, doa...",
+    "marketplace": "Mercado Livre",
+    "category": "Supermercados",
+    "old_price": "R$ 192,06",
+    "price": "R$ 182,45",
+    "discount_percent": 5.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_962859-MLA99904673295_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB53206199?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "04/08/2026 09:08",
+    "created_at_iso": "2026-08-04T09:08:17",
+    "created_ts": 1785834497
+  },
+  {
+    "id": "bb67260b2f82faf251",
+    "title": "Shampoo Tonalizante Preto Kaisasa 500ml",
+    "raw_title": "Kaisasa Shampoo Tonalizante Para Cobrir Cabelo Cinzento，shampoo cabelo branco，shampoo barba，shampoo redutor grisalhos，shampoo tonalizante preto，hair dye sham...",
+    "description": "💇‍♂️ Diga adeus aos grisalhos! Tenha cabelos e barba pretos e com brilho em minutos com o Shampoo Tonalizante Kaisasa 500ml. Praticidade e resultado pro...",
+    "marketplace": "Mercado Livre",
+    "category": "Beleza",
+    "old_price": "R$ 127,15",
+    "price": "R$ 99,00",
+    "discount_percent": 22.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_818741-MLA109993336551_042026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50178919?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "04/08/2026 09:07",
+    "created_at_iso": "2026-08-04T09:07:08",
+    "created_ts": 1785834428
+  },
+  {
     "id": "b96bfd68d1c54702de",
     "title": "Sem PESO - Quitosana + Spirulina + Psyllium",
     "raw_title": "Sem PESO - Quitosana + Spirulina + Psyllium + Cromo + Vitamina A e C | Suplemento Alimentar Original",
@@ -3246,27 +3331,6 @@
     "niche": {
       "key": "shopee_bolsas_masculinas",
       "name": "Bolsas Masculinas"
-    }
-  },
-  {
-    "id": "c935deb8c1499d79e0",
-    "title": "Mochila Impermeável Notebook",
-    "raw_title": "Mochila Unissex Grande Impermeável para Notebook Masculina Feminina Alta Capacidade Reforçada Trabalho Faculdade",
-    "description": "🔥 IMPERDÍVEL! Mochila que une estilo e funcionalidade! 🔥 Mochila Unissex Grande, Impermeável e Reforçada. Perfeita para Notebook, Trabalho e Faculdade!...",
-    "marketplace": "Shopee",
-    "category": "Bolsas Femininas",
-    "old_price": "R$ 199,67",
-    "price": "R$ 59,90",
-    "discount_percent": 70.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820l6-mm6z0rpfcgzrfc",
-    "affiliate_url": "https://s.shopee.com.br/5fnf4S0cEG",
-    "created_at": "03/08/2026 08:20",
-    "created_at_iso": "2026-08-03T08:20:36",
-    "created_ts": 1785745236,
-    "niche": {
-      "key": "shopee_bolsas_femininas",
-      "name": "Bolsas Femininas"
     }
   }
 ]

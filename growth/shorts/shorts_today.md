@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 04/08/2026 06:21
+Gerado em: 04/08/2026 07:22
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 04/08/2026 06:21
 
 **Produtos usados:**
 
-- Fraldas Calça SUMIKKO
-- Kit 10 Fraldas de Pano Estampadas
 - Toalha de Banho Fralda Soft com Capuz para Bebê OU Kit com 2, 3 ou…
+- Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…
+- Lixa de Unha Elétrico Aparador Cortador Para Bebê Infantil Com Estojo
 
 ---
 

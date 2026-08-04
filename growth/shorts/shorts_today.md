@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 04/08/2026 14:06
+Gerado em: 04/08/2026 14:21
 
 ## Como usar
 
@@ -121,13 +121,11 @@ Gerado em: 04/08/2026 14:06
 - growth/shorts/slides/supermercados/01_intro.png
 - growth/shorts/slides/supermercados/02_produto_1.png
 - growth/shorts/slides/supermercados/03_produto_2.png
-- growth/shorts/slides/supermercados/04_produto_3.png
 - growth/shorts/slides/supermercados/05_cta.png
 
 **Produtos usados:**
 
-- Azeite Oliva Extra Virgem Italiano 500ml Mercatto
-- Amaciante Roupas Macias Sensiv Titila 5l
 - Sabonete Natura Ekos Andiroba
+- Kit Higiene Bucal Completo - 30 Unidades
 
 ---

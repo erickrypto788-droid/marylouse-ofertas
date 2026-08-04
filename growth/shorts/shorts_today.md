@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 04/08/2026 21:21
+Gerado em: 04/08/2026 22:21
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 04/08/2026 21:21
 
 **Produtos usados:**
 
+- SUMIKKO 50 e 100 unidades Infantil Calça Fraldas Ajustável total max…
 - Toalha de Banho Fralda Soft com Capuz para Bebê OU Kit com 2, 3 ou…
 - Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…
-- Lixa de Unha Elétrico Aparador Cortador Para Bebê Infantil Com Estojo
 
 ---
 
@@ -79,8 +79,8 @@ Gerado em: 04/08/2026 21:21
 **Produtos usados:**
 
 - Escova Secadora 110V Alisador Elétrica Quente Cabelo Com 3 Em1 Hair S…
-- Perfume Attracione Feminino by Attracione Woman Mulher
-- Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler…
+- Soprador Turbo Jet Fan Secador Automotivo 2 Baterias 48V com Maleta -…
+- Chapinha Profissional Bivolt
 
 ---
 

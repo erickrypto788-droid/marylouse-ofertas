@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 04/08/2026 16:05
+Gerado em: 04/08/2026 16:21
 
 ## Como usar
 
@@ -147,14 +147,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
 ```txt
 🍳 Oferta para Casa e Cozinha
 
-Fritadeira Air Fryer Britânia 5,5L 1500W BFR50 Redstone 220V
+Panela De Pressão 4,5litros Panelux Linha Classic Alto Brilho A Mais…
 
-💸 De: R$ 425,00
-🔥 Por: R$ 199,89
-🏷️ 53% OFF
-🛒 Loja: Amazon
+💸 De: R$ 115,80
+🔥 Por: R$ 57,90
+🏷️ 50% OFF
+🛒 Loja: Shopee
 
-Ver oferta: https://link.amazon/B03P9RZpo
+Ver oferta: https://s.shopee.com.br/6pzeaPTxrh
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

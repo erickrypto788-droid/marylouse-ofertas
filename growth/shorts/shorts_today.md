@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 04/08/2026 05:21
+Gerado em: 04/08/2026 06:21
 
 ## Como usar
 
@@ -102,9 +102,9 @@ Gerado em: 04/08/2026 05:21
 
 **Produtos usados:**
 
+- Fones Xiaomi Redmi Airdots
 - Celular Samsung Galaxy A37 5G, 256GB, 8GB, 50MP Tela 6.7" - Preto
 - Carregador Portátil Indução para iPhone/Android Magsafe Sem fio Bater…
-- Fone de Ouvido entrada lightning para Iphone Microfone Bluetooth
 
 ---
 

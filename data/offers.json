@@ -1,5 +1,56 @@
 [
   {
+    "id": "c0ea4a382c1b6b5fa3",
+    "title": "Painel D'Rossi Painel Para TV para TV até 60\" cumaru de mdf/mdp",
+    "raw_title": "Painel D'Rossi Painel Para TV para TV até 60\" cumaru de mdf/mdp",
+    "description": "🔥 16% OFF — Oferta encontrada! 📌 Painel D'Rossi Painel Para TV para TV até 60\" cumaru de mdf/mdp Confira os detalhes e aproveite enquanto a oferta estiv...",
+    "marketplace": "Mercado Livre",
+    "category": "Casa e Cozinha",
+    "old_price": "R$ 798,90",
+    "price": "R$ 671,08",
+    "discount_percent": 16.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_815339-MLA113527420537_062026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74184723?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "05/08/2026 06:05",
+    "created_at_iso": "2026-08-05T06:05:27",
+    "created_ts": 1785909927
+  },
+  {
+    "id": "f4ce6e4e4365b59c60",
+    "title": "Jogo Panelas Tramontina Coimbra 5pçs Preto Antiaderente",
+    "raw_title": "Jogo Panelas Tramontina Coimbra 5pçs Preto Antiaderente",
+    "description": "🔥 Oferta encontrada! 📌 Jogo Panelas Tramontina Coimbra 5pçs Preto Antiaderente Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Casa e Cozinha",
+    "old_price": "",
+    "price": "R$ 213,89",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_737133-MLA95400026102_102025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39387638?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "05/08/2026 06:04",
+    "created_at_iso": "2026-08-05T06:04:23",
+    "created_ts": 1785909863
+  },
+  {
+    "id": "c809fccfadf765d065",
+    "title": "Conjunto Panelas Antiaderente Tramontina 5peças Vermelho",
+    "raw_title": "Conjunto Panelas Antiaderente Tramontina 5peças Vermelho",
+    "description": "🔥 18% OFF — Oferta encontrada! 📌 Conjunto Panelas Antiaderente Tramontina 5peças Vermelho Confira os detalhes e aproveite enquanto a oferta estiver disp...",
+    "marketplace": "Mercado Livre",
+    "category": "Casa e Cozinha",
+    "old_price": "R$ 366,46",
+    "price": "R$ 301,79",
+    "discount_percent": 18.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_774864-MLA95218701324_102025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB32947723?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "05/08/2026 06:03",
+    "created_at_iso": "2026-08-05T06:03:19",
+    "created_ts": 1785909799
+  },
+  {
     "id": "d43bdfcf8578dc4a5f",
     "title": "Calça Legging Flare Flanelada Leg Boca De Sino Bailarina",
     "raw_title": "Calça Legging Flare Flanelada Leg Boca De Sino Bailarina",
@@ -3477,27 +3528,6 @@
     "niche": {
       "key": "shopee_papelaria",
       "name": "Papelaria"
-    }
-  },
-  {
-    "id": "a8d865c98fc30ac157",
-    "title": "Mochila Masculina Esportiva Impermeável para Notebook, Mochila Escola…",
-    "raw_title": "Mochila Masculina Esportiva Impermeável para Notebook, Mochila Escolar de Viagem e Trabalho",
-    "description": "🔥 50% OFF — Oferta encontrada! 📌 Mochila Masculina Esportiva Impermeável para Notebook, Mochila Escolar de Viagem e Trabalho Confira os detalhes e aprov...",
-    "marketplace": "Shopee",
-    "category": "Bolsas Masculinas",
-    "old_price": "R$ 79,98",
-    "price": "R$ 39,99",
-    "discount_percent": 50.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820me-mljzudnhshdw7f",
-    "affiliate_url": "https://s.shopee.com.br/6fgDemmMvU",
-    "created_at": "04/08/2026 05:19",
-    "created_at_iso": "2026-08-04T05:19:54",
-    "created_ts": 1785820794,
-    "niche": {
-      "key": "shopee_bolsas_masculinas",
-      "name": "Bolsas Masculinas"
     }
   }
 ]

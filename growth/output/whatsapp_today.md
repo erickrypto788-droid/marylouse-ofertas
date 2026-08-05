@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 05/08/2026 06:45
+Gerado em: 05/08/2026 07:22
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Conjunto Segunda Pele Térmica Flanelado Frio Intenso Preto Proteção U…
+Calça Jeans Plus Size 70% OFF
 
-💸 De: R$ 90,61
-🔥 Por: R$ 29,90
-🏷️ 67% OFF
+💸 De: R$ 161,30
+🔥 Por: R$ 48,39
+🏷️ 70% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/7fYmVdBuvz
+Ver oferta: https://s.shopee.com.br/5ArRb9WgPe
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 05/08/2026 20:21
+Gerado em: 05/08/2026 21:14
 
 ## Como usar
 
@@ -103,8 +103,8 @@ Gerado em: 05/08/2026 20:21
 **Produtos usados:**
 
 - Fone Xiaomi Redmi Airdots
-- Xiaomi Redmi Note 15
 - Carregador Portátil por Indução
+- Fone de Ouvido entrada lightning para Iphone Microfone Bluetooth
 
 ---
 
@@ -127,7 +127,7 @@ Gerado em: 05/08/2026 20:21
 **Produtos usados:**
 
 - Papel higiênico INDAIAL CAICAI PAPEL HIGIENICO folha dupla 22.5 m de…
-- Azeite Oliva Extra Virgem Português Vila Oliva 500ml (3 Un)
-- Darrow Suavié Sabonete Barra 70g
+- Azeite Oliva Extra Virgem Italiano 500ml
+- Amaciante Roupas Macias Sensiv Titila 5l
 
 ---

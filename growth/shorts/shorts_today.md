@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 05/08/2026 09:22
+Gerado em: 05/08/2026 10:21
 
 ## Como usar
 
@@ -102,9 +102,9 @@ Gerado em: 05/08/2026 09:22
 
 **Produtos usados:**
 
+- Fone Xiaomi Redmi Airdots
 - Xiaomi Redmi Note 15
-- Gamesir T4 Nova Lite Controlador De Jogo Sem Fio Multiplataforma Efei…
-- Kit 2 Capinha Para Iphone Anti Impacto Transparente Tpu Para IPhone…
+- Carregador Portátil por Indução
 
 ---
 

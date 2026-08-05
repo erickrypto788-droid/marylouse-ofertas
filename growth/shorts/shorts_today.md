@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 05/08/2026 06:07
+Gerado em: 05/08/2026 06:21
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 05/08/2026 06:07
 **Produtos usados:**
 
 - SUMIKKO 50 e 100 unidades Infantil Calça Fraldas Ajustável total max…
-- Lixa de Unha Elétrico Aparador Cortador Para Bebê Infantil Com Estojo
 - Fralda Geriátrica Roupa Intima Higifral Pants 42 Fralda G/xg G/xg
+- Boneca Lola Baby Rosa
 
 ---
 
@@ -102,9 +102,9 @@ Gerado em: 05/08/2026 06:07
 
 **Produtos usados:**
 
-- Fones Xiaomi Redmi Airdots
 - Xiaomi Redmi Note 15
 - Gamesir T4 Nova Lite Controlador De Jogo Sem Fio Multiplataforma Efei…
+- Kit 2 Capinha Para Iphone Anti Impacto Transparente Tpu Para IPhone…
 
 ---
 

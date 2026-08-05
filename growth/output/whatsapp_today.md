@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 05/08/2026 06:07
+Gerado em: 05/08/2026 06:21
 
 ## Como usar
 
@@ -42,37 +42,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 2 — Celulares e Tecnologia
-
-**Canal recomendado:** Celulares e Tecnologia
-
-**Horário sugerido:** 19:00 - 21:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
-
-**Texto pronto:**
-
-```txt
-📱 Oferta para Celulares e Tecnologia
-
-Fones Xiaomi Redmi Airdots
-
-💸 De: R$ 50,74
-🔥 Por: R$ 19,79
-🏷️ 61% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/8V7ruHH6Zc
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 3 — Beleza e Cuidados
+## Post 2 — Beleza e Cuidados
 
 **Canal recomendado:** Beleza e Cuidados
 
@@ -102,7 +72,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Ofertas Pet
+## Post 3 — Ofertas Pet
 
 **Canal recomendado:** Ofertas Pet
 
@@ -132,7 +102,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 5 — Casa e Cozinha
+## Post 4 — Casa e Cozinha
 
 **Canal recomendado:** Casa e Cozinha
 
@@ -162,6 +132,36 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
+## Post 5 — Celulares e Tecnologia
+
+**Canal recomendado:** Celulares e Tecnologia
+
+**Horário sugerido:** 19:00 - 21:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
+
+**Texto pronto:**
+
+```txt
+📱 Oferta para Celulares e Tecnologia
+
+Xiaomi Redmi Note 15
+
+💸 De: R$ 2.800,00
+🔥 Por: R$ 1.683,92
+🏷️ 40% OFF
+🛒 Loja: Mercado Livre
+
+Ver oferta: https://www.mercadolivre.com.br/p/MLB74419020?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
 ## Post 6 — Moda Feminina
 
 **Canal recomendado:** Moda Feminina
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Calça Legging Flare Flanelada Leg Boca De Sino Bailarina
+Conjunto Segunda Pele Térmica Flanelado Frio Intenso Preto Proteção U…
 
-💸 De: R$ 108,54
-🔥 Por: R$ 37,99
-🏷️ 65% OFF
+💸 De: R$ 90,61
+🔥 Por: R$ 29,90
+🏷️ 67% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/9ANaEGYp2l
+Ver oferta: https://s.shopee.com.br/7fYmVdBuvz
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 05/08/2026 17:06
+Gerado em: 05/08/2026 17:21
 
 ## Como usar
 
@@ -132,7 +132,37 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 5 — Ofertas Pet
+## Post 5 — Casa e Cozinha
+
+**Canal recomendado:** Casa e Cozinha
+
+**Horário sugerido:** 18:00 - 20:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
+
+**Texto pronto:**
+
+```txt
+🍳 Oferta para Casa e Cozinha
+
+Mini Balança Digital De Cozinha Alta Precisão 0,1g Até 2000g
+
+💸 De: R$ 92,79
+🔥 Por: R$ 25,98
+🏷️ 72% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/20uQUYSikx
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 6 — Ofertas Pet
 
 **Canal recomendado:** Ofertas Pet
 
@@ -155,36 +185,6 @@ Ração Gato Estimacat Premium Filhote Sabor Frango 10kg
 🛒 Loja: Mercado Livre
 
 Ver oferta: https://www.mercadolivre.com.br/p/MLB66844874?matt_word=marylouse&matt_tool=50459180&forceInApp=true
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 6 — Moda e Calçados
-
-**Canal recomendado:** Moda e Calçados
-
-**Horário sugerido:** 12:00 - 15:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
-
-**Texto pronto:**
-
-```txt
-👟 Oferta para Moda e Calçados
-
-Sandália Feminina Luxo Confortável
-
-💸 De: R$ 128,54
-🔥 Por: R$ 35,99
-🏷️ 72% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/7psCuK4Ui6
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

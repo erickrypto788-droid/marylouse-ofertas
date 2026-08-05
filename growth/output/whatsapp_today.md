@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 05/08/2026 16:21
+Gerado em: 05/08/2026 17:06
 
 ## Como usar
 
@@ -147,14 +147,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
 ```txt
 🐶 Oferta para Ofertas Pet
 
-Comedouro Elevado Duplo Ração Gato Porcelana Acrilico 190ml Porta Rac…
+Ração Gato Estimacat Premium Filhote Sabor Frango 10kg
 
-💸 De: R$ 78,80
-🔥 Por: R$ 49,90
-🏷️ 37% OFF
+💸 De: R$ 337,43
+🔥 Por: R$ 253,07
+🏷️ 25% OFF
 🛒 Loja: Mercado Livre
 
-Ver oferta: https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+Ver oferta: https://www.mercadolivre.com.br/p/MLB66844874?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

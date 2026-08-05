@@ -1,91 +1,91 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 05/08/2026 02:06
+Gerado em: 05/08/2026 02:21
 
 ## Categorias prioritárias
 
-- 💻 **Informática**: 19 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 💻 **Informática**: 21 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 🍼 **Mãe e Bebê**: 17 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- ❤️ **Saúde**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 👜 **Bolsas**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 - 💄 **Beleza**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 👟 **Calçados**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- ❤️ **Saúde**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 👗 **Moda Feminina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
+- 📦 **Outros**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 🐶 **Pet**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 🏋️ **Esportes**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 🍳 **Casa e Cozinha**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 
 ## Top ofertas para destacar
 
-1. **Mochila Faculdade Reforçada Compartimento Para Notebook Escolar Uniss…**
+1. **Mesa Notebook Ergonômica Multiuso Altura Regulável Rodinhas Mesa Escr…**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 79,90
+   - Desconto: 80% OFF
+   - Link: https://s.shopee.com.br/50Y14FCWwv
+
+2. **Mochila Faculdade Reforçada Compartimento Para Notebook Escolar Uniss…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 32,90
    - Desconto: 56% OFF
    - Link: https://s.shopee.com.br/6Ajx3rsbSj
 
-2. **Mochila CHL Bolsa Reforçada Notebook Impermeavel Material Premium Col…**
+3. **Mochila CHL Bolsa Reforçada Notebook Impermeavel Material Premium Col…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 39,99
    - Desconto: 55% OFF
    - Link: https://s.shopee.com.br/30mwYKfqHL
 
-3. **SUMIKKO 50 e 100 unidades Infantil Calça Fraldas Ajustável total max…**
+4. **SUMIKKO 50 e 100 unidades Infantil Calça Fraldas Ajustável total max…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 69,00
    - Desconto: 65% OFF
    - Link: https://s.shopee.com.br/2gA61TP4ea
 
-4. **Escova Secadora 110V Alisador Elétrica Quente Cabelo Com 3 Em1 Hair S…**
+5. **Escova Secadora 110V Alisador Elétrica Quente Cabelo Com 3 Em1 Hair S…**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 38,66
    - Desconto: 61% OFF
    - Link: https://s.shopee.com.br/8KoSRIV2iO
 
-5. **Soprador Turbo Jet Fan Secador Automotivo 2 Baterias 48V com Maleta -…**
+6. **Soprador Turbo Jet Fan Secador Automotivo 2 Baterias 48V com Maleta -…**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 79,00
    - Desconto: 57% OFF
    - Link: https://s.shopee.com.br/3qM30tWnB9
 
-6. **Panela De Pressão 4,5litros Panelux Linha Classic Alto Brilho A Mais…**
+7. **Panela De Pressão 4,5litros Panelux Linha Classic Alto Brilho A Mais…**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 57,90
    - Desconto: 50% OFF
    - Link: https://s.shopee.com.br/6pzeaPTxrh
 
-7. **Pro 4 Fones De Ouvido TWS Sem Fio Bluetooth Bateria Longa Duração Lev…**
+8. **Pro 4 Fones De Ouvido TWS Sem Fio Bluetooth Bateria Longa Duração Lev…**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 10,72
    - Desconto: 64% OFF
    - Link: https://s.shopee.com.br/20uM6acG3m
 
-8. **Chapinha Profissional Bivolt**
+9. **Chapinha Profissional Bivolt**
    - Categoria: Beleza
    - Loja: Mercado Livre
    - Preço: R$ 58,00
    - Desconto: 50% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB74602351?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-9. **Mesa Dobrável Retrátil para Notebook**
+10. **Mesa Dobrável Retrátil para Notebook**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 37,89
    - Desconto: 57% OFF
    - Link: https://s.shopee.com.br/7psBBAHpXR
-
-10. **Caderno A5 de couro macio 360 folhas retro notebook para agenda 2026…**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 35,99
-   - Desconto: 57% OFF
-   - Link: https://s.shopee.com.br/60QWvgZUTT
 
 ## Ações gratuitas recomendadas
 

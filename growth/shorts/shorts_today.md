@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 05/08/2026 22:07
+Gerado em: 05/08/2026 22:22
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 05/08/2026 22:07
 **Produtos usados:**
 
 - SUMIKKO Calça Fraldas 50 e 100 unidade Baby Ajustável total max P/M/G…
-- SUMIKKO 50 e 100 unidades Infantil Calça Fraldas Ajustável total max…
 - Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…
+- Lixa de Unha Elétrica para Bebê
 
 ---
 
@@ -55,8 +55,8 @@ Gerado em: 05/08/2026 22:07
 **Produtos usados:**
 
 - Mini Balança Digital De Cozinha Alta Precisão 0,1g Até 2000g
+- Etiquetas para Potes de Condimentos
 - Liquidificador Mondial L‑99 Turbo 550 W 3 Velocidades
-- Espremedor Elétrico Laranja Limão Frutas Fazer Sucos Recarregável Usb…
 
 ---
 

@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 05/08/2026 22:22
+Gerado em: 05/08/2026 23:07
 
 ## Como usar
 
@@ -147,14 +147,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
 ```txt
 🍳 Oferta para Casa e Cozinha
 
-Mini Balança Digital De Cozinha Alta Precisão 0,1g Até 2000g
+Jogo de Panelas Ipanema 5 Peças
 
-💸 De: R$ 92,79
-🔥 Por: R$ 25,98
-🏷️ 72% OFF
-🛒 Loja: Shopee
+💸 De: R$ 404,69
+🔥 Por: R$ 305,90
+🏷️ 24% OFF
+🛒 Loja: Mercado Livre
 
-Ver oferta: https://s.shopee.com.br/20uQUYSikx
+Ver oferta: https://www.mercadolivre.com.br/p/MLB75817439?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

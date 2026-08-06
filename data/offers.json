@@ -1,5 +1,22 @@
 [
   {
+    "id": "3f261b17e80e7b8ba3",
+    "title": "Roteador Wifi 6 Dual Band",
+    "raw_title": "Roteador Wifi 6 Dual Band Flt - X3000",
+    "description": "🚀 Chega de internet lenta! Transforme sua conexão com o Roteador Wifi 6 Dual Band Flt - X3000! ⚡️ Tenha velocidades incríveis e estabilidade para todos...",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "",
+    "price": "R$ 349,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_981879-MLA80519993733_112024-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB42833702?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "06/08/2026 05:01",
+    "created_at_iso": "2026-08-06T05:01:42",
+    "created_ts": 1785992502
+  },
+  {
     "id": "2aeeff6b9f67dd3cae",
     "title": "Bota CAT Coturno Preto Palmilha Gel Ortopédica Couro Masculino Promoç…",
     "raw_title": "Bota CAT Coturno Preto Palmilha Gel Ortopédica Couro Masculino Promoção Envio Rápido",
@@ -3172,26 +3189,5 @@
     "created_at": "05/08/2026 05:03",
     "created_at_iso": "2026-08-05T05:03:42",
     "created_ts": 1785906222
-  },
-  {
-    "id": "b274614260788f12ef",
-    "title": "Kit com 2x Fones Bluetooh ADots2- Fone Sem Fio Gamer Esporte Fitness…",
-    "raw_title": "Kit com 2x Fones Bluetooh ADots2- Fone Sem Fio Gamer Esporte Fitness e Academia",
-    "description": "🔥 Oferta encontrada! 📌 Kit com 2x Fones Bluetooh ADots2- Fone Sem Fio Gamer Esporte Fitness e Academia Confira os detalhes e aproveite enquanto a oferta...",
-    "marketplace": "Shopee",
-    "category": "Jogos e Consoles",
-    "old_price": "",
-    "price": "R$ 94,50",
-    "discount_percent": 0.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m4-mnf2q2wue2v4c7",
-    "affiliate_url": "https://s.shopee.com.br/60QYOKvUSL",
-    "created_at": "05/08/2026 04:20",
-    "created_at_iso": "2026-08-05T04:20:06",
-    "created_ts": 1785903606,
-    "niche": {
-      "key": "shopee_jogos_consoles",
-      "name": "Jogos e Consoles"
-    }
   }
 ]

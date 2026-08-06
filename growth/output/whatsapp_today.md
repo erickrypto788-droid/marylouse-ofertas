@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 06/08/2026 06:03
+Gerado em: 06/08/2026 06:22
 
 ## Como usar
 
@@ -117,14 +117,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
 ```txt
 🐶 Oferta para Ofertas Pet
 
-Sandália Papete Feminina Ortopédica com Elástico Confortável Moderna…
+Pro 4 Fones De Ouvido TWS Sem Fio Bluetooth Bateria Longa Duração Lev…
 
-💸 De: R$ 90,00
-🔥 Por: R$ 36,90
-🏷️ 59% OFF
+💸 De: R$ 29,78
+🔥 Por: R$ 10,72
+🏷️ 64% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/9fJsQ4Ocxa
+Ver oferta: https://s.shopee.com.br/BSnAjjRiJ
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

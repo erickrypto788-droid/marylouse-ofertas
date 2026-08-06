@@ -1,5 +1,110 @@
 [
   {
+    "id": "360d88343200ea06ed",
+    "title": "Kit Camisetas Manga Longa Infantil",
+    "raw_title": "Kit 3 ou 5 Camisetas Manga Longa Infantil Menino Básica Lisa Manga Comprida Infantil",
+    "description": "OPORTUNIDADE ÚNICA! 👕 Kit 3 ou 5 Camisetas Manga Longa Infantil! Conforto e estilo para os meninos no dia a dia. ✨ Garanta já o kit perfeito para seu fi...",
+    "marketplace": "Shopee",
+    "category": "Moda Infantil",
+    "old_price": "R$ 78,33",
+    "price": "R$ 32,90",
+    "discount_percent": 58.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820mg-mnyq51fk6ccg4c",
+    "affiliate_url": "https://s.shopee.com.br/7AcXhy89Mj",
+    "created_at": "06/08/2026 09:20",
+    "created_at_iso": "2026-08-06T09:20:14",
+    "created_ts": 1786008014,
+    "niche": {
+      "key": "shopee_moda_infantil",
+      "name": "Moda Infantil"
+    }
+  },
+  {
+    "id": "b96d89adc789a90eb8",
+    "title": "Tênis Infantil Feminino Kidstep",
+    "raw_title": "Kidstep Tenis Infantil Feminino Casual Preto Com Pink",
+    "description": "Mães, ATENÇÃO! 👧 Seu pequeno merece conforto e estilo! 👟 Tênis Infantil Feminino Kidstep Casual Preto Com Pink",
+    "marketplace": "Shopee",
+    "category": "Moda Infantil",
+    "old_price": "R$ 74,83",
+    "price": "R$ 44,90",
+    "discount_percent": 40.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lf-mr02w8mqjrif8b",
+    "affiliate_url": "https://s.shopee.com.br/7AcXhyCPe4",
+    "created_at": "06/08/2026 09:19",
+    "created_at_iso": "2026-08-06T09:19:04",
+    "created_ts": 1786007944,
+    "niche": {
+      "key": "shopee_moda_infantil",
+      "name": "Moda Infantil"
+    }
+  },
+  {
+    "id": "8c5b2f4c73a7105865",
+    "title": "Kit 4 Camisetas Manga Longa Menino",
+    "raw_title": "Kit Com 4 Camisetas Manga LONGA MENINO De Inverno Cores Sortidas",
+    "description": "Kit IMPERDÍVEL para o inverno dos pequenos! 🥶👕 Seu filho merece conforto e estilo com este Kit de 4 Camisetas Manga LONGA para meninos! Cores sortidas p...",
+    "marketplace": "Shopee",
+    "category": "Moda Infantil",
+    "old_price": "R$ 90,70",
+    "price": "R$ 39,00",
+    "discount_percent": 57.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lz-moa88gu0nldv82",
+    "affiliate_url": "https://s.shopee.com.br/6Ak0W8BxOd",
+    "created_at": "06/08/2026 09:17",
+    "created_at_iso": "2026-08-06T09:17:57",
+    "created_ts": 1786007877,
+    "niche": {
+      "key": "shopee_moda_infantil",
+      "name": "Moda Infantil"
+    }
+  },
+  {
+    "id": "8d94f04deabdf51e63",
+    "title": "Tênis Infantil Menino Spring Confortável e Estiloso",
+    "raw_title": "Tênis Menino Spring Infantil Menino Criança Confortável Estiloso Antiderrapante Original Promoção",
+    "description": "🚨 PROMOÇÃO RELÂMPAGO! 🚨 Garanta o Tênis Infantil que une conforto, estilo e segurança para o seu pequeno! Perfeito para brincar e passear, com design an...",
+    "marketplace": "Shopee",
+    "category": "Moda Infantil",
+    "old_price": "R$ 90,00",
+    "price": "R$ 54,90",
+    "discount_percent": 39.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820la-mo056krf3k7860",
+    "affiliate_url": "https://s.shopee.com.br/6Ak0W8GDfq",
+    "created_at": "06/08/2026 09:16",
+    "created_at_iso": "2026-08-06T09:16:49",
+    "created_ts": 1786007809,
+    "niche": {
+      "key": "shopee_moda_infantil",
+      "name": "Moda Infantil"
+    }
+  },
+  {
+    "id": "24691520abd22abf82",
+    "title": "Kit 10 Cuecas Boxer Infantil",
+    "raw_title": "Kit 10 Cuecas Boxer Box Infantil Juvenil Menino Estampada",
+    "description": "🚨 KIT CUECAS INFANTIL COM SUPER DESCONTO! 🚀 Garanta conforto e estilo para os meninos com este kit incrível! São 10 cuecas boxer estampadas, perfeitas p...",
+    "marketplace": "Shopee",
+    "category": "Moda Infantil",
+    "old_price": "R$ 89,72",
+    "price": "R$ 34,99",
+    "discount_percent": 61.0,
+    "rating": 4.6,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9u79k2kc6d5a4",
+    "affiliate_url": "https://s.shopee.com.br/7KvxuGyRPm",
+    "created_at": "06/08/2026 09:15",
+    "created_at_iso": "2026-08-06T09:15:43",
+    "created_ts": 1786007743,
+    "niche": {
+      "key": "shopee_moda_infantil",
+      "name": "Moda Infantil"
+    }
+  },
+  {
     "id": "627d34a1a39fb49eb1",
     "title": "Escova Secadora GOKOCO 7 em 1",
     "raw_title": "GOKOCO Escova Secadora 7 Em 1 GD032 Conjunto De Secador De Cabelo Multifuncional De Alta Velocidade Para Alisar Enrolar",
@@ -2932,123 +3037,5 @@
       "key": "shopee_sapatos_femininos",
       "name": "Sapatos Femininos"
     }
-  },
-  {
-    "id": "0dd2cb91aeca0a2c03",
-    "title": "Bota Feminina GiGiL Cano Longo",
-    "raw_title": "Bota Feminina GiGiL Cano Longo Enrugado Slouch Bico Fino Salto Bloco Médio Elegante Clássica Casual",
-    "description": "✨ BOTA CANO LONGO COM DESCONTO IMPERDÍVEL! ✨ A Bota Feminina GiGiL Cano Longo Enrugado é a peça perfeita para um look elegante e casual! Com bico fino e...",
-    "marketplace": "Shopee",
-    "category": "Sapatos Femininos",
-    "old_price": "R$ 303,29",
-    "price": "R$ 127,38",
-    "discount_percent": 58.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8luys2i8oep28",
-    "affiliate_url": "https://s.shopee.com.br/6AjyvGFErB",
-    "created_at": "05/08/2026 09:19",
-    "created_at_iso": "2026-08-05T09:19:24",
-    "created_ts": 1785921564,
-    "niche": {
-      "key": "shopee_sapatos_femininos",
-      "name": "Sapatos Femininos"
-    }
-  },
-  {
-    "id": "8f3eab685ab63fa4cb",
-    "title": "Bota Cano Curto Tratorada",
-    "raw_title": "Bota Feminina Cano Curto Preta Salto Grosso Tratorada Confortável Moda Inverno",
-    "description": "✨ INVERNO com ESTILO! 👢 Prepare-se para arrasar com a Bota Feminina Cano Curto Preta. Salto grosso tratorado, confortável e super na moda para o seu loo...",
-    "marketplace": "Shopee",
-    "category": "Sapatos Femininos",
-    "old_price": "R$ 89,11",
-    "price": "R$ 49,90",
-    "discount_percent": 44.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjis59nbonib20",
-    "affiliate_url": "https://s.shopee.com.br/5LArvjIPY4",
-    "created_at": "05/08/2026 09:18",
-    "created_at_iso": "2026-08-05T09:18:15",
-    "created_ts": 1785921495,
-    "niche": {
-      "key": "shopee_sapatos_femininos",
-      "name": "Sapatos Femininos"
-    }
-  },
-  {
-    "id": "e218323b45d11eceb6",
-    "title": "Tênis Sapatênis Feminino Slip On",
-    "raw_title": "Tênis Sapatênis Sapatilha feminino Slip On Zíp casual Leve e confortável envio imediato",
-    "description": "🚨 Conforto e Estilo com Preço IMBATÍVEL! Chegou o Tênis Sapatênis Sapatilha feminino Slip On que você estava esperando! Leve, confortável e perfeito par...",
-    "marketplace": "Shopee",
-    "category": "Sapatos Femininos",
-    "old_price": "R$ 99,96",
-    "price": "R$ 55,98",
-    "discount_percent": 44.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8esd2sca2nl4d",
-    "affiliate_url": "https://s.shopee.com.br/4VbkwC8exH",
-    "created_at": "05/08/2026 09:17",
-    "created_at_iso": "2026-08-05T09:17:07",
-    "created_ts": 1785921427,
-    "niche": {
-      "key": "shopee_sapatos_femininos",
-      "name": "Sapatos Femininos"
-    }
-  },
-  {
-    "id": "82f17d31cc5dedaf1a",
-    "title": "Sandália Feminina Luxo Confortável",
-    "raw_title": "Sandália Feminina Chinelos de Praia Com Enfeites Luxo Confortável Eva",
-    "description": "✨ LUXO E CONFORTO aos seus pés! 🏖️ Prepare-se para arrasar com a Sandália Feminina Chinelos de Praia com Enfeites Luxo Confortável Eva! Perfeita para qu...",
-    "marketplace": "Shopee",
-    "category": "Sapatos Femininos",
-    "old_price": "R$ 128,54",
-    "price": "R$ 35,99",
-    "discount_percent": 72.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjipn5aiikuef0",
-    "affiliate_url": "https://s.shopee.com.br/7psCuK4Ui6",
-    "created_at": "05/08/2026 09:15",
-    "created_at_iso": "2026-08-05T09:15:58",
-    "created_ts": 1785921358,
-    "niche": {
-      "key": "shopee_sapatos_femininos",
-      "name": "Sapatos Femininos"
-    }
-  },
-  {
-    "id": "ed27a1a887af224a3a",
-    "title": "Chapinha Profissional Azul",
-    "raw_title": "Chapinha Cabelo Prancha Profissional Cor Azul",
-    "description": "✨ Cabelos lisos e perfeitos em minutos! ✨ Transforme seu visual com a Chapinha Cabelo Prancha Profissional na cor Azul. Performance e estilo em um só pr...",
-    "marketplace": "Mercado Livre",
-    "category": "Beleza",
-    "old_price": "",
-    "price": "R$ 249,99",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_604299-MLA95211900168_102025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB35049339?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "05/08/2026 09:03",
-    "created_at_iso": "2026-08-05T09:03:20",
-    "created_ts": 1785920600
-  },
-  {
-    "id": "7d51df4cbfe8129be8",
-    "title": "Lâmina Philips Bodygroom",
-    "raw_title": "Lamina Aparador Pelos Philips Bodygroom Qg3379 Qg3280 Qg3380",
-    "description": "Sua Lâmina Philips Bodygroom precisa de uma renovação? Garanta já o refil original para modelos QG3379, QG3280, QG3380 e tenha cortes precisos novamente...",
-    "marketplace": "Mercado Livre",
-    "category": "Beleza",
-    "old_price": "R$ 149,90",
-    "price": "R$ 130,41",
-    "discount_percent": 13.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_782959-MLA99825071093_112025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24908965?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "05/08/2026 09:02",
-    "created_at_iso": "2026-08-05T09:02:12",
-    "created_ts": 1785920532
   }
 ]

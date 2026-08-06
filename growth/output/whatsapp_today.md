@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 06/08/2026 05:03
+Gerado em: 06/08/2026 05:21
 
 ## Como usar
 
@@ -102,7 +102,37 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Moda Feminina
+## Post 4 — Ofertas Pet
+
+**Canal recomendado:** Ofertas Pet
+
+**Horário sugerido:** 17:00 - 20:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
+
+**Texto pronto:**
+
+```txt
+🐶 Oferta para Ofertas Pet
+
+Sandália Papete Feminina Ortopédica com Elástico Confortável Moderna…
+
+💸 De: R$ 90,00
+🔥 Por: R$ 36,90
+🏷️ 59% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/9fJsQ4Ocxa
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 5 — Moda Feminina
 
 **Canal recomendado:** Moda Feminina
 
@@ -132,7 +162,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 5 — Casa e Cozinha
+## Post 6 — Casa e Cozinha
 
 **Canal recomendado:** Casa e Cozinha
 
@@ -155,36 +185,6 @@ Jogo de Panelas Ipanema 5 Peças
 🛒 Loja: Mercado Livre
 
 Ver oferta: https://www.mercadolivre.com.br/p/MLB75817439?matt_word=marylouse&matt_tool=50459180&forceInApp=true
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 6 — Ofertas Pet
-
-**Canal recomendado:** Ofertas Pet
-
-**Horário sugerido:** 17:00 - 20:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
-
-**Texto pronto:**
-
-```txt
-🐶 Oferta para Ofertas Pet
-
-Ração Gato Estimacat Premium Filhote Sabor Frango 10kg
-
-💸 De: R$ 337,43
-🔥 Por: R$ 253,07
-🏷️ 25% OFF
-🛒 Loja: Mercado Livre
-
-Ver oferta: https://www.mercadolivre.com.br/p/MLB66844874?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

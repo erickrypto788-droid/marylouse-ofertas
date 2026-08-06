@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 06/08/2026 09:22
+Gerado em: 06/08/2026 10:21
 
 ## Como usar
 
@@ -102,9 +102,9 @@ Gerado em: 06/08/2026 09:22
 
 **Produtos usados:**
 
-- Fone Xiaomi Redmi Airdots
 - Suporte Veicular Magnético Discreto
-- Carregador Portátil por Indução
+- Kit 2 Capinha Para Iphone Anti Impacto Transparente Tpu Para IPhone…
+- Kit 3 Shorts 2 em 1 Compressão Bermuda Masculina Academia Treino Bols…
 
 ---
 

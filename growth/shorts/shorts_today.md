@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 06/08/2026 13:57
+Gerado em: 06/08/2026 13:59
 
 ## Como usar
 
@@ -103,8 +103,8 @@ Gerado em: 06/08/2026 13:57
 **Produtos usados:**
 
 - Samsung Galaxy Watch Ultra 2025 Smartwatch 47mm LTE, Galaxy AI, Titânio Aeroespacial, Titânio Cinza
+- Smartphone Motorola Moto g35 5G - 128GB 12GB (4GB RAM+8GB Ram Boost) e Camera 50MP com AI NFC Tela 6.7" com Superbrilho - Verde
 - Celular Samsung Galaxy A57 5G 128GB, 8GB RAM, Câmera Tripla de até 50MP OIS, Selfie de 12MP Video HDR, IP68, Tela Super AMOLED 6.7", NFC, Recursos AI, Até 6 Atualizações de Android e Segurança (Lilás)
-- Celular Samsung Galaxy S25+ 5G, 256GB, 12GB RAM, Câmera Tripla de 50+12+10, Tela Grande de 6.7", Azul
 
 ---
 
@@ -121,10 +121,12 @@ Gerado em: 06/08/2026 13:57
 - growth/shorts/slides/supermercados/01_intro.png
 - growth/shorts/slides/supermercados/02_produto_1.png
 - growth/shorts/slides/supermercados/03_produto_2.png
+- growth/shorts/slides/supermercados/04_produto_3.png
 - growth/shorts/slides/supermercados/05_cta.png
 
 **Produtos usados:**
 
+- Personal VIP - Papel Higiênico Folha Dupla, Branco 24 unidades
 - Azeite Oliva Extra Virgem Italiano 500ml
 - Amaciante Roupas Macias Sensiv Titila 5l
 

@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 06/08/2026 13:54
+Gerado em: 06/08/2026 13:57
 
 ## Como usar
 
@@ -42,7 +42,37 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 2 — Ofertas Pet
+## Post 2 — Celulares e Tecnologia
+
+**Canal recomendado:** Celulares e Tecnologia
+
+**Horário sugerido:** 19:00 - 21:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
+
+**Texto pronto:**
+
+```txt
+📱 Oferta para Celulares e Tecnologia
+
+Samsung Galaxy Watch Ultra 2025 Smartwatch 47mm LTE, Galaxy AI, Titânio Aeroespacial, Titânio Cinza
+
+💸 De: R$ 4.999,00
+🔥 Por: R$ 1.899,00
+🏷️ 62% OFF
+🛒 Loja: Amazon
+
+Ver oferta: https://link.amazon/B0hjdJEg0
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 3 — Ofertas Pet
 
 **Canal recomendado:** Ofertas Pet
 
@@ -72,7 +102,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 3 — Casa e Cozinha
+## Post 4 — Casa e Cozinha
 
 **Canal recomendado:** Casa e Cozinha
 
@@ -87,14 +117,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
 ```txt
 🍳 Oferta para Casa e Cozinha
 
-Panela de Pressão 4,5L Panelux Classic
+Air Fryer Philco 4L Revestimento Redstone 1500W PAF40A 220V
 
-💸 De: R$ 115,80
-🔥 Por: R$ 57,90
-🏷️ 50% OFF
-🛒 Loja: Shopee
+💸 De: R$ 357,00
+🔥 Por: R$ 209,89
+🏷️ 41% OFF
+🛒 Loja: Amazon
 
-Ver oferta: https://s.shopee.com.br/5LAtOLo5RI
+Ver oferta: https://link.amazon/B0bxW5HKH
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
@@ -102,7 +132,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Beleza e Cuidados
+## Post 5 — Beleza e Cuidados
 
 **Canal recomendado:** Beleza e Cuidados
 
@@ -117,14 +147,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
 ```txt
 💄 Oferta para Beleza e Cuidados
 
-Escova Secadora GOKOCO 7 em 1
+Aparador de Pelos Philips All-in-One 9 em 1 Série 3000 | Máquina para Rosto, Cabelo e Corpo | Barbeador Elétrico Multig…
 
-💸 De: R$ 1.293,48
-🔥 Por: R$ 595,00
-🏷️ 54% OFF
-🛒 Loja: Shopee
+💸 De: R$ 249,90
+🔥 Por: R$ 138,96
+🏷️ 44% OFF
+🛒 Loja: Amazon
 
-Ver oferta: https://s.shopee.com.br/7Kvxq9E8Hc
+Ver oferta: https://link.amazon/B0hX1wABB
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
@@ -132,7 +162,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 5 — Moda Feminina
+## Post 6 — Moda Feminina
 
 **Canal recomendado:** Moda Feminina
 
@@ -155,36 +185,6 @@ Calça Legging Flare Plus Size
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/60QZv62cAI
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 6 — Celulares e Tecnologia
-
-**Canal recomendado:** Celulares e Tecnologia
-
-**Horário sugerido:** 19:00 - 21:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
-
-**Texto pronto:**
-
-```txt
-📱 Oferta para Celulares e Tecnologia
-
-Suporte Veicular Magnético Discreto
-
-💸 De: R$ 37,36
-🔥 Por: R$ 10,46
-🏷️ 72% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/20uRM6cBua
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 06/08/2026 13:54
+Gerado em: 06/08/2026 13:57
 
 ## Como usar
 
@@ -54,9 +54,9 @@ Gerado em: 06/08/2026 13:54
 
 **Produtos usados:**
 
+- Air Fryer Philco 4L Revestimento Redstone 1500W PAF40A 220V
 - Panela de Pressão 4,5L Panelux Classic
 - Mini Balança Digital De Cozinha Alta Precisão 0,1g Até 2000g
-- Jogo de Panelas Ipanema 5 Peças
 
 ---
 
@@ -78,9 +78,9 @@ Gerado em: 06/08/2026 13:54
 
 **Produtos usados:**
 
+- Aparador de Pelos Philips All-in-One 9 em 1 Série 3000 | Máquina para Rosto, Cabelo e Corpo | Barbeador Elétrico Multigroom | MG3927/15
 - Escova Secadora GOKOCO 7 em 1
 - Kit 3 Body Splash Masculino
-- Kit Body Splash Dolce + Florata Red
 
 ---
 
@@ -102,9 +102,9 @@ Gerado em: 06/08/2026 13:54
 
 **Produtos usados:**
 
-- Suporte Veicular Magnético Discreto
-- Kit 2 Capinha Para Iphone Anti Impacto Transparente Tpu Para IPhone…
-- Kit 3 Shorts 2 em 1 Compressão Bermuda Masculina Academia Treino Bols…
+- Samsung Galaxy Watch Ultra 2025 Smartwatch 47mm LTE, Galaxy AI, Titânio Aeroespacial, Titânio Cinza
+- Celular Samsung Galaxy A57 5G 128GB, 8GB RAM, Câmera Tripla de até 50MP OIS, Selfie de 12MP Video HDR, IP68, Tela Super AMOLED 6.7", NFC, Recursos AI, Até 6 Atualizações de Android e Segurança (Lilás)
+- Celular Samsung Galaxy S25+ 5G, 256GB, 12GB RAM, Câmera Tripla de 50+12+10, Tela Grande de 6.7", Azul
 
 ---
 

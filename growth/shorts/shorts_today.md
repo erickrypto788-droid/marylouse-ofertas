@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 06/08/2026 12:21
+Gerado em: 06/08/2026 13:21
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 06/08/2026 12:21
 
 **Produtos usados:**
 
+- Fraldas Calça SUMIKKO
 - SUMIKKO Calça Fraldas 50 e 100 unidade Baby Ajustável total max P/M/G…
 - Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…
-- Lixa de Unha Elétrica para Bebê
 
 ---
 
@@ -78,9 +78,9 @@ Gerado em: 06/08/2026 12:21
 
 **Produtos usados:**
 
-- Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler…
-- Perfume Attracione Feminino by Attracione Woman Mulher
-- Attracione Men (Perfume Masculino com Feromônios Ativados)
+- Escova Secadora GOKOCO 7 em 1
+- Kit 3 Body Splash Masculino
+- Kit Body Splash Dolce + Florata Red
 
 ---
 

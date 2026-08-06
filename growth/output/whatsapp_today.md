@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 06/08/2026 12:21
+Gerado em: 06/08/2026 13:21
 
 ## Como usar
 
@@ -27,14 +27,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
 ```txt
 🍼 Oferta para Mamãe e Bebê
 
-SUMIKKO Calça Fraldas 50 e 100 unidade Baby Ajustável total max P/M/G…
+Fraldas Calça SUMIKKO
 
 💸 De: R$ 197,14
 🔥 Por: R$ 69,00
 🏷️ 65% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/40fUwLWUgN
+Ver oferta: https://s.shopee.com.br/2LXIDYwDTT
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
@@ -42,37 +42,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 2 — Beleza e Cuidados
-
-**Canal recomendado:** Beleza e Cuidados
-
-**Horário sugerido:** 12:00 - 15:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
-
-**Texto pronto:**
-
-```txt
-💄 Oferta para Beleza e Cuidados
-
-Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler…
-
-💸 De: R$ 290,77
-🔥 Por: R$ 37,80
-🏷️ 87% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/1qazxdDIrg
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 3 — Ofertas Pet
+## Post 2 — Ofertas Pet
 
 **Canal recomendado:** Ofertas Pet
 
@@ -102,7 +72,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Casa e Cozinha
+## Post 3 — Casa e Cozinha
 
 **Canal recomendado:** Casa e Cozinha
 
@@ -125,6 +95,36 @@ Panela de Pressão 4,5L Panelux Classic
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/5LAtOLo5RI
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 4 — Beleza e Cuidados
+
+**Canal recomendado:** Beleza e Cuidados
+
+**Horário sugerido:** 12:00 - 15:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
+
+**Texto pronto:**
+
+```txt
+💄 Oferta para Beleza e Cuidados
+
+Escova Secadora GOKOCO 7 em 1
+
+💸 De: R$ 1.293,48
+🔥 Por: R$ 595,00
+🏷️ 54% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/7Kvxq9E8Hc
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 06/08/2026 16:17
+Gerado em: 06/08/2026 23:18
 
 ## Como usar
 
@@ -57,14 +57,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
 ```txt
 📱 Oferta para Celulares e Tecnologia
 
-Samsung Galaxy Watch Ultra 2025 Smartwatch 47mm LTE, Galaxy AI, Titânio Aeroespacial, Titânio Cinza
+Fones Xiaomi Redmi Airdots
 
-💸 De: R$ 4.999,00
-🔥 Por: R$ 1.899,00
-🏷️ 62% OFF
-🛒 Loja: Amazon
+💸 De: R$ 50,74
+🔥 Por: R$ 19,79
+🏷️ 61% OFF
+🛒 Loja: Shopee
 
-Ver oferta: https://link.amazon/B0hjdJEg0
+Ver oferta: https://s.shopee.com.br/4qEcjJRgFH
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

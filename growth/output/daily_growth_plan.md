@@ -1,91 +1,91 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 06/08/2026 16:17
+Gerado em: 06/08/2026 23:18
 
 ## Categorias prioritárias
 
-- 🍼 **Mãe e Bebê**: 19 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 💻 **Informática**: 17 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 📦 **Outros**: 16 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
-- 👜 **Bolsas**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
-- 🧸 **Brinquedos**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
-- 🏋️ **Esportes**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 📱 **Celulares**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 💻 **Informática**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 📱 **Celulares**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 👟 **Calçados**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- ❤️ **Saúde**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
-- 🐶 **Pet**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
+- 👗 **Moda Feminina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
+- 💄 **Beleza**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 🍳 **Casa e Cozinha**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
+- 🏋️ **Esportes**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
+- 🍼 **Mãe e Bebê**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 👜 **Bolsas**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 
 ## Top ofertas para destacar
 
-1. **Mochila Faculdade Reforçada Compartimento Para Notebook Escolar Uniss…**
+1. **Fones Xiaomi Redmi Airdots**
+   - Categoria: Celulares
+   - Loja: Shopee
+   - Preço: R$ 19,79
+   - Desconto: 61% OFF
+   - Link: https://s.shopee.com.br/4qEcjJRgFH
+
+2. **Mochila Faculdade Reforçada Compartimento Para Notebook Escolar Uniss…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 32,90
    - Desconto: 56% OFF
    - Link: https://s.shopee.com.br/20uRxPsPDy
 
-2. **Mochila CHL Bolsa Reforçada Notebook Impermeavel Material Premium Col…**
+3. **Mochila CHL Bolsa Reforçada Notebook Impermeavel Material Premium Col…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 39,99
    - Desconto: 55% OFF
    - Link: https://s.shopee.com.br/4fvD8JZFW5
 
-3. **Mochila Impermeável 45L Notebook 17**
+4. **Mochila Impermeável 45L Notebook 17**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 29,90
    - Desconto: 57% OFF
    - Link: https://s.shopee.com.br/BSnm2zNwh
 
-4. **Celular Samsung Galaxy A57 5G 128GB, 8GB RAM, Câmera Tripla de até 50MP OIS, Selfie de 12MP Video H…**
+5. **Celular Samsung Galaxy A57 5G 128GB, 8GB RAM, Câmera Tripla de até 50MP OIS, Selfie de 12MP Video H…**
    - Categoria: Celulares
    - Loja: Amazon
    - Preço: R$ 1.799,10
    - Desconto: 50% OFF
    - Link: https://link.amazon/B0cLFYprt
 
-5. **Fraldas Calça SUMIKKO**
+6. **Fraldas Calça SUMIKKO**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 69,00
    - Desconto: 65% OFF
    - Link: https://s.shopee.com.br/2LXIDYwDTT
 
-6. **Escova Secadora GOKOCO 7 em 1**
+7. **Escova Secadora GOKOCO 7 em 1**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 595,00
    - Desconto: 54% OFF
    - Link: https://s.shopee.com.br/7Kvxq9E8Hc
 
-7. **Panela de Pressão 4,5L Panelux Classic**
+8. **Panela de Pressão 4,5L Panelux Classic**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 57,90
    - Desconto: 50% OFF
    - Link: https://s.shopee.com.br/5LAtOLo5RI
 
-8. **Pro 4 Fones De Ouvido TWS Sem Fio Bluetooth Bateria Longa Duração Lev…**
+9. **Pro 4 Fones De Ouvido TWS Sem Fio Bluetooth Bateria Longa Duração Lev…**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 10,72
    - Desconto: 64% OFF
    - Link: https://s.shopee.com.br/BSnAjjRiJ
 
-9. **Mesa Dobrável Notebook Retrátil Home Office Apoio Cama Sofá Trabalho…**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 37,99
-   - Desconto: 57% OFF
-   - Link: https://s.shopee.com.br/qiS6aSOP0
-
-10. **Caderno A5 de couro macio 360 folhas retro notebook para agenda 2026…**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 35,99
-   - Desconto: 57% OFF
-   - Link: https://s.shopee.com.br/2VqhLwfIUs
+10. **Air Fryer Gaabor 4L Cinza**
+   - Categoria: Casa e Cozinha
+   - Loja: Mercado Livre
+   - Preço: R$ 249,90
+   - Desconto: 31% OFF
+   - Link: https://www.mercadolivre.com.br/p/MLB19635472?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ## Ações gratuitas recomendadas
 

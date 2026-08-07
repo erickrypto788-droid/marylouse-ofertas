@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 07/08/2026 13:22
+Gerado em: 07/08/2026 14:11
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 07/08/2026 13:22
 **Produtos usados:**
 
 - Kit 4 Peças Conjunto Infantil Bebê Menino Verão Algodão Promoção 2 Ca…
-- Fralda Descartável Huggies Máxima Proteção Tamanho G 160 unidades
-- 1pcs Mobile Centopeia Espiral Ideal Carrinho Bebê Conforto Berço Com…
+- Fralda Pampers Pants Ajuste Total Xxg Com 120un
+- Fralda Huggies Tripla Proteção G 36 unidades
 
 ---
 
@@ -54,9 +54,9 @@ Gerado em: 07/08/2026 13:22
 
 **Produtos usados:**
 
-- Air Fryer Philco 4L Revestimento Redstone 1500W PAF40A 220V
 - Air Fryer Gaabor 4L Cinza
 - Espremedor Elétrico Laranja Limão Frutas Fazer Sucos Recarregável Usb…
+- Cadeira de Escritório Presidente com Massagem
 
 ---
 
@@ -103,8 +103,8 @@ Gerado em: 07/08/2026 13:22
 **Produtos usados:**
 
 - Fones Xiaomi Redmi Airdots
-- Samsung Galaxy Watch Ultra 2025 Smartwatch 47mm LTE, Galaxy AI, Titânio Aeroespacial, Titânio Cinza
-- Smartphone Motorola Moto g35 5G - 128GB 12GB (4GB RAM+8GB Ram Boost) e Camera 50MP com AI NFC Tela 6.7" com Superbrilho - Verde
+- Fone Lightning para iPhone
+- Carregador Portátil Indução Sem Fio
 
 ---
 
@@ -121,11 +121,13 @@ Gerado em: 07/08/2026 13:22
 - growth/shorts/slides/supermercados/01_intro.png
 - growth/shorts/slides/supermercados/02_produto_1.png
 - growth/shorts/slides/supermercados/03_produto_2.png
+- growth/shorts/slides/supermercados/04_produto_3.png
 - growth/shorts/slides/supermercados/05_cta.png
 
 **Produtos usados:**
 
-- Personal VIP - Papel Higiênico Folha Dupla, Branco 24 unidades
-- Mega Kit Higiene Bucal 30 Unidades
+- Papel higiênico INDAIAL CAICAI PAPEL HIGIENICO folha dupla 22.5 m de…
+- Azeite Português Vila Oliva (3 Un)
+- Detergente Sabão Lava Louça Pastilha + Lava Máquina Unik
 
 ---

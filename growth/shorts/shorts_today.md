@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 07/08/2026 11:05
+Gerado em: 07/08/2026 11:21
 
 ## Como usar
 
@@ -78,9 +78,9 @@ Gerado em: 07/08/2026 11:05
 
 **Produtos usados:**
 
+- Perfume Attracione Feminino
+- Attracione Men (Perfume Masculino com Feromônios Ativados)
 - Chapinha Cabelo Profissional Prancha Alisadora De Cabelo chapinha Par…
-- Aparador de Pelos Philips All-in-One 9 em 1 Série 3000 | Máquina para Rosto, Cabelo e Corpo | Barbeador Elétrico Multigroom | MG3927/15
-- Kit Maquiagem Infantil 32 Peças
 
 ---
 

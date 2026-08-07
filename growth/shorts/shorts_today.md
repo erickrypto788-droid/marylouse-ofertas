@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 07/08/2026 08:22
+Gerado em: 07/08/2026 09:05
 
 ## Como usar
 
@@ -80,7 +80,7 @@ Gerado em: 07/08/2026 08:22
 
 - Chapinha Cabelo Profissional Prancha Alisadora De Cabelo chapinha Par…
 - Aparador de Pelos Philips All-in-One 9 em 1 Série 3000 | Máquina para Rosto, Cabelo e Corpo | Barbeador Elétrico Multigroom | MG3927/15
-- Escova Secadora GOKOCO 7 em 1
+- Kit Maquiagem Infantil 32 Peças
 
 ---
 

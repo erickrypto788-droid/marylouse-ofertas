@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 07/08/2026 08:22
+Gerado em: 07/08/2026 09:05
 
 ## Categorias prioritárias
 
@@ -13,7 +13,7 @@ Gerado em: 07/08/2026 08:22
 - 🏋️ **Esportes**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - ❤️ **Saúde**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 🍼 **Mãe e Bebê**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 💄 **Beleza**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 🐶 **Pet**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 
 ## Top ofertas para destacar
 
@@ -66,26 +66,26 @@ Gerado em: 07/08/2026 08:22
    - Desconto: 65% OFF
    - Link: https://s.shopee.com.br/2LXIDYwDTT
 
-8. **Escova Secadora GOKOCO 7 em 1**
-   - Categoria: Beleza
-   - Loja: Shopee
-   - Preço: R$ 595,00
-   - Desconto: 54% OFF
-   - Link: https://s.shopee.com.br/7Kvxq9E8Hc
-
-9. **Amplificador de Tela 3D para Celular**
+8. **Amplificador de Tela 3D para Celular**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 18,99
    - Desconto: 36% OFF
    - Link: https://s.shopee.com.br/7psG1xhSyZ
 
-10. **Barbeador Costas Masculino Traseiro Dobrável Aparador Pelos**
+9. **Barbeador Costas Masculino Traseiro Dobrável Aparador Pelos**
    - Categoria: Beleza
    - Loja: Mercado Livre
    - Preço: R$ 249,00
    - Desconto: 33% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB51434487?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+10. **Air Fryer Gaabor 4L Cinza**
+   - Categoria: Casa e Cozinha
+   - Loja: Mercado Livre
+   - Preço: R$ 249,90
+   - Desconto: 31% OFF
+   - Link: https://www.mercadolivre.com.br/p/MLB19635472?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ## Ações gratuitas recomendadas
 

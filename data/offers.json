@@ -1,5 +1,39 @@
 [
   {
+    "id": "890941901c82fc8f17",
+    "title": "Liquidificador portátil, Mini liquidificador recarregável USB, Liquid…",
+    "raw_title": "Liquidificador portátil, Mini liquidificador recarregável USB, Liquidificador",
+    "description": "🔥 Oferta encontrada! 📌 Liquidificador portátil, Mini liquidificador recarregável USB, Liquidificador Confira os detalhes e aproveite enquanto a oferta e...",
+    "marketplace": "Mercado Livre",
+    "category": "Casa e Cozinha",
+    "old_price": "",
+    "price": "R$ 98,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_887284-MLU78285122081_082024-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB38338044?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "07/08/2026 02:03",
+    "created_at_iso": "2026-08-07T02:03:05",
+    "created_ts": 1786068185
+  },
+  {
+    "id": "071ad6057d09c50482",
+    "title": "Air fryer Britânia Fritadeira Air Fryer preto",
+    "raw_title": "Air fryer Britânia Fritadeira Air Fryer preto",
+    "description": "🔥 5% OFF — Oferta encontrada! 📌 Air fryer Britânia Fritadeira Air Fryer preto Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Casa e Cozinha",
+    "old_price": "R$ 329,99",
+    "price": "R$ 313,49",
+    "discount_percent": 5.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_601992-MLA100011667808_122025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62888998?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "07/08/2026 02:02",
+    "created_at_iso": "2026-08-07T02:02:01",
+    "created_ts": 1786068121
+  },
+  {
     "id": "750eab95ee348b597a",
     "title": "Creatina Suplemento Monohidratada em Pó 100% Pura Importada - Soldier…",
     "raw_title": "Creatina Suplemento Monohidratada em Pó 100% Pura Importada - Soldiers Nutrition",
@@ -3134,43 +3168,5 @@
     "created_at": "06/08/2026 02:03",
     "created_at_iso": "2026-08-06T02:03:14",
     "created_ts": 1785981794
-  },
-  {
-    "id": "513ef37f5af5076840",
-    "title": "Aparador Elétrico Lizz Profissional",
-    "raw_title": "Lizz Aparelho Aparador Pelos Elétrico Navalhete Profissional",
-    "description": "✂️ Seu novo visual começa aqui! Tenha um acabamento profissional com o Aparador de Pelos Elétrico Navalhete Lizz. Perfeito para barba e cabelo! 🚚 Frete...",
-    "marketplace": "Mercado Livre",
-    "category": "Beleza",
-    "old_price": "",
-    "price": "R$ 89,90",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_953248-MLU74859820910_032024-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29263256?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "06/08/2026 02:02",
-    "created_at_iso": "2026-08-06T02:02:06",
-    "created_ts": 1785981726
-  },
-  {
-    "id": "9ddddbcc23899ca2a6",
-    "title": "Calça Wid Leg Jeans Feminina Cintura Alta 100% Algodão Premium",
-    "raw_title": "Calça Wid Leg Jeans Feminina Cintura Alta 100% Algodão Premium",
-    "description": "🔥 40% OFF — Oferta encontrada! 📌 Calça Wid Leg Jeans Feminina Cintura Alta 100% Algodão Premium Confira os detalhes e aproveite enquanto a oferta estive...",
-    "marketplace": "Shopee",
-    "category": "Roupas Femininas",
-    "old_price": "R$ 99,83",
-    "price": "R$ 59,90",
-    "discount_percent": 40.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820la-mp40zz6rr1mt39",
-    "affiliate_url": "https://s.shopee.com.br/9zwiYD916r",
-    "created_at": "06/08/2026 01:20",
-    "created_at_iso": "2026-08-06T01:20:06",
-    "created_ts": 1785979206,
-    "niche": {
-      "key": "shopee_roupas_femininas",
-      "name": "Roupas Femininas"
-    }
   }
 ]

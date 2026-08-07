@@ -1,18 +1,18 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 07/08/2026 15:23
+Gerado em: 07/08/2026 15:25
 
 ## Categorias prioritárias
 
-- 💻 **Informática**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 📦 **Outros**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 📦 **Outros**: 16 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 💻 **Informática**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 📱 **Celulares**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 🍳 **Casa e Cozinha**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 👟 **Calçados**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 🍳 **Casa e Cozinha**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
-- 📱 **Celulares**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 💄 **Beleza**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 🍼 **Mãe e Bebê**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🏋️ **Esportes**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - ❤️ **Saúde**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
-- 🍼 **Mãe e Bebê**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 👗 **Moda Feminina**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 
 ## Top ofertas para destacar
@@ -73,19 +73,19 @@ Gerado em: 07/08/2026 15:23
    - Desconto: 57% OFF
    - Link: https://s.shopee.com.br/BSnm2zNwh
 
-9. **Air Fryer Philco 4L Revestimento Redstone 1500W PAF40A 220V**
-   - Categoria: Casa e Cozinha
+9. **Celular Samsung Galaxy S25+ 5G, 256GB, 12GB RAM, Câmera Tripla de 50+12+10, Tela Grande de 6.7", Az…**
+   - Categoria: Celulares
    - Loja: Amazon
-   - Preço: R$ 209,89
-   - Desconto: 41% OFF
-   - Link: https://link.amazon/B0bxW5HKH
-
-10. **Aparador de Pelos Philips All-in-One 9 em 1 Série 3000 | Máquina para Rosto, Cabelo e Corpo | Barbe…**
-   - Categoria: Beleza
-   - Loja: Amazon
-   - Preço: R$ 138,96
+   - Preço: R$ 4.499,00
    - Desconto: 44% OFF
-   - Link: https://link.amazon/B0hX1wABB
+   - Link: https://link.amazon/B0ccTKHTY
+
+10. **Fralda Descartável Huggies Máxima Proteção Tamanho G 160 unidades**
+   - Categoria: Mãe e Bebê
+   - Loja: Amazon
+   - Preço: R$ 159,90
+   - Desconto: 30% OFF
+   - Link: https://link.amazon/B010gmsvV
 
 ## Ações gratuitas recomendadas
 

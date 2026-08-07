@@ -1,6 +1,6 @@
 # Pinterest Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 07/08/2026 15:23
+Gerado em: 07/08/2026 15:25
 
 ## Como usar
 
@@ -30,7 +30,7 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
 
 **Descrição:**
 
-Veja ofertas de Mãe e Bebê selecionadas pela MaryLouse Ofertas. Destaque de hoje: Kit 4 Peças Conjunto Infantil Bebê Menino Verão Algodão Promoção 2 Ca…. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Veja ofertas de Mãe e Bebê selecionadas pela MaryLouse Ofertas. Destaque de hoje: Fralda Descartável Huggies Máxima Proteção Tamanho G 160 unidades. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
@@ -38,7 +38,7 @@ https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=pinterest&
 
 **Por que postar:**
 
-Categoria com 7 oferta(s) e boa intenção de compra.
+Categoria com 8 oferta(s) e boa intenção de compra.
 
 ---
 
@@ -66,7 +66,7 @@ https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=pinter
 
 **Por que postar:**
 
-Categoria com 10 oferta(s) e boa intenção de compra.
+Categoria com 11 oferta(s) e boa intenção de compra.
 
 ---
 
@@ -114,7 +114,7 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
 
 **Descrição:**
 
-Veja ofertas de Celulares selecionadas pela MaryLouse Ofertas. Destaque de hoje: Fones Xiaomi Redmi Airdots. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Veja ofertas de Celulares selecionadas pela MaryLouse Ofertas. Destaque de hoje: Samsung Galaxy Watch Ultra 2025 Smartwatch 47mm LTE, Galaxy AI, Titânio Aeroesp…. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
@@ -122,31 +122,31 @@ https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=pinterest
 
 **Por que postar:**
 
-Categoria com 10 oferta(s) e boa intenção de compra.
+Categoria com 13 oferta(s) e boa intenção de compra.
 
 ---
 
-## Pin 5 — Beleza
+## Pin 5 — Celulares
 
 **Tipo:** produto_direto
 
-**Board sugerido:** Beleza e Cuidados
+**Board sugerido:** Celulares e Tecnologia
 
 **Imagem para upload no Pinterest:**
 
-https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
+https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
 
 **Título:**
 
-71% OFF: Perfume Attracione Feminino
+62% OFF: Samsung Galaxy Watch Ultra 2025 Smartwatch 47mm LTE, Galaxy AI, Titân…
 
 **Descrição:**
 
-Oferta destaque em Beleza encontrada pela MaryLouse Ofertas. Preço: R$ 49,00. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Oferta destaque em Celulares encontrada pela MaryLouse Ofertas. Preço: R$ 1.899,00. Loja: Amazon. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
-https://s.shopee.com.br/5q7BqdnV26
+https://link.amazon/B0hjdJEg0
 
 **Por que postar:**
 

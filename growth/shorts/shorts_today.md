@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 07/08/2026 15:23
+Gerado em: 07/08/2026 15:25
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 07/08/2026 15:23
 **Produtos usados:**
 
 - Kit 4 Peças Conjunto Infantil Bebê Menino Verão Algodão Promoção 2 Ca…
+- Fralda Descartável Huggies Máxima Proteção Tamanho G 160 unidades
 - Boneca Bebê Reborn Unicórnio Menina Original Realista de Silicone Pod…
-- Fralda Pampers Pants Ajuste Total Xxg Com 120un
 
 ---
 
@@ -102,9 +102,9 @@ Gerado em: 07/08/2026 15:23
 
 **Produtos usados:**
 
+- Samsung Galaxy Watch Ultra 2025 Smartwatch 47mm LTE, Galaxy AI, Titânio Aeroespacial, Titânio Cinza
 - Fones Xiaomi Redmi Airdots
-- Celular Samsung Galaxy A57 5G 128GB, 8GB RAM, Câmera Tripla de até 50MP OIS, Selfie de 12MP Video HDR, IP68, Tela Super AMOLED 6.7", NFC, Recursos AI, Até 6 Atualizações de Android e Segurança (Lilás)
-- Fone Lightning para iPhone
+- Celular Samsung Galaxy S25+ 5G, 256GB, 12GB RAM, Câmera Tripla de 50+12+10, Tela Grande de 6.7", Azul
 
 ---
 
@@ -126,8 +126,8 @@ Gerado em: 07/08/2026 15:23
 
 **Produtos usados:**
 
+- Personal VIP - Papel Higiênico Folha Dupla, Branco 24 unidades
 - Papel higiênico INDAIAL CAICAI PAPEL HIGIENICO folha dupla 22.5 m de…
 - Azeite Português Vila Oliva (3 Un)
-- Detergente Sabão Lava Louça Pastilha + Lava Máquina Unik
 
 ---

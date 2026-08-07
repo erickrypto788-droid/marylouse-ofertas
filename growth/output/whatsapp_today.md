@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 07/08/2026 15:23
+Gerado em: 07/08/2026 15:25
 
 ## Como usar
 
@@ -27,14 +27,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
 ```txt
 📱 Oferta para Celulares e Tecnologia
 
-Fones Xiaomi Redmi Airdots
+Samsung Galaxy Watch Ultra 2025 Smartwatch 47mm LTE, Galaxy AI, Titânio Aeroespacial, Titânio Cinza
 
-💸 De: R$ 50,74
-🔥 Por: R$ 19,79
-🏷️ 61% OFF
-🛒 Loja: Shopee
+💸 De: R$ 4.999,00
+🔥 Por: R$ 1.899,00
+🏷️ 62% OFF
+🛒 Loja: Amazon
 
-Ver oferta: https://s.shopee.com.br/4qEcjJRgFH
+Ver oferta: https://link.amazon/B0hjdJEg0
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
@@ -147,14 +147,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
 ```txt
 🍼 Oferta para Mamãe e Bebê
 
-Kit 4 Peças Conjunto Infantil Bebê Menino Verão Algodão Promoção 2 Ca…
+Fralda Descartável Huggies Máxima Proteção Tamanho G 160 unidades
 
-💸 De: R$ 130,30
-🔥 Por: R$ 43,00
-🏷️ 67% OFF
-🛒 Loja: Shopee
+💸 De: R$ 229,90
+🔥 Por: R$ 159,90
+🏷️ 30% OFF
+🛒 Loja: Amazon
 
-Ver oferta: https://s.shopee.com.br/5ArV7XElEQ
+Ver oferta: https://link.amazon/B010gmsvV
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

@@ -1,91 +1,91 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 07/08/2026 15:21
+Gerado em: 07/08/2026 15:23
 
 ## Categorias prioritárias
 
 - 💻 **Informática**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 📦 **Outros**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 👟 **Calçados**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 📦 **Outros**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
-- 💄 **Beleza**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 📱 **Celulares**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 🍳 **Casa e Cozinha**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
+- 📱 **Celulares**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 💄 **Beleza**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🏋️ **Esportes**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - ❤️ **Saúde**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
-- 🍳 **Casa e Cozinha**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 🍼 **Mãe e Bebê**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 👗 **Moda Feminina**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 
 ## Top ofertas para destacar
 
-1. **Perfume Attracione Feminino**
+1. **Celular Samsung Galaxy A57 5G 128GB, 8GB RAM, Câmera Tripla de até 50MP OIS, Selfie de 12MP Video H…**
+   - Categoria: Celulares
+   - Loja: Amazon
+   - Preço: R$ 1.799,10
+   - Desconto: 50% OFF
+   - Link: https://link.amazon/B0cLFYprt
+
+2. **Perfume Attracione Feminino**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 49,00
    - Desconto: 71% OFF
    - Link: https://s.shopee.com.br/5q7BqdnV26
 
-2. **Attracione Men (Perfume Masculino com Feromônios Ativados)**
+3. **Attracione Men (Perfume Masculino com Feromônios Ativados)**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 59,00
    - Desconto: 80% OFF
    - Link: https://s.shopee.com.br/AKZbCuapvc
 
-3. **Chapinha Cabelo Profissional Prancha Alisadora De Cabelo chapinha Par…**
+4. **Chapinha Cabelo Profissional Prancha Alisadora De Cabelo chapinha Par…**
    - Categoria: Beleza
    - Loja: Mercado Livre
    - Preço: R$ 58,00
    - Desconto: 50% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB74602351?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-4. **Fones Xiaomi Redmi Airdots**
+5. **Fones Xiaomi Redmi Airdots**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 19,79
    - Desconto: 61% OFF
    - Link: https://s.shopee.com.br/4qEcjJRgFH
 
-5. **Mochila Faculdade Reforçada Compartimento Para Notebook Escolar Uniss…**
+6. **Mochila Faculdade Reforçada Compartimento Para Notebook Escolar Uniss…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 32,90
    - Desconto: 56% OFF
    - Link: https://s.shopee.com.br/20uRxPsPDy
 
-6. **Mochila CHL Bolsa Reforçada Notebook Impermeavel Material Premium Col…**
+7. **Mochila CHL Bolsa Reforçada Notebook Impermeavel Material Premium Col…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 39,99
    - Desconto: 55% OFF
    - Link: https://s.shopee.com.br/4fvD8JZFW5
 
-7. **Mochila Impermeável 45L Notebook 17**
+8. **Mochila Impermeável 45L Notebook 17**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 29,90
    - Desconto: 57% OFF
    - Link: https://s.shopee.com.br/BSnm2zNwh
 
-8. **Amplificador de Tela 3D para Celular**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 18,99
-   - Desconto: 36% OFF
-   - Link: https://s.shopee.com.br/7psG1xhSyZ
-
-9. **Barbeador Costas Masculino Traseiro Dobrável Aparador Pelos**
-   - Categoria: Beleza
-   - Loja: Mercado Livre
-   - Preço: R$ 249,00
-   - Desconto: 33% OFF
-   - Link: https://www.mercadolivre.com.br/p/MLB51434487?matt_word=marylouse&matt_tool=50459180&forceInApp=true
-
-10. **Air Fryer Gaabor 4L Cinza**
+9. **Air Fryer Philco 4L Revestimento Redstone 1500W PAF40A 220V**
    - Categoria: Casa e Cozinha
-   - Loja: Mercado Livre
-   - Preço: R$ 249,90
-   - Desconto: 31% OFF
-   - Link: https://www.mercadolivre.com.br/p/MLB19635472?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+   - Loja: Amazon
+   - Preço: R$ 209,89
+   - Desconto: 41% OFF
+   - Link: https://link.amazon/B0bxW5HKH
+
+10. **Aparador de Pelos Philips All-in-One 9 em 1 Série 3000 | Máquina para Rosto, Cabelo e Corpo | Barbe…**
+   - Categoria: Beleza
+   - Loja: Amazon
+   - Preço: R$ 138,96
+   - Desconto: 44% OFF
+   - Link: https://link.amazon/B0hX1wABB
 
 ## Ações gratuitas recomendadas
 

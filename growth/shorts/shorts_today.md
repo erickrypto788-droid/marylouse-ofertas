@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 07/08/2026 15:21
+Gerado em: 07/08/2026 15:23
 
 ## Como usar
 
@@ -54,9 +54,9 @@ Gerado em: 07/08/2026 15:21
 
 **Produtos usados:**
 
+- Air Fryer Philco 4L Revestimento Redstone 1500W PAF40A 220V
 - Mini Balança Digital De Cozinha Alta Precisão 0,1g Até 2000g
 - Air Fryer Gaabor 4L Cinza
-- Espremedor Elétrico Laranja Limão Frutas Fazer Sucos Recarregável Usb…
 
 ---
 
@@ -80,7 +80,7 @@ Gerado em: 07/08/2026 15:21
 
 - Perfume Attracione Feminino
 - Attracione Men (Perfume Masculino com Feromônios Ativados)
-- Chapinha Cabelo Profissional Prancha Alisadora De Cabelo chapinha Par…
+- Aparador de Pelos Philips All-in-One 9 em 1 Série 3000 | Máquina para Rosto, Cabelo e Corpo | Barbeador Elétrico Multigroom | MG3927/15
 
 ---
 
@@ -103,8 +103,8 @@ Gerado em: 07/08/2026 15:21
 **Produtos usados:**
 
 - Fones Xiaomi Redmi Airdots
+- Celular Samsung Galaxy A57 5G 128GB, 8GB RAM, Câmera Tripla de até 50MP OIS, Selfie de 12MP Video HDR, IP68, Tela Super AMOLED 6.7", NFC, Recursos AI, Até 6 Atualizações de Android e Segurança (Lilás)
 - Fone Lightning para iPhone
-- Carregador Portátil Indução Sem Fio
 
 ---
 

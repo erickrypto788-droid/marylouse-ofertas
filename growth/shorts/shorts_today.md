@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 07/08/2026 14:11
+Gerado em: 07/08/2026 14:21
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 07/08/2026 14:11
 **Produtos usados:**
 
 - Kit 4 Peças Conjunto Infantil Bebê Menino Verão Algodão Promoção 2 Ca…
+- Boneca Bebê Reborn Unicórnio Menina Original Realista de Silicone Pod…
 - Fralda Pampers Pants Ajuste Total Xxg Com 120un
-- Fralda Huggies Tripla Proteção G 36 unidades
 
 ---
 

@@ -1,5 +1,56 @@
 [
   {
+    "id": "43310aaa12611d3044",
+    "title": "Ração Gato Estimacat Premium Adulto Sabor Carne 3kg",
+    "raw_title": "Ração Gato Estimacat Premium Adulto Sabor Carne 3kg",
+    "description": "🚨 OFERTA IMPERDÍVEL para seu gatinho! 🚨 A Ração Gato Estimacat Premium Adulto Sabor Carne 3kg está com um super desconto para garantir a energia e saúde...",
+    "marketplace": "Mercado Livre",
+    "category": "Pet",
+    "old_price": "R$ 64,89",
+    "price": "R$ 47,20",
+    "discount_percent": 27.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_899518-MLA108368169380_032026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66943436?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "07/08/2026 09:03",
+    "created_at_iso": "2026-08-07T09:03:56",
+    "created_ts": 1786093436
+  },
+  {
+    "id": "ce63f4d91f91ca6cb0",
+    "title": "Comedouro Elevado Duplo para Gatos Rosa",
+    "raw_title": "Comedouro Elevado Duplo Ração Gato Porcelana Acrilico 190ml Porta Racao Gato Comedouro Rosa",
+    "description": "Seu gato merece o melhor! 😻 Dê mais conforto e saúde na hora da refeição com este Comedouro Elevado Duplo! Design elegante em porcelana e acrílico, perf...",
+    "marketplace": "Mercado Livre",
+    "category": "Pet",
+    "old_price": "R$ 78,80",
+    "price": "R$ 49,90",
+    "discount_percent": 37.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_670668-MLA109132288172_042026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "07/08/2026 09:02",
+    "created_at_iso": "2026-08-07T09:02:48",
+    "created_ts": 1786093368
+  },
+  {
+    "id": "1ffe155fc479ca1ed1",
+    "title": "Comedouro Automático para Aquário/Terrário",
+    "raw_title": "Comedouro Automático Ração Aquário Terrario Peixe Tartaruga",
+    "description": "🐠 Chega de preocupação! Garanta o Comedouro Automático para Ração de Aquário e Terrário. Perfeito para peixes e tartarugas! 🐢 Seus pets sempre alimentad...",
+    "marketplace": "Mercado Livre",
+    "category": "Pet",
+    "old_price": "R$ 142,86",
+    "price": "R$ 88,01",
+    "discount_percent": 38.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_980327-MLA99939124635_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB44164135?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "07/08/2026 09:01",
+    "created_at_iso": "2026-08-07T09:01:39",
+    "created_ts": 1786093299
+  },
+  {
     "id": "e319eaf74072e23106",
     "title": "Amplificador de Tela 3D para Celular",
     "raw_title": "Amplificador De Imagem Da Tela Do Celular Lupa 3D 21,6CM*16,6CM*2,7CM Promoção",
@@ -3269,27 +3320,6 @@
     "niche": {
       "key": "shopee_moda_infantil",
       "name": "Moda Infantil"
-    }
-  },
-  {
-    "id": "627d34a1a39fb49eb1",
-    "title": "Escova Secadora GOKOCO 7 em 1",
-    "raw_title": "GOKOCO Escova Secadora 7 Em 1 GD032 Conjunto De Secador De Cabelo Multifuncional De Alta Velocidade Para Alisar Enrolar",
-    "description": "Transforme seu cabelo em minutos! ✨ A Escova Secadora GOKOCO 7 em 1 é a solução completa para alisar, enrolar e secar com alta velocidade! Tenha um salã...",
-    "marketplace": "Shopee",
-    "category": "Beleza",
-    "old_price": "R$ 1.293,48",
-    "price": "R$ 595,00",
-    "discount_percent": 54.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lb-mqzz16rnsz5z3a",
-    "affiliate_url": "https://s.shopee.com.br/7Kvxq9E8Hc",
-    "created_at": "06/08/2026 08:20",
-    "created_at_iso": "2026-08-06T08:20:25",
-    "created_ts": 1786004425,
-    "niche": {
-      "key": "shopee_beleza",
-      "name": "Beleza"
     }
   }
 ]

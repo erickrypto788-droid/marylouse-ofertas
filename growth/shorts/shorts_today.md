@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 07/08/2026 13:03
+Gerado em: 07/08/2026 13:22
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 07/08/2026 13:03
 
 **Produtos usados:**
 
-- Fraldas Calça SUMIKKO
 - Kit 4 Peças Conjunto Infantil Bebê Menino Verão Algodão Promoção 2 Ca…
 - Fralda Descartável Huggies Máxima Proteção Tamanho G 160 unidades
+- 1pcs Mobile Centopeia Espiral Ideal Carrinho Bebê Conforto Berço Com…
 
 ---
 

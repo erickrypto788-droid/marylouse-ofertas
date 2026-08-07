@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 07/08/2026 15:27
+Gerado em: 07/08/2026 16:09
 
 ## Categorias prioritárias
 
 - 📦 **Outros**: 17 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
-- 💻 **Informática**: 16 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 💻 **Informática**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 📱 **Celulares**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 🍳 **Casa e Cozinha**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 👟 **Calçados**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 🏋️ **Esportes**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
+- 👗 **Moda Feminina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 💄 **Beleza**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🍼 **Mãe e Bebê**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 🏋️ **Esportes**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - ❤️ **Saúde**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
-- 👗 **Moda Feminina**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 
 ## Top ofertas para destacar
 
@@ -52,40 +52,40 @@ Gerado em: 07/08/2026 15:27
    - Desconto: 61% OFF
    - Link: https://s.shopee.com.br/4qEcjJRgFH
 
-6. **Mochila Faculdade Reforçada Compartimento Para Notebook Escolar Uniss…**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 32,90
-   - Desconto: 56% OFF
-   - Link: https://s.shopee.com.br/20uRxPsPDy
-
-7. **Mochila CHL Bolsa Reforçada Notebook Impermeavel Material Premium Col…**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 39,99
-   - Desconto: 55% OFF
-   - Link: https://s.shopee.com.br/4fvD8JZFW5
-
-8. **Mochila Impermeável 45L Notebook 17**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 29,90
-   - Desconto: 57% OFF
-   - Link: https://s.shopee.com.br/BSnm2zNwh
-
-9. **Celular Samsung Galaxy S25+ 5G, 256GB, 12GB RAM, Câmera Tripla de 50+12+10, Tela Grande de 6.7", Az…**
+6. **Celular Samsung Galaxy S25+ 5G, 256GB, 12GB RAM, Câmera Tripla de 50+12+10, Tela Grande de 6.7", Az…**
    - Categoria: Celulares
    - Loja: Amazon
    - Preço: R$ 4.499,00
    - Desconto: 44% OFF
    - Link: https://link.amazon/B0ccTKHTY
 
-10. **Fralda Descartável Huggies Máxima Proteção Tamanho G 160 unidades**
+7. **Fralda Descartável Huggies Máxima Proteção Tamanho G 160 unidades**
    - Categoria: Mãe e Bebê
    - Loja: Amazon
    - Preço: R$ 159,90
    - Desconto: 30% OFF
    - Link: https://link.amazon/B010gmsvV
+
+8. **Smartphone Motorola Moto g35 5G - 128GB 12GB (4GB RAM+8GB Ram Boost) e Camera 50MP com AI NFC Tela…**
+   - Categoria: Celulares
+   - Loja: Amazon
+   - Preço: R$ 849,00
+   - Desconto: 43% OFF
+   - Link: https://link.amazon/B08PIFQjN
+
+9. **Air Fryer Philco 4L Revestimento Redstone 1500W PAF40A 220V**
+   - Categoria: Casa e Cozinha
+   - Loja: Amazon
+   - Preço: R$ 209,89
+   - Desconto: 41% OFF
+   - Link: https://link.amazon/B0bxW5HKH
+
+10. **Aparador de Pelos Philips All-in-One 9 em 1 Série 3000 | Máquina para Rosto, Cabelo e Corpo | Barbe…**
+   - Categoria: Beleza
+   - Loja: Amazon
+   - Preço: R$ 138,96
+   - Desconto: 44% OFF
+   - Link: https://link.amazon/B0hX1wABB
 
 ## Ações gratuitas recomendadas
 

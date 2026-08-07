@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 07/08/2026 00:19
+Gerado em: 07/08/2026 01:05
 
 ## Como usar
 
@@ -147,14 +147,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
 ```txt
 💄 Oferta para Beleza e Cuidados
 
-Aparador de Pelos Philips All-in-One 9 em 1 Série 3000 | Máquina para Rosto, Cabelo e Corpo | Barbeador Elétrico Multig…
+Chapinha Cabelo Profissional Prancha Alisadora De Cabelo chapinha Par…
 
-💸 De: R$ 249,90
-🔥 Por: R$ 138,96
-🏷️ 44% OFF
-🛒 Loja: Amazon
+💸 De: R$ 116,00
+🔥 Por: R$ 58,00
+🏷️ 50% OFF
+🛒 Loja: Mercado Livre
 
-Ver oferta: https://link.amazon/B0hX1wABB
+Ver oferta: https://www.mercadolivre.com.br/p/MLB74602351?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

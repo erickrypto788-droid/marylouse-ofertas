@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 07/08/2026 16:09
+Gerado em: 07/08/2026 16:21
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 07/08/2026 16:09
 
 **Produtos usados:**
 
-- Kit 4 Peças Conjunto Infantil Bebê Menino Verão Algodão Promoção 2 Ca…
-- Fralda Descartável Huggies Máxima Proteção Tamanho G 160 unidades
-- Boneca Bebê Reborn Unicórnio Menina Original Realista de Silicone Pod…
+- SUMIKKO 50 e 100 unidades Infantil Calça Fraldas Ajustável total max…
+- Berço Portátil Moises Co-bed Com Balanço Mosquiteiro e Cesto Regulage…
+- Brinquedo Caminhão Dinossauro Engolidor 2026 Porta-Carrinhos com 4 Ca…
 
 ---
 

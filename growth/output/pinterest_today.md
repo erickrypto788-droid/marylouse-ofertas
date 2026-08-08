@@ -1,6 +1,6 @@
 # Pinterest Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 08/08/2026 15:04
+Gerado em: 08/08/2026 15:21
 
 ## Como usar
 
@@ -66,7 +66,7 @@ https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=pinter
 
 **Por que postar:**
 
-Categoria com 13 oferta(s) e boa intenção de compra.
+Categoria com 12 oferta(s) e boa intenção de compra.
 
 ---
 
@@ -126,27 +126,27 @@ Categoria com 14 oferta(s) e boa intenção de compra.
 
 ---
 
-## Pin 5 — Mãe e Bebê
+## Pin 5 — Informática
 
 **Tipo:** produto_direto
 
-**Board sugerido:** Ofertas para Bebê
+**Board sugerido:** Celulares e Tecnologia
 
 **Imagem para upload no Pinterest:**
 
-https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
+https://marylouse-ofertas.vercel.app/growth/pinterest/informatica.png
 
 **Título:**
 
-65% OFF: Calça Fralda SUMIKKO
+63% OFF: Mochila Couro PU Grande Executiva Para Notebook Trabalho Faculdade Re…
 
 **Descrição:**
 
-Oferta destaque em Mãe e Bebê encontrada pela MaryLouse Ofertas. Preço: R$ 69,00. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Oferta destaque em Informática encontrada pela MaryLouse Ofertas. Preço: R$ 39,99. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
-https://s.shopee.com.br/2qTabk66Vo
+https://s.shopee.com.br/60QduJwqJQ
 
 **Por que postar:**
 

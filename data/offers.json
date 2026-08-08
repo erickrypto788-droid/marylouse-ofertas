@@ -1,5 +1,39 @@
 [
   {
+    "id": "9a9f07d2d56b1c79d5",
+    "title": "Ração Gato Alimento Vittamax Premium Especial 10kg Mix",
+    "raw_title": "Ração Gato Alimento Vittamax Premium Especial 10kg Mix",
+    "description": "🔥 Oferta encontrada! 📌 Ração Gato Alimento Vittamax Premium Especial 10kg Mix Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Pet",
+    "old_price": "",
+    "price": "R$ 139,90",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_643929-MLA99897198459_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB28886564?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "08/08/2026 21:02",
+    "created_at_iso": "2026-08-08T21:02:34",
+    "created_ts": 1786222954
+  },
+  {
+    "id": "d223fd068174d53953",
+    "title": "Ração Cachorro Selection Adultos Pequenos 10,1kg Harmony",
+    "raw_title": "Ração Cachorro Selection Adultos Pequenos 10,1kg Harmony",
+    "description": "🔥 Oferta encontrada! 📌 Ração Cachorro Selection Adultos Pequenos 10,1kg Harmony Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Pet",
+    "old_price": "",
+    "price": "R$ 149,90",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_997469-MLA99923110131_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB49735840?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "08/08/2026 21:01",
+    "created_at_iso": "2026-08-08T21:01:29",
+    "created_ts": 1786222889
+  },
+  {
     "id": "8bb62678d3c335f506",
     "title": "Regata Alça Fina Fitness Blusa Feminino Liso Poliamida Tank Top Slim…",
     "raw_title": "Regata Alça Fina Fitness Blusa Feminino Liso Poliamida Tank Top Slim Camiseta Academia Verão",
@@ -3774,22 +3808,5 @@
       "key": "shopee_bebidas_alimentos",
       "name": "Bebidas e Alimentos"
     }
-  },
-  {
-    "id": "ac6173c92e2456e059",
-    "title": "Fritadeira Air Fryer Mondial Oven Digital 127v",
-    "raw_title": "Fritadeira Air Fryer Mondial Oven Digital 127v",
-    "description": "🔥 Oferta encontrada! 📌 Fritadeira Air Fryer Mondial Oven Digital 127v Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Mercado Livre",
-    "category": "Casa e Cozinha",
-    "old_price": "",
-    "price": "R$ 1.800,00",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_648444-MLA100045466525_122025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB54083722?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "07/08/2026 21:01",
-    "created_at_iso": "2026-08-07T21:01:35",
-    "created_ts": 1786136495
   }
 ]

@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 08/08/2026 06:03
+Gerado em: 08/08/2026 06:21
 
 ## Como usar
 
@@ -78,9 +78,9 @@ Gerado em: 08/08/2026 06:03
 
 **Produtos usados:**
 
+- Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler…
 - Perfume Attracione Feminino
 - Attracione Men (Perfume Masculino com Feromônios Ativados)
-- Aparador de Pelos Philips All-in-One 9 em 1 Série 3000 | Máquina para Rosto, Cabelo e Corpo | Barbeador Elétrico Multigroom | MG3927/15
 
 ---
 

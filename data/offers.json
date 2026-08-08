@@ -1,5 +1,56 @@
 [
   {
+    "id": "77379c68c96ac58d31",
+    "title": "Redmi Note 14s Cor Preto",
+    "raw_title": "Redmi Note 14s Cor Preto",
+    "description": "🚨 NOVIDADE QUENTE! 🚀 Garanta já o seu Redmi Note 14s Cor Preto! Performance e elegância na palma da sua mão. 📦 Frete grátis!",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "",
+    "price": "R$ 1.639,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_871716-MLA99442023162_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB48332910?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "08/08/2026 18:03",
+    "created_at_iso": "2026-08-08T18:03:42",
+    "created_ts": 1786212222
+  },
+  {
+    "id": "497ec2d79c2249f0e9",
+    "title": "Samsung Galaxy A55 5G Azul-celeste",
+    "raw_title": "Celular Samsung Galaxy A55 5g Cor Azul-celeste",
+    "description": "🚀 NOVIDADE QUENTE! Garanta o seu novo Celular Samsung Galaxy A55 5G na cor Azul-celeste! ✨ Desempenho incrível e design elegante para você arrasar.",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "",
+    "price": "R$ 3.099,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_600268-MLU78900360857_092024-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB34729625?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "08/08/2026 18:02",
+    "created_at_iso": "2026-08-08T18:02:32",
+    "created_ts": 1786212152
+  },
+  {
+    "id": "eb7fe40c29ea34d5ec",
+    "title": "Xiaomi POCO X6 5G Branco",
+    "raw_title": "Xiaomi POCO Poco X6 5G Dual SIM 256GB/12GB Branco",
+    "description": "🚀 **CHEGOU O NOVO POCO X6 5G!** 🚀 Experimente a velocidade e a performance que você sempre quis com o Xiaomi POCO X6 5G! Com 256GB de armazenamento e 12...",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "",
+    "price": "R$ 3.500,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_743110-MLA99558118934_122025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29728116?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "08/08/2026 18:01",
+    "created_at_iso": "2026-08-08T18:01:17",
+    "created_ts": 1786212077
+  },
+  {
     "id": "298b9d2f158ef01cda",
     "title": "Papel Fotográfico 180g Glossy A4 Brilhante à Prova D'água MASTERPRINT",
     "raw_title": "Papel Fotográfico 180g Glossy A4 Brilhante à Prova D'água MASTERPRINT",
@@ -3879,27 +3930,6 @@
     "niche": {
       "key": "shopee_bolsas_masculinas",
       "name": "Bolsas Masculinas"
-    }
-  },
-  {
-    "id": "d941d7a80c68f4243b",
-    "title": "Mochila De Viagem Feminina Multifuncional Impermeável Reforçada Expan…",
-    "raw_title": "Mochila De Viagem Feminina Multifuncional Impermeável Reforçada Expansível para Trilha Esportiva",
-    "description": "🔥 83% OFF — Oferta encontrada! 📌 Mochila De Viagem Feminina Multifuncional Impermeável Reforçada Expansível para Trilha Esportiva Confira os detalhes e...",
-    "marketplace": "Shopee",
-    "category": "Bolsas Femininas",
-    "old_price": "R$ 705,76",
-    "price": "R$ 119,98",
-    "discount_percent": 83.0,
-    "rating": 5.0,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820la-mmi9yl6sgi6819",
-    "affiliate_url": "https://s.shopee.com.br/3B6R4TXovI",
-    "created_at": "07/08/2026 17:19",
-    "created_at_iso": "2026-08-07T17:19:58",
-    "created_ts": 1786123198,
-    "niche": {
-      "key": "shopee_bolsas_femininas",
-      "name": "Bolsas Femininas"
     }
   }
 ]

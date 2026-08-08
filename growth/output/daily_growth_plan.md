@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 08/08/2026 19:47
+Gerado em: 08/08/2026 20:22
 
 ## Categorias prioritárias
 
-- 📦 **Outros**: 23 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
-- 💻 **Informática**: 17 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 📱 **Celulares**: 16 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
-- 💄 **Beleza**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 📦 **Outros**: 22 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 📱 **Celulares**: 15 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 💻 **Informática**: 15 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 👗 **Moda Feminina**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 🍼 **Mãe e Bebê**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 💄 **Beleza**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 👟 **Calçados**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 🐶 **Pet**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 🍳 **Casa e Cozinha**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 🏋️ **Esportes**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 🎮 **Games**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-games.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_games
 
 ## Top ofertas para destacar
 
@@ -73,19 +73,19 @@ Gerado em: 08/08/2026 19:47
    - Desconto: 61% OFF
    - Link: https://s.shopee.com.br/6fgJyDuL2L
 
-9. **Mesa Notebook Ergonômica Multiuso Altura Regulável Rodinhas Mesa Escr…**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 79,90
-   - Desconto: 80% OFF
-   - Link: https://s.shopee.com.br/9ANePqj8bn
-
-10. **Cartao de Memoria 128Gb Micro SD ultra 100MB/s para celular e Câmera…**
+9. **Celular Samsung Galaxy S25+ 5G, 256GB, 12GB RAM, Câmera Tripla de 50+12+10, Tela Grande de 6.7", Az…**
    - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 23,90
-   - Desconto: 54% OFF
-   - Link: https://s.shopee.com.br/8V7xcclfxb
+   - Loja: Amazon
+   - Preço: R$ 4.499,00
+   - Desconto: 44% OFF
+   - Link: https://link.amazon/B0ccTKHTY
+
+10. **Fralda Descartável Huggies Máxima Proteção Tamanho G 160 unidades**
+   - Categoria: Mãe e Bebê
+   - Loja: Amazon
+   - Preço: R$ 159,90
+   - Desconto: 30% OFF
+   - Link: https://link.amazon/B010gmsvV
 
 ## Ações gratuitas recomendadas
 

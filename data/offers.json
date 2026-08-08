@@ -1,5 +1,22 @@
 [
   {
+    "id": "3f261b17e80e7b8ba3",
+    "title": "Roteador Wifi 6 Dual Band X3000",
+    "raw_title": "Roteador Wifi 6 Dual Band Flt - X3000",
+    "description": "🚀 Chega de travamentos e lentidão! Aproveite o máximo da sua conexão com o Roteador Wifi 6 Dual Band Flt - X3000. Tecnologia de ponta para uma navegação...",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "",
+    "price": "R$ 349,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_981879-MLA80519993733_112024-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB42833702?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "08/08/2026 16:01",
+    "created_at_iso": "2026-08-08T16:01:29",
+    "created_ts": 1786204889
+  },
+  {
     "id": "5a98236fac79ce5b4f",
     "title": "Mochila Masculina Preta Reforçada Impermeável Grande Capacidade para…",
     "raw_title": "Mochila Masculina Preta Reforçada Impermeável Grande Capacidade para Trabalho Viagem Escola e Uso Diário",
@@ -3229,26 +3246,5 @@
     "created_at": "07/08/2026 16:02",
     "created_at_iso": "2026-08-07T16:02:36",
     "created_ts": 1786118556
-  },
-  {
-    "id": "5ea0606549d99fe226",
-    "title": "Monitor digital de pressão arterial de braço totalmente automático j…",
-    "raw_title": "Monitor digital de pressão arterial de braço totalmente automático jorge",
-    "description": "🔥 73% OFF — Oferta encontrada! 📌 Monitor digital de pressão arterial de braço totalmente automático jorge Confira os detalhes e aproveite enquanto a ofe...",
-    "marketplace": "Shopee",
-    "category": "Saúde",
-    "old_price": "R$ 122,19",
-    "price": "R$ 32,99",
-    "discount_percent": 73.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7rfgj-m9amfdsd1v53e7",
-    "affiliate_url": "https://s.shopee.com.br/4LIOKNKLaR",
-    "created_at": "07/08/2026 15:19",
-    "created_at_iso": "2026-08-07T15:19:56",
-    "created_ts": 1786115996,
-    "niche": {
-      "key": "shopee_saude",
-      "name": "Saúde"
-    }
   }
 ]

@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 08/08/2026 13:05
+Gerado em: 08/08/2026 14:21
 
 ## Como usar
 
@@ -121,13 +121,11 @@ Gerado em: 08/08/2026 13:05
 - growth/shorts/slides/supermercados/01_intro.png
 - growth/shorts/slides/supermercados/02_produto_1.png
 - growth/shorts/slides/supermercados/03_produto_2.png
-- growth/shorts/slides/supermercados/04_produto_3.png
 - growth/shorts/slides/supermercados/05_cta.png
 
 **Produtos usados:**
 
 - Personal VIP - Papel Higiênico Folha Dupla, Branco 24 unidades
-- Papel higiênico INDAIAL CAICAI PAPEL HIGIENICO folha dupla 22.5 m de…
 - Amaciante Sensiv Titila 5L
 
 ---

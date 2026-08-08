@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 08/08/2026 17:15
+Gerado em: 08/08/2026 17:21
 
 ## Como usar
 
@@ -56,7 +56,7 @@ Gerado em: 08/08/2026 17:15
 
 - Air Fryer Philco 4L Revestimento Redstone 1500W PAF40A 220V
 - Panela de Pressão Panelux 4,5L
-- Conjunto Panelas Antiaderente 5 Peças Antiaderente Cor Azul Hauskraft
+- Oster Cafeteira Oster com Jarra Inox 1,2L, OCAF650, 127V
 
 ---
 

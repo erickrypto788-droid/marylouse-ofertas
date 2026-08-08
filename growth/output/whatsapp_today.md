@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 08/08/2026 00:03
+Gerado em: 08/08/2026 00:21
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Conjunto Segunda Pele Térmica
+6 Pares De Meias De Algodão De Corte Médio Para Homens E Mulheres – U…
 
-💸 De: R$ 90,61
-🔥 Por: R$ 29,90
-🏷️ 67% OFF
+💸 De: R$ 126,90
+🔥 Por: R$ 25,38
+🏷️ 80% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/40fYSjNAD9
+Ver oferta: https://s.shopee.com.br/4qEfWNMVai
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

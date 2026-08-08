@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 08/08/2026 07:19
+Gerado em: 08/08/2026 08:11
 
 ## Como usar
 
@@ -102,37 +102,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Ofertas Pet
-
-**Canal recomendado:** Ofertas Pet
-
-**Horário sugerido:** 17:00 - 20:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
-
-**Texto pronto:**
-
-```txt
-🐶 Oferta para Ofertas Pet
-
-Sandália Papete Feminina Ortopédica com Elástico Confortável Moderna…
-
-💸 De: R$ 89,90
-🔥 Por: R$ 35,06
-🏷️ 61% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/7VFPZDy0ur
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 5 — Casa e Cozinha
+## Post 4 — Casa e Cozinha
 
 **Canal recomendado:** Casa e Cozinha
 
@@ -162,7 +132,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 6 — Moda Feminina
+## Post 5 — Moda Feminina
 
 **Canal recomendado:** Moda Feminina
 
@@ -185,6 +155,36 @@ Calças Jeans Femininas Plus Size Cintura Alta Até o Umbigo Lycra
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/3LPrnjqwRM
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 6 — Ofertas Pet
+
+**Canal recomendado:** Ofertas Pet
+
+**Horário sugerido:** 17:00 - 20:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
+
+**Texto pronto:**
+
+```txt
+🐶 Oferta para Ofertas Pet
+
+Comedouro Dispenser De Ração Automático 8l Para Cães Gatos Cor Comedo…
+
+💸 De: R$ 59,99
+🔥 Por: R$ 42,88
+🏷️ 29% OFF
+🛒 Loja: Mercado Livre
+
+Ver oferta: https://www.mercadolivre.com.br/p/MLB76168566?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

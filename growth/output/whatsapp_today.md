@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 08/08/2026 21:49
+Gerado em: 08/08/2026 22:21
 
 ## Como usar
 
@@ -147,14 +147,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Kit 3 Blusas Cacharrel Gola Alta
+Legging Flare Plus Size Flanelada Calça Leg Boca De Sino Bailarina Gr…
 
-💸 De: R$ 149,91
-🔥 Por: R$ 49,47
-🏷️ 67% OFF
+💸 De: R$ 119,32
+🔥 Por: R$ 36,99
+🏷️ 69% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/3B6SrikI3G
+Ver oferta: https://s.shopee.com.br/9fJwju4B4c
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 08/08/2026 17:10
+Gerado em: 08/08/2026 17:11
 
 ## Como usar
 
@@ -102,9 +102,9 @@ Gerado em: 08/08/2026 17:10
 
 **Produtos usados:**
 
+- Samsung Galaxy Watch Ultra 2025 Smartwatch 47mm LTE, Galaxy AI, Titânio Aeroespacial, Titânio Cinza
 - Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com…
-- Celular Samsung Galaxy A57 5G 128GB, 8GB RAM, Câmera Tripla de até 50MP OIS, Selfie de 12MP Video HDR, IP68, Tela Super AMOLED 6.7", NFC, Recursos AI, Até 6 Atualizações de Android e Segurança (Lilás)
-- Cartao de Memoria 128Gb Micro SD ultra 100MB/s para celular e Câmera…
+- Celular Samsung Galaxy S25+ 5G, 256GB, 12GB RAM, Câmera Tripla de 50+12+10, Tela Grande de 6.7", Azul
 
 ---
 
@@ -120,10 +120,12 @@ Gerado em: 08/08/2026 17:10
 
 - growth/shorts/slides/supermercados/01_intro.png
 - growth/shorts/slides/supermercados/02_produto_1.png
+- growth/shorts/slides/supermercados/03_produto_2.png
 - growth/shorts/slides/supermercados/05_cta.png
 
 **Produtos usados:**
 
+- Personal VIP - Papel Higiênico Folha Dupla, Branco 24 unidades
 - Amaciante Sensiv Titila 5L
 
 ---

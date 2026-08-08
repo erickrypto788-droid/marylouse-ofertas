@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 08/08/2026 01:05
+Gerado em: 08/08/2026 01:21
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-6 Pares De Meias De Algodão De Corte Médio Para Homens E Mulheres – U…
+Calças Jeans Femininas Plus Size Cintura Alta Até o Umbigo Lycra
 
-💸 De: R$ 126,90
-🔥 Por: R$ 25,38
-🏷️ 80% OFF
+💸 De: R$ 161,30
+🔥 Por: R$ 48,39
+🏷️ 70% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/4qEfWNMVai
+Ver oferta: https://s.shopee.com.br/3LPrnjqwRM
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

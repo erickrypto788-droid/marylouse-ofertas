@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 08/08/2026 17:03
+Gerado em: 08/08/2026 17:10
 
 ## Como usar
 
@@ -54,9 +54,9 @@ Gerado em: 08/08/2026 17:03
 
 **Produtos usados:**
 
+- Air Fryer Philco 4L Revestimento Redstone 1500W PAF40A 220V
 - Panela de Pressão Panelux 4,5L
 - Conjunto Panelas Antiaderente 5 Peças Antiaderente Cor Azul Hauskraft
-- Azeite Oliva Extra Virgem Mercatto
 
 ---
 
@@ -79,8 +79,8 @@ Gerado em: 08/08/2026 17:03
 **Produtos usados:**
 
 - Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler…
+- Aparador de Pelos Philips All-in-One 9 em 1 Série 3000 | Máquina para Rosto, Cabelo e Corpo | Barbeador Elétrico Multigroom | MG3927/15
 - Kit 3 Perfumes Malbec Masculino Importado Aroma Marcante Essência Al…
-- GOKOCO Escova Secadora 7 Em 1 GD032 Conjunto De Secador De Cabelo Mul…
 
 ---
 
@@ -103,8 +103,8 @@ Gerado em: 08/08/2026 17:03
 **Produtos usados:**
 
 - Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com…
+- Celular Samsung Galaxy A57 5G 128GB, 8GB RAM, Câmera Tripla de até 50MP OIS, Selfie de 12MP Video HDR, IP68, Tela Super AMOLED 6.7", NFC, Recursos AI, Até 6 Atualizações de Android e Segurança (Lilás)
 - Cartao de Memoria 128Gb Micro SD ultra 100MB/s para celular e Câmera…
-- Gamesir T4 Nova Lite Controlador De Jogo Sem Fio Multiplataforma Efei…
 
 ---
 

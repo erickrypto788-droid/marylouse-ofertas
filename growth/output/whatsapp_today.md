@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 08/08/2026 17:03
+Gerado em: 08/08/2026 17:10
 
 ## Como usar
 
@@ -117,14 +117,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
 ```txt
 🍳 Oferta para Casa e Cozinha
 
-Panela de Pressão Panelux 4,5L
+Air Fryer Philco 4L Revestimento Redstone 1500W PAF40A 220V
 
-💸 De: R$ 115,80
-🔥 Por: R$ 57,90
-🏷️ 50% OFF
-🛒 Loja: Shopee
+💸 De: R$ 357,00
+🔥 Por: R$ 209,89
+🏷️ 41% OFF
+🛒 Loja: Amazon
 
-Ver oferta: https://s.shopee.com.br/9fJvbrXpeg
+Ver oferta: https://link.amazon/B0bxW5HKH
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

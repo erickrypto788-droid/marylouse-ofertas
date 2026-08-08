@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 08/08/2026 12:05
+Gerado em: 08/08/2026 12:21
 
 ## Como usar
 
@@ -27,14 +27,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
 ```txt
 🍼 Oferta para Mamãe e Bebê
 
-SUMIKKO 50 e 100 unidades Infantil Calça Fraldas Ajustável total max…
+Calça Fralda SUMIKKO
 
 💸 De: R$ 197,14
 🔥 Por: R$ 69,00
 🏷️ 65% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/5ArVO1xDm6
+Ver oferta: https://s.shopee.com.br/2qTabk66Vo
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

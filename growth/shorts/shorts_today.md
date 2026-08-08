@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 08/08/2026 15:21
+Gerado em: 08/08/2026 16:03
 
 ## Como usar
 
@@ -55,8 +55,8 @@ Gerado em: 08/08/2026 15:21
 **Produtos usados:**
 
 - Panela de Pressão Panelux 4,5L
-- Air Fryer Philco 4L Revestimento Redstone 1500W PAF40A 220V
 - Conjunto Panelas Antiaderente 5 Peças Antiaderente Cor Azul Hauskraft
+- Azeite Oliva Extra Virgem Mercatto
 
 ---
 
@@ -103,8 +103,8 @@ Gerado em: 08/08/2026 15:21
 **Produtos usados:**
 
 - Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com…
-- Samsung Galaxy Watch Ultra 2025 Smartwatch 47mm LTE, Galaxy AI, Titânio Aeroespacial, Titânio Cinza
 - Cartao de Memoria 128Gb Micro SD ultra 100MB/s para celular e Câmera…
+- Gamesir T4 Nova Lite Controlador De Jogo Sem Fio Multiplataforma Efei…
 
 ---
 
@@ -120,12 +120,10 @@ Gerado em: 08/08/2026 15:21
 
 - growth/shorts/slides/supermercados/01_intro.png
 - growth/shorts/slides/supermercados/02_produto_1.png
-- growth/shorts/slides/supermercados/03_produto_2.png
 - growth/shorts/slides/supermercados/05_cta.png
 
 **Produtos usados:**
 
-- Personal VIP - Papel Higiênico Folha Dupla, Branco 24 unidades
 - Amaciante Sensiv Titila 5L
 
 ---

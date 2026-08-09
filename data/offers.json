@@ -1,5 +1,39 @@
 [
   {
+    "id": "b6a7b543e98237833b",
+    "title": "SSD NVMe Kingston 1TB PCIe 4.0",
+    "raw_title": "Ssd Nvme Kingston 1tb Nv3 M.2 2280 Pcie 4.0 Nf-e Cor Ssd Nvme M.2 2280 Kingston 1tb",
+    "description": "🚀 Velocidade e espaço que seu PC merece! Aproveite o SSD NVMe Kingston 1TB NV3 M.2 2280 PCIe 4.0 e transforme a performance da sua máquina! Mais agilida...",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "",
+    "price": "R$ 1.090,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_763811-MLA100010597069_122025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50957106?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "09/08/2026 10:02",
+    "created_at_iso": "2026-08-09T10:02:41",
+    "created_ts": 1786269761
+  },
+  {
+    "id": "5c59027a89b796a1a0",
+    "title": "Roteador Wifi AC 1200 2 Flex",
+    "raw_title": "Roteador Wifi Ac 1200 2 Flex",
+    "description": "🔥 SINAL FORTE! Roteador Wifi AC 1200 2 Flex para internet de alta velocidade em toda a casa! Chega de lentidão! 🚀 📦 Frete Grátis!",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "R$ 198,15",
+    "price": "R$ 169,14",
+    "discount_percent": 15.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_697321-MLA99502086258_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47353377?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "09/08/2026 10:01",
+    "created_at_iso": "2026-08-09T10:01:31",
+    "created_ts": 1786269691
+  },
+  {
     "id": "15637706aee0981e47",
     "title": "Mochila de Viagem Feminina Multifuncional",
     "raw_title": "Mochila De Viagem Feminina Multifuncional Impermeável Reforçada Expansível para Trilha Esportiva",
@@ -3934,43 +3968,5 @@
     "created_at": "08/08/2026 10:02",
     "created_at_iso": "2026-08-08T10:02:54",
     "created_ts": 1786183374
-  },
-  {
-    "id": "1ee9568832b9014d91",
-    "title": "Jogo Panelas Grandes Conjunto Caçarolas 40cm - 2 Un Alumínio",
-    "raw_title": "Jogo Panelas Grandes Conjunto Caçarolas 40cm - 2 Un Alumínio",
-    "description": "🔥 Oferta encontrada! 📌 Jogo Panelas Grandes Conjunto Caçarolas 40cm - 2 Un Alumínio Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Mercado Livre",
-    "category": "Casa e Cozinha",
-    "old_price": "",
-    "price": "R$ 397,61",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_798020-MLA110128132977_042026-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67685128?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "08/08/2026 10:01",
-    "created_at_iso": "2026-08-08T10:01:44",
-    "created_ts": 1786183304
-  },
-  {
-    "id": "208f9b7c45dc01bcde",
-    "title": "Kit 3 Garrafas Squeeze Motivacionais Garrafa Água Academia Com 1.2L e…",
-    "raw_title": "Kit 3 Garrafas Squeeze Motivacionais Garrafa Água Academia Com 1.2L e 800ml e 300ml copo stanley canudo",
-    "description": "🔥 55% OFF — Oferta encontrada! 📌 Kit 3 Garrafas Squeeze Motivacionais Garrafa Água Academia Com 1.2L e 800ml e 300ml copo stanley canudo Confira os deta...",
-    "marketplace": "Shopee",
-    "category": "Esportes e Lazer",
-    "old_price": "R$ 59,56",
-    "price": "R$ 26,80",
-    "discount_percent": 55.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820mg-mpm14y3pmtj685",
-    "affiliate_url": "https://s.shopee.com.br/2VqlLAV3Ye",
-    "created_at": "08/08/2026 09:20",
-    "created_at_iso": "2026-08-08T09:20:14",
-    "created_ts": 1786180814,
-    "niche": {
-      "key": "shopee_esportes_lazer",
-      "name": "Esportes e Lazer"
-    }
   }
 ]

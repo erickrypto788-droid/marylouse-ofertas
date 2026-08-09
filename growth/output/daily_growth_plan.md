@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 09/08/2026 22:04
+Gerado em: 09/08/2026 22:21
 
 ## Categorias prioritárias
 
@@ -11,81 +11,81 @@ Gerado em: 09/08/2026 22:04
 - 🏋️ **Esportes**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 💻 **Informática**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 📦 **Outros**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
-- ✨ **Moda Plus Size**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
+- 🍳 **Casa e Cozinha**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
+- 🔌 **Eletrodomésticos**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-eletrodomesticos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_eletrodomesticos
 - 💄 **Beleza**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 🍳 **Casa e Cozinha**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 
 ## Top ofertas para destacar
 
-1. **Mesa Notebook Ergonômica Multiuso Altura Regulável Rodinhas Mesa Escr…**
+1. **Panela De Pressão 4,5litros Panelux Linha Classic Alto Brilho A Mais…**
+   - Categoria: Casa e Cozinha
+   - Loja: Shopee
+   - Preço: R$ 57,90
+   - Desconto: 50% OFF
+   - Link: https://s.shopee.com.br/3g2jrMRl7U
+
+2. **Mesa Notebook Ergonômica Multiuso Altura Regulável Rodinhas Mesa Escr…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 79,90
    - Desconto: 80% OFF
    - Link: https://s.shopee.com.br/904GsMIZkP
 
-2. **Cartao de Memoria 128Gb Micro SD ultra 100MB/s para celular e Câmera…**
+3. **Cartao de Memoria 128Gb Micro SD ultra 100MB/s para celular e Câmera…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 23,90
    - Desconto: 54% OFF
    - Link: https://s.shopee.com.br/9fJxfaG2OT
 
-3. **Mesa Dobrável Notebook Retrátil Home Office Apoio Cama Sofá Trabalho…**
+4. **Mesa Dobrável Notebook Retrátil Home Office Apoio Cama Sofá Trabalho…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 37,99
    - Desconto: 57% OFF
    - Link: https://s.shopee.com.br/9V0XTHGfjS
 
-4. **Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com…**
+5. **Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 19,79
    - Desconto: 61% OFF
    - Link: https://s.shopee.com.br/20uVoB4yrn
 
-5. **Mochila Faculdade Reforçada Compartimento Para Notebook Escolar Uniss…**
+6. **Mochila Faculdade Reforçada Compartimento Para Notebook Escolar Uniss…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 32,90
    - Desconto: 56% OFF
    - Link: https://s.shopee.com.br/6L3UIvvZdW
 
-6. **Mochila CHL Bolsa Reforçada Notebook Impermeavel Material Premium Col…**
+7. **Mochila CHL Bolsa Reforçada Notebook Impermeavel Material Premium Col…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 39,99
    - Desconto: 55% OFF
    - Link: https://s.shopee.com.br/6fgKhXuIva
 
-7. **Mochila Escolar Impermeável Grande 45 L Notebook 17 Resistente Mascul…**
+8. **Mochila Escolar Impermeável Grande 45 L Notebook 17 Resistente Mascul…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 29,90
    - Desconto: 57% OFF
    - Link: https://s.shopee.com.br/6Ak46cwCyT
 
-8. **Fraldas Calça SUMIKKO**
+9. **Fraldas Calça SUMIKKO**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 69,00
    - Desconto: 65% OFF
    - Link: https://s.shopee.com.br/8V800y64Es
 
-9. **Chapinha Profissional Bivolt**
+10. **Chapinha Profissional Bivolt**
    - Categoria: Beleza
    - Loja: Mercado Livre
    - Preço: R$ 58,00
    - Desconto: 50% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB74602351?matt_word=marylouse&matt_tool=50459180&forceInApp=true
-
-10. **Perfume Attracione Feminino**
-   - Categoria: Beleza
-   - Loja: Shopee
-   - Preço: R$ 49,00
-   - Desconto: 71% OFF
-   - Link: https://s.shopee.com.br/1qb5k7NaGY
 
 ## Ações gratuitas recomendadas
 

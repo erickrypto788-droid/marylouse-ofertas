@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 09/08/2026 17:05
+Gerado em: 09/08/2026 17:21
 
 ## Como usar
 
@@ -54,9 +54,9 @@ Gerado em: 09/08/2026 17:05
 
 **Produtos usados:**
 
-- Air Fryer Philco 4L Revestimento Redstone 1500W PAF40A 220V
 - Mini Balança Digital Cozinha
 - Cadeira Presidente com Massagem
+- Air fryer Britânia Fritadeira Air Fryer preto
 
 ---
 
@@ -103,8 +103,8 @@ Gerado em: 09/08/2026 17:05
 **Produtos usados:**
 
 - Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com…
-- Samsung Galaxy Watch Ultra 2025 Smartwatch 47mm LTE, Galaxy AI, Titânio Aeroespacial, Titânio Cinza
 - Cartao de Memoria 128Gb Micro SD ultra 100MB/s para celular e Câmera…
+- Gamesir T4 Nova Lite Controlador De Jogo Sem Fio Multiplataforma Efei…
 
 ---
 
@@ -126,8 +126,8 @@ Gerado em: 09/08/2026 17:05
 
 **Produtos usados:**
 
-- Personal VIP - Papel Higiênico Folha Dupla, Branco 24 unidades
 - Sabonete Natura Essencial Masculino
 - Darrow Suavié Sabonete Barra 70g
+- Kit Higiene Bucal Completo (90 Peças)
 
 ---

@@ -1,5 +1,39 @@
 [
   {
+    "id": "ea23f535d34f0b72a5",
+    "title": "Barbeador Costas Masculino Dobrável",
+    "raw_title": "Barbeador Costas Masculino Traseiro Dobrável Aparador Pelos",
+    "description": "🔥 Mude seu jogo de higiene pessoal! Cansado de se contorcer para aparar os pelos das costas? Chega de malabarismos! 🙅‍♂️ Apresentamos o Barbeador Costas...",
+    "marketplace": "Mercado Livre",
+    "category": "Beleza",
+    "old_price": "R$ 369,06",
+    "price": "R$ 249,00",
+    "discount_percent": 33.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_962334-MLA95523966556_102025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51434487?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "09/08/2026 07:02",
+    "created_at_iso": "2026-08-09T07:02:25",
+    "created_ts": 1786258945
+  },
+  {
+    "id": "c7b14dafedaf1f9c15",
+    "title": "Chapinha Profissional Bivolt",
+    "raw_title": "Chapinha Cabelo Profissional Prancha Alisadora De Cabelo chapinha Para Cabelo Bivolt Chapinha",
+    "description": "✨ Cabelos lisos e impecáveis com 50% OFF! ✨ Chapinha Profissional Prancha Alisadora Bivolt com preço imperdível! Não perca essa chance de ter fios perfe...",
+    "marketplace": "Mercado Livre",
+    "category": "Beleza",
+    "old_price": "R$ 116,00",
+    "price": "R$ 58,00",
+    "discount_percent": 50.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_796634-MLA113964112209_062026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74602351?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "09/08/2026 07:01",
+    "created_at_iso": "2026-08-09T07:01:14",
+    "created_ts": 1786258874
+  },
+  {
     "id": "06927aba5428f38463",
     "title": "Kit 40 Carrinhos de Fricção + Caixa Organizadora",
     "raw_title": "Kit com 40 Carrinhos de Fricção Coloridos + Caixa Organizadora | Presente Infantil",
@@ -3863,26 +3897,5 @@
     "created_at": "08/08/2026 08:05",
     "created_at_iso": "2026-08-08T08:05:11",
     "created_ts": 1786176311
-  },
-  {
-    "id": "9e0dbb79644d5dffb3",
-    "title": "Kit 3 Perfumes Malbec Masculino Importado Aroma Marcante Essência Al…",
-    "raw_title": "Kit 3 Perfumes Malbec Masculino Importado Aroma Marcante Essência Alta Fixação Projeção Duradoura",
-    "description": "🔥 47% OFF — Oferta encontrada! 📌 Kit 3 Perfumes Malbec Masculino Importado Aroma Marcante Essência Alta Fixação Projeção Duradoura Confira os detalhes e...",
-    "marketplace": "Shopee",
-    "category": "Beleza",
-    "old_price": "R$ 60,19",
-    "price": "R$ 31,90",
-    "discount_percent": 47.0,
-    "rating": 4.0,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mly50552czcw50",
-    "affiliate_url": "https://s.shopee.com.br/AKZcTCXsff",
-    "created_at": "08/08/2026 06:20",
-    "created_at_iso": "2026-08-08T06:20:00",
-    "created_ts": 1786170000,
-    "niche": {
-      "key": "shopee_beleza",
-      "name": "Beleza"
-    }
   }
 ]

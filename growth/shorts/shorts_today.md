@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 09/08/2026 03:06
+Gerado em: 09/08/2026 03:21
 
 ## Como usar
 
@@ -78,9 +78,9 @@ Gerado em: 09/08/2026 03:06
 
 **Produtos usados:**
 
+- Perfume Attracione Feminino
+- Attracione Men (Perfume Masculino com Feromônios Ativados)
 - Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler…
-- Aparador de Pelos Philips All-in-One 9 em 1 Série 3000 | Máquina para Rosto, Cabelo e Corpo | Barbeador Elétrico Multigroom | MG3927/15
-- Kit 3 Perfumes Malbec Masculino Importado Aroma Marcante Essência Al…
 
 ---
 

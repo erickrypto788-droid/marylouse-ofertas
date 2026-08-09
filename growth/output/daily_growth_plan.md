@@ -1,91 +1,91 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 09/08/2026 10:04
+Gerado em: 09/08/2026 10:21
 
 ## Categorias prioritárias
 
 - 📦 **Outros**: 17 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 💻 **Informática**: 16 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 🍼 **Mãe e Bebê**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 💻 **Informática**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 👜 **Bolsas**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 - 💄 **Beleza**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🏋️ **Esportes**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 👟 **Calçados**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 👜 **Bolsas**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 - 📱 **Celulares**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 🧸 **Brinquedos**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 👗 **Moda Feminina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 
 ## Top ofertas para destacar
 
-1. **Fraldas Calça SUMIKKO**
+1. **Mochila Faculdade Reforçada Compartimento Para Notebook Escolar Uniss…**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 32,90
+   - Desconto: 56% OFF
+   - Link: https://s.shopee.com.br/6L3UIvvZdW
+
+2. **Mochila CHL Bolsa Reforçada Notebook Impermeavel Material Premium Col…**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 39,99
+   - Desconto: 55% OFF
+   - Link: https://s.shopee.com.br/6fgKhXuIva
+
+3. **Mochila Escolar Impermeável Grande 45 L Notebook 17 Resistente Mascul…**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 29,90
+   - Desconto: 57% OFF
+   - Link: https://s.shopee.com.br/6Ak46cwCyT
+
+4. **Fraldas Calça SUMIKKO**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 69,00
    - Desconto: 65% OFF
    - Link: https://s.shopee.com.br/8V800y64Es
 
-2. **Chapinha Profissional Bivolt**
+5. **Chapinha Profissional Bivolt**
    - Categoria: Beleza
    - Loja: Mercado Livre
    - Preço: R$ 58,00
    - Desconto: 50% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB74602351?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-3. **Perfume Attracione Feminino**
+6. **Perfume Attracione Feminino**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 49,00
    - Desconto: 71% OFF
    - Link: https://s.shopee.com.br/1qb5k7NaGY
 
-4. **Attracione Men (Perfume Masculino com Feromônios Ativados)**
+7. **Attracione Men (Perfume Masculino com Feromônios Ativados)**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 59,00
    - Desconto: 80% OFF
    - Link: https://s.shopee.com.br/30n38GNkT5
 
-5. **Celular Samsung Galaxy A57 5G 128GB, 8GB RAM, Câmera Tripla de até 50MP OIS, Selfie de 12MP Video H…**
+8. **Celular Samsung Galaxy A57 5G 128GB, 8GB RAM, Câmera Tripla de até 50MP OIS, Selfie de 12MP Video H…**
    - Categoria: Celulares
    - Loja: Amazon
    - Preço: R$ 1.799,10
    - Desconto: 50% OFF
    - Link: https://link.amazon/B0cLFYprt
 
-6. **Mochila Couro PU Grande Executiva Para Notebook Trabalho Faculdade Re…**
+9. **Mochila Couro PU Grande Executiva Para Notebook Trabalho Faculdade Re…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 39,99
    - Desconto: 63% OFF
    - Link: https://s.shopee.com.br/60QduJwqJQ
 
-7. **Capa Maleta Notebook Macbook 15,6' / 13 / 14 / 17 Polegadas Rígida An…**
+10. **Capa Maleta Notebook Macbook 15,6' / 13 / 14 / 17 Polegadas Rígida An…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 29,22
    - Desconto: 58% OFF
    - Link: https://s.shopee.com.br/5VUNJOykKH
-
-8. **Calça Fralda SUMIKKO**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 69,00
-   - Desconto: 65% OFF
-   - Link: https://s.shopee.com.br/2qTabk66Vo
-
-9. **Barbeador Costas Masculino Dobrável**
-   - Categoria: Beleza
-   - Loja: Mercado Livre
-   - Preço: R$ 249,00
-   - Desconto: 33% OFF
-   - Link: https://www.mercadolivre.com.br/p/MLB51434487?matt_word=marylouse&matt_tool=50459180&forceInApp=true
-
-10. **Amplificador De Imagem Da Tela Do Celular Lupa 3D 21,6CM*16,6CM*2,7CM…**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 18,99
-   - Desconto: 36% OFF
-   - Link: https://s.shopee.com.br/19Q1yFJn6
 
 ## Ações gratuitas recomendadas
 

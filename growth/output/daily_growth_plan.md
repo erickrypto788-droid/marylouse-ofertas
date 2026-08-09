@@ -1,18 +1,18 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 09/08/2026 04:05
+Gerado em: 09/08/2026 04:21
 
 ## Categorias prioritárias
 
-- 📦 **Outros**: 19 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 📦 **Outros**: 18 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 💄 **Beleza**: 17 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 📱 **Celulares**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 👟 **Calçados**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 🍼 **Mãe e Bebê**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 💻 **Informática**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 👗 **Moda Feminina**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 🍳 **Casa e Cozinha**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
-- 🍼 **Mãe e Bebê**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 📱 **Celulares**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 🏋️ **Esportes**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 👟 **Calçados**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 🔌 **Eletrodomésticos**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-eletrodomesticos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_eletrodomesticos
 
 ## Top ofertas para destacar
@@ -80,12 +80,12 @@ Gerado em: 09/08/2026 04:05
    - Desconto: 50% OFF
    - Link: https://s.shopee.com.br/9fJvbrXpeg
 
-10. **Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com…**
+10. **Amplificador De Imagem Da Tela Do Celular Lupa 3D 21,6CM*16,6CM*2,7CM…**
    - Categoria: Celulares
    - Loja: Shopee
-   - Preço: R$ 19,79
-   - Desconto: 61% OFF
-   - Link: https://s.shopee.com.br/6fgJyDuL2L
+   - Preço: R$ 18,99
+   - Desconto: 36% OFF
+   - Link: https://s.shopee.com.br/19Q1yFJn6
 
 ## Ações gratuitas recomendadas
 

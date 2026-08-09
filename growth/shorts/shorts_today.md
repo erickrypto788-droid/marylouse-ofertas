@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 09/08/2026 04:05
+Gerado em: 09/08/2026 04:21
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 09/08/2026 04:05
 **Produtos usados:**
 
 - Calça Fralda SUMIKKO
+- Kit 4 Peças Infantil Verão Menino
 - Ninho Redutor de Berço 400 Fios
-- Fralda Descartável Huggies Máxima Proteção Tamanho G 160 unidades
 
 ---
 
@@ -103,8 +103,8 @@ Gerado em: 09/08/2026 04:05
 **Produtos usados:**
 
 - Samsung Galaxy Watch Ultra 2025 Smartwatch 47mm LTE, Galaxy AI, Titânio Aeroespacial, Titânio Cinza
-- Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com…
 - Celular Samsung Galaxy S25+ 5G, 256GB, 12GB RAM, Câmera Tripla de 50+12+10, Tela Grande de 6.7", Azul
+- Smartphone Motorola Moto g35 5G - 128GB 12GB (4GB RAM+8GB Ram Boost) e Camera 50MP com AI NFC Tela 6.7" com Superbrilho - Verde
 
 ---
 

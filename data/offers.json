@@ -1,5 +1,110 @@
 [
   {
+    "id": "177ff603fb70e3a708",
+    "title": "Monitor de Pressão Automático",
+    "raw_title": "Monitor digital de pressão arterial de braço totalmente automático jorge",
+    "description": "🚨 OFERTA IMPERDÍVEL! Cuide da sua saúde com tecnologia! 🩺 Chegou o Monitor digital de pressão arterial de braço totalmente automático! Tenha o controle...",
+    "marketplace": "Shopee",
+    "category": "Saúde",
+    "old_price": "R$ 121,84",
+    "price": "R$ 38,99",
+    "discount_percent": 68.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7rfgj-m9amfdsd1v53e7",
+    "affiliate_url": "https://s.shopee.com.br/5q7ElwIIZc",
+    "created_at": "09/08/2026 07:20",
+    "created_at_iso": "2026-08-09T07:20:04",
+    "created_ts": 1786260004,
+    "niche": {
+      "key": "shopee_saude",
+      "name": "Saúde"
+    }
+  },
+  {
+    "id": "c8d5d973b42eb79ecf",
+    "title": "Mini Balança Digital Cozinha",
+    "raw_title": "Mini Balança Digital De Cozinha Alta Precisão 0,1g Até 2000g",
+    "description": "🚨 Precisão que cabe no seu bolso! Tenha a medida exata para suas receitas com a Mini Balança Digital de Cozinha! 🧑‍🍳 Perfeita para ingredientes, tempero...",
+    "marketplace": "Shopee",
+    "category": "Saúde",
+    "old_price": "R$ 92,79",
+    "price": "R$ 25,98",
+    "discount_percent": 72.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-ma49suo8rq4n1f",
+    "affiliate_url": "https://s.shopee.com.br/AAGDvuF07u",
+    "created_at": "09/08/2026 07:18",
+    "created_at_iso": "2026-08-09T07:18:56",
+    "created_ts": 1786259936,
+    "niche": {
+      "key": "shopee_saude",
+      "name": "Saúde"
+    }
+  },
+  {
+    "id": "ae48c1d9466a015864",
+    "title": "Termômetro Digital Infravermelho",
+    "raw_title": "Termômetro De Testa Infravermelha Digital",
+    "description": "🚨 SÓ HOJE! Termômetro De Testa Infravermelha Digital com 79% OFF! 🌡️ Garanta a saúde da sua família com medições rápidas e precisas. Não perca essa chance!",
+    "marketplace": "Shopee",
+    "category": "Saúde",
+    "old_price": "R$ 119,14",
+    "price": "R$ 25,02",
+    "discount_percent": 79.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lycomxmsjbc571",
+    "affiliate_url": "https://s.shopee.com.br/AUt4KW5Cvo",
+    "created_at": "09/08/2026 07:17",
+    "created_at_iso": "2026-08-09T07:17:49",
+    "created_ts": 1786259869,
+    "niche": {
+      "key": "shopee_saude",
+      "name": "Saúde"
+    }
+  },
+  {
+    "id": "27a57ac28288840fe8",
+    "title": "Balança Digital Inteligente Bioimpedância",
+    "raw_title": "Balança Digital Inteligente: Medidor Corporal por Bioimpedância - Analisa Gordura, Massa Muscular, Peso até 180kg",
+    "description": "🚨 Imperdível! Sua saúde em outro nível! ✨ A Balança Digital Inteligente com Bioimpedância é a ferramenta perfeita para você acompanhar seu corpo de form...",
+    "marketplace": "Shopee",
+    "category": "Saúde",
+    "old_price": "R$ 99,94",
+    "price": "R$ 35,98",
+    "discount_percent": 64.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7ra2q-mb9ua7mhd30625",
+    "affiliate_url": "https://s.shopee.com.br/6pzlxmRgt4",
+    "created_at": "09/08/2026 07:16",
+    "created_at_iso": "2026-08-09T07:16:42",
+    "created_ts": 1786259802,
+    "niche": {
+      "key": "shopee_saude",
+      "name": "Saúde"
+    }
+  },
+  {
+    "id": "e8324f051f16ec56da",
+    "title": "Monitor de Pressão Arterial de Pulso",
+    "raw_title": "Monitor De Pressão Arterial De Pulso Recarregável Alta XYY-2551",
+    "description": "🩺 Saúde em primeiro lugar! Garanta já o seu Monitor De Pressão Arterial De Pulso Recarregável Alta XYY-2551 e tenha controle total da sua saúde no dia a...",
+    "marketplace": "Shopee",
+    "category": "Saúde",
+    "old_price": "R$ 199,45",
+    "price": "R$ 39,89",
+    "discount_percent": 80.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m94shi4qyr0902",
+    "affiliate_url": "https://s.shopee.com.br/7Kw2YhCaWt",
+    "created_at": "09/08/2026 07:15",
+    "created_at_iso": "2026-08-09T07:15:35",
+    "created_ts": 1786259735,
+    "niche": {
+      "key": "shopee_saude",
+      "name": "Saúde"
+    }
+  },
+  {
     "id": "ea23f535d34f0b72a5",
     "title": "Barbeador Costas Masculino Dobrável",
     "raw_title": "Barbeador Costas Masculino Traseiro Dobrável Aparador Pelos",

@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 09/08/2026 08:03
+Gerado em: 09/08/2026 08:22
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 09/08/2026 08:03
 
 **Produtos usados:**
 
+- Fraldas Calça SUMIKKO
 - Calça Fralda SUMIKKO
-- Kit 4 Peças Infantil Verão Menino
-- Ninho Redutor de Berço 400 Fios
+- Berço Portátil Moisés Co-bed
 
 ---
 
@@ -127,7 +127,7 @@ Gerado em: 09/08/2026 08:03
 **Produtos usados:**
 
 - Personal VIP - Papel Higiênico Folha Dupla, Branco 24 unidades
-- Amaciante Sensiv Titila 5L
 - Sabonete Natura Essencial Masculino
+- Darrow Suavié Sabonete Barra 70g
 
 ---

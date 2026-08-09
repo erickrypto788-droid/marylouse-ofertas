@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 09/08/2026 22:21
+Gerado em: 09/08/2026 23:21
 
 ## Como usar
 
@@ -78,9 +78,9 @@ Gerado em: 09/08/2026 22:21
 
 **Produtos usados:**
 
+- Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler…
 - Perfume Attracione Feminino
 - Attracione Men (Perfume Masculino com Feromônios Ativados)
-- Chapinha Profissional Bivolt
 
 ---
 

@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 09/08/2026 19:21
+Gerado em: 09/08/2026 20:11
 
 ## Como usar
 
@@ -126,8 +126,8 @@ Gerado em: 09/08/2026 19:21
 
 **Produtos usados:**
 
-- Sabonete Natura Essencial Masculino
-- Darrow Suavié Sabonete Barra 70g
-- Kit Higiene Bucal Completo (90 Peças)
+- Papel Higiênico Indaial Folha Dupla
+- Azeite Oliva Extra Virgem Português Vila Oliva 500ml (3 Un)
+- Detergente Sabão Lava Louça Pastilha + Lava Máquina Unik
 
 ---

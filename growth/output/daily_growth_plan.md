@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 09/08/2026 06:02
+Gerado em: 09/08/2026 06:21
 
 ## Categorias prioritárias
 
 - 🏋️ **Esportes**: 18 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 💄 **Beleza**: 17 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 📦 **Outros**: 17 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 👟 **Calçados**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 💻 **Informática**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 🍼 **Mãe e Bebê**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 💄 **Beleza**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 🍼 **Mãe e Bebê**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 👗 **Moda Feminina**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 📱 **Celulares**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 💻 **Informática**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 🧸 **Brinquedos**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 🍳 **Casa e Cozinha**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
-- 🔌 **Eletrodomésticos**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-eletrodomesticos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_eletrodomesticos
 
 ## Top ofertas para destacar
 
@@ -59,33 +59,33 @@ Gerado em: 09/08/2026 06:02
    - Desconto: 65% OFF
    - Link: https://s.shopee.com.br/2qTabk66Vo
 
-7. **Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler…**
-   - Categoria: Beleza
-   - Loja: Shopee
-   - Preço: R$ 36,99
-   - Desconto: 88% OFF
-   - Link: https://s.shopee.com.br/5fnmucuBRn
-
-8. **GOKOCO Escova Secadora 7 Em 1 GD032 Conjunto De Secador De Cabelo Mul…**
-   - Categoria: Beleza
-   - Loja: Shopee
-   - Preço: R$ 559,99
-   - Desconto: 57% OFF
-   - Link: https://s.shopee.com.br/7AcahNoTPC
-
-9. **Amplificador De Imagem Da Tela Do Celular Lupa 3D 21,6CM*16,6CM*2,7CM…**
+7. **Amplificador De Imagem Da Tela Do Celular Lupa 3D 21,6CM*16,6CM*2,7CM…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 18,99
    - Desconto: 36% OFF
    - Link: https://s.shopee.com.br/19Q1yFJn6
 
-10. **Celular Samsung Galaxy S25+ 5G, 256GB, 12GB RAM, Câmera Tripla de 50+12+10, Tela Grande de 6.7", Az…**
+8. **Celular Samsung Galaxy S25+ 5G, 256GB, 12GB RAM, Câmera Tripla de 50+12+10, Tela Grande de 6.7", Az…**
    - Categoria: Celulares
    - Loja: Amazon
    - Preço: R$ 4.499,00
    - Desconto: 44% OFF
    - Link: https://link.amazon/B0ccTKHTY
+
+9. **Fralda Descartável Huggies Máxima Proteção Tamanho G 160 unidades**
+   - Categoria: Mãe e Bebê
+   - Loja: Amazon
+   - Preço: R$ 159,90
+   - Desconto: 30% OFF
+   - Link: https://link.amazon/B010gmsvV
+
+10. **Smartphone Motorola Moto g35 5G - 128GB 12GB (4GB RAM+8GB Ram Boost) e Camera 50MP com AI NFC Tela…**
+   - Categoria: Celulares
+   - Loja: Amazon
+   - Preço: R$ 849,00
+   - Desconto: 43% OFF
+   - Link: https://link.amazon/B08PIFQjN
 
 ## Ações gratuitas recomendadas
 

@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 09/08/2026 16:05
+Gerado em: 09/08/2026 16:21
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Kit Body Splash Dolce + Florata Red 200ml Feminino.
+Calça Legging Flare Flanelada
 
-💸 De: R$ 99,72
-🔥 Por: R$ 35,90
-🏷️ 64% OFF
+💸 De: R$ 109,34
+🔥 Por: R$ 34,99
+🏷️ 68% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/1BLOwtQ7cM
+Ver oferta: https://s.shopee.com.br/30n2fQOFLg
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

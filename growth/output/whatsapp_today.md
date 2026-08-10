@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 10/08/2026 11:03
+Gerado em: 10/08/2026 11:22
 
 ## Como usar
 
@@ -42,37 +42,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 2 — Celulares e Tecnologia
-
-**Canal recomendado:** Celulares e Tecnologia
-
-**Horário sugerido:** 19:00 - 21:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
-
-**Texto pronto:**
-
-```txt
-📱 Oferta para Celulares e Tecnologia
-
-Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com…
-
-💸 De: R$ 50,74
-🔥 Por: R$ 19,79
-🏷️ 61% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/20uVoB4yrn
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 3 — Beleza e Cuidados
+## Post 2 — Beleza e Cuidados
 
 **Canal recomendado:** Beleza e Cuidados
 
@@ -102,7 +72,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Casa e Cozinha
+## Post 3 — Casa e Cozinha
 
 **Canal recomendado:** Casa e Cozinha
 
@@ -132,6 +102,36 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
+## Post 4 — Celulares e Tecnologia
+
+**Canal recomendado:** Celulares e Tecnologia
+
+**Horário sugerido:** 19:00 - 21:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
+
+**Texto pronto:**
+
+```txt
+📱 Oferta para Celulares e Tecnologia
+
+Cartao de Memoria 128Gb Micro SD ultra 100MB/s para celular e Câmera…
+
+💸 De: R$ 51,96
+🔥 Por: R$ 23,90
+🏷️ 54% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/9fJxfaG2OT
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
 ## Post 5 — Moda Feminina
 
 **Canal recomendado:** Moda Feminina
@@ -147,14 +147,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Calça Pantalona Plus Size Feminina Com Bolso Elástico Na Cintura Teci…
+Segunda Pele Térmica Frio Intenso
 
-💸 De: R$ 109,06
-🔥 Por: R$ 35,99
+💸 De: R$ 90,61
+🔥 Por: R$ 29,90
 🏷️ 67% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/AKZdX81dio
+Ver oferta: https://s.shopee.com.br/9pdPOfv2ub
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

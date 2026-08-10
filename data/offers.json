@@ -1,5 +1,39 @@
 [
   {
+    "id": "d766fb3c7a6a34de82",
+    "title": "Soundbar Samsung Hw-q990f + Soundbar Hw-b400f",
+    "raw_title": "Soundbar Samsung Hw-q990f + Soundbar Hw-b400f",
+    "description": "🔥 Oferta encontrada! 📌 Soundbar Samsung Hw-q990f + Soundbar Hw-b400f Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "",
+    "price": "R$ 7.349,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_983158-MLA106538972464_022026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65564566?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "10/08/2026 23:02",
+    "created_at_iso": "2026-08-10T23:02:19",
+    "created_ts": 1786402939
+  },
+  {
+    "id": "d7a98d10407ea4201a",
+    "title": "Fone Bluetooth Redmi",
+    "raw_title": "Fone Bluetooth Redmi",
+    "description": "🔥 25% OFF — Oferta encontrada! 📌 Fone Bluetooth Redmi Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "R$ 34,20",
+    "price": "R$ 25,65",
+    "discount_percent": 25.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_918309-MLA97869219589_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62010143?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "10/08/2026 23:01",
+    "created_at_iso": "2026-08-10T23:01:15",
+    "created_ts": 1786402875
+  },
+  {
     "id": "40e2d6579a12804bba",
     "title": "Monitor digital de pressão arterial de braço totalmente automático j…",
     "raw_title": "Monitor digital de pressão arterial de braço totalmente automático jorge",
@@ -3225,27 +3259,6 @@
     "niche": {
       "key": "shopee_beleza",
       "name": "Beleza"
-    }
-  },
-  {
-    "id": "31a9f8305980f848be",
-    "title": "Aspirador de Pó Doméstico 3 em 1 Sem Fio Limpeza Sucção USB",
-    "raw_title": "Aspirador de Pó Doméstico 3 em 1 Sem Fio Limpeza Sucção USB",
-    "description": "🔥 34% OFF — Oferta encontrada! 📌 Aspirador de Pó Doméstico 3 em 1 Sem Fio Limpeza Sucção USB Confira os detalhes e aproveite enquanto a oferta estiver d...",
-    "marketplace": "Shopee",
-    "category": "Eletrodomésticos",
-    "old_price": "R$ 119,68",
-    "price": "R$ 78,99",
-    "discount_percent": 34.0,
-    "rating": 4.5,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkcpafgpgav67f",
-    "affiliate_url": "https://s.shopee.com.br/LmHtEZuXB",
-    "created_at": "09/08/2026 22:19",
-    "created_at_iso": "2026-08-09T22:19:51",
-    "created_ts": 1786313991,
-    "niche": {
-      "key": "shopee_eletrodomesticos",
-      "name": "Eletrodomésticos"
     }
   }
 ]

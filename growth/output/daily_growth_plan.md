@@ -1,91 +1,91 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 10/08/2026 06:05
+Gerado em: 10/08/2026 06:21
 
 ## Categorias prioritárias
 
-- 🍼 **Mãe e Bebê**: 18 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 💻 **Informática**: 17 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 💻 **Informática**: 19 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 🍼 **Mãe e Bebê**: 17 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 👜 **Bolsas**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 - 📱 **Celulares**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - ❤️ **Saúde**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 👟 **Calçados**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 👜 **Bolsas**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 - 💄 **Beleza**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 🧸 **Brinquedos**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 🏋️ **Esportes**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 🐶 **Pet**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
+- 📦 **Outros**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 
 ## Top ofertas para destacar
 
-1. **SUMIKKO Calça Fraldas 50 e 100 unidade Baby Ajustável total max P/M/G…**
+1. **Mochila Couro PU Grande Executiva Para Notebook Trabalho Faculdade Re…**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 38,98
+   - Desconto: 64% OFF
+   - Link: https://s.shopee.com.br/3B6V7oMB6L
+
+2. **Capa Maleta Notebook Macbook 15,6' / 13 / 14 / 17 Polegadas Rígida An…**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 29,22
+   - Desconto: 58% OFF
+   - Link: https://s.shopee.com.br/3LPvK7LXlK
+
+3. **SUMIKKO Calça Fraldas 50 e 100 unidade Baby Ajustável total max P/M/G…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 69,00
    - Desconto: 65% OFF
    - Link: https://s.shopee.com.br/AAGFKRUDir
 
-2. **Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…**
+4. **Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 26,99
    - Desconto: 55% OFF
    - Link: https://s.shopee.com.br/7Acdkvfdo7
 
-3. **GOKOCO Escova Secadora 7 Em 1 GD032 Conjunto De Secador De Cabelo Mul…**
+5. **GOKOCO Escova Secadora 7 Em 1 GD032 Conjunto De Secador De Cabelo Mul…**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 595,00
    - Desconto: 54% OFF
    - Link: https://s.shopee.com.br/60Qg2AlhOI
 
-4. **Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler…**
+6. **Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler…**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 37,80
    - Desconto: 87% OFF
    - Link: https://s.shopee.com.br/5q7FprmKjB
 
-5. **Panela De Pressão 4,5litros Panelux Linha Classic Alto Brilho A Mais…**
+7. **Panela De Pressão 4,5litros Panelux Linha Classic Alto Brilho A Mais…**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 57,90
    - Desconto: 50% OFF
    - Link: https://s.shopee.com.br/3g2jrMRl7U
 
-6. **Mesa Notebook Ergonômica Multiuso Altura Regulável Rodinhas Mesa Escr…**
+8. **Mesa Notebook Ergonômica Multiuso Altura Regulável Rodinhas Mesa Escr…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 79,90
    - Desconto: 80% OFF
    - Link: https://s.shopee.com.br/904GsMIZkP
 
-7. **Cartao de Memoria 128Gb Micro SD ultra 100MB/s para celular e Câmera…**
+9. **Cartao de Memoria 128Gb Micro SD ultra 100MB/s para celular e Câmera…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 23,90
    - Desconto: 54% OFF
    - Link: https://s.shopee.com.br/9fJxfaG2OT
 
-8. **Mesa Dobrável Notebook Retrátil Home Office Apoio Cama Sofá Trabalho…**
+10. **Mesa Dobrável Notebook Retrátil Home Office Apoio Cama Sofá Trabalho…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 37,99
    - Desconto: 57% OFF
    - Link: https://s.shopee.com.br/9V0XTHGfjS
-
-9. **Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com…**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 19,79
-   - Desconto: 61% OFF
-   - Link: https://s.shopee.com.br/20uVoB4yrn
-
-10. **Mochila Faculdade Reforçada Compartimento Para Notebook Escolar Uniss…**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 32,90
-   - Desconto: 56% OFF
-   - Link: https://s.shopee.com.br/6L3UIvvZdW
 
 ## Ações gratuitas recomendadas
 

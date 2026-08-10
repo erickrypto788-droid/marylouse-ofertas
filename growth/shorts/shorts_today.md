@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 10/08/2026 12:22
+Gerado em: 10/08/2026 13:12
 
 ## Como usar
 
@@ -127,7 +127,7 @@ Gerado em: 10/08/2026 12:22
 **Produtos usados:**
 
 - Papel Higiênico Indaial Folha Dupla
-- Azeite Oliva Extra Virgem Português Vila Oliva 500ml (3 Un)
-- Detergente Sabão Lava Louça Pastilha + Lava Máquina Unik
+- Azeite Oliva Extra Virgem Italiano 500ml Mercatto
+- Amaciante Roupas Macias Sensiv Titila 5l
 
 ---

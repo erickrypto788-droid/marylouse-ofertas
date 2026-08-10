@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 10/08/2026 15:21
+Gerado em: 10/08/2026 16:22
 
 ## Como usar
 
@@ -102,9 +102,9 @@ Gerado em: 10/08/2026 15:21
 
 **Produtos usados:**
 
+- Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com…
+- Fone de Ouvido entrada lightning para Iphone Microfone Bluetooth
 - Capa Capinha Magnética Space Transparente Anti Impacto TPU Case Apple…
-- Carregador iPhone Turbo + Cabo
-- Kit 3 Shorts Academia 2 em 1
 
 ---
 

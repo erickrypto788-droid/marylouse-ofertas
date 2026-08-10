@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 10/08/2026 23:04
+Gerado em: 10/08/2026 23:21
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 10/08/2026 23:04
 
 **Produtos usados:**
 
+- SUMIKKO 50 e 100 unidades Infantil Calça Fraldas Ajustável total max…
 - SUMIKKO Calça Fraldas 50 e 100 unidade Baby Ajustável total max P/M/G…
 - Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…
-- Kit 4 Peças Infantil Verão
 
 ---
 
@@ -80,7 +80,7 @@ Gerado em: 10/08/2026 23:04
 
 - Perfume Attracione Feminino by Attracione Woman Mulher
 - Perfume Attracione Men com Feromônios
-- Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler…
+- Corretivo Líquido Under Eye 10 ML - Ruby Kisses
 
 ---
 

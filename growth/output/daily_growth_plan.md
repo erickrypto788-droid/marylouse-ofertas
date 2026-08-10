@@ -1,14 +1,14 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 10/08/2026 23:04
+Gerado em: 10/08/2026 23:21
 
 ## Categorias prioritárias
 
-- 💄 **Beleza**: 17 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 🍼 **Mãe e Bebê**: 18 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🏋️ **Esportes**: 16 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 💻 **Informática**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 👟 **Calçados**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 🍼 **Mãe e Bebê**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 💄 **Beleza**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - ❤️ **Saúde**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 🧸 **Brinquedos**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
@@ -17,75 +17,75 @@ Gerado em: 10/08/2026 23:04
 
 ## Top ofertas para destacar
 
-1. **Perfume Attracione Feminino by Attracione Woman Mulher**
+1. **SUMIKKO 50 e 100 unidades Infantil Calça Fraldas Ajustável total max…**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 69,00
+   - Desconto: 65% OFF
+   - Link: https://s.shopee.com.br/6L3WlOioV0
+
+2. **Perfume Attracione Feminino by Attracione Woman Mulher**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 49,00
    - Desconto: 71% OFF
    - Link: https://s.shopee.com.br/1qb74VwsxC
 
-2. **Perfume Attracione Men com Feromônios**
+3. **Perfume Attracione Men com Feromônios**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 59,00
    - Desconto: 80% OFF
    - Link: https://s.shopee.com.br/2qTfWeU44j
 
-3. **Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com…**
+4. **Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 19,99
    - Desconto: 61% OFF
    - Link: https://s.shopee.com.br/1VyHnyuEB1
 
-4. **Mochila Couro PU Grande Executiva Para Notebook Trabalho Faculdade Re…**
+5. **Mochila Couro PU Grande Executiva Para Notebook Trabalho Faculdade Re…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 38,98
    - Desconto: 64% OFF
    - Link: https://s.shopee.com.br/3B6V7oMB6L
 
-5. **Capa Maleta Notebook Macbook 15,6' / 13 / 14 / 17 Polegadas Rígida An…**
+6. **Capa Maleta Notebook Macbook 15,6' / 13 / 14 / 17 Polegadas Rígida An…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 29,22
    - Desconto: 58% OFF
    - Link: https://s.shopee.com.br/3LPvK7LXlK
 
-6. **SUMIKKO Calça Fraldas 50 e 100 unidade Baby Ajustável total max P/M/G…**
+7. **SUMIKKO Calça Fraldas 50 e 100 unidade Baby Ajustável total max P/M/G…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 69,00
    - Desconto: 65% OFF
    - Link: https://s.shopee.com.br/AAGFKRUDir
 
-7. **Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…**
+8. **Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 26,99
    - Desconto: 55% OFF
    - Link: https://s.shopee.com.br/7Acdkvfdo7
 
-8. **GOKOCO Escova Secadora 7 Em 1 GD032 Conjunto De Secador De Cabelo Mul…**
-   - Categoria: Beleza
-   - Loja: Shopee
-   - Preço: R$ 595,00
-   - Desconto: 54% OFF
-   - Link: https://s.shopee.com.br/60Qg2AlhOI
-
-9. **Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler…**
-   - Categoria: Beleza
-   - Loja: Shopee
-   - Preço: R$ 37,80
-   - Desconto: 87% OFF
-   - Link: https://s.shopee.com.br/5q7FprmKjB
-
-10. **Amplificador De Imagem Da Tela Do Celular Lupa 3D 21,6CM*16,6CM*2,7CM…**
+9. **Amplificador De Imagem Da Tela Do Celular Lupa 3D 21,6CM*16,6CM*2,7CM…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 18,99
    - Desconto: 36% OFF
    - Link: https://s.shopee.com.br/19Q1yFJn6
+
+10. **Berço De Balanço Bebês Colchão Mosquiteiro Cesto Até 50kg Ergonômico…**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 639,90
+   - Desconto: 79% OFF
+   - Link: https://s.shopee.com.br/2gAFewc9M7
 
 ## Ações gratuitas recomendadas
 

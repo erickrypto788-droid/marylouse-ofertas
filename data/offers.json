@@ -1,5 +1,110 @@
 [
   {
+    "id": "53a0f041e957d67106",
+    "title": "Chaleira Elétrica Inox 1.8L",
+    "raw_title": "Chaleira Elétrica Jarra 1.8L Café Chá Inox 220v",
+    "description": "⚡️ Água quente em segundos para seu café ou chá! Chega de esperar! Com a Chaleira Elétrica Jarra 1.8L de Inox 220v, suas bebidas favoritas ficam prontas...",
+    "marketplace": "Shopee",
+    "category": "Bebidas e Alimentos",
+    "old_price": "R$ 99,98",
+    "price": "R$ 46,99",
+    "discount_percent": 53.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820l8-mrk47ehpkr9j88",
+    "affiliate_url": "https://s.shopee.com.br/4fvJ6vf9DW",
+    "created_at": "10/08/2026 09:20",
+    "created_at_iso": "2026-08-10T09:20:17",
+    "created_ts": 1786353617,
+    "niche": {
+      "key": "shopee_bebidas_alimentos",
+      "name": "Bebidas e Alimentos"
+    }
+  },
+  {
+    "id": "c167ff05102080df52",
+    "title": "Creatina Dark Lab 300g Pura",
+    "raw_title": "Creatina Monohidratada Pura 300g Dark Lab - 100% Pura",
+    "description": "⚡️ GANHE FORÇA E MASSA MUSCULAR! A Creatina Monohidratada Pura 300g Dark Lab é 100% pura e perfeita para você que busca resultados reais nos treinos! 💪...",
+    "marketplace": "Shopee",
+    "category": "Bebidas e Alimentos",
+    "old_price": "R$ 75,28",
+    "price": "R$ 39,90",
+    "discount_percent": 47.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzavjbelk90577",
+    "affiliate_url": "https://s.shopee.com.br/3VjLimwziE",
+    "created_at": "10/08/2026 09:19",
+    "created_at_iso": "2026-08-10T09:19:07",
+    "created_ts": 1786353547,
+    "niche": {
+      "key": "shopee_bebidas_alimentos",
+      "name": "Bebidas e Alimentos"
+    }
+  },
+  {
+    "id": "feae67cae5d36506a0",
+    "title": "Creatina Soldiers Nutrition",
+    "raw_title": "Creatina Suplemento Monohidratada em Pó 100% Pura Importada - Soldiers Nutrition",
+    "description": "💪🔥 MEGA OFERTA: Creatina Pura Soldiers Nutrition! Turbine seus treinos com a Creatina Monohidratada 100% Pura e Importada da Soldiers Nutrition! Qualida...",
+    "marketplace": "Shopee",
+    "category": "Bebidas e Alimentos",
+    "old_price": "R$ 92,22",
+    "price": "R$ 24,90",
+    "discount_percent": 73.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m9-mpwm1rqctatfc5",
+    "affiliate_url": "https://s.shopee.com.br/W5k9H8PnQ",
+    "created_at": "10/08/2026 09:17",
+    "created_at_iso": "2026-08-10T09:17:56",
+    "created_ts": 1786353476,
+    "niche": {
+      "key": "shopee_bebidas_alimentos",
+      "name": "Bebidas e Alimentos"
+    }
+  },
+  {
+    "id": "93746947260426ee81",
+    "title": "Filtro Coador de Café Inox 103",
+    "raw_title": "Filtro Coador De Café Inox 103 - Com Pegador em Silicone - Peneira Aço Reutilizável - CH",
+    "description": "☕️ Seu café merece o melhor! E seu bolso também! 👇 Chega de gastar com filtro de papel! Tenha um café delicioso e sustentável com o Filtro Coador de Caf...",
+    "marketplace": "Shopee",
+    "category": "Bebidas e Alimentos",
+    "old_price": "R$ 90,00",
+    "price": "R$ 27,90",
+    "discount_percent": 69.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m3gpzu9ozvaw87",
+    "affiliate_url": "https://s.shopee.com.br/W5k9Gv0fd",
+    "created_at": "10/08/2026 09:16",
+    "created_at_iso": "2026-08-10T09:16:49",
+    "created_ts": 1786353409,
+    "niche": {
+      "key": "shopee_bebidas_alimentos",
+      "name": "Bebidas e Alimentos"
+    }
+  },
+  {
+    "id": "4d09375dd6e2839af2",
+    "title": "NAC Antioxidante Fígado",
+    "raw_title": "NAC Antioxidante Fígado N-Acetil L-Cisteína 500mg - 60 Cápsulas Original",
+    "description": "✨ IMPERDÍVEL! Cuide do seu fígado! 💪 NAC Antioxidante Fígado N-Acetil L-Cisteína 500mg - 60 Cápsulas Original. Aproveite para fortalecer sua saúde com e...",
+    "marketplace": "Shopee",
+    "category": "Bebidas e Alimentos",
+    "old_price": "R$ 122,17",
+    "price": "R$ 21,99",
+    "discount_percent": 82.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m2-moev8r8rmscl9c",
+    "affiliate_url": "https://s.shopee.com.br/3g2lv5wMNF",
+    "created_at": "10/08/2026 09:15",
+    "created_at_iso": "2026-08-10T09:15:39",
+    "created_ts": 1786353339,
+    "niche": {
+      "key": "shopee_bebidas_alimentos",
+      "name": "Bebidas e Alimentos"
+    }
+  },
+  {
     "id": "e80ae7f981b093753a",
     "title": "Ração Premier Gato Castrado +12 Anos 500g",
     "raw_title": "Ração Gato Castrado Frango +12 Anos 500g Premier",
@@ -3166,110 +3271,5 @@
     "created_at": "09/08/2026 10:01",
     "created_at_iso": "2026-08-09T10:01:31",
     "created_ts": 1786269691
-  },
-  {
-    "id": "15637706aee0981e47",
-    "title": "Mochila de Viagem Feminina Multifuncional",
-    "raw_title": "Mochila De Viagem Feminina Multifuncional Impermeável Reforçada Expansível para Trilha Esportiva",
-    "description": "✈️ VIAJE COM ESTILO E ECONOMIA! 🚀 Chegou a Mochila De Viagem Feminina Multifuncional que você precisava! Impermeável, reforçada e expansível, ideal para...",
-    "marketplace": "Shopee",
-    "category": "Bolsas Femininas",
-    "old_price": "R$ 705,76",
-    "price": "R$ 119,98",
-    "discount_percent": 83.0,
-    "rating": 5.0,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820la-mmi9yl6sgi6819",
-    "affiliate_url": "https://s.shopee.com.br/9fJxTDzsia",
-    "created_at": "09/08/2026 09:20",
-    "created_at_iso": "2026-08-09T09:20:02",
-    "created_ts": 1786267202,
-    "niche": {
-      "key": "shopee_bolsas_femininas",
-      "name": "Bolsas Femininas"
-    }
-  },
-  {
-    "id": "8666e9621c94e18e9e",
-    "title": "Bolsa TOMI MITO Feminina",
-    "raw_title": "TOMI MITO Bolsa Feminina com Alça Lateral Transversal Faixa de Mão de Couro B736",
-    "description": "🚨 OFERTA RELÂMPAGO! Arrase no look com a Bolsa TOMI MITO Feminina! Estilo e praticidade com alça lateral e transversal. ✨",
-    "marketplace": "Shopee",
-    "category": "Bolsas Femininas",
-    "old_price": "R$ 130,41",
-    "price": "R$ 59,99",
-    "discount_percent": 54.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-824hz-mpj8tt3gjlkx51",
-    "affiliate_url": "https://s.shopee.com.br/3VjK7tJ1iU",
-    "created_at": "09/08/2026 09:18",
-    "created_at_iso": "2026-08-09T09:18:54",
-    "created_ts": 1786267134,
-    "niche": {
-      "key": "shopee_bolsas_femininas",
-      "name": "Bolsas Femininas"
-    }
-  },
-  {
-    "id": "6d86972f5303efcc44",
-    "title": "Bolsa Feminina TOMI MITO",
-    "raw_title": "TOMI MITO Bolsa Feminina Casual de Ombro com Estampa Geométrica e Pingente Charmoso para Trabalho e Passeios TM9187",
-    "description": "🚨 IMPERDÍVEL! Bolsa TOMI MITO com 55% OFF! 🤩 Estilo e praticidade para o seu dia a dia! Bolsa Feminina Casual de Ombro com Estampa Geométrica e Pingente...",
-    "marketplace": "Shopee",
-    "category": "Bolsas Femininas",
-    "old_price": "R$ 111,09",
-    "price": "R$ 49,99",
-    "discount_percent": 55.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ld-mrfa92h09hc401",
-    "affiliate_url": "https://s.shopee.com.br/2qTdKfLZ4Q",
-    "created_at": "09/08/2026 09:17",
-    "created_at_iso": "2026-08-09T09:17:47",
-    "created_ts": 1786267067,
-    "niche": {
-      "key": "shopee_bolsas_femininas",
-      "name": "Bolsas Femininas"
-    }
-  },
-  {
-    "id": "7c3982118efd8aee0a",
-    "title": "Bolsa Feminina Elegante",
-    "raw_title": "Bolsa de Ombra Feminina com Alça Ajustável, Bolsa Feminina Elegante com Couro Sintetico Preto, Presente",
-    "description": "✨ ESTILO E ECONOMIA! ✨ Bolsa de Ombro Feminina Elegante com Alça Ajustável. Perfeita para qualquer ocasião!",
-    "marketplace": "Shopee",
-    "category": "Bolsas Femininas",
-    "old_price": "R$ 304,26",
-    "price": "R$ 69,98",
-    "discount_percent": 77.0,
-    "rating": 5.0,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820l8-mnwcoooh21a9da",
-    "affiliate_url": "https://s.shopee.com.br/4fvHW2EaLr",
-    "created_at": "09/08/2026 09:16",
-    "created_at_iso": "2026-08-09T09:16:39",
-    "created_ts": 1786266999,
-    "niche": {
-      "key": "shopee_bolsas_femininas",
-      "name": "Bolsas Femininas"
-    }
-  },
-  {
-    "id": "414b0789a2c5f092d1",
-    "title": "Mochila Feminina Casual",
-    "raw_title": "Mochila feminina casual e versátil leve e à prova d'água com grande capacidade para estudantes",
-    "description": "✨ Mochila Versátil com 68% OFF! 🎒 Perfeita para o dia a dia, faculdade ou trabalho. Leve, espaçosa e à prova d'água para você ter estilo e praticidade!",
-    "marketplace": "Shopee",
-    "category": "Bolsas Femininas",
-    "old_price": "R$ 156,09",
-    "price": "R$ 49,95",
-    "discount_percent": 68.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m78ryz9a1t4i9a",
-    "affiliate_url": "https://s.shopee.com.br/9Kh74c19OY",
-    "created_at": "09/08/2026 09:15",
-    "created_at_iso": "2026-08-09T09:15:31",
-    "created_ts": 1786266931,
-    "niche": {
-      "key": "shopee_bolsas_femininas",
-      "name": "Bolsas Femininas"
-    }
   }
 ]

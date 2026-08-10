@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 10/08/2026 15:06
+Gerado em: 10/08/2026 15:21
 
 ## Como usar
 
@@ -104,7 +104,7 @@ Gerado em: 10/08/2026 15:06
 
 - Capa Capinha Magnética Space Transparente Anti Impacto TPU Case Apple…
 - Carregador iPhone Turbo + Cabo
-- Gamesir T4 Nova Lite Controlador De Jogo Sem Fio Multiplataforma Efei…
+- Kit 3 Shorts Academia 2 em 1
 
 ---
 

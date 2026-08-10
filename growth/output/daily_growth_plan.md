@@ -1,16 +1,16 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 10/08/2026 12:02
+Gerado em: 10/08/2026 12:22
 
 ## Categorias prioritárias
 
-- 💻 **Informática**: 16 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 💻 **Informática**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 👗 **Moda Feminina**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 🍼 **Mãe e Bebê**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 📦 **Outros**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 👟 **Calçados**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 📱 **Celulares**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 📦 **Outros**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 🐶 **Pet**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
+- 👕 **Moda Masculina**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 - ❤️ **Saúde**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 💄 **Beleza**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🏋️ **Esportes**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
@@ -66,26 +66,26 @@ Gerado em: 10/08/2026 12:02
    - Desconto: 50% OFF
    - Link: https://s.shopee.com.br/3g2jrMRl7U
 
-8. **Mesa Notebook Ergonômica Multiuso Altura Regulável Rodinhas Mesa Escr…**
-   - Categoria: Informática
+8. **Kit 3 Perfumes Malbec Masculino Importado Aroma Marcante Essência Al…**
+   - Categoria: Beleza
    - Loja: Shopee
-   - Preço: R$ 79,90
-   - Desconto: 80% OFF
-   - Link: https://s.shopee.com.br/904GsMIZkP
+   - Preço: R$ 31,90
+   - Desconto: 47% OFF
+   - Link: https://s.shopee.com.br/3LPtWsMTnB
 
-9. **Cartao de Memoria 128Gb Micro SD ultra 100MB/s para celular e Câmera…**
-   - Categoria: Celulares
+9. **Controlador Sem Fio Com Vibração Bluetooth One Game Ones XBOX Control…**
+   - Categoria: Pet
    - Loja: Shopee
-   - Preço: R$ 23,90
-   - Desconto: 54% OFF
-   - Link: https://s.shopee.com.br/9fJxfaG2OT
+   - Preço: R$ 233,80
+   - Desconto: 33% OFF
+   - Link: https://s.shopee.com.br/40fZn80ess
 
-10. **Mesa Dobrável Notebook Retrátil Home Office Apoio Cama Sofá Trabalho…**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 37,99
-   - Desconto: 57% OFF
-   - Link: https://s.shopee.com.br/9V0XTHGfjS
+10. **Comedouro Elevado Duplo Ração Gato Porcelana Acrilico 190ml Porta Rac…**
+   - Categoria: Pet
+   - Loja: Mercado Livre
+   - Preço: R$ 49,90
+   - Desconto: 37% OFF
+   - Link: https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ## Ações gratuitas recomendadas
 

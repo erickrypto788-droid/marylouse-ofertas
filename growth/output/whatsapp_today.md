@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 10/08/2026 12:02
+Gerado em: 10/08/2026 12:22
 
 ## Como usar
 
@@ -102,37 +102,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Celulares e Tecnologia
-
-**Canal recomendado:** Celulares e Tecnologia
-
-**Horário sugerido:** 19:00 - 21:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
-
-**Texto pronto:**
-
-```txt
-📱 Oferta para Celulares e Tecnologia
-
-Cartao de Memoria 128Gb Micro SD ultra 100MB/s para celular e Câmera…
-
-💸 De: R$ 51,96
-🔥 Por: R$ 23,90
-🏷️ 54% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/9fJxfaG2OT
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 5 — Moda Feminina
+## Post 4 — Moda Feminina
 
 **Canal recomendado:** Moda Feminina
 
@@ -155,6 +125,36 @@ Segunda Pele Térmica Frio Intenso
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/9pdPOfv2ub
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 5 — Celulares e Tecnologia
+
+**Canal recomendado:** Celulares e Tecnologia
+
+**Horário sugerido:** 19:00 - 21:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
+
+**Texto pronto:**
+
+```txt
+📱 Oferta para Celulares e Tecnologia
+
+Capa Capinha Magnética Space Transparente Anti Impacto TPU Case Apple…
+
+💸 De: R$ 29,70
+🔥 Por: R$ 10,99
+🏷️ 63% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/3qM9zXpTdt
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 10/08/2026 11:22
+Gerado em: 10/08/2026 12:22
 
 ## Como usar
 
@@ -102,9 +102,9 @@ Gerado em: 10/08/2026 11:22
 
 **Produtos usados:**
 
-- Cartao de Memoria 128Gb Micro SD ultra 100MB/s para celular e Câmera…
 - Capa Capinha Magnética Space Transparente Anti Impacto TPU Case Apple…
 - Carregador iPhone Turbo + Cabo
+- Gamesir T4 Nova Lite Controlador De Jogo Sem Fio Multiplataforma Efei…
 
 ---
 

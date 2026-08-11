@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 11/08/2026 03:21
+Gerado em: 11/08/2026 04:21
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 11/08/2026 03:21
 **Produtos usados:**
 
 - SUMIKKO 50 e 100 unidades Infantil Calça Fraldas Ajustável total max…
-- SUMIKKO Calça Fraldas 50 e 100 unidade Baby Ajustável total max P/M/G…
-- Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…
+- Lixa de Unha Elétrico Aparador Cortador Para Bebê Infantil Com Estojo
+- Berço De Balanço Bebês Colchão Mosquiteiro Cesto Até 50kg Ergonômico…
 
 ---
 

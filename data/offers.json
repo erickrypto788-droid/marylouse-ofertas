@@ -1,5 +1,22 @@
 [
   {
+    "id": "188e91ecb1674f3852",
+    "title": "Oxímetro de Pulso Digital",
+    "raw_title": "Oxímetro, oxímetro de pulso, oxigênio, coração pediátrico para adultos",
+    "description": "🚨 CUIDE DA SUA SAÚDE! Monitore seu bem-estar com o Oxímetro de Pulso Digital! Perfeito para acompanhar oxigênio e batimentos cardíacos de adultos e cria...",
+    "marketplace": "Mercado Livre",
+    "category": "Saúde",
+    "old_price": "",
+    "price": "R$ 49,90",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_652342-MLU77835186881_072024-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21775692?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "11/08/2026 02:01",
+    "created_at_iso": "2026-08-11T02:01:14",
+    "created_ts": 1786413674
+  },
+  {
     "id": "73d9931e345e044f9a",
     "title": "Mochila Faculdade Reforçada Compartimento Para Notebook Escolar Uniss…",
     "raw_title": "Mochila Faculdade Reforçada Compartimento Para Notebook Escolar Unissex Diversas Cores",
@@ -3209,26 +3226,5 @@
     "created_at": "10/08/2026 02:01",
     "created_at_iso": "2026-08-10T02:01:30",
     "created_ts": 1786327290
-  },
-  {
-    "id": "208f9b7c45dc01bcde",
-    "title": "Kit 3 Garrafas Squeeze Motivacionais Garrafa Água Academia Com 1.2L e…",
-    "raw_title": "Kit 3 Garrafas Squeeze Motivacionais Garrafa Água Academia Com 1.2L e 800ml e 300ml copo stanley canudo",
-    "description": "🔥 55% OFF — Oferta encontrada! 📌 Kit 3 Garrafas Squeeze Motivacionais Garrafa Água Academia Com 1.2L e 800ml e 300ml copo stanley canudo Confira os deta...",
-    "marketplace": "Shopee",
-    "category": "Esportes e Lazer",
-    "old_price": "R$ 59,56",
-    "price": "R$ 26,80",
-    "discount_percent": 55.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820mg-mpm14y3pmtj685",
-    "affiliate_url": "https://s.shopee.com.br/2VqlLAV3Ye",
-    "created_at": "10/08/2026 01:19",
-    "created_at_iso": "2026-08-10T01:19:58",
-    "created_ts": 1786324798,
-    "niche": {
-      "key": "shopee_esportes_lazer",
-      "name": "Esportes e Lazer"
-    }
   }
 ]

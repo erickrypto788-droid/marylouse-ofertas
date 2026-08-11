@@ -1,5 +1,22 @@
 [
   {
+    "id": "890941901c82fc8f17",
+    "title": "Liquidificador portátil, Mini liquidificador recarregável USB, Liquid…",
+    "raw_title": "Liquidificador portátil, Mini liquidificador recarregável USB, Liquidificador",
+    "description": "🔥 Oferta encontrada! 📌 Liquidificador portátil, Mini liquidificador recarregável USB, Liquidificador Confira os detalhes e aproveite enquanto a oferta e...",
+    "marketplace": "Mercado Livre",
+    "category": "Casa e Cozinha",
+    "old_price": "",
+    "price": "R$ 98,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_887284-MLU78285122081_082024-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB38338044?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "11/08/2026 14:01",
+    "created_at_iso": "2026-08-11T14:01:39",
+    "created_ts": 1786456899
+  },
+  {
     "id": "3960f0a3c287c83506",
     "title": "Suporte Celular Tablet Com Braço Articulado Universal Ajustável e Ref…",
     "raw_title": "Suporte Celular Tablet Com Braço Articulado Universal Ajustável e Reforçado Para Mesa e Cama Apoio Leitura Compativel com iPhone Ipad Samsung Kindle e Outros",
@@ -2979,26 +2996,5 @@
     "created_at": "10/08/2026 14:02",
     "created_at_iso": "2026-08-10T14:02:36",
     "created_ts": 1786370556
-  },
-  {
-    "id": "c75fbeee86e1e2274e",
-    "title": "Jaqueta Feminina Couro Sintético Plus Size",
-    "raw_title": "Jaqueta Feminina Couro Sintético Plus Size",
-    "description": "🔥 50% OFF — Oferta encontrada! 📌 Jaqueta Feminina Couro Sintético Plus Size Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Shopee",
-    "category": "Roupas Plus Size",
-    "old_price": "R$ 95,46",
-    "price": "R$ 47,73",
-    "discount_percent": 50.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lwt0bqt2dscf05",
-    "affiliate_url": "https://s.shopee.com.br/AAGFvWuQBh",
-    "created_at": "10/08/2026 13:20",
-    "created_at_iso": "2026-08-10T13:20:04",
-    "created_ts": 1786368004,
-    "niche": {
-      "key": "shopee_roupas_plus_size",
-      "name": "Roupas Plus Size"
-    }
   }
 ]

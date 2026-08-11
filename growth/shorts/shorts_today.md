@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 11/08/2026 23:05
+Gerado em: 11/08/2026 23:21
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 11/08/2026 23:05
 
 **Produtos usados:**
 
-- SUMIKKO 50 e 100 unidades Infantil Calça Fraldas Ajustável total max…
 - Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…
 - Brinquedo Caminhão Dinossauro Engolidor 2026 Porta-Carrinhos com 4 Ca…
+- Ninho Redutor de Berço Liso e Trocador Portátil Impermeável
 
 ---
 

@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 11/08/2026 23:06
+Gerado em: 11/08/2026 23:21
 
 ## Como usar
 
@@ -12,37 +12,7 @@ Gerado em: 11/08/2026 23:06
 
 ---
 
-## Post 1 — Mamãe e Bebê
-
-**Canal recomendado:** Mamãe e Bebê
-
-**Horário sugerido:** 09:00 - 11:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
-
-**Texto pronto:**
-
-```txt
-🍼 Oferta para Mamãe e Bebê
-
-SUMIKKO 50 e 100 unidades Infantil Calça Fraldas Ajustável total max…
-
-💸 De: R$ 197,14
-🔥 Por: R$ 69,00
-🏷️ 65% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/6L3WlOioV0
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 2 — Beleza e Cuidados
+## Post 1 — Beleza e Cuidados
 
 **Canal recomendado:** Beleza e Cuidados
 
@@ -65,6 +35,36 @@ Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler…
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/gPCLDZFsz
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 2 — Mamãe e Bebê
+
+**Canal recomendado:** Mamãe e Bebê
+
+**Horário sugerido:** 09:00 - 11:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
+
+**Texto pronto:**
+
+```txt
+🍼 Oferta para Mamãe e Bebê
+
+Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…
+
+💸 De: R$ 59,98
+🔥 Por: R$ 26,99
+🏷️ 55% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/8Kodw8A1yt
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

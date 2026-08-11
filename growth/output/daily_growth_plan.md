@@ -1,91 +1,91 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 11/08/2026 16:04
+Gerado em: 11/08/2026 16:21
 
 ## Categorias prioritárias
 
-- 📱 **Celulares**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 💄 **Beleza**: 15 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 👟 **Calçados**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 🏋️ **Esportes**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 💻 **Informática**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 💄 **Beleza**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 📱 **Celulares**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 👗 **Moda Feminina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 🍼 **Mãe e Bebê**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 📦 **Outros**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 🔌 **Eletrodomésticos**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-eletrodomesticos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_eletrodomesticos
 - 🍳 **Casa e Cozinha**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
+- 📦 **Outros**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 
 ## Top ofertas para destacar
 
-1. **Panela de Pressão Panelux 4,5L Classic**
+1. **GOKOCO Escova Secadora 7 Em 1 GD032 Conjunto De Secador De Cabelo Mul…**
+   - Categoria: Beleza
+   - Loja: Shopee
+   - Preço: R$ 595,00
+   - Desconto: 54% OFF
+   - Link: https://s.shopee.com.br/1qb9jMUoWI
+
+2. **Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler…**
+   - Categoria: Beleza
+   - Loja: Shopee
+   - Preço: R$ 37,99
+   - Desconto: 87% OFF
+   - Link: https://s.shopee.com.br/gPCLDZFsz
+
+3. **Panela de Pressão Panelux 4,5L Classic**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 57,90
    - Desconto: 50% OFF
    - Link: https://s.shopee.com.br/904Int7isE
 
-2. **Suporte Celular Tablet Com Braço Articulado Universal Ajustável e Ref…**
+4. **Suporte Celular Tablet Com Braço Articulado Universal Ajustável e Ref…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 49,00
    - Desconto: 50% OFF
    - Link: https://s.shopee.com.br/904K8Gm6RR
 
-3. **Mesa Dobrável Notebook Retrátil Home Office Apoio Cama Sofá Trabalho…**
+5. **Mesa Dobrável Notebook Retrátil Home Office Apoio Cama Sofá Trabalho…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 37,99
    - Desconto: 57% OFF
    - Link: https://s.shopee.com.br/2Vqpj7dnXY
 
-4. **Mesa Notebook Ergonômica Multiuso**
+6. **Mesa Notebook Ergonômica Multiuso**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 79,90
    - Desconto: 80% OFF
    - Link: https://s.shopee.com.br/20uZ8CfhYV
 
-5. **Mochila Faculdade Reforçada Compartimento Para Notebook Escolar Uniss…**
+7. **Mochila Faculdade Reforçada Compartimento Para Notebook Escolar Uniss…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 32,90
    - Desconto: 56% OFF
    - Link: https://s.shopee.com.br/7Kw5LkuM4l
 
-6. **Mochila CHL Notebook Impermeável**
+8. **Mochila CHL Notebook Impermeável**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 39,99
    - Desconto: 55% OFF
    - Link: https://s.shopee.com.br/1VyIP27y7i
 
-7. **Mochila Escolar Impermeável Grande 45 L Notebook 17 Resistente Mascul…**
+9. **Mochila Escolar Impermeável Grande 45 L Notebook 17 Resistente Mascul…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 29,90
    - Desconto: 57% OFF
    - Link: https://s.shopee.com.br/6fgOYWwtQZ
 
-8. **SUMIKKO 50 e 100 unidades Infantil Calça Fraldas Ajustável total max…**
+10. **SUMIKKO 50 e 100 unidades Infantil Calça Fraldas Ajustável total max…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 69,00
    - Desconto: 65% OFF
    - Link: https://s.shopee.com.br/6L3WlOioV0
-
-9. **Perfume Attracione Feminino by Attracione Woman Mulher**
-   - Categoria: Beleza
-   - Loja: Shopee
-   - Preço: R$ 49,00
-   - Desconto: 71% OFF
-   - Link: https://s.shopee.com.br/1qb74VwsxC
-
-10. **Perfume Attracione Men com Feromônios**
-   - Categoria: Beleza
-   - Loja: Shopee
-   - Preço: R$ 59,00
-   - Desconto: 80% OFF
-   - Link: https://s.shopee.com.br/2qTfWeU44j
 
 ## Ações gratuitas recomendadas
 

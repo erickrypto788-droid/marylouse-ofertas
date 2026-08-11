@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 11/08/2026 16:04
+Gerado em: 11/08/2026 16:21
 
 ## Como usar
 
@@ -78,9 +78,9 @@ Gerado em: 11/08/2026 16:04
 
 **Produtos usados:**
 
+- Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler…
 - Perfume Attracione Feminino by Attracione Woman Mulher
 - Perfume Attracione Men com Feromônios
-- Corretivo Líquido Under Eye 10 ML - Ruby Kisses
 
 ---
 
@@ -102,9 +102,9 @@ Gerado em: 11/08/2026 16:04
 
 **Produtos usados:**
 
-- Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com…
 - Suporte Celular Tablet Com Braço Articulado Universal Ajustável e Ref…
 - Carregador iPhone Turbo Tipo-C 20W + Cabo Lightining para IPhone Carg…
+- Gamesir T4 Nova Lite Controlador De Jogo Sem Fio Multiplataforma Efei…
 
 ---
 

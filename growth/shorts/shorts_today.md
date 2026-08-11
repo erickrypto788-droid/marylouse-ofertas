@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 11/08/2026 18:06
+Gerado em: 11/08/2026 18:21
 
 ## Como usar
 
@@ -79,8 +79,8 @@ Gerado em: 11/08/2026 18:06
 **Produtos usados:**
 
 - Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler…
-- Perfume Attracione Feminino by Attracione Woman Mulher
-- Perfume Attracione Men com Feromônios
+- Kit 3 Perfumes Malbec Masculino Importado Aroma Marcante Essência Al…
+- GOKOCO Escova Secadora 7 Em 1 GD032 Conjunto De Secador De Cabelo Mul…
 
 ---
 

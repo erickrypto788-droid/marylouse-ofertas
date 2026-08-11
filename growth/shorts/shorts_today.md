@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 11/08/2026 13:04
+Gerado em: 11/08/2026 13:21
 
 ## Como usar
 
@@ -103,8 +103,8 @@ Gerado em: 11/08/2026 13:04
 **Produtos usados:**
 
 - Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com…
-- Gamesir T4 Nova Lite Controlador De Jogo Sem Fio Multiplataforma Efei…
-- Fone de Ouvido entrada lightning para Iphone Microfone Bluetooth
+- Suporte Celular Tablet Com Braço Articulado Universal Ajustável e Ref…
+- Carregador iPhone Turbo Tipo-C 20W + Cabo Lightining para IPhone Carg…
 
 ---
 
@@ -126,8 +126,8 @@ Gerado em: 11/08/2026 13:04
 
 **Produtos usados:**
 
-- Azeite Oliva Extra Virgem Italiano 500ml Mercatto
 - Dispenser Detergente Embutido Detergente Sabonete Liquido Cor Cromado
-- Amaciante Roupas Macias Sensiv Titila 5l
+- Sabonete Natura Essencial Masculino
+- Darrow Suavié Sabonete Barra 70g
 
 ---

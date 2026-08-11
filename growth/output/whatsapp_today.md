@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 11/08/2026 20:22
+Gerado em: 11/08/2026 21:05
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
 ```txt
 🐶 Oferta para Ofertas Pet
 
-Controlador Sem Fio Com Vibração Bluetooth One Game Ones XBOX Control…
+Ração Gato Estimacat Premium 3kg
 
-💸 De: R$ 348,96
-🔥 Por: R$ 233,80
-🏷️ 33% OFF
-🛒 Loja: Shopee
+💸 De: R$ 64,89
+🔥 Por: R$ 47,20
+🏷️ 27% OFF
+🛒 Loja: Mercado Livre
 
-Ver oferta: https://s.shopee.com.br/904IL0wF5Y
+Ver oferta: https://www.mercadolivre.com.br/p/MLB66943436?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

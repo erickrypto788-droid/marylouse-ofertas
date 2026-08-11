@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 11/08/2026 22:05
+Gerado em: 11/08/2026 22:21
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 11/08/2026 22:05
 **Produtos usados:**
 
 - SUMIKKO 50 e 100 unidades Infantil Calça Fraldas Ajustável total max…
-- Lixa de Unha Elétrico Aparador Cortador Para Bebê Infantil Com Estojo
-- Berço De Balanço Bebês Colchão Mosquiteiro Cesto Até 50kg Ergonômico…
+- Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…
+- Brinquedo Caminhão Dinossauro Engolidor 2026 Porta-Carrinhos com 4 Ca…
 
 ---
 
@@ -55,8 +55,8 @@ Gerado em: 11/08/2026 22:05
 **Produtos usados:**
 
 - Panela de Pressão Panelux 4,5L Classic
-- Mini Balança Digital De Cozinha Alta Precisão 0,1g Até 2000g
 - Air fryer Br House Fritadeira ELETRICA AIR FRYER Air Fryer Family pre…
+- Liquidificador Mondial L‑99 Turbo 550 W 3 Velocidades
 
 ---
 

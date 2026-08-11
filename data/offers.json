@@ -1,5 +1,56 @@
 [
   {
+    "id": "43310aaa12611d3044",
+    "title": "Ração Gato Estimacat Premium 3kg",
+    "raw_title": "Ração Gato Estimacat Premium Adulto Sabor Carne 3kg",
+    "description": "✨ ALERTA DE OFERTA! ✨ Seu felino adulto vai amar a Ração Estimacat Premium Sabor Carne de 3kg! Nutrição e sabor irresistível com um preço especial. 🍖",
+    "marketplace": "Mercado Livre",
+    "category": "Pet",
+    "old_price": "R$ 64,89",
+    "price": "R$ 47,20",
+    "discount_percent": 27.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_899518-MLA108368169380_032026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66943436?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "11/08/2026 21:04",
+    "created_at_iso": "2026-08-11T21:04:05",
+    "created_ts": 1786482245
+  },
+  {
+    "id": "ce63f4d91f91ca6cb0",
+    "title": "Comedouro Elevado Duplo para Gatos - Rosa",
+    "raw_title": "Comedouro Elevado Duplo Ração Gato Porcelana Acrilico 190ml Porta Racao Gato Comedouro Rosa",
+    "description": "Seu gato merece conforto e estilo! 😻 Dê adeus às dores no pescoço e ajude na digestão do seu felino com este Comedouro Elevado Duplo em porcelana e acrí...",
+    "marketplace": "Mercado Livre",
+    "category": "Pet",
+    "old_price": "R$ 78,80",
+    "price": "R$ 49,90",
+    "discount_percent": 37.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_670668-MLA109132288172_042026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "11/08/2026 21:02",
+    "created_at_iso": "2026-08-11T21:02:55",
+    "created_ts": 1786482175
+  },
+  {
+    "id": "1ffe155fc479ca1ed1",
+    "title": "Comedouro Automático para Pets",
+    "raw_title": "Comedouro Automático Ração Aquário Terrario Peixe Tartaruga",
+    "description": "🐠 Chega de preocupação na hora de alimentar seus pets! Tenha mais tranquilidade com o Comedouro Automático para Aquário e Terrário. Perfeito para peixes...",
+    "marketplace": "Mercado Livre",
+    "category": "Pet",
+    "old_price": "R$ 142,86",
+    "price": "R$ 88,01",
+    "discount_percent": 38.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_980327-MLA99939124635_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB44164135?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "11/08/2026 21:01",
+    "created_at_iso": "2026-08-11T21:01:46",
+    "created_ts": 1786482106
+  },
+  {
     "id": "4ce393b99351446d82",
     "title": "Kit4 Coleção Carrinho De Ferro Estilo Hot Wheels kit 4 Peças",
     "raw_title": "Kit4 Coleção Carrinho De Ferro Estilo Hot Wheels kit 4 Peças",
@@ -2755,22 +2806,5 @@
       "key": "shopee_brinquedos_hobbies",
       "name": "Brinquedos e Hobbies"
     }
-  },
-  {
-    "id": "3f261b17e80e7b8ba3",
-    "title": "Roteador Wifi 6 Dual Band Flt - X3000",
-    "raw_title": "Roteador Wifi 6 Dual Band Flt - X3000",
-    "description": "🔥 Oferta encontrada! 📌 Roteador Wifi 6 Dual Band Flt - X3000 Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Mercado Livre",
-    "category": "Informática",
-    "old_price": "",
-    "price": "R$ 349,00",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_981879-MLA80519993733_112024-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB42833702?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "10/08/2026 21:01",
-    "created_at_iso": "2026-08-10T21:01:28",
-    "created_ts": 1786395688
   }
 ]

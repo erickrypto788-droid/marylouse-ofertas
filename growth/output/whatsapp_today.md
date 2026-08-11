@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 11/08/2026 08:08
+Gerado em: 11/08/2026 08:22
 
 ## Como usar
 
@@ -147,14 +147,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Calça Legging Flare Flanelada Leg Boca De Sino Bailarina Grossa Zero…
+Legging Flare Plus Size Flanelada
 
-💸 De: R$ 109,34
-🔥 Por: R$ 34,99
+💸 De: R$ 109,03
+🔥 Por: R$ 34,89
 🏷️ 68% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/70JFHklU4M
+Ver oferta: https://s.shopee.com.br/5ArZyL8zIV
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

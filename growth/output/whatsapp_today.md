@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 12/08/2026 18:12
+Gerado em: 12/08/2026 18:22
 
 ## Como usar
 
@@ -162,29 +162,29 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 6 — Moda e Calçados
+## Post 6 — Casa e Cozinha
 
-**Canal recomendado:** Moda e Calçados
+**Canal recomendado:** Casa e Cozinha
 
-**Horário sugerido:** 12:00 - 15:00
+**Horário sugerido:** 18:00 - 20:00
 
 **Imagem/card:**
 
-https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
+https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
 
 **Texto pronto:**
 
 ```txt
-👟 Oferta para Moda e Calçados
+🍳 Oferta para Casa e Cozinha
 
-Sandália GABI Conforto Premium
+Mini Balança Digital De Cozinha Alta Precisão 0,1g Até 2000g
 
-💸 De: R$ 121,30
-🔥 Por: R$ 44,88
-🏷️ 63% OFF
+💸 De: R$ 92,79
+🔥 Por: R$ 25,98
+🏷️ 72% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/2Vqovg6JKs
+Ver oferta: https://s.shopee.com.br/4fvMpg3VEy
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 12/08/2026 16:21
+Gerado em: 12/08/2026 18:22
 
 ## Como usar
 
@@ -54,9 +54,9 @@ Gerado em: 12/08/2026 16:21
 
 **Produtos usados:**
 
+- Mini Balança Digital De Cozinha Alta Precisão 0,1g Até 2000g
 - Cafeteira Italiana Premium 6 Xícaras De Alumínio
 - Espremedor Elétrico Laranja Limão Frutas Fazer Sucos Recarregável Usb…
-- Air Fryer Mondial Oven Digital
 
 ---
 
@@ -127,7 +127,7 @@ Gerado em: 12/08/2026 16:21
 **Produtos usados:**
 
 - Papel higiênico INDAIAL CAICAI PAPEL HIGIENICO folha dupla 22.5 m de…
-- Azeite Português Vila Oliva (3 Un)
-- Detergente Sabão Lava Louça Pastilha + Lava Máquina Unik
+- Azeite Oliva Extra Virgem Italiano Mercatto 500ml
+- Amaciante Sensiv Titila 5L
 
 ---

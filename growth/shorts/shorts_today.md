@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 12/08/2026 13:05
+Gerado em: 12/08/2026 13:21
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 12/08/2026 13:05
 **Produtos usados:**
 
 - Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…
+- Kit 4 Peças Infantil Verão Menino
 - Brinquedo Caminhão Dinossauro Engolidor 2026 Porta-Carrinhos com 4 Ca…
-- Ninho Redutor de Berço Liso e Trocador Portátil Impermeável
 
 ---
 
@@ -103,8 +103,8 @@ Gerado em: 12/08/2026 13:05
 **Produtos usados:**
 
 - Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com…
-- Suporte Celular Tablet Com Braço Articulado Universal Ajustável e Ref…
 - Capa Capinha Magnética Space Transparente Anti Impacto TPU Case Apple…
+- Carregador Portátil Sem Fio
 
 ---
 

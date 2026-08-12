@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 12/08/2026 12:02
+Gerado em: 12/08/2026 12:21
 
 ## Como usar
 
@@ -57,14 +57,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
 ```txt
 💄 Oferta para Beleza e Cuidados
 
-Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler…
+Perfume Attracione Feminino by Attracione Woman Mulher
 
-💸 De: R$ 292,23
-🔥 Por: R$ 37,99
-🏷️ 87% OFF
+💸 De: R$ 168,97
+🔥 Por: R$ 49,00
+🏷️ 71% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/gPCLDZFsz
+Ver oferta: https://s.shopee.com.br/AUt83HtHYM
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Legging Flare Plus Size Flanelada
+Kit Body Splash Dolce + Florata Red 200ml Feminino.
 
-💸 De: R$ 119,97
-🔥 Por: R$ 35,99
-🏷️ 70% OFF
+💸 De: R$ 99,72
+🔥 Por: R$ 35,90
+🏷️ 64% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/1LeuCLj8uO
+Ver oferta: https://s.shopee.com.br/904KGWyzax
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

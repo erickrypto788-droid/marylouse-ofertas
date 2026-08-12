@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 12/08/2026 14:05
+Gerado em: 12/08/2026 14:21
 
 ## Como usar
 
@@ -132,37 +132,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 5 — Casa e Cozinha
-
-**Canal recomendado:** Casa e Cozinha
-
-**Horário sugerido:** 18:00 - 20:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
-
-**Texto pronto:**
-
-```txt
-🍳 Oferta para Casa e Cozinha
-
-Panela de Pressão Panelux 4,5L Classic
-
-💸 De: R$ 115,80
-🔥 Por: R$ 57,90
-🏷️ 50% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/904Int7isE
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 6 — Moda Feminina
+## Post 5 — Moda Feminina
 
 **Canal recomendado:** Moda Feminina
 
@@ -185,6 +155,36 @@ Kit Body Splash Dolce + Florata Red 200ml Feminino.
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/904KGWyzax
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 6 — Moda e Calçados
+
+**Canal recomendado:** Moda e Calçados
+
+**Horário sugerido:** 12:00 - 15:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
+
+**Texto pronto:**
+
+```txt
+👟 Oferta para Moda e Calçados
+
+Sandália GABI Conforto Premium
+
+💸 De: R$ 121,30
+🔥 Por: R$ 44,88
+🏷️ 63% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/2Vqovg6JKs
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

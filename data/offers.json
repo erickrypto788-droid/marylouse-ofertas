@@ -1,5 +1,39 @@
 [
   {
+    "id": "ed27a1a887af224a3a",
+    "title": "Chapinha Cabelo Prancha Profissional Cor Azul",
+    "raw_title": "Chapinha Cabelo Prancha Profissional Cor Azul",
+    "description": "🔥 Oferta encontrada! 📌 Chapinha Cabelo Prancha Profissional Cor Azul Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Beleza",
+    "old_price": "",
+    "price": "R$ 249,99",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_604299-MLA95211900168_102025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB35049339?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "12/08/2026 06:02",
+    "created_at_iso": "2026-08-12T06:02:52",
+    "created_ts": 1786514572
+  },
+  {
+    "id": "7d51df4cbfe8129be8",
+    "title": "Lâmina Philips Bodygroom",
+    "raw_title": "Lamina Aparador Pelos Philips Bodygroom Qg3379 Qg3280 Qg3380",
+    "description": "🚨 RENOVE SEU APARELHO! Sua lâmina Philips Bodygroom precisa de uma troca? ✨ Garanta a original para os modelos Qg3379, Qg3280 ou Qg3380 e mantenha a pre...",
+    "marketplace": "Mercado Livre",
+    "category": "Beleza",
+    "old_price": "R$ 149,90",
+    "price": "R$ 130,41",
+    "discount_percent": 13.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_782959-MLA99825071093_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24908965?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "12/08/2026 06:01",
+    "created_at_iso": "2026-08-12T06:01:48",
+    "created_ts": 1786514508
+  },
+  {
     "id": "042289fcf5b4f408a6",
     "title": "Calça Cintura média Versátil - Perfeita para Looks Casuais e Elegantes",
     "raw_title": "Calça Cintura média Versátil - Perfeita para Looks Casuais e Elegantes",
@@ -3026,27 +3060,6 @@
     "niche": {
       "key": "shopee_roupas_femininas",
       "name": "Roupas Femininas"
-    }
-  },
-  {
-    "id": "a06f927502d0ecca99",
-    "title": "Controle PS5 Dualsense Midnight Black Preto Sem Fio Sony Original Lac…",
-    "raw_title": "Controle PS5 Dualsense Midnight Black Preto Sem Fio Sony Original Lacrado",
-    "description": "🔥 16% OFF — Oferta encontrada! 📌 Controle PS5 Dualsense Midnight Black Preto Sem Fio Sony Original Lacrado Confira os detalhes e aproveite enquanto a of...",
-    "marketplace": "Shopee",
-    "category": "Jogos e Consoles",
-    "old_price": "R$ 499,88",
-    "price": "R$ 419,90",
-    "discount_percent": 16.0,
-    "rating": 5.0,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc6mtam4rfs7a7",
-    "affiliate_url": "https://s.shopee.com.br/4qEkdeiPpU",
-    "created_at": "11/08/2026 05:20",
-    "created_at_iso": "2026-08-11T05:20:04",
-    "created_ts": 1786425604,
-    "niche": {
-      "key": "shopee_jogos_consoles",
-      "name": "Jogos e Consoles"
     }
   }
 ]

@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 12/08/2026 00:21
+Gerado em: 12/08/2026 01:11
 
 ## Como usar
 
@@ -126,8 +126,8 @@ Gerado em: 12/08/2026 00:21
 
 **Produtos usados:**
 
+- Papel higiênico INDAIAL CAICAI PAPEL HIGIENICO folha dupla 22.5 m de…
+- Azeite Português Vila Oliva (3 Un)
 - Dispenser Detergente Embutido Detergente Sabonete Liquido Cor Cromado
-- Sabonete Natura Essencial Masculino
-- Darrow Suavié Sabonete Barra 70g
 
 ---

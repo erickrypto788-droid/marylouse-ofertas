@@ -1,91 +1,91 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 12/08/2026 21:06
+Gerado em: 12/08/2026 21:21
 
 ## Categorias prioritárias
 
 - 🍼 **Mãe e Bebê**: 23 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 👜 **Bolsas**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
-- 💻 **Informática**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- ❤️ **Saúde**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
+- 💻 **Informática**: 15 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 👜 **Bolsas**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 - 👟 **Calçados**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 🍳 **Casa e Cozinha**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 👗 **Moda Feminina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
-- 🐶 **Pet**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 🏋️ **Esportes**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 📱 **Celulares**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 💄 **Beleza**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 🐶 **Pet**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 
 ## Top ofertas para destacar
 
-1. **SUMIKKO 50 e 100 unidades Infantil Calça Fraldas Ajustável total max…**
+1. **Mochila Reforçada Notebook**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 29,89
+   - Desconto: 59% OFF
+   - Link: https://s.shopee.com.br/9zws3QQavW
+
+2. **Mochila Faculdade Reforçada Compartimento Para Notebook Escolar Uniss…**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 32,90
+   - Desconto: 56% OFF
+   - Link: https://s.shopee.com.br/1LetjV6O4A
+
+3. **Mochila Escolar Impermeável Grande 45 L Notebook 17 Resistente Mascul…**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 29,90
+   - Desconto: 57% OFF
+   - Link: https://s.shopee.com.br/904KradCVZ
+
+4. **SUMIKKO 50 e 100 unidades Infantil Calça Fraldas Ajustável total max…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 69,00
    - Desconto: 65% OFF
    - Link: https://s.shopee.com.br/8fRUKk8lIz
 
-2. **Perfume Attracione Feminino by Attracione Woman Mulher**
+5. **Perfume Attracione Feminino by Attracione Woman Mulher**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 49,00
    - Desconto: 71% OFF
    - Link: https://s.shopee.com.br/AUt83HtHYM
 
-3. **Attracione Men (Perfume Masculino com Feromônios Ativados)**
+6. **Attracione Men (Perfume Masculino com Feromônios Ativados)**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 56,00
    - Desconto: 81% OFF
    - Link: https://s.shopee.com.br/BSx8o8mgn
 
-4. **Pro 4 Fones De Ouvido TWS Sem Fio Bluetooth Bateria Longa Duração Lev…**
+7. **Pro 4 Fones De Ouvido TWS Sem Fio Bluetooth Bateria Longa Duração Lev…**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 10,72
    - Desconto: 64% OFF
    - Link: https://s.shopee.com.br/20ubBwVxR5
 
-5. **Mochila CHL Bolsa Reforçada Notebook Impermeavel Material Premium Col…**
+8. **Mochila CHL Bolsa Reforçada Notebook Impermeavel Material Premium Col…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 39,99
    - Desconto: 55% OFF
    - Link: https://s.shopee.com.br/30n7qo94eG
 
-6. **Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com…**
+9. **Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 19,79
    - Desconto: 61% OFF
    - Link: https://s.shopee.com.br/70JFkb6dpH
 
-7. **Mochila Couro PU Grande Executiva Para Notebook Trabalho Faculdade Re…**
+10. **Mochila Couro PU Grande Executiva Para Notebook Trabalho Faculdade Re…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 38,98
    - Desconto: 64% OFF
    - Link: https://s.shopee.com.br/8fRUSyeTBX
-
-8. **Capa Maleta Notebook Macbook 15,6' / 13 / 14 / 17 Polegadas Rígida An…**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 29,22
-   - Desconto: 58% OFF
-   - Link: https://s.shopee.com.br/8pkufHdpqY
-
-9. **Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 26,99
-   - Desconto: 55% OFF
-   - Link: https://s.shopee.com.br/8Kodw8A1yt
-
-10. **Air Fryer Agratto Air Fryer Supremma De 4l Preto**
-   - Categoria: Casa e Cozinha
-   - Loja: Mercado Livre
-   - Preço: R$ 305,99
-   - Desconto: 46% OFF
-   - Link: https://www.mercadolivre.com.br/p/MLB76870660?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ## Ações gratuitas recomendadas
 

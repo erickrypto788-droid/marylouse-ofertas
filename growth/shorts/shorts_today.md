@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 12/08/2026 06:21
+Gerado em: 12/08/2026 07:03
 
 ## Como usar
 
@@ -55,8 +55,8 @@ Gerado em: 12/08/2026 06:21
 **Produtos usados:**
 
 - Panela de Pressão Panelux 4,5L Classic
+- Air Fryer Mondial Oven Digital
 - Conjunto Panelas Antiaderente Tramontina 5peças Vermelho
-- Air fryer Br House Fritadeira ELETRICA AIR FRYER Air Fryer Family pre…
 
 ---
 

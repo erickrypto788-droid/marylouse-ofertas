@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 13/08/2026 18:21
+Gerado em: 13/08/2026 19:03
 
 ## Como usar
 
@@ -56,7 +56,7 @@ Gerado em: 13/08/2026 18:21
 
 - Panela De Pressão 4,5L Panelux Classic
 - Air Fryer Agratto Air Fryer Supremma De 4l Preto
-- Mini Balança Digital De Cozinha Alta Precisão 0,1g Até 2000g
+- Air Fryer Br House Preta
 
 ---
 

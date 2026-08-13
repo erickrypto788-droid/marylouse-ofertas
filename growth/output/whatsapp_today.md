@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 13/08/2026 04:06
+Gerado em: 13/08/2026 04:21
 
 ## Como usar
 
@@ -147,14 +147,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Calça Legging Flare Flanelada
+Calça Pantalona Plus Size Feminina Elástico Na Cintura Com Bolso Cint…
 
-💸 De: R$ 109,34
-🔥 Por: R$ 34,99
-🏷️ 68% OFF
+💸 De: R$ 129,81
+🔥 Por: R$ 33,75
+🏷️ 74% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/4VbvpvoJgn
+Ver oferta: https://s.shopee.com.br/9fK3WBxq6l
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 13/08/2026 01:05
+Gerado em: 13/08/2026 01:21
 
 ## Como usar
 
@@ -102,7 +102,7 @@ Gerado em: 13/08/2026 01:05
 
 **Produtos usados:**
 
-- Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com…
+- Gamesir T4 Nova Lite Controlador De Jogo Sem Fio Multiplataforma Efei…
 - Capa Capinha Magnética Space Transparente Anti Impacto TPU Case Apple…
 - Carregador Portátil Sem Fio
 
@@ -121,12 +121,10 @@ Gerado em: 13/08/2026 01:05
 - growth/shorts/slides/supermercados/01_intro.png
 - growth/shorts/slides/supermercados/02_produto_1.png
 - growth/shorts/slides/supermercados/03_produto_2.png
-- growth/shorts/slides/supermercados/04_produto_3.png
 - growth/shorts/slides/supermercados/05_cta.png
 
 **Produtos usados:**
 
-- Papel higiênico INDAIAL CAICAI PAPEL HIGIENICO folha dupla 22.5 m de…
 - Azeite Oliva Extra Virgem Italiano Mercatto 500ml
 - Amaciante Sensiv Titila 5L
 

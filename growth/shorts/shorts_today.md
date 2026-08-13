@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 13/08/2026 07:03
+Gerado em: 13/08/2026 07:22
 
 ## Como usar
 
@@ -102,9 +102,9 @@ Gerado em: 13/08/2026 07:03
 
 **Produtos usados:**
 
+- Xiaomi Redmi Airdots Sem Fio
+- Carregador iPhone Turbo 20W + Cabo
 - Gamesir T4 Nova Lite Controlador De Jogo Sem Fio Multiplataforma Efei…
-- Capa Capinha Magnética Space Transparente Anti Impacto TPU Case Apple…
-- Carregador Portátil Sem Fio
 
 ---
 

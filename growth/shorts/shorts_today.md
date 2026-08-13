@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 13/08/2026 18:04
+Gerado em: 13/08/2026 18:21
 
 ## Como usar
 
@@ -126,8 +126,8 @@ Gerado em: 13/08/2026 18:04
 
 **Produtos usados:**
 
-- Azeite Oliva Extra Virgem Italiano Mercatto 500ml
 - Dispenser Detergente Embutido Detergente Sabonete Liquido Cor Cromado
-- Amaciante Sensiv Titila 5L
+- Natura Essencial Sabonete Barra Masculino110g
+- Darrow Suavié Sabonete Barra 70g
 
 ---

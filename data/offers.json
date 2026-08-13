@@ -1,5 +1,39 @@
 [
   {
+    "id": "da614afb98d828d41a",
+    "title": "Kit Furadeira e Parafusadeira Dewalt 2 Baterias 20V",
+    "raw_title": "Kit Furadeira e Parafusadeira com Parafusadeira Dewalt Modelo DCK200ME2GT 2 Baterias 20V",
+    "description": "⚡️ Potência e precisão para seus projetos! ⚡️ Chegou o **Kit Furadeira e Parafusadeira Dewalt Modelo DCK200ME2GT** com 2 Baterias 20V! A ferramenta perf...",
+    "marketplace": "Mercado Livre",
+    "category": "Ferramentas",
+    "old_price": "",
+    "price": "R$ 3.099,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_784742-MLA100042438679_122025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB37180897?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "13/08/2026 20:02",
+    "created_at_iso": "2026-08-13T20:02:48",
+    "created_ts": 1786651368
+  },
+  {
+    "id": "e04ef7f80d9f90d9a6",
+    "title": "Combo Furadeira + Parafusadeira Makita 12V",
+    "raw_title": "Combo Furadeira Parafusadeira DF333D + Parafusadeira de Impacto TD110D 12V - CLX224SAX",
+    "description": "🔥 Ferramentas essenciais para seus projetos! Garanta agora o Combo Furadeira Parafusadeira DF333D + Parafusadeira de Impacto TD110D 12V da Makita! A dup...",
+    "marketplace": "Mercado Livre",
+    "category": "Ferramentas",
+    "old_price": "R$ 1.259,00",
+    "price": "R$ 1.189,00",
+    "discount_percent": 6.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_760221-MLA99494941634_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB19765397?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "13/08/2026 20:01",
+    "created_at_iso": "2026-08-13T20:01:39",
+    "created_ts": 1786651299
+  },
+  {
     "id": "371b320a82bfe7bbda",
     "title": "Marcador metálico 24/48/96 cores de glitter de cabeça dupla marcador…",
     "raw_title": "Marcador metálico 24/48/96 cores de glitter de cabeça dupla marcador de cabeça dupla brilhante kit canetinhas coloridas",
@@ -2948,43 +2982,5 @@
     "created_at": "12/08/2026 20:02",
     "created_at_iso": "2026-08-12T20:02:56",
     "created_ts": 1786564976
-  },
-  {
-    "id": "2fe08260263c039fdf",
-    "title": "Air Fryer Agratto Air Fryer Supremma De 4l Preto",
-    "raw_title": "Air Fryer Agratto Air Fryer Supremma De 4l Preto",
-    "description": "🔥 46% OFF — Oferta encontrada! 📌 Air Fryer Agratto Air Fryer Supremma De 4l Preto Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Mercado Livre",
-    "category": "Casa e Cozinha",
-    "old_price": "R$ 565,99",
-    "price": "R$ 305,99",
-    "discount_percent": 46.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_775688-MLA115975716523_082026-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB76870660?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "12/08/2026 20:01",
-    "created_at_iso": "2026-08-12T20:01:52",
-    "created_ts": 1786564912
-  },
-  {
-    "id": "ae615c81bed25789e5",
-    "title": "Berço Portátil Moises Co-bed Com Balanço Mosquiteiro e Cesto Regulage…",
-    "raw_title": "Berço Portátil Moises Co-bed Com Balanço Mosquiteiro e Cesto Regulagem de Altura",
-    "description": "🔥 70% OFF — Oferta encontrada! 📌 Berço Portátil Moises Co-bed Com Balanço Mosquiteiro e Cesto Regulagem de Altura Confira os detalhes e aproveite enquan...",
-    "marketplace": "Shopee",
-    "category": "Mãe e Bebê",
-    "old_price": "R$ 1.798,30",
-    "price": "R$ 539,49",
-    "discount_percent": 70.0,
-    "rating": 5.0,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkhgxo1ghn9c12",
-    "affiliate_url": "https://s.shopee.com.br/9fK1WaVLvh",
-    "created_at": "12/08/2026 19:19",
-    "created_at_iso": "2026-08-12T19:19:54",
-    "created_ts": 1786562394,
-    "niche": {
-      "key": "shopee_mae_bebe",
-      "name": "Mãe e Bebê"
-    }
   }
 ]

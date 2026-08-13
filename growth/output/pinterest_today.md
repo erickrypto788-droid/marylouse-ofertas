@@ -1,6 +1,6 @@
 # Pinterest Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 13/08/2026 08:46
+Gerado em: 13/08/2026 09:22
 
 ## Como usar
 
@@ -86,7 +86,7 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
 
 **Descrição:**
 
-Veja ofertas de Beleza selecionadas pela MaryLouse Ofertas. Destaque de hoje: Perfume Attracione Feminino by Attracione Woman Mulher. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Veja ofertas de Beleza selecionadas pela MaryLouse Ofertas. Destaque de hoje: Escova Secadora Alisadora 3 em 1 (110V). Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
@@ -94,7 +94,7 @@ https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=pinterest&ut
 
 **Por que postar:**
 
-Categoria com 6 oferta(s) e boa intenção de compra.
+Categoria com 10 oferta(s) e boa intenção de compra.
 
 ---
 
@@ -126,27 +126,27 @@ Categoria com 16 oferta(s) e boa intenção de compra.
 
 ---
 
-## Pin 5 — Celulares
+## Pin 5 — Beleza
 
 **Tipo:** produto_direto
 
-**Board sugerido:** Celulares e Tecnologia
+**Board sugerido:** Beleza e Cuidados
 
 **Imagem para upload no Pinterest:**
 
-https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
+https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
 
 **Título:**
 
-61% OFF: Xiaomi Redmi Airdots Sem Fio
+87% OFF: Escova Secadora Alisadora 3 em 1 (110V)
 
 **Descrição:**
 
-Oferta destaque em Celulares encontrada pela MaryLouse Ofertas. Preço: R$ 19,79. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Oferta destaque em Beleza encontrada pela MaryLouse Ofertas. Preço: R$ 37,99. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
-https://s.shopee.com.br/3B6Zybpnky
+https://s.shopee.com.br/5VUUt8LZ4E
 
 **Por que postar:**
 

@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 13/08/2026 23:06
+Gerado em: 13/08/2026 23:22
 
 ## Como usar
 
@@ -147,14 +147,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Calça Pantalona Plus Size Feminina Elástico Na Cintura Com Bolso Cint…
+Conjunto Segunda Pele Térmica Flanelado Frio Intenso Preto Proteção U…
 
-💸 De: R$ 129,81
-🔥 Por: R$ 33,75
-🏷️ 74% OFF
+💸 De: R$ 90,61
+🔥 Por: R$ 29,90
+🏷️ 67% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/9fK3WBxq6l
+Ver oferta: https://s.shopee.com.br/5VUVopSHCR
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

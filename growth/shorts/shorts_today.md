@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 13/08/2026 19:21
+Gerado em: 13/08/2026 20:04
 
 ## Como usar
 
@@ -55,8 +55,8 @@ Gerado em: 13/08/2026 19:21
 **Produtos usados:**
 
 - Panela De Pressão 4,5L Panelux Classic
-- Air Fryer Agratto Air Fryer Supremma De 4l Preto
 - Air Fryer Br House Preta
+- Jogo Panelas Grandes Conjunto Caçarolas 40cm - 2 Un Alumínio
 
 ---
 

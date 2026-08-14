@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 14/08/2026 07:12
+Gerado em: 14/08/2026 07:22
 
 ## Como usar
 
@@ -32,7 +32,7 @@ Gerado em: 14/08/2026 07:12
 
 - Toalha de Banho Fralda Soft Bebê
 - Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…
-- Ninho Redutor de Berço Liso e Trocador Portátil Impermeável
+- Kit Verão Bebê Menino
 
 ---
 
@@ -102,9 +102,9 @@ Gerado em: 14/08/2026 07:12
 
 **Produtos usados:**
 
-- Xiaomi Redmi Airdots Sem Fio
 - Carregador Portátil Sem Fio
-- Carregador iPhone Turbo 20W + Cabo
+- Amplificador de Tela 3D para Celular
+- Kit 3 Shorts 2 em 1 Compressão Bermuda Masculina Academia Treino Bols…
 
 ---
 

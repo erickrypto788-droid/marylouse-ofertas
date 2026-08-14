@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 14/08/2026 06:21
+Gerado em: 14/08/2026 07:12
 
 ## Como usar
 
@@ -126,8 +126,8 @@ Gerado em: 14/08/2026 06:21
 
 **Produtos usados:**
 
+- Azeite Oliva Extra Virgem Português Vila Oliva 500ml (3 Un)
 - Dispenser Detergente Embutido Detergente Sabonete Liquido Cor Cromado
 - Natura Essencial Sabonete Barra Masculino110g
-- Darrow Suavié Sabonete Barra 70g
 
 ---

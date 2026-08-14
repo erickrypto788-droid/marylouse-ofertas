@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 14/08/2026 14:03
+Gerado em: 14/08/2026 14:21
 
 ## Como usar
 
@@ -42,7 +42,37 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 2 — Beleza e Cuidados
+## Post 2 — Celulares e Tecnologia
+
+**Canal recomendado:** Celulares e Tecnologia
+
+**Horário sugerido:** 19:00 - 21:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
+
+**Texto pronto:**
+
+```txt
+📱 Oferta para Celulares e Tecnologia
+
+Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com…
+
+💸 De: R$ 50,74
+🔥 Por: R$ 19,79
+🏷️ 61% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/5q7MY2H8Mx
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 3 — Beleza e Cuidados
 
 **Canal recomendado:** Beleza e Cuidados
 
@@ -72,7 +102,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 3 — Ofertas Pet
+## Post 4 — Ofertas Pet
 
 **Canal recomendado:** Ofertas Pet
 
@@ -102,7 +132,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Moda Feminina
+## Post 5 — Moda Feminina
 
 **Canal recomendado:** Moda Feminina
 
@@ -125,36 +155,6 @@ Kit Body Splash Dolce + Florata Red
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/4qEo5uF1pf
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 5 — Celulares e Tecnologia
-
-**Canal recomendado:** Celulares e Tecnologia
-
-**Horário sugerido:** 19:00 - 21:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
-
-**Texto pronto:**
-
-```txt
-📱 Oferta para Celulares e Tecnologia
-
-Amplificador de Tela 3D para Celular
-
-💸 De: R$ 29,67
-🔥 Por: R$ 18,99
-🏷️ 36% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/2LXUNbQGUM
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

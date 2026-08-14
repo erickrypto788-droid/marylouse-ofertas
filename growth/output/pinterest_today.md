@@ -1,6 +1,6 @@
 # Pinterest Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 14/08/2026 14:03
+Gerado em: 14/08/2026 14:21
 
 ## Como usar
 
@@ -38,7 +38,7 @@ https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=pinterest&
 
 **Por que postar:**
 
-Categoria com 17 oferta(s) e boa intenção de compra.
+Categoria com 13 oferta(s) e boa intenção de compra.
 
 ---
 
@@ -114,7 +114,7 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
 
 **Descrição:**
 
-Veja ofertas de Celulares selecionadas pela MaryLouse Ofertas. Destaque de hoje: Amplificador de Tela 3D para Celular. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Veja ofertas de Celulares selecionadas pela MaryLouse Ofertas. Destaque de hoje: Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com…. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
@@ -122,31 +122,31 @@ https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=pinterest
 
 **Por que postar:**
 
-Categoria com 6 oferta(s) e boa intenção de compra.
+Categoria com 7 oferta(s) e boa intenção de compra.
 
 ---
 
-## Pin 5 — Mãe e Bebê
+## Pin 5 — Celulares
 
 **Tipo:** produto_direto
 
-**Board sugerido:** Ofertas para Bebê
+**Board sugerido:** Celulares e Tecnologia
 
 **Imagem para upload no Pinterest:**
 
-https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
+https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
 
 **Título:**
 
-65% OFF: SUMIKKO 50 e 100 unidades Infantil Calça Fraldas Ajustável total max…
+61% OFF: Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com…
 
 **Descrição:**
 
-Oferta destaque em Mãe e Bebê encontrada pela MaryLouse Ofertas. Preço: R$ 69,00. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Oferta destaque em Celulares encontrada pela MaryLouse Ofertas. Preço: R$ 19,79. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
-https://s.shopee.com.br/1BLW3mjNoa
+https://s.shopee.com.br/5q7MY2H8Mx
 
 **Por que postar:**
 

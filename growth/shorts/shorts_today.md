@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 14/08/2026 14:03
+Gerado em: 14/08/2026 14:21
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 14/08/2026 14:03
 **Produtos usados:**
 
 - SUMIKKO 50 e 100 unidades Infantil Calça Fraldas Ajustável total max…
-- Toalha de Banho Fralda Soft Bebê
-- Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…
+- Berço Portátil Moises Co-bed Com Balanço Mosquiteiro e Cesto Regulage…
+- Kit Verão Bebê Menino
 
 ---
 
@@ -102,9 +102,9 @@ Gerado em: 14/08/2026 14:03
 
 **Produtos usados:**
 
+- Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com…
 - Carregador Portátil Sem Fio
 - Amplificador de Tela 3D para Celular
-- Kit 3 Shorts 2 em 1 Compressão Bermuda Masculina Academia Treino Bols…
 
 ---
 

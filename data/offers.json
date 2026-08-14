@@ -1,5 +1,22 @@
 [
   {
+    "id": "e2d360d27d1ee0b11e",
+    "title": "Cadeira Gamer Ergonômica Vermelha",
+    "raw_title": "Cadeira Gamer Profissional Ergonômica Giratória Vermelha para Escritório",
+    "description": "Sua coluna agradece! Conforto e performance para suas longas sessões de game ou trabalho. 🚀 A Cadeira Gamer Profissional Ergonômica Giratória Vermelha é...",
+    "marketplace": "Mercado Livre",
+    "category": "Casa e Decoração",
+    "old_price": "",
+    "price": "R$ 900,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_799416-MLU71044700870_082023-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB26008929?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "14/08/2026 06:01",
+    "created_at_iso": "2026-08-14T06:01:17",
+    "created_ts": 1786687277
+  },
+  {
     "id": "c8ad45ac4e1ce6e935",
     "title": "Cafeteira Italiana Premium 6 Xícaras De Alumínio",
     "raw_title": "Cafeteira Italiana Premium 6 Xícaras De Alumínio",
@@ -2953,27 +2970,6 @@
     "niche": {
       "key": "shopee_sapatos_femininos",
       "name": "Sapatos Femininos"
-    }
-  },
-  {
-    "id": "f0a9991cbcbd1f27dc",
-    "title": "Bota CAT Coturno Preto Palmilha Gel Ortopédica Couro Masculino Promoç…",
-    "raw_title": "Bota CAT Coturno Preto Palmilha Gel Ortopédica Couro Masculino Promoção Envio Rápido",
-    "description": "🔥 51% OFF — Oferta encontrada! 📌 Bota CAT Coturno Preto Palmilha Gel Ortopédica Couro Masculino Promoção Envio Rápido Confira os detalhes e aproveite en...",
-    "marketplace": "Shopee",
-    "category": "Sapatos Masculinos",
-    "old_price": "R$ 179,90",
-    "price": "R$ 88,15",
-    "discount_percent": 51.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6a9mz47y83p16",
-    "affiliate_url": "https://s.shopee.com.br/50YE1jn3go",
-    "created_at": "13/08/2026 05:20",
-    "created_at_iso": "2026-08-13T05:20:07",
-    "created_ts": 1786598407,
-    "niche": {
-      "key": "shopee_sapatos_masculinos",
-      "name": "Sapatos Masculinos"
     }
   }
 ]

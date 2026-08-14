@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 14/08/2026 01:04
+Gerado em: 14/08/2026 01:21
 
 ## Como usar
 
@@ -147,14 +147,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-6 Pares De Meias De Algodão De Corte Médio Para Homens E Mulheres – U…
+Legging Flare Plus Size Flanelada
 
-💸 De: R$ 126,90
-🔥 Por: R$ 25,38
-🏷️ 80% OFF
+💸 De: R$ 121,18
+🔥 Por: R$ 39,99
+🏷️ 67% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/gPEjXOyhw
+Ver oferta: https://s.shopee.com.br/80Bqvesw83
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
@@ -162,29 +162,29 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 6 — Ofertas Pet
+## Post 6 — Moda e Calçados
 
-**Canal recomendado:** Ofertas Pet
+**Canal recomendado:** Moda e Calçados
 
-**Horário sugerido:** 17:00 - 20:00
+**Horário sugerido:** 12:00 - 15:00
 
 **Imagem/card:**
 
-https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
+https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
 
 **Texto pronto:**
 
 ```txt
-🐶 Oferta para Ofertas Pet
+👟 Oferta para Moda e Calçados
 
-Controlador Sem Fio Com Vibração Bluetooth One Game Ones XBOX Control…
+Tênis SNEEKS Feminino para Uso Diário Prático e Estiloso Super Promoç…
 
-💸 De: R$ 372,84
-🔥 Por: R$ 249,80
-🏷️ 33% OFF
+💸 De: R$ 99,97
+🔥 Por: R$ 39,99
+🏷️ 60% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/8KoeKqyDKW
+Ver oferta: https://s.shopee.com.br/19Y8fZ0eI
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

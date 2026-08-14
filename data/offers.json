@@ -1,5 +1,39 @@
 [
   {
+    "id": "ed27a1a887af224a3a",
+    "title": "Chapinha Profissional Azul",
+    "raw_title": "Chapinha Cabelo Prancha Profissional Cor Azul",
+    "description": "✨ Liso perfeito em instantes! ✨ Tenha cabelos deslumbrantes com a Chapinha Profissional Cor Azul. Tecnologia e estilo para você brilhar! 🚚 Frete Grátis...",
+    "marketplace": "Mercado Livre",
+    "category": "Beleza",
+    "old_price": "",
+    "price": "R$ 249,99",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_604299-MLA95211900168_102025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB35049339?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "14/08/2026 13:02",
+    "created_at_iso": "2026-08-14T13:02:49",
+    "created_ts": 1786712569
+  },
+  {
+    "id": "7d51df4cbfe8129be8",
+    "title": "Lâmina Philips Bodygroom",
+    "raw_title": "Lamina Aparador Pelos Philips Bodygroom Qg3379 Qg3280 Qg3380",
+    "description": "🚨 Mantenha seu Philips Bodygroom sempre novo! 🚨 Garanta a performance perfeita do seu aparador com a lâmina original para modelos Qg3379, Qg3280 e Qg338...",
+    "marketplace": "Mercado Livre",
+    "category": "Beleza",
+    "old_price": "R$ 149,90",
+    "price": "R$ 130,41",
+    "discount_percent": 13.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_782959-MLA99825071093_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24908965?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "14/08/2026 13:01",
+    "created_at_iso": "2026-08-14T13:01:39",
+    "created_ts": 1786712499
+  },
+  {
     "id": "10343f609ef6604460",
     "title": "Mochila De Viagem Feminina Multifuncional Impermeável Reforçada Expan…",
     "raw_title": "Mochila De Viagem Feminina Multifuncional Impermeável Reforçada Expansível para Trilha Esportiva",
@@ -3186,26 +3220,5 @@
     "created_at": "13/08/2026 13:06",
     "created_at_iso": "2026-08-13T13:06:05",
     "created_ts": 1786626365
-  },
-  {
-    "id": "bc7f4aa692a45cb587",
-    "title": "Brinquedo Caminhão Dinossauro Engolidor 2026 Porta-Carrinhos com 4 Ca…",
-    "raw_title": "Brinquedo Caminhão Dinossauro Engolidor 2026 Porta-Carrinhos com 4 Carrinhos de Metal – Kit Infantil🦖🚚",
-    "description": "🔥 73% OFF — Oferta encontrada! 📌 Brinquedo Caminhão Dinossauro Engolidor 2026 Porta-Carrinhos com 4 Carrinhos de Metal – Kit Infantil🦖🚚 Confira os detal...",
-    "marketplace": "Shopee",
-    "category": "Brinquedos e Hobbies",
-    "old_price": "R$ 255,48",
-    "price": "R$ 68,98",
-    "discount_percent": 73.0,
-    "rating": 5.0,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m9-mnz5ipg57t3539",
-    "affiliate_url": "https://s.shopee.com.br/5LB4tCXTxh",
-    "created_at": "13/08/2026 12:20",
-    "created_at_iso": "2026-08-13T12:20:16",
-    "created_ts": 1786623616,
-    "niche": {
-      "key": "shopee_brinquedos_hobbies",
-      "name": "Brinquedos e Hobbies"
-    }
   }
 ]

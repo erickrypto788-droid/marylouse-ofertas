@@ -1,6 +1,6 @@
 # Pinterest Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 14/08/2026 06:03
+Gerado em: 14/08/2026 06:21
 
 ## Como usar
 
@@ -86,7 +86,7 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
 
 **Descrição:**
 
-Veja ofertas de Beleza selecionadas pela MaryLouse Ofertas. Destaque de hoje: Escova Secadora Alisadora 3 em 1 (110V). Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Veja ofertas de Beleza selecionadas pela MaryLouse Ofertas. Destaque de hoje: Perfume Attracione Feminino. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
@@ -94,7 +94,7 @@ https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=pinterest&ut
 
 **Por que postar:**
 
-Categoria com 7 oferta(s) e boa intenção de compra.
+Categoria com 11 oferta(s) e boa intenção de compra.
 
 ---
 
@@ -126,27 +126,27 @@ Categoria com 10 oferta(s) e boa intenção de compra.
 
 ---
 
-## Pin 5 — Pet
+## Pin 5 — Beleza
 
 **Tipo:** produto_direto
 
-**Board sugerido:** Ofertas Pet
+**Board sugerido:** Beleza e Cuidados
 
 **Imagem para upload no Pinterest:**
 
-https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
+https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
 
 **Título:**
 
-64% OFF: Pro 4 Fones De Ouvido TWS Sem Fio Bluetooth Bateria Longa Duração Lev…
+71% OFF: Perfume Attracione Feminino
 
 **Descrição:**
 
-Oferta destaque em Pet encontrada pela MaryLouse Ofertas. Preço: R$ 10,72. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Oferta destaque em Beleza encontrada pela MaryLouse Ofertas. Preço: R$ 49,00. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
-https://s.shopee.com.br/5LB5x7J2No
+https://s.shopee.com.br/9KhEqi8Zxl
 
 **Por que postar:**
 

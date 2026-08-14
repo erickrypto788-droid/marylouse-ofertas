@@ -1,6 +1,6 @@
 # Pinterest Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 14/08/2026 04:05
+Gerado em: 14/08/2026 04:22
 
 ## Como usar
 
@@ -122,31 +122,31 @@ https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=pinterest
 
 **Por que postar:**
 
-Categoria com 11 oferta(s) e boa intenção de compra.
+Categoria com 13 oferta(s) e boa intenção de compra.
 
 ---
 
-## Pin 5 — Informática
+## Pin 5 — Pet
 
 **Tipo:** produto_direto
 
-**Board sugerido:** Celulares e Tecnologia
+**Board sugerido:** Ofertas Pet
 
 **Imagem para upload no Pinterest:**
 
-https://marylouse-ofertas.vercel.app/growth/pinterest/informatica.png
+https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
 
 **Título:**
 
-64% OFF: Mochila Couro PU Grande Executiva Para Notebook Trabalho Faculdade Re…
+64% OFF: Pro 4 Fones De Ouvido TWS Sem Fio Bluetooth Bateria Longa Duração Lev…
 
 **Descrição:**
 
-Oferta destaque em Informática encontrada pela MaryLouse Ofertas. Preço: R$ 38,98. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Oferta destaque em Pet encontrada pela MaryLouse Ofertas. Preço: R$ 10,72. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
-https://s.shopee.com.br/9pdUa4JkHY
+https://s.shopee.com.br/5LB5x7J2No
 
 **Por que postar:**
 

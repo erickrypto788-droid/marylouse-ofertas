@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 14/08/2026 16:05
+Gerado em: 14/08/2026 16:21
 
 ## Como usar
 
@@ -54,9 +54,9 @@ Gerado em: 14/08/2026 16:05
 
 **Produtos usados:**
 
+- Panela Arroz Eletrica Fmaxx 10 Xicaras 1.8l 700w Inox 220v 60hz
 - Cafeteira Italiana Premium 6 Xícaras De Alumínio
 - Fritadeira Air Fryer Mondial Oven Digital 127v
-- Conjunto Panelas Tramontina 5pçs Vermelho
 
 ---
 
@@ -120,10 +120,12 @@ Gerado em: 14/08/2026 16:05
 
 - growth/shorts/slides/supermercados/01_intro.png
 - growth/shorts/slides/supermercados/02_produto_1.png
+- growth/shorts/slides/supermercados/03_produto_2.png
 - growth/shorts/slides/supermercados/05_cta.png
 
 **Produtos usados:**
 
+- Dispenser Organizador Lavanderia 2,5L Ideal para Arroz Grãos Produtos…
 - Azeite Oliva Extra Virgem Português Vila Oliva 500ml (3 Un)
 
 ---

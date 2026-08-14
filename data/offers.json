@@ -1,5 +1,56 @@
 [
   {
+    "id": "43310aaa12611d3044",
+    "title": "Ração Gato Estimacat Premium Adulto Sabor Carne 3kg",
+    "raw_title": "Ração Gato Estimacat Premium Adulto Sabor Carne 3kg",
+    "description": "🔥 27% OFF — Oferta encontrada! 📌 Ração Gato Estimacat Premium Adulto Sabor Carne 3kg Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Pet",
+    "old_price": "R$ 64,89",
+    "price": "R$ 47,20",
+    "discount_percent": 27.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_899518-MLA108368169380_032026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66943436?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "14/08/2026 02:03",
+    "created_at_iso": "2026-08-14T02:03:43",
+    "created_ts": 1786673023
+  },
+  {
+    "id": "1ffe155fc479ca1ed1",
+    "title": "Comedouro Automático Ração Aquário Terrario Peixe Tartaruga",
+    "raw_title": "Comedouro Automático Ração Aquário Terrario Peixe Tartaruga",
+    "description": "🔥 18% OFF — Oferta encontrada! 📌 Comedouro Automático Ração Aquário Terrario Peixe Tartaruga Confira os detalhes e aproveite enquanto a oferta estiver d...",
+    "marketplace": "Mercado Livre",
+    "category": "Pet",
+    "old_price": "R$ 142,86",
+    "price": "R$ 117,85",
+    "discount_percent": 18.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_980327-MLA99939124635_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB44164135?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "14/08/2026 02:02",
+    "created_at_iso": "2026-08-14T02:02:39",
+    "created_ts": 1786672959
+  },
+  {
+    "id": "ce63f4d91f91ca6cb0",
+    "title": "Comedouro Elevado Duplo Ração Gato Porcelana Acrilico 190ml Porta Rac…",
+    "raw_title": "Comedouro Elevado Duplo Ração Gato Porcelana Acrilico 190ml Porta Racao Gato Comedouro Rosa",
+    "description": "🔥 37% OFF — Oferta encontrada! 📌 Comedouro Elevado Duplo Ração Gato Porcelana Acrilico 190ml Porta Racao Gato Comedouro Rosa Confira os detalhes e aprov...",
+    "marketplace": "Mercado Livre",
+    "category": "Pet",
+    "old_price": "R$ 78,80",
+    "price": "R$ 49,90",
+    "discount_percent": 37.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_670668-MLA109132288172_042026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "14/08/2026 02:01",
+    "created_at_iso": "2026-08-14T02:01:35",
+    "created_ts": 1786672895
+  },
+  {
     "id": "b92c97498b3dc73d12",
     "title": "Kit 10 Cuecas Slip Tamanho P ao Plus Size Microfibra Adulto Masculino",
     "raw_title": "Kit 10 Cuecas Slip Tamanho P ao Plus Size Microfibra Adulto Masculino",
@@ -2964,27 +3015,6 @@
     "niche": {
       "key": "shopee_roupas_femininas",
       "name": "Roupas Femininas"
-    }
-  },
-  {
-    "id": "2b3daa274bbd4de757",
-    "title": "Controle sem Fio DualSense PS5 Sony PlayStation Branco",
-    "raw_title": "Controle sem Fio DualSense PS5 Sony PlayStation Branco",
-    "description": "🔥 38% OFF — Oferta encontrada! 📌 Controle sem Fio DualSense PS5 Sony PlayStation Branco Confira os detalhes e aproveite enquanto a oferta estiver dispon...",
-    "marketplace": "Shopee",
-    "category": "Jogos e Consoles",
-    "old_price": "R$ 691,94",
-    "price": "R$ 429,00",
-    "discount_percent": 38.0,
-    "rating": 5.0,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ly-mpwa91ve8hdu89",
-    "affiliate_url": "https://s.shopee.com.br/2qTjBGclM7",
-    "created_at": "13/08/2026 01:20",
-    "created_at_iso": "2026-08-13T01:20:15",
-    "created_ts": 1786584015,
-    "niche": {
-      "key": "shopee_jogos_consoles",
-      "name": "Jogos e Consoles"
     }
   }
 ]

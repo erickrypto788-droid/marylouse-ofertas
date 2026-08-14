@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 14/08/2026 01:21
+Gerado em: 14/08/2026 02:05
 
 ## Como usar
 
@@ -162,29 +162,29 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 6 — Moda e Calçados
+## Post 6 — Ofertas Pet
 
-**Canal recomendado:** Moda e Calçados
+**Canal recomendado:** Ofertas Pet
 
-**Horário sugerido:** 12:00 - 15:00
+**Horário sugerido:** 17:00 - 20:00
 
 **Imagem/card:**
 
-https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
+https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
 
 **Texto pronto:**
 
 ```txt
-👟 Oferta para Moda e Calçados
+🐶 Oferta para Ofertas Pet
 
-Tênis SNEEKS Feminino para Uso Diário Prático e Estiloso Super Promoç…
+Ração Gato Estimacat Premium Adulto Sabor Carne 3kg
 
-💸 De: R$ 99,97
-🔥 Por: R$ 39,99
-🏷️ 60% OFF
-🛒 Loja: Shopee
+💸 De: R$ 64,89
+🔥 Por: R$ 47,20
+🏷️ 27% OFF
+🛒 Loja: Mercado Livre
 
-Ver oferta: https://s.shopee.com.br/19Y8fZ0eI
+Ver oferta: https://www.mercadolivre.com.br/p/MLB66943436?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

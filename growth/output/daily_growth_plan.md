@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 14/08/2026 01:21
+Gerado em: 14/08/2026 02:05
 
 ## Categorias prioritárias
 
@@ -11,9 +11,9 @@ Gerado em: 14/08/2026 01:21
 - ✨ **Moda Plus Size**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
 - 🏋️ **Esportes**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 👕 **Moda Masculina**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
+- 🐶 **Pet**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - ❤️ **Saúde**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 💄 **Beleza**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 🍼 **Mãe e Bebê**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 
 ## Top ofertas para destacar
 
@@ -73,19 +73,19 @@ Gerado em: 14/08/2026 01:21
    - Desconto: 61% OFF
    - Link: https://s.shopee.com.br/3B6Zybpnky
 
-9. **Barbeador Costas Masculino Traseiro Dobrável Aparador Pelos**
+9. **Comedouro Elevado Duplo Ração Gato Porcelana Acrilico 190ml Porta Rac…**
+   - Categoria: Pet
+   - Loja: Mercado Livre
+   - Preço: R$ 49,90
+   - Desconto: 37% OFF
+   - Link: https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+10. **Barbeador Costas Masculino Traseiro Dobrável Aparador Pelos**
    - Categoria: Beleza
    - Loja: Mercado Livre
    - Preço: R$ 249,00
    - Desconto: 33% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB51434487?matt_word=marylouse&matt_tool=50459180&forceInApp=true
-
-10. **Toalha de Banho Fralda Soft Bebê**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 31,99
-   - Desconto: 47% OFF
-   - Link: https://s.shopee.com.br/W5pGYlvAO
 
 ## Ações gratuitas recomendadas
 

@@ -1,5 +1,39 @@
 [
   {
+    "id": "009b8584c32fc69379",
+    "title": "Whey Concentrado + Isolado + Cafeína",
+    "raw_title": "Whey Protein Concentrado + Whey Protein Isolado + Cafeína",
+    "description": "💪 Potencialize seus treinos! Chegou a combinação ideal para você: Whey Protein Concentrado + Whey Protein Isolado + Cafeína! Tenha mais energia e foco p...",
+    "marketplace": "Mercado Livre",
+    "category": "Esportes e Lazer",
+    "old_price": "",
+    "price": "R$ 658,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_647505-MLB31230837165_062019-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20818317?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "14/08/2026 11:02",
+    "created_at_iso": "2026-08-14T11:02:23",
+    "created_ts": 1786705343
+  },
+  {
+    "id": "ebfc2b6e57465a82ad",
+    "title": "Bike Spinning Kikos Max-ks5 Preto",
+    "raw_title": "Bike Spinning Kikos Max-ks5 Preto",
+    "description": "🔥 Oferta encontrada! 📌 Bike Spinning Kikos Max-ks5 Preto Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Esportes e Lazer",
+    "old_price": "",
+    "price": "R$ 2.770,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_651330-MLA100034011273_122025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB18603556?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "14/08/2026 11:01",
+    "created_at_iso": "2026-08-14T11:01:14",
+    "created_ts": 1786705274
+  },
+  {
     "id": "1f258613b950dfb4ab",
     "title": "Medidor de pressão arterial digital + tensiômetros +Termômetro infrav…",
     "raw_title": "Medidor de pressão arterial digital + tensiômetros +Termômetro infravermelho + oxímetro de dedo",
@@ -3151,27 +3185,6 @@
     "niche": {
       "key": "shopee_esportes_lazer",
       "name": "Esportes e Lazer"
-    }
-  },
-  {
-    "id": "d4cb1d4a7fbc92969a",
-    "title": "Calça Jeans Infantil Wide Leg Cargo Black Juvenil 6 ao 14 ALTO PADR…",
-    "raw_title": "Calça Jeans Infantil Wide Leg Cargo Black Juvenil 6 ao 14 ALTO PADRÃO LINHA PREMIUM",
-    "description": "🔥 65% OFF — Oferta encontrada! 📌 Calça Jeans Infantil Wide Leg Cargo Black Juvenil 6 ao 14 ALTO PADRÃO LINHA PREMIUM Confira os detalhes e aproveite enq...",
-    "marketplace": "Shopee",
-    "category": "Moda Infantil",
-    "old_price": "R$ 142,57",
-    "price": "R$ 49,90",
-    "discount_percent": 65.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjhur5wacvep7d",
-    "affiliate_url": "https://s.shopee.com.br/1VyMBtqIu1",
-    "created_at": "13/08/2026 10:20",
-    "created_at_iso": "2026-08-13T10:20:06",
-    "created_ts": 1786616406,
-    "niche": {
-      "key": "shopee_moda_infantil",
-      "name": "Moda Infantil"
     }
   }
 ]

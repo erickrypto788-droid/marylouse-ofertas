@@ -1,5 +1,39 @@
 [
   {
+    "id": "444347dbdcb05b78b7",
+    "title": "TV Box RBI 4K PROSB-2000",
+    "raw_title": "TV Box RBI Smart TV Box 4K PROSB-2000 Preto 5ª Geração Wi-Fi HDMI",
+    "description": "🚀 Transforme sua TV em Smart! Com a TV Box RBI 4K PROSB-2000, você eleva seu entretenimento a outro nível! Imagens em ultra definição 4K, Wi-Fi e HDMI p...",
+    "marketplace": "Mercado Livre",
+    "category": "Pet",
+    "old_price": "",
+    "price": "R$ 176,90",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_683378-MLA99463515480_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59821316?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "15/08/2026 10:02",
+    "created_at_iso": "2026-08-15T10:02:41",
+    "created_ts": 1786788161
+  },
+  {
+    "id": "d7a98d10407ea4201a",
+    "title": "Fone Bluetooth Redmi",
+    "raw_title": "Fone Bluetooth Redmi",
+    "description": "🎧 OFERTA IMPERDÍVEL! 🔥 Fone Bluetooth Redmi com 25% OFF! Ouça suas músicas favoritas com qualidade e liberdade. 🚚 Frete Grátis!",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "R$ 34,20",
+    "price": "R$ 25,65",
+    "discount_percent": 25.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_918309-MLA97869219589_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62010143?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "15/08/2026 10:01",
+    "created_at_iso": "2026-08-15T10:01:21",
+    "created_ts": 1786788081
+  },
+  {
     "id": "ceae28e562edd94197",
     "title": "Bolsa Feminina TOMI MITO",
     "raw_title": "TOMI MITO Bolsa Feminina com Alça Lateral Transversal de Ombro de Couro PU T304",
@@ -2655,27 +2689,6 @@
     "niche": {
       "key": "shopee_saude",
       "name": "Saúde"
-    }
-  },
-  {
-    "id": "485119a306e1f1d0a4",
-    "title": "Fantasia Infantil Hot Wheels com Máscara - Pronta Entrega - Envio Ráp…",
-    "raw_title": "Fantasia Infantil Hot Wheels com Máscara - Pronta Entrega - Envio Rápido - KS Comércio",
-    "description": "🔥 55% OFF — Oferta encontrada! 📌 Fantasia Infantil Hot Wheels com Máscara - Pronta Entrega - Envio Rápido - KS Comércio Confira os detalhes e aproveite...",
-    "marketplace": "Shopee",
-    "category": "Brinquedos e Hobbies",
-    "old_price": "R$ 84,42",
-    "price": "R$ 37,99",
-    "discount_percent": 55.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820li-mqcxvxcn9wjkb3",
-    "affiliate_url": "https://s.shopee.com.br/30nBVQvqni",
-    "created_at": "14/08/2026 09:19",
-    "created_at_iso": "2026-08-14T09:19:52",
-    "created_ts": 1786699192,
-    "niche": {
-      "key": "shopee_brinquedos_hobbies",
-      "name": "Brinquedos e Hobbies"
     }
   }
 ]

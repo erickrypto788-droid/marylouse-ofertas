@@ -6,8 +6,20 @@
     <link>https://marylouse-ofertas.vercel.app/</link>
     <description>Ofertas, achadinhos e descontos atualizados automaticamente.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 15 Aug 2026 07:46:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 08:03:53 GMT</lastBuildDate>
 
+    <item>
+      <title>Kit Ferramentas Informática</title>
+      <link>https://marylouse-ofertas.vercel.app/ofertas-informatica.html</link>
+      <description>Informática | Mercado Livre | R$ 127,50</description>
+      <guid>https://marylouse-ofertas.vercel.app/ofertas-informatica.html#kit ferramentas informatica</guid>
+    </item>
+    <item>
+      <title>Kit Parafusadeira STANLEY + Bateria 20V Grátis</title>
+      <link>https://marylouse-ofertas.vercel.app/ofertas-ferramentas.html</link>
+      <description>Ferramentas | Mercado Livre | R$ 1.526,00</description>
+      <guid>https://marylouse-ofertas.vercel.app/ofertas-ferramentas.html#kit parafusadeira stanley bateria 20v gratis</guid>
+    </item>
     <item>
       <title>Balança Digital Cozinha Inox 10kg</title>
       <link>https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html</link>
@@ -295,18 +307,6 @@
       <link>https://marylouse-ofertas.vercel.app/ofertas-calcados.html</link>
       <description>Calçados | Shopee | R$ 39,99</description>
       <guid>https://marylouse-ofertas.vercel.app/ofertas-calcados.html#tenis sneeks feminino</guid>
-    </item>
-    <item>
-      <title>Bota Feminina GiGiL Cano Longo</title>
-      <link>https://marylouse-ofertas.vercel.app/ofertas-calcados.html</link>
-      <description>Calçados | Shopee | R$ 126,99</description>
-      <guid>https://marylouse-ofertas.vercel.app/ofertas-calcados.html#bota feminina gigil cano longo</guid>
-    </item>
-    <item>
-      <title>Botina de Segurança em Couro</title>
-      <link>https://marylouse-ofertas.vercel.app/ofertas-calcados.html</link>
-      <description>Calçados | Shopee | R$ 48,47</description>
-      <guid>https://marylouse-ofertas.vercel.app/ofertas-calcados.html#botina de seguranca em couro</guid>
     </item>
   </channel>
 </rss>

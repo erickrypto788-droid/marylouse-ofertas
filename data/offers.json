@@ -1,5 +1,39 @@
 [
   {
+    "id": "ab7cafae5f8437badb",
+    "title": "Kit Ferramentas Informática",
+    "raw_title": "Kit Ferramentas Informatica Cor Preto",
+    "description": "🛠️ Kit Ferramentas Informática Essencial! 💻 Tenha tudo o que precisa para seus reparos e montagens. 📦 Frete grátis para todo o Brasil!",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "",
+    "price": "R$ 127,50",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_837553-MLA99455899792_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43810473?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "15/08/2026 08:02",
+    "created_at_iso": "2026-08-15T08:02:38",
+    "created_ts": 1786780958
+  },
+  {
+    "id": "9a4ad19b012d5bc801",
+    "title": "Kit Parafusadeira STANLEY + Bateria 20V Grátis",
+    "raw_title": "Parafusadeira STANLEY + Parafusadeira + Ganhe Bateria 20V",
+    "description": "⚡️ MEGA OFERTA STANLEY: Leve o dobro! Garanta já seu Kit Parafusadeira STANLEY + Parafusadeira e ainda GANHE uma Bateria 20V! 💪 Perfeito para seus proje...",
+    "marketplace": "Mercado Livre",
+    "category": "Ferramentas",
+    "old_price": "R$ 1.948,00",
+    "price": "R$ 1.526,00",
+    "discount_percent": 22.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_978686-MLA109195487326_042026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67606890?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "15/08/2026 08:01",
+    "created_at_iso": "2026-08-15T08:01:32",
+    "created_ts": 1786780892
+  },
+  {
     "id": "62eebae75ca9c2f8e5",
     "title": "Balança Digital Cozinha Inox 10kg",
     "raw_title": "Balança de Cozinha Digital 10kg em Inox Alta Precisão 1g Dieta Fit com Tara LCD Pilhas Inclusas Envio Imediato",
@@ -2728,22 +2762,5 @@
     "created_at": "14/08/2026 08:03",
     "created_at_iso": "2026-08-14T08:03:37",
     "created_ts": 1786694617
-  },
-  {
-    "id": "1e4b7e9be01a8bc78a",
-    "title": "Cropped Feminino Proteção Solar UV",
-    "raw_title": "Cropped Feminino Manga Comprida Proteção Solar Malha Fria Uv Cor Preto Tamanho P",
-    "description": "✨ Proteção e Estilo no Verão! ✨ Garanta já seu Cropped Feminino Manga Comprida com Proteção Solar UV! Perfeito para seus dias de sol com total conforto...",
-    "marketplace": "Mercado Livre",
-    "category": "Roupas Femininas",
-    "old_price": "R$ 54,90",
-    "price": "R$ 42,50",
-    "discount_percent": 23.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_970796-MLA110594867239_042026-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68298172?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "14/08/2026 08:02",
-    "created_at_iso": "2026-08-14T08:02:29",
-    "created_ts": 1786694549
   }
 ]

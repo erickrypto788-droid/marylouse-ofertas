@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 15/08/2026 20:05
+Gerado em: 15/08/2026 20:21
 
 ## Como usar
 
@@ -102,9 +102,9 @@ Gerado em: 15/08/2026 20:05
 
 **Produtos usados:**
 
+- Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com…
 - Fone Bluetooth Pro5 Premium | Imersão Total c Cancelamento Ruído Qual…
-- Kit 3 Shorts 2 em 1 Masculino Academia
-- Carregador Portátil Sem Fio
+- Basike Carregador Portátil Power Bank 20000mAh Bateria Externa Para i…
 
 ---
 

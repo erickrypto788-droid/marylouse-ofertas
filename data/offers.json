@@ -1,5 +1,39 @@
 [
   {
+    "id": "c7b14dafedaf1f9c15",
+    "title": "Chapinha Cabelo Profissional Prancha Alisadora De Cabelo chapinha Par…",
+    "raw_title": "Chapinha Cabelo Profissional Prancha Alisadora De Cabelo chapinha Para Cabelo Bivolt Chapinha",
+    "description": "🔥 20% OFF — Oferta encontrada! 📌 Chapinha Cabelo Profissional Prancha Alisadora De Cabelo chapinha Para Cabelo Bivolt Chapinha Confira os detalhes e apr...",
+    "marketplace": "Mercado Livre",
+    "category": "Beleza",
+    "old_price": "R$ 116,00",
+    "price": "R$ 92,80",
+    "discount_percent": 20.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_796634-MLA113964112209_062026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74602351?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "15/08/2026 23:02",
+    "created_at_iso": "2026-08-15T23:02:29",
+    "created_ts": 1786834949
+  },
+  {
+    "id": "ea23f535d34f0b72a5",
+    "title": "Barbeador Costas Masculino",
+    "raw_title": "Barbeador Costas Masculino Traseiro Dobrável Aparador Pelos",
+    "description": "🧔 Chega de malabarismos! Tenha costas lisas e impecáveis com o Barbeador Masculino Traseiro Dobrável! ✨ Design ergonômico e fácil de usar para você se l...",
+    "marketplace": "Mercado Livre",
+    "category": "Beleza",
+    "old_price": "R$ 369,06",
+    "price": "R$ 249,00",
+    "discount_percent": 33.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_962334-MLA95523966556_102025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51434487?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "15/08/2026 23:01",
+    "created_at_iso": "2026-08-15T23:01:24",
+    "created_ts": 1786834884
+  },
+  {
     "id": "4fe39ee3cb87eda344",
     "title": "Celimax The Vita A Retinal Shot Tightening Booster 15ml",
     "raw_title": "Celimax The Vita A Retinal Shot Tightening Booster 15ml",
@@ -2829,44 +2863,6 @@
     "niche": {
       "key": "shopee_sapatos_masculinos",
       "name": "Sapatos Masculinos"
-    }
-  },
-  {
-    "id": "e8ceac326071b13ed1",
-    "title": "Mini Impressora Niimbot B1 etiqueta Bluetooth Cor Prateado impressora…",
-    "raw_title": "Mini Impressora Niimbot B1 etiqueta Bluetooth Cor Prateado impressora etiquetas adesivas",
-    "description": "🔥 44% OFF — Oferta encontrada! 📌 Mini Impressora Niimbot B1 etiqueta Bluetooth Cor Prateado impressora etiquetas adesivas Confira os detalhes e aproveit...",
-    "marketplace": "Mercado Livre",
-    "category": "Informática",
-    "old_price": "R$ 399,99",
-    "price": "R$ 223,99",
-    "discount_percent": 44.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_656520-MLA93232832197_092025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "14/08/2026 23:01",
-    "created_at_iso": "2026-08-14T23:01:39",
-    "created_ts": 1786748499
-  },
-  {
-    "id": "b8e1b4f5ef5cce62f7",
-    "title": "Vestido Midi Feminino Alfaiataria Amarração Lateral Elegante Social C…",
-    "raw_title": "Vestido Midi Feminino Alfaiataria Amarração Lateral Elegante Social Casamento Festa Formatura P M G GG G1 G2 Plus Size",
-    "description": "🔥 43% OFF — Oferta encontrada! 📌 Vestido Midi Feminino Alfaiataria Amarração Lateral Elegante Social Casamento Festa Formatura P M G GG G1 G2 Plus Size...",
-    "marketplace": "Shopee",
-    "category": "Roupas Plus Size",
-    "old_price": "R$ 89,58",
-    "price": "R$ 51,06",
-    "discount_percent": 43.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m6-mnnniosgxqf868",
-    "affiliate_url": "https://s.shopee.com.br/AKZlhwb33A",
-    "created_at": "14/08/2026 22:20",
-    "created_at_iso": "2026-08-14T22:20:15",
-    "created_ts": 1786746015,
-    "niche": {
-      "key": "shopee_roupas_plus_size",
-      "name": "Roupas Plus Size"
     }
   }
 ]

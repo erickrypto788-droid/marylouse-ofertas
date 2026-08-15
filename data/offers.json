@@ -1,5 +1,39 @@
 [
   {
+    "id": "ae2e6cbf5bcc449ac7",
+    "title": "Samsung Galaxy A55 5G Azul-Celeste",
+    "raw_title": "Celular Samsung Galaxy A55 5g Cor Azul-celeste",
+    "description": "💥 OFERTA IMPERDÍVEL! 💥 Garanta seu novo Celular Samsung Galaxy A55 5G na cor Azul-Celeste com um super desconto! 📱 E tem mais: Frete Grátis para você! 🚚",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "R$ 2.999,00",
+    "price": "R$ 2.799,00",
+    "discount_percent": 7.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_600268-MLU78900360857_092024-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB34729625?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "15/08/2026 11:02",
+    "created_at_iso": "2026-08-15T11:02:54",
+    "created_ts": 1786791774
+  },
+  {
+    "id": "fe4426932dbf731020",
+    "title": "Smartphone Xiaomi 15T 5G 512GB Cinza",
+    "raw_title": "Smartphone Xiaomi 15t 5g 12+12gb Ram + 512gb, Cinza",
+    "description": "🚨 SUPER OFERTA! 🚀 Garanta já o seu Smartphone Xiaomi 15T 5G Cinza com especificações incríveis: 12+12GB RAM e 512GB de armazenamento! Um verdadeiro mons...",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "R$ 5.289,00",
+    "price": "R$ 4.509,00",
+    "discount_percent": 15.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_913469-MLA93865329554_102025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59103594?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "15/08/2026 11:01",
+    "created_at_iso": "2026-08-15T11:01:46",
+    "created_ts": 1786791706
+  },
+  {
     "id": "f1267c9d1813e2d83f",
     "title": "Kit 2 Tênis Masculino Polo Fran Sapatênis Básico Casual Com Carteira…",
     "raw_title": "Kit 2 Tênis Masculino Polo Fran Sapatênis Básico Casual Com Carteira Cinto e Relógio London",
@@ -2656,39 +2690,5 @@
       "key": "shopee_mae_bebe",
       "name": "Mãe e Bebê"
     }
-  },
-  {
-    "id": "009b8584c32fc69379",
-    "title": "Whey Concentrado + Isolado + Cafeína",
-    "raw_title": "Whey Protein Concentrado + Whey Protein Isolado + Cafeína",
-    "description": "💪 Potencialize seus treinos! Chegou a combinação ideal para você: Whey Protein Concentrado + Whey Protein Isolado + Cafeína! Tenha mais energia e foco p...",
-    "marketplace": "Mercado Livre",
-    "category": "Esportes e Lazer",
-    "old_price": "",
-    "price": "R$ 658,00",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_647505-MLB31230837165_062019-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20818317?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "14/08/2026 11:02",
-    "created_at_iso": "2026-08-14T11:02:23",
-    "created_ts": 1786705343
-  },
-  {
-    "id": "ebfc2b6e57465a82ad",
-    "title": "Bike Spinning Kikos Max-ks5 Preto",
-    "raw_title": "Bike Spinning Kikos Max-ks5 Preto",
-    "description": "🔥 Oferta encontrada! 📌 Bike Spinning Kikos Max-ks5 Preto Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Mercado Livre",
-    "category": "Esportes e Lazer",
-    "old_price": "",
-    "price": "R$ 2.770,00",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_651330-MLA100034011273_122025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB18603556?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "14/08/2026 11:01",
-    "created_at_iso": "2026-08-14T11:01:14",
-    "created_ts": 1786705274
   }
 ]

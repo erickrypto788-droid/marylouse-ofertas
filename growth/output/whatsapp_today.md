@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 15/08/2026 05:05
+Gerado em: 15/08/2026 05:21
 
 ## Como usar
 
@@ -147,14 +147,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
 ```txt
 🐶 Oferta para Ofertas Pet
 
-Vestido Midi Feminino Alfaiataria Amarração Lateral Elegante Social C…
+Whey 900g Proteina Suplemento Músculo Recuperação Aminoácidos
 
-💸 De: R$ 89,58
-🔥 Por: R$ 51,06
-🏷️ 43% OFF
+💸 De: R$ 136,17
+🔥 Por: R$ 39,49
+🏷️ 71% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/AKZlhwb33A
+Ver oferta: https://s.shopee.com.br/3VjTQlom5l
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

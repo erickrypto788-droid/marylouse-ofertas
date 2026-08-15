@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 15/08/2026 05:21
+Gerado em: 15/08/2026 06:21
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 15/08/2026 05:21
 **Produtos usados:**
 
 - SUMIKKO 50 e 100 unidades Infantil Calça Fraldas Ajustável total max…
+- Bebê Reborn Girafinha Luxo
 - Kit 5 Camisetas Regata Bebê Menino Menina
-- Berço Portátil Moises Co-bed Com Balanço Mosquiteiro e Cesto Regulage…
 
 ---
 
@@ -56,7 +56,7 @@ Gerado em: 15/08/2026 05:21
 
 - Panela Arroz Eletrica Fmaxx 10 Xicaras 1.8l 700w Inox 220v 60hz
 - Panela De Pressão 4,5litros Panelux Linha Classic Alto Brilho A Mais…
-- Cafeteira Italiana Premium 6 Xícaras De Alumínio
+- Fritadeira Air Fryer Mondial Oven Digital 127v
 
 ---
 
@@ -79,8 +79,8 @@ Gerado em: 15/08/2026 05:21
 **Produtos usados:**
 
 - Escova Secadora 3 em 1
-- Perfume Attracione Feminino
-- Perfume Attracione Men com Feromônios
+- Prancha Triondas Ondulador Formador Triplo 22mm Modelador de Cachos O…
+- Kit Masculino 3 Body Splash Essenciale + Kayak + Malbec 200ml
 
 ---
 

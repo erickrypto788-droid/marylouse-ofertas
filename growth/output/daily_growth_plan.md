@@ -1,91 +1,91 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 15/08/2026 08:04
+Gerado em: 15/08/2026 08:23
 
 ## Categorias prioritárias
 
-- 🏋️ **Esportes**: 15 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 🍼 **Mãe e Bebê**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 🍼 **Mãe e Bebê**: 17 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 💻 **Informática**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - ❤️ **Saúde**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
+- 🏋️ **Esportes**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 💄 **Beleza**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🧸 **Brinquedos**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 🐶 **Pet**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
-- 👗 **Moda Feminina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 👜 **Bolsas**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 - 🍳 **Casa e Cozinha**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
+- 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 
 ## Top ofertas para destacar
 
-1. **Whey 900g Proteina Suplemento Músculo Recuperação Aminoácidos**
+1. **Calça Fraldas SUMIKKO Ajustável**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 69,00
+   - Desconto: 65% OFF
+   - Link: https://s.shopee.com.br/9zwxN473XM
+
+2. **Whey 900g Proteina Suplemento Músculo Recuperação Aminoácidos**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 39,49
    - Desconto: 71% OFF
    - Link: https://s.shopee.com.br/3VjTQlom5l
 
-2. **Escova Secadora 3 em 1**
+3. **Escova Secadora 3 em 1**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 37,80
    - Desconto: 87% OFF
    - Link: https://s.shopee.com.br/LmRWhISma
 
-3. **Panela De Pressão 4,5litros Panelux Linha Classic Alto Brilho A Mais…**
+4. **Panela De Pressão 4,5litros Panelux Linha Classic Alto Brilho A Mais…**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 57,90
    - Desconto: 50% OFF
    - Link: https://s.shopee.com.br/3VjTEP3tGc
 
-4. **Panela Arroz Eletrica Fmaxx 10 Xicaras 1.8l 700w Inox 220v 60hz**
+5. **Panela Arroz Eletrica Fmaxx 10 Xicaras 1.8l 700w Inox 220v 60hz**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 144,99
    - Desconto: 64% OFF
    - Link: https://s.shopee.com.br/8pkyuzm4S7
 
-5. **Mesa Dobrável Notebook Retrátil**
+6. **Mesa Dobrável Notebook Retrátil**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 37,99
    - Desconto: 57% OFF
    - Link: https://s.shopee.com.br/904Nr11WRe
 
-6. **Mesa Notebook Ergonômica**
+7. **Mesa Notebook Ergonômica**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 79,90
    - Desconto: 80% OFF
    - Link: https://s.shopee.com.br/1LewenbKDY
 
-7. **Caderno A5 de couro macio 360 folhas retro notebook para agenda 2026…**
+8. **Caderno A5 de couro macio 360 folhas retro notebook para agenda 2026…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 35,99
    - Desconto: 57% OFF
    - Link: https://s.shopee.com.br/50YExQKqen
 
-8. **Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com…**
+9. **Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 19,79
    - Desconto: 61% OFF
    - Link: https://s.shopee.com.br/5q7MY2H8Mx
 
-9. **Mochila Reforçada para Notebook**
+10. **Mochila Reforçada para Notebook**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 32,90
    - Desconto: 56% OFF
    - Link: https://s.shopee.com.br/9KhDz9LeIV
-
-10. **Mochila Escolar Impermeável Grande 45 L Notebook 17 Resistente Mascul…**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 29,90
-   - Desconto: 57% OFF
-   - Link: https://s.shopee.com.br/qifrWs0Xm
 
 ## Ações gratuitas recomendadas
 

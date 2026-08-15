@@ -1,5 +1,22 @@
 [
   {
+    "id": "02906701e6fbb33e6c",
+    "title": "Prancha Esteira Ergometrica Kikos E600ix Preto",
+    "raw_title": "Prancha Esteira Ergometrica Kikos E600ix Preto",
+    "description": "🔥 14% OFF — Oferta encontrada! 📌 Prancha Esteira Ergometrica Kikos E600ix Preto Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Esportes e Lazer",
+    "old_price": "R$ 222,43",
+    "price": "R$ 191,28",
+    "discount_percent": 14.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_947050-MLA111078716610_052026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70114350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "15/08/2026 22:01",
+    "created_at_iso": "2026-08-15T22:01:33",
+    "created_ts": 1786831293
+  },
+  {
     "id": "604db4cdf72749f136",
     "title": "Pipoqueira Máquina De Fazer Pipoca Elétrica Ar Quente Profissional Se…",
     "raw_title": "Pipoqueira Máquina De Fazer Pipoca Elétrica Ar Quente Profissional Sem Óleo Rápida",
@@ -2864,26 +2881,5 @@
     "created_at": "14/08/2026 22:01",
     "created_at_iso": "2026-08-14T22:01:38",
     "created_ts": 1786744898
-  },
-  {
-    "id": "334b2513e1aaa21612",
-    "title": "Kit 3 Camisas Dry Fit Masculino Academia Tecido Leve Musculação e Tre…",
-    "raw_title": "Kit 3 Camisas Dry Fit Masculino Academia Tecido Leve Musculação e Treino",
-    "description": "🔥 60% OFF — Oferta encontrada! 📌 Kit 3 Camisas Dry Fit Masculino Academia Tecido Leve Musculação e Treino Confira os detalhes e aproveite enquanto a ofe...",
-    "marketplace": "Shopee",
-    "category": "Roupas Masculinas",
-    "old_price": "R$ 147,38",
-    "price": "R$ 58,95",
-    "discount_percent": 60.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-ma8hj5abnd6hd5",
-    "affiliate_url": "https://s.shopee.com.br/50YGgYYr7F",
-    "created_at": "14/08/2026 21:20",
-    "created_at_iso": "2026-08-14T21:20:09",
-    "created_ts": 1786742409,
-    "niche": {
-      "key": "shopee_roupas_masculinas",
-      "name": "Roupas Masculinas"
-    }
   }
 ]

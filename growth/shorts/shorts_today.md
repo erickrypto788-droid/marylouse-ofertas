@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 15/08/2026 03:21
+Gerado em: 15/08/2026 04:22
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 15/08/2026 03:21
 **Produtos usados:**
 
 - SUMIKKO 50 e 100 unidades Infantil Calça Fraldas Ajustável total max…
+- Kit 5 Camisetas Regata Bebê Menino Menina
 - Berço Portátil Moises Co-bed Com Balanço Mosquiteiro e Cesto Regulage…
-- Kit Verão Bebê Menino
 
 ---
 
@@ -104,7 +104,7 @@ Gerado em: 15/08/2026 03:21
 
 - Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com…
 - Fone Bluetooth Pro5 Premium | Imersão Total c Cancelamento Ruído Qual…
-- Amplificador de Tela 3D para Celular
+- Carregador Portátil Sem Fio
 
 ---
 

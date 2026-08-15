@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 15/08/2026 03:58
+Gerado em: 15/08/2026 04:22
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Calças Jeans Femininas Plus Size Cintura Alta Até o Umbigo Lycra
+Casaco Teddy Infantil Menina Capuz Touca com Ziper Ted Tedy Forrado Q…
 
-💸 De: R$ 161,30
-🔥 Por: R$ 48,39
-🏷️ 70% OFF
+💸 De: R$ 70,94
+🔥 Por: R$ 21,99
+🏷️ 69% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/2LXVZn77XZ
+Ver oferta: https://s.shopee.com.br/30nClioMGF
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

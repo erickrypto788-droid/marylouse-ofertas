@@ -1,5 +1,39 @@
 [
   {
+    "id": "59bd4ac30d8d855425",
+    "title": "Vestido feminino casual feminino Guess, relógio esportivo, pulseira,…",
+    "raw_title": "Vestido feminino casual feminino Guess, relógio esportivo, pulseira, cor dourada",
+    "description": "🔥 Oferta encontrada! 📌 Vestido feminino casual feminino Guess, relógio esportivo, pulseira, cor dourada Confira os detalhes e aproveite enquanto a ofert...",
+    "marketplace": "Mercado Livre",
+    "category": "Esportes e Lazer",
+    "old_price": "",
+    "price": "R$ 673,58",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_844926-MLU77096472529_062024-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB25981434?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "15/08/2026 21:03",
+    "created_at_iso": "2026-08-15T21:03:27",
+    "created_ts": 1786827807
+  },
+  {
+    "id": "4bea107befc3535284",
+    "title": "Conjunto Feminino Shorts Saia e Blusa Elegante",
+    "raw_title": "Conjunto Feminino Shorts Saia E Blusa Elegante Festa Balada Cor Conjunto Feminino Shorts Saia Preto",
+    "description": "✨ UAU! Look perfeito para você brilhar! ✨ Arrase na festa ou balada com este Conjunto Feminino Shorts Saia e Blusa Elegante. Estilo e conforto garantido...",
+    "marketplace": "Mercado Livre",
+    "category": "Roupas Femininas",
+    "old_price": "R$ 239,90",
+    "price": "R$ 167,93",
+    "discount_percent": 30.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_725732-MLA113726873657_062026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74520688?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "15/08/2026 21:02",
+    "created_at_iso": "2026-08-15T21:02:23",
+    "created_ts": 1786827743
+  },
+  {
     "id": "8eeb82354bccb6946b",
     "title": "Fone De Ouvido Inpods 13 Bluetooth Sem Fio Com Microfone Fones esport…",
     "raw_title": "Fone De Ouvido Inpods 13 Bluetooth Sem Fio Com Microfone Fones esportivos Adequado Branco",
@@ -2829,27 +2863,6 @@
     "niche": {
       "key": "shopee_roupas_masculinas",
       "name": "Roupas Masculinas"
-    }
-  },
-  {
-    "id": "5e3e4b3444a4083daa",
-    "title": "Blusa Tule Ondas Feminina",
-    "raw_title": "Blusa Tule Ondas Feminina Manga Longa Transparente Elegante Promoção",
-    "description": "🚨 ESTILO E ELEGÂNCIA PELA METADE DO PREÇO! ✨ Blusa Tule Ondas Feminina Manga Longa Transparente. Perfeita para um look sofisticado e moderno!",
-    "marketplace": "Shopee",
-    "category": "Roupas Femininas",
-    "old_price": "R$ 59,98",
-    "price": "R$ 29,99",
-    "discount_percent": 50.0,
-    "rating": 4.7,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lh-moa3o617opvqe4",
-    "affiliate_url": "https://s.shopee.com.br/3qMHplUMLM",
-    "created_at": "14/08/2026 20:20",
-    "created_at_iso": "2026-08-14T20:20:19",
-    "created_ts": 1786738819,
-    "niche": {
-      "key": "shopee_roupas_femininas",
-      "name": "Roupas Femininas"
     }
   }
 ]

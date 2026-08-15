@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 15/08/2026 15:39
+Gerado em: 15/08/2026 16:21
 
 ## Categorias prioritárias
 
-- 💻 **Informática**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 👗 **Moda Feminina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
-- 🐶 **Pet**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
+- 💻 **Informática**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 🍼 **Mãe e Bebê**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 📦 **Outros**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 👕 **Moda Masculina**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
+- 🐶 **Pet**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 🎮 **Games**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-games.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_games
 - 👟 **Calçados**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 🏋️ **Esportes**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 💄 **Beleza**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 👜 **Bolsas**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
+- 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 
 ## Top ofertas para destacar
 
@@ -66,26 +66,26 @@ Gerado em: 15/08/2026 15:39
    - Desconto: 50% OFF
    - Link: https://s.shopee.com.br/3VjTEP3tGc
 
-8. **Panela Arroz Eletrica Fmaxx 10 Xicaras 1.8l 700w Inox 220v 60hz**
-   - Categoria: Casa e Cozinha
-   - Loja: Shopee
-   - Preço: R$ 144,99
-   - Desconto: 64% OFF
-   - Link: https://s.shopee.com.br/8pkyuzm4S7
-
-9. **Toalha de Banho Fralda Soft Bebê**
+8. **Toalha de Banho Fralda Soft Bebê**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 31,99
    - Desconto: 47% OFF
    - Link: https://s.shopee.com.br/W5pGYlvAO
 
-10. **Vestido Midi Feminino Alfaiataria Amarração Lateral Elegante Social C…**
+9. **Vestido Midi Feminino Alfaiataria Amarração Lateral Elegante Social C…**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 51,06
    - Desconto: 43% OFF
    - Link: https://s.shopee.com.br/AKZlhwb33A
+
+10. **Controlador Sem Fio Com Vibração Bluetooth One Game Ones XBOX Control…**
+   - Categoria: Pet
+   - Loja: Shopee
+   - Preço: R$ 249,80
+   - Desconto: 33% OFF
+   - Link: https://s.shopee.com.br/1Lewn2kYxC
 
 ## Ações gratuitas recomendadas
 

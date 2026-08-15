@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 15/08/2026 03:04
+Gerado em: 15/08/2026 03:21
 
 ## Como usar
 
@@ -78,9 +78,9 @@ Gerado em: 15/08/2026 03:04
 
 **Produtos usados:**
 
+- Escova Secadora 3 em 1
 - Perfume Attracione Feminino
 - Perfume Attracione Men com Feromônios
-- Corretivo Líquido Under Eye 10 ML - Ruby Kisses
 
 ---
 

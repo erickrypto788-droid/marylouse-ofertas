@@ -1,5 +1,22 @@
 [
   {
+    "id": "dd62c7def226944725",
+    "title": "Aparelho Monitor Pressão Arterial Portátil Pulso Omron",
+    "raw_title": "Aparelho Monitor Pressão Arterial Portátil Pulso Omron",
+    "description": "🔥 Oferta encontrada! 📌 Aparelho Monitor Pressão Arterial Portátil Pulso Omron Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Saúde",
+    "old_price": "",
+    "price": "R$ 180,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_732248-MLA108909250030_032026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB22958206?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "15/08/2026 13:01",
+    "created_at_iso": "2026-08-15T13:01:13",
+    "created_ts": 1786798873
+  },
+  {
     "id": "e6078ccab7f5969ac5",
     "title": "Mesa Escrivaninha Gamer para Computador PC Athenas com Nicho CPU Home…",
     "raw_title": "Mesa Escrivaninha Gamer para Computador PC Athenas com Nicho CPU Home Office Setup para 2 Monitores",
@@ -2670,26 +2687,5 @@
     "created_at": "14/08/2026 13:01",
     "created_at_iso": "2026-08-14T13:01:39",
     "created_ts": 1786712499
-  },
-  {
-    "id": "10343f609ef6604460",
-    "title": "Mochila De Viagem Feminina Multifuncional Impermeável Reforçada Expan…",
-    "raw_title": "Mochila De Viagem Feminina Multifuncional Impermeável Reforçada Expansível para Trilha Esportiva",
-    "description": "🔥 83% OFF — Oferta encontrada! 📌 Mochila De Viagem Feminina Multifuncional Impermeável Reforçada Expansível para Trilha Esportiva Confira os detalhes e...",
-    "marketplace": "Shopee",
-    "category": "Bolsas Femininas",
-    "old_price": "R$ 705,76",
-    "price": "R$ 119,98",
-    "discount_percent": 83.0,
-    "rating": 5.0,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820la-mmi9yl6sgi6819",
-    "affiliate_url": "https://s.shopee.com.br/9KhFFRaIEI",
-    "created_at": "14/08/2026 12:20",
-    "created_at_iso": "2026-08-14T12:20:05",
-    "created_ts": 1786710005,
-    "niche": {
-      "key": "shopee_bolsas_femininas",
-      "name": "Bolsas Femininas"
-    }
   }
 ]

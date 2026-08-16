@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 16/08/2026 15:06
+Gerado em: 16/08/2026 15:19
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
 ```txt
 👟 Oferta para Moda e Calçados
 
-Tênis Casual Masculino Street Original Leve, Confortável Sapatenis R1…
+Tênis Feminino Esportivo O2x
 
-💸 De: R$ 150,00
-🔥 Por: R$ 51,00
-🏷️ 66% OFF
+💸 De: R$ 99,75
+🔥 Por: R$ 39,90
+🏷️ 60% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/2qTopVrYUt
+Ver oferta: https://s.shopee.com.br/7Aco3ahlkn
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

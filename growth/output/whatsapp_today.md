@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 16/08/2026 15:40
+Gerado em: 16/08/2026 16:21
 
 ## Como usar
 
@@ -27,14 +27,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
 ```txt
 📱 Oferta para Celulares e Tecnologia
 
-Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com…
+Tela Magnética Monitor para Celular Sem Fio
 
-💸 De: R$ 50,74
-🔥 Por: R$ 19,79
-🏷️ 61% OFF
+💸 De: R$ 399,65
+🔥 Por: R$ 135,88
+🏷️ 66% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/7AclX1DwPE
+Ver oferta: https://s.shopee.com.br/8V8BiAjTyX
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
@@ -132,37 +132,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 5 — Moda Feminina
-
-**Canal recomendado:** Moda Feminina
-
-**Horário sugerido:** 12:00 - 14:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
-
-**Texto pronto:**
-
-```txt
-👗 Oferta para Moda Feminina
-
-Conjunto Segunda Pele Térmica Flanelado Frio Intenso Preto Proteção U…
-
-💸 De: R$ 90,61
-🔥 Por: R$ 29,90
-🏷️ 67% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/19bvXM1DU
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 6 — Moda e Calçados
+## Post 5 — Moda e Calçados
 
 **Canal recomendado:** Moda e Calçados
 
@@ -185,6 +155,36 @@ Tênis Feminino Esportivo O2x
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/7Aco3ahlkn
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 6 — Saúde
+
+**Canal recomendado:** Saúde e Bem-estar
+
+**Horário sugerido:** 09:00 - 11:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/saude.png
+
+**Texto pronto:**
+
+```txt
+❤️ Oferta para Saúde
+
+Aparelho Medidor De Glicose G-tech Vita Kit 10tiras+10lancet
+
+💸 De: R$ 131,14
+🔥 Por: R$ 45,90
+🏷️ 65% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/6AkEjuEfAO
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 16/08/2026 08:04
+Gerado em: 16/08/2026 08:22
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 16/08/2026 08:04
 
 **Produtos usados:**
 
-- Calça Fraldas SUMIKKO Ajustável
-- Toalha de Banho Fralda Soft Bebê
 - NINHO REDUTOR DE BERÇO | COM ZIPER E LAÇO | TROCADOR PORTÁTIL |…
+- Berço Portátil Moises Co-bed Com Balanço Mosquiteiro e Cesto Regulage…
+- Fralda Pampers Confort Sec Jumbo Plus XXG com 112un
 
 ---
 
@@ -54,9 +54,9 @@ Gerado em: 16/08/2026 08:04
 
 **Produtos usados:**
 
+- Etiquetas para Potes de Temperos
 - Espremedor Elétrico Laranja Limão Frutas Fazer Sucos Recarregável Usb…
 - Cafeteira Italiana Premium
-- Cadeira Massagem Escritório Presidente
 
 ---
 
@@ -103,8 +103,8 @@ Gerado em: 16/08/2026 08:04
 **Produtos usados:**
 
 - Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com…
+- Kit Mobilador Gamer
 - Basike Carregador Portátil Power Bank 20000mAh Bateria Externa Para i…
-- Kit 3 Shorts 2 em 1 Masculino Academia
 
 ---
 

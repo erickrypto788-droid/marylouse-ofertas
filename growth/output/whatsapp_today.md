@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 16/08/2026 19:03
+Gerado em: 16/08/2026 19:21
 
 ## Como usar
 
@@ -72,37 +72,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 3 — Ofertas Pet
-
-**Canal recomendado:** Ofertas Pet
-
-**Horário sugerido:** 17:00 - 20:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
-
-**Texto pronto:**
-
-```txt
-🐶 Oferta para Ofertas Pet
-
-Sandália Papete Feminina Ortopédica com Elástico Confortável Moderna…
-
-💸 De: R$ 89,90
-🔥 Por: R$ 35,06
-🏷️ 61% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/80Btiif2Gj
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 4 — Mamãe e Bebê
+## Post 3 — Mamãe e Bebê
 
 **Canal recomendado:** Mamãe e Bebê
 
@@ -132,6 +102,36 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
+## Post 4 — Ofertas Pet
+
+**Canal recomendado:** Ofertas Pet
+
+**Horário sugerido:** 17:00 - 20:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
+
+**Texto pronto:**
+
+```txt
+🐶 Oferta para Ofertas Pet
+
+Sandália Babuche Infantil Papete Menina ADULTO
+
+💸 De: R$ 40,18
+🔥 Por: R$ 22,90
+🏷️ 43% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/6VN7WqyNpT
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
 ## Post 5 — Moda e Calçados
 
 **Canal recomendado:** Moda e Calçados
@@ -147,14 +147,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
 ```txt
 👟 Oferta para Moda e Calçados
 
-Tênis Feminino Esportivo O2x
+Tênis Branco Infantil Leve Macio Confortável Original Envio Imediato
 
-💸 De: R$ 99,75
-🔥 Por: R$ 39,90
+💸 De: R$ 99,72
+🔥 Por: R$ 39,89
 🏷️ 60% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/7Aco3ahlkn
+Ver oferta: https://s.shopee.com.br/70JO7lwTok
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

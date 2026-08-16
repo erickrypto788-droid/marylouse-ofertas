@@ -1,5 +1,22 @@
 [
   {
+    "id": "9ca2971769f9f2beac",
+    "title": "Xiaomi Redmi 9C Azul",
+    "raw_title": "Smartphone Xiaomi Redmi 9c 32gb Azul",
+    "description": "📱 IMPERDÍVEL! Xiaomi Redmi 9c 32gb Azul! ✨ Desempenho e estilo no seu bolso, com espaço de sobra para tudo que você precisa. 🚚 Frete Grátis!",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "",
+    "price": "R$ 999,99",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_728028-MLA99575117872_122025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47326105?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "16/08/2026 04:01",
+    "created_at_iso": "2026-08-16T04:01:37",
+    "created_ts": 1786852897
+  },
+  {
     "id": "aae8413b48fd67e677",
     "title": "Soundbar Samsung Hw-b400f + Soundbar Hw-b400f Preto",
     "raw_title": "Soundbar Samsung Hw-b400f + Soundbar Hw-b400f Preto",
@@ -2794,111 +2811,6 @@
     "niche": {
       "key": "shopee_moda_infantil",
       "name": "Moda Infantil"
-    }
-  },
-  {
-    "id": "267aadcf591b95ef5c",
-    "title": "Sérum Roll-On Área dos Olhos Adeus Olheiras 10ml Kokeshi",
-    "raw_title": "Sérum Roll-On Área dos Olhos Adeus Olheiras 10ml Kokeshi",
-    "description": "🔥 21% OFF — Oferta encontrada! 📌 Sérum Roll-On Área dos Olhos Adeus Olheiras 10ml Kokeshi Confira os detalhes e aproveite enquanto a oferta estiver disp...",
-    "marketplace": "Shopee",
-    "category": "Beleza",
-    "old_price": "R$ 31,91",
-    "price": "R$ 25,21",
-    "discount_percent": 21.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820l4-mnlltv7h54ow6e",
-    "affiliate_url": "https://s.shopee.com.br/8fRZS14TWd",
-    "created_at": "15/08/2026 03:19",
-    "created_at_iso": "2026-08-15T03:19:58",
-    "created_ts": 1786763998,
-    "niche": {
-      "key": "shopee_beleza",
-      "name": "Beleza"
-    }
-  },
-  {
-    "id": "4d1c5d7bed85ec808c",
-    "title": "Kit Dupla Renovadores Faciais Kokeshi Pele Porcelana Olhos Gueixa",
-    "raw_title": "Kit Dupla Renovadores Faciais Kokeshi Pele Porcelana Olhos Gueixa",
-    "description": "🔥 21% OFF — Oferta encontrada! 📌 Kit Dupla Renovadores Faciais Kokeshi Pele Porcelana Olhos Gueixa Confira os detalhes e aproveite enquanto a oferta est...",
-    "marketplace": "Shopee",
-    "category": "Beleza",
-    "old_price": "R$ 55,91",
-    "price": "R$ 44,17",
-    "discount_percent": 21.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820l6-mq3nf4vg8k5f75",
-    "affiliate_url": "https://s.shopee.com.br/904Pqd3Cqf",
-    "created_at": "15/08/2026 03:18",
-    "created_at_iso": "2026-08-15T03:18:54",
-    "created_ts": 1786763934,
-    "niche": {
-      "key": "shopee_beleza",
-      "name": "Beleza"
-    }
-  },
-  {
-    "id": "91b759ebf69245ef10",
-    "title": "Prancha Triondas Ondulador Formador Triplo 22mm Modelador de Cachos O…",
-    "raw_title": "Prancha Triondas Ondulador Formador Triplo 22mm Modelador de Cachos Onda Cabelo Cerâmica Para Longo E Curto 200",
-    "description": "🔥 66% OFF — Oferta encontrada! 📌 Prancha Triondas Ondulador Formador Triplo 22mm Modelador de Cachos Onda Cabelo Cerâmica Para Longo E Curto 200 Confira...",
-    "marketplace": "Shopee",
-    "category": "Beleza",
-    "old_price": "R$ 120,56",
-    "price": "R$ 40,99",
-    "discount_percent": 66.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7rd5h-lw3j7weuu3iw59",
-    "affiliate_url": "https://s.shopee.com.br/4AzA5k8PJL",
-    "created_at": "15/08/2026 03:17",
-    "created_at_iso": "2026-08-15T03:17:50",
-    "created_ts": 1786763870,
-    "niche": {
-      "key": "shopee_beleza",
-      "name": "Beleza"
-    }
-  },
-  {
-    "id": "0a8ce55d37817452d9",
-    "title": "Kit Masculino 3 Body Splash Essenciale + Kayak + Malbec 200ml",
-    "raw_title": "Kit Masculino 3 Body Splash Essenciale + Kayak + Malbec 200ml",
-    "description": "🔥 69% OFF — Oferta encontrada! 📌 Kit Masculino 3 Body Splash Essenciale + Kayak + Malbec 200ml Confira os detalhes e aproveite enquanto a oferta estiver...",
-    "marketplace": "Shopee",
-    "category": "Beleza",
-    "old_price": "R$ 148,06",
-    "price": "R$ 45,90",
-    "discount_percent": 69.0,
-    "rating": 4.7,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdukdrfj7rnd54",
-    "affiliate_url": "https://s.shopee.com.br/2qTmVI4XwQ",
-    "created_at": "15/08/2026 03:16",
-    "created_at_iso": "2026-08-15T03:16:46",
-    "created_ts": 1786763806,
-    "niche": {
-      "key": "shopee_beleza",
-      "name": "Beleza"
-    }
-  },
-  {
-    "id": "1bc7aa7e25bf81c71f",
-    "title": "Escova Secadora 3 em 1",
-    "raw_title": "Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler APENAS 110V Jimmystore",
-    "description": "✨ **CABELO PERFEITO EM MINUTOS!** ✨ Conheça a Escova Secadora Alisador Elétrica 3 em 1! Seque, alise e modele seus fios com praticidade e rapidez. Tenha...",
-    "marketplace": "Shopee",
-    "category": "Beleza",
-    "old_price": "R$ 290,77",
-    "price": "R$ 37,80",
-    "discount_percent": 87.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7ra3j-mblwmvx5pq1o34",
-    "affiliate_url": "https://s.shopee.com.br/LmRWhISma",
-    "created_at": "15/08/2026 03:15",
-    "created_at_iso": "2026-08-15T03:15:42",
-    "created_ts": 1786763742,
-    "niche": {
-      "key": "shopee_beleza",
-      "name": "Beleza"
     }
   }
 ]

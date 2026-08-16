@@ -1,5 +1,110 @@
 [
   {
+    "id": "68ca30afd4a84ba7c9",
+    "title": "Pasta de Amendoim Dr Peanut",
+    "raw_title": "Pasta de Amendoim com Whey Protein 600g Dr Peanut",
+    "description": "💥 Sabor e Proteína em Dobro! A queridinha Pasta de Amendoim com Whey Protein 600g da Dr Peanut está com um precinho que você não pode perder! 💪 Perfeita...",
+    "marketplace": "Shopee",
+    "category": "Bebidas e Alimentos",
+    "old_price": "R$ 98,96",
+    "price": "R$ 47,50",
+    "discount_percent": 52.0,
+    "rating": 5.0,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjogvg8bh62p24",
+    "affiliate_url": "https://s.shopee.com.br/3VjTxidWie",
+    "created_at": "16/08/2026 09:20",
+    "created_at_iso": "2026-08-16T09:20:09",
+    "created_ts": 1786872009,
+    "niche": {
+      "key": "shopee_bebidas_alimentos",
+      "name": "Bebidas e Alimentos"
+    }
+  },
+  {
+    "id": "fc289d592c58e05666",
+    "title": "Filtro de Café Inox Reutilizável",
+    "raw_title": "Filtro De Café 103 Inox - Coador de Café Grande Sem Uso De Papel - Mazzal atacado",
+    "description": "☕️ Chega de gastar com filtro de papel! Tenha um café perfeito e sustentável todos os dias com o Filtro de Café 103 Inox. Reutilizável, prático e econôm...",
+    "marketplace": "Shopee",
+    "category": "Bebidas e Alimentos",
+    "old_price": "R$ 72,34",
+    "price": "R$ 20,98",
+    "discount_percent": 71.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7rdyd-m1h4z2rsedhl2f",
+    "affiliate_url": "https://s.shopee.com.br/7KwCWlOvwW",
+    "created_at": "16/08/2026 09:19",
+    "created_at_iso": "2026-08-16T09:19:02",
+    "created_ts": 1786871942,
+    "niche": {
+      "key": "shopee_bebidas_alimentos",
+      "name": "Bebidas e Alimentos"
+    }
+  },
+  {
+    "id": "1e3831c6f6d15ad0e7",
+    "title": "Batedor Mixer Elétrico 2 em 1",
+    "raw_title": "Batedor Misturador Mixer Elétrico para Bebidas Leite Café Clara de Ovo 2 em 1",
+    "description": "⚡️ Sabe aquele café cremoso ou a bebida perfeita? Com o Batedor Mixer Elétrico 2 em 1, você prepara tudo em segundos! ☕🥛 Perfeito para leite, café, clar...",
+    "marketplace": "Shopee",
+    "category": "Bebidas e Alimentos",
+    "old_price": "R$ 90,43",
+    "price": "R$ 18,99",
+    "discount_percent": 79.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7rd48-lupf3z3a40mxf1",
+    "affiliate_url": "https://s.shopee.com.br/19bnHqqon",
+    "created_at": "16/08/2026 09:17",
+    "created_at_iso": "2026-08-16T09:17:54",
+    "created_ts": 1786871874,
+    "niche": {
+      "key": "shopee_bebidas_alimentos",
+      "name": "Bebidas e Alimentos"
+    }
+  },
+  {
+    "id": "13b418487e1c93f9bf",
+    "title": "Chaleira Elétrica Inox 1.8L",
+    "raw_title": "Chaleira Elétrica Jarra 1.8L Café Chá Inox 220v",
+    "description": "✨ OFERTA QUENTE! ✨ Chega de esperar! Tenha seu café ou chá pronto em segundos com a Chaleira Elétrica Jarra 1.8L Inox 220v! ☕ Perfeita para sua rotina,...",
+    "marketplace": "Shopee",
+    "category": "Bebidas e Alimentos",
+    "old_price": "R$ 99,98",
+    "price": "R$ 46,99",
+    "discount_percent": 53.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820l8-mrk47ehpkr9j88",
+    "affiliate_url": "https://s.shopee.com.br/3LQ3lPeA3d",
+    "created_at": "16/08/2026 09:16",
+    "created_at_iso": "2026-08-16T09:16:46",
+    "created_ts": 1786871806,
+    "niche": {
+      "key": "shopee_bebidas_alimentos",
+      "name": "Bebidas e Alimentos"
+    }
+  },
+  {
+    "id": "651c009bf51389e28e",
+    "title": "Pré Treino Diabo Verde FTW",
+    "raw_title": "Pré Treino Diabo Verde Pre-Workout 150g - FTW",
+    "description": "⚡️ ENERGIA MÁXIMA PARA SEUS TREINOS! Prepare-se para detonar com o Pré Treino Diabo Verde Pre-Workout 150g - FTW! 💪 Mais de 5 mil unidades vendidas e 42...",
+    "marketplace": "Shopee",
+    "category": "Bebidas e Alimentos",
+    "old_price": "R$ 68,79",
+    "price": "R$ 39,90",
+    "discount_percent": 42.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi9otpx56woy4a",
+    "affiliate_url": "https://s.shopee.com.br/3qMKMKtvRO",
+    "created_at": "16/08/2026 09:15",
+    "created_at_iso": "2026-08-16T09:15:39",
+    "created_ts": 1786871739,
+    "niche": {
+      "key": "shopee_bebidas_alimentos",
+      "name": "Bebidas e Alimentos"
+    }
+  },
+  {
     "id": "d4a4b26f7c1eb18faa",
     "title": "Babá Eletrônica Hellobaby Hb66pro",
     "raw_title": "Babá Eletrônica Hellobaby Hb66pro Monitor Bebê 3.2 White",
@@ -2683,89 +2788,5 @@
     "created_at": "15/08/2026 10:01",
     "created_at_iso": "2026-08-15T10:01:21",
     "created_ts": 1786788081
-  },
-  {
-    "id": "ceae28e562edd94197",
-    "title": "Bolsa Feminina TOMI MITO",
-    "raw_title": "TOMI MITO Bolsa Feminina com Alça Lateral Transversal de Ombro de Couro PU T304",
-    "description": "🚨 IMPERDÍVEL! Bolsa Feminina TOMI MITO com 75% OFF! ✨ Estilo e praticidade para o seu dia a dia! Esta bolsa transversal de ombro em couro PU é a escolha...",
-    "marketplace": "Shopee",
-    "category": "Bolsas Femininas",
-    "old_price": "R$ 159,96",
-    "price": "R$ 39,99",
-    "discount_percent": 75.0,
-    "rating": 4.7,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820l4-mr000fw1p7nr7b",
-    "affiliate_url": "https://s.shopee.com.br/3g2ttXtXuW",
-    "created_at": "15/08/2026 09:19",
-    "created_at_iso": "2026-08-15T09:19:00",
-    "created_ts": 1786785540,
-    "niche": {
-      "key": "shopee_bolsas_femininas",
-      "name": "Bolsas Femininas"
-    }
-  },
-  {
-    "id": "fd325fc26959dd7863",
-    "title": "Bolsa Feminina Casual de Nylon Grande",
-    "raw_title": "SPOETRY Bolsa Feminina Casual de Nylon Nova Grande Ombro Tote",
-    "description": "✨ IMPERDÍVEL! Bolsa Feminina Casual de Nylon com 67% OFF! A Bolsa Feminina SPOETRY é perfeita para o dia a dia! Grande, prática e estilosa para todas as...",
-    "marketplace": "Shopee",
-    "category": "Bolsas Femininas",
-    "old_price": "R$ 100,00",
-    "price": "R$ 33,00",
-    "discount_percent": 67.0,
-    "rating": 4.7,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ld-mlq1ob393uvb2b",
-    "affiliate_url": "https://s.shopee.com.br/9pdXEsWLQG",
-    "created_at": "15/08/2026 09:17",
-    "created_at_iso": "2026-08-15T09:17:51",
-    "created_ts": 1786785471,
-    "niche": {
-      "key": "shopee_bolsas_femininas",
-      "name": "Bolsas Femininas"
-    }
-  },
-  {
-    "id": "4fea0823aa3e624f04",
-    "title": "Mochila ROMANTIC CROWN Executiva",
-    "raw_title": "ROMANTIC CROWN Mochla de Viagem MascuIino e Feminina ImpermeaveI Reforçada Executiva para Notebook",
-    "description": "🔥 MEGA OFERTA! Mochila ROMANTIC CROWN de Viagem Executiva para Notebook! 🎒 Impermeável, reforçada e perfeita para o dia a dia ou suas aventuras.",
-    "marketplace": "Shopee",
-    "category": "Bolsas Femininas",
-    "old_price": "R$ 705,76",
-    "price": "R$ 119,98",
-    "discount_percent": 83.0,
-    "rating": 5.0,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lp-mmi9yl6sf3ls65",
-    "affiliate_url": "https://s.shopee.com.br/7VFcSafE9e",
-    "created_at": "15/08/2026 09:16",
-    "created_at_iso": "2026-08-15T09:16:44",
-    "created_ts": 1786785404,
-    "niche": {
-      "key": "shopee_bolsas_femininas",
-      "name": "Bolsas Femininas"
-    }
-  },
-  {
-    "id": "b22b6c1dcf031dead9",
-    "title": "Mochila de Viagem Multifuncional",
-    "raw_title": "Mochila Vlagem Feminina Masculinas Multifuncional Reforçada Impermeável Expansível Mochila Notebook Antifurto USB",
-    "description": "✈️ A Mochila dos Sonhos para Suas Aventuras! Prepare-se para qualquer jornada com a Mochila Multifuncional Reforçada e Impermeável! Com compartimento pa...",
-    "marketplace": "Shopee",
-    "category": "Bolsas Femininas",
-    "old_price": "R$ 499,92",
-    "price": "R$ 119,98",
-    "discount_percent": 76.0,
-    "rating": 5.0,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820mf-mmgwyk55dxjb9c",
-    "affiliate_url": "https://s.shopee.com.br/7fZ2eteaof",
-    "created_at": "15/08/2026 09:15",
-    "created_at_iso": "2026-08-15T09:15:37",
-    "created_ts": 1786785337,
-    "niche": {
-      "key": "shopee_bolsas_femininas",
-      "name": "Bolsas Femininas"
-    }
   }
 ]

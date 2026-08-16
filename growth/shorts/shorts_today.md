@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 16/08/2026 23:04
+Gerado em: 16/08/2026 23:21
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 16/08/2026 23:04
 
 **Produtos usados:**
 
+- 🎁 Super Kit 48 Carrinhos de Fricção + Pista 🚗 | Presente para Menino…
+- Push Plane Bebê Infantil Das Crianças Empurrador Avião Brinquedo Carr…
 - NINHO REDUTOR DE BERÇO | COM ZIPER E LAÇO | TROCADOR PORTÁTIL |…
-- Berço Portátil Moises Co-bed Com Balanço Mosquiteiro e Cesto Regulage…
-- Fralda Pampers Confort Sec Jumbo Plus XXG com 112un
 
 ---
 
@@ -80,7 +80,7 @@ Gerado em: 16/08/2026 23:04
 
 - Chapinha Profissional Nano Titanium BIVOLT
 - Kit Maquiagem Infantil Lavável 32 Peças
-- Chapinha Cabelo Profissional Prancha Alisadora De Cabelo chapinha Par…
+- Protetor Solar Facial FPS 60 Antioleosidade com Base Efeito Matte Sun…
 
 ---
 

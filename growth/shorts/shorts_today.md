@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 16/08/2026 21:04
+Gerado em: 16/08/2026 21:22
 
 ## Como usar
 
@@ -55,8 +55,8 @@ Gerado em: 16/08/2026 21:04
 **Produtos usados:**
 
 - Etiquetas para Potes de Temperos
-- Espremedor Elétrico Laranja Limão Frutas Fazer Sucos Recarregável Usb…
-- Cafeteira Italiana Premium
+- Fritadeira Air Fryer Mondial Oven Digital 127v
+- Jogo Panelas Grandes Conjunto Caçarolas 40cm - 2 Un Alumínio
 
 ---
 

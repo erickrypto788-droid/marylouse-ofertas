@@ -1,5 +1,39 @@
 [
   {
+    "id": "7786b01f5d3ea3446b",
+    "title": "Smartphone Xiaomi Redmi 14c 4g 256gb Ram 4gb Preto",
+    "raw_title": "Smartphone Xiaomi Redmi 14c 4g 256gb Ram 4gb Preto",
+    "description": "🔥 Oferta encontrada! 📌 Smartphone Xiaomi Redmi 14c 4g 256gb Ram 4gb Preto Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "",
+    "price": "R$ 840,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_937460-MLA99498687452_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47815788?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "16/08/2026 23:02",
+    "created_at_iso": "2026-08-16T23:02:24",
+    "created_ts": 1786921344
+  },
+  {
+    "id": "d4cd5808d38df63d97",
+    "title": "Xiaomi Poco C85 6GB/128GB",
+    "raw_title": "Smartphone xiaomi Poco C85 6gb ram + 128gb, Preto",
+    "description": "🚀 Chegou a hora de ter um celular novo! O Smartphone Xiaomi Poco C85 6GB RAM + 128GB está com um preço incrível! 📱 Perfeito para o seu dia a dia, jogos...",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "",
+    "price": "R$ 716,50",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_634067-MLA99461655120_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB56425611?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "16/08/2026 23:01",
+    "created_at_iso": "2026-08-16T23:01:20",
+    "created_ts": 1786921280
+  },
+  {
     "id": "8c6a1676a2eb19f843",
     "title": "Medidor de Diabetes Glicose no Sangue 50 Tiras + Lanceta E Lancetado…",
     "raw_title": "Medidor de Diabetes Glicose no Sangue 50 Tiras + Lanceta E Lancetador Próxima Alive AGF EXPRESS",
@@ -2902,43 +2936,5 @@
     "created_at": "15/08/2026 23:02",
     "created_at_iso": "2026-08-15T23:02:29",
     "created_ts": 1786834949
-  },
-  {
-    "id": "ea23f535d34f0b72a5",
-    "title": "Barbeador Costas Masculino",
-    "raw_title": "Barbeador Costas Masculino Traseiro Dobrável Aparador Pelos",
-    "description": "🧔 Chega de malabarismos! Tenha costas lisas e impecáveis com o Barbeador Masculino Traseiro Dobrável! ✨ Design ergonômico e fácil de usar para você se l...",
-    "marketplace": "Mercado Livre",
-    "category": "Beleza",
-    "old_price": "R$ 369,06",
-    "price": "R$ 249,00",
-    "discount_percent": 33.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_962334-MLA95523966556_102025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51434487?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "15/08/2026 23:01",
-    "created_at_iso": "2026-08-15T23:01:24",
-    "created_ts": 1786834884
-  },
-  {
-    "id": "4fe39ee3cb87eda344",
-    "title": "Celimax The Vita A Retinal Shot Tightening Booster 15ml",
-    "raw_title": "Celimax The Vita A Retinal Shot Tightening Booster 15ml",
-    "description": "🔥 33% OFF — Oferta encontrada! 📌 Celimax The Vita A Retinal Shot Tightening Booster 15ml Confira os detalhes e aproveite enquanto a oferta estiver dispo...",
-    "marketplace": "Shopee",
-    "category": "Beleza",
-    "old_price": "R$ 219,40",
-    "price": "R$ 147,00",
-    "discount_percent": 33.0,
-    "rating": 5.0,
-    "image": "https://cf.shopee.com.br/file/sg-11134207-825ai-mr9pynhmd43k22",
-    "affiliate_url": "https://s.shopee.com.br/9pdWqA029k",
-    "created_at": "15/08/2026 22:20",
-    "created_at_iso": "2026-08-15T22:20:01",
-    "created_ts": 1786832401,
-    "niche": {
-      "key": "shopee_beleza",
-      "name": "Beleza"
-    }
   }
 ]

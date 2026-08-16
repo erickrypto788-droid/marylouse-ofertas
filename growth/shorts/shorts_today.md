@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 16/08/2026 00:21
+Gerado em: 16/08/2026 01:21
 
 ## Como usar
 
@@ -103,8 +103,8 @@ Gerado em: 16/08/2026 00:21
 **Produtos usados:**
 
 - Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com…
-- Fone Bluetooth Pro5 Premium | Imersão Total c Cancelamento Ruído Qual…
 - Basike Carregador Portátil Power Bank 20000mAh Bateria Externa Para i…
+- Kit 3 Shorts 2 em 1 Masculino Academia
 
 ---
 
@@ -121,13 +121,11 @@ Gerado em: 16/08/2026 00:21
 - growth/shorts/slides/supermercados/01_intro.png
 - growth/shorts/slides/supermercados/02_produto_1.png
 - growth/shorts/slides/supermercados/03_produto_2.png
-- growth/shorts/slides/supermercados/04_produto_3.png
 - growth/shorts/slides/supermercados/05_cta.png
 
 **Produtos usados:**
 
 - Azeite Oliva Extra Virgem Italiano Mercatto
-- Amaciante Roupas Macias Sensiv Titila 5l
 - Condicionador Infantil Lowell Mirtilinho 240ml
 
 ---

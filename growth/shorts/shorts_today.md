@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 16/08/2026 18:05
+Gerado em: 16/08/2026 18:21
 
 ## Como usar
 
@@ -78,9 +78,9 @@ Gerado em: 16/08/2026 18:05
 
 **Produtos usados:**
 
+- Chapinha Profissional Nano Titanium BIVOLT
 - Perfume Attracione Feminino by Attracione Woman Mulher
 - Attracione Men (Perfume Masculino com Feromônios Ativados)
-- Kit Maquiagem Infantil Lavável 32 Peças
 
 ---
 
@@ -127,7 +127,7 @@ Gerado em: 16/08/2026 18:05
 **Produtos usados:**
 
 - Papel Higiênico Indaial Caicai - Folha Dupla
-- Azeite Oliva Extra Virgem Italiano Mercatto
+- Kit Clareador Facial - Sabonete Líquido + Protetor Solar Clareador 70…
 - Azeite Oliva Extra Virgem Português Vila Oliva 500ml (3 Un)
 
 ---

@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 16/08/2026 04:03
+Gerado em: 16/08/2026 04:21
 
 ## Como usar
 
@@ -32,7 +32,7 @@ Gerado em: 16/08/2026 04:03
 
 - Calça Fraldas SUMIKKO Ajustável
 - Toalha de Banho Fralda Soft Bebê
-- Caminhão Dinossauro Porta-Carrinhos
+- NINHO REDUTOR DE BERÇO | COM ZIPER E LAÇO | TROCADOR PORTÁTIL |…
 
 ---
 

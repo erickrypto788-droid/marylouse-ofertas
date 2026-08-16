@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 16/08/2026 06:21
+Gerado em: 16/08/2026 07:21
 
 ## Como usar
 
@@ -80,7 +80,7 @@ Gerado em: 16/08/2026 06:21
 
 - Perfume Attracione Feminino by Attracione Woman Mulher
 - Attracione Men (Perfume Masculino com Feromônios Ativados)
-- Corretivo Líquido Under Eye - Ruby Kisses
+- Kit Maquiagem Infantil Lavável 32 Peças
 
 ---
 

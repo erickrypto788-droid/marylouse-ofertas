@@ -1,5 +1,39 @@
 [
   {
+    "id": "eaad8552c03b601a06",
+    "title": "Ração Estimacat Premium Adulto Sabor Carne 1kg",
+    "raw_title": "Ração Gato Estimacat Premium Adulto Sabor Carne 1kg",
+    "description": "🚨 Seu gato merece o melhor! 🚨 Garanta a Ração Estimacat Premium Adulto Sabor Carne 1kg com um super desconto! 🐾 Sabor e qualidade para seu felino. Não p...",
+    "marketplace": "Mercado Livre",
+    "category": "Pet",
+    "old_price": "R$ 35,14",
+    "price": "R$ 25,56",
+    "discount_percent": 27.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_721073-MLA109162640643_032026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66945649?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "16/08/2026 08:02",
+    "created_at_iso": "2026-08-16T08:02:46",
+    "created_ts": 1786867366
+  },
+  {
+    "id": "ce63f4d91f91ca6cb0",
+    "title": "Comedouro Elevado Duplo para Gatos",
+    "raw_title": "Comedouro Elevado Duplo Ração Gato Porcelana Acrilico 190ml Porta Racao Gato Comedouro Rosa",
+    "description": "😻 Seu gato merece essa novidade! Conforto e saúde em dobro com o Comedouro Elevado Duplo Ração Gato Porcelana Acrilico 190ml Porta Racao Gato Comedouro...",
+    "marketplace": "Mercado Livre",
+    "category": "Pet",
+    "old_price": "R$ 78,80",
+    "price": "R$ 49,90",
+    "discount_percent": 37.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_670668-MLA109132288172_042026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "16/08/2026 08:01",
+    "created_at_iso": "2026-08-16T08:01:40",
+    "created_ts": 1786867300
+  },
+  {
     "id": "eea0744f3906e0fe1f",
     "title": "Kit Maquiagem Infantil Lavável 32 Peças",
     "raw_title": "32 Peças Kit De Maquiagem Para Crianças Lavável/Conjunto Portátil Meninas",
@@ -2718,61 +2752,6 @@
     "niche": {
       "key": "shopee_mae_bebe",
       "name": "Mãe e Bebê"
-    }
-  },
-  {
-    "id": "ab7cafae5f8437badb",
-    "title": "Kit Ferramentas Informática",
-    "raw_title": "Kit Ferramentas Informatica Cor Preto",
-    "description": "🛠️ Kit Ferramentas Informática Essencial! 💻 Tenha tudo o que precisa para seus reparos e montagens. 📦 Frete grátis para todo o Brasil!",
-    "marketplace": "Mercado Livre",
-    "category": "Informática",
-    "old_price": "",
-    "price": "R$ 127,50",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_837553-MLA99455899792_112025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43810473?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "15/08/2026 08:02",
-    "created_at_iso": "2026-08-15T08:02:38",
-    "created_ts": 1786780958
-  },
-  {
-    "id": "9a4ad19b012d5bc801",
-    "title": "Kit Parafusadeira STANLEY + Bateria 20V Grátis",
-    "raw_title": "Parafusadeira STANLEY + Parafusadeira + Ganhe Bateria 20V",
-    "description": "⚡️ MEGA OFERTA STANLEY: Leve o dobro! Garanta já seu Kit Parafusadeira STANLEY + Parafusadeira e ainda GANHE uma Bateria 20V! 💪 Perfeito para seus proje...",
-    "marketplace": "Mercado Livre",
-    "category": "Ferramentas",
-    "old_price": "R$ 1.948,00",
-    "price": "R$ 1.526,00",
-    "discount_percent": 22.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_978686-MLA109195487326_042026-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67606890?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "15/08/2026 08:01",
-    "created_at_iso": "2026-08-15T08:01:32",
-    "created_ts": 1786780892
-  },
-  {
-    "id": "62eebae75ca9c2f8e5",
-    "title": "Balança Digital Cozinha Inox 10kg",
-    "raw_title": "Balança de Cozinha Digital 10kg em Inox Alta Precisão 1g Dieta Fit com Tara LCD Pilhas Inclusas Envio Imediato",
-    "description": "🚨 Precisão na sua cozinha! A Balança de Cozinha Digital 10kg em Inox é perfeita para sua dieta e receitas! 👩‍🍳 Com alta precisão de 1g, função Tara e LC...",
-    "marketplace": "Shopee",
-    "category": "Saúde",
-    "old_price": "R$ 55,08",
-    "price": "R$ 26,99",
-    "discount_percent": 51.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-8259e-mqcspeoh6sqob1",
-    "affiliate_url": "https://s.shopee.com.br/8KojJt6U1r",
-    "created_at": "15/08/2026 07:20",
-    "created_at_iso": "2026-08-15T07:20:20",
-    "created_ts": 1786778420,
-    "niche": {
-      "key": "shopee_saude",
-      "name": "Saúde"
     }
   }
 ]

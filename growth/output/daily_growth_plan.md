@@ -1,17 +1,17 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 16/08/2026 08:50
+Gerado em: 16/08/2026 09:04
 
 ## Categorias prioritárias
 
 - 💻 **Informática**: 15 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 👜 **Bolsas**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
+- 🍼 **Mãe e Bebê**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 📚 **Papelaria**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 - 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 💄 **Beleza**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - ❤️ **Saúde**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
-- 🍼 **Mãe e Bebê**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 👗 **Moda Feminina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 📦 **Outros**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 

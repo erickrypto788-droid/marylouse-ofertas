@@ -1,5 +1,39 @@
 [
   {
+    "id": "50ea6b013d105a94c6",
+    "title": "Monitor Pressão Omron 7122",
+    "raw_title": "Monitor Pressão Omron 7122: Saúde No Seu Braço",
+    "description": "🩺 Cuide da sua saúde com o Monitor de Pressão Omron 7122! Tenha a \"Saúde No Seu Braço\" com este aparelho preciso e fácil de usar. Monitore sua pressão a...",
+    "marketplace": "Mercado Livre",
+    "category": "Saúde",
+    "old_price": "",
+    "price": "R$ 285,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_842801-MLA114477126549_072026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75425217?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "16/08/2026 06:02",
+    "created_at_iso": "2026-08-16T06:02:47",
+    "created_ts": 1786860167
+  },
+  {
+    "id": "ef699de2953ef1c633",
+    "title": "Monitor de Pressão Arterial de Braço",
+    "raw_title": "Monitor De Pressão Arterial De Braço Monitor pressao arterial HC10014 MUINAIFTE Cor Blanco",
+    "description": "🚨 CUIDE DA SUA SAÚDE! Monitore sua pressão arterial com precisão e conforto no seu dia a dia! 🏡 Tenha o controle na palma da sua mão com o Monitor De Pr...",
+    "marketplace": "Mercado Livre",
+    "category": "Saúde",
+    "old_price": "R$ 149,98",
+    "price": "R$ 89,99",
+    "discount_percent": 40.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_955323-MLA108180209918_032026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62814199?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "16/08/2026 06:01",
+    "created_at_iso": "2026-08-16T06:01:36",
+    "created_ts": 1786860096
+  },
+  {
     "id": "c5b84270067b3f293e",
     "title": "Mochila viral Laptop Viagem Escolar À Prova D'água Executiva Notebook…",
     "raw_title": "Mochila viral Laptop Viagem Escolar À Prova D'água Executiva Notebook Impermeável Guarda Tenis-W01 bosco",
@@ -2718,69 +2752,6 @@
     "niche": {
       "key": "shopee_brinquedos_hobbies",
       "name": "Brinquedos e Hobbies"
-    }
-  },
-  {
-    "id": "8d112fb64f12716400",
-    "title": "Mini Compressor De Ar Portátil Recarregável Digital USB Calibrador De…",
-    "raw_title": "Mini Compressor De Ar Portátil Recarregável Digital USB Calibrador De Pneus Carro Moto Bicicleta Infláveis Automático",
-    "description": "🔥 66% OFF — Oferta encontrada! 📌 Mini Compressor De Ar Portátil Recarregável Digital USB Calibrador De Pneus Carro Moto Bicicleta Infláveis Automático C...",
-    "marketplace": "Shopee",
-    "category": "Esportes e Lazer",
-    "old_price": "R$ 202,91",
-    "price": "R$ 68,99",
-    "discount_percent": 66.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7rd5k-m7r1faf4n6ivbc",
-    "affiliate_url": "https://s.shopee.com.br/AAGNN1GjWf",
-    "created_at": "15/08/2026 05:19",
-    "created_at_iso": "2026-08-15T05:19:57",
-    "created_ts": 1786771197,
-    "niche": {
-      "key": "shopee_esportes_lazer",
-      "name": "Esportes e Lazer"
-    }
-  },
-  {
-    "id": "eda8501495133b6dcc",
-    "title": "Tênis Casual Branco Feminino Masculino Conforto Premium Academia Orig…",
-    "raw_title": "Tênis Casual Branco Feminino Masculino Conforto Premium Academia Original",
-    "description": "🔥 70% OFF — Oferta encontrada! 📌 Tênis Casual Branco Feminino Masculino Conforto Premium Academia Original Confira os detalhes e aproveite enquanto a of...",
-    "marketplace": "Shopee",
-    "category": "Esportes e Lazer",
-    "old_price": "R$ 99,67",
-    "price": "R$ 29,90",
-    "discount_percent": 70.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfn8h5ufyu4kb0",
-    "affiliate_url": "https://s.shopee.com.br/6fgVCaPNnQ",
-    "created_at": "15/08/2026 05:18",
-    "created_at_iso": "2026-08-15T05:18:53",
-    "created_ts": 1786771133,
-    "niche": {
-      "key": "shopee_esportes_lazer",
-      "name": "Esportes e Lazer"
-    }
-  },
-  {
-    "id": "3e1d1832f76e454987",
-    "title": "Garrafa Térmica WATERSY 500ml - 48h Frio! Perfeita para Academia, Fut…",
-    "raw_title": "Garrafa Térmica WATERSY 500ml - 48h Frio! Perfeita para Academia, Futebol e Dia a Dia⚽🏋️",
-    "description": "🔥 76% OFF — Oferta encontrada! 📌 Garrafa Térmica WATERSY 500ml - 48h Frio! Perfeita para Academia, Futebol e Dia a Dia⚽🏋️ Confira os detalhes e aproveit...",
-    "marketplace": "Shopee",
-    "category": "Esportes e Lazer",
-    "old_price": "R$ 116,62",
-    "price": "R$ 27,99",
-    "discount_percent": 76.0,
-    "rating": 5.0,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgzondp8purk02",
-    "affiliate_url": "https://s.shopee.com.br/9pdVZs72rR",
-    "created_at": "15/08/2026 05:17",
-    "created_at_iso": "2026-08-15T05:17:49",
-    "created_ts": 1786771069,
-    "niche": {
-      "key": "shopee_esportes_lazer",
-      "name": "Esportes e Lazer"
     }
   }
 ]

@@ -1,91 +1,91 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 17/08/2026 04:07
+Gerado em: 17/08/2026 04:22
 
 ## Categorias prioritárias
 
-- 🍼 **Mãe e Bebê**: 21 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 💻 **Informática**: 16 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 🍼 **Mãe e Bebê**: 16 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 💄 **Beleza**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 📦 **Outros**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 📚 **Papelaria**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 - 👜 **Bolsas**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 - 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
-- ❤️ **Saúde**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
-- 📦 **Outros**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 🐶 **Pet**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
+- ❤️ **Saúde**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 🏋️ **Esportes**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 
 ## Top ofertas para destacar
 
-1. **Mochila Notebook Reforçada**
+1. **SSD de alta velocidade SATA III de 2.5 polegadas 60-256 GB PC/Laptop…**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 93,00
+   - Desconto: 70% OFF
+   - Link: https://s.shopee.com.br/W5uumwAQ6
+
+2. **Mochila Notebook Reforçada**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 29,89
    - Desconto: 59% OFF
    - Link: https://s.shopee.com.br/7psVW1yocZ
 
-2. **Chapinha Profissional Nano Titanium BIVOLT**
+3. **Chapinha Profissional Nano Titanium BIVOLT**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 28,99
    - Desconto: 68% OFF
    - Link: https://s.shopee.com.br/8Kole6JspK
 
-3. **Tela Magnética Monitor para Celular Sem Fio**
+4. **Tela Magnética Monitor para Celular Sem Fio**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 135,88
    - Desconto: 66% OFF
    - Link: https://s.shopee.com.br/8V8BiAjTyX
 
-4. **Mesa Dobrável Notebook**
+5. **Mesa Dobrável Notebook**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 37,99
    - Desconto: 57% OFF
    - Link: https://s.shopee.com.br/3B6dZ6enOg
 
-5. **Mochila Faculdade Reforçada Compartimento Para Notebook Escolar Uniss…**
+6. **Mochila Faculdade Reforçada Compartimento Para Notebook Escolar Uniss…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 32,90
    - Desconto: 56% OFF
    - Link: https://s.shopee.com.br/112A7Aja6k
 
-6. **Mochila Impermeável para Notebook**
+7. **Mochila Impermeável para Notebook**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 39,99
    - Desconto: 50% OFF
    - Link: https://s.shopee.com.br/7VFcexCqOO
 
-7. **Mochila Couro Masculina Reforçada Para Notebook Escolar Excecultivo S…**
+8. **Mochila Couro Masculina Reforçada Para Notebook Escolar Excecultivo S…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 45,99
    - Desconto: 42% OFF
    - Link: https://s.shopee.com.br/6VN7va3tKB
 
-8. **ANA1108 Kit 10 mini pincéis para Maquiagem com estojo bolsa para viag…**
-   - Categoria: Beleza
+9. **Leitor de Cartão SD Tipo C Lightning**
+   - Categoria: Celulares
    - Loja: Shopee
-   - Preço: R$ 16,98
-   - Desconto: 58% OFF
-   - Link: https://s.shopee.com.br/2VqzELQF9m
+   - Preço: R$ 12,40
+   - Desconto: 89% OFF
+   - Link: https://s.shopee.com.br/8fRcdnVTcn
 
-9. **🎁 Super Kit 48 Carrinhos de Fricção + Pista 🚗 | Presente para Menino…**
-   - Categoria: Mãe e Bebê
+10. **Repetidor Wifi 1200m 6 Antenas 3 in 1 functios 2.4g Roteador Amplific…**
+   - Categoria: Pet
    - Loja: Shopee
-   - Preço: R$ 69,00
-   - Desconto: 72% OFF
-   - Link: https://s.shopee.com.br/2LXYpft7hZ
-
-10. **240 ML Mamadeira de Silicone Anticólica Premium BPA Free Bico Macio I…**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 51,40
-   - Desconto: 57% OFF
-   - Link: https://s.shopee.com.br/5LBAPBYu5U
+   - Preço: R$ 51,99
+   - Desconto: 56% OFF
+   - Link: https://s.shopee.com.br/1Lf1uK205N
 
 ## Ações gratuitas recomendadas
 

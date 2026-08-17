@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 17/08/2026 04:07
+Gerado em: 17/08/2026 04:22
 
 ## Como usar
 
@@ -117,14 +117,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
 ```txt
 🐶 Oferta para Ofertas Pet
 
-Sandália Babuche Infantil Papete Menina ADULTO
+Repetidor Wifi 1200m 6 Antenas 3 in 1 functios 2.4g Roteador Amplific…
 
-💸 De: R$ 40,18
-🔥 Por: R$ 22,90
-🏷️ 43% OFF
+💸 De: R$ 118,16
+🔥 Por: R$ 51,99
+🏷️ 56% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/6VN7WqyNpT
+Ver oferta: https://s.shopee.com.br/1Lf1uK205N
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

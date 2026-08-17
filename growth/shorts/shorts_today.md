@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 17/08/2026 02:22
+Gerado em: 17/08/2026 04:22
 
 ## Como usar
 
@@ -32,7 +32,7 @@ Gerado em: 17/08/2026 02:22
 
 - 🎁 Super Kit 48 Carrinhos de Fricção + Pista 🚗 | Presente para Menino…
 - Push Plane Bebê Infantil Das Crianças Empurrador Avião Brinquedo Carr…
-- NINHO REDUTOR DE BERÇO | COM ZIPER E LAÇO | TROCADOR PORTÁTIL |…
+- 240 ML Mamadeira de Silicone Anticólica Premium BPA Free Bico Macio I…
 
 ---
 
@@ -103,8 +103,8 @@ Gerado em: 17/08/2026 02:22
 **Produtos usados:**
 
 - Tela Magnética Monitor para Celular Sem Fio
+- Leitor de Cartão SD Tipo C Lightning
 - Caneta Touch Screen Ponta Fina Desenho iPad iPhone Android Alta Preci…
-- Kit Mobilador Gamer
 
 ---
 

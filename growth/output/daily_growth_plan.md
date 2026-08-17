@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 17/08/2026 19:45
+Gerado em: 17/08/2026 20:03
 
 ## Categorias prioritárias
 
@@ -12,8 +12,8 @@ Gerado em: 17/08/2026 19:45
 - 💄 **Beleza**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 💻 **Informática**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 👗 **Moda Feminina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
+- 🐶 **Pet**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 🧸 **Brinquedos**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
-- 👟 **Calçados**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 
 ## Top ofertas para destacar
 
@@ -52,40 +52,40 @@ Gerado em: 17/08/2026 19:45
    - Desconto: 42% OFF
    - Link: https://s.shopee.com.br/6VN7va3tKB
 
-6. **Monitor digital de pressão arterial de braço totalmente automático an…**
+6. **Ração Gato Estimacat Premium Filhote Sabor Frango 10kg**
+   - Categoria: Pet
+   - Loja: Mercado Livre
+   - Preço: R$ 253,07
+   - Desconto: 25% OFF
+   - Link: https://www.mercadolivre.com.br/p/MLB66844874?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+7. **Monitor digital de pressão arterial de braço totalmente automático an…**
    - Categoria: Saúde
    - Loja: Shopee
    - Preço: R$ 38,99
    - Desconto: 68% OFF
    - Link: https://s.shopee.com.br/5fo0jgDApX
 
-7. **Mobile Centopeia Espiral para Bebê**
+8. **Mobile Centopeia Espiral para Bebê**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 33,90
    - Desconto: 58% OFF
    - Link: https://s.shopee.com.br/gPM6uE701
 
-8. **Kit 4 Peças Infantil Menino Verão**
+9. **Kit 4 Peças Infantil Menino Verão**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 42,90
    - Desconto: 67% OFF
    - Link: https://s.shopee.com.br/4LIeHHNnD7
 
-9. **Sandália Cartago Baby Masculino**
+10. **Sandália Cartago Baby Masculino**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 23,90
    - Desconto: 60% OFF
    - Link: https://s.shopee.com.br/8AVMqKMbbl
-
-10. **Panela de Pressão Antiaderente 4,5L**
-   - Categoria: Casa e Cozinha
-   - Loja: Shopee
-   - Preço: R$ 136,41
-   - Desconto: 27% OFF
-   - Link: https://s.shopee.com.br/AUtG9xw7gX
 
 ## Ações gratuitas recomendadas
 

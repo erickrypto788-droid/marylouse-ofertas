@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 17/08/2026 11:18
+Gerado em: 17/08/2026 12:21
 
 ## Como usar
 
@@ -103,8 +103,8 @@ Gerado em: 17/08/2026 11:18
 **Produtos usados:**
 
 - Tela Magnética Monitor para Celular Sem Fio
+- Kit 2 Cartões de Memória 128GB
 - Leitor de Cartão SD Tipo C Lightning
-- Caneta Touch Screen Ponta Fina Desenho iPad iPhone Android Alta Preci…
 
 ---
 
@@ -126,8 +126,8 @@ Gerado em: 17/08/2026 11:18
 
 **Produtos usados:**
 
-- Papel Higiênico Indaial Caicai - Folha Dupla
 - Kit 4 Potes Herméticos 2L Com Copo Medidor Organizador Mantimentos Ar…
 - Kit Clareador Facial - Sabonete Líquido + Protetor Solar Clareador 70…
+- 100 Saco De Lixo 60l Preto Saco Lixo Resistente Reforçado
 
 ---

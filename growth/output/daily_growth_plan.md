@@ -1,17 +1,17 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 17/08/2026 11:44
+Gerado em: 17/08/2026 12:21
 
 ## Categorias prioritárias
 
-- 🍼 **Mãe e Bebê**: 15 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 👗 **Moda Feminina**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
-- 💄 **Beleza**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 👟 **Calçados**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 🍼 **Mãe e Bebê**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 📦 **Outros**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 💄 **Beleza**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 👗 **Moda Feminina**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - ✨ **Moda Plus Size**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
-- 👕 **Moda Masculina**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
-- 📦 **Outros**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 💻 **Informática**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 🏋️ **Esportes**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 🐶 **Pet**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 
@@ -52,40 +52,40 @@ Gerado em: 17/08/2026 11:44
    - Desconto: 42% OFF
    - Link: https://s.shopee.com.br/6VN7va3tKB
 
-6. **Leitor de Cartão SD Tipo C Lightning**
+6. **Power Bank Magnético iPhone**
+   - Categoria: Celulares
+   - Loja: Shopee
+   - Preço: R$ 49,99
+   - Desconto: 54% OFF
+   - Link: https://s.shopee.com.br/7fZ632v5Ly
+
+7. **Kit 2 Cartões de Memória 128GB**
+   - Categoria: Celulares
+   - Loja: Shopee
+   - Preço: R$ 32,98
+   - Desconto: 77% OFF
+   - Link: https://s.shopee.com.br/7fZ4idmefA
+
+8. **Leitor de Cartão SD Tipo C Lightning**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 12,40
    - Desconto: 89% OFF
    - Link: https://s.shopee.com.br/8fRcdnVTcn
 
-7. **Repetidor Wifi 1200m 6 Antenas 3 in 1 functios 2.4g Roteador Amplific…**
+9. **Repetidor Wifi 1200m 6 Antenas 3 in 1 functios 2.4g Roteador Amplific…**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 51,99
    - Desconto: 56% OFF
    - Link: https://s.shopee.com.br/1Lf1uK205N
 
-8. **Monitor Gamer ARZOPA M1RC**
+10. **Monitor Gamer ARZOPA M1RC**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 1.159,99
    - Desconto: 83% OFF
    - Link: https://s.shopee.com.br/2qTph4j1Qi
-
-9. **ANA1108 Kit 10 mini pincéis para Maquiagem com estojo bolsa para viag…**
-   - Categoria: Beleza
-   - Loja: Shopee
-   - Preço: R$ 16,98
-   - Desconto: 58% OFF
-   - Link: https://s.shopee.com.br/2VqzELQF9m
-
-10. **🎁 Super Kit 48 Carrinhos de Fricção + Pista 🚗 | Presente para Menino…**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 69,00
-   - Desconto: 72% OFF
-   - Link: https://s.shopee.com.br/2LXYpft7hZ
 
 ## Ações gratuitas recomendadas
 

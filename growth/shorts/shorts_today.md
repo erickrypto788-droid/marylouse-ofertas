@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 17/08/2026 20:03
+Gerado em: 17/08/2026 20:22
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 17/08/2026 20:03
 
 **Produtos usados:**
 
+- Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…
+- Berço Portátil Com Mosquiteiro Cama De Duas Camas 0-3 Anos Fecho De S…
 - Kit 4 Peças Infantil Menino Verão
-- Sandália Cartago Baby Masculino
-- 🎁 Super Kit 48 Carrinhos de Fricção + Pista 🚗 | Presente para Menino…
 
 ---
 

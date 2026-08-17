@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 17/08/2026 02:03
+Gerado em: 17/08/2026 02:22
 
 ## Categorias prioritárias
 
 - 🍼 **Mãe e Bebê**: 21 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 💻 **Informática**: 16 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- ❤️ **Saúde**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
-- 💄 **Beleza**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 💄 **Beleza**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 📚 **Papelaria**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 - 👜 **Bolsas**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 - 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- ❤️ **Saúde**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 📦 **Outros**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 🏋️ **Esportes**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 🐶 **Pet**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 
 ## Top ofertas para destacar
 
@@ -66,26 +66,26 @@ Gerado em: 17/08/2026 02:03
    - Desconto: 42% OFF
    - Link: https://s.shopee.com.br/6VN7va3tKB
 
-8. **🎁 Super Kit 48 Carrinhos de Fricção + Pista 🚗 | Presente para Menino…**
+8. **ANA1108 Kit 10 mini pincéis para Maquiagem com estojo bolsa para viag…**
+   - Categoria: Beleza
+   - Loja: Shopee
+   - Preço: R$ 16,98
+   - Desconto: 58% OFF
+   - Link: https://s.shopee.com.br/2VqzELQF9m
+
+9. **🎁 Super Kit 48 Carrinhos de Fricção + Pista 🚗 | Presente para Menino…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 69,00
    - Desconto: 72% OFF
    - Link: https://s.shopee.com.br/2LXYpft7hZ
 
-9. **240 ML Mamadeira de Silicone Anticólica Premium BPA Free Bico Macio I…**
+10. **240 ML Mamadeira de Silicone Anticólica Premium BPA Free Bico Macio I…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 51,40
    - Desconto: 57% OFF
    - Link: https://s.shopee.com.br/5LBAPBYu5U
-
-10. **Push Plane Bebê Infantil Das Crianças Empurrador Avião Brinquedo Carr…**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 32,90
-   - Desconto: 85% OFF
-   - Link: https://s.shopee.com.br/1VyRq8wIOU
 
 ## Ações gratuitas recomendadas
 

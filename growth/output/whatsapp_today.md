@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 17/08/2026 13:10
+Gerado em: 17/08/2026 13:21
 
 ## Como usar
 
@@ -162,29 +162,29 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 6 — Moda e Calçados
+## Post 6 — Casa e Cozinha
 
-**Canal recomendado:** Moda e Calçados
+**Canal recomendado:** Casa e Cozinha
 
-**Horário sugerido:** 12:00 - 15:00
+**Horário sugerido:** 18:00 - 20:00
 
 **Imagem/card:**
 
-https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
+https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
 
 **Texto pronto:**
 
 ```txt
-👟 Oferta para Moda e Calçados
+🍳 Oferta para Casa e Cozinha
 
-Sandália Rasteira Feminina com Nó Bico Quadrado Confortável e Elegant…
+Panela de Pressão Antiaderente 4,5L
 
-💸 De: R$ 89,75
-🔥 Por: R$ 35,90
-🏷️ 60% OFF
+💸 De: R$ 186,86
+🔥 Por: R$ 136,41
+🏷️ 27% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/2BE86PED5B
+Ver oferta: https://s.shopee.com.br/AUtG9xw7gX
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

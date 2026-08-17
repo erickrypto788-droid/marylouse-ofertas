@@ -1,16 +1,16 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 17/08/2026 06:10
+Gerado em: 17/08/2026 06:17
 
 ## Categorias prioritárias
 
 - 🍼 **Mãe e Bebê**: 17 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 💻 **Informática**: 15 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 📦 **Outros**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 💻 **Informática**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 💄 **Beleza**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 📚 **Papelaria**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
+- 🐶 **Pet**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
-- 🐶 **Pet**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 👜 **Bolsas**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 - 🏋️ **Esportes**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
@@ -59,33 +59,33 @@ Gerado em: 17/08/2026 06:10
    - Desconto: 56% OFF
    - Link: https://s.shopee.com.br/112A7Aja6k
 
-7. **Mochila Impermeável para Notebook**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 39,99
-   - Desconto: 50% OFF
-   - Link: https://s.shopee.com.br/7VFcexCqOO
-
-8. **Mochila Couro Masculina Reforçada Para Notebook Escolar Excecultivo S…**
+7. **Mochila Couro Masculina Reforçada Para Notebook Escolar Excecultivo S…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 45,99
    - Desconto: 42% OFF
    - Link: https://s.shopee.com.br/6VN7va3tKB
 
-9. **Leitor de Cartão SD Tipo C Lightning**
+8. **Leitor de Cartão SD Tipo C Lightning**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 12,40
    - Desconto: 89% OFF
    - Link: https://s.shopee.com.br/8fRcdnVTcn
 
-10. **Repetidor Wifi 1200m 6 Antenas 3 in 1 functios 2.4g Roteador Amplific…**
+9. **Repetidor Wifi 1200m 6 Antenas 3 in 1 functios 2.4g Roteador Amplific…**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 51,99
    - Desconto: 56% OFF
    - Link: https://s.shopee.com.br/1Lf1uK205N
+
+10. **Monitor Gamer ARZOPA M1RC**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 1.159,99
+   - Desconto: 83% OFF
+   - Link: https://s.shopee.com.br/2qTph4j1Qi
 
 ## Ações gratuitas recomendadas
 

@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 17/08/2026 08:04
+Gerado em: 17/08/2026 08:22
 
 ## Categorias prioritárias
 
 - 🍼 **Mãe e Bebê**: 17 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 👗 **Moda Feminina**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 📦 **Outros**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
-- 💻 **Informática**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 💄 **Beleza**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 🐶 **Pet**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
-- 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 💻 **Informática**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 👕 **Moda Masculina**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
+- 🐶 **Pet**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
+- 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 🏋️ **Esportes**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 👟 **Calçados**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 🍳 **Casa e Cozinha**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 
 ## Top ofertas para destacar
 
@@ -45,47 +45,47 @@ Gerado em: 17/08/2026 08:04
    - Desconto: 66% OFF
    - Link: https://s.shopee.com.br/8V8BiAjTyX
 
-5. **Mesa Dobrável Notebook**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 37,99
-   - Desconto: 57% OFF
-   - Link: https://s.shopee.com.br/3B6dZ6enOg
-
-6. **Mochila Couro Masculina Reforçada Para Notebook Escolar Excecultivo S…**
+5. **Mochila Couro Masculina Reforçada Para Notebook Escolar Excecultivo S…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 45,99
    - Desconto: 42% OFF
    - Link: https://s.shopee.com.br/6VN7va3tKB
 
-7. **Leitor de Cartão SD Tipo C Lightning**
+6. **Leitor de Cartão SD Tipo C Lightning**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 12,40
    - Desconto: 89% OFF
    - Link: https://s.shopee.com.br/8fRcdnVTcn
 
-8. **Repetidor Wifi 1200m 6 Antenas 3 in 1 functios 2.4g Roteador Amplific…**
+7. **Repetidor Wifi 1200m 6 Antenas 3 in 1 functios 2.4g Roteador Amplific…**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 51,99
    - Desconto: 56% OFF
    - Link: https://s.shopee.com.br/1Lf1uK205N
 
-9. **Monitor Gamer ARZOPA M1RC**
+8. **Monitor Gamer ARZOPA M1RC**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 1.159,99
    - Desconto: 83% OFF
    - Link: https://s.shopee.com.br/2qTph4j1Qi
 
-10. **ANA1108 Kit 10 mini pincéis para Maquiagem com estojo bolsa para viag…**
+9. **ANA1108 Kit 10 mini pincéis para Maquiagem com estojo bolsa para viag…**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 16,98
    - Desconto: 58% OFF
    - Link: https://s.shopee.com.br/2VqzELQF9m
+
+10. **🎁 Super Kit 48 Carrinhos de Fricção + Pista 🚗 | Presente para Menino…**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 69,00
+   - Desconto: 72% OFF
+   - Link: https://s.shopee.com.br/2LXYpft7hZ
 
 ## Ações gratuitas recomendadas
 

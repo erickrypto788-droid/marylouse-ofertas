@@ -1,5 +1,26 @@
 [
   {
+    "id": "2882cb316dc27b31e6",
+    "title": "GTA VI PS5 Edição Standard",
+    "raw_title": "Jogo Grand Theft Auto VI Edição Standard - PS5",
+    "description": "🎮 GTA VI NO PS5 COM DESCONTO! 🎮 Prepare-se para a próxima geração de Grand Theft Auto! Garanta já o seu Jogo Grand Theft Auto VI Edição Standard para PS...",
+    "marketplace": "Shopee",
+    "category": "Jogos e Consoles",
+    "old_price": "R$ 449,89",
+    "price": "R$ 404,90",
+    "discount_percent": 10.0,
+    "rating": 0.0,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820ma-mpxxrh0ud43kb3",
+    "affiliate_url": "https://s.shopee.com.br/70JNWhNHWT",
+    "created_at": "17/08/2026 06:15",
+    "created_at_iso": "2026-08-17T06:15:40",
+    "created_ts": 1786947340,
+    "niche": {
+      "key": "shopee_jogos_consoles",
+      "name": "Jogos e Consoles"
+    }
+  },
+  {
     "id": "5408f003b2a9c3c500",
     "title": "Shampoo Tonalizante Preto Kaisasa 500ml",
     "raw_title": "Kaisasa Shampoo Tonalizante Para Cobrir Cabelo Cinzento，shampoo cabelo branco，shampoo barba，shampoo redutor grisalhos，shampoo tonalizante preto，hair dye sham...",
@@ -2836,27 +2857,6 @@
     "created_at": "16/08/2026 06:16",
     "created_at_iso": "2026-08-16T06:16:42",
     "created_ts": 1786861002,
-    "niche": {
-      "key": "shopee_bolsas_masculinas",
-      "name": "Bolsas Masculinas"
-    }
-  },
-  {
-    "id": "13f33c50ae21868f25",
-    "title": "Mochila Impermeável para Notebook",
-    "raw_title": "Mochila Masculina Esportiva Impermeável para Notebook, Mochila Escolar de Viagem e Trabalho",
-    "description": "🚨 OPORTUNIDADE ÚNICA! 🚨 Mochila multifuncional com 50% OFF! Perfeita para o dia a dia, trabalho, escola ou viagens. Leve seu notebook com segurança e es...",
-    "marketplace": "Shopee",
-    "category": "Bolsas Masculinas",
-    "old_price": "R$ 79,98",
-    "price": "R$ 39,99",
-    "discount_percent": 50.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820me-mljzudnhshdw7f",
-    "affiliate_url": "https://s.shopee.com.br/7VFcexCqOO",
-    "created_at": "16/08/2026 06:15",
-    "created_at_iso": "2026-08-16T06:15:38",
-    "created_ts": 1786860938,
     "niche": {
       "key": "shopee_bolsas_masculinas",
       "name": "Bolsas Masculinas"

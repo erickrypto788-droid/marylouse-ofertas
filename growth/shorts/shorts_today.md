@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 17/08/2026 14:03
+Gerado em: 17/08/2026 14:21
 
 ## Como usar
 
@@ -79,8 +79,8 @@ Gerado em: 17/08/2026 14:03
 **Produtos usados:**
 
 - Chapinha Profissional Nano Titanium BIVOLT
-- ANA1108 Kit 10 mini pincéis para Maquiagem com estojo bolsa para viag…
-- Protetor Solar Facial FPS 60 Antioleosidade com Base Efeito Matte Sun…
+- Perfume Grace Midnight Feminino Frasco Antigo Hinode 100ml
+- BODY SPLASH FEMININO SUCCÈS VERT 200ML - PRIMACIAL PERFUME FLORAL CIT…
 
 ---
 

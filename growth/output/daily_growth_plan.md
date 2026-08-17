@@ -1,91 +1,91 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 17/08/2026 14:03
+Gerado em: 17/08/2026 14:21
 
 ## Categorias prioritárias
 
+- 💄 **Beleza**: 16 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🍼 **Mãe e Bebê**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 📦 **Outros**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
-- 💄 **Beleza**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 👗 **Moda Feminina**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 💻 **Informática**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 🔌 **Eletrodomésticos**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-eletrodomesticos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_eletrodomesticos
+- 👗 **Moda Feminina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
-- 🏋️ **Esportes**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
+- 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 🍳 **Casa e Cozinha**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
+- 🐶 **Pet**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 
 ## Top ofertas para destacar
 
-1. **SSD de alta velocidade SATA III de 2.5 polegadas 60-256 GB PC/Laptop…**
+1. **Perfume Grace Midnight Feminino Frasco Antigo Hinode 100ml**
+   - Categoria: Beleza
+   - Loja: Shopee
+   - Preço: R$ 84,95
+   - Desconto: 50% OFF
+   - Link: https://s.shopee.com.br/BT3v5gNYj
+
+2. **SSD de alta velocidade SATA III de 2.5 polegadas 60-256 GB PC/Laptop…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 93,00
    - Desconto: 70% OFF
    - Link: https://s.shopee.com.br/W5uumwAQ6
 
-2. **Mochila Notebook Reforçada**
+3. **Mochila Notebook Reforçada**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 29,89
    - Desconto: 59% OFF
    - Link: https://s.shopee.com.br/7psVW1yocZ
 
-3. **Chapinha Profissional Nano Titanium BIVOLT**
+4. **Chapinha Profissional Nano Titanium BIVOLT**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 28,99
    - Desconto: 68% OFF
    - Link: https://s.shopee.com.br/8Kole6JspK
 
-4. **Tela Magnética Monitor para Celular Sem Fio**
+5. **Tela Magnética Monitor para Celular Sem Fio**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 135,88
    - Desconto: 66% OFF
    - Link: https://s.shopee.com.br/8V8BiAjTyX
 
-5. **Mochila Couro Masculina Reforçada Para Notebook Escolar Excecultivo S…**
+6. **BODY SPLASH FEMININO SUCCÈS VERT 200ML - PRIMACIAL PERFUME FLORAL CIT…**
+   - Categoria: Beleza
+   - Loja: Shopee
+   - Preço: R$ 38,61
+   - Desconto: 45% OFF
+   - Link: https://s.shopee.com.br/20ui6SZOq8
+
+7. **Mochila Couro Masculina Reforçada Para Notebook Escolar Excecultivo S…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 45,99
    - Desconto: 42% OFF
    - Link: https://s.shopee.com.br/6VN7va3tKB
 
-6. **Panela de Pressão Antiaderente 4,5L**
+8. **Panela de Pressão Antiaderente 4,5L**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 136,41
    - Desconto: 27% OFF
    - Link: https://s.shopee.com.br/AUtG9xw7gX
 
-7. **Power Bank Magnético iPhone**
+9. **Power Bank Magnético iPhone**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 49,99
    - Desconto: 54% OFF
    - Link: https://s.shopee.com.br/7fZ632v5Ly
 
-8. **Kit 2 Cartões de Memória 128GB**
+10. **Kit 2 Cartões de Memória 128GB**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 32,98
    - Desconto: 77% OFF
    - Link: https://s.shopee.com.br/7fZ4idmefA
-
-9. **Leitor de Cartão SD Tipo C Lightning**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 12,40
-   - Desconto: 89% OFF
-   - Link: https://s.shopee.com.br/8fRcdnVTcn
-
-10. **Repetidor Wifi 1200m 6 Antenas 3 in 1 functios 2.4g Roteador Amplific…**
-   - Categoria: Pet
-   - Loja: Shopee
-   - Preço: R$ 51,99
-   - Desconto: 56% OFF
-   - Link: https://s.shopee.com.br/1Lf1uK205N
 
 ## Ações gratuitas recomendadas
 

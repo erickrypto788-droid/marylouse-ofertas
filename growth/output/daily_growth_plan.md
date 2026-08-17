@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 17/08/2026 17:47
+Gerado em: 17/08/2026 18:21
 
 ## Categorias prioritárias
 
-- 💄 **Beleza**: 16 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 🍼 **Mãe e Bebê**: 15 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 🏋️ **Esportes**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
+- 🍼 **Mãe e Bebê**: 16 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 📦 **Outros**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 🏋️ **Esportes**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
+- 💄 **Beleza**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 💻 **Informática**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 🔌 **Eletrodomésticos**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-eletrodomesticos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_eletrodomesticos
 - 👗 **Moda Feminina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 👟 **Calçados**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 🐶 **Pet**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
+- 🧸 **Brinquedos**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 
 ## Top ofertas para destacar
 
@@ -38,26 +38,26 @@ Gerado em: 17/08/2026 17:47
    - Desconto: 59% OFF
    - Link: https://s.shopee.com.br/7psVW1yocZ
 
-4. **Chapinha Profissional Nano Titanium BIVOLT**
-   - Categoria: Beleza
-   - Loja: Shopee
-   - Preço: R$ 28,99
-   - Desconto: 68% OFF
-   - Link: https://s.shopee.com.br/8Kole6JspK
-
-5. **BODY SPLASH FEMININO SUCCÈS VERT 200ML - PRIMACIAL PERFUME FLORAL CIT…**
+4. **BODY SPLASH FEMININO SUCCÈS VERT 200ML - PRIMACIAL PERFUME FLORAL CIT…**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 38,61
    - Desconto: 45% OFF
    - Link: https://s.shopee.com.br/20ui6SZOq8
 
-6. **Mochila Couro Masculina Reforçada Para Notebook Escolar Excecultivo S…**
+5. **Mochila Couro Masculina Reforçada Para Notebook Escolar Excecultivo S…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 45,99
    - Desconto: 42% OFF
    - Link: https://s.shopee.com.br/6VN7va3tKB
+
+6. **Mobile Centopeia Espiral para Bebê**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 33,90
+   - Desconto: 58% OFF
+   - Link: https://s.shopee.com.br/gPM6uE701
 
 7. **Kit 4 Peças Infantil Menino Verão**
    - Categoria: Mãe e Bebê

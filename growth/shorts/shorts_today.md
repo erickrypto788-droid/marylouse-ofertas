@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 17/08/2026 17:04
+Gerado em: 17/08/2026 18:21
 
 ## Como usar
 
@@ -49,14 +49,12 @@ Gerado em: 17/08/2026 17:04
 - growth/shorts/slides/casa_cozinha/01_intro.png
 - growth/shorts/slides/casa_cozinha/02_produto_1.png
 - growth/shorts/slides/casa_cozinha/03_produto_2.png
-- growth/shorts/slides/casa_cozinha/04_produto_3.png
 - growth/shorts/slides/casa_cozinha/05_cta.png
 
 **Produtos usados:**
 
 - Panela de Pressão Antiaderente 4,5L
 - Fritadeira Air Fryer Mondial Oven Digital 127v
-- Liquidificador Mondial L‑99 Turbo 550 W 3 Velocidades
 
 ---
 
@@ -78,9 +76,9 @@ Gerado em: 17/08/2026 17:04
 
 **Produtos usados:**
 
-- Chapinha Profissional Nano Titanium BIVOLT
 - Perfume Grace Midnight Feminino Frasco Antigo Hinode 100ml
 - BODY SPLASH FEMININO SUCCÈS VERT 200ML - PRIMACIAL PERFUME FLORAL CIT…
+- ANA1108 Kit 10 mini pincéis para Maquiagem com estojo bolsa para viag…
 
 ---
 
@@ -127,7 +125,7 @@ Gerado em: 17/08/2026 17:04
 **Produtos usados:**
 
 - Kit 4 Potes Herméticos 2L Com Copo Medidor Organizador Mantimentos Ar…
-- Kit Clareador Facial - Sabonete Líquido + Protetor Solar Clareador 70…
 - 100 Saco De Lixo 60l Preto Saco Lixo Resistente Reforçado
+- Kit Higiene Bucal Completo (35 unidades)
 
 ---

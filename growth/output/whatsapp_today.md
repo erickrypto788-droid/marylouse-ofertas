@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 17/08/2026 17:47
+Gerado em: 17/08/2026 18:21
 
 ## Como usar
 
@@ -12,37 +12,7 @@ Gerado em: 17/08/2026 17:47
 
 ---
 
-## Post 1 — Beleza e Cuidados
-
-**Canal recomendado:** Beleza e Cuidados
-
-**Horário sugerido:** 12:00 - 15:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
-
-**Texto pronto:**
-
-```txt
-💄 Oferta para Beleza e Cuidados
-
-Chapinha Profissional Nano Titanium BIVOLT
-
-💸 De: R$ 90,59
-🔥 Por: R$ 28,99
-🏷️ 68% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/8Kole6JspK
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 2 — Mamãe e Bebê
+## Post 1 — Mamãe e Bebê
 
 **Canal recomendado:** Mamãe e Bebê
 
@@ -65,6 +35,36 @@ Boneca Lola Baby Com Chupeta Rosa Menina Brinquedo Infantil Bebê
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/AAGQ1pOvu7
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 2 — Beleza e Cuidados
+
+**Canal recomendado:** Beleza e Cuidados
+
+**Horário sugerido:** 12:00 - 15:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
+
+**Texto pronto:**
+
+```txt
+💄 Oferta para Beleza e Cuidados
+
+Perfume Grace Midnight Feminino Frasco Antigo Hinode 100ml
+
+💸 De: R$ 169,90
+🔥 Por: R$ 84,95
+🏷️ 50% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/BT3v5gNYj
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

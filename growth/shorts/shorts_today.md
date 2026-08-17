@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 17/08/2026 14:21
+Gerado em: 17/08/2026 15:22
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 17/08/2026 14:21
 
 **Produtos usados:**
 
+- Kit 4 Peças Infantil Menino Verão
+- Sandália Cartago Baby Masculino
 - 🎁 Super Kit 48 Carrinhos de Fricção + Pista 🚗 | Presente para Menino…
-- Push Plane Bebê Infantil Das Crianças Empurrador Avião Brinquedo Carr…
-- 240 ML Mamadeira de Silicone Anticólica Premium BPA Free Bico Macio I…
 
 ---
 
@@ -56,7 +56,7 @@ Gerado em: 17/08/2026 14:21
 
 - Panela de Pressão Antiaderente 4,5L
 - Fritadeira Air Fryer Mondial Oven Digital 127v
-- Jogo Panelas Grandes Conjunto Caçarolas 40cm - 2 Un Alumínio
+- Liquidificador Mondial L‑99 Turbo 550 W 3 Velocidades
 
 ---
 

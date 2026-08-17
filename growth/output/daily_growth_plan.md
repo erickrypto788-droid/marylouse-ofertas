@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 17/08/2026 14:48
+Gerado em: 17/08/2026 15:22
 
 ## Categorias prioritárias
 
 - 💄 **Beleza**: 16 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 🍼 **Mãe e Bebê**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 🍼 **Mãe e Bebê**: 15 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 📦 **Outros**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 💻 **Informática**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 🔌 **Eletrodomésticos**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-eletrodomesticos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_eletrodomesticos
 - 👗 **Moda Feminina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
-- 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 🍳 **Casa e Cozinha**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
+- 👟 **Calçados**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 🐶 **Pet**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
+- 🏋️ **Esportes**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 
 ## Top ofertas para destacar
 
@@ -66,26 +66,26 @@ Gerado em: 17/08/2026 14:48
    - Desconto: 42% OFF
    - Link: https://s.shopee.com.br/6VN7va3tKB
 
-8. **Panela de Pressão Antiaderente 4,5L**
+8. **Kit 4 Peças Infantil Menino Verão**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 42,90
+   - Desconto: 67% OFF
+   - Link: https://s.shopee.com.br/4LIeHHNnD7
+
+9. **Sandália Cartago Baby Masculino**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 23,90
+   - Desconto: 60% OFF
+   - Link: https://s.shopee.com.br/8AVMqKMbbl
+
+10. **Panela de Pressão Antiaderente 4,5L**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 136,41
    - Desconto: 27% OFF
    - Link: https://s.shopee.com.br/AUtG9xw7gX
-
-9. **Power Bank Magnético iPhone**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 49,99
-   - Desconto: 54% OFF
-   - Link: https://s.shopee.com.br/7fZ632v5Ly
-
-10. **Kit 2 Cartões de Memória 128GB**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 32,98
-   - Desconto: 77% OFF
-   - Link: https://s.shopee.com.br/7fZ4idmefA
 
 ## Ações gratuitas recomendadas
 

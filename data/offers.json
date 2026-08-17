@@ -1,5 +1,47 @@
 [
   {
+    "id": "bd24b073f15dc8022f",
+    "title": "Sandália Rasteira Feminina com Nó Bico Quadrado Confortável e Elegant…",
+    "raw_title": "Sandália Rasteira Feminina com Nó Bico Quadrado Confortável e Elegante para Dia a Dia",
+    "description": "🔥 60% OFF — Oferta encontrada! 📌 Sandália Rasteira Feminina com Nó Bico Quadrado Confortável e Elegante para Dia a Dia Confira os detalhes e aproveite e...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Femininos",
+    "old_price": "R$ 89,75",
+    "price": "R$ 35,90",
+    "discount_percent": 60.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lf-mlnmkfz6dvr8e0",
+    "affiliate_url": "https://s.shopee.com.br/2BE86PED5B",
+    "created_at": "17/08/2026 11:16",
+    "created_at_iso": "2026-08-17T11:16:45",
+    "created_ts": 1786965405,
+    "niche": {
+      "key": "shopee_sapatos_femininos",
+      "name": "Sapatos Femininos"
+    }
+  },
+  {
+    "id": "6e450ffae81c6065c8",
+    "title": "Babuche Feminina Adulta Sandália Antiderrapante Leve e Confortável Pi…",
+    "raw_title": "Babuche Feminina Adulta Sandália Antiderrapante Leve e Confortável Piscina Praia",
+    "description": "🔥 71% OFF — Oferta encontrada! 📌 Babuche Feminina Adulta Sandália Antiderrapante Leve e Confortável Piscina Praia Confira os detalhes e aproveite enquan...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Femininos",
+    "old_price": "R$ 131,00",
+    "price": "R$ 37,99",
+    "discount_percent": 71.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820le-mp162pu5c2dh60",
+    "affiliate_url": "https://s.shopee.com.br/2VqyV1CwPH",
+    "created_at": "17/08/2026 11:15",
+    "created_at_iso": "2026-08-17T11:15:41",
+    "created_ts": 1786965341,
+    "niche": {
+      "key": "shopee_sapatos_femininos",
+      "name": "Sapatos Femininos"
+    }
+  },
+  {
     "id": "58a4be8b999a80ef8c",
     "title": "Perfume Amodil Fonte Verde 100ml",
     "raw_title": "Perfume masculino Amodil Fonte Verde Perfume masculino 100ml",
@@ -2662,43 +2704,5 @@
       "key": "shopee_roupas_femininas",
       "name": "Roupas Femininas"
     }
-  },
-  {
-    "id": "a73d99abbdb680b1c6",
-    "title": "Cinta Modeladora Afina Barriga",
-    "raw_title": "Calcinha de Emagrecimento / Cinta Modeladora / Roupa Íntima / Afina a Barriga Leggings Calça Feminina 2024",
-    "description": "🔥 Barriga chapada em segundos! Conquiste a silhueta dos seus sonhos com a Calcinha de Emagrecimento / Cinta Modeladora! Afina a barriga, modela o corpo...",
-    "marketplace": "Shopee",
-    "category": "Roupas Femininas",
-    "old_price": "R$ 49,98",
-    "price": "R$ 27,99",
-    "discount_percent": 44.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134201-820lg-mqxo1w6fkcna02",
-    "affiliate_url": "https://s.shopee.com.br/7psQb7ST9Z",
-    "created_at": "16/08/2026 11:15",
-    "created_at_iso": "2026-08-16T11:15:44",
-    "created_ts": 1786878944,
-    "niche": {
-      "key": "shopee_roupas_femininas",
-      "name": "Roupas Femininas"
-    }
-  },
-  {
-    "id": "e2d360d27d1ee0b11e",
-    "title": "Cadeira Gamer Profissional Ergonômica Giratória Vermelha para Escritó…",
-    "raw_title": "Cadeira Gamer Profissional Ergonômica Giratória Vermelha para Escritório",
-    "description": "🔥 Oferta encontrada! 📌 Cadeira Gamer Profissional Ergonômica Giratória Vermelha para Escritório Confira os detalhes e aproveite enquanto a oferta estive...",
-    "marketplace": "Mercado Livre",
-    "category": "Casa e Decoração",
-    "old_price": "",
-    "price": "R$ 900,00",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_799416-MLU71044700870_082023-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB26008929?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "16/08/2026 11:01",
-    "created_at_iso": "2026-08-16T11:01:34",
-    "created_ts": 1786878094
   }
 ]

@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 17/08/2026 11:03
+Gerado em: 17/08/2026 11:18
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
 ```txt
 👟 Oferta para Moda e Calçados
 
-Tênis Branco Infantil Leve Macio Confortável Original Envio Imediato
+Sandália Rasteira Feminina com Nó Bico Quadrado Confortável e Elegant…
 
-💸 De: R$ 99,72
-🔥 Por: R$ 39,89
+💸 De: R$ 89,75
+🔥 Por: R$ 35,90
 🏷️ 60% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/70JO7lwTok
+Ver oferta: https://s.shopee.com.br/2BE86PED5B
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

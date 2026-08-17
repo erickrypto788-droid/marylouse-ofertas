@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 17/08/2026 07:06
+Gerado em: 17/08/2026 07:22
 
 ## Como usar
 
@@ -147,14 +147,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Blusa Regata Feminina Halter Efeito Silicone Modeladora Frente Unica…
+KIT 2 Regatas Suplex Duplo Femininas
 
-💸 De: R$ 99,97
-🔥 Por: R$ 34,99
-🏷️ 65% OFF
+💸 De: R$ 70,47
+🔥 Por: R$ 26,78
+🏷️ 62% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/LmUFdX6jy
+Ver oferta: https://s.shopee.com.br/9fKA67so7K
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

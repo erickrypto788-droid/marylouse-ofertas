@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 17/08/2026 07:06
+Gerado em: 17/08/2026 07:22
 
 ## Como usar
 
@@ -79,8 +79,8 @@ Gerado em: 17/08/2026 07:06
 **Produtos usados:**
 
 - Chapinha Profissional Nano Titanium BIVOLT
-- Kit Maquiagem Infantil Lavável 32 Peças
 - ANA1108 Kit 10 mini pincéis para Maquiagem com estojo bolsa para viag…
+- Protetor Solar Facial FPS 60 Antioleosidade com Base Efeito Matte Sun…
 
 ---
 

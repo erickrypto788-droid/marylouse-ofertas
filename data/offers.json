@@ -1,5 +1,110 @@
 [
   {
+    "id": "5d07e3db650eb4819f",
+    "title": "Espremedor Mondial Premium",
+    "raw_title": "Espremedor de Frutas Premium E02 30W Mondial",
+    "description": "🍊 Suco fresco e saudável em segundos! Tenha mais praticidade e sabor com o Espremedor de Frutas Premium E02 30W Mondial. Perfeito para suas bebidas do d...",
+    "marketplace": "Shopee",
+    "category": "Eletrodomésticos",
+    "old_price": "",
+    "price": "R$ 59,90",
+    "discount_percent": 0.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-82623-mlge911xsjr992",
+    "affiliate_url": "https://s.shopee.com.br/6AkJeocHQ3",
+    "created_at": "18/08/2026 09:20",
+    "created_at_iso": "2026-08-18T09:20:13",
+    "created_ts": 1787044813,
+    "niche": {
+      "key": "shopee_eletrodomesticos",
+      "name": "Eletrodomésticos"
+    }
+  },
+  {
+    "id": "431388ec2187e32b9e",
+    "title": "Ventilador Turbo de Coluna",
+    "raw_title": "Ventilador De Coluna De Chão Turbo Vento Forte 3 Velocidades 110v/220v",
+    "description": "🥵 Chega de calor! Garanta já seu Ventilador de Coluna Turbo com vento forte e 3 velocidades para refrescar qualquer ambiente! Perfeito para o verão bras...",
+    "marketplace": "Shopee",
+    "category": "Eletrodomésticos",
+    "old_price": "R$ 190,99",
+    "price": "R$ 169,98",
+    "discount_percent": 11.0,
+    "rating": 4.7,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820ll-mrfzskh2eww7fa",
+    "affiliate_url": "https://s.shopee.com.br/50YJbr3nGQ",
+    "created_at": "18/08/2026 09:19",
+    "created_at_iso": "2026-08-18T09:19:05",
+    "created_ts": 1787044745,
+    "niche": {
+      "key": "shopee_eletrodomesticos",
+      "name": "Eletrodomésticos"
+    }
+  },
+  {
+    "id": "f5ec0dddefeb372f20",
+    "title": "Blender Cadence Zoop com 2 Jarras",
+    "raw_title": "Blender Zoop Contrast Cadence com 2 Jarras",
+    "description": "⚡️ SUPER OFERTA: Blender Cadence Zoop Contrast! 🍹 Prepare sucos, vitaminas e shakes com praticidade. Vem com 2 jarras para você não parar! Mais de 1000...",
+    "marketplace": "Shopee",
+    "category": "Eletrodomésticos",
+    "old_price": "R$ 170,34",
+    "price": "R$ 149,90",
+    "discount_percent": 12.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-82634-mmc1kw2fhatd63",
+    "affiliate_url": "https://s.shopee.com.br/6q00S2Zk4N",
+    "created_at": "18/08/2026 09:17",
+    "created_at_iso": "2026-08-18T09:17:57",
+    "created_ts": 1787044677,
+    "niche": {
+      "key": "shopee_eletrodomesticos",
+      "name": "Eletrodomésticos"
+    }
+  },
+  {
+    "id": "b158ad3e8784d5a68c",
+    "title": "Cafeteira Elétrica Kian 18 Xícaras",
+    "raw_title": "Cafeteira Elétrica Kian 18 Xícaras 650W 127V Filtro Permanente Jarra de Vidro Corta Pingos",
+    "description": "☕ Café fresquinho em minutos! A Cafeteira Elétrica Kian de 18 Xícaras é perfeita para o seu dia a dia! Com 650W de potência, filtro permanente e jarra d...",
+    "marketplace": "Shopee",
+    "category": "Eletrodomésticos",
+    "old_price": "R$ 129,02",
+    "price": "R$ 79,99",
+    "discount_percent": 38.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820ln-mnx94udscxduba",
+    "affiliate_url": "https://s.shopee.com.br/9V0lcwTzQQ",
+    "created_at": "18/08/2026 09:16",
+    "created_at_iso": "2026-08-18T09:16:49",
+    "created_ts": 1787044609,
+    "niche": {
+      "key": "shopee_eletrodomesticos",
+      "name": "Eletrodomésticos"
+    }
+  },
+  {
+    "id": "0e19fa6a6d4c6b0f74",
+    "title": "Air Fryer Gaabor 5.5L Vintage",
+    "raw_title": "Fritadeira Elétrica Sem Óleo Air Fryer 5.5L Gaabor Jumbo Family 1400w 127V ou 220V Vintage",
+    "description": "Cozinhe sem culpa e com muito sabor! ✨ Sua família merece uma alimentação mais saudável e prática. A Fritadeira Elétrica Sem Óleo Air Fryer 5.5L Gaabor...",
+    "marketplace": "Shopee",
+    "category": "Eletrodomésticos",
+    "old_price": "R$ 327,14",
+    "price": "R$ 229,00",
+    "discount_percent": 30.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lx-mm0ux58zbojq7e",
+    "affiliate_url": "https://s.shopee.com.br/5VUcraaYWJ",
+    "created_at": "18/08/2026 09:15",
+    "created_at_iso": "2026-08-18T09:15:42",
+    "created_ts": 1787044542,
+    "niche": {
+      "key": "shopee_eletrodomesticos",
+      "name": "Eletrodomésticos"
+    }
+  },
+  {
     "id": "aaad7cbe4ad946fa9a",
     "title": "SSD Nvme Asgard AN4 1TB Gen4",
     "raw_title": "SSD Nvme Asgard AN4 1tb Gen4",
@@ -2201,111 +2306,6 @@
     "niche": {
       "key": "shopee_sapatos_masculinos",
       "name": "Sapatos Masculinos"
-    }
-  },
-  {
-    "id": "ae6c7c58dbb6b9a4ef",
-    "title": "Blusa Manga Princesa Curta Plus Size Dunas",
-    "raw_title": "Blusa Manga Princesa Curta Elegante Tendência Moda Maior Plus Size Botão Moda Casual Tecido Dunas",
-    "description": "✨ Tendência e Conforto para Você! A Blusa Manga Princesa Curta chegou para te deixar ainda mais elegante! ✨ Com tecido Dunas, caimento perfeito e botões...",
-    "marketplace": "Shopee",
-    "category": "Roupas Plus Size",
-    "old_price": "R$ 39,90",
-    "price": "R$ 35,91",
-    "discount_percent": 10.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfr02ub7mqrk40",
-    "affiliate_url": "https://s.shopee.com.br/7VFeJxxjLY",
-    "created_at": "17/08/2026 09:20",
-    "created_at_iso": "2026-08-17T09:20:12",
-    "created_ts": 1786958412,
-    "niche": {
-      "key": "shopee_roupas_plus_size",
-      "name": "Roupas Plus Size"
-    }
-  },
-  {
-    "id": "ba251bef256f6b8267",
-    "title": "Kit 5 Camisetas UV50",
-    "raw_title": "Kit 5 Camiseta Segunda Pele Proteção Solar Uv50 Praia Verão P ao G3 Plus Size",
-    "description": "☀️ VERÃO PROTEGIDO E COM ESTILO! 🏖️ Garanta já seu Kit 5 Camisetas Segunda Pele com Proteção Solar UV50! Perfeito para praia, piscina ou atividades ao a...",
-    "marketplace": "Shopee",
-    "category": "Roupas Plus Size",
-    "old_price": "R$ 89,40",
-    "price": "R$ 59,90",
-    "discount_percent": 33.0,
-    "rating": 4.4,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820le-mndkrhwzj8ci05",
-    "affiliate_url": "https://s.shopee.com.br/2LXZUsYppR",
-    "created_at": "17/08/2026 09:19",
-    "created_at_iso": "2026-08-17T09:19:04",
-    "created_ts": 1786958344,
-    "niche": {
-      "key": "shopee_roupas_plus_size",
-      "name": "Roupas Plus Size"
-    }
-  },
-  {
-    "id": "28afc6d9dc2583ed3b",
-    "title": "Vestido Feminino Plus Size Premium",
-    "raw_title": "Vestido Feminino Alça Regata Soltinho Rodado Plus Size Premium",
-    "description": "✨ Chegou o Vestido Plus Size Premium! ✨ Conforto, leveza e estilo para todas as ocasiões. Este vestido soltinho e rodado valoriza suas curvas com um toq...",
-    "marketplace": "Shopee",
-    "category": "Roupas Plus Size",
-    "old_price": "R$ 70,00",
-    "price": "R$ 39,90",
-    "discount_percent": 43.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820l7-mnj6js9k31tsd2",
-    "affiliate_url": "https://s.shopee.com.br/3g2x5KTpO1",
-    "created_at": "17/08/2026 09:17",
-    "created_at_iso": "2026-08-17T09:17:56",
-    "created_ts": 1786958276,
-    "niche": {
-      "key": "shopee_roupas_plus_size",
-      "name": "Roupas Plus Size"
-    }
-  },
-  {
-    "id": "8f609a9c810dc3dc6c",
-    "title": "Kit 2 Calças Trabalho Plus Size",
-    "raw_title": "Kit 2 Calça Tradicional de Trabalho Plus Size 100% Algodão 36 ao 58",
-    "description": "🚨 Conforto e Economia: Kit 2 Calças de Trabalho! Garanta já seu Kit 2 Calças Tradicionais de Trabalho Plus Size 100% Algodão. Perfeito para o dia a dia,...",
-    "marketplace": "Shopee",
-    "category": "Roupas Plus Size",
-    "old_price": "R$ 181,62",
-    "price": "R$ 94,44",
-    "discount_percent": 48.0,
-    "rating": 4.7,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81zu1-mkwhshn85vr52b",
-    "affiliate_url": "https://s.shopee.com.br/1gHsheflxp",
-    "created_at": "17/08/2026 09:16",
-    "created_at_iso": "2026-08-17T09:16:47",
-    "created_ts": 1786958207,
-    "niche": {
-      "key": "shopee_roupas_plus_size",
-      "name": "Roupas Plus Size"
-    }
-  },
-  {
-    "id": "0e9919e372f99699ce",
-    "title": "Legging Bolha PLUS SIZE",
-    "raw_title": "Calça Legging Bolha PLUS SIZE disfarça celulite",
-    "description": "Adeus celulite! ✨ Legging PLUS SIZE Perfeita! Conforto e estilo que disfarçam a celulite e modelam seu corpo. Sinta-se linda e confiante em qualquer oca...",
-    "marketplace": "Shopee",
-    "category": "Roupas Plus Size",
-    "old_price": "R$ 79,83",
-    "price": "R$ 36,72",
-    "discount_percent": 54.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-82590-mfu3pi3rvymi68",
-    "affiliate_url": "https://s.shopee.com.br/2gAPtUbxvv",
-    "created_at": "17/08/2026 09:15",
-    "created_at_iso": "2026-08-17T09:15:39",
-    "created_ts": 1786958139,
-    "niche": {
-      "key": "shopee_roupas_plus_size",
-      "name": "Roupas Plus Size"
     }
   }
 ]

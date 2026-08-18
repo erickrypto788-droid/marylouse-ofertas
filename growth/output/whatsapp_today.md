@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 18/08/2026 10:03
+Gerado em: 18/08/2026 10:22
 
 ## Como usar
 
@@ -117,14 +117,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
 ```txt
 💄 Oferta para Beleza e Cuidados
 
-Perfume Grace Midnight Feminino Frasco Antigo Hinode 100ml
+Escova Secadora GOKOCO 7 em 1
 
-💸 De: R$ 169,90
-🔥 Por: R$ 84,95
-🏷️ 50% OFF
+💸 De: R$ 1.293,48
+🔥 Por: R$ 595,00
+🏷️ 54% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/BT3v5gNYj
+Ver oferta: https://s.shopee.com.br/AUtIsu6MpH
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 18/08/2026 09:03
+Gerado em: 18/08/2026 09:21
 
 ## Como usar
 
@@ -55,8 +55,8 @@ Gerado em: 18/08/2026 09:03
 **Produtos usados:**
 
 - Panela de Arroz Elétrica 1.8L
+- Air Fryer Gaabor 5.5L Vintage
 - Panela de Pressão Antiaderente 4,5L
-- Jogo Panelas Vermelho Alumínio Fundido Usinado Javaliaa26a30
 
 ---
 

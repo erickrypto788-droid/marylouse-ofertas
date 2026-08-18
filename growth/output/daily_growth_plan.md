@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 18/08/2026 09:03
+Gerado em: 18/08/2026 09:21
 
 ## Categorias prioritárias
 
 - 🍼 **Mãe e Bebê**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 👟 **Calçados**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- ✨ **Moda Plus Size**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
 - 📱 **Celulares**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 💄 **Beleza**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 🔌 **Eletrodomésticos**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-eletrodomesticos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_eletrodomesticos
 - 💻 **Informática**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 📦 **Outros**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 👗 **Moda Feminina**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
+- 🍳 **Casa e Cozinha**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 📚 **Papelaria**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
-- 🧸 **Brinquedos**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 
 ## Top ofertas para destacar
 
@@ -66,26 +66,26 @@ Gerado em: 18/08/2026 09:03
    - Desconto: 50% OFF
    - Link: https://s.shopee.com.br/BT3v5gNYj
 
-8. **BODY SPLASH FEMININO SUCCÈS VERT 200ML - PRIMACIAL PERFUME FLORAL CIT…**
+8. **Air Fryer Gaabor 5.5L Vintage**
+   - Categoria: Casa e Cozinha
+   - Loja: Shopee
+   - Preço: R$ 229,00
+   - Desconto: 30% OFF
+   - Link: https://s.shopee.com.br/5VUcraaYWJ
+
+9. **BODY SPLASH FEMININO SUCCÈS VERT 200ML - PRIMACIAL PERFUME FLORAL CIT…**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 38,61
    - Desconto: 45% OFF
    - Link: https://s.shopee.com.br/20ui6SZOq8
 
-9. **Película de Privacidade 3D Samsung**
+10. **Película de Privacidade 3D Samsung**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 11,96
    - Desconto: 50% OFF
    - Link: https://s.shopee.com.br/19gFMxEpD
-
-10. **Carregador Turbo Tipo C Super Rápido**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 19,99
-   - Desconto: 71% OFF
-   - Link: https://s.shopee.com.br/7fZ7NScmYW
 
 ## Ações gratuitas recomendadas
 

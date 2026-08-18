@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 18/08/2026 03:21
+Gerado em: 18/08/2026 04:21
 
 ## Como usar
 
@@ -103,8 +103,8 @@ Gerado em: 18/08/2026 03:21
 **Produtos usados:**
 
 - Kit 2 Cartões de Memória 128GB
-- Leitor de Cartão SD Tipo C Lightning
 - Barra de Proteína Snacks Protein Bar Flash 35g 10 Unids Bodyaction
+- Power Bank Magnético iPhone
 
 ---
 

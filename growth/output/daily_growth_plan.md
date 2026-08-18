@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 18/08/2026 04:01
+Gerado em: 18/08/2026 04:21
 
 ## Categorias prioritárias
 
 - 👗 **Moda Feminina**: 15 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 🍼 **Mãe e Bebê**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 📦 **Outros**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 👕 **Moda Masculina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 - 💄 **Beleza**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 💻 **Informática**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 💻 **Informática**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 📚 **Papelaria**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 - 👟 **Calçados**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 🛒 **Supermercados**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-supermercados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_supermercados
-- 👜 **Bolsas**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 
 ## Top ofertas para destacar
 
@@ -59,33 +59,33 @@ Gerado em: 18/08/2026 04:01
    - Desconto: 50% OFF
    - Link: https://s.shopee.com.br/BT3v5gNYj
 
-7. **SSD de alta velocidade SATA III de 2.5 polegadas 60-256 GB PC/Laptop…**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 93,00
-   - Desconto: 70% OFF
-   - Link: https://s.shopee.com.br/W5uumwAQ6
-
-8. **BODY SPLASH FEMININO SUCCÈS VERT 200ML - PRIMACIAL PERFUME FLORAL CIT…**
+7. **BODY SPLASH FEMININO SUCCÈS VERT 200ML - PRIMACIAL PERFUME FLORAL CIT…**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 38,61
    - Desconto: 45% OFF
    - Link: https://s.shopee.com.br/20ui6SZOq8
 
-9. **Kit 4 Blusinha Baby Look - Casual Dia a Dia Elegante Básica Lisa Mode…**
+8. **Kit 4 Blusinha Baby Look - Casual Dia a Dia Elegante Básica Lisa Mode…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 52,99
    - Desconto: 54% OFF
    - Link: https://s.shopee.com.br/AAGS1Rv0IW
 
-10. **Fralda Pampers Pants XXXG (24un)**
+9. **Fralda Pampers Pants XXXG (24un)**
    - Categoria: Mãe e Bebê
    - Loja: Mercado Livre
    - Preço: R$ 44,00
    - Desconto: 27% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB44422333?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+10. **Mochila Executiva Reforçada**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 38,98
+   - Desconto: 64% OFF
+   - Link: https://s.shopee.com.br/7psVW234tH
 
 ## Ações gratuitas recomendadas
 

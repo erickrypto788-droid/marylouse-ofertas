@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 18/08/2026 04:01
+Gerado em: 18/08/2026 04:21
 
 ## Como usar
 
@@ -102,37 +102,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Ofertas Pet
-
-**Canal recomendado:** Ofertas Pet
-
-**Horário sugerido:** 17:00 - 20:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
-
-**Texto pronto:**
-
-```txt
-🐶 Oferta para Ofertas Pet
-
-Repetidor Wifi 1200m 6 Antenas 3 in 1 functios 2.4g Roteador Amplific…
-
-💸 De: R$ 118,16
-🔥 Por: R$ 51,99
-🏷️ 56% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/1Lf1uK205N
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 5 — Moda Feminina
+## Post 4 — Moda Feminina
 
 **Canal recomendado:** Moda Feminina
 
@@ -162,7 +132,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 6 — Celulares e Tecnologia
+## Post 5 — Celulares e Tecnologia
 
 **Canal recomendado:** Celulares e Tecnologia
 
@@ -185,6 +155,36 @@ Kit 2 Cartões de Memória 128GB
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/7fZ4idmefA
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 6 — Ofertas Pet
+
+**Canal recomendado:** Ofertas Pet
+
+**Horário sugerido:** 17:00 - 20:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
+
+**Texto pronto:**
+
+```txt
+🐶 Oferta para Ofertas Pet
+
+Ração Gato Estimacat Premium Filhote Sabor Frango 10kg
+
+💸 De: R$ 337,43
+🔥 Por: R$ 253,07
+🏷️ 25% OFF
+🛒 Loja: Mercado Livre
+
+Ver oferta: https://www.mercadolivre.com.br/p/MLB66844874?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

@@ -1,6 +1,6 @@
 # Pinterest Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 18/08/2026 08:04
+Gerado em: 18/08/2026 08:22
 
 ## Como usar
 
@@ -114,7 +114,7 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
 
 **Descrição:**
 
-Veja ofertas de Celulares selecionadas pela MaryLouse Ofertas. Destaque de hoje: Kit 2 Cartões de Memória 128GB. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Veja ofertas de Celulares selecionadas pela MaryLouse Ofertas. Destaque de hoje: BML Smartphone 12GB+512GB 5G Android 15 Câmera 108MP. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
@@ -122,31 +122,31 @@ https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=pinterest
 
 **Por que postar:**
 
-Categoria com 6 oferta(s) e boa intenção de compra.
+Categoria com 9 oferta(s) e boa intenção de compra.
 
 ---
 
-## Pin 5 — Casa e Cozinha
+## Pin 5 — Celulares
 
 **Tipo:** produto_direto
 
-**Board sugerido:** Achadinhos de Casa
+**Board sugerido:** Celulares e Tecnologia
 
 **Imagem para upload no Pinterest:**
 
-https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
+https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
 
 **Título:**
 
-66% OFF: Panela de Arroz Elétrica 1.8L
+75% OFF: BML Smartphone 12GB+512GB 5G Android 15 Câmera 108MP
 
 **Descrição:**
 
-Oferta destaque em Casa e Cozinha encontrada pela MaryLouse Ofertas. Preço: R$ 67,99. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Oferta destaque em Celulares encontrada pela MaryLouse Ofertas. Preço: R$ 985,00. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
-https://s.shopee.com.br/3VjXwxKHxW
+https://s.shopee.com.br/7fZ7NSPRhA
 
 **Por que postar:**
 

@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 18/08/2026 08:04
+Gerado em: 18/08/2026 08:22
 
 ## Como usar
 
@@ -102,9 +102,9 @@ Gerado em: 18/08/2026 08:04
 
 **Produtos usados:**
 
-- Kit 2 Cartões de Memória 128GB
-- Barra de Proteína Snacks Protein Bar Flash 35g 10 Unids Bodyaction
-- Power Bank Magnético iPhone
+- BML Smartphone 12GB+512GB 5G Android 15 Câmera 108MP
+- Película de Privacidade 3D Samsung
+- Carregador Turbo Tipo C Super Rápido
 
 ---
 

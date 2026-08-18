@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 18/08/2026 21:42
+Gerado em: 18/08/2026 22:22
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Conjunto Feminino Body Quadrado+Short Alfaiataria Com Bolso e Cinto…
+kit 03 short dool pijaminhas coloridos roupa de dormir
 
-💸 De: R$ 120,86
-🔥 Por: R$ 51,97
-🏷️ 57% OFF
+💸 De: R$ 49,83
+🔥 Por: R$ 29,90
+🏷️ 40% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/9pdbcpwGyQ
+Ver oferta: https://s.shopee.com.br/1gHttpRMXa
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

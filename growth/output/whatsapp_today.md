@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 18/08/2026 11:04
+Gerado em: 18/08/2026 11:21
 
 ## Como usar
 
@@ -132,7 +132,37 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 5 — Moda Feminina
+## Post 5 — Ofertas Pet
+
+**Canal recomendado:** Ofertas Pet
+
+**Horário sugerido:** 17:00 - 20:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
+
+**Texto pronto:**
+
+```txt
+🐶 Oferta para Ofertas Pet
+
+Kit 2 Pares Sandália Infantil Papete Menina Casual Leve Lançamento
+
+💸 De: R$ 69,46
+🔥 Por: R$ 38,90
+🏷️ 44% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/8pl3dYBKuA
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 6 — Moda Feminina
 
 **Canal recomendado:** Moda Feminina
 
@@ -155,36 +185,6 @@ Calça Legging Esportiva Cintura Alta Com Bolso Empina Bumbum Zero Tra…
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/5q7S89gfRI
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 6 — Ofertas Pet
-
-**Canal recomendado:** Ofertas Pet
-
-**Horário sugerido:** 17:00 - 20:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
-
-**Texto pronto:**
-
-```txt
-🐶 Oferta para Ofertas Pet
-
-Ração Gato Estimacat Premium Filhote Sabor Frango 10kg
-
-💸 De: R$ 337,43
-🔥 Por: R$ 253,07
-🏷️ 25% OFF
-🛒 Loja: Mercado Livre
-
-Ver oferta: https://www.mercadolivre.com.br/p/MLB66844874?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

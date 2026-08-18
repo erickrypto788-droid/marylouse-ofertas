@@ -1,5 +1,22 @@
 [
   {
+    "id": "dec4ea1fb14491edd0",
+    "title": "Escova Secadora Profissional",
+    "raw_title": "Escova Secadora Profissional",
+    "description": "🔥 Oferta encontrada! 📌 Escova Secadora Profissional Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Beleza",
+    "old_price": "",
+    "price": "R$ 89,90",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_916915-MLA114550541822_082026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB37914551?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "18/08/2026 06:01",
+    "created_at_iso": "2026-08-18T06:01:27",
+    "created_ts": 1787032887
+  },
+  {
     "id": "4424788a16a6f489f7",
     "title": "Kit 3 Shorts 2 em 1 DryFit Plus Size Original Elastano Academia Espo…",
     "raw_title": "Kit 3 Shorts 2 em 1 DryFit Plus Size Original Elastano Academia Esporte Treino Masculino",
@@ -2454,26 +2471,5 @@
     "created_at": "17/08/2026 06:04",
     "created_at_iso": "2026-08-17T06:04:35",
     "created_ts": 1786946675
-  },
-  {
-    "id": "beccfe2b5605a0625a",
-    "title": "Kit 4 Potes Herméticos 2L Com Copo Medidor Organizador Mantimentos Ar…",
-    "raw_title": "Kit 4 Potes Herméticos 2L Com Copo Medidor Organizador Mantimentos Arroz Feijão Sabão Em Pó Amaciante Produtos Limpeza",
-    "description": "🔥 40% OFF — Oferta encontrada! 📌 Kit 4 Potes Herméticos 2L Com Copo Medidor Organizador Mantimentos Arroz Feijão Sabão Em Pó Amaciante Produtos Limpeza...",
-    "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
-    "old_price": "R$ 99,35",
-    "price": "R$ 59,61",
-    "discount_percent": 40.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lp-mpol3c90f3lu86",
-    "affiliate_url": "https://s.shopee.com.br/8fRcm2j2ss",
-    "created_at": "17/08/2026 05:20",
-    "created_at_iso": "2026-08-17T05:20:04",
-    "created_ts": 1786944004,
-    "niche": {
-      "key": "shopee_bebidas_alimentos",
-      "name": "Bebidas e Alimentos"
-    }
   }
 ]

@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 18/08/2026 17:19
+Gerado em: 18/08/2026 18:10
 
 ## Como usar
 
@@ -127,7 +127,7 @@ Gerado em: 18/08/2026 17:19
 **Produtos usados:**
 
 - Hidratante Creme Facial Pele De Porcelana Kokeshi 30g Milagre do Arroz
+- Detergente Sabão Lava Louça Pastilha + Lava Máquina Unik
 - Amaciante Vinagreen Lavanda 1L
-- Sabão em pó Ypê Lava Roupas em Pó Tixan Lava Roupas em pó garrafa 2.2…
 
 ---

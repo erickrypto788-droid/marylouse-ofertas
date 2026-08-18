@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 18/08/2026 19:00
+Gerado em: 18/08/2026 19:22
 
 ## Como usar
 
@@ -162,29 +162,29 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 6 — Saúde
+## Post 6 — Moda Feminina
 
-**Canal recomendado:** Saúde e Bem-estar
+**Canal recomendado:** Moda Feminina
 
-**Horário sugerido:** 09:00 - 11:00
+**Horário sugerido:** 12:00 - 14:00
 
 **Imagem/card:**
 
-https://marylouse-ofertas.vercel.app/growth/pinterest/saude.png
+https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 
 **Texto pronto:**
 
 ```txt
-❤️ Oferta para Saúde
+👗 Oferta para Moda Feminina
 
-Monitor digital de pressão arterial de braço totalmente automático an…
+Conjunto Feminino Body Quadrado+Short Alfaiataria Com Bolso e Cinto…
 
-💸 De: R$ 121,84
-🔥 Por: R$ 38,99
-🏷️ 68% OFF
+💸 De: R$ 120,86
+🔥 Por: R$ 51,97
+🏷️ 57% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/5fo0jgDApX
+Ver oferta: https://s.shopee.com.br/9pdbcpwGyQ
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

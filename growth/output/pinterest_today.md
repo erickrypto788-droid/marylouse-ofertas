@@ -1,6 +1,6 @@
 # Pinterest Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 18/08/2026 19:00
+Gerado em: 18/08/2026 19:22
 
 ## Como usar
 
@@ -122,11 +122,11 @@ https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=pinterest
 
 **Por que postar:**
 
-Categoria com 6 oferta(s) e boa intenção de compra.
+Categoria com 7 oferta(s) e boa intenção de compra.
 
 ---
 
-## Pin 5 — Celulares
+## Pin 5 — Informática
 
 **Tipo:** produto_direto
 
@@ -134,19 +134,19 @@ Categoria com 6 oferta(s) e boa intenção de compra.
 
 **Imagem para upload no Pinterest:**
 
-https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
+https://marylouse-ofertas.vercel.app/growth/pinterest/informatica.png
 
 **Título:**
 
-75% OFF: BML Smartphone 12GB+512GB 5G Android 15 Câmera 108MP
+63% OFF: SSD Samsung Externo de Alta Velocidade
 
 **Descrição:**
 
-Oferta destaque em Celulares encontrada pela MaryLouse Ofertas. Preço: R$ 985,00. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Oferta destaque em Informática encontrada pela MaryLouse Ofertas. Preço: R$ 149,00. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
-https://s.shopee.com.br/7fZ7NSPRhA
+https://s.shopee.com.br/7KwGRsL74X
 
 **Por que postar:**
 

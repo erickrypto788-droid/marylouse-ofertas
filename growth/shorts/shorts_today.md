@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 18/08/2026 18:22
+Gerado em: 18/08/2026 19:22
 
 ## Como usar
 
@@ -103,8 +103,8 @@ Gerado em: 18/08/2026 18:22
 **Produtos usados:**
 
 - BML Smartphone 12GB+512GB 5G Android 15 Câmera 108MP
+- Leitor Cartão USB C 3 Em 1 OTG SD Micro SD Adaptador Para Celular Not…
 - Película de Privacidade 3D Samsung
-- Carregador Turbo Tipo C Super Rápido
 
 ---
 

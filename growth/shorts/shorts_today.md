@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 17/08/2026 23:21
+Gerado em: 18/08/2026 00:10
 
 ## Como usar
 
@@ -123,7 +123,7 @@ Gerado em: 17/08/2026 23:21
 **Produtos usados:**
 
 - Kit 4 Potes Herméticos 2L Com Copo Medidor Organizador Mantimentos Ar…
-- 100 Saco De Lixo 60l Preto Saco Lixo Resistente Reforçado
-- Kit Higiene Bucal Completo (35 unidades)
+- Amaciante Vinagreen Lavanda 1L
+- Sabão em pó Ypê Lava Roupas em Pó Tixan Lava Roupas em pó garrafa 2.2…
 
 ---

@@ -1,5 +1,39 @@
 [
   {
+    "id": "f8c1f98a23a406a2c4",
+    "title": "Brinquedo Kit Ferramentas Lider",
+    "raw_title": "Brinquedo Lider Kit Ferramentas - 2381",
+    "description": "🎁 Seu pequeno construtor vai amar este Kit Ferramentas da Lider! Com o Brinquedo Lider Kit Ferramentas, a imaginação não tem limites. Perfeito para esti...",
+    "marketplace": "Mercado Livre",
+    "category": "Brinquedos e Hobbies",
+    "old_price": "",
+    "price": "R$ 119,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_735715-MLA99504869284_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45785598?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "18/08/2026 08:02",
+    "created_at_iso": "2026-08-18T08:02:26",
+    "created_ts": 1787040146
+  },
+  {
+    "id": "da614afb98d828d41a",
+    "title": "Kit Furadeira e Parafusadeira Dewalt 20V",
+    "raw_title": "Kit Furadeira e Parafusadeira com Parafusadeira Dewalt Modelo DCK200ME2GT 2 Baterias 20V",
+    "description": "🛠️ Potência e Precisão na Sua Mão! Garanta já o seu Kit Furadeira e Parafusadeira Dewalt Modelo DCK200ME2GT com 2 Baterias 20V! 💪 Ideal para todos os se...",
+    "marketplace": "Mercado Livre",
+    "category": "Ferramentas",
+    "old_price": "",
+    "price": "R$ 3.099,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_784742-MLA100042438679_122025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB37180897?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "18/08/2026 08:01",
+    "created_at_iso": "2026-08-18T08:01:13",
+    "created_ts": 1787040073
+  },
+  {
     "id": "f8aa2584892258a75e",
     "title": "Sandália Slide Feminina Ortopédica",
     "raw_title": "Sandalia Slide Feminina Ortopedica Palmilha Anatômica e Estilo Casual",
@@ -2275,107 +2309,6 @@
     "niche": {
       "key": "shopee_roupas_masculinas",
       "name": "Roupas Masculinas"
-    }
-  },
-  {
-    "id": "fe65f8fa5d38fb65d1",
-    "title": "Cama Box Solteiro Molas Ensacadas Orthoflex",
-    "raw_title": "Cama Box Solteiro: Colchão Molas Ensacadas Orthoflex Memor",
-    "description": "😴 Noites de sono perfeitas te esperam! ✨ Aproveite a Cama Box Solteiro com Colchão de Molas Ensacadas Orthoflex Memor e transforme seu descanso! Experim...",
-    "marketplace": "Mercado Livre",
-    "category": "Casa e Decoração",
-    "old_price": "R$ 1.310,97",
-    "price": "R$ 1.245,42",
-    "discount_percent": 5.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_758365-MLA99458220674_112025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB48409016?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "17/08/2026 08:02",
-    "created_at_iso": "2026-08-17T08:02:24",
-    "created_ts": 1786953744
-  },
-  {
-    "id": "7f8aadd4380fe2ca15",
-    "title": "Blusa Plus Size Canelada Malha Premium",
-    "raw_title": "Blusa Feminina Plus Size Canelada Gola V Manga Curta Malha Premium do GG ao G3",
-    "description": "CONFORTO e ESTILO pela METADE do preço! 💖 A Blusa Feminina Plus Size Canelada Gola V em Malha Premium chegou para te deixar ainda mais linda e confortáv...",
-    "marketplace": "Shopee",
-    "category": "Roupas Femininas",
-    "old_price": "R$ 59,80",
-    "price": "R$ 29,90",
-    "discount_percent": 50.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ld-mp0582z2wlqb54",
-    "affiliate_url": "https://s.shopee.com.br/W5vBHAF71",
-    "created_at": "17/08/2026 07:20",
-    "created_at_iso": "2026-08-17T07:20:26",
-    "created_ts": 1786951226,
-    "niche": {
-      "key": "shopee_roupas_femininas",
-      "name": "Roupas Femininas"
-    }
-  },
-  {
-    "id": "1a71736701a10985a1",
-    "title": "KIT 2 Regatas Suplex Duplo Femininas",
-    "raw_title": "KIT 2 Regata Blusinha Feminina Suplex Duplo Básica Elegante Blogueira Tendencia",
-    "description": "✨ **IMPERDÍVEL! KIT 2 Regatas Suplex Duplo Femininas!** ✨ Tenha versatilidade e estilo com este kit de blusinhas básicas, elegantes e super tendência. P...",
-    "marketplace": "Shopee",
-    "category": "Roupas Femininas",
-    "old_price": "R$ 70,47",
-    "price": "R$ 26,78",
-    "discount_percent": 62.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7ra0k-m57yq7y2cqaf65",
-    "affiliate_url": "https://s.shopee.com.br/9fKA67so7K",
-    "created_at": "17/08/2026 07:19",
-    "created_at_iso": "2026-08-17T07:19:17",
-    "created_ts": 1786951157,
-    "niche": {
-      "key": "shopee_roupas_femininas",
-      "name": "Roupas Femininas"
-    }
-  },
-  {
-    "id": "e3208e81f8f2a2c5d9",
-    "title": "Cinta Modeladora Short Alta Compressão",
-    "raw_title": "Cinta Modeladora Short Reduz 2 Medidas | Empina Bumbum | Alta Compressão | Não Enrola | Envio Rápido",
-    "description": "✨ Transforme sua Silhueta AGORA! ✨ Conheça a Cinta Modeladora Short que vai revolucionar seu visual! Reduz 2 medidas na hora, empina o bumbum e tem alta...",
-    "marketplace": "Shopee",
-    "category": "Roupas Femininas",
-    "old_price": "R$ 70,00",
-    "price": "R$ 37,80",
-    "discount_percent": 46.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-8260j-mkwt5mmo1pmv35",
-    "affiliate_url": "https://s.shopee.com.br/2qTpxZA9wr",
-    "created_at": "17/08/2026 07:18",
-    "created_at_iso": "2026-08-17T07:18:07",
-    "created_ts": 1786951087,
-    "niche": {
-      "key": "shopee_roupas_femininas",
-      "name": "Roupas Femininas"
-    }
-  },
-  {
-    "id": "1f38d51533e1ba6fa8",
-    "title": "Legging Térmica Flanelada",
-    "raw_title": "Legging Flanelada Grossa Calça Leg Peluciada Forrada Por Dentro Costura Reforçada Calça Térmica",
-    "description": "❄️ ACABE COM O FRIO! A Legging Flanelada Grossa que você precisa para o inverno! 🌬️ Fique super quentinha e confortável com essa calça térmica peluciada...",
-    "marketplace": "Shopee",
-    "category": "Roupas Femininas",
-    "old_price": "R$ 49,98",
-    "price": "R$ 28,99",
-    "discount_percent": 42.0,
-    "rating": 4.7,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7qukw-libnojddobjzcf",
-    "affiliate_url": "https://s.shopee.com.br/9KhJhVlHE4",
-    "created_at": "17/08/2026 07:16",
-    "created_at_iso": "2026-08-17T07:16:58",
-    "created_ts": 1786951018,
-    "niche": {
-      "key": "shopee_roupas_femininas",
-      "name": "Roupas Femininas"
     }
   }
 ]

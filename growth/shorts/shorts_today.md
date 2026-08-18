@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 18/08/2026 05:21
+Gerado em: 18/08/2026 06:03
 
 ## Como usar
 
@@ -80,7 +80,7 @@ Gerado em: 18/08/2026 05:21
 
 - Perfume Grace Midnight Feminino Frasco Antigo Hinode 100ml
 - BODY SPLASH FEMININO SUCCÈS VERT 200ML - PRIMACIAL PERFUME FLORAL CIT…
-- Perfume Amodil Fonte Verde 100ml
+- Escova Secadora Profissional
 
 ---
 
@@ -126,8 +126,8 @@ Gerado em: 18/08/2026 05:21
 
 **Produtos usados:**
 
-- Kit 4 Potes Herméticos 2L Com Copo Medidor Organizador Mantimentos Ar…
 - Hidratante Creme Facial Pele De Porcelana Kokeshi 30g Milagre do Arroz
 - Amaciante Vinagreen Lavanda 1L
+- Sabão em pó Ypê Lava Roupas em Pó Tixan Lava Roupas em pó garrafa 2.2…
 
 ---

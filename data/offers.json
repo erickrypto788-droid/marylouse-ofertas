@@ -1,5 +1,47 @@
 [
   {
+    "id": "f8aa2584892258a75e",
+    "title": "Sandália Slide Feminina Ortopédica",
+    "raw_title": "Sandalia Slide Feminina Ortopedica Palmilha Anatômica e Estilo Casual",
+    "description": "Pés confortáveis e estilosos? Sim! 💖 Aproveite a Sandália Slide Feminina Ortopédica com Palmilha Anatômica e Estilo Casual! Perfeita para o seu dia a di...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Femininos",
+    "old_price": "R$ 157,88",
+    "price": "R$ 89,99",
+    "discount_percent": 43.0,
+    "rating": 5.0,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820ls-mptaumkcjc3nfc",
+    "affiliate_url": "https://s.shopee.com.br/112DN4rJiT",
+    "created_at": "18/08/2026 07:16",
+    "created_at_iso": "2026-08-18T07:16:40",
+    "created_ts": 1787037400,
+    "niche": {
+      "key": "shopee_sapatos_femininos",
+      "name": "Sapatos Femininos"
+    }
+  },
+  {
+    "id": "f2e66e566904743302",
+    "title": "Bota Botina Feminina Texana",
+    "raw_title": "Bota Botina Feminina Texana Macia Country Cowboy Bico Quadrado Confortável Zíper E Rebites",
+    "description": "👢 Estilo Country com Conforto Inigualável! Prepare-se para arrasar com a Bota Botina Feminina Texana! Super macia, com bico quadrado, zíper e rebites pa...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Femininos",
+    "old_price": "R$ 150,75",
+    "price": "R$ 79,90",
+    "discount_percent": 47.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m85ec5iriju9db",
+    "affiliate_url": "https://s.shopee.com.br/4LIe0ns7vu",
+    "created_at": "18/08/2026 07:15",
+    "created_at_iso": "2026-08-18T07:15:33",
+    "created_ts": 1787037333,
+    "niche": {
+      "key": "shopee_sapatos_femininos",
+      "name": "Sapatos Femininos"
+    }
+  },
+  {
     "id": "721c7df8ba20c1f302",
     "title": "tenis Unissex Old Knu Feminino Masculino Branco Preto Promoção envio…",
     "raw_title": "tenis Unissex Old Knu Feminino Masculino Branco Preto Promoção envio imediato.",
@@ -2335,77 +2377,5 @@
       "key": "shopee_roupas_femininas",
       "name": "Roupas Femininas"
     }
-  },
-  {
-    "id": "d0b378b5f405b612a3",
-    "title": "Calça Pantalona Premium",
-    "raw_title": "Calça Pantalona Alfaiataria Premium Com Bolso PROMOÇÃO",
-    "description": "🚨 IMPERDÍVEL! Calça Pantalona Premium com 78% OFF! ✨ Eleve seu estilo com a Calça Pantalona Alfaiataria Premium! Conforto e elegância em uma única peça,...",
-    "marketplace": "Shopee",
-    "category": "Roupas Femininas",
-    "old_price": "R$ 131,36",
-    "price": "R$ 28,90",
-    "discount_percent": 78.0,
-    "rating": 4.7,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-ma4qg4onmdjb35",
-    "affiliate_url": "https://s.shopee.com.br/AKZqtLhTCE",
-    "created_at": "17/08/2026 07:15",
-    "created_at_iso": "2026-08-17T07:15:49",
-    "created_ts": 1786950949,
-    "niche": {
-      "key": "shopee_roupas_femininas",
-      "name": "Roupas Femininas"
-    }
-  },
-  {
-    "id": "efff9d096b67bf9ddb",
-    "title": "Meia Calça Térmica Plus Size",
-    "raw_title": "Meia Calça Feminina Térmica Plus Size",
-    "description": "❄️ Conforto e calor garantidos neste inverno! Chegou a Meia Calça Feminina Térmica Plus Size, perfeita para você se manter quentinha com muito estilo. ✨...",
-    "marketplace": "Mercado Livre",
-    "category": "Roupas Femininas",
-    "old_price": "",
-    "price": "R$ 79,90",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_661264-MLA109368688623_032026-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66992733?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "17/08/2026 07:04",
-    "created_at_iso": "2026-08-17T07:04:50",
-    "created_ts": 1786950290
-  },
-  {
-    "id": "da9e5f0b9b743099e1",
-    "title": "Camiseta Modeladora",
-    "raw_title": "Camiseta feminina modeladora",
-    "description": "✨ Sinta-se poderosa e confiante! Chegou a Camiseta Feminina Modeladora que vai realçar suas curvas e te deixar impecável em qualquer look. 😉 Perfeita pa...",
-    "marketplace": "Mercado Livre",
-    "category": "Roupas Femininas",
-    "old_price": "",
-    "price": "R$ 280,00",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_929215-MLA94366026896_102025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59779508?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "17/08/2026 07:03",
-    "created_at_iso": "2026-08-17T07:03:43",
-    "created_ts": 1786950223
-  },
-  {
-    "id": "1e4b7e9be01a8bc78a",
-    "title": "Cropped UV Manga Longa",
-    "raw_title": "Cropped Feminino Manga Comprida Proteção Solar Malha Fria Uv Cor Preto Tamanho P",
-    "description": "🌞 Proteção e Estilo para o Verão! ✨ Aproveite o Cropped Feminino Manga Comprida com Proteção Solar UV! 🏖️ Ideal para seus dias de sol, com malha fria qu...",
-    "marketplace": "Mercado Livre",
-    "category": "Roupas Femininas",
-    "old_price": "R$ 54,90",
-    "price": "R$ 42,50",
-    "discount_percent": 23.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_970796-MLA110594867239_042026-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68298172?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "17/08/2026 07:02",
-    "created_at_iso": "2026-08-17T07:02:35",
-    "created_ts": 1786950155
   }
 ]

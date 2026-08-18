@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 18/08/2026 14:03
+Gerado em: 18/08/2026 14:21
 
 ## Como usar
 
@@ -79,8 +79,8 @@ Gerado em: 18/08/2026 14:03
 **Produtos usados:**
 
 - Escova Secadora GOKOCO 7 em 1
-- Perfume Grace Midnight Feminino Frasco Antigo Hinode 100ml
-- BODY SPLASH FEMININO SUCCÈS VERT 200ML - PRIMACIAL PERFUME FLORAL CIT…
+- Escova 5 em 1 Profissional
+- Kit Duo Protetor Solar Principia FPS 60
 
 ---
 

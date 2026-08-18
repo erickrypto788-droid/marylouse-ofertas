@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 18/08/2026 14:21
+Gerado em: 18/08/2026 15:23
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 18/08/2026 14:21
 
 **Produtos usados:**
 
+- Tapete Higiênico Descartável para Cachorro Unidades 60x60 cm - Fralda…
 - Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…
 - Berço Portátil Com Mosquiteiro Cama De Duas Camas 0-3 Anos Fecho De S…
-- Kit 4 Peças Infantil Menino Verão
 
 ---
 

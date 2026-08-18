@@ -1,16 +1,16 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 18/08/2026 14:56
+Gerado em: 18/08/2026 15:23
 
 ## Categorias prioritárias
 
-- 🍼 **Mãe e Bebê**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 🍼 **Mãe e Bebê**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🏋️ **Esportes**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - ❤️ **Saúde**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 📱 **Celulares**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
-- 💄 **Beleza**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🧸 **Brinquedos**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
-- 👟 **Calçados**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 💄 **Beleza**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 👗 **Moda Feminina**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 💻 **Informática**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 📚 **Papelaria**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
@@ -66,26 +66,26 @@ Gerado em: 18/08/2026 14:56
    - Desconto: 55% OFF
    - Link: https://s.shopee.com.br/AUtGYg6IUy
 
-8. **Oxímetro Dedo Digital G-tech Original Medidor De Saturação De Oxigêni…**
+8. **Tapete Higiênico Descartável para Cachorro Unidades 60x60 cm - Fralda…**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 29,98
+   - Desconto: 43% OFF
+   - Link: https://s.shopee.com.br/1VyUV5enDI
+
+9. **Oxímetro Dedo Digital G-tech Original Medidor De Saturação De Oxigêni…**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 89,63
    - Desconto: 31% OFF
    - Link: https://s.shopee.com.br/1qbKpSIAds
 
-9. **Air Fryer Gaabor 5.5L Vintage**
+10. **Air Fryer Gaabor 5.5L Vintage**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 229,00
    - Desconto: 30% OFF
    - Link: https://s.shopee.com.br/5VUcraaYWJ
-
-10. **Escova 5 em 1 Profissional**
-   - Categoria: Beleza
-   - Loja: Shopee
-   - Preço: R$ 58,99
-   - Desconto: 61% OFF
-   - Link: https://s.shopee.com.br/70JQiTJgvO
 
 ## Ações gratuitas recomendadas
 

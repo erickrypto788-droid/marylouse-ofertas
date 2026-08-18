@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 18/08/2026 14:56
+Gerado em: 18/08/2026 15:23
 
 ## Como usar
 
@@ -87,14 +87,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
 ```txt
 🍼 Oferta para Mamãe e Bebê
 
-Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…
+Tapete Higiênico Descartável para Cachorro Unidades 60x60 cm - Fralda…
 
-💸 De: R$ 59,98
-🔥 Por: R$ 26,99
-🏷️ 55% OFF
+💸 De: R$ 52,60
+🔥 Por: R$ 29,98
+🏷️ 43% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/AUtGYg6IUy
+Ver oferta: https://s.shopee.com.br/1VyUV5enDI
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

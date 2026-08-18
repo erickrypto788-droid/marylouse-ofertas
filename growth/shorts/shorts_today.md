@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 18/08/2026 20:04
+Gerado em: 18/08/2026 20:21
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 18/08/2026 20:04
 **Produtos usados:**
 
 - Tapete Higiênico Descartável para Cachorro Unidades 60x60 cm - Fralda…
-- Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…
-- Berço Portátil Com Mosquiteiro Cama De Duas Camas 0-3 Anos Fecho De S…
+- Fralda Pampers Pants XXXG (24un)
+- Kit 2 Porta Leite em Pó Para Bebê + Colher de Silicone
 
 ---
 
@@ -55,8 +55,8 @@ Gerado em: 18/08/2026 20:04
 **Produtos usados:**
 
 - Panela de Arroz Elétrica 1.8L
+- Panela Elétrica Britânia 2L 5 Temperaturas 650W BPE02A
 - Air Fryer Gaabor 5.5L Vintage
-- Jogo Panelas Vermelho Alumínio Fundido Usinado Javaliaa26a30
 
 ---
 
@@ -126,8 +126,8 @@ Gerado em: 18/08/2026 20:04
 
 **Produtos usados:**
 
+- Kit Explosão de Azeite de Oliva | bn.Cachos
 - Hidratante Creme Facial Pele De Porcelana Kokeshi 30g Milagre do Arroz
 - Detergente Sabão Lava Louça Pastilha + Lava Máquina Unik
-- Amaciante Vinagreen Lavanda 1L
 
 ---

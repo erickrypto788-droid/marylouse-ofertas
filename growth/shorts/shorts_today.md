@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 19/08/2026 15:22
+Gerado em: 19/08/2026 17:23
 
 ## Como usar
 
@@ -32,7 +32,7 @@ Gerado em: 19/08/2026 15:22
 
 - Fralda Pampers Supersequinha M
 - Kit 2 Porta Leite em Pó Para Bebê + Colher de Silicone
-- Kit Enxoval Cueiro e Paninho de boca ( 9 PEÇAS ) Bebê
+- Fralda Pampers Premium Care Tamanho P 40 Unidades
 
 ---
 

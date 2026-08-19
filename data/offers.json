@@ -1,5 +1,22 @@
 [
   {
+    "id": "d223fd068174d53953",
+    "title": "Ração Cachorro Harmony 10,1kg",
+    "raw_title": "Ração Cachorro Selection Adultos Pequenos 10,1kg Harmony",
+    "description": "Seu pet merece o melhor! 🐶 Garanta a Ração Harmony Selection Adultos Pequenos 10,1kg com frete grátis! Seu amigo peludo vai amar essa nutrição completa...",
+    "marketplace": "Mercado Livre",
+    "category": "Pet",
+    "old_price": "",
+    "price": "R$ 149,90",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_997469-MLA99923110131_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB49735840?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "19/08/2026 08:01",
+    "created_at_iso": "2026-08-19T08:01:21",
+    "created_ts": 1787126481
+  },
+  {
     "id": "7423d1dba0153de85b",
     "title": "Creatina DUX 100% Pura",
     "raw_title": "Creatina Monohidratada DUX Nutrition 100% Pura Original Academia – Hipertrofia",
@@ -2301,22 +2318,5 @@
     "created_at": "18/08/2026 08:02",
     "created_at_iso": "2026-08-18T08:02:26",
     "created_ts": 1787040146
-  },
-  {
-    "id": "da614afb98d828d41a",
-    "title": "Kit Furadeira e Parafusadeira Dewalt 20V",
-    "raw_title": "Kit Furadeira e Parafusadeira com Parafusadeira Dewalt Modelo DCK200ME2GT 2 Baterias 20V",
-    "description": "🛠️ Potência e Precisão na Sua Mão! Garanta já o seu Kit Furadeira e Parafusadeira Dewalt Modelo DCK200ME2GT com 2 Baterias 20V! 💪 Ideal para todos os se...",
-    "marketplace": "Mercado Livre",
-    "category": "Ferramentas",
-    "old_price": "",
-    "price": "R$ 3.099,00",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_784742-MLA100042438679_122025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB37180897?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "18/08/2026 08:01",
-    "created_at_iso": "2026-08-18T08:01:13",
-    "created_ts": 1787040073
   }
 ]

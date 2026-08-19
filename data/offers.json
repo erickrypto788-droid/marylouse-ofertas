@@ -1,5 +1,47 @@
 [
   {
+    "id": "dba4b82d62abd1cd13",
+    "title": "Cafeteira Philco 1L Térmica",
+    "raw_title": "Cafeteira Philco 1L Jarra Térmica 30 Cafezinhos 700W PCFE02",
+    "description": "☕ Seu café perfeito espera por você! Prepare até 30 xícaras de café delicioso com a Cafeteira Philco 1L! Com jarra térmica e 700W de potência, seu café...",
+    "marketplace": "Shopee",
+    "category": "Eletrodomésticos",
+    "old_price": "R$ 248,62",
+    "price": "R$ 198,90",
+    "discount_percent": 20.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-825at-mr79c2jo6h3b23",
+    "affiliate_url": "https://s.shopee.com.br/W5zQz0sYz",
+    "created_at": "19/08/2026 23:16",
+    "created_at_iso": "2026-08-19T23:16:58",
+    "created_ts": 1787181418,
+    "niche": {
+      "key": "shopee_eletrodomesticos",
+      "name": "Eletrodomésticos"
+    }
+  },
+  {
+    "id": "0924ff841dbdab1e89",
+    "title": "Panela de Pressão Tramontina Vancouver",
+    "raw_title": "Panela De Pressão Vancouver Effect Tramontina 4,5 e 6,0 Litros Preto e Vermelho Interna Starflon Max",
+    "description": "Cozinhe mais rápido e com segurança! 🤩 Prepare suas refeições com a Panela de Pressão Vancouver Effect Tramontina! Capacidade de 4,5 ou 6,0 Litros, reve...",
+    "marketplace": "Shopee",
+    "category": "Eletrodomésticos",
+    "old_price": "R$ 279,87",
+    "price": "R$ 209,90",
+    "discount_percent": 25.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lu6pmxnau44g38",
+    "affiliate_url": "https://s.shopee.com.br/5VUfOAzVmP",
+    "created_at": "19/08/2026 23:15",
+    "created_at_iso": "2026-08-19T23:15:51",
+    "created_ts": 1787181351,
+    "niche": {
+      "key": "shopee_eletrodomesticos",
+      "name": "Eletrodomésticos"
+    }
+  },
+  {
     "id": "805bb935266a85902f",
     "title": "Carregador iPhone Turbo Tipo-C 20W + Cabo Lightining para IPhone Carg…",
     "raw_title": "Carregador iPhone Turbo Tipo-C 20W + Cabo Lightining para IPhone Carga rápida",
@@ -1946,132 +1988,6 @@
     "niche": {
       "key": "shopee_roupas_masculinas",
       "name": "Roupas Masculinas"
-    }
-  },
-  {
-    "id": "ba23c644f818f9928a",
-    "title": "Calça Jogger Dry Fit",
-    "raw_title": "Calça Jogger Dry Fit Furadinho Leve Praticar Esportes",
-    "description": "🔥 Treine com Estilo e Conforto! 🏃‍♀️ Calça Jogger Dry Fit Furadinho Leve Perfeita para Praticar Esportes! Respirabilidade e liberdade de movimento para...",
-    "marketplace": "Shopee",
-    "category": "Roupas Masculinas",
-    "old_price": "R$ 49,99",
-    "price": "R$ 38,49",
-    "discount_percent": 23.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lp2ydonmm1qt9b",
-    "affiliate_url": "https://s.shopee.com.br/9KhL62Mtmu",
-    "created_at": "18/08/2026 23:16",
-    "created_at_iso": "2026-08-18T23:16:52",
-    "created_ts": 1787095012,
-    "niche": {
-      "key": "shopee_roupas_masculinas",
-      "name": "Roupas Masculinas"
-    }
-  },
-  {
-    "id": "cbd83e00f56d75b84e",
-    "title": "Kit Bermuda + Camiseta Paris",
-    "raw_title": "Kit Bermuda Short Mole + Camiseta PRETA PARIS MINIMALIST kit Basico Algodão Malha Premium",
-    "description": "🚨 PROMOÇÃO RELÂMPAGO! Estilo e conforto com 60% OFF! ✨ Garanta já o Kit Bermuda Short Mole + Camiseta PRETA PARIS MINIMALIST, confeccionado em algodão p...",
-    "marketplace": "Shopee",
-    "category": "Roupas Masculinas",
-    "old_price": "R$ 99,90",
-    "price": "R$ 39,96",
-    "discount_percent": 60.0,
-    "rating": 4.6,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-81zus-mid4uu60xeki52",
-    "affiliate_url": "https://s.shopee.com.br/6fgbBQLMiY",
-    "created_at": "18/08/2026 23:15",
-    "created_at_iso": "2026-08-18T23:15:44",
-    "created_ts": 1787094944,
-    "niche": {
-      "key": "shopee_roupas_masculinas",
-      "name": "Roupas Masculinas"
-    }
-  },
-  {
-    "id": "505c18a4004790fcc8",
-    "title": "kit 03 short dool pijaminhas coloridos roupa de dormir",
-    "raw_title": "kit 03 short dool pijaminhas coloridos roupa de dormir",
-    "description": "🔥 40% OFF — Oferta encontrada! 📌 kit 03 short dool pijaminhas coloridos roupa de dormir Confira os detalhes e aproveite enquanto a oferta estiver dispon...",
-    "marketplace": "Shopee",
-    "category": "Roupas Femininas",
-    "old_price": "R$ 49,83",
-    "price": "R$ 29,90",
-    "discount_percent": 40.0,
-    "rating": 4.6,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m4-mm36iv754552e1",
-    "affiliate_url": "https://s.shopee.com.br/1gHttpRMXa",
-    "created_at": "18/08/2026 22:20",
-    "created_at_iso": "2026-08-18T22:20:13",
-    "created_ts": 1787091613,
-    "niche": {
-      "key": "shopee_roupas_femininas",
-      "name": "Roupas Femininas"
-    }
-  },
-  {
-    "id": "c782f7b610a75e31eb",
-    "title": "Calça Pantalona Feminina Elegante",
-    "raw_title": "Calça Pantalona Feminino Tecido texturado Calça Feminino Cintura Alta Pantalona Elegante",
-    "description": "🚨 Elegância e Conforto em Uma Só Peça! 🚨 Calça Pantalona Feminina de Tecido Texturizado! 👖✨ Cintura alta, caimento perfeito e muito estilo para qualquer...",
-    "marketplace": "Shopee",
-    "category": "Roupas Femininas",
-    "old_price": "R$ 59,98",
-    "price": "R$ 39,59",
-    "discount_percent": 34.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mlxu1qd62v4003",
-    "affiliate_url": "https://s.shopee.com.br/3LQ7stCM7I",
-    "created_at": "18/08/2026 22:19",
-    "created_at_iso": "2026-08-18T22:19:09",
-    "created_ts": 1787091549,
-    "niche": {
-      "key": "shopee_roupas_femininas",
-      "name": "Roupas Femininas"
-    }
-  },
-  {
-    "id": "80a9b803e6b8084a6e",
-    "title": "Vestido Feminino Sem Manga Midi Elegante Soltinho Casual Festa Linho…",
-    "raw_title": "Vestido Feminino Sem Manga Midi Elegante Soltinho Casual Festa Linho Premium",
-    "description": "🔥 48% OFF — Oferta encontrada! 📌 Vestido Feminino Sem Manga Midi Elegante Soltinho Casual Festa Linho Premium Confira os detalhes e aproveite enquanto a...",
-    "marketplace": "Shopee",
-    "category": "Roupas Femininas",
-    "old_price": "R$ 130,75",
-    "price": "R$ 67,99",
-    "discount_percent": 48.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf4itkmckw7b3f",
-    "affiliate_url": "https://s.shopee.com.br/9zx1p8eJYT",
-    "created_at": "18/08/2026 22:17",
-    "created_at_iso": "2026-08-18T22:17:59",
-    "created_ts": 1787091479,
-    "niche": {
-      "key": "shopee_roupas_femininas",
-      "name": "Roupas Femininas"
-    }
-  },
-  {
-    "id": "4105751339232f8d2a",
-    "title": "Kit 4 Tops Cropped Academia",
-    "raw_title": "Kit 4 Top Cropped Academia Forro Duplo Microfibra Feminino",
-    "description": "🔥 METADE DO PREÇO! Kit 4 Tops Cropped para Academia com forro duplo! 💪 Conforto e estilo para seus treinos. Mais de 3 mil unidades vendidas! Não perca e...",
-    "marketplace": "Shopee",
-    "category": "Roupas Femininas",
-    "old_price": "R$ 99,80",
-    "price": "R$ 49,90",
-    "discount_percent": 50.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-820nz-mnutu1g7jeo6cf",
-    "affiliate_url": "https://s.shopee.com.br/4Vc3wcv0zv",
-    "created_at": "18/08/2026 22:16",
-    "created_at_iso": "2026-08-18T22:16:54",
-    "created_ts": 1787091414,
-    "niche": {
-      "key": "shopee_roupas_femininas",
-      "name": "Roupas Femininas"
     }
   }
 ]

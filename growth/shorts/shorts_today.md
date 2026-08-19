@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 19/08/2026 05:04
+Gerado em: 19/08/2026 05:20
 
 ## Como usar
 
@@ -78,9 +78,9 @@ Gerado em: 19/08/2026 05:04
 
 **Produtos usados:**
 
+- Secador Profissional com Difusor 127V ou 220V 5 Temperaturas Turbo Ío…
+- Secador de Cabelo 110v Profissional 3200w - Voltagem 110v
 - Escova Secadora GOKOCO 7 em 1
-- Escova 5 em 1 Profissional
-- Kit Duo Protetor Solar Principia FPS 60
 
 ---
 

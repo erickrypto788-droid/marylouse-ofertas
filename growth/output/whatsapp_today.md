@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 19/08/2026 05:04
+Gerado em: 19/08/2026 05:20
 
 ## Como usar
 
@@ -87,14 +87,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
 ```txt
 💄 Oferta para Beleza e Cuidados
 
-Escova Secadora GOKOCO 7 em 1
+Secador Profissional com Difusor 127V ou 220V 5 Temperaturas Turbo Ío…
 
-💸 De: R$ 1.293,48
-🔥 Por: R$ 595,00
-🏷️ 54% OFF
+💸 De: R$ 159,18
+🔥 Por: R$ 78,00
+🏷️ 51% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/AUtIsu6MpH
+Ver oferta: https://s.shopee.com.br/3B6jPi0bFl
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

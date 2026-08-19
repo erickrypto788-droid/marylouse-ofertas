@@ -1,16 +1,16 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 19/08/2026 12:08
+Gerado em: 19/08/2026 12:19
 
 ## Categorias prioritárias
 
 - 🍼 **Mãe e Bebê**: 15 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 🏋️ **Esportes**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
+- 👜 **Bolsas**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
+- 💻 **Informática**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - ❤️ **Saúde**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 🧸 **Brinquedos**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
+- 🏋️ **Esportes**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 💻 **Informática**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 👜 **Bolsas**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 - 🍳 **Casa e Cozinha**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 🐶 **Pet**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 📚 **Papelaria**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
@@ -38,54 +38,54 @@ Gerado em: 19/08/2026 12:08
    - Desconto: 63% OFF
    - Link: https://s.shopee.com.br/7KwGRsL74X
 
-4. **Fralda Pampers Supersequinha M**
+4. **Mochila Reforçada Notebook Impermeável**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 29,90
+   - Desconto: 41% OFF
+   - Link: https://s.shopee.com.br/3g30TTFam8
+
+5. **Fralda Pampers Supersequinha M**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 98,99
    - Desconto: 32% OFF
    - Link: https://s.shopee.com.br/8V8G66sYhj
 
-5. **Amplificador De Imagem Da Tela Do Celular Lupa 3D 21,6CM*16,6CM*2,7CM…**
+6. **Amplificador De Imagem Da Tela Do Celular Lupa 3D 21,6CM*16,6CM*2,7CM…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 17,99
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/7fZ8dk0lav
 
-6. **Panela Elétrica Britânia 2L 5 Temperaturas 650W BPE02A**
+7. **Panela Elétrica Britânia 2L 5 Temperaturas 650W BPE02A**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 139,90
    - Desconto: 30% OFF
    - Link: https://s.shopee.com.br/3VjZDFHOyM
 
-7. **Leitor Cartão USB C 3 Em 1 OTG SD Micro SD Adaptador Para Celular Not…**
+8. **Leitor Cartão USB C 3 Em 1 OTG SD Micro SD Adaptador Para Celular Not…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 16,99
    - Desconto: 43% OFF
    - Link: https://s.shopee.com.br/4Vc6L0aK8Q
 
-8. **Suporte Ergonômico Portátil para Notebook**
+9. **Suporte Ergonômico Portátil para Notebook**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 17,98
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/60QsnIxCdS
 
-9. **Tapete Higiênico Descartável para Cachorro Unidades 60x60 cm - Fralda…**
+10. **Tapete Higiênico Descartável para Cachorro Unidades 60x60 cm - Fralda…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 29,98
    - Desconto: 43% OFF
    - Link: https://s.shopee.com.br/1VyUV5enDI
-
-10. **Oxímetro Dedo Digital G-tech Original Medidor De Saturação De Oxigêni…**
-   - Categoria: Pet
-   - Loja: Shopee
-   - Preço: R$ 89,63
-   - Desconto: 31% OFF
-   - Link: https://s.shopee.com.br/1qbKpSIAds
 
 ## Ações gratuitas recomendadas
 

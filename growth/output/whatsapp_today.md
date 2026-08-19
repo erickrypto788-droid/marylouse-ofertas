@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 19/08/2026 14:56
+Gerado em: 19/08/2026 15:22
 
 ## Como usar
 
@@ -12,37 +12,7 @@ Gerado em: 19/08/2026 14:56
 
 ---
 
-## Post 1 — Mamãe e Bebê
-
-**Canal recomendado:** Mamãe e Bebê
-
-**Horário sugerido:** 09:00 - 11:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
-
-**Texto pronto:**
-
-```txt
-🍼 Oferta para Mamãe e Bebê
-
-Tapete Higiênico Descartável para Cachorro Unidades 60x60 cm - Fralda…
-
-💸 De: R$ 52,60
-🔥 Por: R$ 29,98
-🏷️ 43% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/1VyUV5enDI
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 2 — Celulares e Tecnologia
+## Post 1 — Celulares e Tecnologia
 
 **Canal recomendado:** Celulares e Tecnologia
 
@@ -72,7 +42,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 3 — Beleza e Cuidados
+## Post 2 — Beleza e Cuidados
 
 **Canal recomendado:** Beleza e Cuidados
 
@@ -95,6 +65,36 @@ Secador Profissional com Difusor 127V ou 220V 5 Temperaturas Turbo Ío…
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/3B6jPi0bFl
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 3 — Mamãe e Bebê
+
+**Canal recomendado:** Mamãe e Bebê
+
+**Horário sugerido:** 09:00 - 11:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
+
+**Texto pronto:**
+
+```txt
+🍼 Oferta para Mamãe e Bebê
+
+Fralda Pampers Supersequinha M
+
+💸 De: R$ 145,57
+🔥 Por: R$ 98,99
+🏷️ 32% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/8V8G66sYhj
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

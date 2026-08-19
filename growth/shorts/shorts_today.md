@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 19/08/2026 14:21
+Gerado em: 19/08/2026 15:22
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 19/08/2026 14:21
 
 **Produtos usados:**
 
-- Tapete Higiênico Descartável para Cachorro Unidades 60x60 cm - Fralda…
 - Fralda Pampers Supersequinha M
 - Kit 2 Porta Leite em Pó Para Bebê + Colher de Silicone
+- Kit Enxoval Cueiro e Paninho de boca ( 9 PEÇAS ) Bebê
 
 ---
 
@@ -55,8 +55,8 @@ Gerado em: 19/08/2026 14:21
 **Produtos usados:**
 
 - Panela Elétrica Britânia 2L 5 Temperaturas 650W BPE02A
+- Kit 2 Galheteiro Vidro 500ml Bico Dosador Porta Azeite Vinagre Molho…
 - Kit 10 Marmitas 900ml BPAFREE
-- Termômetro Digital Infravermelho
 
 ---
 
@@ -104,7 +104,7 @@ Gerado em: 19/08/2026 14:21
 
 - Amplificador De Imagem Da Tela Do Celular Lupa 3D 21,6CM*16,6CM*2,7CM…
 - Leitor Cartão USB C 3 Em 1 OTG SD Micro SD Adaptador Para Celular Not…
-- Kit com 3/6/12/20 Unidades Protetor Tampa Câmera Webcam Anti-espião N…
+- Chocolate Twix Original 30 Unidades de 15g
 
 ---
 
@@ -126,8 +126,8 @@ Gerado em: 19/08/2026 14:21
 
 **Produtos usados:**
 
+- Puff Orgânico Curvo - 1 Metro Elegância e Conforto Moderno Feijao mod…
 - Papel higiênico Thorium Papel Higienico Rolão folha simples
 - Kit Explosão de Azeite de Oliva | bn.Cachos
-- Detergente Sabão Lava Louça Pastilha + Lava Máquina Unik
 
 ---

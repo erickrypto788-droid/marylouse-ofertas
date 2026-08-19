@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 19/08/2026 22:04
+Gerado em: 19/08/2026 22:18
 
 ## Como usar
 
@@ -103,8 +103,8 @@ Gerado em: 19/08/2026 22:04
 **Produtos usados:**
 
 - Amplificador De Imagem Da Tela Do Celular Lupa 3D 21,6CM*16,6CM*2,7CM…
-- Chocolate Twix Original 30 Unidades de 15g
-- Kit com 3/6/12/20 Unidades Protetor Tampa Câmera Webcam Anti-espião N…
+- Carregador iPhone Turbo Tipo-C 20W + Cabo Lightining para IPhone Carg…
+- Caneta Stylus Universal 3 em 1
 
 ---
 

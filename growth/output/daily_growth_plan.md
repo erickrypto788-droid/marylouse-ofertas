@@ -1,13 +1,13 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 19/08/2026 22:04
+Gerado em: 19/08/2026 22:18
 
 ## Categorias prioritárias
 
-- 👗 **Moda Feminina**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
+- 📱 **Celulares**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 👟 **Calçados**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 👕 **Moda Masculina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
-- 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 👗 **Moda Feminina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - ✨ **Moda Plus Size**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
 - 🍼 **Mãe e Bebê**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
@@ -52,40 +52,40 @@ Gerado em: 19/08/2026 22:04
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/7fZ8dk0lav
 
-6. **Chocolate Twix Original 30 Unidades de 15g**
+6. **Carregador iPhone Turbo Tipo-C 20W + Cabo Lightining para IPhone Carg…**
+   - Categoria: Celulares
+   - Loja: Shopee
+   - Preço: R$ 16,99
+   - Desconto: 66% OFF
+   - Link: https://s.shopee.com.br/5LBF7k29mK
+
+7. **Caneta Stylus Universal 3 em 1**
+   - Categoria: Celulares
+   - Loja: Shopee
+   - Preço: R$ 19,99
+   - Desconto: 57% OFF
+   - Link: https://s.shopee.com.br/4fvYKVw6Qe
+
+8. **Chocolate Twix Original 30 Unidades de 15g**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 27,99
    - Desconto: 53% OFF
    - Link: https://s.shopee.com.br/60QvS8iSTe
 
-7. **Monitor Gamer Acer KG243Y 23.8" Full HD 144Hz IPS HDMI P1bip - Preto…**
+9. **Monitor Gamer Acer KG243Y 23.8" Full HD 144Hz IPS HDMI P1bip - Preto…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 599,00
    - Desconto: 63% OFF
    - Link: https://s.shopee.com.br/5q7VBiFyCM
 
-8. **Whey Protein FTW 1kg Refil**
+10. **Whey Protein FTW 1kg Refil**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 78,90
    - Desconto: 60% OFF
    - Link: https://s.shopee.com.br/7VFihut8Ph
-
-9. **Kit 10 Marmitas 900ml BPAFREE**
-   - Categoria: Casa e Cozinha
-   - Loja: Shopee
-   - Preço: R$ 36,90
-   - Desconto: 54% OFF
-   - Link: https://s.shopee.com.br/1gHvlC6gCd
-
-10. **Xiaomi POCO X6 5G**
-   - Categoria: Celulares
-   - Loja: Mercado Livre
-   - Preço: R$ 3.500,00
-   - Desconto: Oferta
-   - Link: https://www.mercadolivre.com.br/p/MLB29728116?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ## Ações gratuitas recomendadas
 

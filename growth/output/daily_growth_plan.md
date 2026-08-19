@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 19/08/2026 18:57
+Gerado em: 19/08/2026 19:18
 
 ## Categorias prioritárias
 
@@ -8,12 +8,12 @@ Gerado em: 19/08/2026 18:57
 - 👕 **Moda Masculina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 - 📦 **Outros**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 🍼 **Mãe e Bebê**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- ✨ **Moda Plus Size**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
 - 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
-- 💻 **Informática**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 📚 **Papelaria**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 - 🍳 **Casa e Cozinha**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
+- 💻 **Informática**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 📚 **Papelaria**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 - 👟 **Calçados**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- ✨ **Moda Plus Size**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
 
 ## Top ofertas para destacar
 
@@ -31,61 +31,61 @@ Gerado em: 19/08/2026 18:57
    - Desconto: 50% OFF
    - Link: https://s.shopee.com.br/7fZ8lyjT7R
 
-3. **SSD Samsung Externo de Alta Velocidade**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 149,00
-   - Desconto: 63% OFF
-   - Link: https://s.shopee.com.br/7KwGRsL74X
-
-4. **Mochila Reforçada Notebook Impermeável**
+3. **Mochila Reforçada Notebook Impermeável**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 29,90
    - Desconto: 41% OFF
    - Link: https://s.shopee.com.br/3g30TTFam8
 
-5. **Fralda Pampers Supersequinha M**
+4. **Fralda Pampers Supersequinha M**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 98,99
    - Desconto: 32% OFF
    - Link: https://s.shopee.com.br/8V8G66sYhj
 
-6. **Amplificador De Imagem Da Tela Do Celular Lupa 3D 21,6CM*16,6CM*2,7CM…**
+5. **Amplificador De Imagem Da Tela Do Celular Lupa 3D 21,6CM*16,6CM*2,7CM…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 17,99
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/7fZ8dk0lav
 
-7. **Panela Elétrica Britânia 2L 5 Temperaturas 650W BPE02A**
+6. **Panela Elétrica Britânia 2L 5 Temperaturas 650W BPE02A**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 139,90
    - Desconto: 30% OFF
    - Link: https://s.shopee.com.br/3VjZDFHOyM
 
-8. **Leitor Cartão USB C 3 Em 1 OTG SD Micro SD Adaptador Para Celular Not…**
+7. **Leitor Cartão USB C 3 Em 1 OTG SD Micro SD Adaptador Para Celular Not…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 16,99
    - Desconto: 43% OFF
    - Link: https://s.shopee.com.br/4Vc6L0aK8Q
 
-9. **Chocolate Twix Original 30 Unidades de 15g**
+8. **Chocolate Twix Original 30 Unidades de 15g**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 27,99
    - Desconto: 53% OFF
    - Link: https://s.shopee.com.br/60QvS8iSTe
 
-10. **Monitor Gamer Acer KG243Y 23.8" Full HD 144Hz IPS HDMI P1bip - Preto…**
+9. **Monitor Gamer Acer KG243Y 23.8" Full HD 144Hz IPS HDMI P1bip - Preto…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 599,00
    - Desconto: 63% OFF
    - Link: https://s.shopee.com.br/5q7VBiFyCM
+
+10. **Whey Protein FTW 1kg Refil**
+   - Categoria: Pet
+   - Loja: Shopee
+   - Preço: R$ 78,90
+   - Desconto: 60% OFF
+   - Link: https://s.shopee.com.br/7VFihut8Ph
 
 ## Ações gratuitas recomendadas
 

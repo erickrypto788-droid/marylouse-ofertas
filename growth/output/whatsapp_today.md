@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 19/08/2026 08:03
+Gerado em: 19/08/2026 08:22
 
 ## Como usar
 
@@ -12,37 +12,7 @@ Gerado em: 19/08/2026 08:03
 
 ---
 
-## Post 1 — Celulares e Tecnologia
-
-**Canal recomendado:** Celulares e Tecnologia
-
-**Horário sugerido:** 19:00 - 21:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
-
-**Texto pronto:**
-
-```txt
-📱 Oferta para Celulares e Tecnologia
-
-BML Smartphone 12GB+512GB 5G Android 15 Câmera 108MP
-
-💸 De: R$ 3.940,00
-🔥 Por: R$ 985,00
-🏷️ 75% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/7fZ7NSPRhA
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 2 — Mamãe e Bebê
+## Post 1 — Mamãe e Bebê
 
 **Canal recomendado:** Mamãe e Bebê
 
@@ -65,6 +35,36 @@ Tapete Higiênico Descartável para Cachorro Unidades 60x60 cm - Fralda…
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/1VyUV5enDI
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 2 — Celulares e Tecnologia
+
+**Canal recomendado:** Celulares e Tecnologia
+
+**Horário sugerido:** 19:00 - 21:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
+
+**Texto pronto:**
+
+```txt
+📱 Oferta para Celulares e Tecnologia
+
+Amplificador De Imagem Da Tela Do Celular Lupa 3D 21,6CM*16,6CM*2,7CM…
+
+💸 De: R$ 29,98
+🔥 Por: R$ 17,99
+🏷️ 40% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/7fZ8dk0lav
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

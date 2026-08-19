@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 19/08/2026 08:03
+Gerado em: 19/08/2026 08:22
 
 ## Como usar
 
@@ -102,9 +102,9 @@ Gerado em: 19/08/2026 08:03
 
 **Produtos usados:**
 
-- BML Smartphone 12GB+512GB 5G Android 15 Câmera 108MP
 - Amplificador De Imagem Da Tela Do Celular Lupa 3D 21,6CM*16,6CM*2,7CM…
 - Leitor Cartão USB C 3 Em 1 OTG SD Micro SD Adaptador Para Celular Not…
+- Ulefone Note 18 Ultra 256GB 6GB RAM Celular 5G 5450mAh Câmera 50MP Pr…
 
 ---
 

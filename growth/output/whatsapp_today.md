@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 18/08/2026 23:40
+Gerado em: 19/08/2026 00:22
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-kit 03 short dool pijaminhas coloridos roupa de dormir
+Vestido Feminino Viscolycra Estampado Plus Size
 
-💸 De: R$ 49,83
-🔥 Por: R$ 29,90
-🏷️ 40% OFF
+💸 De: R$ 121,55
+🔥 Por: R$ 61,99
+🏷️ 49% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/1gHttpRMXa
+Ver oferta: https://s.shopee.com.br/8AVP2IrVWM
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

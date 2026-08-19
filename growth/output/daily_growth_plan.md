@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 18/08/2026 23:40
+Gerado em: 19/08/2026 00:22
 
 ## Categorias prioritárias
 
 - 👗 **Moda Feminina**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
+- ✨ **Moda Plus Size**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
 - 👕 **Moda Masculina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
-- 🍼 **Mãe e Bebê**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 💻 **Informática**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 🍼 **Mãe e Bebê**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🍳 **Casa e Cozinha**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 📦 **Outros**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
-- 👟 **Calçados**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 💄 **Beleza**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🏋️ **Esportes**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 📚 **Papelaria**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
+- 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 💄 **Beleza**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 
 ## Top ofertas para destacar
 
@@ -45,47 +45,47 @@ Gerado em: 18/08/2026 23:40
    - Desconto: 66% OFF
    - Link: https://s.shopee.com.br/3VjXwxKHxW
 
-5. **Case Gaveta HD SSD 2.5 Sata III USB 3.0 Transparente Externo 6Gbps PC…**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 30,99
-   - Desconto: 69% OFF
-   - Link: https://s.shopee.com.br/6fgZeeNeQL
-
-6. **Unidade de estado sólido integrada SATA III de 2.5 "SSD 120 GB/240 GB…**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 93,00
-   - Desconto: 70% OFF
-   - Link: https://s.shopee.com.br/8AVNRPHwNk
-
-7. **Panela Elétrica Britânia 2L 5 Temperaturas 650W BPE02A**
+5. **Panela Elétrica Britânia 2L 5 Temperaturas 650W BPE02A**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 139,90
    - Desconto: 30% OFF
    - Link: https://s.shopee.com.br/3VjZDFHOyM
 
-8. **Leitor Cartão USB C 3 Em 1 OTG SD Micro SD Adaptador Para Celular Not…**
+6. **Leitor Cartão USB C 3 Em 1 OTG SD Micro SD Adaptador Para Celular Not…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 16,99
    - Desconto: 43% OFF
    - Link: https://s.shopee.com.br/4Vc6L0aK8Q
 
-9. **Suporte Ergonômico Portátil para Notebook**
+7. **Suporte Ergonômico Portátil para Notebook**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 17,98
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/60QsnIxCdS
 
-10. **Tapete Higiênico Descartável para Cachorro Unidades 60x60 cm - Fralda…**
+8. **Tapete Higiênico Descartável para Cachorro Unidades 60x60 cm - Fralda…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 29,98
    - Desconto: 43% OFF
    - Link: https://s.shopee.com.br/1VyUV5enDI
+
+9. **Oxímetro Dedo Digital G-tech Original Medidor De Saturação De Oxigêni…**
+   - Categoria: Pet
+   - Loja: Shopee
+   - Preço: R$ 89,63
+   - Desconto: 31% OFF
+   - Link: https://s.shopee.com.br/1qbKpSIAds
+
+10. **Air Fryer Gaabor 5.5L Vintage**
+   - Categoria: Casa e Cozinha
+   - Loja: Shopee
+   - Preço: R$ 229,00
+   - Desconto: 30% OFF
+   - Link: https://s.shopee.com.br/5VUcraaYWJ
 
 ## Ações gratuitas recomendadas
 

@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 18/08/2026 23:21
+Gerado em: 19/08/2026 00:22
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 18/08/2026 23:21
 **Produtos usados:**
 
 - Tapete Higiênico Descartável para Cachorro Unidades 60x60 cm - Fralda…
-- Fralda Pampers Pants XXXG (24un)
 - Kit 2 Porta Leite em Pó Para Bebê + Colher de Silicone
+- Kit Enxoval Cueiro e Paninho de boca ( 9 PEÇAS ) Bebê
 
 ---
 

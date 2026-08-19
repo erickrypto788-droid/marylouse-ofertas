@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 19/08/2026 09:03
+Gerado em: 19/08/2026 09:22
 
 ## Como usar
 
@@ -55,8 +55,8 @@ Gerado em: 19/08/2026 09:03
 **Produtos usados:**
 
 - Panela Elétrica Britânia 2L 5 Temperaturas 650W BPE02A
-- Air Fryer Gaabor 5.5L Vintage
 - Kit 10 Marmitas 900ml BPAFREE
+- Termômetro Digital Infravermelho
 
 ---
 

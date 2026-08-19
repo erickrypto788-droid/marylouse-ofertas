@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 19/08/2026 03:19
+Gerado em: 19/08/2026 04:19
 
 ## Como usar
 
@@ -56,7 +56,7 @@ Gerado em: 19/08/2026 03:19
 
 - Panela Elétrica Britânia 2L 5 Temperaturas 650W BPE02A
 - Air Fryer Gaabor 5.5L Vintage
-- Cafeteira Elétrica Kian 18 Xícaras
+- Cafeteira Philco 15 Cafezinhos 550W 600ml PCFE01
 
 ---
 

@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 19/08/2026 19:43
+Gerado em: 19/08/2026 20:18
 
 ## Categorias prioritárias
 
 - 👗 **Moda Feminina**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 👕 **Moda Masculina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
-- 📦 **Outros**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
-- 🍼 **Mãe e Bebê**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 📦 **Outros**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 👟 **Calçados**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - ✨ **Moda Plus Size**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
-- 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
-- 🍳 **Casa e Cozinha**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
-- 💻 **Informática**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 🍼 **Mãe e Bebê**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 📚 **Papelaria**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
-- 👟 **Calçados**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 🍳 **Casa e Cozinha**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
+- 🐶 **Pet**: 4 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 
 ## Top ofertas para destacar
 
@@ -52,40 +52,40 @@ Gerado em: 19/08/2026 19:43
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/7fZ8dk0lav
 
-6. **Panela Elétrica Britânia 2L 5 Temperaturas 650W BPE02A**
-   - Categoria: Casa e Cozinha
-   - Loja: Shopee
-   - Preço: R$ 139,90
-   - Desconto: 30% OFF
-   - Link: https://s.shopee.com.br/3VjZDFHOyM
-
-7. **Leitor Cartão USB C 3 Em 1 OTG SD Micro SD Adaptador Para Celular Not…**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 16,99
-   - Desconto: 43% OFF
-   - Link: https://s.shopee.com.br/4Vc6L0aK8Q
-
-8. **Chocolate Twix Original 30 Unidades de 15g**
+6. **Chocolate Twix Original 30 Unidades de 15g**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 27,99
    - Desconto: 53% OFF
    - Link: https://s.shopee.com.br/60QvS8iSTe
 
-9. **Monitor Gamer Acer KG243Y 23.8" Full HD 144Hz IPS HDMI P1bip - Preto…**
+7. **Monitor Gamer Acer KG243Y 23.8" Full HD 144Hz IPS HDMI P1bip - Preto…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 599,00
    - Desconto: 63% OFF
    - Link: https://s.shopee.com.br/5q7VBiFyCM
 
-10. **Whey Protein FTW 1kg Refil**
+8. **Whey Protein FTW 1kg Refil**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 78,90
    - Desconto: 60% OFF
    - Link: https://s.shopee.com.br/7VFihut8Ph
+
+9. **Kit 10 Marmitas 900ml BPAFREE**
+   - Categoria: Casa e Cozinha
+   - Loja: Shopee
+   - Preço: R$ 36,90
+   - Desconto: 54% OFF
+   - Link: https://s.shopee.com.br/1gHvlC6gCd
+
+10. **Conjunto Mabel Top Cropped Tomara que Caia Decote Coração e Short Bot…**
+   - Categoria: Pet
+   - Loja: Shopee
+   - Preço: R$ 37,74
+   - Desconto: 3% OFF
+   - Link: https://s.shopee.com.br/5fo5Bl2AW9
 
 ## Ações gratuitas recomendadas
 

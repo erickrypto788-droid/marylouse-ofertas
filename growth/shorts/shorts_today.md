@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 19/08/2026 19:18
+Gerado em: 19/08/2026 20:18
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 19/08/2026 19:18
 **Produtos usados:**
 
 - Fralda Pampers Supersequinha M
-- Kit 2 Porta Leite em Pó Para Bebê + Colher de Silicone
 - Fralda Pampers Premium Care Tamanho P 40 Unidades
+- Fralda Geriátrica Prevent Care M C/50
 
 ---
 
@@ -54,9 +54,9 @@ Gerado em: 19/08/2026 19:18
 
 **Produtos usados:**
 
-- Panela Elétrica Britânia 2L 5 Temperaturas 650W BPE02A
 - Kit 2 Galheteiro Vidro 500ml Bico Dosador Porta Azeite Vinagre Molho…
 - Kit 10 Marmitas 900ml BPAFREE
+- Termômetro Digital Infravermelho
 
 ---
 
@@ -103,8 +103,8 @@ Gerado em: 19/08/2026 19:18
 **Produtos usados:**
 
 - Amplificador De Imagem Da Tela Do Celular Lupa 3D 21,6CM*16,6CM*2,7CM…
-- Leitor Cartão USB C 3 Em 1 OTG SD Micro SD Adaptador Para Celular Not…
 - Chocolate Twix Original 30 Unidades de 15g
+- Kit com 3/6/12/20 Unidades Protetor Tampa Câmera Webcam Anti-espião N…
 
 ---
 

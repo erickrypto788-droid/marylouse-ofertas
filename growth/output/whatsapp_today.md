@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 19/08/2026 00:22
+Gerado em: 19/08/2026 01:18
 
 ## Como usar
 
@@ -12,37 +12,7 @@ Gerado em: 19/08/2026 00:22
 
 ---
 
-## Post 1 — Casa e Cozinha
-
-**Canal recomendado:** Casa e Cozinha
-
-**Horário sugerido:** 18:00 - 20:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
-
-**Texto pronto:**
-
-```txt
-🍳 Oferta para Casa e Cozinha
-
-Panela de Arroz Elétrica 1.8L
-
-💸 De: R$ 199,97
-🔥 Por: R$ 67,99
-🏷️ 66% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/3VjXwxKHxW
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 2 — Celulares e Tecnologia
+## Post 1 — Celulares e Tecnologia
 
 **Canal recomendado:** Celulares e Tecnologia
 
@@ -72,7 +42,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 3 — Mamãe e Bebê
+## Post 2 — Mamãe e Bebê
 
 **Canal recomendado:** Mamãe e Bebê
 
@@ -102,7 +72,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Beleza e Cuidados
+## Post 3 — Beleza e Cuidados
 
 **Canal recomendado:** Beleza e Cuidados
 
@@ -132,7 +102,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 5 — Ofertas Pet
+## Post 4 — Ofertas Pet
 
 **Canal recomendado:** Ofertas Pet
 
@@ -155,6 +125,36 @@ Kit 2 Pares Sandália Infantil Papete Menina Casual Leve Lançamento
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/8pl3dYBKuA
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 5 — Casa e Cozinha
+
+**Canal recomendado:** Casa e Cozinha
+
+**Horário sugerido:** 18:00 - 20:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
+
+**Texto pronto:**
+
+```txt
+🍳 Oferta para Casa e Cozinha
+
+Panela Elétrica Britânia 2L 5 Temperaturas 650W BPE02A
+
+💸 De: R$ 199,86
+🔥 Por: R$ 139,90
+🏷️ 30% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/3VjZDFHOyM
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

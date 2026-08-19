@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 19/08/2026 09:22
+Gerado em: 19/08/2026 10:21
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 19/08/2026 09:22
 **Produtos usados:**
 
 - Tapete Higiênico Descartável para Cachorro Unidades 60x60 cm - Fralda…
+- Fralda Pampers Supersequinha M
 - Kit 2 Porta Leite em Pó Para Bebê + Colher de Silicone
-- Kit Enxoval Cueiro e Paninho de boca ( 9 PEÇAS ) Bebê
 
 ---
 
@@ -80,7 +80,7 @@ Gerado em: 19/08/2026 09:22
 
 - Secador Profissional com Difusor 127V ou 220V 5 Temperaturas Turbo Ío…
 - Secador de Cabelo 110v Profissional 3200w - Voltagem 110v
-- Escova Secadora GOKOCO 7 em 1
+- Principia Kit Peles Sensíveis c/ Gel de Limpeza Gl-02 + Creme Hidrata…
 
 ---
 

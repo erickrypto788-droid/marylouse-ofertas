@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 20/08/2026 19:18
+Gerado em: 20/08/2026 20:21
 
 ## Como usar
 
@@ -78,9 +78,9 @@ Gerado em: 20/08/2026 19:18
 
 **Produtos usados:**
 
+- Prancha Chapinha Bivolt
+- Perfume Importado Feminino e Masculino 30ML
 - Kit 3 Perfumes Malbec Masculino Importado Aroma Marcante Essência Al…
-- Escova Rotativa 2 em 1
-- Principia Kit Protetor Solar FPS 60 + 70
 
 ---
 

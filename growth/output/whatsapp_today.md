@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 20/08/2026 19:49
+Gerado em: 20/08/2026 20:21
 
 ## Como usar
 
@@ -12,7 +12,37 @@ Gerado em: 20/08/2026 19:49
 
 ---
 
-## Post 1 — Celulares e Tecnologia
+## Post 1 — Beleza e Cuidados
+
+**Canal recomendado:** Beleza e Cuidados
+
+**Horário sugerido:** 12:00 - 15:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
+
+**Texto pronto:**
+
+```txt
+💄 Oferta para Beleza e Cuidados
+
+Prancha Chapinha Bivolt
+
+💸 De: R$ 89,14
+🔥 Por: R$ 32,98
+🏷️ 63% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/1BLhckDYp0
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 2 — Celulares e Tecnologia
 
 **Canal recomendado:** Celulares e Tecnologia
 
@@ -35,36 +65,6 @@ Xiaomi Poco X7 Pro
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/1qbOHikBaG
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 2 — Beleza e Cuidados
-
-**Canal recomendado:** Beleza e Cuidados
-
-**Horário sugerido:** 12:00 - 15:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
-
-**Texto pronto:**
-
-```txt
-💄 Oferta para Beleza e Cuidados
-
-Kit 3 Perfumes Malbec Masculino Importado Aroma Marcante Essência Al…
-
-💸 De: R$ 60,19
-🔥 Por: R$ 31,90
-🏷️ 47% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/4Vc8GSJ6WC
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

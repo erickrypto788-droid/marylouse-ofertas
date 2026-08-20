@@ -1,5 +1,47 @@
 [
   {
+    "id": "708a7968b915f6648d",
+    "title": "Kit Bota e Bolsa Infantil",
+    "raw_title": "Kit Bota Feminina Infantil E Bolsa Infantil Menina Blogueira",
+    "description": "✨ Sua pequena vai amar este kit! Kit Bota Infantil + Bolsa de Menina Blogueira, perfeito para as mini fashionistas! 💖 Com um super desconto de 43%, ela...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Femininos",
+    "old_price": "R$ 120,32",
+    "price": "R$ 68,58",
+    "discount_percent": 43.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lv0pm7tgg2hp56",
+    "affiliate_url": "https://s.shopee.com.br/8V8I9qw10P",
+    "created_at": "20/08/2026 17:16",
+    "created_at_iso": "2026-08-20T17:16:49",
+    "created_ts": 1787246209,
+    "niche": {
+      "key": "shopee_sapatos_femininos",
+      "name": "Sapatos Femininos"
+    }
+  },
+  {
+    "id": "200b1301629f95cbbe",
+    "title": "Chinelo Piccadilly Marshmallow Feminino",
+    "raw_title": "Chinelo Piccadilly EVA Marshmallow C224 Off White - Feminino",
+    "description": "✨ Conforto e estilo aos seus pés! ✨ Chinelo Piccadilly EVA Marshmallow C224 Off White - Feminino. Perfeito para relaxar com muito charme e leveza! ☁️",
+    "marketplace": "Shopee",
+    "category": "Sapatos Femininos",
+    "old_price": "R$ 99,98",
+    "price": "R$ 56,99",
+    "discount_percent": 43.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lg-mpwjo797zoxsd5",
+    "affiliate_url": "https://s.shopee.com.br/3qMSbHE3UB",
+    "created_at": "20/08/2026 17:15",
+    "created_at_iso": "2026-08-20T17:15:42",
+    "created_ts": 1787246142,
+    "niche": {
+      "key": "shopee_sapatos_femininos",
+      "name": "Sapatos Femininos"
+    }
+  },
+  {
     "id": "c2a1a6c3f5513e3572",
     "title": "Tênis de Corrida Profissional com Placa de Carbono",
     "raw_title": "Tênis De Corrida Profissional Ultraleve Com Placa De Carbono De Sola Completa Para Maratona , Masculino E Feminino",
@@ -1626,27 +1668,6 @@
     "created_at": "19/08/2026 17:18",
     "created_at_iso": "2026-08-19T17:18:24",
     "created_ts": 1787159904,
-    "niche": {
-      "key": "shopee_roupas_femininas",
-      "name": "Roupas Femininas"
-    }
-  },
-  {
-    "id": "50c9928edbff4a9968",
-    "title": "The Perfect Top Insider",
-    "raw_title": "The Perfect Top Insider",
-    "description": "🔥 21% OFF — Oferta encontrada! 📌 The Perfect Top Insider Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Shopee",
-    "category": "Roupas Femininas",
-    "old_price": "R$ 139,24",
-    "price": "R$ 110,00",
-    "discount_percent": 21.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-8257y-mfv6dm045f6354",
-    "affiliate_url": "https://s.shopee.com.br/8pl6xZlmbI",
-    "created_at": "19/08/2026 17:16",
-    "created_at_iso": "2026-08-19T17:16:39",
-    "created_ts": 1787159799,
     "niche": {
       "key": "shopee_roupas_femininas",
       "name": "Roupas Femininas"

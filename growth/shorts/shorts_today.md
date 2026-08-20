@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 20/08/2026 04:18
+Gerado em: 20/08/2026 05:07
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 20/08/2026 04:18
 **Produtos usados:**
 
 - Fralda Pampers Supersequinha M
+- Fralda Huggies G 36 unidades
 - Fralda Pampers Premium Care Tamanho P 40 Unidades
-- Fralda Geriátrica Prevent Care M C/50
 
 ---
 

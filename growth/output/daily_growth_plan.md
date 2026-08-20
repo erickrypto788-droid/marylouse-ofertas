@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 20/08/2026 04:02
+Gerado em: 20/08/2026 04:18
 
 ## Categorias prioritárias
 
@@ -10,8 +10,8 @@ Gerado em: 20/08/2026 04:02
 - 🧸 **Brinquedos**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 🏋️ **Esportes**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 👟 **Calçados**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- ❤️ **Saúde**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 🧒 **Moda Infantil**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-infantil.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-infantil
-- 🍳 **Casa e Cozinha**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 📚 **Papelaria**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 
@@ -52,40 +52,40 @@ Gerado em: 20/08/2026 04:02
    - Desconto: 32% OFF
    - Link: https://s.shopee.com.br/8V8G66sYhj
 
-6. **Escova Rotativa 2 em 1**
+6. **Oxímetro Infantil Digital**
+   - Categoria: Saúde
+   - Loja: Shopee
+   - Preço: R$ 25,99
+   - Desconto: 61% OFF
+   - Link: https://s.shopee.com.br/3B6kwUKS0Q
+
+7. **Escova Rotativa 2 em 1**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 99,99
    - Desconto: 67% OFF
    - Link: https://s.shopee.com.br/19iuBehhH
 
-7. **Panela de Pressão Tramontina Vancouver**
+8. **Panela de Pressão Tramontina Vancouver**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 209,90
    - Desconto: 25% OFF
    - Link: https://s.shopee.com.br/5VUfOAzVmP
 
-8. **Carregador iPhone Turbo Tipo-C 20W + Cabo Lightining para IPhone Carg…**
+9. **Carregador iPhone Turbo Tipo-C 20W + Cabo Lightining para IPhone Carg…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 16,99
    - Desconto: 66% OFF
    - Link: https://s.shopee.com.br/5LBF7k29mK
 
-9. **Caneta Stylus Universal 3 em 1**
+10. **Caneta Stylus Universal 3 em 1**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 19,99
    - Desconto: 57% OFF
    - Link: https://s.shopee.com.br/4fvYKVw6Qe
-
-10. **Chocolate Twix Original 30 Unidades de 15g**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 27,99
-   - Desconto: 53% OFF
-   - Link: https://s.shopee.com.br/60QvS8iSTe
 
 ## Ações gratuitas recomendadas
 

@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 20/08/2026 22:21
+Gerado em: 20/08/2026 23:21
 
 ## Como usar
 
@@ -49,12 +49,10 @@ Gerado em: 20/08/2026 22:21
 - growth/shorts/slides/casa_cozinha/01_intro.png
 - growth/shorts/slides/casa_cozinha/02_produto_1.png
 - growth/shorts/slides/casa_cozinha/03_produto_2.png
-- growth/shorts/slides/casa_cozinha/04_produto_3.png
 - growth/shorts/slides/casa_cozinha/05_cta.png
 
 **Produtos usados:**
 
-- Panela de Pressão Tramontina Vancouver
 - Mini Liquidificador Portátil
 - Liquidificador Britânia BLQE01 2 copos 2,6L 900W
 

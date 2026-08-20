@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 20/08/2026 22:48
+Gerado em: 20/08/2026 23:21
 
 ## Como usar
 
@@ -102,37 +102,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Casa e Cozinha
-
-**Canal recomendado:** Casa e Cozinha
-
-**Horário sugerido:** 18:00 - 20:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
-
-**Texto pronto:**
-
-```txt
-🍳 Oferta para Casa e Cozinha
-
-Panela de Pressão Tramontina Vancouver
-
-💸 De: R$ 279,87
-🔥 Por: R$ 209,90
-🏷️ 25% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/5VUfOAzVmP
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 5 — Ofertas Pet
+## Post 4 — Ofertas Pet
 
 **Canal recomendado:** Ofertas Pet
 
@@ -162,7 +132,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 6 — Saúde
+## Post 5 — Saúde
 
 **Canal recomendado:** Saúde e Bem-estar
 
@@ -185,6 +155,36 @@ Oxímetro Infantil Digital
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/3B6kwUKS0Q
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 6 — Moda Feminina
+
+**Canal recomendado:** Moda Feminina
+
+**Horário sugerido:** 12:00 - 14:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
+
+**Texto pronto:**
+
+```txt
+👗 Oferta para Moda Feminina
+
+Óculos de Leitura Inteligente com Zoom Automático, Uso Diário Masculi…
+
+💸 De: R$ 51,96
+🔥 Por: R$ 25,98
+🏷️ 50% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/4AzIjPPFMf
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

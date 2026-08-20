@@ -1,5 +1,22 @@
 [
   {
+    "id": "ddb308feecf64a1351",
+    "title": "Fralda Huggies G 36 unidades",
+    "raw_title": "Fralda Huggies Tripla Proteção G 36 unidades",
+    "description": "🚨 ATENÇÃO, PAIS! 🚨 Fralda Huggies Tripla Proteção G 36 unidades com FRETE GRÁTIS! 🚚 Garanta o conforto e a segurança do seu bebê com essa super oferta. 👶",
+    "marketplace": "Mercado Livre",
+    "category": "Mãe e Bebê",
+    "old_price": "",
+    "price": "R$ 121,99",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_777421-MLA99340212546_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB17336422?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "20/08/2026 05:05",
+    "created_at_iso": "2026-08-20T05:05:27",
+    "created_ts": 1787202327
+  },
+  {
     "id": "a670f14d307e1234fb",
     "title": "Medidor De Glicose+100 Lancetas+100 Tiras On Call Plus Ii Cor Azul",
     "raw_title": "Medidor De Glicose+100 Lancetas+100 Tiras On Call Plus Ii Cor Azul",
@@ -2033,61 +2050,6 @@
     "niche": {
       "key": "shopee_beleza",
       "name": "Beleza"
-    }
-  },
-  {
-    "id": "0a251b5c4f403d9091",
-    "title": "Ulefone Note 18 Ultra 256GB 6GB RAM Celular 5G 5450mAh Câmera 50MP Pr…",
-    "raw_title": "Ulefone Note 18 Ultra 256GB 6GB RAM Celular 5G 5450mAh Câmera 50MP Preto",
-    "description": "🔥 Oferta encontrada! 📌 Ulefone Note 18 Ultra 256GB 6GB RAM Celular 5G 5450mAh Câmera 50MP Preto Confira os detalhes e aproveite enquanto a oferta estive...",
-    "marketplace": "Mercado Livre",
-    "category": "Informática",
-    "old_price": "",
-    "price": "R$ 1.965,43",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_877792-MLA114872115222_082026-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77446524?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "19/08/2026 05:02",
-    "created_at_iso": "2026-08-19T05:02:31",
-    "created_ts": 1787115751
-  },
-  {
-    "id": "6ac9368dbe87bd74d1",
-    "title": "Samsung Galaxy A55 256GB Awesome Navy",
-    "raw_title": "Samsung Galaxy A55 256gb 8gb Awesome Navy",
-    "description": "💥 OFERTA RELÂMPAGO! 💥 Chegou a hora de ter o seu Samsung Galaxy A55 256GB 8GB Awesome Navy! 🚀 📦 Frete Grátis!",
-    "marketplace": "Mercado Livre",
-    "category": "Informática",
-    "old_price": "R$ 2.599,00",
-    "price": "R$ 2.442,22",
-    "discount_percent": 6.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_848050-MLA99992132387_112025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB38283662?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "19/08/2026 05:01",
-    "created_at_iso": "2026-08-19T05:01:26",
-    "created_ts": 1787115686
-  },
-  {
-    "id": "affaa4f6f9bb26514e",
-    "title": "Ventilador de Coluna Britânia Maxx Force 6 Pás 75W BVC31A",
-    "raw_title": "Ventilador de Coluna Britânia Maxx Force 6 Pás 75W BVC31A",
-    "description": "🔥 31% OFF — Oferta encontrada! 📌 Ventilador de Coluna Britânia Maxx Force 6 Pás 75W BVC31A Confira os detalhes e aproveite enquanto a oferta estiver dis...",
-    "marketplace": "Shopee",
-    "category": "Eletrodomésticos",
-    "old_price": "R$ 210,00",
-    "price": "R$ 144,90",
-    "discount_percent": 31.0,
-    "rating": 4.7,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-8257t-mrzych2ibr41ea",
-    "affiliate_url": "https://s.shopee.com.br/9KhMguwwLJ",
-    "created_at": "19/08/2026 04:17",
-    "created_at_iso": "2026-08-19T04:17:39",
-    "created_ts": 1787113059,
-    "niche": {
-      "key": "shopee_eletrodomesticos",
-      "name": "Eletrodomésticos"
     }
   }
 ]

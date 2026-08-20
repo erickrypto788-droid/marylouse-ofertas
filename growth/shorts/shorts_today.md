@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 20/08/2026 21:21
+Gerado em: 20/08/2026 22:08
 
 ## Como usar
 
@@ -32,7 +32,7 @@ Gerado em: 20/08/2026 21:21
 
 - Fralda Premium Huggies Natural Care Aberta RN/P/M/G
 - Manta Cobertor de Bebê c/ Naninha Para Menina Menino Infantil Mantinh…
-- Fralda Huggies G 36 unidades
+- Fralda Pampers Pants XXG 120un
 
 ---
 

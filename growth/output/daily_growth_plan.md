@@ -1,18 +1,18 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 20/08/2026 03:12
+Gerado em: 20/08/2026 03:21
 
 ## Categorias prioritárias
 
-- 📱 **Celulares**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 💄 **Beleza**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 📱 **Celulares**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 🍼 **Mãe e Bebê**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 🧸 **Brinquedos**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 🏋️ **Esportes**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 👟 **Calçados**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 🍼 **Mãe e Bebê**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🧒 **Moda Infantil**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-infantil.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-infantil
 - 🍳 **Casa e Cozinha**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
-- 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 📚 **Papelaria**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 
 ## Top ofertas para destacar
@@ -52,40 +52,40 @@ Gerado em: 20/08/2026 03:12
    - Desconto: 32% OFF
    - Link: https://s.shopee.com.br/8V8G66sYhj
 
-6. **Amplificador De Imagem Da Tela Do Celular Lupa 3D 21,6CM*16,6CM*2,7CM…**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 17,99
-   - Desconto: 40% OFF
-   - Link: https://s.shopee.com.br/7fZ8dk0lav
-
-7. **Escova Rotativa 2 em 1**
+6. **Escova Rotativa 2 em 1**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 99,99
    - Desconto: 67% OFF
    - Link: https://s.shopee.com.br/19iuBehhH
 
-8. **Panela de Pressão Tramontina Vancouver**
+7. **Panela de Pressão Tramontina Vancouver**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 209,90
    - Desconto: 25% OFF
    - Link: https://s.shopee.com.br/5VUfOAzVmP
 
-9. **Carregador iPhone Turbo Tipo-C 20W + Cabo Lightining para IPhone Carg…**
+8. **Carregador iPhone Turbo Tipo-C 20W + Cabo Lightining para IPhone Carg…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 16,99
    - Desconto: 66% OFF
    - Link: https://s.shopee.com.br/5LBF7k29mK
 
-10. **Caneta Stylus Universal 3 em 1**
+9. **Caneta Stylus Universal 3 em 1**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 19,99
    - Desconto: 57% OFF
    - Link: https://s.shopee.com.br/4fvYKVw6Qe
+
+10. **Chocolate Twix Original 30 Unidades de 15g**
+   - Categoria: Celulares
+   - Loja: Shopee
+   - Preço: R$ 27,99
+   - Desconto: 53% OFF
+   - Link: https://s.shopee.com.br/60QvS8iSTe
 
 ## Ações gratuitas recomendadas
 

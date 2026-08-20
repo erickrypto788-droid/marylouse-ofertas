@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 19/08/2026 23:41
+Gerado em: 20/08/2026 00:21
 
 ## Como usar
 
@@ -57,14 +57,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
 ```txt
 💄 Oferta para Beleza e Cuidados
 
-Secador Profissional com Difusor 127V ou 220V 5 Temperaturas Turbo Ío…
+Kit 3 Perfumes Malbec Masculino Importado Aroma Marcante Essência Al…
 
-💸 De: R$ 159,18
-🔥 Por: R$ 78,00
-🏷️ 51% OFF
+💸 De: R$ 60,19
+🔥 Por: R$ 31,90
+🏷️ 47% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/3B6jPi0bFl
+Ver oferta: https://s.shopee.com.br/4Vc8GSJ6WC
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 19/08/2026 23:18
+Gerado em: 20/08/2026 00:21
 
 ## Como usar
 
@@ -78,9 +78,9 @@ Gerado em: 19/08/2026 23:18
 
 **Produtos usados:**
 
+- Kit 3 Perfumes Malbec Masculino Importado Aroma Marcante Essência Al…
 - Secador Profissional com Difusor 127V ou 220V 5 Temperaturas Turbo Ío…
 - Secador de Cabelo 110v Profissional 3200w - Voltagem 110v
-- Principia Kit Peles Sensíveis c/ Gel de Limpeza Gl-02 + Creme Hidrata…
 
 ---
 

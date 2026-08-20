@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 20/08/2026 15:51
+Gerado em: 20/08/2026 16:18
 
 ## Categorias prioritárias
 
 - 👕 **Moda Masculina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
+- 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 👗 **Moda Feminina**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
-- 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 📦 **Outros**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
-- 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 🍼 **Mãe e Bebê**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 💻 **Informática**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 📚 **Papelaria**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 - 🏋️ **Esportes**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 💄 **Beleza**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 📦 **Outros**: 4 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 
 ## Top ofertas para destacar
 
@@ -73,19 +73,19 @@ Gerado em: 20/08/2026 15:51
    - Desconto: 57% OFF
    - Link: https://s.shopee.com.br/4fvYKVw6Qe
 
-9. **Chocolate Twix Original 30 Unidades de 15g**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 27,99
-   - Desconto: 53% OFF
-   - Link: https://s.shopee.com.br/60QvS8iSTe
-
-10. **Suporte Roteador Parede Sem Furo**
+9. **Suporte Roteador Parede Sem Furo**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 13,90
    - Desconto: 36% OFF
    - Link: https://s.shopee.com.br/2Vr4TsCqgc
+
+10. **Kit 5 Toalhas Umedecidas Turminha da Bagunça 120 Folhas com Tampa Len…**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 29,70
+   - Desconto: 34% OFF
+   - Link: https://s.shopee.com.br/8AVQxn8TJ2
 
 ## Ações gratuitas recomendadas
 

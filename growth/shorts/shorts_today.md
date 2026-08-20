@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 20/08/2026 15:03
+Gerado em: 20/08/2026 16:18
 
 ## Como usar
 
@@ -49,13 +49,11 @@ Gerado em: 20/08/2026 15:03
 - growth/shorts/slides/casa_cozinha/01_intro.png
 - growth/shorts/slides/casa_cozinha/02_produto_1.png
 - growth/shorts/slides/casa_cozinha/03_produto_2.png
-- growth/shorts/slides/casa_cozinha/04_produto_3.png
 - growth/shorts/slides/casa_cozinha/05_cta.png
 
 **Produtos usados:**
 
 - Panela de Pressão Tramontina Vancouver
-- Kit 2 Galheteiro Vidro 500ml Bico Dosador Porta Azeite Vinagre Molho…
 - Cafeteira Philco 1L Térmica
 
 ---
@@ -104,7 +102,7 @@ Gerado em: 20/08/2026 15:03
 
 - Carregador iPhone Turbo Tipo-C 20W + Cabo Lightining para IPhone Carg…
 - Caneta Stylus Universal 3 em 1
-- Chocolate Twix Original 30 Unidades de 15g
+- Xiaomi POCO X6 5G
 
 ---
 
@@ -120,12 +118,10 @@ Gerado em: 20/08/2026 15:03
 
 - growth/shorts/slides/supermercados/01_intro.png
 - growth/shorts/slides/supermercados/02_produto_1.png
-- growth/shorts/slides/supermercados/03_produto_2.png
 - growth/shorts/slides/supermercados/05_cta.png
 
 **Produtos usados:**
 
 - Substrato Casca de Arroz Carbonizada
-- Puff Orgânico Curvo - 1 Metro Elegância e Conforto Moderno Feijao mod…
 
 ---

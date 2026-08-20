@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 20/08/2026 17:18
+Gerado em: 20/08/2026 18:19
 
 ## Como usar
 
@@ -100,9 +100,9 @@ Gerado em: 20/08/2026 17:18
 
 **Produtos usados:**
 
+- Xiaomi Poco X7 Pro
+- Capa Magnética Anti Impacto iPhone
 - Carregador iPhone Turbo Tipo-C 20W + Cabo Lightining para IPhone Carg…
-- Caneta Stylus Universal 3 em 1
-- Xiaomi POCO X6 5G
 
 ---
 

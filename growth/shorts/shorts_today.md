@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 20/08/2026 05:07
+Gerado em: 20/08/2026 05:21
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 20/08/2026 05:07
 
 **Produtos usados:**
 
+- Fralda Premium Huggies Natural Care Aberta RN/P/M/G
 - Fralda Pampers Supersequinha M
 - Fralda Huggies G 36 unidades
-- Fralda Pampers Premium Care Tamanho P 40 Unidades
 
 ---
 
@@ -79,8 +79,8 @@ Gerado em: 20/08/2026 05:07
 **Produtos usados:**
 
 - Kit 3 Perfumes Malbec Masculino Importado Aroma Marcante Essência Al…
-- Secador Profissional com Difusor 127V ou 220V 5 Temperaturas Turbo Ío…
-- Secador de Cabelo 110v Profissional 3200w - Voltagem 110v
+- Escova Rotativa 2 em 1
+- Principia Kit Protetor Solar FPS 60 + 70
 
 ---
 

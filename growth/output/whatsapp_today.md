@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 20/08/2026 05:07
+Gerado em: 20/08/2026 05:21
 
 ## Como usar
 
@@ -57,14 +57,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
 ```txt
 🍼 Oferta para Mamãe e Bebê
 
-Fralda Pampers Supersequinha M
+Fralda Premium Huggies Natural Care Aberta RN/P/M/G
 
-💸 De: R$ 145,57
-🔥 Por: R$ 98,99
-🏷️ 32% OFF
+💸 De: R$ 54,87
+🔥 Por: R$ 43,90
+🏷️ 20% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/8V8G66sYhj
+Ver oferta: https://s.shopee.com.br/8pl7l15vwF
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

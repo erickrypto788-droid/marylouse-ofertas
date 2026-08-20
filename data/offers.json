@@ -1,5 +1,110 @@
 [
   {
+    "id": "c4d4cd8edc57c0d981",
+    "title": "Scrub Feminino Acinturado",
+    "raw_title": "Pijama Hospitalar Cirúrgico Scrub Feminino Acinturado Varias Cores Tamanhos",
+    "description": "✨ Estilo e Conforto no seu plantão! Garanta já o seu Scrub Feminino Acinturado com várias cores disponíveis. Perfeito para o dia a dia hospitalar! 👩‍⚕️🩺",
+    "marketplace": "Shopee",
+    "category": "Roupas Femininas",
+    "old_price": "R$ 59,99",
+    "price": "R$ 44,99",
+    "discount_percent": 25.0,
+    "rating": 4.6,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7rceo-m6fh2teiloic6e",
+    "affiliate_url": "https://s.shopee.com.br/3B6lTRmrxj",
+    "created_at": "20/08/2026 12:22",
+    "created_at_iso": "2026-08-20T12:22:11",
+    "created_ts": 1787228531,
+    "niche": {
+      "key": "shopee_roupas_femininas",
+      "name": "Roupas Femininas"
+    }
+  },
+  {
+    "id": "0e06f654339f17de66",
+    "title": "Conjunto Paty Luxo",
+    "raw_title": "CONJUNTO PATY FEMININO LUXO - SAIA COM CROPPED DE AMARRAÇÃO (PAULA)",
+    "description": "✨ NOVIDADE IMPERDÍVEL! ✨ Conjunto Paty Feminino Luxo: Saia com Cropped de Amarração (Paula)! 💖 Perfeito para quem busca estilo e sofisticação. Já são ma...",
+    "marketplace": "Shopee",
+    "category": "Roupas Femininas",
+    "old_price": "",
+    "price": "R$ 35,00",
+    "discount_percent": 0.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820l8-mmqe8ufqeark87",
+    "affiliate_url": "https://s.shopee.com.br/4Vc93tPv4F",
+    "created_at": "20/08/2026 12:21",
+    "created_at_iso": "2026-08-20T12:21:03",
+    "created_ts": 1787228463,
+    "niche": {
+      "key": "shopee_roupas_femininas",
+      "name": "Roupas Femininas"
+    }
+  },
+  {
+    "id": "81adbb2c9e259cdd3a",
+    "title": "Tênis Feminino Plataforma",
+    "raw_title": "Tênis feminino lançamento novidade leve confortável casual plataforma top!",
+    "description": "✨ Lançamento IMPERDÍVEL! ✨ Conheça o novo Tênis feminino que une estilo e conforto! Leve, com design casual e plataforma, perfeito para qualquer ocasião...",
+    "marketplace": "Shopee",
+    "category": "Roupas Femininas",
+    "old_price": "R$ 63,97",
+    "price": "R$ 49,90",
+    "discount_percent": 22.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7qukw-lfxa7no9rsam46",
+    "affiliate_url": "https://s.shopee.com.br/8fRi1YNSlY",
+    "created_at": "20/08/2026 12:19",
+    "created_at_iso": "2026-08-20T12:19:54",
+    "created_ts": 1787228394,
+    "niche": {
+      "key": "shopee_roupas_femininas",
+      "name": "Roupas Femininas"
+    }
+  },
+  {
+    "id": "006c82a930043ea142",
+    "title": "Kit 3 Cropped Tube Tomara Que Caia",
+    "raw_title": "Kit 3 Cropped Tube Tomara Que Caia RF 015",
+    "description": "🔥 IMPERDÍVEL! Kit 3 Cropped Tube Tomara Que Caia com 40% OFF! Essencial para o seu verão e para criar looks incríveis. Não perca essa chance! ✨",
+    "marketplace": "Shopee",
+    "category": "Roupas Femininas",
+    "old_price": "R$ 49,98",
+    "price": "R$ 29,99",
+    "discount_percent": 40.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mad6r7g1xn95fb",
+    "affiliate_url": "https://s.shopee.com.br/4qEzSVOeOL",
+    "created_at": "20/08/2026 12:17",
+    "created_at_iso": "2026-08-20T12:17:43",
+    "created_ts": 1787228263,
+    "niche": {
+      "key": "shopee_roupas_femininas",
+      "name": "Roupas Femininas"
+    }
+  },
+  {
+    "id": "0865b491a1bf345eed",
+    "title": "Conjunto Alfaiataria Linho Feminino",
+    "raw_title": "Conjunto alfaiataria Linho feminino Calça Pantalona + blusa regata social luxo Elegante Chique",
+    "description": "🚨 OFERTA IMPERDÍVEL! Look chique e elegante pela METADE do preço! ✨ Garanta o seu Conjunto de Alfaiataria em Linho: Calça Pantalona + Blusa Regata. Perf...",
+    "marketplace": "Shopee",
+    "category": "Roupas Femininas",
+    "old_price": "R$ 119,80",
+    "price": "R$ 59,90",
+    "discount_percent": 50.0,
+    "rating": 4.7,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgwdevvhjpc48c",
+    "affiliate_url": "https://s.shopee.com.br/6AkN2xfmOz",
+    "created_at": "20/08/2026 12:15",
+    "created_at_iso": "2026-08-20T12:15:44",
+    "created_ts": 1787228144,
+    "niche": {
+      "key": "shopee_roupas_femininas",
+      "name": "Roupas Femininas"
+    }
+  },
+  {
     "id": "0cdf88e002ca2c0e35",
     "title": "Substrato Casca de Arroz Carbonizada",
     "raw_title": "Casca De Arroz Carbonizada Substrato Para Horta Jardim Plantas Vaso Cultivo Orquídea Terrário",
@@ -1711,144 +1816,5 @@
     "created_at": "19/08/2026 13:02",
     "created_at_iso": "2026-08-19T13:02:05",
     "created_ts": 1787144525
-  },
-  {
-    "id": "73625224b7ad8736c5",
-    "title": "Mala Academia Estampada Feminina Masculina Fit Esporte Mala Malinha A…",
-    "raw_title": "Mala Academia Estampada Feminina Masculina Fit Esporte Mala Malinha Academia Unissex Sport Bolsa Transversal Regulável",
-    "description": "🔥 2% OFF — Oferta encontrada! 📌 Mala Academia Estampada Feminina Masculina Fit Esporte Mala Malinha Academia Unissex Sport Bolsa Transversal Regulável C...",
-    "marketplace": "Shopee",
-    "category": "Bolsas Masculinas",
-    "old_price": "R$ 29,90",
-    "price": "R$ 29,30",
-    "discount_percent": 2.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820la-mpe0s5knbu2t9e",
-    "affiliate_url": "https://s.shopee.com.br/30nJgFI884",
-    "created_at": "19/08/2026 12:17",
-    "created_at_iso": "2026-08-19T12:17:52",
-    "created_ts": 1787141872,
-    "niche": {
-      "key": "shopee_bolsas_masculinas",
-      "name": "Bolsas Masculinas"
-    }
-  },
-  {
-    "id": "78b3c148f817333e98",
-    "title": "Bolsa Peitoral Impermeável",
-    "raw_title": "Bolsa Peitoral Masculino feminino Impermeável Esportivo Bolsa Bag Motoboy Unissex",
-    "description": "⚡️ PRATICIDADE E ESTILO! ⚡️ Chega de se preocupar com a chuva! ☔️ A Bolsa Peitoral Impermeável Unissex é perfeita para o seu dia a dia, para esportes ou...",
-    "marketplace": "Shopee",
-    "category": "Bolsas Masculinas",
-    "old_price": "",
-    "price": "R$ 33,99",
-    "discount_percent": 0.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81zu7-mknuuw973aptc9",
-    "affiliate_url": "https://s.shopee.com.br/3VjaHAKcpv",
-    "created_at": "19/08/2026 12:16",
-    "created_at_iso": "2026-08-19T12:16:48",
-    "created_ts": 1787141808,
-    "niche": {
-      "key": "shopee_bolsas_masculinas",
-      "name": "Bolsas Masculinas"
-    }
-  },
-  {
-    "id": "773144791b4a6b4be2",
-    "title": "Mochila Reforçada Notebook Impermeável",
-    "raw_title": "Mochila Escolar Reforçada Notebook Impermeável Cabo De Aço",
-    "description": "🎒 OFERTA IMPERDÍVEL! Mochila Reforçada para Notebook com 41% OFF! 🎒 Proteja seu notebook e seus pertences com estilo e segurança! Esta Mochila Escolar R...",
-    "marketplace": "Shopee",
-    "category": "Bolsas Masculinas",
-    "old_price": "R$ 50,68",
-    "price": "R$ 29,90",
-    "discount_percent": 41.0,
-    "rating": 4.6,
-    "image": "https://cf.shopee.com.br/file/92e894139b206ffe034d923c570d2a81",
-    "affiliate_url": "https://s.shopee.com.br/3g30TTFam8",
-    "created_at": "19/08/2026 12:15",
-    "created_at_iso": "2026-08-19T12:15:39",
-    "created_ts": 1787141739,
-    "niche": {
-      "key": "shopee_bolsas_masculinas",
-      "name": "Bolsas Masculinas"
-    }
-  },
-  {
-    "id": "de60599bbcc072c3f8",
-    "title": "Papel higiênico Thorium Papel Higienico Rolão folha simples",
-    "raw_title": "Papel higiênico Thorium Papel Higienico Rolão folha simples",
-    "description": "🔥 6% OFF — Oferta encontrada! 📌 Papel higiênico Thorium Papel Higienico Rolão folha simples Confira os detalhes e aproveite enquanto a oferta estiver di...",
-    "marketplace": "Mercado Livre",
-    "category": "Papelaria",
-    "old_price": "R$ 68,11",
-    "price": "R$ 64,36",
-    "discount_percent": 6.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_771822-MLA79408052986_092024-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB22608923?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "19/08/2026 12:07",
-    "created_at_iso": "2026-08-19T12:07:02",
-    "created_ts": 1787141222
-  },
-  {
-    "id": "5ca34ecbac3d3f6799",
-    "title": "Fralda Pampers Premium Care Tamanho P 40 Unidades",
-    "raw_title": "Fralda Pampers Premium Care Tamanho P 40 Unidades",
-    "description": "🔥 Oferta encontrada! 📌 Fralda Pampers Premium Care Tamanho P 40 Unidades Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Mercado Livre",
-    "category": "Mãe e Bebê",
-    "old_price": "",
-    "price": "R$ 92,00",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_825242-MLA109518750392_042026-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23414358?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "19/08/2026 12:05",
-    "created_at_iso": "2026-08-19T12:05:56",
-    "created_ts": 1787141156
-  },
-  {
-    "id": "cc5a91b3e6ba0b382d",
-    "title": "Bolsa Feminina Pequena De Lado Transversal Alça Corrente Lançamento",
-    "raw_title": "Bolsa Feminina Pequena De Lado Transversal Alça Corrente Lançamento",
-    "description": "🔥 43% OFF — Oferta encontrada! 📌 Bolsa Feminina Pequena De Lado Transversal Alça Corrente Lançamento Confira os detalhes e aproveite enquanto a oferta e...",
-    "marketplace": "Shopee",
-    "category": "Bolsas Femininas",
-    "old_price": "R$ 70,00",
-    "price": "R$ 39,90",
-    "discount_percent": 43.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbih4ivndgbm2a",
-    "affiliate_url": "https://s.shopee.com.br/3VjaD34uNT",
-    "created_at": "19/08/2026 11:16",
-    "created_at_iso": "2026-08-19T11:16:46",
-    "created_ts": 1787138206,
-    "niche": {
-      "key": "shopee_bolsas_femininas",
-      "name": "Bolsas Femininas"
-    }
-  },
-  {
-    "id": "de888b34c5c73cae39",
-    "title": "Bolsa Mala Academia Viagem Fitness",
-    "raw_title": "Bolsa Mala Academia Viagem Imagem Fitness Transversal Casual Masculino e Feminina--luna_hyq",
-    "description": "🚨 IMPERDÍVEL! Bolsa Versátil para TUDO! 🎒 Leve sua Bolsa Mala para academia, viagens ou uso casual! Perfeita para homens e mulheres, com design fitness...",
-    "marketplace": "Shopee",
-    "category": "Bolsas Femininas",
-    "old_price": "R$ 79,46",
-    "price": "R$ 30,99",
-    "discount_percent": 61.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m2yon0d6wjydc2",
-    "affiliate_url": "https://s.shopee.com.br/112DyB82Wa",
-    "created_at": "19/08/2026 11:15",
-    "created_at_iso": "2026-08-19T11:15:42",
-    "created_ts": 1787138142,
-    "niche": {
-      "key": "shopee_bolsas_femininas",
-      "name": "Bolsas Femininas"
-    }
   }
 ]

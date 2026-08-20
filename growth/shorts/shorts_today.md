@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 20/08/2026 09:22
+Gerado em: 20/08/2026 10:23
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 20/08/2026 09:22
 **Produtos usados:**
 
 - Fralda Premium Huggies Natural Care Aberta RN/P/M/G
-- Fralda Pampers Supersequinha M
 - Fralda Huggies G 36 unidades
+- Fralda Pampers Premium Care Tamanho P 40 Unidades
 
 ---
 
@@ -121,10 +121,12 @@ Gerado em: 20/08/2026 09:22
 - growth/shorts/slides/supermercados/01_intro.png
 - growth/shorts/slides/supermercados/02_produto_1.png
 - growth/shorts/slides/supermercados/03_produto_2.png
+- growth/shorts/slides/supermercados/04_produto_3.png
 - growth/shorts/slides/supermercados/05_cta.png
 
 **Produtos usados:**
 
+- Substrato Casca de Arroz Carbonizada
 - Puff Orgânico Curvo - 1 Metro Elegância e Conforto Moderno Feijao mod…
 - Papel higiênico Thorium Papel Higienico Rolão folha simples
 

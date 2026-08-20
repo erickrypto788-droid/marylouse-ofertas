@@ -1,5 +1,47 @@
 [
   {
+    "id": "15b029a9ab3a6b558e",
+    "title": "Mini Liquidificador Portátil",
+    "raw_title": "Mini Liquidificador Portátil Copo Caneca 500ml e 450ml Com 10 Lâminas, Tampa, Canudo e Copo Recarregavel",
+    "description": "⚡️ LEVE SUA BEBIDA FAVORITA PARA QUALQUER LUGAR! ⚡️ Prepare sucos, vitaminas e shakes onde estiver com este Mini Liquidificador Portátil! Com 10 lâminas...",
+    "marketplace": "Shopee",
+    "category": "Eletrodomésticos",
+    "old_price": "R$ 89,66",
+    "price": "R$ 52,90",
+    "discount_percent": 41.0,
+    "rating": 4.7,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7rav7-maa0t3e5yenmdb",
+    "affiliate_url": "https://s.shopee.com.br/5VUgiZd0UT",
+    "created_at": "20/08/2026 19:16",
+    "created_at_iso": "2026-08-20T19:16:44",
+    "created_ts": 1787253404,
+    "niche": {
+      "key": "shopee_eletrodomesticos",
+      "name": "Eletrodomésticos"
+    }
+  },
+  {
+    "id": "b5f343b6a13cd1c8bc",
+    "title": "Liquidificador Britânia BLQE01 2 copos 2,6L 900W",
+    "raw_title": "Liquidificador Britânia BLQE01 2 copos 2,6L 900W",
+    "description": "🔥 39% OFF — Oferta encontrada! 📌 Liquidificador Britânia BLQE01 2 copos 2,6L 900W Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Shopee",
+    "category": "Eletrodomésticos",
+    "old_price": "R$ 178,52",
+    "price": "R$ 108,90",
+    "discount_percent": 39.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-825ai-mr67pmmk81z6b0",
+    "affiliate_url": "https://s.shopee.com.br/6AkNVnaT8f",
+    "created_at": "20/08/2026 19:15",
+    "created_at_iso": "2026-08-20T19:15:35",
+    "created_ts": 1787253335,
+    "niche": {
+      "key": "shopee_eletrodomesticos",
+      "name": "Eletrodomésticos"
+    }
+  },
+  {
     "id": "30f2eb5747a7979564",
     "title": "Carregador Veicular 4 Portas Rápido",
     "raw_title": "Tomada de Carregador para Carro com Dupla Entrada Tipo-C e Duplas USB, 4 Portas, Carregamento Rápido, à Prova d'Água",
@@ -1512,69 +1554,6 @@
     "niche": {
       "key": "shopee_roupas_plus_size",
       "name": "Roupas Plus Size"
-    }
-  },
-  {
-    "id": "ef618fbb2bb2f717d6",
-    "title": "Calça Jogger Moletom Peluciada Feminina",
-    "raw_title": "Calça feminina moletom Leve jogger peluciado flanelado inverno casual social com bolso plus size",
-    "description": "✨ Conforto e Estilo no Inverno! ✨ Prepare-se para o frio com a Calça Moletom Jogger feminina, peluciada e flanelada! Perfeita para looks casuais ou soci...",
-    "marketplace": "Shopee",
-    "category": "Roupas Plus Size",
-    "old_price": "R$ 35,90",
-    "price": "R$ 34,82",
-    "discount_percent": 3.0,
-    "rating": 4.6,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820mb-mrahzyup5wcn41",
-    "affiliate_url": "https://s.shopee.com.br/3LQ9HQEJ7T",
-    "created_at": "19/08/2026 19:15",
-    "created_at_iso": "2026-08-19T19:15:50",
-    "created_ts": 1787166950,
-    "niche": {
-      "key": "shopee_roupas_plus_size",
-      "name": "Roupas Plus Size"
-    }
-  },
-  {
-    "id": "422e30dc516da7e835",
-    "title": "Kit 5 ou 10 Cuecas Boxer Masculinas Polo Wear Microfibra Leve e Elást…",
-    "raw_title": "Kit 5 ou 10 Cuecas Boxer Masculinas Polo Wear Microfibra Leve e Elástico Confortável",
-    "description": "🔥 26% OFF — Oferta encontrada! 📌 Kit 5 ou 10 Cuecas Boxer Masculinas Polo Wear Microfibra Leve e Elástico Confortável Confira os detalhes e aproveite en...",
-    "marketplace": "Shopee",
-    "category": "Roupas Masculinas",
-    "old_price": "R$ 79,47",
-    "price": "R$ 58,81",
-    "discount_percent": 26.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mergbe3k5gqp14",
-    "affiliate_url": "https://s.shopee.com.br/9pdeDX6Hlf",
-    "created_at": "19/08/2026 18:20",
-    "created_at_iso": "2026-08-19T18:20:09",
-    "created_ts": 1787163609,
-    "niche": {
-      "key": "shopee_roupas_masculinas",
-      "name": "Roupas Masculinas"
-    }
-  },
-  {
-    "id": "3d55245692bf115d2d",
-    "title": "Calça Jogger Run P ao G4 Tactel com Elastano para Treino Esportiva Ma…",
-    "raw_title": "Calça Jogger Run P ao G4 Tactel com Elastano para Treino Esportiva Masculina Original com Punho",
-    "description": "🔥 37% OFF — Oferta encontrada! 📌 Calça Jogger Run P ao G4 Tactel com Elastano para Treino Esportiva Masculina Original com Punho Confira os detalhes e a...",
-    "marketplace": "Shopee",
-    "category": "Roupas Masculinas",
-    "old_price": "R$ 58,71",
-    "price": "R$ 36,99",
-    "discount_percent": 37.0,
-    "rating": 4.5,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lm-mq672er1au4g50",
-    "affiliate_url": "https://s.shopee.com.br/70JSqKCfhg",
-    "created_at": "19/08/2026 18:19",
-    "created_at_iso": "2026-08-19T18:19:05",
-    "created_ts": 1787163545,
-    "niche": {
-      "key": "shopee_roupas_masculinas",
-      "name": "Roupas Masculinas"
     }
   }
 ]

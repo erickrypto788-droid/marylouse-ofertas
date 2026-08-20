@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 20/08/2026 01:55
+Gerado em: 20/08/2026 02:21
 
 ## Como usar
 
@@ -162,29 +162,29 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 6 — Moda e Calçados
+## Post 6 — Moda Feminina
 
-**Canal recomendado:** Moda e Calçados
+**Canal recomendado:** Moda Feminina
 
-**Horário sugerido:** 12:00 - 15:00
+**Horário sugerido:** 12:00 - 14:00
 
 **Imagem/card:**
 
-https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
+https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 
 **Texto pronto:**
 
 ```txt
-👟 Oferta para Moda e Calçados
+👗 Oferta para Moda Feminina
 
-Tênis Feminino KNW Premium
+Kit 4 Blusinha Regata - Tecido Suplex Alça Larga Elegante Lisa Confor…
 
-💸 De: R$ 128,71
-🔥 Por: R$ 39,90
-🏷️ 69% OFF
+💸 De: R$ 80,75
+🔥 Por: R$ 41,99
+🏷️ 48% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/6q01a5o5IU
+Ver oferta: https://s.shopee.com.br/1BLfpUjhJW
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

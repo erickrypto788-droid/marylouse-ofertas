@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 20/08/2026 23:43
+Gerado em: 21/08/2026 00:20
 
 ## Como usar
 
@@ -102,7 +102,37 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Ofertas Pet
+## Post 4 — Casa e Cozinha
+
+**Canal recomendado:** Casa e Cozinha
+
+**Horário sugerido:** 18:00 - 20:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
+
+**Texto pronto:**
+
+```txt
+🍳 Oferta para Casa e Cozinha
+
+Mini Balança Digital Cozinha
+
+💸 De: R$ 92,79
+🔥 Por: R$ 25,98
+🏷️ 72% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/20uoskbnAI
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 5 — Ofertas Pet
 
 **Canal recomendado:** Ofertas Pet
 
@@ -132,7 +162,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 5 — Saúde
+## Post 6 — Saúde
 
 **Canal recomendado:** Saúde e Bem-estar
 
@@ -147,44 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/saude.png
 ```txt
 ❤️ Oferta para Saúde
 
-Oxímetro Infantil Digital
+Kit Medidor de Pressão + Oxímetro
 
-💸 De: R$ 66,64
-🔥 Por: R$ 25,99
-🏷️ 61% OFF
+💸 De: R$ 178,50
+🔥 Por: R$ 49,98
+🏷️ 72% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/3B6kwUKS0Q
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 6 — Moda Feminina
-
-**Canal recomendado:** Moda Feminina
-
-**Horário sugerido:** 12:00 - 14:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
-
-**Texto pronto:**
-
-```txt
-👗 Oferta para Moda Feminina
-
-Óculos de Leitura Inteligente com Zoom Automático, Uso Diário Masculi…
-
-💸 De: R$ 51,96
-🔥 Por: R$ 25,98
-🏷️ 50% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/4AzIjPPFMf
+Ver oferta: https://s.shopee.com.br/1Lf85WZzza
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

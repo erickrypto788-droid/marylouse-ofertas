@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 20/08/2026 23:43
+Gerado em: 21/08/2026 00:20
 
 ## Categorias prioritárias
 
@@ -8,12 +8,12 @@ Gerado em: 20/08/2026 23:43
 - 🏋️ **Esportes**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 🧸 **Brinquedos**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 💄 **Beleza**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 💄 **Beleza**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 📦 **Outros**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 💻 **Informática**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 👕 **Moda Masculina**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 - 📚 **Papelaria**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
-- 🧒 **Moda Infantil**: 4 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-infantil.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-infantil
+- ❤️ **Saúde**: 4 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 
 ## Top ofertas para destacar
 
@@ -38,54 +38,54 @@ Gerado em: 20/08/2026 23:43
    - Desconto: 45% OFF
    - Link: https://s.shopee.com.br/1qbOHikBaG
 
-4. **Kit 3 Perfumes Malbec Masculino Importado Aroma Marcante Essência Al…**
-   - Categoria: Beleza
+4. **Kit Medidor de Pressão + Oxímetro**
+   - Categoria: Saúde
    - Loja: Shopee
-   - Preço: R$ 31,90
-   - Desconto: 47% OFF
-   - Link: https://s.shopee.com.br/4Vc8GSJ6WC
+   - Preço: R$ 49,98
+   - Desconto: 72% OFF
+   - Link: https://s.shopee.com.br/1Lf85WZzza
 
-5. **Manta Cobertor de Bebê c/ Naninha Para Menina Menino Infantil Mantinh…**
+5. **Mini Balança Digital Cozinha**
+   - Categoria: Casa e Cozinha
+   - Loja: Shopee
+   - Preço: R$ 25,98
+   - Desconto: 72% OFF
+   - Link: https://s.shopee.com.br/20uoskbnAI
+
+6. **Manta Cobertor de Bebê c/ Naninha Para Menina Menino Infantil Mantinh…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 36,74
    - Desconto: 59% OFF
    - Link: https://s.shopee.com.br/19kIi7Fdf
 
-6. **Capa Magnética Anti Impacto iPhone**
+7. **Capa Magnética Anti Impacto iPhone**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 10,99
    - Desconto: 63% OFF
    - Link: https://s.shopee.com.br/9KhPDVQE7U
 
-7. **Monitor Gamer Haiz 27” 240Hz**
+8. **Monitor Gamer Haiz 27” 240Hz**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 849,99
    - Desconto: 58% OFF
    - Link: https://s.shopee.com.br/2LXeHZ4gSh
 
-8. **Fralda Premium Huggies Natural Care Aberta RN/P/M/G**
+9. **Fralda Premium Huggies Natural Care Aberta RN/P/M/G**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 43,90
    - Desconto: 20% OFF
    - Link: https://s.shopee.com.br/8pl7l15vwF
 
-9. **Oxímetro Infantil Digital**
+10. **Oxímetro Infantil Digital**
    - Categoria: Saúde
    - Loja: Shopee
    - Preço: R$ 25,99
    - Desconto: 61% OFF
    - Link: https://s.shopee.com.br/3B6kwUKS0Q
-
-10. **Escova Rotativa 2 em 1**
-   - Categoria: Beleza
-   - Loja: Shopee
-   - Preço: R$ 99,99
-   - Desconto: 67% OFF
-   - Link: https://s.shopee.com.br/19iuBehhH
 
 ## Ações gratuitas recomendadas
 

@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 21/08/2026 15:51
+Gerado em: 21/08/2026 16:21
 
 ## Como usar
 
@@ -162,29 +162,29 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 6 — Saúde
+## Post 6 — Moda e Calçados
 
-**Canal recomendado:** Saúde e Bem-estar
+**Canal recomendado:** Moda e Calçados
 
-**Horário sugerido:** 09:00 - 11:00
+**Horário sugerido:** 12:00 - 15:00
 
 **Imagem/card:**
 
-https://marylouse-ofertas.vercel.app/growth/pinterest/saude.png
+https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
 
 **Texto pronto:**
 
 ```txt
-❤️ Oferta para Saúde
+👟 Oferta para Moda e Calçados
 
-Kit Medidor de Pressão + Oxímetro
+Tênis Infantil Calce Fácil Feminino
 
-💸 De: R$ 178,50
-🔥 Por: R$ 49,98
-🏷️ 72% OFF
+💸 De: R$ 69,17
+🔥 Por: R$ 24,90
+🏷️ 64% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/1Lf85WZzza
+Ver oferta: https://s.shopee.com.br/4AzJGN93ZS
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

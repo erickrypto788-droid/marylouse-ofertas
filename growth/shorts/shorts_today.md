@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 21/08/2026 14:19
+Gerado em: 21/08/2026 15:21
 
 ## Como usar
 
@@ -79,8 +79,8 @@ Gerado em: 21/08/2026 14:19
 **Produtos usados:**
 
 - Prancha Chapinha Bivolt
+- Kit 4 Perfumes Femininos Árabes 100ml
 - Perfume Importado Feminino e Masculino 30ML
-- Principia Protetor Solar PS-05 Cor 3.0 c/ 14,5% Mix de Filtros UV + 5…
 
 ---
 

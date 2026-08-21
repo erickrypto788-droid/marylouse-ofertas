@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 21/08/2026 17:21
+Gerado em: 21/08/2026 18:22
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 21/08/2026 17:21
 **Produtos usados:**
 
 - Huggies Fralda Descartável Máxima Proteção XG - 58 Un
+- Baby Doll Feminino Estampado Animal Print Fresquinho Microfibra Short…
 - Manta Cobertor de Bebê c/ Naninha Para Menina Menino Infantil Mantinh…
-- Fralda Pampers Pants XXG 120un
 
 ---
 
@@ -103,7 +103,7 @@ Gerado em: 21/08/2026 17:21
 **Produtos usados:**
 
 - Suporte de Celular Carro 360°
-- Xiaomi Poco X7 Pro
-- Capa Magnética Anti Impacto iPhone
+- Capa Impermeável Touch Celular - Suporte Bike Moto para Navegação
+- Fones Tipo-C UP18
 
 ---

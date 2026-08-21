@@ -1,6 +1,6 @@
 # Pinterest Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 21/08/2026 19:41
+Gerado em: 21/08/2026 20:21
 
 ## Como usar
 
@@ -38,7 +38,7 @@ https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=pinterest&
 
 **Por que postar:**
 
-Categoria com 10 oferta(s) e boa intenção de compra.
+Categoria com 15 oferta(s) e boa intenção de compra.
 
 ---
 
@@ -86,7 +86,7 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
 
 **Descrição:**
 
-Veja ofertas de Beleza selecionadas pela MaryLouse Ofertas. Destaque de hoje: Prancha Chapinha Bivolt. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Veja ofertas de Beleza selecionadas pela MaryLouse Ofertas. Destaque de hoje: Kit 4 Perfumes Femininos Árabes 100ml. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
@@ -94,7 +94,7 @@ https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=pinterest&ut
 
 **Por que postar:**
 
-Categoria com 7 oferta(s) e boa intenção de compra.
+Categoria com 3 oferta(s) e boa intenção de compra.
 
 ---
 
@@ -138,18 +138,18 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
 
 **Título:**
 
-63% OFF: Prancha Chapinha Bivolt
+50% OFF: Kit 4 Perfumes Femininos Árabes 100ml
 
 **Descrição:**
 
-Oferta destaque em Beleza encontrada pela MaryLouse Ofertas. Preço: R$ 32,98. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Oferta destaque em Beleza encontrada pela MaryLouse Ofertas. Preço: R$ 34,49. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
-https://s.shopee.com.br/1BLhckDYp0
+https://s.shopee.com.br/5ArreMrNkT
 
 **Por que postar:**
 
-Produto com bom score orgânico (100) e link direto afiliado.
+Produto com bom score orgânico (90) e link direto afiliado.
 
 ---

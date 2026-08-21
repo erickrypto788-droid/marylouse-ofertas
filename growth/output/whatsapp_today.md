@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 21/08/2026 19:41
+Gerado em: 21/08/2026 20:21
 
 ## Como usar
 
@@ -12,37 +12,7 @@ Gerado em: 21/08/2026 19:41
 
 ---
 
-## Post 1 — Beleza e Cuidados
-
-**Canal recomendado:** Beleza e Cuidados
-
-**Horário sugerido:** 12:00 - 15:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
-
-**Texto pronto:**
-
-```txt
-💄 Oferta para Beleza e Cuidados
-
-Prancha Chapinha Bivolt
-
-💸 De: R$ 89,14
-🔥 Por: R$ 32,98
-🏷️ 63% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/1BLhckDYp0
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 2 — Celulares e Tecnologia
+## Post 1 — Celulares e Tecnologia
 
 **Canal recomendado:** Celulares e Tecnologia
 
@@ -65,6 +35,36 @@ Suporte de Celular Carro 360°
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/5q7X34UxQc
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 2 — Beleza e Cuidados
+
+**Canal recomendado:** Beleza e Cuidados
+
+**Horário sugerido:** 12:00 - 15:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
+
+**Texto pronto:**
+
+```txt
+💄 Oferta para Beleza e Cuidados
+
+Kit 4 Perfumes Femininos Árabes 100ml
+
+💸 De: R$ 68,98
+🔥 Por: R$ 34,49
+🏷️ 50% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/5ArreMrNkT
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

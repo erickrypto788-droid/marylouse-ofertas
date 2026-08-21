@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 21/08/2026 19:19
+Gerado em: 21/08/2026 20:21
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 21/08/2026 19:19
 **Produtos usados:**
 
 - Huggies Fralda Descartável Máxima Proteção XG - 58 Un
+- Capa de Bebe Conforto Bebê + Capota Solar + Jogo Protetor de Cinto Se…
 - Baby Doll Feminino Estampado Animal Print Fresquinho Microfibra Short…
-- Manta Cobertor de Bebê c/ Naninha Para Menina Menino Infantil Mantinh…
 
 ---
 
@@ -76,9 +76,9 @@ Gerado em: 21/08/2026 19:19
 
 **Produtos usados:**
 
-- Prancha Chapinha Bivolt
 - Kit 4 Perfumes Femininos Árabes 100ml
-- Perfume Importado Feminino e Masculino 30ML
+- Kit 04 Body Splash Árabe Soul Feminino
+- Kit 2 Body Splash Feminino Perfumado Encanto Lily + Florata Rose Pres…
 
 ---
 

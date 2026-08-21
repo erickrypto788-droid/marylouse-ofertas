@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 21/08/2026 04:21
+Gerado em: 21/08/2026 05:21
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 21/08/2026 04:21
 **Produtos usados:**
 
 - Huggies Fralda Descartável Máxima Proteção XG - 58 Un
-- Fralda Premium Huggies Natural Care Aberta RN/P/M/G
 - Manta Cobertor de Bebê c/ Naninha Para Menina Menino Infantil Mantinh…
+- Fralda Pampers Pants XXG 120un
 
 ---
 

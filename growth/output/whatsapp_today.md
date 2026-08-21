@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 21/08/2026 13:15
+Gerado em: 21/08/2026 13:18
 
 ## Como usar
 
@@ -57,14 +57,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
 ```txt
 📱 Oferta para Celulares e Tecnologia
 
-Xiaomi Poco X7 Pro
+Suporte de Celular Carro 360°
 
-💸 De: R$ 3.870,91
-🔥 Por: R$ 2.129,00
-🏷️ 45% OFF
+💸 De: R$ 51,46
+🔥 Por: R$ 24,70
+🏷️ 52% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/1qbOHikBaG
+Ver oferta: https://s.shopee.com.br/5q7X34UxQc
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

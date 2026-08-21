@@ -1,5 +1,26 @@
 [
   {
+    "id": "7caa4c61e5f7303291",
+    "title": "Bolsa Masculina Antifurto",
+    "raw_title": "Bolsa Masculina Transversal Cadeado Ombro Impermeável Tecido Liso Antifurto Bolsa De Peito",
+    "description": "🔒 SEGURANÇA E ESTILO NO SEU DIA A DIA! 🔒 Proteja seus pertences com a Bolsa Masculina Transversal Antifurto. Com cadeado e tecido impermeável, é perfeit...",
+    "marketplace": "Shopee",
+    "category": "Bolsas Masculinas",
+    "old_price": "R$ 111,40",
+    "price": "R$ 38,99",
+    "discount_percent": 65.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7rdvx-lygt5yh09gywd2",
+    "affiliate_url": "https://s.shopee.com.br/2BEGXiAHsW",
+    "created_at": "21/08/2026 22:15",
+    "created_at_iso": "2026-08-21T22:15:51",
+    "created_ts": 1787350551,
+    "niche": {
+      "key": "shopee_bolsas_masculinas",
+      "name": "Bolsas Masculinas"
+    }
+  },
+  {
     "id": "7b4fd8e934a327fdb3",
     "title": "Kit Ferramentas Ingco",
     "raw_title": "Kit Ferramentas Ingco Esmerilhadeira Martelete 4ah",
@@ -1751,60 +1772,5 @@
       "key": "shopee_esportes_lazer",
       "name": "Esportes e Lazer"
     }
-  },
-  {
-    "id": "8aa3363d5cdf26c011",
-    "title": "Bike Ergométrica 8kg com Painel Digital",
-    "raw_title": "Bike Ergométrica 8kg Fitness Treino musculação Academia 120kg com Painel Digital Squeeze",
-    "description": "🚨 OFERTA IMPERDÍVEL! 🚨 Transforme seu corpo e sua saúde sem sair de casa! 💪 A Bike Ergométrica de 8kg com Painel Digital é perfeita para seus treinos de...",
-    "marketplace": "Shopee",
-    "category": "Esportes e Lazer",
-    "old_price": "R$ 1.256,38",
-    "price": "R$ 489,99",
-    "discount_percent": 61.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m1-mo6tyauqsjk493",
-    "affiliate_url": "https://s.shopee.com.br/7KwL6IzaYL",
-    "created_at": "20/08/2026 22:15",
-    "created_at_iso": "2026-08-20T22:15:46",
-    "created_ts": 1787264146,
-    "niche": {
-      "key": "shopee_esportes_lazer",
-      "name": "Esportes e Lazer"
-    }
-  },
-  {
-    "id": "5d667c9ceaf7e07c0f",
-    "title": "Tchau, Chupeta",
-    "raw_title": "Tchau, Chupeta",
-    "description": "Seu pequeno pronto para largar a chupeta? 👶 Este guia essencial vai te ajudar nessa fase! O livro 'Tchau, Chupeta' oferece dicas e estratégias para uma...",
-    "marketplace": "Mercado Livre",
-    "category": "Mãe e Bebê",
-    "old_price": "",
-    "price": "R$ 89,70",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_946223-MLU50421463072_062022-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB19198314?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "20/08/2026 22:07",
-    "created_at_iso": "2026-08-20T22:07:11",
-    "created_ts": 1787263631
-  },
-  {
-    "id": "55c6a2f7129a673b9e",
-    "title": "Fralda Pampers Pants XXG 120un",
-    "raw_title": "Fralda Pampers Pants Ajuste Total Xxg Com 120un",
-    "description": "✨ Conforto e economia para o seu bebê! ✨ Aproveite essa super oferta de Fralda Pampers Pants Ajuste Total XXG com 120 unidades. Mais tranquilidade para...",
-    "marketplace": "Mercado Livre",
-    "category": "Mãe e Bebê",
-    "old_price": "",
-    "price": "R$ 349,00",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_784856-MLA99934070865_112025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21853434?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "20/08/2026 22:06",
-    "created_at_iso": "2026-08-20T22:06:02",
-    "created_ts": 1787263562
   }
 ]

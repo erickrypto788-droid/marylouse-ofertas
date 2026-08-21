@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 21/08/2026 19:00
+Gerado em: 21/08/2026 19:19
 
 ## Categorias prioritárias
 
@@ -10,10 +10,10 @@ Gerado em: 21/08/2026 19:00
 - 👟 **Calçados**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 💄 **Beleza**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 📚 **Papelaria**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
+- ❤️ **Saúde**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 👕 **Moda Masculina**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 - 📦 **Outros**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 🧒 **Moda Infantil**: 4 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-infantil.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-infantil
-- 🐶 **Pet**: 4 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 
 ## Top ofertas para destacar
 
@@ -59,33 +59,33 @@ Gerado em: 21/08/2026 19:00
    - Desconto: 46% OFF
    - Link: https://s.shopee.com.br/6AkOB0peZe
 
-7. **Baby Doll Feminino Estampado Animal Print Fresquinho Microfibra Short…**
+7. **Garrafa Térmica Termometro Digital 1L Café Chá Nórdica Com Cabo Madei…**
+   - Categoria: Saúde
+   - Loja: Shopee
+   - Preço: R$ 44,95
+   - Desconto: 59% OFF
+   - Link: https://s.shopee.com.br/2BEGLLGfiw
+
+8. **Tiras Glicose G-Tech Vita C/50**
+   - Categoria: Saúde
+   - Loja: Shopee
+   - Preço: R$ 44,90
+   - Desconto: 57% OFF
+   - Link: https://s.shopee.com.br/9pdhTR0p2j
+
+9. **Baby Doll Feminino Estampado Animal Print Fresquinho Microfibra Short…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 29,90
    - Desconto: 50% OFF
    - Link: https://s.shopee.com.br/7VFlMk18Vb
 
-8. **Huggies Fralda Descartável Máxima Proteção XG - 58 Un**
+10. **Huggies Fralda Descartável Máxima Proteção XG - 58 Un**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 99,90
    - Desconto: 28% OFF
    - Link: https://s.shopee.com.br/70JUu3d52n
-
-9. **Kit Medidor de Pressão + Oxímetro**
-   - Categoria: Saúde
-   - Loja: Shopee
-   - Preço: R$ 49,98
-   - Desconto: 72% OFF
-   - Link: https://s.shopee.com.br/1Lf85WZzza
-
-10. **Mini Balança Digital Cozinha**
-   - Categoria: Casa e Cozinha
-   - Loja: Shopee
-   - Preço: R$ 25,98
-   - Desconto: 72% OFF
-   - Link: https://s.shopee.com.br/20uoskbnAI
 
 ## Ações gratuitas recomendadas
 

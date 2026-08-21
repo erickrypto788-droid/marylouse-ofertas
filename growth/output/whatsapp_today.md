@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 21/08/2026 00:20
+Gerado em: 21/08/2026 01:22
 
 ## Como usar
 
@@ -87,14 +87,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
 ```txt
 🍼 Oferta para Mamãe e Bebê
 
-Fralda Premium Huggies Natural Care Aberta RN/P/M/G
+Huggies Fralda Descartável Máxima Proteção XG - 58 Un
 
-💸 De: R$ 54,87
-🔥 Por: R$ 43,90
-🏷️ 20% OFF
+💸 De: R$ 138,75
+🔥 Por: R$ 99,90
+🏷️ 28% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/8pl7l15vwF
+Ver oferta: https://s.shopee.com.br/70JUu3d52n
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

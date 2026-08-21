@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 21/08/2026 00:20
+Gerado em: 21/08/2026 01:22
 
 ## Categorias prioritárias
 
-- 🍼 **Mãe e Bebê**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 🍼 **Mãe e Bebê**: 16 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🏋️ **Esportes**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 🧸 **Brinquedos**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
-- 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 💄 **Beleza**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 📦 **Outros**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 💻 **Informática**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 👕 **Moda Masculina**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 - 📚 **Papelaria**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 - ❤️ **Saúde**: 4 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
+- 💄 **Beleza**: 4 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 
 ## Top ofertas para destacar
 
@@ -38,54 +38,54 @@ Gerado em: 21/08/2026 00:20
    - Desconto: 45% OFF
    - Link: https://s.shopee.com.br/1qbOHikBaG
 
-4. **Kit Medidor de Pressão + Oxímetro**
+4. **Huggies Fralda Descartável Máxima Proteção XG - 58 Un**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 99,90
+   - Desconto: 28% OFF
+   - Link: https://s.shopee.com.br/70JUu3d52n
+
+5. **Kit Medidor de Pressão + Oxímetro**
    - Categoria: Saúde
    - Loja: Shopee
    - Preço: R$ 49,98
    - Desconto: 72% OFF
    - Link: https://s.shopee.com.br/1Lf85WZzza
 
-5. **Mini Balança Digital Cozinha**
+6. **Mini Balança Digital Cozinha**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 25,98
    - Desconto: 72% OFF
    - Link: https://s.shopee.com.br/20uoskbnAI
 
-6. **Manta Cobertor de Bebê c/ Naninha Para Menina Menino Infantil Mantinh…**
+7. **Manta Cobertor de Bebê c/ Naninha Para Menina Menino Infantil Mantinh…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 36,74
    - Desconto: 59% OFF
    - Link: https://s.shopee.com.br/19kIi7Fdf
 
-7. **Capa Magnética Anti Impacto iPhone**
+8. **Capa Magnética Anti Impacto iPhone**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 10,99
    - Desconto: 63% OFF
    - Link: https://s.shopee.com.br/9KhPDVQE7U
 
-8. **Monitor Gamer Haiz 27” 240Hz**
+9. **Monitor Gamer Haiz 27” 240Hz**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 849,99
    - Desconto: 58% OFF
    - Link: https://s.shopee.com.br/2LXeHZ4gSh
 
-9. **Fralda Premium Huggies Natural Care Aberta RN/P/M/G**
+10. **Fralda Premium Huggies Natural Care Aberta RN/P/M/G**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 43,90
    - Desconto: 20% OFF
    - Link: https://s.shopee.com.br/8pl7l15vwF
-
-10. **Oxímetro Infantil Digital**
-   - Categoria: Saúde
-   - Loja: Shopee
-   - Preço: R$ 25,99
-   - Desconto: 61% OFF
-   - Link: https://s.shopee.com.br/3B6kwUKS0Q
 
 ## Ações gratuitas recomendadas
 

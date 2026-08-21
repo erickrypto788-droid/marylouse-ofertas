@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 21/08/2026 13:18
+Gerado em: 21/08/2026 14:19
 
 ## Como usar
 
@@ -56,7 +56,7 @@ Gerado em: 21/08/2026 13:18
 
 - Mini Balança Digital Cozinha
 - Mini Liquidificador Portátil
-- Liquidificador Britânia BLQE01 2 copos 2,6L 900W
+- Cafeteira Elgin 15 Xícaras
 
 ---
 

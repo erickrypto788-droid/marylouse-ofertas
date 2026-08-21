@@ -1,5 +1,89 @@
 [
   {
+    "id": "d9aef72a3d0f3edb49",
+    "title": "Kit Oxímetro + Termômetro Digital",
+    "raw_title": "Kit Oxímetro de Dedo Medidor de Saturação + Termômetro Digital Temperatura",
+    "description": "🚨 Saúde em primeiro lugar! 🩺 Tenha o controle da sua família com este kit indispensável! Monitore a saturação de oxigênio e a temperatura corporal de fo...",
+    "marketplace": "Shopee",
+    "category": "Saúde",
+    "old_price": "",
+    "price": "R$ 29,98",
+    "discount_percent": 0.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-821ec-mhb1zzdcmqkr70",
+    "affiliate_url": "https://s.shopee.com.br/gPRIIcXLW",
+    "created_at": "21/08/2026 00:19",
+    "created_at_iso": "2026-08-21T00:19:01",
+    "created_ts": 1787271541,
+    "niche": {
+      "key": "shopee_saude",
+      "name": "Saúde"
+    }
+  },
+  {
+    "id": "e680c1dcd37cc3a7b1",
+    "title": "Inalador de Ar Comprimido Compact DC1 Bivolt - Gtech",
+    "raw_title": "Inalador de Ar Comprimido Compact DC1 Bivolt - Gtech",
+    "description": "🔥 27% OFF — Oferta encontrada! 📌 Inalador de Ar Comprimido Compact DC1 Bivolt - Gtech Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Shopee",
+    "category": "Saúde",
+    "old_price": "R$ 169,16",
+    "price": "R$ 123,49",
+    "discount_percent": 27.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820ld-mooai7s05tds93",
+    "affiliate_url": "https://s.shopee.com.br/40ftGQLW3y",
+    "created_at": "21/08/2026 00:17",
+    "created_at_iso": "2026-08-21T00:17:53",
+    "created_ts": 1787271473,
+    "niche": {
+      "key": "shopee_saude",
+      "name": "Saúde"
+    }
+  },
+  {
+    "id": "897570cf6d98c6dfde",
+    "title": "Kit Medidor de Pressão + Oxímetro",
+    "raw_title": "KIT Medidor de Pressão + Medidor de Pulso Oximetro",
+    "description": "🚨 Sua saúde em primeiro lugar! Tenha controle total da sua saúde com este KIT essencial. O Medidor de Pressão e o Oxímetro de Pulso são perfeitos para m...",
+    "marketplace": "Shopee",
+    "category": "Saúde",
+    "old_price": "R$ 178,50",
+    "price": "R$ 49,98",
+    "discount_percent": 72.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-821g4-mgpmydcfevwr31",
+    "affiliate_url": "https://s.shopee.com.br/1Lf85WZzza",
+    "created_at": "21/08/2026 00:16",
+    "created_at_iso": "2026-08-21T00:16:49",
+    "created_ts": 1787271409,
+    "niche": {
+      "key": "shopee_saude",
+      "name": "Saúde"
+    }
+  },
+  {
+    "id": "d75eb6699f8348bd8b",
+    "title": "Mini Balança Digital Cozinha",
+    "raw_title": "Mini Balança Digital De Cozinha Alta Precisão 0,1g Até 2000g",
+    "description": "✨ Precisão total na sua cozinha! ✨ Cansado de receitas que não dão certo? Com a Mini Balança Digital de Alta Precisão (0,1g a 2000g), seus pratos serão...",
+    "marketplace": "Shopee",
+    "category": "Saúde",
+    "old_price": "R$ 92,79",
+    "price": "R$ 25,98",
+    "discount_percent": 72.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-ma49suo8rq4n1f",
+    "affiliate_url": "https://s.shopee.com.br/20uoskbnAI",
+    "created_at": "21/08/2026 00:15",
+    "created_at_iso": "2026-08-21T00:15:43",
+    "created_ts": 1787271343,
+    "niche": {
+      "key": "shopee_saude",
+      "name": "Saúde"
+    }
+  },
+  {
     "id": "e4b5489997069d45a4",
     "title": "Kit 30 Jogos da Velha com Tabuleiro 10x10 em MDF 2,7 mm Presentes/Lem…",
     "raw_title": "Kit 30 Jogos da Velha com Tabuleiro 10x10 em MDF 2,7 mm Presentes/Lembrancinhas/Jogos Educativos",
@@ -1706,69 +1790,6 @@
     "created_at": "20/08/2026 00:19",
     "created_at_iso": "2026-08-20T00:19:03",
     "created_ts": 1787185143,
-    "niche": {
-      "key": "shopee_beleza",
-      "name": "Beleza"
-    }
-  },
-  {
-    "id": "81aff0b7a369453a8e",
-    "title": "Principia Kit Protetor Solar FPS 60 + 70",
-    "raw_title": "Principia Kit Protetor Solar PS-01 FPS 60 + PS-05 FPS 70- escolha seu tom",
-    "description": "☀️ Proteção dupla para sua pele! Garanta já o seu Principia Kit Protetor Solar PS-01 FPS 60 + PS-05 FPS 70 - escolha seu tom e cuide-se com o melhor. ✨",
-    "marketplace": "Shopee",
-    "category": "Beleza",
-    "old_price": "R$ 107,99",
-    "price": "R$ 82,07",
-    "discount_percent": 24.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820la-mmt07g0rint06e",
-    "affiliate_url": "https://s.shopee.com.br/3Vjb4ceVjl",
-    "created_at": "20/08/2026 00:17",
-    "created_at_iso": "2026-08-20T00:17:59",
-    "created_ts": 1787185079,
-    "niche": {
-      "key": "shopee_beleza",
-      "name": "Beleza"
-    }
-  },
-  {
-    "id": "0938848077b9275590",
-    "title": "Kit 3 Perfumes Malbec Masculino Importado Aroma Marcante Essência Al…",
-    "raw_title": "Kit 3 Perfumes Malbec Masculino Importado Aroma Marcante Essência Alta Fixação Projeção Duradoura",
-    "description": "🔥 47% OFF — Oferta encontrada! 📌 Kit 3 Perfumes Malbec Masculino Importado Aroma Marcante Essência Alta Fixação Projeção Duradoura Confira os detalhes e...",
-    "marketplace": "Shopee",
-    "category": "Beleza",
-    "old_price": "R$ 60,19",
-    "price": "R$ 31,90",
-    "discount_percent": 47.0,
-    "rating": 4.0,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mly50552czcw50",
-    "affiliate_url": "https://s.shopee.com.br/4Vc8GSJ6WC",
-    "created_at": "20/08/2026 00:16",
-    "created_at_iso": "2026-08-20T00:16:51",
-    "created_ts": 1787185011,
-    "niche": {
-      "key": "shopee_beleza",
-      "name": "Beleza"
-    }
-  },
-  {
-    "id": "8a3565784118215334",
-    "title": "Escova Rotativa 2 em 1",
-    "raw_title": "Escova Rotativa Elétrica Secador de cabelo Professinal 2 em 1 110v e 220v",
-    "description": "💇‍♀️✨ Cabelos de salão em minutos! Tenha um liso perfeito ou cachos definidos com a Escova Rotativa Elétrica Secador 2 em 1! Profissional, prática e biv...",
-    "marketplace": "Shopee",
-    "category": "Beleza",
-    "old_price": "R$ 303,00",
-    "price": "R$ 99,99",
-    "discount_percent": 67.0,
-    "rating": 4.7,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7rd6i-lv0qqd9yygwye3",
-    "affiliate_url": "https://s.shopee.com.br/19iuBehhH",
-    "created_at": "20/08/2026 00:15",
-    "created_at_iso": "2026-08-20T00:15:47",
-    "created_ts": 1787184947,
     "niche": {
       "key": "shopee_beleza",
       "name": "Beleza"

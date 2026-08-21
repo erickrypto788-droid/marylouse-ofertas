@@ -1,6 +1,6 @@
 # Pinterest Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 21/08/2026 10:51
+Gerado em: 21/08/2026 11:18
 
 ## Como usar
 
@@ -122,7 +122,7 @@ https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=pinterest
 
 **Por que postar:**
 
-Categoria com 3 oferta(s) e boa intenção de compra.
+Categoria com 2 oferta(s) e boa intenção de compra.
 
 ---
 

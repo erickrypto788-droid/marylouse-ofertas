@@ -1,5 +1,47 @@
 [
   {
+    "id": "23ddf427efcba0ac19",
+    "title": "Bota Texana Feminina Cano Alto",
+    "raw_title": "Bota Texana Feminina Cano Alto Com Bordado Exclusivo Estilo e Praticidade",
+    "description": "👢 Trend Alert! Bota Texana com Desconto IMPERDÍVEL! Arrase com a Bota Texana Feminina Cano Alto e Bordado Exclusivo. Estilo e praticidade para seus look...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Femininos",
+    "old_price": "R$ 99,90",
+    "price": "R$ 79,92",
+    "discount_percent": 20.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820mc-mm8wgc70xekn0a",
+    "affiliate_url": "https://s.shopee.com.br/6L3oqA5ywX",
+    "created_at": "21/08/2026 12:16",
+    "created_at_iso": "2026-08-21T12:16:54",
+    "created_ts": 1787314614,
+    "niche": {
+      "key": "shopee_sapatos_femininos",
+      "name": "Sapatos Femininos"
+    }
+  },
+  {
+    "id": "7747bdc3a4f226bb85",
+    "title": "Kit Chinelo Feminino com Pedraria",
+    "raw_title": "Kit Chinelo Feminino Com Pedraria Antiderrapante Confortável Casual Macio Leve Dia a Dia",
+    "description": "✨ Conforto e Estilo nos Seus Pés! ✨ Transforme seu dia a dia com o Kit Chinelo Feminino perfeito! Com pedraria charmosa, solado antiderrapante, super co...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Femininos",
+    "old_price": "R$ 57,58",
+    "price": "R$ 47,79",
+    "discount_percent": 17.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mq2d9f2iv7yac7",
+    "affiliate_url": "https://s.shopee.com.br/3LQC0MFxV2",
+    "created_at": "21/08/2026 12:15",
+    "created_at_iso": "2026-08-21T12:15:46",
+    "created_ts": 1787314546,
+    "niche": {
+      "key": "shopee_sapatos_femininos",
+      "name": "Sapatos Femininos"
+    }
+  },
+  {
     "id": "ef6abf23b049ca5c50",
     "title": "Bota Coturno Adventure Masculino",
     "raw_title": "Bota Botina Adventure Polo Fran Coturno Preto Masculino",
@@ -1609,27 +1651,6 @@
     "created_at": "20/08/2026 12:17",
     "created_at_iso": "2026-08-20T12:17:43",
     "created_ts": 1787228263,
-    "niche": {
-      "key": "shopee_roupas_femininas",
-      "name": "Roupas Femininas"
-    }
-  },
-  {
-    "id": "0865b491a1bf345eed",
-    "title": "Conjunto Alfaiataria Linho Feminino",
-    "raw_title": "Conjunto alfaiataria Linho feminino Calça Pantalona + blusa regata social luxo Elegante Chique",
-    "description": "🚨 OFERTA IMPERDÍVEL! Look chique e elegante pela METADE do preço! ✨ Garanta o seu Conjunto de Alfaiataria em Linho: Calça Pantalona + Blusa Regata. Perf...",
-    "marketplace": "Shopee",
-    "category": "Roupas Femininas",
-    "old_price": "R$ 119,80",
-    "price": "R$ 59,90",
-    "discount_percent": 50.0,
-    "rating": 4.7,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgwdevvhjpc48c",
-    "affiliate_url": "https://s.shopee.com.br/6AkN2xfmOz",
-    "created_at": "20/08/2026 12:15",
-    "created_at_iso": "2026-08-20T12:15:44",
-    "created_ts": 1787228144,
     "niche": {
       "key": "shopee_roupas_femininas",
       "name": "Roupas Femininas"

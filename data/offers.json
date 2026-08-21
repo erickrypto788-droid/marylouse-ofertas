@@ -1,5 +1,47 @@
 [
   {
+    "id": "d84df27bfb6c1e9a0e",
+    "title": "Bolsa de Ombro Unissex de Veludo",
+    "raw_title": "Bolsa Novo Estilo Bolsa De Moda De Ombro Unissex De Grande Capacidade Bolsa De Veludo",
+    "description": "✨ ESTILO E CONFORTO! Bolsa de Ombro Unissex de Veludo com super desconto! 👜 Perfeita para o dia a dia, com grande capacidade e design moderno. Não perca...",
+    "marketplace": "Shopee",
+    "category": "Bolsas Femininas",
+    "old_price": "R$ 86,32",
+    "price": "R$ 31,94",
+    "discount_percent": 63.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfjkyf6gm0hx67",
+    "affiliate_url": "https://s.shopee.com.br/2LXfPbWd7X",
+    "created_at": "21/08/2026 21:16",
+    "created_at_iso": "2026-08-21T21:16:54",
+    "created_ts": 1787347014,
+    "niche": {
+      "key": "shopee_bolsas_femininas",
+      "name": "Bolsas Femininas"
+    }
+  },
+  {
+    "id": "9b60cb669504b26b65",
+    "title": "Bolsa Transversal Feminina Versátil",
+    "raw_title": "Bolsa Transversal Com Alça Regulável Feminina Médio Versátil Moda Crossbody",
+    "description": "OFERTA RELÂMPAGO! ✨ Bolsa Transversal com 51% OFF! Estilo e praticidade juntos! Essa bolsa média é perfeita para o dia a dia, com alça regulável e desig...",
+    "marketplace": "Shopee",
+    "category": "Bolsas Femininas",
+    "old_price": "R$ 64,69",
+    "price": "R$ 31,70",
+    "discount_percent": 51.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mallu7axcj5l8e",
+    "affiliate_url": "https://s.shopee.com.br/904ac8vUmZ",
+    "created_at": "21/08/2026 21:15",
+    "created_at_iso": "2026-08-21T21:15:43",
+    "created_ts": 1787346943,
+    "niche": {
+      "key": "shopee_bolsas_femininas",
+      "name": "Bolsas Femininas"
+    }
+  },
+  {
     "id": "ba7e3048f7146d551f",
     "title": "Berço Co-Bed Balanço Portátil Moises Mosqueteiro Infantil Trava de Se…",
     "raw_title": "Berço Co-Bed Balanço Portátil Moises Mosqueteiro Infantil Trava de Segurança Regulável",
@@ -1806,48 +1848,6 @@
     "created_at": "20/08/2026 21:17",
     "created_at_iso": "2026-08-20T21:17:55",
     "created_ts": 1787260675,
-    "niche": {
-      "key": "shopee_moda_infantil",
-      "name": "Moda Infantil"
-    }
-  },
-  {
-    "id": "32e3efc23f99a403dc",
-    "title": "Tênis Infantil LED Sonic",
-    "raw_title": "Tenis Infantil LED SONIC de Menino Com Led Luzinha Personagem tenis com luzes coloridas",
-    "description": "🚀 Seu pequeno fã do Sonic vai AMAR! Tênis Infantil LED do Sonic com luzinhas coloridas para meninos. Conforto e diversão em cada passo!",
-    "marketplace": "Shopee",
-    "category": "Moda Infantil",
-    "old_price": "R$ 70,24",
-    "price": "R$ 43,55",
-    "discount_percent": 38.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lqkjfwfz6iw7ec",
-    "affiliate_url": "https://s.shopee.com.br/6L3nqM0jw8",
-    "created_at": "20/08/2026 21:16",
-    "created_at_iso": "2026-08-20T21:16:51",
-    "created_ts": 1787260611,
-    "niche": {
-      "key": "shopee_moda_infantil",
-      "name": "Moda Infantil"
-    }
-  },
-  {
-    "id": "3399761a13886cb3ae",
-    "title": "Tênis Infantil Menino Leve e Confortável",
-    "raw_title": "Tênis Infantil Menino Super Leve e Confortável Escolar Esportivo - Volta as aulas",
-    "description": "✨ SEU FILHO MERECE! 👟 Tênis Infantil Menino Super Leve e Confortável para a escola e brincadeiras! Perfeito para a volta às aulas, esportes e o dia a di...",
-    "marketplace": "Shopee",
-    "category": "Moda Infantil",
-    "old_price": "R$ 64,58",
-    "price": "R$ 31,00",
-    "discount_percent": 52.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztf-mkynhxip4uf770",
-    "affiliate_url": "https://s.shopee.com.br/3VjcT9BavG",
-    "created_at": "20/08/2026 21:15",
-    "created_at_iso": "2026-08-20T21:15:43",
-    "created_ts": 1787260543,
     "niche": {
       "key": "shopee_moda_infantil",
       "name": "Moda Infantil"

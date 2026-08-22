@@ -1,14 +1,14 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 22/08/2026 18:04
+Gerado em: 22/08/2026 18:22
 
 ## Categorias prioritárias
 
-- 🍼 **Mãe e Bebê**: 17 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 🐶 **Pet**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
+- 🍼 **Mãe e Bebê**: 16 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 🐶 **Pet**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
+- 📚 **Papelaria**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 - 👟 **Calçados**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 💻 **Informática**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 🧸 **Brinquedos**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 👜 **Bolsas**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 - ❤️ **Saúde**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 🏋️ **Esportes**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
@@ -73,19 +73,19 @@ Gerado em: 22/08/2026 18:04
    - Desconto: 33% OFF
    - Link: https://s.shopee.com.br/9zx88Zm97j
 
-9. **Smartphone Xiaomi 15t 5g 12+12gb Ram + 512gb, Cinza**
-   - Categoria: Celulares
-   - Loja: Mercado Livre
-   - Preço: R$ 4.039,90
-   - Desconto: 29% OFF
-   - Link: https://www.mercadolivre.com.br/p/MLB59103594?matt_word=marylouse&matt_tool=50459180&forceInApp=true
-
-10. **ROMANTIC CROWN Mochla de Viagem MascuIino e Feminina ImpermeaveI Refo…**
-   - Categoria: Informática
+9. **Aplique Finalizador de Laço e Agenda KIT 100 UN (5 Modelos) Passante…**
+   - Categoria: Pet
    - Loja: Shopee
-   - Preço: R$ 119,98
-   - Desconto: 83% OFF
-   - Link: https://s.shopee.com.br/6AkQVDYOI4
+   - Preço: R$ 19,90
+   - Desconto: 53% OFF
+   - Link: https://s.shopee.com.br/4fvcqiR0RN
+
+10. **Caneta Delineadora Carimbo Ponta Dupla | Delineado Gatinho Perfeito e…**
+   - Categoria: Pet
+   - Loja: Shopee
+   - Preço: R$ 42,90
+   - Desconto: 57% OFF
+   - Link: https://s.shopee.com.br/5VUiZx9BrR
 
 ## Ações gratuitas recomendadas
 

@@ -1,5 +1,68 @@
 [
   {
+    "id": "31fa7fdccedcf2a347",
+    "title": "BABUCHE PLATAFORMA NUVEM MACIA",
+    "raw_title": "BABUCHE PLATAFORMA ALTA NUVEM MACIA 100 % DECORADA COM BÓTONS PINGENTES EM ABS CONFORTÁVEL",
+    "description": "✨ Conforto e estilo nas alturas! ✨ A babuche plataforma que une o conforto de uma nuvem com um toque super estiloso! 😍 Perfeita para qualquer ocasião, m...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Femininos",
+    "old_price": "R$ 79,98",
+    "price": "R$ 38,39",
+    "discount_percent": 52.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81zu9-mkpc3fgyf0u9e5",
+    "affiliate_url": "https://s.shopee.com.br/9KhP9NkFVA",
+    "created_at": "22/08/2026 07:19",
+    "created_at_iso": "2026-08-22T07:19:05",
+    "created_ts": 1787383145,
+    "niche": {
+      "key": "shopee_sapatos_femininos",
+      "name": "Sapatos Femininos"
+    }
+  },
+  {
+    "id": "98bea5b81c4c414e96",
+    "title": "Tênis SNEEKS Feminino",
+    "raw_title": "Tênis SNEEKS Feminino para Uso Diário Prático e Estiloso Super Promoção",
+    "description": "🚨 IMPERDÍVEL! 🚨 Tênis SNEEKS Feminino para uso diário: prático, estiloso e com um desconto absurdo! ✨ Não perca essa chance de renovar seu estilo com co...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Femininos",
+    "old_price": "R$ 99,97",
+    "price": "R$ 39,99",
+    "discount_percent": 60.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk3wepd0ly4g52",
+    "affiliate_url": "https://s.shopee.com.br/BTCl7QZUm",
+    "created_at": "22/08/2026 07:17",
+    "created_at_iso": "2026-08-22T07:17:58",
+    "created_ts": 1787383078,
+    "niche": {
+      "key": "shopee_sapatos_femininos",
+      "name": "Sapatos Femininos"
+    }
+  },
+  {
+    "id": "ef4482e33c0526f879",
+    "title": "Bota Feminina GiGiL Cano Longo",
+    "raw_title": "Bota Feminina GiGiL Cano Longo Enrugado Slouch Bico Fino Salto Bloco Médio Elegante Clássica Casual",
+    "description": "✨ Bota PERFEITA para o seu inverno com 60% OFF! A Bota Feminina GiGiL de Cano Longo é a escolha ideal para um look elegante e casual. Com design enrugad...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Femininos",
+    "old_price": "R$ 298,88",
+    "price": "R$ 119,55",
+    "discount_percent": 60.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8luys2i8oep28",
+    "affiliate_url": "https://s.shopee.com.br/30nO8KSuoc",
+    "created_at": "22/08/2026 07:16",
+    "created_at_iso": "2026-08-22T07:16:48",
+    "created_ts": 1787383008,
+    "niche": {
+      "key": "shopee_sapatos_femininos",
+      "name": "Sapatos Femininos"
+    }
+  },
+  {
     "id": "417e6143bd8efff16f",
     "title": "Conjunto De 12 Peças De Cadarços Elásticos De Silicone Preguiçosos Se…",
     "raw_title": "Conjunto De 12 Peças De Cadarços Elásticos De Silicone Preguiçosos Sem Amarração Para Tênis , De Corrida E Botas-Confort",
@@ -1932,69 +1995,6 @@
     "niche": {
       "key": "shopee_roupas_femininas",
       "name": "Roupas Femininas"
-    }
-  },
-  {
-    "id": "de4c8c9ee1390b7e1f",
-    "title": "Fórmula de Lyah 60 doses - Suplemento Alimentar",
-    "raw_title": "Fórmula de Lyah 60 doses - Suplemento Alimentar",
-    "description": "🔥 12% OFF — Oferta encontrada! 📌 Fórmula de Lyah 60 doses - Suplemento Alimentar Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
-    "old_price": "R$ 79,43",
-    "price": "R$ 69,90",
-    "discount_percent": 12.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8p35397200hf5",
-    "affiliate_url": "https://s.shopee.com.br/3g33GXNpAy",
-    "created_at": "21/08/2026 06:20",
-    "created_at_iso": "2026-08-21T06:20:07",
-    "created_ts": 1787293207,
-    "niche": {
-      "key": "shopee_bebidas_alimentos",
-      "name": "Bebidas e Alimentos"
-    }
-  },
-  {
-    "id": "40d20d0102846c5bcb",
-    "title": "Pasta de Amendoim Maniforce",
-    "raw_title": "Pasta De Amendoim Integral Vários Sabores Maniforce",
-    "description": "⚡️ Energia e sabor para o seu dia! A Pasta De Amendoim Integral Vários Sabores Maniforce é perfeita para quem busca um lanche saudável e delicioso. Com...",
-    "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
-    "old_price": "R$ 29,84",
-    "price": "R$ 19,99",
-    "discount_percent": 33.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lb-mru8r8rizax2ff",
-    "affiliate_url": "https://s.shopee.com.br/4fvaSN2UHS",
-    "created_at": "21/08/2026 06:19",
-    "created_at_iso": "2026-08-21T06:19:03",
-    "created_ts": 1787293143,
-    "niche": {
-      "key": "shopee_bebidas_alimentos",
-      "name": "Bebidas e Alimentos"
-    }
-  },
-  {
-    "id": "98940babb1e65e78a2",
-    "title": "Chocolate Stikadinho Morango Neugebauer Chocolates 12g- 32un",
-    "raw_title": "Chocolate Stikadinho Morango Neugebauer Chocolates 12g- 32un",
-    "description": "🔥 25% OFF — Oferta encontrada! 📌 Chocolate Stikadinho Morango Neugebauer Chocolates 12g- 32un Confira os detalhes e aproveite enquanto a oferta estiver...",
-    "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
-    "old_price": "R$ 41,32",
-    "price": "R$ 30,99",
-    "discount_percent": 25.0,
-    "rating": 5.0,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7qukw-ljbfrq1rs3un27",
-    "affiliate_url": "https://s.shopee.com.br/1qbP5ALw4D",
-    "created_at": "21/08/2026 06:17",
-    "created_at_iso": "2026-08-21T06:17:56",
-    "created_ts": 1787293076,
-    "niche": {
-      "key": "shopee_bebidas_alimentos",
-      "name": "Bebidas e Alimentos"
     }
   }
 ]

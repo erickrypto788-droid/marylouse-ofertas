@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 22/08/2026 17:40
+Gerado em: 22/08/2026 18:04
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
 ```txt
 📱 Oferta para Celulares e Tecnologia
 
-Carregador Portátil MagSafe
+Smartphone Xiaomi 15t 5g 12+12gb Ram + 512gb, Cinza
 
-💸 De: R$ 99,63
-🔥 Por: R$ 26,90
-🏷️ 73% OFF
-🛒 Loja: Shopee
+💸 De: R$ 5.690,00
+🔥 Por: R$ 4.039,90
+🏷️ 29% OFF
+🛒 Loja: Mercado Livre
 
-Ver oferta: https://s.shopee.com.br/1qbQoIa0oq
+Ver oferta: https://www.mercadolivre.com.br/p/MLB59103594?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

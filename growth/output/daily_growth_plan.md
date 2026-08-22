@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 22/08/2026 17:40
+Gerado em: 22/08/2026 18:04
 
 ## Categorias prioritárias
 
@@ -12,8 +12,8 @@ Gerado em: 22/08/2026 17:40
 - 👜 **Bolsas**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 - ❤️ **Saúde**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 🏋️ **Esportes**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
+- 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
-- 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 
 ## Top ofertas para destacar
 
@@ -73,19 +73,19 @@ Gerado em: 22/08/2026 17:40
    - Desconto: 33% OFF
    - Link: https://s.shopee.com.br/9zx88Zm97j
 
-9. **ROMANTIC CROWN Mochla de Viagem MascuIino e Feminina ImpermeaveI Refo…**
+9. **Smartphone Xiaomi 15t 5g 12+12gb Ram + 512gb, Cinza**
+   - Categoria: Celulares
+   - Loja: Mercado Livre
+   - Preço: R$ 4.039,90
+   - Desconto: 29% OFF
+   - Link: https://www.mercadolivre.com.br/p/MLB59103594?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+10. **ROMANTIC CROWN Mochla de Viagem MascuIino e Feminina ImpermeaveI Refo…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 119,98
    - Desconto: 83% OFF
    - Link: https://s.shopee.com.br/6AkQVDYOI4
-
-10. **Kit 48 Carrinhos De Metal Fricção Brinquedo Menino Maleta Pista Prese…**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 69,99
-   - Desconto: 53% OFF
-   - Link: https://s.shopee.com.br/7VFntJdpi1
 
 ## Ações gratuitas recomendadas
 

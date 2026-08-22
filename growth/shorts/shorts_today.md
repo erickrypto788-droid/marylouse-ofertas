@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 22/08/2026 13:22
+Gerado em: 22/08/2026 14:21
 
 ## Como usar
 
@@ -55,8 +55,8 @@ Gerado em: 22/08/2026 13:22
 **Produtos usados:**
 
 - Panela de Pressão Panelux 4,5L Classic
+- Balança de Cozinha Digital 10kg em Inox Alta Precisão 1g Dieta Fit co…
 - Balança Digital de Precisão 10kg
-- Cafeteira Elgin 15 Xícaras
 
 ---
 

@@ -1,17 +1,17 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 22/08/2026 13:46
+Gerado em: 22/08/2026 14:21
 
 ## Categorias prioritárias
 
-- 🍼 **Mãe e Bebê**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 🍼 **Mãe e Bebê**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🏋️ **Esportes**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 🐶 **Pet**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 🧸 **Brinquedos**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 💄 **Beleza**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- ❤️ **Saúde**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 🧒 **Moda Infantil**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-infantil.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-infantil
-- 🔌 **Eletrodomésticos**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-eletrodomesticos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_eletrodomesticos
 - 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 
@@ -66,26 +66,26 @@ Gerado em: 22/08/2026 13:46
    - Desconto: 32% OFF
    - Link: https://s.shopee.com.br/5VUguw6ZGu
 
-8. **Bebê Reborn Girafinha Luxo**
-   - Categoria: Mãe e Bebê
+8. **Balança de Cozinha Digital 10kg em Inox Alta Precisão 1g Dieta Fit co…**
+   - Categoria: Casa e Cozinha
    - Loja: Shopee
-   - Preço: R$ 135,90
-   - Desconto: 66% OFF
-   - Link: https://s.shopee.com.br/80C4UEXSgc
+   - Preço: R$ 26,99
+   - Desconto: 51% OFF
+   - Link: https://s.shopee.com.br/5q7ZyNQMXv
 
-9. **Kit 5 Camisetas Regata Bebê Menino Menina**
-   - Categoria: Mãe e Bebê
+9. **Balança Bioimpedância Digital Profissional Suporta Até 140kg via Blue…**
+   - Categoria: Saúde
    - Loja: Shopee
-   - Preço: R$ 29,99
-   - Desconto: 63% OFF
-   - Link: https://s.shopee.com.br/20urCxXjCF
+   - Preço: R$ 34,97
+   - Desconto: 65% OFF
+   - Link: https://s.shopee.com.br/AAGZ8L9rkn
 
-10. **Prancha Triondas Modelador de Cachos**
-   - Categoria: Beleza
+10. **AIQUE Nebulizador Portátil Mini Inalador Silencioso Ultra-sônico Auto…**
+   - Categoria: Saúde
    - Loja: Shopee
-   - Preço: R$ 35,46
-   - Desconto: 70% OFF
-   - Link: https://s.shopee.com.br/3g357uBnsk
+   - Preço: R$ 25,98
+   - Desconto: 62% OFF
+   - Link: https://s.shopee.com.br/1qbNM2GjCT
 
 ## Ações gratuitas recomendadas
 

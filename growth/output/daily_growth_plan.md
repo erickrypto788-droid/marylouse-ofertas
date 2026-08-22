@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 21/08/2026 23:42
+Gerado em: 22/08/2026 00:21
 
 ## Categorias prioritárias
 
@@ -8,12 +8,12 @@ Gerado em: 21/08/2026 23:42
 - 🍼 **Mãe e Bebê**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 👜 **Bolsas**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 - 👟 **Calçados**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- ❤️ **Saúde**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
+- 💻 **Informática**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 🐶 **Pet**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 👕 **Moda Masculina**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 - 📦 **Outros**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 🧸 **Brinquedos**: 4 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 🏋️ **Esportes**: 4 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 🐶 **Pet**: 4 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 
 ## Top ofertas para destacar
 
@@ -45,47 +45,47 @@ Gerado em: 21/08/2026 23:42
    - Desconto: 46% OFF
    - Link: https://s.shopee.com.br/6AkOB0peZe
 
-5. **Garrafa Térmica Termometro Digital 1L Café Chá Nórdica Com Cabo Madei…**
+5. **Suporte Monitor 95cm Ergonômico Escritório Gamer**
+   - Categoria: Pet
+   - Loja: Shopee
+   - Preço: R$ 48,55
+   - Desconto: 57% OFF
+   - Link: https://s.shopee.com.br/5VUie4TRYQ
+
+6. **MousePad Grande Rosa**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 20,90
+   - Desconto: 50% OFF
+   - Link: https://s.shopee.com.br/4VcBSEONpI
+
+7. **Garrafa Térmica Termometro Digital 1L Café Chá Nórdica Com Cabo Madei…**
    - Categoria: Saúde
    - Loja: Shopee
    - Preço: R$ 44,95
    - Desconto: 59% OFF
    - Link: https://s.shopee.com.br/2BEGLLGfiw
 
-6. **Tiras Glicose G-Tech Vita C/50**
+8. **Tiras Glicose G-Tech Vita C/50**
    - Categoria: Saúde
    - Loja: Shopee
    - Preço: R$ 44,90
    - Desconto: 57% OFF
    - Link: https://s.shopee.com.br/9pdhTR0p2j
 
-7. **Baby Doll Feminino Estampado Animal Print Fresquinho Microfibra Short…**
+9. **Baby Doll Feminino Estampado Animal Print Fresquinho Microfibra Short…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 29,90
    - Desconto: 50% OFF
    - Link: https://s.shopee.com.br/7VFlMk18Vb
 
-8. **Huggies Fralda Descartável Máxima Proteção XG - 58 Un**
+10. **Huggies Fralda Descartável Máxima Proteção XG - 58 Un**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 99,90
    - Desconto: 28% OFF
    - Link: https://s.shopee.com.br/70JUu3d52n
-
-9. **Kit Medidor de Pressão + Oxímetro**
-   - Categoria: Saúde
-   - Loja: Shopee
-   - Preço: R$ 49,98
-   - Desconto: 72% OFF
-   - Link: https://s.shopee.com.br/1Lf85WZzza
-
-10. **Mini Balança Digital Cozinha**
-   - Categoria: Casa e Cozinha
-   - Loja: Shopee
-   - Preço: R$ 25,98
-   - Desconto: 72% OFF
-   - Link: https://s.shopee.com.br/20uoskbnAI
 
 ## Ações gratuitas recomendadas
 

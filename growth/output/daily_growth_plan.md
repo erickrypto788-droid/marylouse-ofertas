@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 22/08/2026 15:39
+Gerado em: 22/08/2026 16:19
 
 ## Categorias prioritárias
 
 - 🍼 **Mãe e Bebê**: 17 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🏋️ **Esportes**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 🐶 **Pet**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 🧸 **Brinquedos**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - ❤️ **Saúde**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
+- 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 💻 **Informática**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 🧒 **Moda Infantil**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-infantil.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-infantil
 - 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
-- 📚 **Papelaria**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 
 ## Top ofertas para destacar
 
@@ -66,26 +66,26 @@ Gerado em: 22/08/2026 15:39
    - Desconto: 32% OFF
    - Link: https://s.shopee.com.br/5VUguw6ZGu
 
-8. **Kit 48 Carrinhos De Metal Fricção Brinquedo Menino Maleta Pista Prese…**
+8. **ROMANTIC CROWN Mochla de Viagem MascuIino e Feminina ImpermeaveI Refo…**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 119,98
+   - Desconto: 83% OFF
+   - Link: https://s.shopee.com.br/6AkQVDYOI4
+
+9. **Kit 48 Carrinhos De Metal Fricção Brinquedo Menino Maleta Pista Prese…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 69,99
    - Desconto: 53% OFF
    - Link: https://s.shopee.com.br/7VFntJdpi1
 
-9. **Ninho Redutor de Berço Liso e Trocador Portátil Impermeável**
+10. **Ninho Redutor de Berço Liso e Trocador Portátil Impermeável**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 44,99
    - Desconto: 68% OFF
    - Link: https://s.shopee.com.br/LmdUOIgYC
-
-10. **Balança de Cozinha Digital 10kg em Inox Alta Precisão 1g Dieta Fit co…**
-   - Categoria: Casa e Cozinha
-   - Loja: Shopee
-   - Preço: R$ 26,99
-   - Desconto: 51% OFF
-   - Link: https://s.shopee.com.br/5q7ZyNQMXv
 
 ## Ações gratuitas recomendadas
 

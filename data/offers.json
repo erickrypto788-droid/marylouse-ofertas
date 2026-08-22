@@ -1,5 +1,22 @@
 [
   {
+    "id": "593fbbeb69a79244b6",
+    "title": "Cadeira Escritório Preta",
+    "raw_title": "Cadeira Escritório Secretaria Rcp Preto",
+    "description": "✨ Seu escritório merece um upgrade! ✨ Garanta já a Cadeira Escritório Secretaria Rcp Preto e transforme seu ambiente de trabalho! 🚚 Frete Grátis!",
+    "marketplace": "Mercado Livre",
+    "category": "Casa e Decoração",
+    "old_price": "R$ 261,89",
+    "price": "R$ 254,03",
+    "discount_percent": 3.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_830361-MLA95524555493_102025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB22813112?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "22/08/2026 10:02",
+    "created_at_iso": "2026-08-22T10:02:00",
+    "created_ts": 1787392920
+  },
+  {
     "id": "4aa7ac91dce477e0da",
     "title": "Pipoqueira Elétrica Sem Óleo",
     "raw_title": "PIPOQUEIRA ELÉTRICA 110v 220v 1200W Máquina de Pipoca Sem Óleo",
@@ -2094,27 +2111,6 @@
     "niche": {
       "key": "shopee_sapatos_masculinos",
       "name": "Sapatos Masculinos"
-    }
-  },
-  {
-    "id": "783775e998a52f9fd3",
-    "title": "Kit 3 Shorts Infantis Chimpa",
-    "raw_title": "Short infantil Chimpa - Kit com 3 shorts - Ótimos para ir para a escola, e para ficar em casa!",
-    "description": "✨ Conforto e economia para os pequenos! Seu filho merece o melhor! 👦👧 Kit com 3 Shorts Infantis Chimpa, perfeitos para a escola e para brincar em casa....",
-    "marketplace": "Shopee",
-    "category": "Roupas Masculinas",
-    "old_price": "R$ 44,96",
-    "price": "R$ 37,77",
-    "discount_percent": 16.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mdyza9lsqj9d0b",
-    "affiliate_url": "https://s.shopee.com.br/9V0qPc8lcX",
-    "created_at": "21/08/2026 09:20",
-    "created_at_iso": "2026-08-21T09:20:18",
-    "created_ts": 1787304018,
-    "niche": {
-      "key": "shopee_roupas_masculinas",
-      "name": "Roupas Masculinas"
     }
   }
 ]

@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 22/08/2026 10:03
+Gerado em: 22/08/2026 10:21
 
 ## Como usar
 
@@ -12,7 +12,37 @@ Gerado em: 22/08/2026 10:03
 
 ---
 
-## Post 1 — Casa e Cozinha
+## Post 1 — Beleza e Cuidados
+
+**Canal recomendado:** Beleza e Cuidados
+
+**Horário sugerido:** 12:00 - 15:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
+
+**Texto pronto:**
+
+```txt
+💄 Oferta para Beleza e Cuidados
+
+Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler…
+
+💸 De: R$ 290,69
+🔥 Por: R$ 37,79
+🏷️ 87% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/2LXf0t97Oy
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 2 — Casa e Cozinha
 
 **Canal recomendado:** Casa e Cozinha
 
@@ -42,7 +72,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 2 — Celulares e Tecnologia
+## Post 3 — Celulares e Tecnologia
 
 **Canal recomendado:** Celulares e Tecnologia
 
@@ -65,36 +95,6 @@ Suporte de Celular Carro 360°
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/5q7X34UxQc
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 3 — Beleza e Cuidados
-
-**Canal recomendado:** Beleza e Cuidados
-
-**Horário sugerido:** 12:00 - 15:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
-
-**Texto pronto:**
-
-```txt
-💄 Oferta para Beleza e Cuidados
-
-Kit 4 Perfumes Femininos Árabes 100ml
-
-💸 De: R$ 68,98
-🔥 Por: R$ 34,49
-🏷️ 50% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/5ArreMrNkT
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

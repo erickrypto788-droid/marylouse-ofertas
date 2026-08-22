@@ -1,6 +1,6 @@
 # Pinterest Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 22/08/2026 10:03
+Gerado em: 22/08/2026 10:21
 
 ## Como usar
 
@@ -86,7 +86,7 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
 
 **Descrição:**
 
-Veja ofertas de Beleza selecionadas pela MaryLouse Ofertas. Destaque de hoje: Kit 4 Perfumes Femininos Árabes 100ml. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Veja ofertas de Beleza selecionadas pela MaryLouse Ofertas. Destaque de hoje: Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler…. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
@@ -94,7 +94,7 @@ https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=pinterest&ut
 
 **Por que postar:**
 
-Categoria com 4 oferta(s) e boa intenção de compra.
+Categoria com 8 oferta(s) e boa intenção de compra.
 
 ---
 
@@ -126,30 +126,30 @@ Categoria com 6 oferta(s) e boa intenção de compra.
 
 ---
 
-## Pin 5 — Casa e Cozinha
+## Pin 5 — Beleza
 
 **Tipo:** produto_direto
 
-**Board sugerido:** Achadinhos de Casa
+**Board sugerido:** Beleza e Cuidados
 
 **Imagem para upload no Pinterest:**
 
-https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
+https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
 
 **Título:**
 
-50% OFF: Panela de Pressão Panelux 4,5L Classic
+87% OFF: Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler…
 
 **Descrição:**
 
-Oferta destaque em Casa e Cozinha encontrada pela MaryLouse Ofertas. Preço: R$ 57,90. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Oferta destaque em Beleza encontrada pela MaryLouse Ofertas. Preço: R$ 37,79. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
-https://s.shopee.com.br/5fo9RSsb6D
+https://s.shopee.com.br/2LXf0t97Oy
 
 **Por que postar:**
 
-Produto com bom score orgânico (90) e link direto afiliado.
+Produto com bom score orgânico (100) e link direto afiliado.
 
 ---

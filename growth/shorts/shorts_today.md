@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 22/08/2026 10:03
+Gerado em: 22/08/2026 10:21
 
 ## Como usar
 
@@ -78,9 +78,9 @@ Gerado em: 22/08/2026 10:03
 
 **Produtos usados:**
 
+- Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler…
 - Kit 4 Perfumes Femininos Árabes 100ml
-- Kit 04 Body Splash Árabe Soul Feminino
-- Kit 2 Body Splash Feminino Perfumado Encanto Lily + Florata Rose Pres…
+- Prancha Triondas Modelador de Cachos
 
 ---
 

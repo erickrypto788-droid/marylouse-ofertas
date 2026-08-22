@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 22/08/2026 00:21
+Gerado em: 22/08/2026 01:22
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 22/08/2026 00:21
 
 **Produtos usados:**
 
-- Huggies Fralda Descartável Máxima Proteção XG - 58 Un
 - Capa de Bebe Conforto Bebê + Capota Solar + Jogo Protetor de Cinto Se…
 - Baby Doll Feminino Estampado Animal Print Fresquinho Microfibra Short…
+- Fraldas Huggies 100 Unidades
 
 ---
 
@@ -101,5 +101,25 @@ Gerado em: 22/08/2026 00:21
 - Suporte de Celular Carro 360°
 - Capa Impermeável Touch Celular - Suporte Bike Moto para Navegação
 - Fones Tipo-C UP18
+
+---
+
+## Supermercados
+
+**Título sugerido:** 🛒 Ofertas de Supermercados atualizadas hoje
+
+**Descrição sugerida:** Ofertas de Supermercados selecionadas pela MaryLouse. Preços podem mudar. Veja no site. #MaryLouseOfertas #Ofertas #Achadinhos
+
+**Link/CTA:** https://marylouse-ofertas.vercel.app/ofertas-supermercados.html
+
+**Slides:**
+
+- growth/shorts/slides/supermercados/01_intro.png
+- growth/shorts/slides/supermercados/02_produto_1.png
+- growth/shorts/slides/supermercados/05_cta.png
+
+**Produtos usados:**
+
+- Kit Pele de Porcelana Kokeshi
 
 ---

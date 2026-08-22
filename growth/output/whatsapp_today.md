@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 22/08/2026 00:21
+Gerado em: 22/08/2026 01:22
 
 ## Como usar
 
@@ -72,37 +72,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 3 — Mamãe e Bebê
-
-**Canal recomendado:** Mamãe e Bebê
-
-**Horário sugerido:** 09:00 - 11:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
-
-**Texto pronto:**
-
-```txt
-🍼 Oferta para Mamãe e Bebê
-
-Huggies Fralda Descartável Máxima Proteção XG - 58 Un
-
-💸 De: R$ 138,75
-🔥 Por: R$ 99,90
-🏷️ 28% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/70JUu3d52n
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 4 — Ofertas Pet
+## Post 3 — Ofertas Pet
 
 **Canal recomendado:** Ofertas Pet
 
@@ -132,7 +102,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 5 — Moda e Calçados
+## Post 4 — Moda e Calçados
 
 **Canal recomendado:** Moda e Calçados
 
@@ -155,6 +125,36 @@ Tênis Infantil Calce Fácil Feminino
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/4AzJGN93ZS
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 5 — Mamãe e Bebê
+
+**Canal recomendado:** Mamãe e Bebê
+
+**Horário sugerido:** 09:00 - 11:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
+
+**Texto pronto:**
+
+```txt
+🍼 Oferta para Mamãe e Bebê
+
+Capa de Bebe Conforto Bebê + Capota Solar + Jogo Protetor de Cinto Se…
+
+💸 De: R$ 79,63
+🔥 Por: R$ 45,39
+🏷️ 43% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/6q05y2WQaG
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

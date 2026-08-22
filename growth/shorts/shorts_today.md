@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 22/08/2026 12:21
+Gerado em: 22/08/2026 13:22
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 22/08/2026 12:21
 
 **Produtos usados:**
 
+- Bebê Reborn Girafinha Luxo
 - Kit 5 Camisetas Regata Bebê Menino Menina
 - Rosa escova limpeza mamadeira kit para limpeza de mamadeira kit limpe…
-- Capa de Bebe Conforto Bebê + Capota Solar + Jogo Protetor de Cinto Se…
 
 ---
 
@@ -102,9 +102,9 @@ Gerado em: 22/08/2026 12:21
 
 **Produtos usados:**
 
-- Suporte de Celular Carro 360°
 - Carregador Portátil MagSafe
 - Gamesir T4 Nova Lite Controlador De Jogo Sem Fio Multiplataforma Efei…
+- Capa Impermeável Touch Celular - Suporte Bike Moto para Navegação
 
 ---
 

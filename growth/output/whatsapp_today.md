@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 22/08/2026 13:04
+Gerado em: 22/08/2026 13:22
 
 ## Como usar
 
@@ -102,37 +102,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Celulares e Tecnologia
-
-**Canal recomendado:** Celulares e Tecnologia
-
-**Horário sugerido:** 19:00 - 21:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
-
-**Texto pronto:**
-
-```txt
-📱 Oferta para Celulares e Tecnologia
-
-Suporte de Celular Carro 360°
-
-💸 De: R$ 51,46
-🔥 Por: R$ 24,70
-🏷️ 52% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/5q7X34UxQc
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 5 — Mamãe e Bebê
+## Post 4 — Mamãe e Bebê
 
 **Canal recomendado:** Mamãe e Bebê
 
@@ -147,14 +117,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
 ```txt
 🍼 Oferta para Mamãe e Bebê
 
-Kit 5 Camisetas Regata Bebê Menino Menina
+Bebê Reborn Girafinha Luxo
 
-💸 De: R$ 81,05
-🔥 Por: R$ 29,99
-🏷️ 63% OFF
+💸 De: R$ 399,71
+🔥 Por: R$ 135,90
+🏷️ 66% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/20urCxXjCF
+Ver oferta: https://s.shopee.com.br/80C4UEXSgc
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
@@ -162,7 +132,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 6 — Moda Feminina
+## Post 5 — Moda Feminina
 
 **Canal recomendado:** Moda Feminina
 
@@ -185,6 +155,36 @@ Calças Jeans Femininas Plus Size Cintura Alta Até o Umbigo Lycra
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/4LIlaWsXD1
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 6 — Celulares e Tecnologia
+
+**Canal recomendado:** Celulares e Tecnologia
+
+**Horário sugerido:** 19:00 - 21:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
+
+**Texto pronto:**
+
+```txt
+📱 Oferta para Celulares e Tecnologia
+
+Carregador Portátil MagSafe
+
+💸 De: R$ 99,63
+🔥 Por: R$ 26,90
+🏷️ 73% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/1qbQoIa0oq
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

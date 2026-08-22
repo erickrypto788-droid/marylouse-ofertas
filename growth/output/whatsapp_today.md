@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 22/08/2026 18:52
+Gerado em: 22/08/2026 19:21
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
 ```txt
 📱 Oferta para Celulares e Tecnologia
 
-Smartphone Xiaomi 15t 5g 12+12gb Ram + 512gb, Cinza
+Leitor De Cartão Usb 3.0 Adaptador Micro Sd/sdxc 5gbps Envio Imediato
 
-💸 De: R$ 5.690,00
-🔥 Por: R$ 4.039,90
-🏷️ 29% OFF
-🛒 Loja: Mercado Livre
+💸 De: R$ 69,19
+🔥 Por: R$ 17,99
+🏷️ 74% OFF
+🛒 Loja: Shopee
 
-Ver oferta: https://www.mercadolivre.com.br/p/MLB59103594?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+Ver oferta: https://s.shopee.com.br/qit5UpbuO
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

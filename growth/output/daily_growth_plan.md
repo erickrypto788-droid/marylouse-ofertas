@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 22/08/2026 18:52
+Gerado em: 22/08/2026 19:21
 
 ## Categorias prioritárias
 
 - 🍼 **Mãe e Bebê**: 16 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🐶 **Pet**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
+- 💻 **Informática**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 📚 **Papelaria**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 - 👟 **Calçados**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 💻 **Informática**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 👜 **Bolsas**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
-- ❤️ **Saúde**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 🏋️ **Esportes**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
+- 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 
 ## Top ofertas para destacar
 
@@ -59,33 +59,33 @@ Gerado em: 22/08/2026 18:52
    - Desconto: 50% OFF
    - Link: https://s.shopee.com.br/5fo9RSsb6D
 
-7. **Alimento Royal Canin Hair & Skin 3kg Ração Gato**
+7. **SSD SATA III de Alta Velocidade**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 74,99
+   - Desconto: 48% OFF
+   - Link: https://s.shopee.com.br/AAGZSvvWVO
+
+8. **Alimento Royal Canin Hair & Skin 3kg Ração Gato**
    - Categoria: Pet
    - Loja: Mercado Livre
    - Preço: R$ 264,71
    - Desconto: 34% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB28523781?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-8. **Controlador Sem Fio Com Vibração Bluetooth One Game Ones XBOX Control…**
+9. **Controlador Sem Fio Com Vibração Bluetooth One Game Ones XBOX Control…**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 233,80
    - Desconto: 33% OFF
    - Link: https://s.shopee.com.br/9zx88Zm97j
 
-9. **Aplique Finalizador de Laço e Agenda KIT 100 UN (5 Modelos) Passante…**
-   - Categoria: Pet
+10. **Leitor De Cartão Usb 3.0 Adaptador Micro Sd/sdxc 5gbps Envio Imediato**
+   - Categoria: Celulares
    - Loja: Shopee
-   - Preço: R$ 19,90
-   - Desconto: 53% OFF
-   - Link: https://s.shopee.com.br/4fvcqiR0RN
-
-10. **Caneta Delineadora Carimbo Ponta Dupla | Delineado Gatinho Perfeito e…**
-   - Categoria: Pet
-   - Loja: Shopee
-   - Preço: R$ 42,90
-   - Desconto: 57% OFF
-   - Link: https://s.shopee.com.br/5VUiZx9BrR
+   - Preço: R$ 17,99
+   - Desconto: 74% OFF
+   - Link: https://s.shopee.com.br/qit5UpbuO
 
 ## Ações gratuitas recomendadas
 

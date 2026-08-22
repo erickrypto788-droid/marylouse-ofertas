@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 22/08/2026 03:11
+Gerado em: 22/08/2026 03:21
 
 ## Como usar
 
@@ -72,7 +72,37 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 3 — Ofertas Pet
+## Post 3 — Moda Feminina
+
+**Canal recomendado:** Moda Feminina
+
+**Horário sugerido:** 12:00 - 14:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
+
+**Texto pronto:**
+
+```txt
+👗 Oferta para Moda Feminina
+
+Vestido Longo Feminino Midi Frente Unica Costa Nua de Festa Casamento…
+
+💸 De: R$ 78,92
+🔥 Por: R$ 29,99
+🏷️ 62% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/7KwLlVNlmc
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 4 — Ofertas Pet
 
 **Canal recomendado:** Ofertas Pet
 
@@ -102,7 +132,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Moda e Calçados
+## Post 5 — Moda e Calçados
 
 **Canal recomendado:** Moda e Calçados
 
@@ -132,7 +162,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 5 — Mamãe e Bebê
+## Post 6 — Mamãe e Bebê
 
 **Canal recomendado:** Mamãe e Bebê
 
@@ -155,36 +185,6 @@ Capa de Bebe Conforto Bebê + Capota Solar + Jogo Protetor de Cinto Se…
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/6q05y2WQaG
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 6 — Saúde
-
-**Canal recomendado:** Saúde e Bem-estar
-
-**Horário sugerido:** 09:00 - 11:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/saude.png
-
-**Texto pronto:**
-
-```txt
-❤️ Oferta para Saúde
-
-Garrafa Térmica Termometro Digital 1L Café Chá Nórdica Com Cabo Madei…
-
-💸 De: R$ 109,63
-🔥 Por: R$ 44,95
-🏷️ 59% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/2BEGLLGfiw
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

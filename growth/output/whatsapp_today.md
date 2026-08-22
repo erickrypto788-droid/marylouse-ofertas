@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 22/08/2026 06:03
+Gerado em: 22/08/2026 06:19
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
 ```txt
 👟 Oferta para Moda e Calçados
 
-Tênis Infantil Calce Fácil Feminino
+Botina Bota Segurança Couro Legitimo Com Biqueira Elastico Com CA
 
-💸 De: R$ 69,17
-🔥 Por: R$ 24,90
-🏷️ 64% OFF
+💸 De: R$ 99,72
+🔥 Por: R$ 38,89
+🏷️ 61% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/4AzJGN93ZS
+Ver oferta: https://s.shopee.com.br/3qMSX9Xb8N
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

@@ -1,6 +1,6 @@
 # Pinterest Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 22/08/2026 12:05
+Gerado em: 22/08/2026 12:21
 
 ## Como usar
 
@@ -126,27 +126,27 @@ Categoria com 6 oferta(s) e boa intenção de compra.
 
 ---
 
-## Pin 5 — Beleza
+## Pin 5 — Pet
 
 **Tipo:** produto_direto
 
-**Board sugerido:** Beleza e Cuidados
+**Board sugerido:** Ofertas Pet
 
 **Imagem para upload no Pinterest:**
 
-https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
+https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
 
 **Título:**
 
-87% OFF: Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler…
+71% OFF: Whey 900g Proteina Suplemento Músculo Recuperação Aminoácidos
 
 **Descrição:**
 
-Oferta destaque em Beleza encontrada pela MaryLouse Ofertas. Preço: R$ 37,79. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Oferta destaque em Pet encontrada pela MaryLouse Ofertas. Preço: R$ 39,49. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
-https://s.shopee.com.br/2LXf0t97Oy
+https://s.shopee.com.br/6VNGdM5a4R
 
 **Por que postar:**
 

@@ -1,12 +1,12 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 22/08/2026 20:43
+Gerado em: 22/08/2026 21:03
 
 ## Categorias prioritárias
 
-- 🐶 **Pet**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
-- 🍼 **Mãe e Bebê**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 🐶 **Pet**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 💻 **Informática**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 🍼 **Mãe e Bebê**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 📦 **Outros**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 📚 **Papelaria**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 - 👟 **Calçados**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
@@ -80,12 +80,12 @@ Gerado em: 22/08/2026 20:43
    - Desconto: 33% OFF
    - Link: https://s.shopee.com.br/9zx88Zm97j
 
-10. **Borrifador de Óleo Spray para Cozinha Vidro 200ml Vinagre Azeite Air…**
-   - Categoria: Casa e Cozinha
-   - Loja: Shopee
-   - Preço: R$ 16,97
-   - Desconto: 55% OFF
-   - Link: https://s.shopee.com.br/5VUiiBeYR5
+10. **Comedouro Dispenser De Ração Automático 8l Para Cães Gatos Cor Comedo…**
+   - Categoria: Pet
+   - Loja: Mercado Livre
+   - Preço: R$ 42,88
+   - Desconto: 29% OFF
+   - Link: https://www.mercadolivre.com.br/p/MLB76169813?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ## Ações gratuitas recomendadas
 

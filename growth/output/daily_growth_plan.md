@@ -1,15 +1,15 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 22/08/2026 04:53
+Gerado em: 22/08/2026 05:05
 
 ## Categorias prioritárias
 
 - 👕 **Moda Masculina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 - 📦 **Outros**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 🍼 **Mãe e Bebê**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 👗 **Moda Feminina**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 🐶 **Pet**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 📚 **Papelaria**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
-- 🍼 **Mãe e Bebê**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 👟 **Calçados**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 💻 **Informática**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - ❤️ **Saúde**: 4 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
@@ -59,33 +59,33 @@ Gerado em: 22/08/2026 04:53
    - Desconto: 46% OFF
    - Link: https://s.shopee.com.br/6AkOB0peZe
 
-7. **Gamesir T4 Nova Lite Controlador De Jogo Sem Fio Multiplataforma Efei…**
+7. **Rosa escova limpeza mamadeira kit para limpeza de mamadeira kit limpe…**
+   - Categoria: Mãe e Bebê
+   - Loja: Mercado Livre
+   - Preço: R$ 58,90
+   - Desconto: 69% OFF
+   - Link: https://www.mercadolivre.com.br/p/MLB75043056?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+8. **Gamesir T4 Nova Lite Controlador De Jogo Sem Fio Multiplataforma Efei…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 105,00
    - Desconto: 67% OFF
    - Link: https://s.shopee.com.br/20uqbsKrbb
 
-8. **Suporte Monitor 95cm Ergonômico Escritório Gamer**
+9. **Suporte Monitor 95cm Ergonômico Escritório Gamer**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 48,55
    - Desconto: 57% OFF
    - Link: https://s.shopee.com.br/5VUie4TRYQ
 
-9. **MousePad Grande Rosa**
+10. **MousePad Grande Rosa**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 20,90
    - Desconto: 50% OFF
    - Link: https://s.shopee.com.br/4VcBSEONpI
-
-10. **Garrafa Térmica Termometro Digital 1L Café Chá Nórdica Com Cabo Madei…**
-   - Categoria: Saúde
-   - Loja: Shopee
-   - Preço: R$ 44,95
-   - Desconto: 59% OFF
-   - Link: https://s.shopee.com.br/2BEGLLGfiw
 
 ## Ações gratuitas recomendadas
 

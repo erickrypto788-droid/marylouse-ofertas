@@ -1,91 +1,91 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 22/08/2026 17:04
+Gerado em: 22/08/2026 17:23
 
 ## Categorias prioritárias
 
 - 🍼 **Mãe e Bebê**: 17 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 🏋️ **Esportes**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 🐶 **Pet**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
+- 👟 **Calçados**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 💻 **Informática**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 🧸 **Brinquedos**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
+- 👜 **Bolsas**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 - ❤️ **Saúde**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
-- 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 💻 **Informática**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 🏋️ **Esportes**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
-- 📚 **Papelaria**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 
 ## Top ofertas para destacar
 
-1. **SUMIKKO 50 e 100 unidades Infantil Calça Fraldas Ajustável total max…**
+1. **Mochila CHL Bolsa Reforçada Notebook Impermeavel Material Premium Col…**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 39,99
+   - Desconto: 55% OFF
+   - Link: https://s.shopee.com.br/7KwMhCi1aB
+
+2. **Mochila Impermeável 45L Notebook 17**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 29,90
+   - Desconto: 57% OFF
+   - Link: https://s.shopee.com.br/AUtPjJ6sVf
+
+3. **SUMIKKO 50 e 100 unidades Infantil Calça Fraldas Ajustável total max…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 72,00
    - Desconto: 64% OFF
    - Link: https://s.shopee.com.br/30nNOzOszI
 
-2. **Whey 900g Proteina Suplemento Músculo Recuperação Aminoácidos**
+4. **Whey 900g Proteina Suplemento Músculo Recuperação Aminoácidos**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 39,49
    - Desconto: 71% OFF
    - Link: https://s.shopee.com.br/6VNGdM5a4R
 
-3. **Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler…**
+5. **Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler…**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 37,79
    - Desconto: 87% OFF
    - Link: https://s.shopee.com.br/2LXf0t97Oy
 
-4. **Panela de Pressão Panelux 4,5L Classic**
+6. **Panela de Pressão Panelux 4,5L Classic**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 57,90
    - Desconto: 50% OFF
    - Link: https://s.shopee.com.br/5fo9RSsb6D
 
-5. **Alimento Royal Canin Hair & Skin 3kg Ração Gato**
+7. **Alimento Royal Canin Hair & Skin 3kg Ração Gato**
    - Categoria: Pet
    - Loja: Mercado Livre
    - Preço: R$ 264,71
    - Desconto: 34% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB28523781?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-6. **Controlador Sem Fio Com Vibração Bluetooth One Game Ones XBOX Control…**
+8. **Controlador Sem Fio Com Vibração Bluetooth One Game Ones XBOX Control…**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 233,80
    - Desconto: 33% OFF
    - Link: https://s.shopee.com.br/9zx88Zm97j
 
-7. **Capa Impermeável Touch Celular - Suporte Bike Moto para Navegação**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 25,80
-   - Desconto: 32% OFF
-   - Link: https://s.shopee.com.br/5VUguw6ZGu
-
-8. **ROMANTIC CROWN Mochla de Viagem MascuIino e Feminina ImpermeaveI Refo…**
+9. **ROMANTIC CROWN Mochla de Viagem MascuIino e Feminina ImpermeaveI Refo…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 119,98
    - Desconto: 83% OFF
    - Link: https://s.shopee.com.br/6AkQVDYOI4
 
-9. **Kit 48 Carrinhos De Metal Fricção Brinquedo Menino Maleta Pista Prese…**
+10. **Kit 48 Carrinhos De Metal Fricção Brinquedo Menino Maleta Pista Prese…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 69,99
    - Desconto: 53% OFF
    - Link: https://s.shopee.com.br/7VFntJdpi1
-
-10. **Ninho Redutor de Berço Liso e Trocador Portátil Impermeável**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 44,99
-   - Desconto: 68% OFF
-   - Link: https://s.shopee.com.br/LmdUOIgYC
 
 ## Ações gratuitas recomendadas
 

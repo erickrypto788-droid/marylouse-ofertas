@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 22/08/2026 10:44
+Gerado em: 22/08/2026 11:21
 
 ## Como usar
 
@@ -117,14 +117,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
 ```txt
 🍼 Oferta para Mamãe e Bebê
 
-Rosa escova limpeza mamadeira kit para limpeza de mamadeira kit limpe…
+Kit 5 Camisetas Regata Bebê Menino Menina
 
-💸 De: R$ 190,00
-🔥 Por: R$ 58,90
-🏷️ 69% OFF
-🛒 Loja: Mercado Livre
+💸 De: R$ 81,05
+🔥 Por: R$ 29,99
+🏷️ 63% OFF
+🛒 Loja: Shopee
 
-Ver oferta: https://www.mercadolivre.com.br/p/MLB75043056?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+Ver oferta: https://s.shopee.com.br/20urCxXjCF
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

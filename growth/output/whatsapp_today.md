@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 22/08/2026 08:09
+Gerado em: 22/08/2026 08:26
 
 ## Como usar
 
@@ -147,14 +147,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
 ```txt
 🐶 Oferta para Ofertas Pet
 
-Alimento Royal Canin Hair & Skin 3kg Ração Gato
+Fone TWS Pro 4 para Dormir
 
-💸 De: R$ 399,90
-🔥 Por: R$ 264,71
-🏷️ 34% OFF
-🛒 Loja: Mercado Livre
+💸 De: R$ 29,78
+🔥 Por: R$ 10,72
+🏷️ 64% OFF
+🛒 Loja: Shopee
 
-Ver oferta: https://www.mercadolivre.com.br/p/MLB28523781?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+Ver oferta: https://s.shopee.com.br/9zx60jWcqz
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

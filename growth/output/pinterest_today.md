@@ -1,6 +1,6 @@
 # Pinterest Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 22/08/2026 09:08
+Gerado em: 22/08/2026 09:21
 
 ## Como usar
 
@@ -58,7 +58,7 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
 
 **Descrição:**
 
-Veja ofertas de Casa e Cozinha selecionadas pela MaryLouse Ofertas. Destaque de hoje: Balança Digital de Precisão 10kg. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Veja ofertas de Casa e Cozinha selecionadas pela MaryLouse Ofertas. Destaque de hoje: Panela de Pressão Panelux 4,5L Classic. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
@@ -66,7 +66,7 @@ https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=pinter
 
 **Por que postar:**
 
-Categoria com 2 oferta(s) e boa intenção de compra.
+Categoria com 3 oferta(s) e boa intenção de compra.
 
 ---
 
@@ -126,27 +126,27 @@ Categoria com 6 oferta(s) e boa intenção de compra.
 
 ---
 
-## Pin 5 — Beleza
+## Pin 5 — Casa e Cozinha
 
 **Tipo:** produto_direto
 
-**Board sugerido:** Beleza e Cuidados
+**Board sugerido:** Achadinhos de Casa
 
 **Imagem para upload no Pinterest:**
 
-https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
+https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
 
 **Título:**
 
-50% OFF: Kit 4 Perfumes Femininos Árabes 100ml
+50% OFF: Panela de Pressão Panelux 4,5L Classic
 
 **Descrição:**
 
-Oferta destaque em Beleza encontrada pela MaryLouse Ofertas. Preço: R$ 34,49. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Oferta destaque em Casa e Cozinha encontrada pela MaryLouse Ofertas. Preço: R$ 57,90. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
-https://s.shopee.com.br/5ArreMrNkT
+https://s.shopee.com.br/5fo9RSsb6D
 
 **Por que postar:**
 

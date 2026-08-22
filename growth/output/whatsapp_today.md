@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 22/08/2026 09:08
+Gerado em: 22/08/2026 09:21
 
 ## Como usar
 
@@ -12,7 +12,37 @@ Gerado em: 22/08/2026 09:08
 
 ---
 
-## Post 1 — Celulares e Tecnologia
+## Post 1 — Casa e Cozinha
+
+**Canal recomendado:** Casa e Cozinha
+
+**Horário sugerido:** 18:00 - 20:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
+
+**Texto pronto:**
+
+```txt
+🍳 Oferta para Casa e Cozinha
+
+Panela de Pressão Panelux 4,5L Classic
+
+💸 De: R$ 115,80
+🔥 Por: R$ 57,90
+🏷️ 50% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/5fo9RSsb6D
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 2 — Celulares e Tecnologia
 
 **Canal recomendado:** Celulares e Tecnologia
 
@@ -42,7 +72,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 2 — Beleza e Cuidados
+## Post 3 — Beleza e Cuidados
 
 **Canal recomendado:** Beleza e Cuidados
 
@@ -72,7 +102,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 3 — Mamãe e Bebê
+## Post 4 — Mamãe e Bebê
 
 **Canal recomendado:** Mamãe e Bebê
 
@@ -102,7 +132,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Moda Feminina
+## Post 5 — Moda Feminina
 
 **Canal recomendado:** Moda Feminina
 
@@ -132,7 +162,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 5 — Ofertas Pet
+## Post 6 — Ofertas Pet
 
 **Canal recomendado:** Ofertas Pet
 
@@ -155,36 +185,6 @@ Fone TWS Pro 4 para Dormir
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/9zx60jWcqz
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 6 — Moda e Calçados
-
-**Canal recomendado:** Moda e Calçados
-
-**Horário sugerido:** 12:00 - 15:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
-
-**Texto pronto:**
-
-```txt
-👟 Oferta para Moda e Calçados
-
-Tênis SNEEKS Feminino
-
-💸 De: R$ 99,97
-🔥 Por: R$ 39,99
-🏷️ 60% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/BTCl7QZUm
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

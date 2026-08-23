@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 23/08/2026 01:19
+Gerado em: 23/08/2026 02:19
 
 ## Como usar
 
@@ -104,7 +104,7 @@ Gerado em: 23/08/2026 01:19
 
 - Leitor De Cartão Usb 3.0 Adaptador Micro Sd/sdxc 5gbps Envio Imediato
 - Carregador Portátil MagSafe
-- Gamesir T4 Nova Lite Controlador De Jogo Sem Fio Multiplataforma Efei…
+- Smartphone Xiaomi 15t 5g 12+12gb Ram + 512gb, Cinza
 
 ---
 
@@ -127,7 +127,7 @@ Gerado em: 23/08/2026 01:19
 **Produtos usados:**
 
 - Azeite Oliva Extra Virgem Italiano
-- Kit Pele de Porcelana Kokeshi
 - Creme Dental Ozonizado Philozon 90g
+- Absorvente Mulher Ativa - Kit 80 Pacotes
 
 ---

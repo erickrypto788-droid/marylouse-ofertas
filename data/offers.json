@@ -1,5 +1,22 @@
 [
   {
+    "id": "02906701e6fbb33e6c",
+    "title": "Prancha Esteira Ergometrica Kikos E600ix Preto",
+    "raw_title": "Prancha Esteira Ergometrica Kikos E600ix Preto",
+    "description": "🔥 14% OFF — Oferta encontrada! 📌 Prancha Esteira Ergometrica Kikos E600ix Preto Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Esportes e Lazer",
+    "old_price": "R$ 222,43",
+    "price": "R$ 191,28",
+    "discount_percent": 14.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_947050-MLA111078716610_052026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70114350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "23/08/2026 06:01",
+    "created_at_iso": "2026-08-23T06:01:36",
+    "created_ts": 1787464896
+  },
+  {
     "id": "556e1cd08c89d9d931",
     "title": "Micro-ondas Philco 25L Função Tira Odor PM27",
     "raw_title": "Micro-ondas Philco 25L Função Tira Odor PM27",
@@ -2589,44 +2606,6 @@
     "niche": {
       "key": "shopee_sapatos_masculinos",
       "name": "Sapatos Masculinos"
-    }
-  },
-  {
-    "id": "3e61b7359b1f89ec46",
-    "title": "Mini Impressora Niimbot B1 etiqueta Bluetooth Cor Prateado impressora…",
-    "raw_title": "Mini Impressora Niimbot B1 etiqueta Bluetooth Cor Prateado impressora etiquetas adesivas",
-    "description": "🔥 Oferta encontrada! 📌 Mini Impressora Niimbot B1 etiqueta Bluetooth Cor Prateado impressora etiquetas adesivas Confira os detalhes e aproveite enquanto...",
-    "marketplace": "Mercado Livre",
-    "category": "Informática",
-    "old_price": "",
-    "price": "R$ 233,00",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_656520-MLA93232832197_092025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "22/08/2026 06:01",
-    "created_at_iso": "2026-08-22T06:01:29",
-    "created_ts": 1787378489
-  },
-  {
-    "id": "ca931ecc85a43fb680",
-    "title": "Calça Jeans Plus Size Feminina Jeans Premium com Elastano. 46 do 56",
-    "raw_title": "Calça Jeans Plus Size Feminina Jeans Premium com Elastano. 46 do 56",
-    "description": "🔥 50% OFF — Oferta encontrada! 📌 Calça Jeans Plus Size Feminina Jeans Premium com Elastano. 46 do 56 Confira os detalhes e aproveite enquanto a oferta e...",
-    "marketplace": "Shopee",
-    "category": "Roupas Plus Size",
-    "old_price": "R$ 105,00",
-    "price": "R$ 52,50",
-    "discount_percent": 50.0,
-    "rating": 4.7,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lz-mlf7v710qy9w3e",
-    "affiliate_url": "https://s.shopee.com.br/4VcBmps2PT",
-    "created_at": "22/08/2026 05:19",
-    "created_at_iso": "2026-08-22T05:19:58",
-    "created_ts": 1787375998,
-    "niche": {
-      "key": "shopee_roupas_plus_size",
-      "name": "Roupas Plus Size"
     }
   }
 ]

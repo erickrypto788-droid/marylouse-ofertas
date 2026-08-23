@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 23/08/2026 14:43
+Gerado em: 23/08/2026 15:03
 
 ## Categorias prioritárias
 
-- 💻 **Informática**: 15 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 🍼 **Mãe e Bebê**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 💻 **Informática**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 🍼 **Mãe e Bebê**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 🐶 **Pet**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 📱 **Celulares**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 👜 **Bolsas**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 - 👗 **Moda Feminina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 💄 **Beleza**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- ❤️ **Saúde**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 🏋️ **Esportes**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 🐶 **Pet**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
+- ❤️ **Saúde**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 
 ## Top ofertas para destacar
 
@@ -73,19 +73,19 @@ Gerado em: 23/08/2026 14:43
    - Desconto: 64% OFF
    - Link: https://s.shopee.com.br/30nNOzOszI
 
-9. **Mochila Notebook Resistente**
+9. **Comedouro Elevado Duplo Ração Gato Porcelana Acrilico 190ml Porta Rac…**
+   - Categoria: Pet
+   - Loja: Mercado Livre
+   - Preço: R$ 49,90
+   - Desconto: 37% OFF
+   - Link: https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+10. **Mochila Notebook Resistente**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 38,64
    - Desconto: 44% OFF
    - Link: https://s.shopee.com.br/9V0tnl3bcR
-
-10. **Toalha de Banho Fralda Soft com Capuz para Bebê**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 31,99
-   - Desconto: 47% OFF
-   - Link: https://s.shopee.com.br/7KwP9ea4Jy
 
 ## Ações gratuitas recomendadas
 

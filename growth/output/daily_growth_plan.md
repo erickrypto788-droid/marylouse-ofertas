@@ -1,11 +1,11 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 23/08/2026 06:21
+Gerado em: 23/08/2026 07:03
 
 ## Categorias prioritárias
 
+- 💄 **Beleza**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 👟 **Calçados**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 💄 **Beleza**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🏋️ **Esportes**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 🐶 **Pet**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 📱 **Celulares**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
@@ -80,12 +80,12 @@ Gerado em: 23/08/2026 06:21
    - Desconto: 50% OFF
    - Link: https://s.shopee.com.br/5fo9RSsb6D
 
-10. **SSD SATA III de Alta Velocidade**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 74,99
-   - Desconto: 48% OFF
-   - Link: https://s.shopee.com.br/AAGZSvvWVO
+10. **Barbeador Costas Masculino Dobrável**
+   - Categoria: Beleza
+   - Loja: Mercado Livre
+   - Preço: R$ 249,00
+   - Desconto: 33% OFF
+   - Link: https://www.mercadolivre.com.br/p/MLB51434487?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ## Ações gratuitas recomendadas
 

@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 23/08/2026 19:09
+Gerado em: 23/08/2026 19:21
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
 ```txt
 👟 Oferta para Moda e Calçados
 
-Tênis Infantil LED Homem-Aranha
+Bota Caterpillar Trilha Coturno Adventure Envio Rápido
 
-💸 De: R$ 199,90
-🔥 Por: R$ 79,96
+💸 De: R$ 174,97
+🔥 Por: R$ 69,99
 🏷️ 60% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/9fKJfT8RZ6
+Ver oferta: https://s.shopee.com.br/3B6qixeHKO
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

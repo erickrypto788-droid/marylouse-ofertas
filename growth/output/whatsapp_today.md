@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 23/08/2026 18:03
+Gerado em: 23/08/2026 18:21
 
 ## Como usar
 
@@ -147,14 +147,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Blusa Feminina Moda Social
+Conjunto Feminino cropped e short Verão Linho Duna Premium
 
-💸 De: R$ 89,66
-🔥 Por: R$ 28,69
-🏷️ 68% OFF
+💸 De: R$ 100,00
+🔥 Por: R$ 39,00
+🏷️ 61% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/60R0hdRKoK
+Ver oferta: https://s.shopee.com.br/3qMW7eZaDC
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

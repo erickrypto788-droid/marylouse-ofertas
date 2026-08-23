@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 23/08/2026 21:04
+Gerado em: 23/08/2026 21:18
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
 ```txt
 👟 Oferta para Moda e Calçados
 
-Bota Caterpillar Trilha Coturno Adventure Envio Rápido
+Bota Botina Segurança Couro Legítimo CA Aprovado Bota EPI Antiderrapa…
 
-💸 De: R$ 174,97
-🔥 Por: R$ 69,99
+💸 De: R$ 99,90
+🔥 Por: R$ 39,96
 🏷️ 60% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/3B6qixeHKO
+Ver oferta: https://s.shopee.com.br/9fKKb9Fu4o
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

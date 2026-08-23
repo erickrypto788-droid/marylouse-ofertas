@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 23/08/2026 00:21
+Gerado em: 23/08/2026 01:08
 
 ## Como usar
 
@@ -126,8 +126,8 @@ Gerado em: 23/08/2026 00:21
 
 **Produtos usados:**
 
+- Azeite Oliva Extra Virgem Italiano
 - Kit Pele de Porcelana Kokeshi
-- Absorvente Mulher Ativa - Kit 80 Pacotes
-- Creme Dental Bioxtra 50g
+- Creme Dental Ozonizado Philozon 90g
 
 ---

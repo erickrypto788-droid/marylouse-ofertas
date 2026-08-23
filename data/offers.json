@@ -1,5 +1,56 @@
 [
   {
+    "id": "81d337521cb0f63243",
+    "title": "Condicionador Infantil 250ml Buba Care",
+    "raw_title": "Condicionador Infantil 250ml Buba Care",
+    "description": "🔥 Oferta encontrada! 📌 Condicionador Infantil 250ml Buba Care Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Supermercados",
+    "old_price": "",
+    "price": "R$ 41,50",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_616875-MLA99832702501_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29684586?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "23/08/2026 19:07",
+    "created_at_iso": "2026-08-23T19:07:59",
+    "created_ts": 1787512079
+  },
+  {
+    "id": "c8b61e4b4219154888",
+    "title": "Arroz Motigome 1kg",
+    "raw_title": "Arroz Motigome 1kg",
+    "description": "🔥 20% OFF — Oferta encontrada! 📌 Arroz Motigome 1kg Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Supermercados",
+    "old_price": "R$ 45,69",
+    "price": "R$ 36,40",
+    "discount_percent": 20.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_760439-MLA79452577631_092024-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21407698?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "23/08/2026 19:06",
+    "created_at_iso": "2026-08-23T19:06:54",
+    "created_ts": 1787512014
+  },
+  {
+    "id": "7faaf80e53d147d571",
+    "title": "Azeite Oliva Extra Virgem Português Vila Oliva 500ml (3 Un)",
+    "raw_title": "Azeite Oliva Extra Virgem Português Vila Oliva 500ml (3 Un)",
+    "description": "🔥 32% OFF — Oferta encontrada! 📌 Azeite Oliva Extra Virgem Português Vila Oliva 500ml (3 Un) Confira os detalhes e aproveite enquanto a oferta estiver d...",
+    "marketplace": "Mercado Livre",
+    "category": "Supermercados",
+    "old_price": "R$ 200,00",
+    "price": "R$ 136,00",
+    "discount_percent": 32.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_646362-MLA99361615322_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB34684493?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "23/08/2026 19:05",
+    "created_at_iso": "2026-08-23T19:05:49",
+    "created_ts": 1787511949
+  },
+  {
     "id": "a78d014cd6467cab55",
     "title": "Conjunto Feminino cropped e short Verão Linho Duna Premium",
     "raw_title": "Conjunto Feminino cropped e short Verão Linho Duna Premium",
@@ -2611,26 +2662,5 @@
     "created_at": "22/08/2026 19:15",
     "created_at_iso": "2026-08-22T19:15:40",
     "created_ts": 1787426140
-  },
-  {
-    "id": "ec566cf0da41fc246c",
-    "title": "Placas Bruxismo Moldeira de Silicone Molde Caseiro Aparelho Protetor…",
-    "raw_title": "Placas Bruxismo Moldeira de Silicone Molde Caseiro Aparelho Protetor Inferior e Superior + ESTOJO",
-    "description": "🔥 11% OFF — Oferta encontrada! 📌 Placas Bruxismo Moldeira de Silicone Molde Caseiro Aparelho Protetor Inferior e Superior + ESTOJO Confira os detalhes e...",
-    "marketplace": "Shopee",
-    "category": "Papelaria",
-    "old_price": "R$ 21,24",
-    "price": "R$ 18,90",
-    "discount_percent": 11.0,
-    "rating": 4.6,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7rene-m8ihmls4nidcd6",
-    "affiliate_url": "https://s.shopee.com.br/2gAYT2Pt8H",
-    "created_at": "22/08/2026 18:20",
-    "created_at_iso": "2026-08-22T18:20:59",
-    "created_ts": 1787422859,
-    "niche": {
-      "key": "shopee_papelaria",
-      "name": "Papelaria"
-    }
   }
 ]

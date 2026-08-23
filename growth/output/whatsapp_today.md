@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 23/08/2026 06:03
+Gerado em: 23/08/2026 06:21
 
 ## Como usar
 
@@ -87,14 +87,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
 ```txt
 💄 Oferta para Beleza e Cuidados
 
-Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler…
+Perfume Attracione Feminino
 
-💸 De: R$ 290,69
-🔥 Por: R$ 37,79
-🏷️ 87% OFF
+💸 De: R$ 168,97
+🔥 Por: R$ 49,00
+🏷️ 71% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/2LXf0t97Oy
+Ver oferta: https://s.shopee.com.br/70JYQR7c5u
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

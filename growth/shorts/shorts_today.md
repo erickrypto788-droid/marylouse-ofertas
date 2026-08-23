@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 23/08/2026 06:03
+Gerado em: 23/08/2026 06:21
 
 ## Como usar
 
@@ -78,9 +78,9 @@ Gerado em: 23/08/2026 06:03
 
 **Produtos usados:**
 
+- Perfume Attracione Feminino
+- Attracione Men - Perfume com Feromônios
 - Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler…
-- Prancha Triondas Modelador de Cachos
-- Kit Dupla Renovadores Faciais Kokeshi Pele Porcelana Olhos Gueixa
 
 ---
 

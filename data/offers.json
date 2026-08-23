@@ -1,5 +1,68 @@
 [
   {
+    "id": "7b2e3e406bdf59028c",
+    "title": "Sandália Feminina Conforto Premium Com Detalhe Dourado Elegante | Cas…",
+    "raw_title": "Sandália Feminina Conforto Premium Com Detalhe Dourado Elegante | Casual E Sofisticada GABI",
+    "description": "🔥 63% OFF — Oferta encontrada! 📌 Sandália Feminina Conforto Premium Com Detalhe Dourado Elegante | Casual E Sofisticada GABI Confira os detalhes e aprov...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Femininos",
+    "old_price": "R$ 121,30",
+    "price": "R$ 44,88",
+    "discount_percent": 63.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mibvkye9k16q87",
+    "affiliate_url": "https://s.shopee.com.br/4LImz3PpEW",
+    "created_at": "23/08/2026 02:17",
+    "created_at_iso": "2026-08-23T02:17:54",
+    "created_ts": 1787451474,
+    "niche": {
+      "key": "shopee_sapatos_femininos",
+      "name": "Sapatos Femininos"
+    }
+  },
+  {
+    "id": "319d2da8be9fc2c500",
+    "title": "Sandália Feminina Asa Delta Conforto",
+    "raw_title": "Sandália Feminina Asa Delta Rasteira Conforto Medalhas Douradas com Fivela Reveillon",
+    "description": "✨ Sandália Perfeita para o Verão e Reveillon! Conforto e estilo em uma só peça! Essa rasteirinha Asa Delta com medalhas douradas é ideal para você brilh...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Femininos",
+    "old_price": "R$ 110,83",
+    "price": "R$ 39,90",
+    "discount_percent": 64.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mefxl407v282c1",
+    "affiliate_url": "https://s.shopee.com.br/8KovkPJKPz",
+    "created_at": "23/08/2026 02:16",
+    "created_at_iso": "2026-08-23T02:16:50",
+    "created_ts": 1787451410,
+    "niche": {
+      "key": "shopee_sapatos_femininos",
+      "name": "Sapatos Femininos"
+    }
+  },
+  {
+    "id": "527804388a44334d6e",
+    "title": "Sandália Papete Ortopédica",
+    "raw_title": "Sandália Papete Feminina Ortopédica com Elástico Confortável Moderna com Palmilha Massageadora",
+    "description": "PÉS NAS NUVENS! ☁️✨ Conforto e estilo se encontram nesta Sandália Papete Feminina Ortopédica! Com palmilha massageadora, ela é perfeita para o dia a dia...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Femininos",
+    "old_price": "R$ 89,90",
+    "price": "R$ 35,06",
+    "discount_percent": 61.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgxpzsodtg5g5e",
+    "affiliate_url": "https://s.shopee.com.br/3qMWO8NOk8",
+    "created_at": "23/08/2026 02:15",
+    "created_at_iso": "2026-08-23T02:15:40",
+    "created_ts": 1787451340,
+    "niche": {
+      "key": "shopee_sapatos_femininos",
+      "name": "Sapatos Femininos"
+    }
+  },
+  {
     "id": "c4da38a5da1f32114a",
     "title": "Babuche Adulto Masculino E Feminino Personalizado",
     "raw_title": "Babuche Adulto Masculino E Feminino Personalizado",
@@ -2680,132 +2743,6 @@
     "niche": {
       "key": "shopee_jogos_consoles",
       "name": "Jogos e Consoles"
-    }
-  },
-  {
-    "id": "349f5c1ebdd59339f3",
-    "title": "Controlador Sem Fio Com Vibração Bluetooth One Game Ones XBOX Control…",
-    "raw_title": "Controlador Sem Fio Com Vibração Bluetooth One Game Ones XBOX Controller",
-    "description": "🔥 33% OFF — Oferta encontrada! 📌 Controlador Sem Fio Com Vibração Bluetooth One Game Ones XBOX Controller Confira os detalhes e aproveite enquanto a ofe...",
-    "marketplace": "Shopee",
-    "category": "Jogos e Consoles",
-    "old_price": "R$ 348,96",
-    "price": "R$ 233,80",
-    "discount_percent": 33.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-8262m-mjpnxwsvipdv4f",
-    "affiliate_url": "https://s.shopee.com.br/9zx88Zm97j",
-    "created_at": "22/08/2026 02:17",
-    "created_at_iso": "2026-08-22T02:17:41",
-    "created_ts": 1787365061,
-    "niche": {
-      "key": "shopee_jogos_consoles",
-      "name": "Jogos e Consoles"
-    }
-  },
-  {
-    "id": "7266d734613ac6189b",
-    "title": "Gamesir T4 Nova Lite Controlador De Jogo Sem Fio Multiplataforma Efei…",
-    "raw_title": "Gamesir T4 Nova Lite Controlador De Jogo Sem Fio Multiplataforma Efeito Hall PC Laptop Steam Android IOS Nintendo Switch",
-    "description": "🔥 67% OFF — Oferta encontrada! 📌 Gamesir T4 Nova Lite Controlador De Jogo Sem Fio Multiplataforma Efeito Hall PC Laptop Steam Android IOS Nintendo Switc...",
-    "marketplace": "Shopee",
-    "category": "Jogos e Consoles",
-    "old_price": "R$ 318,18",
-    "price": "R$ 105,00",
-    "discount_percent": 67.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-820n0-mnpb1qlmb1tu96",
-    "affiliate_url": "https://s.shopee.com.br/20uqbsKrbb",
-    "created_at": "22/08/2026 02:16",
-    "created_at_iso": "2026-08-22T02:16:37",
-    "created_ts": 1787364997,
-    "niche": {
-      "key": "shopee_jogos_consoles",
-      "name": "Jogos e Consoles"
-    }
-  },
-  {
-    "id": "93e5de6ee7da7592d7",
-    "title": "Console Portátil R36S + de 15.000 Jogos Vídeo Game 64g Linux Tela IPS…",
-    "raw_title": "Console Portátil R36S + de 15.000 Jogos Vídeo Game 64g Linux Tela IPS 3.5 Polegadas",
-    "description": "🔥 63% OFF — Oferta encontrada! 📌 Console Portátil R36S + de 15.000 Jogos Vídeo Game 64g Linux Tela IPS 3.5 Polegadas Confira os detalhes e aproveite enq...",
-    "marketplace": "Shopee",
-    "category": "Jogos e Consoles",
-    "old_price": "R$ 502,68",
-    "price": "R$ 185,99",
-    "discount_percent": 63.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7ra3y-m56askdr4w0n04",
-    "affiliate_url": "https://s.shopee.com.br/4fvbmmAiDO",
-    "created_at": "22/08/2026 02:15",
-    "created_at_iso": "2026-08-22T02:15:33",
-    "created_ts": 1787364933,
-    "niche": {
-      "key": "shopee_jogos_consoles",
-      "name": "Jogos e Consoles"
-    }
-  },
-  {
-    "id": "2f8c2d988df3766842",
-    "title": "Creme de Avelã Com Cacau Prinknut 1Kg Chocolate P/ Pão Bolo Confeitar…",
-    "raw_title": "Creme de Avelã Com Cacau Prinknut 1Kg Chocolate P/ Pão Bolo Confeitaria",
-    "description": "🔥 36% OFF — Oferta encontrada! 📌 Creme de Avelã Com Cacau Prinknut 1Kg Chocolate P/ Pão Bolo Confeitaria Confira os detalhes e aproveite enquanto a ofer...",
-    "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
-    "old_price": "R$ 64,36",
-    "price": "R$ 41,19",
-    "discount_percent": 36.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m7-ms4j8cn5lm2u8c",
-    "affiliate_url": "https://s.shopee.com.br/9pdhs9JvvU",
-    "created_at": "22/08/2026 01:20",
-    "created_at_iso": "2026-08-22T01:20:35",
-    "created_ts": 1787361635,
-    "niche": {
-      "key": "shopee_bebidas_alimentos",
-      "name": "Bebidas e Alimentos"
-    }
-  },
-  {
-    "id": "9c70a4e51b8d921f94",
-    "title": "Substrato Pronto FERTBAC 10L",
-    "raw_title": "Substrato Pronto 10L | Turfa + Perlita + Casca de Arroz Carbonizada | FERTBAC",
-    "description": "Suas plantas merecem o melhor! 🌱 Substrato Pronto 10L FERTBAC: a mistura perfeita para o crescimento saudável das suas plantas! 🌿 Com Turfa, Perlita e C...",
-    "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
-    "old_price": "R$ 34,89",
-    "price": "R$ 27,91",
-    "discount_percent": 20.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjyhig9lx2ipbb",
-    "affiliate_url": "https://s.shopee.com.br/gPSxIx5oG",
-    "created_at": "22/08/2026 01:19",
-    "created_at_iso": "2026-08-22T01:19:31",
-    "created_ts": 1787361571,
-    "niche": {
-      "key": "shopee_bebidas_alimentos",
-      "name": "Bebidas e Alimentos"
-    }
-  },
-  {
-    "id": "020c76321abe747c3e",
-    "title": "Kit Pele de Porcelana Kokeshi",
-    "raw_title": "Kit Pele de Porcelana com Sérum de Arroz e Olhos de Gueixa Kokeshi",
-    "description": "Pele de porcelana dos sonhos? ✨ Chegou o Kit Pele de Porcelana com Sérum de Arroz e Olhos de Gueixa Kokeshi! Tenha uma pele impecável e radiante com a c...",
-    "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
-    "old_price": "R$ 74,91",
-    "price": "R$ 59,18",
-    "discount_percent": 21.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lm-mq7yufbjj2tec9",
-    "affiliate_url": "https://s.shopee.com.br/3LQE8CmwP2",
-    "created_at": "22/08/2026 01:18",
-    "created_at_iso": "2026-08-22T01:18:25",
-    "created_ts": 1787361505,
-    "niche": {
-      "key": "shopee_bebidas_alimentos",
-      "name": "Bebidas e Alimentos"
     }
   }
 ]

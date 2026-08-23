@@ -1,5 +1,39 @@
 [
   {
+    "id": "d4a4b26f7c1eb18faa",
+    "title": "Babá Eletrônica Hellobaby Hb66pro",
+    "raw_title": "Babá Eletrônica Hellobaby Hb66pro Monitor Bebê 3.2 White",
+    "description": "Paz de espírito garantida! 👶💖 Monitore seu bebê com total segurança e tranquilidade. A Babá Eletrônica Hellobaby Hb66pro Monitor Bebê 3.2 White oferece...",
+    "marketplace": "Mercado Livre",
+    "category": "Mãe e Bebê",
+    "old_price": "",
+    "price": "R$ 386,56",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_802386-MLA99553119798_122025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51893724?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "23/08/2026 16:02",
+    "created_at_iso": "2026-08-23T16:02:47",
+    "created_ts": 1787500967
+  },
+  {
+    "id": "20cfc6b4a771967e64",
+    "title": "Tchauzinho, Fralda!",
+    "raw_title": "Tchauzinho, Fralda! - Melhoramentos",
+    "description": "Prepare-se para a liberdade! 🚽 O livro \"Tchauzinho, Fralda!\" da Melhoramentos é o guia perfeito para ajudar seu filho no processo de desfralde de forma...",
+    "marketplace": "Mercado Livre",
+    "category": "Mãe e Bebê",
+    "old_price": "",
+    "price": "R$ 49,09",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_921410-MLA113421271715_062026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB40540370?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "23/08/2026 16:01",
+    "created_at_iso": "2026-08-23T16:01:38",
+    "created_ts": 1787500898
+  },
+  {
     "id": "f8ea645af521e45fae",
     "title": "Cartão De Memória Original SD Ultra A1 Classe 10 256gb / 512gb / 32gb…",
     "raw_title": "Cartão De Memória Original SD Ultra A1 Classe 10 256gb / 512gb / 32gb / 64gb/ 128gb",
@@ -2597,27 +2631,6 @@
     "niche": {
       "key": "shopee_bolsas_femininas",
       "name": "Bolsas Femininas"
-    }
-  },
-  {
-    "id": "7ebf2ef866fff729b9",
-    "title": "Bomba de Leite Manual BPA Free",
-    "raw_title": "Bomba de tirar leite manual livre BPA acompanha bico de mamadeira Bombinha Tira Leite Materno",
-    "description": "Mães, ATENÇÃO! 🤱✨ Facilite a sua rotina com a Bomba de Tirar Leite Manual, livre de BPA e super prática! Vem com bico de mamadeira para ainda mais conve...",
-    "marketplace": "Shopee",
-    "category": "Mãe e Bebê",
-    "old_price": "R$ 41,97",
-    "price": "R$ 29,80",
-    "discount_percent": 29.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134201-820m1-mqxiurvwi1hg80",
-    "affiliate_url": "https://s.shopee.com.br/7KwNpFixhE",
-    "created_at": "22/08/2026 15:20",
-    "created_at_iso": "2026-08-22T15:20:08",
-    "created_ts": 1787412008,
-    "niche": {
-      "key": "shopee_mae_bebe",
-      "name": "Mãe e Bebê"
     }
   }
 ]

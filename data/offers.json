@@ -1,5 +1,22 @@
 [
   {
+    "id": "c73d6a7fece690c9e0",
+    "title": "Roteador Wifi AC 1200 2 Flex",
+    "raw_title": "Roteador Wifi Ac 1200 2 Flex",
+    "description": "⚡️ Chega de Wi-Fi lento! Turbine sua internet com o Roteador Wifi AC 1200 2 Flex! 🚀 Conexão ultrarrápida e estável para toda a casa. 📦 Frete grátis!",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "",
+    "price": "R$ 184,90",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_697321-MLA99502086258_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47353377?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "23/08/2026 10:01",
+    "created_at_iso": "2026-08-23T10:01:35",
+    "created_ts": 1787479295
+  },
+  {
     "id": "3695d4a43d63a83c4e",
     "title": "Organizador HotWheels 50 Carrinhos",
     "raw_title": "Organizador de Carrinhos HotWheels Porta 50 Carrinhos em Madeira MDF",
@@ -2626,26 +2643,5 @@
     "created_at": "22/08/2026 10:02",
     "created_at_iso": "2026-08-22T10:02:00",
     "created_ts": 1787392920
-  },
-  {
-    "id": "4aa7ac91dce477e0da",
-    "title": "Pipoqueira Elétrica Sem Óleo",
-    "raw_title": "PIPOQUEIRA ELÉTRICA 110v 220v 1200W Máquina de Pipoca Sem Óleo",
-    "description": "Pipoca perfeita e saudável? SIM! 🍿 Prepare suas pipocas sem usar uma gota de óleo com esta Pipoqueira Elétrica 1200W. Rápida, prática e bivolt (110v/220...",
-    "marketplace": "Shopee",
-    "category": "Eletrodomésticos",
-    "old_price": "R$ 122,50",
-    "price": "R$ 66,15",
-    "discount_percent": 46.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1ohhr1wboco7d",
-    "affiliate_url": "https://s.shopee.com.br/904bPafuL3",
-    "created_at": "22/08/2026 09:20",
-    "created_at_iso": "2026-08-22T09:20:13",
-    "created_ts": 1787390413,
-    "niche": {
-      "key": "shopee_eletrodomesticos",
-      "name": "Eletrodomésticos"
-    }
   }
 ]

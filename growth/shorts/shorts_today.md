@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 23/08/2026 11:04
+Gerado em: 23/08/2026 11:22
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 23/08/2026 11:04
 **Produtos usados:**
 
 - SUMIKKO 50 e 100 unidades Infantil Calça Fraldas Ajustável total max…
-- Ninho Redutor de Berço Liso e Trocador Portátil Impermeável
-- Bebê Reborn Girafinha Luxo
+- Toalha de Banho Fralda Soft com Capuz para Bebê
+- Berço Portátil Moisés Co-bed
 
 ---
 

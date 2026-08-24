@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 24/08/2026 19:48
+Gerado em: 24/08/2026 20:22
 
 ## Como usar
 
@@ -162,29 +162,29 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 6 — Moda e Calçados
+## Post 6 — Casa e Cozinha
 
-**Canal recomendado:** Moda e Calçados
+**Canal recomendado:** Casa e Cozinha
 
-**Horário sugerido:** 12:00 - 15:00
+**Horário sugerido:** 18:00 - 20:00
 
 **Imagem/card:**
 
-https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
+https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
 
 **Texto pronto:**
 
 ```txt
-👟 Oferta para Moda e Calçados
+🍳 Oferta para Casa e Cozinha
 
-Tênis Casual Masculino Street Original Leve, Confortável Sapatenis R1…
+Panela De Pressão Fechamento Externo Antiaderente 4,5L Nacional
 
-💸 De: R$ 149,75
-🔥 Por: R$ 59,90
-🏷️ 60% OFF
+💸 De: R$ 188,03
+🔥 Por: R$ 142,90
+🏷️ 24% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/7pshkFTUVD
+Ver oferta: https://s.shopee.com.br/9pdmKEUiid
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

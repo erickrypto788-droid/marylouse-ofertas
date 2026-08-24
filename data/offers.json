@@ -1,5 +1,22 @@
 [
   {
+    "id": "fe65f8fa5d38fb65d1",
+    "title": "Cama Box Solteiro Orthoflex Memor",
+    "raw_title": "Cama Box Solteiro: Colchão Molas Ensacadas Orthoflex Memor",
+    "description": "Noites de sono incríveis te esperam! 😴 Transforme seu quarto com a Cama Box Solteiro: Colchão Molas Ensacadas Orthoflex Memor. Conforto e qualidade para...",
+    "marketplace": "Mercado Livre",
+    "category": "Casa e Decoração",
+    "old_price": "R$ 1.310,97",
+    "price": "R$ 1.245,42",
+    "discount_percent": 5.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_758365-MLA99458220674_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB48409016?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "24/08/2026 15:02",
+    "created_at_iso": "2026-08-24T15:02:58",
+    "created_ts": 1787583778
+  },
+  {
     "id": "427d065cb30c3671c0",
     "title": "Cinta Modeladora Short Reduz 2 Medidas | Empina Bumbum | Alta Compres…",
     "raw_title": "Cinta Modeladora Short Reduz 2 Medidas | Empina Bumbum | Alta Compressão | Não Enrola | Envio Rápido",
@@ -2557,39 +2574,5 @@
     "created_at": "23/08/2026 15:15",
     "created_at_iso": "2026-08-23T15:15:43",
     "created_ts": 1787498143
-  },
-  {
-    "id": "ce63f4d91f91ca6cb0",
-    "title": "Comedouro Elevado Duplo Ração Gato Porcelana Acrilico 190ml Porta Rac…",
-    "raw_title": "Comedouro Elevado Duplo Ração Gato Porcelana Acrilico 190ml Porta Racao Gato Comedouro Rosa",
-    "description": "🔥 37% OFF — Oferta encontrada! 📌 Comedouro Elevado Duplo Ração Gato Porcelana Acrilico 190ml Porta Racao Gato Comedouro Rosa Confira os detalhes e aprov...",
-    "marketplace": "Mercado Livre",
-    "category": "Pet",
-    "old_price": "R$ 78,80",
-    "price": "R$ 49,90",
-    "discount_percent": 37.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_670668-MLA109132288172_042026-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "23/08/2026 15:02",
-    "created_at_iso": "2026-08-23T15:02:17",
-    "created_ts": 1787497337
-  },
-  {
-    "id": "67be3426bce05ce7ed",
-    "title": "Ração Gato Estimacat Premium Adulto Sabor Carne 15kg",
-    "raw_title": "Ração Gato Estimacat Premium Adulto Sabor Carne 15kg",
-    "description": "🔥 25% OFF — Oferta encontrada! 📌 Ração Gato Estimacat Premium Adulto Sabor Carne 15kg Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Mercado Livre",
-    "category": "Pet",
-    "old_price": "R$ 356,33",
-    "price": "R$ 267,24",
-    "discount_percent": 25.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_978315-MLA108642652989_032026-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66541712?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "23/08/2026 15:01",
-    "created_at_iso": "2026-08-23T15:01:13",
-    "created_ts": 1787497273
   }
 ]

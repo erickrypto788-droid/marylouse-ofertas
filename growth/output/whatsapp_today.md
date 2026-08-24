@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 24/08/2026 15:59
+Gerado em: 24/08/2026 16:21
 
 ## Como usar
 
@@ -117,14 +117,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-KIT 2 Regata Blusinha Feminina Suplex Duplo Básica Elegante Blogueira…
+Conjunto Blusa Regata e Short Saia com Cinto Plus Size Conjuntinho Fe…
 
-💸 De: R$ 70,32
-🔥 Por: R$ 26,72
-🏷️ 62% OFF
+💸 De: R$ 120,23
+🔥 Por: R$ 46,89
+🏷️ 61% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/8V8N0dzikX
+Ver oferta: https://s.shopee.com.br/8AVY4gEG4c
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

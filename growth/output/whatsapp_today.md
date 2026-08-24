@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 24/08/2026 22:47
+Gerado em: 24/08/2026 23:22
 
 ## Como usar
 
@@ -147,14 +147,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Conjunto Blusa Regata e Short Saia com Cinto Plus Size Conjuntinho Fe…
+Calça Legging Esportiva Empina Bumbum
 
-💸 De: R$ 120,23
-🔥 Por: R$ 46,89
-🏷️ 61% OFF
+💸 De: R$ 199,92
+🔥 Por: R$ 49,98
+🏷️ 75% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/8AVY4gEG4c
+Ver oferta: https://s.shopee.com.br/5foCEWNAIa
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

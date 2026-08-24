@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 24/08/2026 22:03
+Gerado em: 24/08/2026 22:21
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 24/08/2026 22:03
 
 **Produtos usados:**
 
+- Kit 4 Peças Conjunto Infantil Bebê Menino Verão Algodão Promoção 2 Ca…
+- SANDÁLIA Cartago BABY MASCULINO SLIDE PERCATA MILÃO LANÇAMENTO
 - Fralda Pampers Confort Sec Jumbo Plus G com 128un
-- Troninho Privadinha Assento Redutor Pinico Infantil Para desfralde Ma…
-- Trocador Impermeável Anatômico
 
 ---
 

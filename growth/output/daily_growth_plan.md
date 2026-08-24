@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 24/08/2026 22:03
+Gerado em: 24/08/2026 22:21
 
 ## Categorias prioritárias
 
 - 💄 **Beleza**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 🍼 **Mãe e Bebê**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 📦 **Outros**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
-- 🍼 **Mãe e Bebê**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 💻 **Informática**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 🔌 **Eletrodomésticos**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-eletrodomesticos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_eletrodomesticos
-- 👟 **Calçados**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 👗 **Moda Feminina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 🏋️ **Esportes**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
+- 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 🐶 **Pet**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
-- 👜 **Bolsas**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 
 ## Top ofertas para destacar
 
@@ -52,40 +52,40 @@ Gerado em: 24/08/2026 22:03
    - Desconto: 71% OFF
    - Link: https://s.shopee.com.br/60R2UtQ8I1
 
-6. **Panela De Pressão Fechamento Externo Antiaderente 4,5L Nacional**
+6. **Kit 4 Peças Conjunto Infantil Bebê Menino Verão Algodão Promoção 2 Ca…**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 42,90
+   - Desconto: 67% OFF
+   - Link: https://s.shopee.com.br/70JZkrg2Rh
+
+7. **SANDÁLIA Cartago BABY MASCULINO SLIDE PERCATA MILÃO LANÇAMENTO**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 23,90
+   - Desconto: 60% OFF
+   - Link: https://s.shopee.com.br/1LfD0SEwnr
+
+8. **Panela De Pressão Fechamento Externo Antiaderente 4,5L Nacional**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 142,90
    - Desconto: 24% OFF
    - Link: https://s.shopee.com.br/9pdmKEUiid
 
-7. **Papete Pérolas Strass Luxo**
+9. **Papete Pérolas Strass Luxo**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 79,20
    - Desconto: 60% OFF
    - Link: https://s.shopee.com.br/5LBMpiToX9
 
-8. **Repetidor WiFi 1200m 6 Antenas**
+10. **Repetidor WiFi 1200m 6 Antenas**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 51,99
    - Desconto: 56% OFF
    - Link: https://s.shopee.com.br/8KoxsGyqLE
-
-9. **Monitor Gamer ARZOPA 27" 2K 180Hz**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 1.061,99
-   - Desconto: 85% OFF
-   - Link: https://s.shopee.com.br/5foChMvvvc
-
-10. **Kit 10 Mini Pincéis de Maquiagem para Viagem**
-   - Categoria: Beleza
-   - Loja: Shopee
-   - Preço: R$ 16,98
-   - Desconto: 58% OFF
-   - Link: https://s.shopee.com.br/1LfDTHIyi5
 
 ## Ações gratuitas recomendadas
 

@@ -1,17 +1,17 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 24/08/2026 06:03
+Gerado em: 24/08/2026 06:21
 
 ## Categorias prioritárias
 
+- 🍼 **Mãe e Bebê**: 16 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 💻 **Informática**: 15 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 🏋️ **Esportes**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 🍼 **Mãe e Bebê**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 💄 **Beleza**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - ❤️ **Saúde**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 🧸 **Brinquedos**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 📦 **Outros**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 💄 **Beleza**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 👗 **Moda Feminina**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 
@@ -52,40 +52,40 @@ Gerado em: 24/08/2026 06:03
    - Desconto: 56% OFF
    - Link: https://s.shopee.com.br/8plBkFDDtR
 
-6. **Perfume Attracione Feminino**
-   - Categoria: Beleza
-   - Loja: Shopee
-   - Preço: R$ 49,00
-   - Desconto: 71% OFF
-   - Link: https://s.shopee.com.br/70JYQR7c5u
-
-7. **Attracione Men - Perfume com Feromônios**
-   - Categoria: Beleza
-   - Loja: Shopee
-   - Preço: R$ 59,00
-   - Desconto: 80% OFF
-   - Link: https://s.shopee.com.br/1qbOPy6cfT
-
-8. **Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mous…**
+6. **Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mous…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 49,99
    - Desconto: 44% OFF
    - Link: https://s.shopee.com.br/50YUdqfMME
 
-9. **Comedouro Elevado Duplo Ração Gato Porcelana Acrilico 190ml Porta Rac…**
+7. **Comedouro Elevado Duplo Ração Gato Porcelana Acrilico 190ml Porta Rac…**
    - Categoria: Pet
    - Loja: Mercado Livre
    - Preço: R$ 49,90
    - Desconto: 37% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-10. **Mochila Notebook Resistente**
+8. **Mochila Notebook Resistente**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 38,64
    - Desconto: 44% OFF
    - Link: https://s.shopee.com.br/9V0tnl3bcR
+
+9. **Toalha de Banho Fralda Soft com Capuz para Bebê**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 31,99
+   - Desconto: 47% OFF
+   - Link: https://s.shopee.com.br/7KwP9ea4Jy
+
+10. **Barbeador Costas Masculino Dobrável**
+   - Categoria: Beleza
+   - Loja: Mercado Livre
+   - Preço: R$ 249,00
+   - Desconto: 33% OFF
+   - Link: https://www.mercadolivre.com.br/p/MLB51434487?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ## Ações gratuitas recomendadas
 

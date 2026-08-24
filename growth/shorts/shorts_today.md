@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 24/08/2026 21:04
+Gerado em: 24/08/2026 21:22
 
 ## Como usar
 
@@ -78,9 +78,9 @@ Gerado em: 24/08/2026 21:04
 
 **Produtos usados:**
 
+- Perfumes Brand Collection 25ml
 - Chapinha Prancha Cabelo Profissional Nano Titanium 450F BIVOLT
-- Kit 10 Mini Pincéis de Maquiagem para Viagem
-- Protetor Solar Facial FPS 60 Antioleosidade com Base Efeito Matte Sun…
+- BODY SPLASH BARBARIUS 200ML
 
 ---
 

@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 24/08/2026 14:22
+Gerado em: 24/08/2026 15:21
 
 ## Como usar
 
@@ -102,9 +102,9 @@ Gerado em: 24/08/2026 14:22
 
 **Produtos usados:**
 
-- Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mous…
 - Fone de Ouvido entrada lightning para Iphone Microfone Bluetooth
 - Caneta Touch Screen Universal Ponta Fina
+- Xiaomi Poco C85
 
 ---
 

@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 24/08/2026 18:19
+Gerado em: 24/08/2026 19:22
 
 ## Como usar
 
@@ -102,9 +102,9 @@ Gerado em: 24/08/2026 18:19
 
 **Produtos usados:**
 
+- Kit 2 cartões de memória 128gb ultra muito mais memória smartphone
 - Fone de Ouvido entrada lightning para Iphone Microfone Bluetooth
 - Caneta Touch Screen Universal Ponta Fina
-- Xiaomi Poco C85
 
 ---
 
@@ -128,6 +128,6 @@ Gerado em: 24/08/2026 18:19
 
 - Kit 4 Potes Herméticos 2L Com Copo Medidor Organizador Mantimentos Ar…
 - Kit Clareador Facial Completo
-- Arroz Motigome 1kg
+- Kit Higiene Bucal Completo 35 Unidades
 
 ---

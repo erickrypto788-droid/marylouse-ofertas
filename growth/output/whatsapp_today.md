@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 24/08/2026 19:04
+Gerado em: 24/08/2026 19:22
 
 ## Como usar
 
@@ -12,7 +12,37 @@ Gerado em: 24/08/2026 19:04
 
 ---
 
-## Post 1 — Beleza e Cuidados
+## Post 1 — Celulares e Tecnologia
+
+**Canal recomendado:** Celulares e Tecnologia
+
+**Horário sugerido:** 19:00 - 21:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
+
+**Texto pronto:**
+
+```txt
+📱 Oferta para Celulares e Tecnologia
+
+Kit 2 cartões de memória 128gb ultra muito mais memória smartphone
+
+💸 De: R$ 143,39
+🔥 Por: R$ 32,98
+🏷️ 77% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/1LfE8Woswb
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 2 — Beleza e Cuidados
 
 **Canal recomendado:** Beleza e Cuidados
 
@@ -42,7 +72,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 2 — Ofertas Pet
+## Post 3 — Ofertas Pet
 
 **Canal recomendado:** Ofertas Pet
 
@@ -72,7 +102,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 3 — Mamãe e Bebê
+## Post 4 — Mamãe e Bebê
 
 **Canal recomendado:** Mamãe e Bebê
 
@@ -102,7 +132,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Moda Feminina
+## Post 5 — Moda Feminina
 
 **Canal recomendado:** Moda Feminina
 
@@ -125,36 +155,6 @@ Conjunto Blusa Regata e Short Saia com Cinto Plus Size Conjuntinho Fe…
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/8AVY4gEG4c
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 5 — Celulares e Tecnologia
-
-**Canal recomendado:** Celulares e Tecnologia
-
-**Horário sugerido:** 19:00 - 21:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
-
-**Texto pronto:**
-
-```txt
-📱 Oferta para Celulares e Tecnologia
-
-Fone de Ouvido entrada lightning para Iphone Microfone Bluetooth
-
-💸 De: R$ 30,30
-🔥 Por: R$ 10,00
-🏷️ 67% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/8fRmHGDtOZ
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

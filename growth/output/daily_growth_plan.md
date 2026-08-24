@@ -1,91 +1,91 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 24/08/2026 19:04
+Gerado em: 24/08/2026 19:22
 
 ## Categorias prioritárias
 
-- 👗 **Moda Feminina**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
-- 👟 **Calçados**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 📦 **Outros**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 👗 **Moda Feminina**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
+- 👟 **Calçados**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - ✨ **Moda Plus Size**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
-- 👕 **Moda Masculina**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 - 🏋️ **Esportes**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 🍼 **Mãe e Bebê**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 💄 **Beleza**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 📦 **Outros**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 💻 **Informática**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 👜 **Bolsas**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 
 ## Top ofertas para destacar
 
-1. **SSD de Alta Velocidade SATA III**
+1. **Kit 2 cartões de memória 128gb ultra muito mais memória smartphone**
+   - Categoria: Celulares
+   - Loja: Shopee
+   - Preço: R$ 32,98
+   - Desconto: 77% OFF
+   - Link: https://s.shopee.com.br/1LfE8Woswb
+
+2. **SSD de Alta Velocidade SATA III**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 92,99
    - Desconto: 73% OFF
    - Link: https://s.shopee.com.br/8fRoGsodZi
 
-2. **Mochila Reforçada Notebook**
+3. **Mochila Reforçada Notebook**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 29,90
    - Desconto: 59% OFF
    - Link: https://s.shopee.com.br/8AVWHQK4LA
 
-3. **Chapinha Prancha Cabelo Profissional Nano Titanium 450F BIVOLT**
+4. **Chapinha Prancha Cabelo Profissional Nano Titanium 450F BIVOLT**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 26,41
    - Desconto: 71% OFF
    - Link: https://s.shopee.com.br/60R2UtQ8I1
 
-4. **Papete Pérolas Strass Luxo**
+5. **Papete Pérolas Strass Luxo**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 79,20
    - Desconto: 60% OFF
    - Link: https://s.shopee.com.br/5LBMpiToX9
 
-5. **Repetidor WiFi 1200m 6 Antenas**
+6. **Repetidor WiFi 1200m 6 Antenas**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 51,99
    - Desconto: 56% OFF
    - Link: https://s.shopee.com.br/8KoxsGyqLE
 
-6. **Monitor Gamer ARZOPA 27" 2K 180Hz**
+7. **Monitor Gamer ARZOPA 27" 2K 180Hz**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 1.061,99
    - Desconto: 85% OFF
    - Link: https://s.shopee.com.br/5foChMvvvc
 
-7. **Kit 10 Mini Pincéis de Maquiagem para Viagem**
+8. **Kit 10 Mini Pincéis de Maquiagem para Viagem**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 16,98
    - Desconto: 58% OFF
    - Link: https://s.shopee.com.br/1LfDTHIyi5
 
-8. **Fralda Pampers Confort Sec Jumbo Plus G com 128un**
+9. **Fralda Pampers Confort Sec Jumbo Plus G com 128un**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 190,03
    - Desconto: 21% OFF
    - Link: https://s.shopee.com.br/50YVdeJrMK
 
-9. **Trocador Impermeável Anatômico**
+10. **Trocador Impermeável Anatômico**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 47,14
    - Desconto: 55% OFF
    - Link: https://s.shopee.com.br/AAGbn8w49b
-
-10. **Tira/Fita de Glicemia C/50 Unidades de Tiras - medidor de glicose - B…**
-   - Categoria: Saúde
-   - Loja: Shopee
-   - Preço: R$ 30,99
-   - Desconto: 51% OFF
-   - Link: https://s.shopee.com.br/AAGbj2JoCg
 
 ## Ações gratuitas recomendadas
 

@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 24/08/2026 01:03
+Gerado em: 24/08/2026 01:19
 
 ## Como usar
 
@@ -57,14 +57,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
 ```txt
 💄 Oferta para Beleza e Cuidados
 
-Perfume Attracione Feminino
+Chapinha Prancha Cabelo Profissional Nano Titanium 450F BIVOLT
 
-💸 De: R$ 168,97
-🔥 Por: R$ 49,00
+💸 De: R$ 91,07
+🔥 Por: R$ 26,41
 🏷️ 71% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/70JYQR7c5u
+Ver oferta: https://s.shopee.com.br/60R2UtQ8I1
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

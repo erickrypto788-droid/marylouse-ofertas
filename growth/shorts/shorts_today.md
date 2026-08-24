@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 24/08/2026 01:03
+Gerado em: 24/08/2026 01:19
 
 ## Como usar
 
@@ -78,9 +78,9 @@ Gerado em: 24/08/2026 01:03
 
 **Produtos usados:**
 
+- Chapinha Prancha Cabelo Profissional Nano Titanium 450F BIVOLT
 - Perfume Attracione Feminino
 - Attracione Men - Perfume com Feromônios
-- 32 Peças Kit De Maquiagem Para Crianças Lavável/Conjunto Portátil Men…
 
 ---
 
@@ -126,7 +126,7 @@ Gerado em: 24/08/2026 01:03
 
 **Produtos usados:**
 
-- Azeite Oliva Extra Virgem Italiano
+- Kit Clareador Facial Completo
 - Arroz Motigome 1kg
 - Azeite Oliva Extra Virgem Português Vila Oliva 500ml (3 Un)
 

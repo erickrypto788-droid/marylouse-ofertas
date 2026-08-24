@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 24/08/2026 10:22
+Gerado em: 24/08/2026 11:21
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 24/08/2026 10:22
 
 **Produtos usados:**
 
-- Toalha de Banho Fralda Soft com Capuz para Bebê
-- Berço Portátil Moisés Co-bed
-- Ninho Redutor de Berço 400 Fios
+- Fralda Pampers Confort Sec Jumbo Plus G com 128un
+- Troninho Privadinha Assento Redutor Pinico Infantil Para desfralde Ma…
+- Trocador Impermeável Anatômico
 
 ---
 
@@ -126,8 +126,8 @@ Gerado em: 24/08/2026 10:22
 
 **Produtos usados:**
 
+- Kit 4 Potes Herméticos 2L Com Copo Medidor Organizador Mantimentos Ar…
 - Kit Clareador Facial Completo
 - Arroz Motigome 1kg
-- Azeite Oliva Extra Virgem Português Vila Oliva 500ml (3 Un)
 
 ---

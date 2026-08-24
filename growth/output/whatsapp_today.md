@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 24/08/2026 16:59
+Gerado em: 24/08/2026 17:19
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
 ```txt
 👟 Oferta para Moda e Calçados
 
-Tênis Branco Infantil
+Tênis Casual Masculino Street Original Leve, Confortável Sapatenis R1…
 
-💸 De: R$ 99,72
-🔥 Por: R$ 39,89
+💸 De: R$ 149,75
+🔥 Por: R$ 59,90
 🏷️ 60% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/4LIoZy3Wjg
+Ver oferta: https://s.shopee.com.br/7pshkFTUVD
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

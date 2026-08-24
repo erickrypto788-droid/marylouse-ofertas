@@ -1,5 +1,22 @@
 [
   {
+    "id": "d4cd5808d38df63d97",
+    "title": "Xiaomi Poco C85",
+    "raw_title": "Smartphone xiaomi Poco C85 6gb ram + 128gb, Preto",
+    "description": "🚀 IMPERDÍVEL! Xiaomi Poco C85 em super oferta! Garanta já seu novo Smartphone Xiaomi Poco C85 6GB RAM + 128GB, Preto. Performance e espaço para o seu di...",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "",
+    "price": "R$ 716,50",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_634067-MLA99461655120_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB56425611?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "24/08/2026 06:01",
+    "created_at_iso": "2026-08-24T06:01:39",
+    "created_ts": 1787551299
+  },
+  {
     "id": "387ec84eff9dc4d88f",
     "title": "Balança Corporal Digital Banheiro Academia Crossfit Casa Suporta 180k…",
     "raw_title": "Balança Corporal Digital Banheiro Academia Crossfit Casa Suporta 180kg Vidro",
@@ -2711,22 +2728,5 @@
       "key": "shopee_beleza",
       "name": "Beleza"
     }
-  },
-  {
-    "id": "02906701e6fbb33e6c",
-    "title": "Prancha Esteira Ergometrica Kikos E600ix Preto",
-    "raw_title": "Prancha Esteira Ergometrica Kikos E600ix Preto",
-    "description": "🔥 14% OFF — Oferta encontrada! 📌 Prancha Esteira Ergometrica Kikos E600ix Preto Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Mercado Livre",
-    "category": "Esportes e Lazer",
-    "old_price": "R$ 222,43",
-    "price": "R$ 191,28",
-    "discount_percent": 14.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_947050-MLA111078716610_052026-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70114350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "23/08/2026 06:01",
-    "created_at_iso": "2026-08-23T06:01:36",
-    "created_ts": 1787464896
   }
 ]

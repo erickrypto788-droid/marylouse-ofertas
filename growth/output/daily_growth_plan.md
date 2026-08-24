@@ -1,18 +1,18 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 24/08/2026 12:17
+Gerado em: 24/08/2026 13:09
 
 ## Categorias prioritárias
 
-- 💻 **Informática**: 16 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 📦 **Outros**: 15 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
-- 🍼 **Mãe e Bebê**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 👜 **Bolsas**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
+- 💻 **Informática**: 15 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 🍼 **Mãe e Bebê**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 👜 **Bolsas**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 - 🏋️ **Esportes**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
+- 💄 **Beleza**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 👗 **Moda Feminina**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 🐶 **Pet**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
-- 💄 **Beleza**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - ❤️ **Saúde**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 
 ## Top ofertas para destacar
@@ -80,12 +80,12 @@ Gerado em: 24/08/2026 12:17
    - Desconto: 37% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-10. **Mochila Notebook Resistente**
-   - Categoria: Informática
+10. **Repetidor WiFi 1200m 6 Antenas**
+   - Categoria: Pet
    - Loja: Shopee
-   - Preço: R$ 38,64
-   - Desconto: 44% OFF
-   - Link: https://s.shopee.com.br/9V0tnl3bcR
+   - Preço: R$ 51,99
+   - Desconto: 56% OFF
+   - Link: https://s.shopee.com.br/8KoxsGyqLE
 
 ## Ações gratuitas recomendadas
 

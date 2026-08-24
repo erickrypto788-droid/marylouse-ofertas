@@ -1,5 +1,22 @@
 [
   {
+    "id": "ef699de2953ef1c633",
+    "title": "Monitor Pressão Arterial",
+    "raw_title": "Monitor De Pressão Arterial De Braço Monitor pressao arterial HC10014 MUINAIFTE Cor Blanco",
+    "description": "❤️ Sua saúde em primeiro lugar! Monitor de Pressão Arterial de Braço com super desconto. Mantenha sua pressão sob controle de forma fácil e precisa no c...",
+    "marketplace": "Mercado Livre",
+    "category": "Saúde",
+    "old_price": "R$ 149,98",
+    "price": "R$ 127,48",
+    "discount_percent": 15.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_955323-MLA108180209918_032026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62814199?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "24/08/2026 08:01",
+    "created_at_iso": "2026-08-24T08:01:18",
+    "created_ts": 1787558478
+  },
+  {
     "id": "9bcc9fc8a1503552b5",
     "title": "Mochila Executiva Impermeável para Laptop",
     "raw_title": "Mochila Moda Laptop Viagem Escolar Resistente À água Executiva Notebook Impermeável Viral",
@@ -2669,47 +2686,5 @@
     "created_at": "23/08/2026 08:01",
     "created_at_iso": "2026-08-23T08:01:44",
     "created_ts": 1787472104
-  },
-  {
-    "id": "d7be7dc79f56b03274",
-    "title": "Conjunto Infantil Masculino Verão",
-    "raw_title": "Conjunto Infantil Masculino De Verão - Camisa + Short Dry-Fit Levinho - Tamanho 2 ao 12",
-    "description": "✨ Seu pequeno merece conforto e estilo neste verão! Conjunto infantil masculino perfeito para os dias quentes! ☀️ Camisa + short dry-fit, super levinho...",
-    "marketplace": "Shopee",
-    "category": "Moda Infantil",
-    "old_price": "R$ 49,82",
-    "price": "R$ 29,89",
-    "discount_percent": 40.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh6nghda4oowc0",
-    "affiliate_url": "https://s.shopee.com.br/5ArtmDxhMz",
-    "created_at": "23/08/2026 07:20",
-    "created_at_iso": "2026-08-23T07:20:24",
-    "created_ts": 1787469624,
-    "niche": {
-      "key": "shopee_moda_infantil",
-      "name": "Moda Infantil"
-    }
-  },
-  {
-    "id": "f26526b81278551641",
-    "title": "Kit 2 Tênis Infantil Masculino",
-    "raw_title": "Kit 2 Tênis Infantil Masculino Colegial Antiderrapante e Leve Pronta Entrega",
-    "description": "👟 Seu filho merece conforto e estilo! Kit 2 Tênis Infantil Masculino Colegial Antiderrapante e Leve! Perfeito para o dia a dia na escola ou brincadeiras...",
-    "marketplace": "Shopee",
-    "category": "Moda Infantil",
-    "old_price": "R$ 157,48",
-    "price": "R$ 69,29",
-    "discount_percent": 56.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mb43q6867dlbdd",
-    "affiliate_url": "https://s.shopee.com.br/gPUwvghpS",
-    "created_at": "23/08/2026 07:19",
-    "created_at_iso": "2026-08-23T07:19:17",
-    "created_ts": 1787469557,
-    "niche": {
-      "key": "shopee_moda_infantil",
-      "name": "Moda Infantil"
-    }
   }
 ]

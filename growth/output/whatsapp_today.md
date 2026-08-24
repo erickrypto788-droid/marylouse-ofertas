@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 24/08/2026 10:07
+Gerado em: 24/08/2026 10:22
 
 ## Como usar
 
@@ -102,7 +102,37 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Moda Feminina
+## Post 4 — Ofertas Pet
+
+**Canal recomendado:** Ofertas Pet
+
+**Horário sugerido:** 17:00 - 20:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
+
+**Texto pronto:**
+
+```txt
+🐶 Oferta para Ofertas Pet
+
+Repetidor WiFi 1200m 6 Antenas
+
+💸 De: R$ 118,16
+🔥 Por: R$ 51,99
+🏷️ 56% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/8KoxsGyqLE
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 5 — Moda Feminina
 
 **Canal recomendado:** Moda Feminina
 
@@ -125,36 +155,6 @@ Blusa Regata Feminina Halter Efeito Silicone Modeladora Frente Unica…
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/904dbYxojY
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 5 — Ofertas Pet
-
-**Canal recomendado:** Ofertas Pet
-
-**Horário sugerido:** 17:00 - 20:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
-
-**Texto pronto:**
-
-```txt
-🐶 Oferta para Ofertas Pet
-
-Comedouro Elevado Duplo Ração Gato Porcelana Acrilico 190ml Porta Rac…
-
-💸 De: R$ 78,80
-🔥 Por: R$ 49,90
-🏷️ 37% OFF
-🛒 Loja: Mercado Livre
-
-Ver oferta: https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

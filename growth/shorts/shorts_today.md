@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 25/08/2026 00:22
+Gerado em: 25/08/2026 01:22
 
 ## Como usar
 
@@ -48,13 +48,11 @@ Gerado em: 25/08/2026 00:22
 
 - growth/shorts/slides/casa_cozinha/01_intro.png
 - growth/shorts/slides/casa_cozinha/02_produto_1.png
-- growth/shorts/slides/casa_cozinha/03_produto_2.png
 - growth/shorts/slides/casa_cozinha/05_cta.png
 
 **Produtos usados:**
 
 - Panela De Pressão Fechamento Externo Antiaderente 4,5L Nacional
-- Fritadeira Air Fryer Mondial Oven Digital
 
 ---
 
@@ -77,8 +75,8 @@ Gerado em: 25/08/2026 00:22
 **Produtos usados:**
 
 - Perfumes Brand Collection 25ml
-- Chapinha Prancha Cabelo Profissional Nano Titanium 450F BIVOLT
 - BODY SPLASH BARBARIUS 200ML
+- Kit 10 Mini Pincéis de Maquiagem para Viagem
 
 ---
 
@@ -119,13 +117,11 @@ Gerado em: 25/08/2026 00:22
 - growth/shorts/slides/supermercados/01_intro.png
 - growth/shorts/slides/supermercados/02_produto_1.png
 - growth/shorts/slides/supermercados/03_produto_2.png
-- growth/shorts/slides/supermercados/04_produto_3.png
 - growth/shorts/slides/supermercados/05_cta.png
 
 **Produtos usados:**
 
 - Kit 4 Potes Herméticos 2L Com Copo Medidor Organizador Mantimentos Ar…
-- Kit Clareador Facial Completo
 - Kit Higiene Bucal Completo 35 Unidades
 
 ---

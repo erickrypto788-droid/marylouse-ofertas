@@ -1,5 +1,22 @@
 [
   {
+    "id": "fcd13e1dadb6abf8ed",
+    "title": "Ração Gato Estimacat Premium Filhote Sabor Frango 10kg",
+    "raw_title": "Ração Gato Estimacat Premium Filhote Sabor Frango 10kg",
+    "description": "🔥 25% OFF — Oferta encontrada! 📌 Ração Gato Estimacat Premium Filhote Sabor Frango 10kg Confira os detalhes e aproveite enquanto a oferta estiver dispon...",
+    "marketplace": "Mercado Livre",
+    "category": "Pet",
+    "old_price": "R$ 337,43",
+    "price": "R$ 253,07",
+    "discount_percent": 25.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_921645-MLA109036799255_032026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66844874?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "25/08/2026 23:01",
+    "created_at_iso": "2026-08-25T23:01:30",
+    "created_ts": 1787698890
+  },
+  {
     "id": "0eee353dadf223b965",
     "title": "Kit chinelo Luiza Liz e necessaire bolsa de mão pequena kit dia a dia…",
     "raw_title": "Kit chinelo Luiza Liz e necessaire bolsa de mão pequena kit dia a dia blogueira",
@@ -2435,69 +2452,6 @@
     "niche": {
       "key": "shopee_esportes_lazer",
       "name": "Esportes e Lazer"
-    }
-  },
-  {
-    "id": "0dad3afb376721ca0f",
-    "title": "Conjunto Infantil Menina Regata Ribana e Short Saia Ana ruga Confortá…",
-    "raw_title": "Conjunto Infantil Menina Regata Ribana e Short Saia Ana ruga Confortável e Estiloso",
-    "description": "🔥 50% OFF — Oferta encontrada! 📌 Conjunto Infantil Menina Regata Ribana e Short Saia Ana ruga Confortável e Estiloso Confira os detalhes e aproveite enq...",
-    "marketplace": "Shopee",
-    "category": "Moda Infantil",
-    "old_price": "R$ 59,98",
-    "price": "R$ 29,99",
-    "discount_percent": 50.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjyfjt8mzt3a18",
-    "affiliate_url": "https://s.shopee.com.br/BTFcJ67Yo",
-    "created_at": "24/08/2026 22:20",
-    "created_at_iso": "2026-08-24T22:20:01",
-    "created_ts": 1787610001,
-    "niche": {
-      "key": "shopee_moda_infantil",
-      "name": "Moda Infantil"
-    }
-  },
-  {
-    "id": "120a7e8fff8797acd2",
-    "title": "Sandália Babuche Infantil Papete Menina ADULTO",
-    "raw_title": "Sandália Babuche Infantil Papete Menina ADULTO",
-    "description": "🔥 43% OFF — Oferta encontrada! 📌 Sandália Babuche Infantil Papete Menina ADULTO Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Shopee",
-    "category": "Moda Infantil",
-    "old_price": "R$ 40,18",
-    "price": "R$ 22,90",
-    "discount_percent": 43.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1vm4nmfs5xk57",
-    "affiliate_url": "https://s.shopee.com.br/qiwPXGqog",
-    "created_at": "24/08/2026 22:18",
-    "created_at_iso": "2026-08-24T22:18:57",
-    "created_ts": 1787609937,
-    "niche": {
-      "key": "shopee_moda_infantil",
-      "name": "Moda Infantil"
-    }
-  },
-  {
-    "id": "a09433a3e6a5688ae2",
-    "title": "Kit 4 Peças Conjunto Infantil Bebê Menino Verão Algodão Promoção 2 Ca…",
-    "raw_title": "Kit 4 Peças Conjunto Infantil Bebê Menino Verão Algodão Promoção 2 Camisas 2 Shorts Envio Sortido",
-    "description": "🔥 67% OFF — Oferta encontrada! 📌 Kit 4 Peças Conjunto Infantil Bebê Menino Verão Algodão Promoção 2 Camisas 2 Shorts Envio Sortido Confira os detalhes e...",
-    "marketplace": "Shopee",
-    "category": "Moda Infantil",
-    "old_price": "R$ 130,00",
-    "price": "R$ 42,90",
-    "discount_percent": 67.0,
-    "rating": 4.7,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820li-mmp9aj5bsdtze3",
-    "affiliate_url": "https://s.shopee.com.br/70JZkrg2Rh",
-    "created_at": "24/08/2026 22:17",
-    "created_at_iso": "2026-08-24T22:17:53",
-    "created_ts": 1787609873,
-    "niche": {
-      "key": "shopee_moda_infantil",
-      "name": "Moda Infantil"
     }
   }
 ]

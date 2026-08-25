@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 25/08/2026 23:03
+Gerado em: 25/08/2026 23:20
 
 ## Como usar
 
@@ -162,29 +162,29 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 6 — Moda Feminina
+## Post 6 — Moda e Calçados
 
-**Canal recomendado:** Moda Feminina
+**Canal recomendado:** Moda e Calçados
 
-**Horário sugerido:** 12:00 - 14:00
+**Horário sugerido:** 12:00 - 15:00
 
 **Imagem/card:**
 
-https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
+https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
 
 **Texto pronto:**
 
 ```txt
-👗 Oferta para Moda Feminina
+👟 Oferta para Moda e Calçados
 
-Calça Legging Esportiva Empina Bumbum
+Kit Bota Masculina Caterpillar + Cinto + Carteira+ Relógio
 
-💸 De: R$ 199,92
-🔥 Por: R$ 49,98
-🏷️ 75% OFF
+💸 De: R$ 189,16
+🔥 Por: R$ 69,99
+🏷️ 63% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/5foCEWNAIa
+Ver oferta: https://s.shopee.com.br/5VUnhE8xbC
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

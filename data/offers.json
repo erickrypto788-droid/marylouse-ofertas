@@ -1,5 +1,22 @@
 [
   {
+    "id": "b1b43dbd2f4d1d6d3a",
+    "title": "Ração Cachorro Bravo Cordeiro E Arroz 10.1kg",
+    "raw_title": "Ração Cachorro Bravo Cordeiro E Arroz 10.1kg",
+    "description": "🔥 Oferta encontrada! 📌 Ração Cachorro Bravo Cordeiro E Arroz 10.1kg Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Supermercados",
+    "old_price": "",
+    "price": "R$ 115,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_731880-MLU74356308501_022024-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB31341013?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "25/08/2026 03:01",
+    "created_at_iso": "2026-08-25T03:01:23",
+    "created_ts": 1787626883
+  },
+  {
     "id": "4d6eed26d010d22f61",
     "title": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador…",
     "raw_title": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
@@ -2516,26 +2533,5 @@
     "created_at": "24/08/2026 03:01",
     "created_at_iso": "2026-08-24T03:01:41",
     "created_ts": 1787540501
-  },
-  {
-    "id": "8bdd095318664f0f78",
-    "title": "10 Calcinhas Infantil Menina Moça Confortáveis Forro de Algodão Dia a…",
-    "raw_title": "10 Calcinhas Infantil Menina Moça Confortáveis Forro de Algodão Dia a Dia Promoção",
-    "description": "🔥 46% OFF — Oferta encontrada! 📌 10 Calcinhas Infantil Menina Moça Confortáveis Forro de Algodão Dia a Dia Promoção Confira os detalhes e aproveite enqu...",
-    "marketplace": "Shopee",
-    "category": "Moda Infantil",
-    "old_price": "R$ 49,81",
-    "price": "R$ 26,90",
-    "discount_percent": 46.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820le-mnkkbbtiq8lgfd",
-    "affiliate_url": "https://s.shopee.com.br/3VjgK8NBlv",
-    "created_at": "24/08/2026 02:20",
-    "created_at_iso": "2026-08-24T02:20:12",
-    "created_ts": 1787538012,
-    "niche": {
-      "key": "shopee_moda_infantil",
-      "name": "Moda Infantil"
-    }
   }
 ]

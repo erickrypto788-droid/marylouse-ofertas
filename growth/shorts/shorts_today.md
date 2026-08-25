@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 25/08/2026 15:23
+Gerado em: 25/08/2026 16:22
 
 ## Como usar
 
@@ -79,8 +79,8 @@ Gerado em: 25/08/2026 15:23
 **Produtos usados:**
 
 - Perfumes Brand Collection 25ml
-- BODY SPLASH BARBARIUS 200ML
-- Perfume masculino Amodil Fonte Verde Perfume masculino 100ml
+- Escova Secadora GOKOCO 7 em 1
+- Escova 5 em 1 Profissional
 
 ---
 

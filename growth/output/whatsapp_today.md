@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 25/08/2026 10:53
+Gerado em: 25/08/2026 11:05
 
 ## Como usar
 
@@ -27,14 +27,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
 ```txt
 🍳 Oferta para Casa e Cozinha
 
-Panela de Arroz Elétrica 1.8L
+Air Fryer Gaabor Pocket 1.4L Branco
 
-💸 De: R$ 199,97
-🔥 Por: R$ 67,99
-🏷️ 66% OFF
-🛒 Loja: Shopee
+💸 De: R$ 399,00
+🔥 Por: R$ 155,61
+🏷️ 61% OFF
+🛒 Loja: Mercado Livre
 
-Ver oferta: https://s.shopee.com.br/W66bzIBpP
+Ver oferta: https://www.mercadolivre.com.br/p/MLB68808213?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

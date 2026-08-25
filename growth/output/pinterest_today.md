@@ -1,6 +1,6 @@
 # Pinterest Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 25/08/2026 10:53
+Gerado em: 25/08/2026 11:05
 
 ## Como usar
 
@@ -58,7 +58,7 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
 
 **Descrição:**
 
-Veja ofertas de Casa e Cozinha selecionadas pela MaryLouse Ofertas. Destaque de hoje: Panela de Arroz Elétrica 1.8L. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Veja ofertas de Casa e Cozinha selecionadas pela MaryLouse Ofertas. Destaque de hoje: Air Fryer Gaabor Pocket 1.4L Branco. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
@@ -66,7 +66,7 @@ https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=pinter
 
 **Por que postar:**
 
-Categoria com 2 oferta(s) e boa intenção de compra.
+Categoria com 4 oferta(s) e boa intenção de compra.
 
 ---
 
@@ -138,15 +138,15 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
 
 **Título:**
 
-66% OFF: Panela de Arroz Elétrica 1.8L
+61% OFF: Air Fryer Gaabor Pocket 1.4L Branco
 
 **Descrição:**
 
-Oferta destaque em Casa e Cozinha encontrada pela MaryLouse Ofertas. Preço: R$ 67,99. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Oferta destaque em Casa e Cozinha encontrada pela MaryLouse Ofertas. Preço: R$ 155,61. Loja: Mercado Livre. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
-https://s.shopee.com.br/W66bzIBpP
+https://www.mercadolivre.com.br/p/MLB68808213?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 **Por que postar:**
 

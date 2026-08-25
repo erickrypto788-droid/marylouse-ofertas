@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 25/08/2026 06:21
+Gerado em: 25/08/2026 07:10
 
 ## Como usar
 
@@ -123,7 +123,7 @@ Gerado em: 25/08/2026 06:21
 **Produtos usados:**
 
 - Kit 4 Potes Herméticos 2L Com Copo Medidor Organizador Mantimentos Ar…
-- Ração Cachorro Bravo Cordeiro E Arroz 10.1kg
-- Kit Higiene Bucal Completo 35 Unidades
+- Condicionador Infantil Lowell Mirtilinho
+- Kit 100 Sacos de Lixo 60L
 
 ---

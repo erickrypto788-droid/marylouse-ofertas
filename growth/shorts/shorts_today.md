@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 25/08/2026 07:10
+Gerado em: 25/08/2026 07:22
 
 ## Como usar
 
@@ -48,10 +48,12 @@ Gerado em: 25/08/2026 07:10
 
 - growth/shorts/slides/casa_cozinha/01_intro.png
 - growth/shorts/slides/casa_cozinha/02_produto_1.png
+- growth/shorts/slides/casa_cozinha/03_produto_2.png
 - growth/shorts/slides/casa_cozinha/05_cta.png
 
 **Produtos usados:**
 
+- Panela de Arroz Elétrica 1.8L
 - Panela De Pressão Fechamento Externo Antiaderente 4,5L Nacional
 
 ---
@@ -123,7 +125,7 @@ Gerado em: 25/08/2026 07:10
 **Produtos usados:**
 
 - Kit 4 Potes Herméticos 2L Com Copo Medidor Organizador Mantimentos Ar…
+- Creme Facial Kokeshi Pele de Porcelana
 - Condicionador Infantil Lowell Mirtilinho
-- Kit 100 Sacos de Lixo 60L
 
 ---

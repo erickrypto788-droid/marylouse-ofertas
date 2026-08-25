@@ -1,15 +1,15 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 25/08/2026 07:12
+Gerado em: 25/08/2026 07:22
 
 ## Categorias prioritárias
 
-- 💻 **Informática**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 💄 **Beleza**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 👜 **Bolsas**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
-- 📦 **Outros**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 📦 **Outros**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 💄 **Beleza**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 💻 **Informática**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 📚 **Papelaria**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 - 👟 **Calçados**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 👜 **Bolsas**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 - 🍼 **Mãe e Bebê**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 👗 **Moda Feminina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 🐶 **Pet**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
@@ -17,75 +17,75 @@ Gerado em: 25/08/2026 07:12
 
 ## Top ofertas para destacar
 
-1. **Case Gaveta HD SSD 2.5 Sata III USB 3.0 Transparente Externo 6Gbps PC…**
+1. **Panela de Arroz Elétrica 1.8L**
+   - Categoria: Casa e Cozinha
+   - Loja: Shopee
+   - Preço: R$ 67,99
+   - Desconto: 66% OFF
+   - Link: https://s.shopee.com.br/W66bzIBpP
+
+2. **Case Gaveta HD SSD 2.5 Sata III USB 3.0 Transparente Externo 6Gbps PC…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 30,99
    - Desconto: 69% OFF
    - Link: https://s.shopee.com.br/5foChN03eu
 
-2. **SSD de Alta Performance**
+3. **SSD de Alta Performance**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 96,60
    - Desconto: 72% OFF
    - Link: https://s.shopee.com.br/7Ad0U7uLcL
 
-3. **Capa Maleta Notebook Macbook 15,6' / 13 / 14 / 17 Polegadas Rígida An…**
+4. **Capa Maleta Notebook Macbook 15,6' / 13 / 14 / 17 Polegadas Rígida An…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 29,22
    - Desconto: 58% OFF
    - Link: https://s.shopee.com.br/3LQHmpZa0Z
 
-4. **Mochila Couro PU Grande Executiva Para Notebook Trabalho Faculdade Re…**
+5. **Mochila Couro PU Grande Executiva Para Notebook Trabalho Faculdade Re…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 38,98
    - Desconto: 64% OFF
    - Link: https://s.shopee.com.br/4fvfNHUVIh
 
-5. **Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…**
+6. **Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 26,99
    - Desconto: 55% OFF
    - Link: https://s.shopee.com.br/1qbVCEw9PZ
 
-6. **Perfumes Brand Collection 25ml**
+7. **Perfumes Brand Collection 25ml**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 38,00
    - Desconto: 62% OFF
    - Link: https://s.shopee.com.br/80C8D0UbsR
 
-7. **Kit 2 cartões de memória 128gb ultra muito mais memória smartphone**
+8. **Kit 2 cartões de memória 128gb ultra muito mais memória smartphone**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 32,98
    - Desconto: 77% OFF
    - Link: https://s.shopee.com.br/1LfE8Woswb
 
-8. **SSD de Alta Velocidade SATA III**
+9. **SSD de Alta Velocidade SATA III**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 92,99
    - Desconto: 73% OFF
    - Link: https://s.shopee.com.br/8fRoGsodZi
 
-9. **Mochila Reforçada Notebook**
+10. **Mochila Reforçada Notebook**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 29,90
    - Desconto: 59% OFF
    - Link: https://s.shopee.com.br/8AVWHQK4LA
-
-10. **Fralda Hipopó Baby Mega Pacotão P-80 M-70 G-60 XG-50 XXG-50 XXG-40 PA…**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 45,90
-   - Desconto: 27% OFF
-   - Link: https://s.shopee.com.br/5ArxAMjSeP
 
 ## Ações gratuitas recomendadas
 

@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 25/08/2026 11:20
+Gerado em: 25/08/2026 12:18
 
 ## Como usar
 
@@ -126,8 +126,8 @@ Gerado em: 25/08/2026 11:20
 
 **Produtos usados:**
 
-- Kit 4 Potes Herméticos 2L Com Copo Medidor Organizador Mantimentos Ar…
 - Creme Facial Kokeshi Pele de Porcelana
 - Condicionador Infantil Lowell Mirtilinho
+- Kit 100 Sacos de Lixo 60L
 
 ---

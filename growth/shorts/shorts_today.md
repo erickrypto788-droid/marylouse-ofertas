@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 25/08/2026 07:22
+Gerado em: 25/08/2026 09:22
 
 ## Como usar
 
@@ -78,7 +78,7 @@ Gerado em: 25/08/2026 07:22
 
 - Perfumes Brand Collection 25ml
 - BODY SPLASH BARBARIUS 200ML
-- Kit 10 Mini Pincéis de Maquiagem para Viagem
+- Perfume masculino Amodil Fonte Verde Perfume masculino 100ml
 
 ---
 

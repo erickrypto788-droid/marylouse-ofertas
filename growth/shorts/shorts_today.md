@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 25/08/2026 20:19
+Gerado em: 25/08/2026 21:21
 
 ## Como usar
 
@@ -78,9 +78,9 @@ Gerado em: 25/08/2026 20:19
 
 **Produtos usados:**
 
-- Perfumes Brand Collection 25ml
 - Escova Secadora GOKOCO 7 em 1
 - Escova 5 em 1 Profissional
+- Principia Kit Duo c/ 2 Protetores Solares Faciais - PS-01 FPS 60
 
 ---
 

@@ -1,10 +1,10 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 25/08/2026 22:48
+Gerado em: 25/08/2026 23:03
 
 ## Categorias prioritárias
 
-- 🍼 **Mãe e Bebê**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 🍼 **Mãe e Bebê**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🏋️ **Esportes**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - ❤️ **Saúde**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
@@ -80,12 +80,12 @@ Gerado em: 25/08/2026 22:48
    - Desconto: 55% OFF
    - Link: https://s.shopee.com.br/1qbVCEw9PZ
 
-10. **Carrinho De Boneca Bebe Brinquedo Infantil Passeio**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 20,99
-   - Desconto: 58% OFF
-   - Link: https://s.shopee.com.br/gPYwCvrGg
+10. **Ração Gato Estimacat Premium Filhote Sabor Frango 10kg**
+   - Categoria: Pet
+   - Loja: Mercado Livre
+   - Preço: R$ 253,07
+   - Desconto: 25% OFF
+   - Link: https://www.mercadolivre.com.br/p/MLB66844874?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ## Ações gratuitas recomendadas
 

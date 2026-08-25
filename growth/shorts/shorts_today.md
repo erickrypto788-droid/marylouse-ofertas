@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 25/08/2026 14:22
+Gerado em: 25/08/2026 15:23
 
 ## Como usar
 
@@ -56,7 +56,7 @@ Gerado em: 25/08/2026 14:22
 
 - Air Fryer Gaabor Pocket 1.4L Branco
 - Panela de Arroz Elétrica 1.8L
-- Panela De Pressão Fechamento Externo Antiaderente 4,5L Nacional
+- Panela de Pressão Fortlar
 
 ---
 

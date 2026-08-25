@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 25/08/2026 01:22
+Gerado em: 25/08/2026 02:21
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 25/08/2026 01:22
 
 **Produtos usados:**
 
+- Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…
 - Kit 4 Peças Conjunto Infantil Bebê Menino Verão Algodão Promoção 2 Ca…
 - SANDÁLIA Cartago BABY MASCULINO SLIDE PERCATA MILÃO LANÇAMENTO
-- Fralda Pampers Confort Sec Jumbo Plus G com 128un
 
 ---
 

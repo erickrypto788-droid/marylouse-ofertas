@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 25/08/2026 18:03
+Gerado em: 25/08/2026 18:23
 
 ## Como usar
 
@@ -102,37 +102,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Ofertas Pet
-
-**Canal recomendado:** Ofertas Pet
-
-**Horário sugerido:** 17:00 - 20:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
-
-**Texto pronto:**
-
-```txt
-🐶 Oferta para Ofertas Pet
-
-Papete Pérolas Strass Luxo
-
-💸 De: R$ 198,00
-🔥 Por: R$ 79,20
-🏷️ 60% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/5LBMpiToX9
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 5 — Mamãe e Bebê
+## Post 4 — Mamãe e Bebê
 
 **Canal recomendado:** Mamãe e Bebê
 
@@ -155,6 +125,36 @@ Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/1qbVCEw9PZ
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 5 — Ofertas Pet
+
+**Canal recomendado:** Ofertas Pet
+
+**Horário sugerido:** 17:00 - 20:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
+
+**Texto pronto:**
+
+```txt
+🐶 Oferta para Ofertas Pet
+
+Kit 2 Pares Sandália Infantil Papete Menina Casual Leve Lançamento
+
+💸 De: R$ 69,46
+🔥 Por: R$ 38,90
+🏷️ 44% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/6q0AsxOqJG
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

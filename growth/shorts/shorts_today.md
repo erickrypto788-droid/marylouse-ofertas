@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 26/08/2026 02:22
+Gerado em: 26/08/2026 03:11
 
 ## Como usar
 
@@ -32,7 +32,7 @@ Gerado em: 26/08/2026 02:22
 
 - Kit Porta Leite em Pó + Colher
 - Carrinho De Boneca Bebe Brinquedo Infantil Passeio
-- Pacotão Economico Huggies com 100 fraldas P(3,5 - 6kg) M(5,5 - 9,5kg)…
+- Fralda Pampers Confort Sec G 38 Unidades
 
 ---
 
@@ -126,8 +126,8 @@ Gerado em: 26/08/2026 02:22
 
 **Produtos usados:**
 
+- Papel higiênico INDAIAL CAICAI PAPEL HIGIENICO folha dupla 22.5 m de…
 - Kit Explosão de Azeite de Oliva | bn.Cachos
 - Creme Facial Kokeshi Pele de Porcelana
-- Condicionador Infantil Lowell Mirtilinho
 
 ---

@@ -1,6 +1,6 @@
 # Pinterest Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 26/08/2026 00:21
+Gerado em: 26/08/2026 01:22
 
 ## Como usar
 
@@ -122,11 +122,11 @@ https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=pinterest
 
 **Por que postar:**
 
-Categoria com 4 oferta(s) e boa intenção de compra.
+Categoria com 5 oferta(s) e boa intenção de compra.
 
 ---
 
-## Pin 5 — Celulares
+## Pin 5 — Informática
 
 **Tipo:** produto_direto
 
@@ -134,19 +134,19 @@ Categoria com 4 oferta(s) e boa intenção de compra.
 
 **Imagem para upload no Pinterest:**
 
-https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
+https://marylouse-ofertas.vercel.app/growth/pinterest/informatica.png
 
 **Título:**
 
-66% OFF: Tela Magnética Monitor para Celular
+61% OFF: SAMSUNG T5 Portable SSD 2TB 4TB 8TB 16TB External Solid State Drive U…
 
 **Descrição:**
 
-Oferta destaque em Celulares encontrada pela MaryLouse Ofertas. Preço: R$ 135,88. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Oferta destaque em Informática encontrada pela MaryLouse Ofertas. Preço: R$ 154,00. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
-https://s.shopee.com.br/8plF4JMKjH
+https://s.shopee.com.br/2BEN7dNX41
 
 **Por que postar:**
 

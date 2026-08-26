@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 26/08/2026 08:18
+Gerado em: 26/08/2026 09:22
 
 ## Como usar
 
@@ -103,8 +103,8 @@ Gerado em: 26/08/2026 08:18
 **Produtos usados:**
 
 - Tela Magnética Monitor para Celular
-- Leitor Cartão USB C 3 em 1
-- Power Bank 10000mAh para iPhone: Turbo Carregamento Sem Fio Magnético…
+- Carregador Turbo Tipo C
+- Microfone de Lapela Duplo A'Gold
 
 ---
 

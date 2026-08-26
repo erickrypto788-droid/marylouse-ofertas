@@ -1,18 +1,18 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 26/08/2026 09:06
+Gerado em: 26/08/2026 09:22
 
 ## Categorias prioritárias
 
 - 👟 **Calçados**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 👗 **Moda Feminina**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 👕 **Moda Masculina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 - 🍼 **Mãe e Bebê**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 📦 **Outros**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - ✨ **Moda Plus Size**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
 - 🍳 **Casa e Cozinha**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
+- 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 👗 **Moda Feminina**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 🏋️ **Esportes**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 📦 **Outros**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
-- 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 💄 **Beleza**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 
 ## Top ofertas para destacar
@@ -59,33 +59,33 @@ Gerado em: 26/08/2026 09:06
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/6VNL1Inzau
 
-7. **Kit 4 Blusinhas Baby Look**
+7. **Microfone de Lapela Duplo A'Gold**
+   - Categoria: Celulares
+   - Loja: Shopee
+   - Preço: R$ 69,99
+   - Desconto: 50% OFF
+   - Link: https://s.shopee.com.br/60R6DdWxRi
+
+8. **Carregador Turbo Tipo C**
+   - Categoria: Celulares
+   - Loja: Shopee
+   - Preço: R$ 19,99
+   - Desconto: 71% OFF
+   - Link: https://s.shopee.com.br/2qU4Rork9S
+
+9. **Kit 4 Blusinhas Baby Look**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 52,99
    - Desconto: 54% OFF
    - Link: https://s.shopee.com.br/Lmj8cknwL
 
-8. **Kit 2 Formas de Silicone para Doces e Creatina**
+10. **Kit 2 Formas de Silicone para Doces e Creatina**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 22,99
    - Desconto: 54% OFF
    - Link: https://s.shopee.com.br/3g3AyVXTDK
-
-9. **Kit Porta Leite em Pó + Colher**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 26,89
-   - Desconto: 55% OFF
-   - Link: https://s.shopee.com.br/7KwS4xQnYQ
-
-10. **Webcam com Microfone Full HD 1080p Giratória 360° Ajuste de Ângulo Li…**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 29,88
-   - Desconto: 57% OFF
-   - Link: https://s.shopee.com.br/19sXeeiXw
 
 ## Ações gratuitas recomendadas
 

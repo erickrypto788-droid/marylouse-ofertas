@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 26/08/2026 14:21
+Gerado em: 26/08/2026 16:22
 
 ## Como usar
 
@@ -55,8 +55,8 @@ Gerado em: 26/08/2026 14:21
 **Produtos usados:**
 
 - Panela Elétrica Britânia 2L
-- Panela de Pressão Fortlar
 - Kit 2 Formas de Silicone para Doces e Creatina
+- Jogo Panelas Tramontina Mônaco
 
 ---
 

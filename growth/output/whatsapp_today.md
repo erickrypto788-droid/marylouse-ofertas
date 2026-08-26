@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 26/08/2026 21:21
+Gerado em: 26/08/2026 22:04
 
 ## Como usar
 
@@ -117,14 +117,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
 ```txt
 🍳 Oferta para Casa e Cozinha
 
-Panela Elétrica Britânia 2L
+Jogo Panelas Ipanema 5 Peças Preto Nacional
 
-💸 De: R$ 199,86
-🔥 Por: R$ 139,90
-🏷️ 30% OFF
-🛒 Loja: Shopee
+💸 De: R$ 404,69
+🔥 Por: R$ 305,90
+🏷️ 24% OFF
+🛒 Loja: Mercado Livre
 
-Ver oferta: https://s.shopee.com.br/2BENBkdBFt
+Ver oferta: https://www.mercadolivre.com.br/p/MLB75817439?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

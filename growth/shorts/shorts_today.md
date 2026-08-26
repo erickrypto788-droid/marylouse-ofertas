@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 26/08/2026 04:04
+Gerado em: 26/08/2026 04:22
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 26/08/2026 04:04
 
 **Produtos usados:**
 
+- Kit 4 Blusinhas Baby Look
 - Kit Porta Leite em Pó + Colher
 - Carrinho De Boneca Bebe Brinquedo Infantil Passeio
-- Fralda Pampers Confort Sec G 38 Unidades
 
 ---
 

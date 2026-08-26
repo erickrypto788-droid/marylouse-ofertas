@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 26/08/2026 04:04
+Gerado em: 26/08/2026 04:22
 
 ## Categorias prioritárias
 
 - 📚 **Papelaria**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
-- 💻 **Informática**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 👗 **Moda Feminina**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
+- 🍼 **Mãe e Bebê**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 📦 **Outros**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
-- 🍼 **Mãe e Bebê**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 💻 **Informática**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 💄 **Beleza**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🍳 **Casa e Cozinha**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
+- 👟 **Calçados**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 🏋️ **Esportes**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 👜 **Bolsas**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
-- 👗 **Moda Feminina**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
+- 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 
 ## Top ofertas para destacar
 
@@ -66,26 +66,26 @@ Gerado em: 26/08/2026 04:04
    - Desconto: 72% OFF
    - Link: https://s.shopee.com.br/7Ad0U7uLcL
 
-8. **Capa Maleta Notebook Macbook 15,6' / 13 / 14 / 17 Polegadas Rígida An…**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 29,22
-   - Desconto: 58% OFF
-   - Link: https://s.shopee.com.br/3LQHmpZa0Z
-
-9. **Mochila Couro PU Grande Executiva Para Notebook Trabalho Faculdade Re…**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 38,98
-   - Desconto: 64% OFF
-   - Link: https://s.shopee.com.br/4fvfNHUVIh
-
-10. **Panela Elétrica Britânia 2L**
+8. **Panela Elétrica Britânia 2L**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 139,90
    - Desconto: 30% OFF
    - Link: https://s.shopee.com.br/2BENBkdBFt
+
+9. **Suporte Para Notebook Base Dobrável de Alumínio Ergonômico Ajustável…**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 17,98
+   - Desconto: 40% OFF
+   - Link: https://s.shopee.com.br/6VNL1Inzau
+
+10. **Kit 4 Blusinhas Baby Look**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 52,99
+   - Desconto: 54% OFF
+   - Link: https://s.shopee.com.br/Lmj8cknwL
 
 ## Ações gratuitas recomendadas
 

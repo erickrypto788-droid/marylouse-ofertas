@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 26/08/2026 05:53
+Gerado em: 26/08/2026 06:21
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Vestido Feminino Sem Manga Midi Elegante Soltinho Casual Festa Linho…
+Vestido Feminino Viscolycra Estampado Com Transpassado Casual Confort…
 
-💸 De: R$ 129,15
+💸 De: R$ 121,55
 🔥 Por: R$ 61,99
-🏷️ 52% OFF
+🏷️ 49% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/60R5t27MIr
+Ver oferta: https://s.shopee.com.br/6VNLLu4aQ7
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

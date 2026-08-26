@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 26/08/2026 13:22
+Gerado em: 26/08/2026 14:21
 
 ## Como usar
 
@@ -102,9 +102,9 @@ Gerado em: 26/08/2026 13:22
 
 **Produtos usados:**
 
-- Tela Magnética Monitor para Celular
 - Celular 5G 16GB+512GB Câmera HD
 - Carregador iPhone 20w Turbo USB-C | Carregador Adaptador Tipo C | Com…
+- Carregador Turbo Tipo C
 
 ---
 

@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 26/08/2026 13:26
+Gerado em: 26/08/2026 14:21
 
 ## Como usar
 
@@ -27,14 +27,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
 ```txt
 📱 Oferta para Celulares e Tecnologia
 
-Tela Magnética Monitor para Celular
+Celular 5G 16GB+512GB Câmera HD
 
-💸 De: R$ 399,65
-🔥 Por: R$ 135,88
-🏷️ 66% OFF
-🛒 Loja: Shopee
+💸 De: R$ 3.320,00
+🔥 Por: R$ 1.660,00
+🏷️ 50% OFF
+🛒 Loja: Mercado Livre
 
-Ver oferta: https://s.shopee.com.br/8plF4JMKjH
+Ver oferta: https://www.mercadolivre.com.br/p/MLB78262248?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

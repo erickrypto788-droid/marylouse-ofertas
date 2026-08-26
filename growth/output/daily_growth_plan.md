@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 26/08/2026 13:26
+Gerado em: 26/08/2026 14:21
 
 ## Categorias prioritárias
 
 - 💄 **Beleza**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 📱 **Celulares**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 🍼 **Mãe e Bebê**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🏋️ **Esportes**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 📦 **Outros**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 🧸 **Brinquedos**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
+- 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 🍳 **Casa e Cozinha**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 💻 **Informática**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 🔌 **Eletrodomésticos**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-eletrodomesticos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_eletrodomesticos
-- 📚 **Papelaria**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
+- 📦 **Outros**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 🐶 **Pet**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 
 ## Top ofertas para destacar
 
@@ -52,40 +52,40 @@ Gerado em: 26/08/2026 13:26
    - Desconto: 54% OFF
    - Link: https://s.shopee.com.br/7VFp1MERN4
 
-6. **Tela Magnética Monitor para Celular**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 135,88
-   - Desconto: 66% OFF
-   - Link: https://s.shopee.com.br/8plF4JMKjH
-
-7. **Panela Elétrica Britânia 2L**
+6. **Panela Elétrica Britânia 2L**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 139,90
    - Desconto: 30% OFF
    - Link: https://s.shopee.com.br/2BENBkdBFt
 
-8. **Suporte Para Notebook Base Dobrável de Alumínio Ergonômico Ajustável…**
+7. **Suporte Para Notebook Base Dobrável de Alumínio Ergonômico Ajustável…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 17,98
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/6VNL1Inzau
 
-9. **Whey Protein FTW 1kg Refil**
+8. **Whey Protein FTW 1kg Refil**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 78,90
    - Desconto: 60% OFF
    - Link: https://s.shopee.com.br/gPa8KI7ir
 
-10. **Carregador iPhone 20w Turbo USB-C | Carregador Adaptador Tipo C | Com…**
+9. **Carregador iPhone 20w Turbo USB-C | Carregador Adaptador Tipo C | Com…**
    - Categoria: Celulares
    - Loja: Mercado Livre
    - Preço: R$ 126,95
    - Desconto: 70% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB66364320?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+10. **Microfone de Lapela Duplo A'Gold**
+   - Categoria: Celulares
+   - Loja: Shopee
+   - Preço: R$ 69,99
+   - Desconto: 50% OFF
+   - Link: https://s.shopee.com.br/60R6DdWxRi
 
 ## Ações gratuitas recomendadas
 

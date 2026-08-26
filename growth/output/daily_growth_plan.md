@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 26/08/2026 13:06
+Gerado em: 26/08/2026 13:22
 
 ## Categorias prioritárias
 
-- 👟 **Calçados**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 💄 **Beleza**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 📱 **Celulares**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 🍼 **Mãe e Bebê**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 🏋️ **Esportes**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
+- 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 📦 **Outros**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 🍳 **Casa e Cozinha**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 💻 **Informática**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 🔌 **Eletrodomésticos**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-eletrodomesticos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_eletrodomesticos
 - 📚 **Papelaria**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
-- 🧒 **Moda Infantil**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-infantil.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-infantil
 
 ## Top ofertas para destacar
 
@@ -73,19 +73,19 @@ Gerado em: 26/08/2026 13:06
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/6VNL1Inzau
 
-9. **Carregador iPhone 20w Turbo USB-C | Carregador Adaptador Tipo C | Com…**
+9. **Whey Protein FTW 1kg Refil**
+   - Categoria: Pet
+   - Loja: Shopee
+   - Preço: R$ 78,90
+   - Desconto: 60% OFF
+   - Link: https://s.shopee.com.br/gPa8KI7ir
+
+10. **Carregador iPhone 20w Turbo USB-C | Carregador Adaptador Tipo C | Com…**
    - Categoria: Celulares
    - Loja: Mercado Livre
    - Preço: R$ 126,95
    - Desconto: 70% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB66364320?matt_word=marylouse&matt_tool=50459180&forceInApp=true
-
-10. **Microfone de Lapela Duplo A'Gold**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 69,99
-   - Desconto: 50% OFF
-   - Link: https://s.shopee.com.br/60R6DdWxRi
 
 ## Ações gratuitas recomendadas
 

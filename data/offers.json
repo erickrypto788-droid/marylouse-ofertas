@@ -1,5 +1,26 @@
 [
   {
+    "id": "ac25d4240fb8517f65",
+    "title": "Videogame Portátil Retro 10000+ Jogos",
+    "raw_title": "2025 Videogame Portatil Tela 5.8\" /4.8\" +10000 Jogos Retro 16GB, Console de Mão Memoria Expansivel",
+    "description": "🎮 VOLTE NO TEMPO! Mais de 10.000 jogos te esperam! Este Videogame Portátil 2025 com tela de 5.8\" / 4.8\" e memória expansível é a sua máquina de nostalgi...",
+    "marketplace": "Shopee",
+    "category": "Jogos e Consoles",
+    "old_price": "R$ 199,86",
+    "price": "R$ 139,90",
+    "discount_percent": 30.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7rdvp-m0enpdf28jf2a1",
+    "affiliate_url": "https://s.shopee.com.br/W6AbDPXzS",
+    "created_at": "26/08/2026 23:15",
+    "created_at_iso": "2026-08-26T23:15:43",
+    "created_ts": 1787786143,
+    "niche": {
+      "key": "shopee_jogos_consoles",
+      "name": "Jogos e Consoles"
+    }
+  },
+  {
     "id": "d0e79dc27ba915fc46",
     "title": "Puff Orgânico Curvo - 1 Metro Elegância e Conforto Moderno Feijao mod…",
     "raw_title": "Puff Orgânico Curvo - 1 Metro Elegância e Conforto Moderno Feijao moderno tecido premium",
@@ -2315,22 +2336,5 @@
       "key": "shopee_bolsas_masculinas",
       "name": "Bolsas Masculinas"
     }
-  },
-  {
-    "id": "fcd13e1dadb6abf8ed",
-    "title": "Ração Gato Estimacat Premium Filhote Sabor Frango 10kg",
-    "raw_title": "Ração Gato Estimacat Premium Filhote Sabor Frango 10kg",
-    "description": "🔥 25% OFF — Oferta encontrada! 📌 Ração Gato Estimacat Premium Filhote Sabor Frango 10kg Confira os detalhes e aproveite enquanto a oferta estiver dispon...",
-    "marketplace": "Mercado Livre",
-    "category": "Pet",
-    "old_price": "R$ 337,43",
-    "price": "R$ 253,07",
-    "discount_percent": 25.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_921645-MLA109036799255_032026-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66844874?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "25/08/2026 23:01",
-    "created_at_iso": "2026-08-25T23:01:30",
-    "created_ts": 1787698890
   }
 ]

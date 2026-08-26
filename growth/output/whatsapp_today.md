@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 26/08/2026 08:03
+Gerado em: 26/08/2026 08:18
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
 ```txt
 👟 Oferta para Moda e Calçados
 
-Bota Masculina Chelsea Confortável
+Tênis Feminino KNW Modinha
 
-💸 De: R$ 171,03
-🔥 Por: R$ 64,99
-🏷️ 62% OFF
+💸 De: R$ 128,71
+🔥 Por: R$ 39,90
+🏷️ 69% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/2gAcqz7t7O
+Ver oferta: https://s.shopee.com.br/9KhY7dZPPi
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

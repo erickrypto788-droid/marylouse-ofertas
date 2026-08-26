@@ -1,5 +1,22 @@
 [
   {
+    "id": "3f261b17e80e7b8ba3",
+    "title": "Roteador Wifi 6 Flt - X3000",
+    "raw_title": "Roteador Wifi 6 Dual Band Flt - X3000",
+    "description": "🚀 INTERNET TURBINADA! Chega de lentidão! Upgrade seu Wi-Fi com o Roteador Wifi 6 Dual Band Flt - X3000 e experimente uma conexão ultrarrápida e estável...",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "",
+    "price": "R$ 349,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_981879-MLA80519993733_112024-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB42833702?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "26/08/2026 11:01",
+    "created_at_iso": "2026-08-26T11:01:44",
+    "created_ts": 1787742104
+  },
+  {
     "id": "f46fef23f7afe90879",
     "title": "Ventilador de Coluna Britânia Maxx Force",
     "raw_title": "Ventilador de Coluna Britânia Maxx Force 6 Pás 75W BVC31A",
@@ -2332,47 +2349,5 @@
     "created_at": "25/08/2026 11:02",
     "created_at_iso": "2026-08-25T11:02:41",
     "created_ts": 1787655761
-  },
-  {
-    "id": "e86a203c5095cb95d0",
-    "title": "Par de Meias Classic Cano Médio Masculina Feminina Unissex Sortida",
-    "raw_title": "Par de Meias Classic Cano Médio Masculina Feminina Unissex Sortida",
-    "description": "🔥 20% OFF — Oferta encontrada! 📌 Par de Meias Classic Cano Médio Masculina Feminina Unissex Sortida Confira os detalhes e aproveite enquanto a oferta es...",
-    "marketplace": "Shopee",
-    "category": "Roupas Masculinas",
-    "old_price": "R$ 32,37",
-    "price": "R$ 25,90",
-    "discount_percent": 20.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mb5ol5whr27t08",
-    "affiliate_url": "https://s.shopee.com.br/8AVZGqvW8X",
-    "created_at": "25/08/2026 10:21",
-    "created_at_iso": "2026-08-25T10:21:01",
-    "created_ts": 1787653261,
-    "niche": {
-      "key": "shopee_roupas_masculinas",
-      "name": "Roupas Masculinas"
-    }
-  },
-  {
-    "id": "c59aad799efecc1076",
-    "title": "KIT 4 CALÇA MASCULINA JOGGER ACADEMIA COM STYLO REFLETIVO PROMOÇÃO 2K…",
-    "raw_title": "KIT 4 CALÇA MASCULINA JOGGER ACADEMIA COM STYLO REFLETIVO PROMOÇÃO 2K26",
-    "description": "🔥 33% OFF — Oferta encontrada! 📌 KIT 4 CALÇA MASCULINA JOGGER ACADEMIA COM STYLO REFLETIVO PROMOÇÃO 2K26 Confira os detalhes e aproveite enquanto a ofer...",
-    "marketplace": "Shopee",
-    "category": "Roupas Masculinas",
-    "old_price": "R$ 119,37",
-    "price": "R$ 79,98",
-    "discount_percent": 33.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-824h3-mfg7a26no0lp54",
-    "affiliate_url": "https://s.shopee.com.br/80C6TqD4xy",
-    "created_at": "25/08/2026 10:19",
-    "created_at_iso": "2026-08-25T10:19:57",
-    "created_ts": 1787653197,
-    "niche": {
-      "key": "shopee_roupas_masculinas",
-      "name": "Roupas Masculinas"
-    }
   }
 ]

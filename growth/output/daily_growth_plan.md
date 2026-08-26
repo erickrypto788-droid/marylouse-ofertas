@@ -1,18 +1,18 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 26/08/2026 07:12
+Gerado em: 26/08/2026 07:18
 
 ## Categorias prioritárias
 
 - 👗 **Moda Feminina**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 👕 **Moda Masculina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
-- 🍳 **Casa e Cozinha**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 🍼 **Mãe e Bebê**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 📦 **Outros**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - ✨ **Moda Plus Size**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
-- 💄 **Beleza**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 🍳 **Casa e Cozinha**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 🏋️ **Esportes**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 💄 **Beleza**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 
 ## Top ofertas para destacar
@@ -45,47 +45,47 @@ Gerado em: 26/08/2026 07:12
    - Desconto: 61% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB68808213?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-5. **Panela de Arroz Elétrica 1.8L**
-   - Categoria: Casa e Cozinha
-   - Loja: Shopee
-   - Preço: R$ 67,99
-   - Desconto: 66% OFF
-   - Link: https://s.shopee.com.br/W66bzIBpP
-
-6. **Panela Elétrica Britânia 2L**
+5. **Panela Elétrica Britânia 2L**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 139,90
    - Desconto: 30% OFF
    - Link: https://s.shopee.com.br/2BENBkdBFt
 
-7. **Suporte Para Notebook Base Dobrável de Alumínio Ergonômico Ajustável…**
+6. **Suporte Para Notebook Base Dobrável de Alumínio Ergonômico Ajustável…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 17,98
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/6VNL1Inzau
 
-8. **Kit 4 Blusinhas Baby Look**
+7. **Kit 4 Blusinhas Baby Look**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 52,99
    - Desconto: 54% OFF
    - Link: https://s.shopee.com.br/Lmj8cknwL
 
-9. **Kit 2 Formas de Silicone para Doces e Creatina**
+8. **Kit 2 Formas de Silicone para Doces e Creatina**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 22,99
    - Desconto: 54% OFF
    - Link: https://s.shopee.com.br/3g3AyVXTDK
 
-10. **Kit Porta Leite em Pó + Colher**
+9. **Kit Porta Leite em Pó + Colher**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 26,89
    - Desconto: 55% OFF
    - Link: https://s.shopee.com.br/7KwS4xQnYQ
+
+10. **Webcam com Microfone Full HD 1080p Giratória 360° Ajuste de Ângulo Li…**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 29,88
+   - Desconto: 57% OFF
+   - Link: https://s.shopee.com.br/19sXeeiXw
 
 ## Ações gratuitas recomendadas
 

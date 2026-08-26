@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 26/08/2026 07:12
+Gerado em: 26/08/2026 07:18
 
 ## Como usar
 
@@ -162,29 +162,29 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 6 — Moda Feminina
+## Post 6 — Moda e Calçados
 
-**Canal recomendado:** Moda Feminina
+**Canal recomendado:** Moda e Calçados
 
-**Horário sugerido:** 12:00 - 14:00
+**Horário sugerido:** 12:00 - 15:00
 
 **Imagem/card:**
 
-https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
+https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
 
 **Texto pronto:**
 
 ```txt
-👗 Oferta para Moda Feminina
+👟 Oferta para Moda e Calçados
 
-Vestido Feminino Viscolycra Estampado Com Transpassado Casual Confort…
+Bota Masculina Chelsea Confortável
 
-💸 De: R$ 121,55
-🔥 Por: R$ 61,99
-🏷️ 49% OFF
+💸 De: R$ 171,03
+🔥 Por: R$ 64,99
+🏷️ 62% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/6VNLLu4aQ7
+Ver oferta: https://s.shopee.com.br/2gAcqz7t7O
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

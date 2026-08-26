@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 26/08/2026 22:04
+Gerado em: 26/08/2026 22:22
 
 ## Como usar
 
@@ -12,7 +12,37 @@ Gerado em: 26/08/2026 22:04
 
 ---
 
-## Post 1 — Celulares e Tecnologia
+## Post 1 — Casa e Cozinha
+
+**Canal recomendado:** Casa e Cozinha
+
+**Horário sugerido:** 18:00 - 20:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
+
+**Texto pronto:**
+
+```txt
+🍳 Oferta para Casa e Cozinha
+
+Panela de Arroz Elétrica Fmaxx 10 Xícaras
+
+💸 De: R$ 399,97
+🔥 Por: R$ 139,99
+🏷️ 65% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/60R75Cop5m
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 2 — Celulares e Tecnologia
 
 **Canal recomendado:** Celulares e Tecnologia
 
@@ -42,7 +72,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 2 — Beleza e Cuidados
+## Post 3 — Beleza e Cuidados
 
 **Canal recomendado:** Beleza e Cuidados
 
@@ -72,7 +102,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 3 — Mamãe e Bebê
+## Post 4 — Mamãe e Bebê
 
 **Canal recomendado:** Mamãe e Bebê
 
@@ -95,36 +125,6 @@ Fralda Descartável Pampers Supersequinha Jumbo M 90 Tiras
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/3LQLZqNDSQ
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 4 — Casa e Cozinha
-
-**Canal recomendado:** Casa e Cozinha
-
-**Horário sugerido:** 18:00 - 20:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
-
-**Texto pronto:**
-
-```txt
-🍳 Oferta para Casa e Cozinha
-
-Jogo Panelas Ipanema 5 Peças Preto Nacional
-
-💸 De: R$ 404,69
-🔥 Por: R$ 305,90
-🏷️ 24% OFF
-🛒 Loja: Mercado Livre
-
-Ver oferta: https://www.mercadolivre.com.br/p/MLB75817439?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

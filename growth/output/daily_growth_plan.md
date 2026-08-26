@@ -1,91 +1,91 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 26/08/2026 22:04
+Gerado em: 26/08/2026 22:22
 
 ## Categorias prioritárias
 
 - 📚 **Papelaria**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
+- 📦 **Outros**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 🍳 **Casa e Cozinha**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 💻 **Informática**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 🍼 **Mãe e Bebê**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 🍳 **Casa e Cozinha**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 💄 **Beleza**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 📦 **Outros**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 👗 **Moda Feminina**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
-- 👜 **Bolsas**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
-- 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 👟 **Calçados**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 👜 **Bolsas**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 
 ## Top ofertas para destacar
 
-1. **Unidade De Estado Sólido Portátil SSD Externa E61 4TB 128TB 1TB 2TB T…**
+1. **Panela de Arroz Elétrica Fmaxx 10 Xícaras**
+   - Categoria: Casa e Cozinha
+   - Loja: Shopee
+   - Preço: R$ 139,99
+   - Desconto: 65% OFF
+   - Link: https://s.shopee.com.br/60R75Cop5m
+
+2. **Unidade De Estado Sólido Portátil SSD Externa E61 4TB 128TB 1TB 2TB T…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 57,46
    - Desconto: 74% OFF
    - Link: https://s.shopee.com.br/3Vjki5ISM9
 
-2. **Celular 5G 16GB+512GB Câmera HD**
+3. **Celular 5G 16GB+512GB Câmera HD**
    - Categoria: Celulares
    - Loja: Mercado Livre
    - Preço: R$ 1.660,00
    - Desconto: 50% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB78262248?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-3. **Secador Profissional 3200W**
+4. **Secador Profissional 3200W**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 49,99
    - Desconto: 50% OFF
    - Link: https://s.shopee.com.br/6q0DLPYUCX
 
-4. **Perfume Grace Midnight Hinode**
+5. **Perfume Grace Midnight Hinode**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 84,95
    - Desconto: 50% OFF
    - Link: https://s.shopee.com.br/5q7g9ZTQQI
 
-5. **SAMSUNG T5 Portable SSD 2TB 4TB 8TB 16TB External Solid State Drive U…**
+6. **SAMSUNG T5 Portable SSD 2TB 4TB 8TB 16TB External Solid State Drive U…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 154,00
    - Desconto: 61% OFF
    - Link: https://s.shopee.com.br/2BEN7dNX41
 
-6. **Mochila Reforçada Notebook Impermeável**
+7. **Mochila Reforçada Notebook Impermeável**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 29,90
    - Desconto: 41% OFF
    - Link: https://s.shopee.com.br/5ArztRYkOi
 
-7. **Panela Elétrica Britânia 2L**
+8. **Panela Elétrica Britânia 2L**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 139,90
    - Desconto: 30% OFF
    - Link: https://s.shopee.com.br/2BENBkdBFt
 
-8. **Suporte Para Notebook Base Dobrável de Alumínio Ergonômico Ajustável…**
+9. **Suporte Para Notebook Base Dobrável de Alumínio Ergonômico Ajustável…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 17,98
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/6VNL1Inzau
 
-9. **Jogo Panelas Ipanema 5 Peças Preto Nacional**
+10. **Galheteiro Vidro e Inox com Dosador**
    - Categoria: Casa e Cozinha
-   - Loja: Mercado Livre
-   - Preço: R$ 305,90
-   - Desconto: 24% OFF
-   - Link: https://www.mercadolivre.com.br/p/MLB75817439?matt_word=marylouse&matt_tool=50459180&forceInApp=true
-
-10. **Monitor Gamer Acer KG243Y**
-   - Categoria: Informática
    - Loja: Shopee
-   - Preço: R$ 599,00
-   - Desconto: 63% OFF
-   - Link: https://s.shopee.com.br/9V0zBVzmcq
+   - Preço: R$ 15,89
+   - Desconto: 60% OFF
+   - Link: https://s.shopee.com.br/7VFurxemXD
 
 ## Ações gratuitas recomendadas
 

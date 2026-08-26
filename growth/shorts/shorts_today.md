@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 26/08/2026 22:04
+Gerado em: 26/08/2026 22:22
 
 ## Como usar
 
@@ -54,9 +54,9 @@ Gerado em: 26/08/2026 22:04
 
 **Produtos usados:**
 
+- Panela de Arroz Elétrica Fmaxx 10 Xícaras
+- Galheteiro Vidro e Inox com Dosador
 - Jogo Panelas Ipanema 5 Peças Preto Nacional
-- Panela Elétrica Britânia 2L
-- Kit 2 Formas de Silicone para Doces e Creatina
 
 ---
 
@@ -121,11 +121,13 @@ Gerado em: 26/08/2026 22:04
 - growth/shorts/slides/supermercados/01_intro.png
 - growth/shorts/slides/supermercados/02_produto_1.png
 - growth/shorts/slides/supermercados/03_produto_2.png
+- growth/shorts/slides/supermercados/04_produto_3.png
 - growth/shorts/slides/supermercados/05_cta.png
 
 **Produtos usados:**
 
 - Papel higiênico INDAIAL CAICAI PAPEL HIGIENICO folha dupla 22.5 m de…
+- Puff Orgânico Curvo - 1 Metro Elegância e Conforto Moderno Feijao mod…
 - Kit Explosão de Azeite de Oliva | bn.Cachos
 
 ---

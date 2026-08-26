@@ -1,5 +1,47 @@
 [
   {
+    "id": "804591f7e3b0091c38",
+    "title": "TOMI MITO Bolsa Feminina com Alça Lateral Transversal Faixa de Mão de…",
+    "raw_title": "TOMI MITO Bolsa Feminina com Alça Lateral Transversal Faixa de Mão de Couro B736",
+    "description": "🔥 54% OFF — Oferta encontrada! 📌 TOMI MITO Bolsa Feminina com Alça Lateral Transversal Faixa de Mão de Couro B736 Confira os detalhes e aproveite enquan...",
+    "marketplace": "Shopee",
+    "category": "Bolsas Femininas",
+    "old_price": "R$ 130,41",
+    "price": "R$ 59,99",
+    "discount_percent": 54.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-824hz-mpj8tt3gjlkx51",
+    "affiliate_url": "https://s.shopee.com.br/2BEKKbAITq",
+    "created_at": "26/08/2026 18:16",
+    "created_at_iso": "2026-08-26T18:16:48",
+    "created_ts": 1787768208,
+    "niche": {
+      "key": "shopee_bolsas_femininas",
+      "name": "Bolsas Femininas"
+    }
+  },
+  {
+    "id": "db0b37cccb6aa2b184",
+    "title": "Bolsa de Praia Feminina Alça de Corda Elegante Grande e Resistente",
+    "raw_title": "Bolsa de Praia Feminina Alça de Corda Elegante Grande e Resistente",
+    "description": "🔥 57% OFF — Oferta encontrada! 📌 Bolsa de Praia Feminina Alça de Corda Elegante Grande e Resistente Confira os detalhes e aproveite enquanto a oferta es...",
+    "marketplace": "Shopee",
+    "category": "Bolsas Femininas",
+    "old_price": "R$ 59,33",
+    "price": "R$ 25,51",
+    "discount_percent": 57.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-me8bszdf5pmoee",
+    "affiliate_url": "https://s.shopee.com.br/7psl063EzQ",
+    "created_at": "26/08/2026 18:15",
+    "created_at_iso": "2026-08-26T18:15:44",
+    "created_ts": 1787768144,
+    "niche": {
+      "key": "shopee_bolsas_femininas",
+      "name": "Bolsas Femininas"
+    }
+  },
+  {
     "id": "ab7bc24fbc60f8fff6",
     "title": "Berço Portátil Infantil Cercado Desmontável Com Mosquiteiro Sleep Cin…",
     "raw_title": "Berço Portátil Infantil Cercado Desmontável Com Mosquiteiro Sleep Cinza Kababy",
@@ -2326,22 +2368,5 @@
       "key": "shopee_esportes_lazer",
       "name": "Esportes e Lazer"
     }
-  },
-  {
-    "id": "26428ff5a9d119bd8e",
-    "title": "Fone Bluetooth Esportivo",
-    "raw_title": "Fone Bluetooth Esportivo 320mah Fone Sem Fio Fone Academia Preto",
-    "description": "🏃‍♀️🎧 Treine com liberdade total! Chegou o Fone Bluetooth Esportivo 320mah, perfeito para sua academia e dia a dia. Desfrute de som de qualidade sem fio...",
-    "marketplace": "Mercado Livre",
-    "category": "Eletrônicos",
-    "old_price": "R$ 78,99",
-    "price": "R$ 51,56",
-    "discount_percent": 35.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_745206-MLA109600264562_042026-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68059006?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "25/08/2026 18:02",
-    "created_at_iso": "2026-08-25T18:02:00",
-    "created_ts": 1787680920
   }
 ]

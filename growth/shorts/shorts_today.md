@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 26/08/2026 01:22
+Gerado em: 26/08/2026 02:22
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 26/08/2026 01:22
 
 **Produtos usados:**
 
-- Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…
-- Fralda Hipopó Baby Mega Pacotão P-80 M-70 G-60 XG-50 XXG-50 XXG-40 PA…
+- Kit Porta Leite em Pó + Colher
 - Carrinho De Boneca Bebe Brinquedo Infantil Passeio
+- Pacotão Economico Huggies com 100 fraldas P(3,5 - 6kg) M(5,5 - 9,5kg)…
 
 ---
 
@@ -56,7 +56,7 @@ Gerado em: 26/08/2026 01:22
 
 - Air Fryer Gaabor Pocket 1.4L Branco
 - Panela de Arroz Elétrica 1.8L
-- Panela de Pressão Fortlar
+- Panela Elétrica Britânia 2L
 
 ---
 
@@ -126,8 +126,8 @@ Gerado em: 26/08/2026 01:22
 
 **Produtos usados:**
 
+- Kit Explosão de Azeite de Oliva | bn.Cachos
 - Creme Facial Kokeshi Pele de Porcelana
 - Condicionador Infantil Lowell Mirtilinho
-- Kit 100 Sacos de Lixo 60L
 
 ---

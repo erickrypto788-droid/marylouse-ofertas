@@ -1,6 +1,6 @@
 # Pinterest Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 26/08/2026 16:22
+Gerado em: 26/08/2026 17:26
 
 ## Como usar
 
@@ -30,7 +30,7 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
 
 **Descrição:**
 
-Veja ofertas de Mãe e Bebê selecionadas pela MaryLouse Ofertas. Destaque de hoje: Kit 4 Blusinhas Baby Look. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Veja ofertas de Mãe e Bebê selecionadas pela MaryLouse Ofertas. Destaque de hoje: Fralda Descartável Pampers Supersequinha Jumbo M 90 Tiras. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
@@ -38,7 +38,7 @@ https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=pinterest&
 
 **Por que postar:**
 
-Categoria com 10 oferta(s) e boa intenção de compra.
+Categoria com 15 oferta(s) e boa intenção de compra.
 
 ---
 
@@ -66,7 +66,7 @@ https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=pinter
 
 **Por que postar:**
 
-Categoria com 6 oferta(s) e boa intenção de compra.
+Categoria com 7 oferta(s) e boa intenção de compra.
 
 ---
 
@@ -94,7 +94,7 @@ https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=pinterest&ut
 
 **Por que postar:**
 
-Categoria com 11 oferta(s) e boa intenção de compra.
+Categoria com 6 oferta(s) e boa intenção de compra.
 
 ---
 

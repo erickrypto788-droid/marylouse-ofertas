@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 26/08/2026 16:22
+Gerado em: 26/08/2026 17:26
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 26/08/2026 16:22
 
 **Produtos usados:**
 
-- Kit 4 Blusinhas Baby Look
-- Kit Porta Leite em Pó + Colher
-- Carrinho De Boneca Bebe Brinquedo Infantil Passeio
+- Kit Pano de Boca 12 unidades 30x30cm 100%algodao
+- Fralda Descartável Pampers Supersequinha Jumbo M 90 Tiras
+- Fralda Infantil Huggies Meguinha Tamanho G 30 Unidades
 
 ---
 
@@ -80,7 +80,7 @@ Gerado em: 26/08/2026 16:22
 
 - Secador Profissional 3200W
 - Perfume Grace Midnight Hinode
-- Escova Secadora GOKOCO 7 em 1
+- Kit Principia Peles Sensíveis
 
 ---
 

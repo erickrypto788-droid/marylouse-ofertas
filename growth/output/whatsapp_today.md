@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 26/08/2026 16:22
+Gerado em: 26/08/2026 17:26
 
 ## Como usar
 
@@ -72,37 +72,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 3 — Ofertas Pet
-
-**Canal recomendado:** Ofertas Pet
-
-**Horário sugerido:** 17:00 - 20:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
-
-**Texto pronto:**
-
-```txt
-🐶 Oferta para Ofertas Pet
-
-Kit 2 Pares Sandália Infantil Papete Menina Casual Leve Lançamento
-
-💸 De: R$ 69,46
-🔥 Por: R$ 38,90
-🏷️ 44% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/6q0AsxOqJG
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 4 — Mamãe e Bebê
+## Post 3 — Mamãe e Bebê
 
 **Canal recomendado:** Mamãe e Bebê
 
@@ -117,14 +87,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
 ```txt
 🍼 Oferta para Mamãe e Bebê
 
-Tapete Higiênico para Cães
+Fralda Descartável Pampers Supersequinha Jumbo M 90 Tiras
 
-💸 De: R$ 49,15
-🔥 Por: R$ 29,98
-🏷️ 39% OFF
+💸 De: R$ 145,81
+🔥 Por: R$ 107,90
+🏷️ 26% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/1gI4zvwmkW
+Ver oferta: https://s.shopee.com.br/3LQLZqNDSQ
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
@@ -132,7 +102,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 5 — Casa e Cozinha
+## Post 4 — Casa e Cozinha
 
 **Canal recomendado:** Casa e Cozinha
 
@@ -155,6 +125,36 @@ Panela Elétrica Britânia 2L
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/2BENBkdBFt
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 5 — Ofertas Pet
+
+**Canal recomendado:** Ofertas Pet
+
+**Horário sugerido:** 17:00 - 20:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
+
+**Texto pronto:**
+
+```txt
+🐶 Oferta para Ofertas Pet
+
+Whey Protein FTW 1kg Refil
+
+💸 De: R$ 197,25
+🔥 Por: R$ 78,90
+🏷️ 60% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/gPa8KI7ir
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

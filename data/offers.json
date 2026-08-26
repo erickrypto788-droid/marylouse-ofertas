@@ -1,5 +1,47 @@
 [
   {
+    "id": "f30a7d9b75a9a7b4d0",
+    "title": "Tênis Sapatilha Masculino Aquático Impermeável",
+    "raw_title": "Tenis Sapatilha Masculino Casual Aquatico de Trilha Impermeável Com Solado Costurado E Elastico Ajustável",
+    "description": "OFERTA IMPERDÍVEL! 💥 Domine qualquer terreno com o Tênis Sapatilha Masculino Casual Aquático de Trilha! Impermeável, com solado costurado e elástico aju...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Masculinos",
+    "old_price": "R$ 109,83",
+    "price": "R$ 65,90",
+    "discount_percent": 40.0,
+    "rating": 4.6,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lv25ejj4lz1958",
+    "affiliate_url": "https://s.shopee.com.br/904heuCIar",
+    "created_at": "26/08/2026 07:16",
+    "created_at_iso": "2026-08-26T07:16:51",
+    "created_ts": 1787728611,
+    "niche": {
+      "key": "shopee_sapatos_masculinos",
+      "name": "Sapatos Masculinos"
+    }
+  },
+  {
+    "id": "29a6e7ebcd5b9f7da6",
+    "title": "Bota Masculina Chelsea Confortável",
+    "raw_title": "Bota Masculina Botina Chelsea Otimizada Confortável",
+    "description": "⚡️ IMPERDÍVEL! Bota Chelsea com 62% OFF! Estilo e conforto para seus pés com a Bota Masculina Botina Chelsea Otimizada! Perfeita para qualquer ocasião,...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Masculinos",
+    "old_price": "R$ 171,03",
+    "price": "R$ 64,99",
+    "discount_percent": 62.0,
+    "rating": 4.6,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcanm76pj00w61",
+    "affiliate_url": "https://s.shopee.com.br/2gAcqz7t7O",
+    "created_at": "26/08/2026 07:15",
+    "created_at_iso": "2026-08-26T07:15:43",
+    "created_ts": 1787728543,
+    "niche": {
+      "key": "shopee_sapatos_masculinos",
+      "name": "Sapatos Masculinos"
+    }
+  },
+  {
     "id": "306d96141a1febbc7e",
     "title": "Kit Corda Pular Perpetua Speed Rope Gladius, Corda Crossover para Cro…",
     "raw_title": "Kit Corda Pular Perpetua Speed Rope Gladius, Corda Crossover para Crossfit, Corda Pular Profissional para Treinos de Alta Velocidade, Disponível para Corda P...",
@@ -2424,94 +2466,5 @@
       "key": "shopee_bebidas_alimentos",
       "name": "Bebidas e Alimentos"
     }
-  },
-  {
-    "id": "107fad2af2af806004",
-    "title": "Panela de Arroz Elétrica 1.8L",
-    "raw_title": "1.8L Panela De Arroz Elétrica Multi-Camadas/De Dupla Camada Dormitório Doméstico Funções",
-    "description": "🚨 OFERTA RELÂMPAGO! 🚨 Simplifique sua vida na cozinha com a Panela de Arroz Elétrica 1.8L Multi-Funções! 🍚 Perfeita para dormitórios e casas, com várias...",
-    "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
-    "old_price": "R$ 199,97",
-    "price": "R$ 67,99",
-    "discount_percent": 66.0,
-    "rating": 4.7,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-821d4-mgpdkly8i4nh7c",
-    "affiliate_url": "https://s.shopee.com.br/W66bzIBpP",
-    "created_at": "25/08/2026 07:15",
-    "created_at_iso": "2026-08-25T07:15:49",
-    "created_ts": 1787642149,
-    "niche": {
-      "key": "shopee_bebidas_alimentos",
-      "name": "Bebidas e Alimentos"
-    }
-  },
-  {
-    "id": "68b2588906b6dc8d35",
-    "title": "Condicionador Infantil Lowell Mirtilinho",
-    "raw_title": "Condicionador Infantil Lowell Mirtilinho 240ml",
-    "description": "✨ Seus pequenos merecem o melhor! O Condicionador Infantil Lowell Mirtilinho 240ml deixa os cabelos super macios, cheirosos e fáceis de pentear. Perfeit...",
-    "marketplace": "Mercado Livre",
-    "category": "Supermercados",
-    "old_price": "",
-    "price": "R$ 77,50",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_616065-MLA109632684102_042026-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68094806?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "25/08/2026 07:08",
-    "created_at_iso": "2026-08-25T07:08:49",
-    "created_ts": 1787641729
-  },
-  {
-    "id": "2f1dbf268550ce9ab7",
-    "title": "Shampoo Buba Care",
-    "raw_title": "Shampoo Infantil 400ml Buba Care",
-    "description": "✨ Cuidado especial para o banho do seu pequeno! ✨ Garanta já o Shampoo Infantil Buba Care 400ml, perfeito para um cabelo macio e cheiroso. 👶🚿 👉 Com FRET...",
-    "marketplace": "Mercado Livre",
-    "category": "Beleza",
-    "old_price": "",
-    "price": "R$ 42,00",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_854434-MLA99387192890_112025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29671809?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "25/08/2026 07:07",
-    "created_at_iso": "2026-08-25T07:07:40",
-    "created_ts": 1787641660
-  },
-  {
-    "id": "3fc8a5be8b729d6f5d",
-    "title": "Kit 100 Sacos de Lixo 60L",
-    "raw_title": "100 Saco De Lixo 60l Preto Saco Lixo Resistente Reforçado",
-    "description": "✨ ORGANIZAÇÃO E ECONOMIA! ✨ Garanta já seu kit com 100 Sacos de Lixo 60L, pretos, resistentes e reforçados! Perfeitos para o dia a dia, sem preocupações...",
-    "marketplace": "Mercado Livre",
-    "category": "Supermercados",
-    "old_price": "",
-    "price": "R$ 45,60",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_710022-MLA97185380040_112025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB61910184?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "25/08/2026 07:06",
-    "created_at_iso": "2026-08-25T07:06:32",
-    "created_ts": 1787641592
-  },
-  {
-    "id": "7cd4d94cf0ec2cd0dd",
-    "title": "Sabão em Pó Tixan Ypê 2.2kg",
-    "raw_title": "Sabão em pó Ypê Lava Roupas em Pó Tixan Lava Roupas em pó garrafa 2.2 kg",
-    "description": "🚨 Oportunidade para sua casa! Sabão em pó Ypê Tixan 2.2kg com precinho imperdível! Suas roupas limpas e cheirosas com uma economia que vale a pena. ✨",
-    "marketplace": "Mercado Livre",
-    "category": "Supermercados",
-    "old_price": "R$ 34,49",
-    "price": "R$ 27,94",
-    "discount_percent": 19.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_859332-MLA110236441709_042026-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51325266?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "25/08/2026 07:05",
-    "created_at_iso": "2026-08-25T07:05:22",
-    "created_ts": 1787641522
   }
 ]

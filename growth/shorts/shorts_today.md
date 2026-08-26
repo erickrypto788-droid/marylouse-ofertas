@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 26/08/2026 11:03
+Gerado em: 26/08/2026 11:22
 
 ## Como usar
 
@@ -54,9 +54,9 @@ Gerado em: 26/08/2026 11:03
 
 **Produtos usados:**
 
-- Air Fryer Gaabor Pocket 1.4L Branco
 - Panela Elétrica Britânia 2L
 - Panela de Pressão Fortlar
+- Kit 2 Formas de Silicone para Doces e Creatina
 
 ---
 
@@ -78,9 +78,9 @@ Gerado em: 26/08/2026 11:03
 
 **Produtos usados:**
 
+- Secador Profissional 3200W
+- Perfume Grace Midnight Hinode
 - Escova Secadora GOKOCO 7 em 1
-- Escova 5 em 1 Profissional
-- Principia Kit Duo c/ 2 Protetores Solares Faciais - PS-01 FPS 60
 
 ---
 

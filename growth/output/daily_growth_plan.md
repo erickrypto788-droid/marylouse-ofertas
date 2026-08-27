@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 27/08/2026 01:21
+Gerado em: 27/08/2026 02:19
 
 ## Categorias prioritárias
 
 - 👗 **Moda Feminina**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
-- 🍼 **Mãe e Bebê**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 🍳 **Casa e Cozinha**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
+- 🍼 **Mãe e Bebê**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 👕 **Moda Masculina**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
-- 📦 **Outros**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 🍳 **Casa e Cozinha**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
+- ✨ **Moda Plus Size**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
+- 📦 **Outros**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 💄 **Beleza**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 📚 **Papelaria**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 - 👟 **Calçados**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 🏋️ **Esportes**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 
 ## Top ofertas para destacar
 
@@ -59,33 +59,33 @@ Gerado em: 27/08/2026 01:21
    - Desconto: 41% OFF
    - Link: https://s.shopee.com.br/5ArztRYkOi
 
-7. **Panela Elétrica Britânia 2L**
-   - Categoria: Casa e Cozinha
-   - Loja: Shopee
-   - Preço: R$ 139,90
-   - Desconto: 30% OFF
-   - Link: https://s.shopee.com.br/2BENBkdBFt
-
-8. **Galheteiro Vidro e Inox com Dosador**
+7. **Galheteiro Vidro e Inox com Dosador**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 15,89
    - Desconto: 60% OFF
    - Link: https://s.shopee.com.br/7VFurxemXD
 
-9. **Jogo Panelas Ipanema 5 Peças Preto Nacional**
+8. **Jogo Panelas Ipanema 5 Peças Preto Nacional**
    - Categoria: Casa e Cozinha
    - Loja: Mercado Livre
    - Preço: R$ 305,90
    - Desconto: 24% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB75817439?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-10. **Monitor Gamer Acer KG243Y**
+9. **Monitor Gamer Acer KG243Y**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 599,00
    - Desconto: 63% OFF
    - Link: https://s.shopee.com.br/9V0zBVzmcq
+
+10. **Fralda Descartável Pampers Supersequinha Jumbo M 90 Tiras**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 107,90
+   - Desconto: 26% OFF
+   - Link: https://s.shopee.com.br/3LQLZqNDSQ
 
 ## Ações gratuitas recomendadas
 

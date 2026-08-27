@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 27/08/2026 21:17
+Gerado em: 27/08/2026 22:21
 
 ## Categorias prioritárias
 
-- 📦 **Outros**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 👟 **Calçados**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 👗 **Moda Feminina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 👕 **Moda Masculina**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
-- 💻 **Informática**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 📦 **Outros**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 🍼 **Mãe e Bebê**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 👟 **Calçados**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 💻 **Informática**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 🏋️ **Esportes**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 💄 **Beleza**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - ✨ **Moda Plus Size**: 4 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
+- 📱 **Celulares**: 4 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 
 ## Top ofertas para destacar
 
@@ -24,68 +24,68 @@ Gerado em: 27/08/2026 21:17
    - Desconto: 50% OFF
    - Link: https://s.shopee.com.br/AUtX2YbcSw
 
-2. **Panela de Arroz Elétrica Fmaxx 10 Xícaras**
-   - Categoria: Casa e Cozinha
-   - Loja: Shopee
-   - Preço: R$ 139,99
-   - Desconto: 65% OFF
-   - Link: https://s.shopee.com.br/60R75Cop5m
-
-3. **Unidade De Estado Sólido Portátil SSD Externa E61 4TB 128TB 1TB 2TB T…**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 57,46
-   - Desconto: 74% OFF
-   - Link: https://s.shopee.com.br/3Vjki5ISM9
-
-4. **Amplificador De Imagem Da Tela Do Celular Lupa 3D 21,6CM*16,6CM*2,7CM…**
+2. **Amplificador De Imagem Da Tela Do Celular Lupa 3D 21,6CM*16,6CM*2,7CM…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 17,99
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/8plIvFv041
 
-5. **Kit Gamer Teclado + Mouse RGB**
+3. **Kit Gamer Teclado + Mouse RGB**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 46,50
    - Desconto: 53% OFF
    - Link: https://s.shopee.com.br/3LQN6X9xSJ
 
-6. **Fralda Premium Huggies Natural Care Aberta RN/P/M/G**
+4. **Fralda Premium Huggies Natural Care Aberta RN/P/M/G**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 43,90
    - Desconto: 20% OFF
    - Link: https://s.shopee.com.br/19urrWFuC
 
-7. **Oxímetro Infantil Neonatal Pediátrico De Dedo Digital Crianças Medido…**
+5. **Oxímetro Infantil Neonatal Pediátrico De Dedo Digital Crianças Medido…**
    - Categoria: Saúde
    - Loja: Shopee
    - Preço: R$ 25,99
    - Desconto: 61% OFF
    - Link: https://s.shopee.com.br/2BEPNiustY
 
-8. **Escova Rotativa 2 em 1**
+6. **Escova Rotativa 2 em 1**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 99,99
    - Desconto: 67% OFF
    - Link: https://s.shopee.com.br/AKa6qFcFnv
 
-9. **Galheteiro Vidro e Inox com Dosador**
-   - Categoria: Casa e Cozinha
+7. **Suporte Roteador Sem Furo**
+   - Categoria: Informática
    - Loja: Shopee
-   - Preço: R$ 15,89
-   - Desconto: 60% OFF
-   - Link: https://s.shopee.com.br/7VFurxemXD
+   - Preço: R$ 13,90
+   - Desconto: 36% OFF
+   - Link: https://s.shopee.com.br/112SKFedIz
 
-10. **Jogo Panelas Ipanema 5 Peças Preto Nacional**
-   - Categoria: Casa e Cozinha
+8. **Monitor Gamer AOC AGON G50**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 618,48
+   - Desconto: 42% OFF
+   - Link: https://s.shopee.com.br/8V8TG1z1FW
+
+9. **Papel Sulfite A4 Chamex 500 Folhas**
+   - Categoria: Celulares
+   - Loja: Shopee
+   - Preço: R$ 28,01
+   - Desconto: 44% OFF
+   - Link: https://s.shopee.com.br/4fvkcnza1s
+
+10. **Fralda Huggies Tripla Proteção G 36 unidades**
+   - Categoria: Mãe e Bebê
    - Loja: Mercado Livre
-   - Preço: R$ 305,90
-   - Desconto: 24% OFF
-   - Link: https://www.mercadolivre.com.br/p/MLB75817439?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+   - Preço: R$ 121,99
+   - Desconto: Oferta
+   - Link: https://www.mercadolivre.com.br/p/MLB17336422?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ## Ações gratuitas recomendadas
 

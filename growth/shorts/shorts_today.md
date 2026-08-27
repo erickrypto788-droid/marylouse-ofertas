@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 27/08/2026 21:17
+Gerado em: 27/08/2026 22:21
 
 ## Como usar
 
@@ -48,15 +48,11 @@ Gerado em: 27/08/2026 21:17
 
 - growth/shorts/slides/casa_cozinha/01_intro.png
 - growth/shorts/slides/casa_cozinha/02_produto_1.png
-- growth/shorts/slides/casa_cozinha/03_produto_2.png
-- growth/shorts/slides/casa_cozinha/04_produto_3.png
 - growth/shorts/slides/casa_cozinha/05_cta.png
 
 **Produtos usados:**
 
-- Panela de Arroz Elétrica Fmaxx 10 Xícaras
-- Galheteiro Vidro e Inox com Dosador
-- Jogo Panelas Ipanema 5 Peças Preto Nacional
+- Cafeteira Elétrica Britânia 250ml 450W Preto Duo Coffee
 
 ---
 
@@ -104,7 +100,7 @@ Gerado em: 27/08/2026 21:17
 
 - Amplificador De Imagem Da Tela Do Celular Lupa 3D 21,6CM*16,6CM*2,7CM…
 - Papel Sulfite A4 Chamex 500 Folhas
-- Protetor Câmera Anti-espião
+- YoPRO Chocolate 15g de proteínas 250ml - 12 unidades
 
 ---
 

@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 27/08/2026 21:17
+Gerado em: 27/08/2026 22:21
 
 ## Como usar
 
@@ -12,37 +12,7 @@ Gerado em: 27/08/2026 21:17
 
 ---
 
-## Post 1 — Casa e Cozinha
-
-**Canal recomendado:** Casa e Cozinha
-
-**Horário sugerido:** 18:00 - 20:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
-
-**Texto pronto:**
-
-```txt
-🍳 Oferta para Casa e Cozinha
-
-Panela de Arroz Elétrica Fmaxx 10 Xícaras
-
-💸 De: R$ 399,97
-🔥 Por: R$ 139,99
-🏷️ 65% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/60R75Cop5m
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 2 — Celulares e Tecnologia
+## Post 1 — Celulares e Tecnologia
 
 **Canal recomendado:** Celulares e Tecnologia
 
@@ -72,7 +42,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 3 — Beleza e Cuidados
+## Post 2 — Beleza e Cuidados
 
 **Canal recomendado:** Beleza e Cuidados
 
@@ -102,7 +72,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Mamãe e Bebê
+## Post 3 — Mamãe e Bebê
 
 **Canal recomendado:** Mamãe e Bebê
 
@@ -132,7 +102,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 5 — Saúde
+## Post 4 — Saúde
 
 **Canal recomendado:** Saúde e Bem-estar
 
@@ -162,7 +132,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 6 — Moda Feminina
+## Post 5 — Moda Feminina
 
 **Canal recomendado:** Moda Feminina
 
@@ -185,6 +155,36 @@ kit 3 Blusinha de Alcinha Feminina Básica Suplex Justa Moda Verão qu…
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/50YbHtcuin
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 6 — Moda e Calçados
+
+**Canal recomendado:** Moda e Calçados
+
+**Horário sugerido:** 12:00 - 15:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
+
+**Texto pronto:**
+
+```txt
+👟 Oferta para Moda e Calçados
+
+Tênis De Corrida Profissional Ultraleve Com Placa De Carbono De Sola…
+
+💸 De: R$ 99,98
+🔥 Por: R$ 56,99
+🏷️ 43% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/6L3xsXBCfL
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

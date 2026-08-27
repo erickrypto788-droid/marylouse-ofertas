@@ -1,6 +1,6 @@
 # Pinterest Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 27/08/2026 21:17
+Gerado em: 27/08/2026 22:21
 
 ## Como usar
 
@@ -58,7 +58,7 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
 
 **Descrição:**
 
-Veja ofertas de Casa e Cozinha selecionadas pela MaryLouse Ofertas. Destaque de hoje: Panela de Arroz Elétrica Fmaxx 10 Xícaras. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Veja ofertas de Casa e Cozinha selecionadas pela MaryLouse Ofertas. Destaque de hoje: Cafeteira Elétrica Britânia 250ml 450W Preto Duo Coffee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
@@ -66,7 +66,7 @@ https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=pinter
 
 **Por que postar:**
 
-Categoria com 4 oferta(s) e boa intenção de compra.
+Categoria com 1 oferta(s) e boa intenção de compra.
 
 ---
 
@@ -122,34 +122,34 @@ https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=pinterest
 
 **Por que postar:**
 
-Categoria com 6 oferta(s) e boa intenção de compra.
+Categoria com 4 oferta(s) e boa intenção de compra.
 
 ---
 
-## Pin 5 — Casa e Cozinha
+## Pin 5 — Beleza
 
 **Tipo:** produto_direto
 
-**Board sugerido:** Achadinhos de Casa
+**Board sugerido:** Beleza e Cuidados
 
 **Imagem para upload no Pinterest:**
 
-https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
+https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
 
 **Título:**
 
-65% OFF: Panela de Arroz Elétrica Fmaxx 10 Xícaras
+50% OFF: Secador LONYAN Profissional com Difusor
 
 **Descrição:**
 
-Oferta destaque em Casa e Cozinha encontrada pela MaryLouse Ofertas. Preço: R$ 139,99. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Oferta destaque em Beleza encontrada pela MaryLouse Ofertas. Preço: R$ 79,00. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
-https://s.shopee.com.br/60R75Cop5m
+https://s.shopee.com.br/AUtX2YbcSw
 
 **Por que postar:**
 
-Produto com bom score orgânico (100) e link direto afiliado.
+Produto com bom score orgânico (90) e link direto afiliado.
 
 ---

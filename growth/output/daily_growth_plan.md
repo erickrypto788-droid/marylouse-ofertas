@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 27/08/2026 17:22
+Gerado em: 27/08/2026 19:21
 
 ## Categorias prioritárias
 
+- 👗 **Moda Feminina**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 📦 **Outros**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
-- 🍼 **Mãe e Bebê**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 💻 **Informática**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 📚 **Papelaria**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
+- 🍼 **Mãe e Bebê**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 💻 **Informática**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 👟 **Calçados**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 👗 **Moda Feminina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 💄 **Beleza**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
-- 👜 **Bolsas**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 - 🏋️ **Esportes**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
+- 🍳 **Casa e Cozinha**: 4 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 
 ## Top ofertas para destacar
 
@@ -45,47 +45,47 @@ Gerado em: 27/08/2026 17:22
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/8plIvFv041
 
-5. **Mochila Reforçada Notebook Impermeável**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 29,90
-   - Desconto: 41% OFF
-   - Link: https://s.shopee.com.br/5ArztRYkOi
-
-6. **Kit Gamer Teclado + Mouse RGB**
+5. **Kit Gamer Teclado + Mouse RGB**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 46,50
    - Desconto: 53% OFF
    - Link: https://s.shopee.com.br/3LQN6X9xSJ
 
-7. **Fralda Premium Huggies Natural Care Aberta RN/P/M/G**
+6. **Fralda Premium Huggies Natural Care Aberta RN/P/M/G**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 43,90
    - Desconto: 20% OFF
    - Link: https://s.shopee.com.br/19urrWFuC
 
-8. **Oxímetro Infantil Neonatal Pediátrico De Dedo Digital Crianças Medido…**
+7. **Oxímetro Infantil Neonatal Pediátrico De Dedo Digital Crianças Medido…**
    - Categoria: Saúde
    - Loja: Shopee
    - Preço: R$ 25,99
    - Desconto: 61% OFF
    - Link: https://s.shopee.com.br/2BEPNiustY
 
-9. **Escova Rotativa 2 em 1**
+8. **Escova Rotativa 2 em 1**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 99,99
    - Desconto: 67% OFF
    - Link: https://s.shopee.com.br/AKa6qFcFnv
 
-10. **Galheteiro Vidro e Inox com Dosador**
+9. **Galheteiro Vidro e Inox com Dosador**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 15,89
    - Desconto: 60% OFF
    - Link: https://s.shopee.com.br/7VFurxemXD
+
+10. **Jogo Panelas Ipanema 5 Peças Preto Nacional**
+   - Categoria: Casa e Cozinha
+   - Loja: Mercado Livre
+   - Preço: R$ 305,90
+   - Desconto: 24% OFF
+   - Link: https://www.mercadolivre.com.br/p/MLB75817439?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ## Ações gratuitas recomendadas
 

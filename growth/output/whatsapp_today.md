@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 27/08/2026 17:22
+Gerado em: 27/08/2026 19:21
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Kit 4 Tops Cropped Academia
+kit 3 Blusinha de Alcinha Feminina Básica Suplex Justa Moda Verão qu…
 
-💸 De: R$ 99,80
-🔥 Por: R$ 49,90
-🏷️ 50% OFF
+💸 De: R$ 59,98
+🔥 Por: R$ 34,79
+🏷️ 42% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/60R7DS6rPX
+Ver oferta: https://s.shopee.com.br/50YbHtcuin
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

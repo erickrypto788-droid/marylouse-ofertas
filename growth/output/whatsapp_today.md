@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 27/08/2026 23:04
+Gerado em: 27/08/2026 23:19
 
 ## Como usar
 
@@ -102,7 +102,37 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Saúde
+## Post 4 — Moda e Calçados
+
+**Canal recomendado:** Moda e Calçados
+
+**Horário sugerido:** 12:00 - 15:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
+
+**Texto pronto:**
+
+```txt
+👟 Oferta para Moda e Calçados
+
+Sandália Rasteira Feminina com Nó
+
+💸 De: R$ 89,75
+🔥 Por: R$ 35,90
+🏷️ 60% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/1qbYWGfSrH
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 5 — Saúde
 
 **Canal recomendado:** Saúde e Bem-estar
 
@@ -132,7 +162,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 5 — Moda Feminina
+## Post 6 — Moda Feminina
 
 **Canal recomendado:** Moda Feminina
 
@@ -155,36 +185,6 @@ kit 3 Blusinha de Alcinha Feminina Básica Suplex Justa Moda Verão qu…
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/50YbHtcuin
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 6 — Moda e Calçados
-
-**Canal recomendado:** Moda e Calçados
-
-**Horário sugerido:** 12:00 - 15:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
-
-**Texto pronto:**
-
-```txt
-👟 Oferta para Moda e Calçados
-
-Tênis De Corrida Profissional Ultraleve Com Placa De Carbono De Sola…
-
-💸 De: R$ 99,98
-🔥 Por: R$ 56,99
-🏷️ 43% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/6L3xsXBCfL
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

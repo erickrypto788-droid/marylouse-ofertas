@@ -1,5 +1,47 @@
 [
   {
+    "id": "34a7e14a9b5a5b2960",
+    "title": "Bolsa Mala Academia Viagem Fitness",
+    "raw_title": "Bolsa Mala Academia Viagem Imagem Fitness Transversal Casual Masculino e Feminina--luna_hyq",
+    "description": "🚨 IMPERDÍVEL! Bolsa Versátil para TUDO! 🚨 Leve tudo o que você precisa com estilo e praticidade! 🎒 Essa bolsa mala é perfeita para academia, viagens ou...",
+    "marketplace": "Shopee",
+    "category": "Bolsas Femininas",
+    "old_price": "R$ 79,46",
+    "price": "R$ 30,99",
+    "discount_percent": 61.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m2yon0d6wjydc2",
+    "affiliate_url": "https://s.shopee.com.br/40g3hLo4n1",
+    "created_at": "27/08/2026 13:17",
+    "created_at_iso": "2026-08-27T13:17:01",
+    "created_ts": 1787836621,
+    "niche": {
+      "key": "shopee_bolsas_femininas",
+      "name": "Bolsas Femininas"
+    }
+  },
+  {
+    "id": "d81db96fcff32a5ca3",
+    "title": "Bolsa Feminina Baú Transversal Média com Lenço Alça Tiracolo Estrutur…",
+    "raw_title": "Bolsa Feminina Baú Transversal Média com Lenço Alça Tiracolo Estruturada e Espaçosa",
+    "description": "🔥 67% OFF — Oferta encontrada! 📌 Bolsa Feminina Baú Transversal Média com Lenço Alça Tiracolo Estruturada e Espaçosa Confira os detalhes e aproveite enq...",
+    "marketplace": "Shopee",
+    "category": "Bolsas Femininas",
+    "old_price": "R$ 121,15",
+    "price": "R$ 39,98",
+    "discount_percent": 67.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-825av-mrgkchcezqpu43",
+    "affiliate_url": "https://s.shopee.com.br/904jeXHqNb",
+    "created_at": "27/08/2026 13:15",
+    "created_at_iso": "2026-08-27T13:15:51",
+    "created_ts": 1787836551,
+    "niche": {
+      "key": "shopee_bolsas_femininas",
+      "name": "Bolsas Femininas"
+    }
+  },
+  {
     "id": "230685ee0f67a4978a",
     "title": "Detergente Sabão Lava Louça Pastilha + Lava Máquina Unik",
     "raw_title": "Detergente Sabão Lava Louça Pastilha + Lava Máquina Unik",
@@ -2090,27 +2132,6 @@
     "created_at": "26/08/2026 13:17",
     "created_at_iso": "2026-08-26T13:17:05",
     "created_ts": 1787750225,
-    "niche": {
-      "key": "shopee_esportes_lazer",
-      "name": "Esportes e Lazer"
-    }
-  },
-  {
-    "id": "df2c8f70a4adb5a206",
-    "title": "Kit Halteres 6 Em 1 Ajustável",
-    "raw_title": "【15KG/20KG/26KG】Kit Halteres 6 Em 1 15/20/26Kg Musculação Ajustável Kettlebell Barra Anilha",
-    "description": "🔥 Seu treino completo em casa com 62% OFF! 💪 Chegou o Kit Halteres 6 Em 1 Ajustável! Tenha Halteres, Kettlebell, Barra e Anilhas em um só equipamento, p...",
-    "marketplace": "Shopee",
-    "category": "Esportes e Lazer",
-    "old_price": "R$ 497,11",
-    "price": "R$ 188,90",
-    "discount_percent": 62.0,
-    "rating": 5.0,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mnfqa324x1xg04",
-    "affiliate_url": "https://s.shopee.com.br/7VFuGsRzHI",
-    "created_at": "26/08/2026 13:15",
-    "created_at_iso": "2026-08-26T13:15:53",
-    "created_ts": 1787750153,
     "niche": {
       "key": "shopee_esportes_lazer",
       "name": "Esportes e Lazer"

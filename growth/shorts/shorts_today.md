@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 27/08/2026 22:21
+Gerado em: 27/08/2026 23:04
 
 ## Como usar
 
@@ -100,7 +100,7 @@ Gerado em: 27/08/2026 22:21
 
 - Amplificador De Imagem Da Tela Do Celular Lupa 3D 21,6CM*16,6CM*2,7CM…
 - Papel Sulfite A4 Chamex 500 Folhas
-- YoPRO Chocolate 15g de proteínas 250ml - 12 unidades
+- Xiaomi Redmi Note 15
 
 ---
 
@@ -124,6 +124,6 @@ Gerado em: 27/08/2026 22:21
 
 - Casca De Arroz Carbonizada Substrato Para Horta Jardim Plantas Vaso C…
 - 1/2/3/4 Boleadores de Doces Brigadeiros Forma Enrolador Modelador de…
-- Puff Orgânico Curvo - 1 Metro Elegância e Conforto Moderno Feijao mod…
+- Detergente Sabão Lava Louça Pastilha + Lava Máquina Unik
 
 ---

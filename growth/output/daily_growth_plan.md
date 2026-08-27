@@ -1,16 +1,16 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 27/08/2026 11:03
+Gerado em: 27/08/2026 11:18
 
 ## Categorias prioritárias
 
-- 💄 **Beleza**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 💄 **Beleza**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 👟 **Calçados**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 🏋️ **Esportes**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 🍼 **Mãe e Bebê**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 👗 **Moda Feminina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 🧸 **Brinquedos**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
-- 💻 **Informática**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- ❤️ **Saúde**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 🧒 **Moda Infantil**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-infantil.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-infantil
 - 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
@@ -52,26 +52,26 @@ Gerado em: 27/08/2026 11:03
    - Desconto: 50% OFF
    - Link: https://s.shopee.com.br/6q0DLPYUCX
 
-6. **Perfume Grace Midnight Hinode**
-   - Categoria: Beleza
-   - Loja: Shopee
-   - Preço: R$ 84,95
-   - Desconto: 50% OFF
-   - Link: https://s.shopee.com.br/5q7g9ZTQQI
-
-7. **Amplificador De Imagem Da Tela Do Celular Lupa 3D 21,6CM*16,6CM*2,7CM…**
+6. **Amplificador De Imagem Da Tela Do Celular Lupa 3D 21,6CM*16,6CM*2,7CM…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 17,99
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/8plIvFv041
 
-8. **Mochila Reforçada Notebook Impermeável**
+7. **Mochila Reforçada Notebook Impermeável**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 29,90
    - Desconto: 41% OFF
    - Link: https://s.shopee.com.br/5ArztRYkOi
+
+8. **Oxímetro Infantil Neonatal Pediátrico De Dedo Digital Crianças Medido…**
+   - Categoria: Saúde
+   - Loja: Shopee
+   - Preço: R$ 25,99
+   - Desconto: 61% OFF
+   - Link: https://s.shopee.com.br/2BEPNiustY
 
 9. **Escova Rotativa 2 em 1**
    - Categoria: Beleza

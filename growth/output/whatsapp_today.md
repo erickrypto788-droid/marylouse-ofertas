@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 27/08/2026 11:03
+Gerado em: 27/08/2026 11:18
 
 ## Como usar
 
@@ -162,29 +162,29 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 6 — Moda Feminina
+## Post 6 — Saúde
 
-**Canal recomendado:** Moda Feminina
+**Canal recomendado:** Saúde e Bem-estar
 
-**Horário sugerido:** 12:00 - 14:00
+**Horário sugerido:** 09:00 - 11:00
 
 **Imagem/card:**
 
-https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
+https://marylouse-ofertas.vercel.app/growth/pinterest/saude.png
 
 **Texto pronto:**
 
 ```txt
-👗 Oferta para Moda Feminina
+❤️ Oferta para Saúde
 
-Kit 4 Tops Cropped Academia
+Oxímetro Infantil Neonatal Pediátrico De Dedo Digital Crianças Medido…
 
-💸 De: R$ 99,80
-🔥 Por: R$ 49,90
-🏷️ 50% OFF
+💸 De: R$ 66,64
+🔥 Por: R$ 25,99
+🏷️ 61% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/60R7DS6rPX
+Ver oferta: https://s.shopee.com.br/2BEPNiustY
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

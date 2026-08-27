@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 27/08/2026 04:18
+Gerado em: 27/08/2026 05:19
 
 ## Categorias prioritárias
 
 - 👟 **Calçados**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 👗 **Moda Feminina**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
-- 👕 **Moda Masculina**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
+- 📦 **Outros**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - ✨ **Moda Plus Size**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
-- 🍼 **Mãe e Bebê**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 🍳 **Casa e Cozinha**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
+- 👗 **Moda Feminina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
+- 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 🍼 **Mãe e Bebê**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 👕 **Moda Masculina**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 - 💄 **Beleza**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
-- 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 💻 **Informática**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 🍳 **Casa e Cozinha**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 
 ## Top ofertas para destacar
 
@@ -52,40 +52,40 @@ Gerado em: 27/08/2026 04:18
    - Desconto: 50% OFF
    - Link: https://s.shopee.com.br/5q7g9ZTQQI
 
-6. **Mochila Reforçada Notebook Impermeável**
+6. **Amplificador De Imagem Da Tela Do Celular Lupa 3D 21,6CM*16,6CM*2,7CM…**
+   - Categoria: Celulares
+   - Loja: Shopee
+   - Preço: R$ 17,99
+   - Desconto: 40% OFF
+   - Link: https://s.shopee.com.br/8plIvFv041
+
+7. **Mochila Reforçada Notebook Impermeável**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 29,90
    - Desconto: 41% OFF
    - Link: https://s.shopee.com.br/5ArztRYkOi
 
-7. **Galheteiro Vidro e Inox com Dosador**
+8. **Galheteiro Vidro e Inox com Dosador**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 15,89
    - Desconto: 60% OFF
    - Link: https://s.shopee.com.br/7VFurxemXD
 
-8. **Jogo Panelas Ipanema 5 Peças Preto Nacional**
+9. **Jogo Panelas Ipanema 5 Peças Preto Nacional**
    - Categoria: Casa e Cozinha
    - Loja: Mercado Livre
    - Preço: R$ 305,90
    - Desconto: 24% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB75817439?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-9. **Monitor Gamer Acer KG243Y**
+10. **Monitor Gamer Acer KG243Y**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 599,00
    - Desconto: 63% OFF
    - Link: https://s.shopee.com.br/9V0zBVzmcq
-
-10. **Fralda Descartável Pampers Supersequinha Jumbo M 90 Tiras**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 107,90
-   - Desconto: 26% OFF
-   - Link: https://s.shopee.com.br/3LQLZqNDSQ
 
 ## Ações gratuitas recomendadas
 

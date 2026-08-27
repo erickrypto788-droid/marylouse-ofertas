@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 27/08/2026 06:19
+Gerado em: 27/08/2026 07:22
 
 ## Como usar
 
@@ -78,9 +78,9 @@ Gerado em: 27/08/2026 06:19
 
 **Produtos usados:**
 
+- Secador LONYAN Profissional com Difusor
 - Secador Profissional 3200W
 - Perfume Grace Midnight Hinode
-- Kit Principia Peles Sensíveis
 
 ---
 

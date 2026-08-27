@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 27/08/2026 06:19
+Gerado em: 27/08/2026 07:22
 
 ## Como usar
 
@@ -87,14 +87,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
 ```txt
 💄 Oferta para Beleza e Cuidados
 
-Secador Profissional 3200W
+Secador LONYAN Profissional com Difusor
 
-💸 De: R$ 99,98
-🔥 Por: R$ 49,99
+💸 De: R$ 158,00
+🔥 Por: R$ 79,00
 🏷️ 50% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/6q0DLPYUCX
+Ver oferta: https://s.shopee.com.br/AUtX2YbcSw
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

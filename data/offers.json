@@ -1,5 +1,26 @@
 [
   {
+    "id": "f6adf93315fa19c73a",
+    "title": "Mala Academia Unissex",
+    "raw_title": "Mala Academia Estampada Feminina Masculina Fit Esporte Mala Malinha Academia Unissex Sport Bolsa Transversal Regulável",
+    "description": "⚡️ ACADEMIA COM ESTILO E ECONOMIA! Leve tudo o que você precisa com a Mala Academia Unissex, perfeita para o seu dia a dia fitness! 💪 Versátil e espaços...",
+    "marketplace": "Shopee",
+    "category": "Bolsas Masculinas",
+    "old_price": "R$ 29,89",
+    "price": "R$ 27,50",
+    "discount_percent": 8.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820la-mpe0s5knbu2t9e",
+    "affiliate_url": "https://s.shopee.com.br/5As19bLkq8",
+    "created_at": "27/08/2026 14:15",
+    "created_at_iso": "2026-08-27T14:15:45",
+    "created_ts": 1787840145,
+    "niche": {
+      "key": "shopee_bolsas_masculinas",
+      "name": "Bolsas Masculinas"
+    }
+  },
+  {
     "id": "34a7e14a9b5a5b2960",
     "title": "Bolsa Mala Academia Viagem Fitness",
     "raw_title": "Bolsa Mala Academia Viagem Imagem Fitness Transversal Casual Masculino e Feminina--luna_hyq",
@@ -2051,90 +2072,6 @@
     "niche": {
       "key": "shopee_brinquedos_hobbies",
       "name": "Brinquedos e Hobbies"
-    }
-  },
-  {
-    "id": "8762e384a57660b008",
-    "title": "Creatina Monohidratada DUX Nutrition 100% Pura Original Academia – Hi…",
-    "raw_title": "Creatina Monohidratada DUX Nutrition 100% Pura Original Academia – Hipertrofia",
-    "description": "🔥 50% OFF — Oferta encontrada! 📌 Creatina Monohidratada DUX Nutrition 100% Pura Original Academia – Hipertrofia Confira os detalhes e aproveite enquanto...",
-    "marketplace": "Shopee",
-    "category": "Esportes e Lazer",
-    "old_price": "R$ 79,64",
-    "price": "R$ 39,82",
-    "discount_percent": 50.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mnng0umvc0e975",
-    "affiliate_url": "https://s.shopee.com.br/1BLqjFGQX6",
-    "created_at": "26/08/2026 13:20",
-    "created_at_iso": "2026-08-26T13:20:19",
-    "created_ts": 1787750419,
-    "niche": {
-      "key": "shopee_esportes_lazer",
-      "name": "Esportes e Lazer"
-    }
-  },
-  {
-    "id": "6d488ffb3908296cf8",
-    "title": "Bicicleta Bike Aro 29 Ksw Xlt100 21 Velocidades Marcha Aero Alumínio…",
-    "raw_title": "Bicicleta Bike Aro 29 Ksw Xlt100 21 Velocidades Marcha Aero Alumínio Freio a disco Suspensão Mtb",
-    "description": "🔥 60% OFF — Oferta encontrada! 📌 Bicicleta Bike Aro 29 Ksw Xlt100 21 Velocidades Marcha Aero Alumínio Freio a disco Suspensão Mtb Confira os detalhes e...",
-    "marketplace": "Shopee",
-    "category": "Esportes e Lazer",
-    "old_price": "R$ 1.597,50",
-    "price": "R$ 639,00",
-    "discount_percent": 60.0,
-    "rating": 4.6,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbwhnva8qjdzd5",
-    "affiliate_url": "https://s.shopee.com.br/2LXmrCuEuh",
-    "created_at": "26/08/2026 13:19",
-    "created_at_iso": "2026-08-26T13:19:14",
-    "created_ts": 1787750354,
-    "niche": {
-      "key": "shopee_esportes_lazer",
-      "name": "Esportes e Lazer"
-    }
-  },
-  {
-    "id": "f0cd36ebd578f9a869",
-    "title": "Kit Halteres Barra Kettlebell 6 em 1 Peso Musculação treino em casa",
-    "raw_title": "Kit Halteres Barra Kettlebell 6 em 1 Peso Musculação treino em casa",
-    "description": "🔥 56% OFF — Oferta encontrada! 📌 Kit Halteres Barra Kettlebell 6 em 1 Peso Musculação treino em casa Confira os detalhes e aproveite enquanto a oferta e...",
-    "marketplace": "Shopee",
-    "category": "Esportes e Lazer",
-    "old_price": "R$ 497,73",
-    "price": "R$ 219,00",
-    "discount_percent": 56.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7rdy9-mcs13dpvgrimd3",
-    "affiliate_url": "https://s.shopee.com.br/6q0DTeUWd6",
-    "created_at": "26/08/2026 13:18",
-    "created_at_iso": "2026-08-26T13:18:10",
-    "created_ts": 1787750290,
-    "niche": {
-      "key": "shopee_esportes_lazer",
-      "name": "Esportes e Lazer"
-    }
-  },
-  {
-    "id": "a4e59d378a239dc58f",
-    "title": "Whey Protein FTW 1kg Refil",
-    "raw_title": "Whey Protein Concentrado 1kg Refil - FTW",
-    "description": "💪 Garanta seu Whey Protein Concentrado 1kg Refil - FTW com 60% de desconto! Potencialize seus resultados e a recuperação muscular com essa super oferta....",
-    "marketplace": "Shopee",
-    "category": "Esportes e Lazer",
-    "old_price": "R$ 197,25",
-    "price": "R$ 78,90",
-    "discount_percent": 60.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mqdi4h8b6wao80",
-    "affiliate_url": "https://s.shopee.com.br/gPa8KI7ir",
-    "created_at": "26/08/2026 13:17",
-    "created_at_iso": "2026-08-26T13:17:05",
-    "created_ts": 1787750225,
-    "niche": {
-      "key": "shopee_esportes_lazer",
-      "name": "Esportes e Lazer"
     }
   }
 ]

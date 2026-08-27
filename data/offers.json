@@ -1,5 +1,47 @@
 [
   {
+    "id": "64f58d7fbc6541b1ee",
+    "title": "Bota Feminina Coturno Tratorado Blogueira Confortavel PROMOÇÃO PREÇO…",
+    "raw_title": "Bota Feminina Coturno Tratorado Blogueira Confortavel PROMOÇÃO PREÇO DE FABRICA",
+    "description": "🔥 40% OFF — Oferta encontrada! 📌 Bota Feminina Coturno Tratorado Blogueira Confortavel PROMOÇÃO PREÇO DE FABRICA Confira os detalhes e aproveite enquant...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Femininos",
+    "old_price": "R$ 99,67",
+    "price": "R$ 59,80",
+    "discount_percent": 40.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7qukw-lk6sqzmzpkzufe",
+    "affiliate_url": "https://s.shopee.com.br/7KwWKfUuLn",
+    "created_at": "27/08/2026 23:17",
+    "created_at_iso": "2026-08-27T23:17:20",
+    "created_ts": 1787872640,
+    "niche": {
+      "key": "shopee_sapatos_femininos",
+      "name": "Sapatos Femininos"
+    }
+  },
+  {
+    "id": "009cca2e75af5fe795",
+    "title": "Sandália Rasteira Feminina com Nó",
+    "raw_title": "Sandália Rasteira Feminina com Nó Bico Quadrado Confortável e Elegante para Dia a Dia",
+    "description": "🚨 OFERTA IMPERDÍVEL! 🚨 Garanta sua Sandália Rasteira Feminina com Nó! 👠 Conforto e elegância para o dia a dia, com bico quadrado que é tendência. ✨",
+    "marketplace": "Shopee",
+    "category": "Sapatos Femininos",
+    "old_price": "R$ 89,75",
+    "price": "R$ 35,90",
+    "discount_percent": 60.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lf-mlnmkfz6dvr8e0",
+    "affiliate_url": "https://s.shopee.com.br/1qbYWGfSrH",
+    "created_at": "27/08/2026 23:16",
+    "created_at_iso": "2026-08-27T23:16:16",
+    "created_ts": 1787872576,
+    "niche": {
+      "key": "shopee_sapatos_femininos",
+      "name": "Sapatos Femininos"
+    }
+  },
+  {
     "id": "611917544e014ba438",
     "title": "Xiaomi Redmi Note 15",
     "raw_title": "Xiaomi Redmi Note 15",
@@ -1823,27 +1865,6 @@
     "niche": {
       "key": "shopee_roupas_femininas",
       "name": "Roupas Femininas"
-    }
-  },
-  {
-    "id": "ac25d4240fb8517f65",
-    "title": "Videogame Portátil Retro 10000+ Jogos",
-    "raw_title": "2025 Videogame Portatil Tela 5.8\" /4.8\" +10000 Jogos Retro 16GB, Console de Mão Memoria Expansivel",
-    "description": "🎮 VOLTE NO TEMPO! Mais de 10.000 jogos te esperam! Este Videogame Portátil 2025 com tela de 5.8\" / 4.8\" e memória expansível é a sua máquina de nostalgi...",
-    "marketplace": "Shopee",
-    "category": "Jogos e Consoles",
-    "old_price": "R$ 199,86",
-    "price": "R$ 139,90",
-    "discount_percent": 30.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7rdvp-m0enpdf28jf2a1",
-    "affiliate_url": "https://s.shopee.com.br/W6AbDPXzS",
-    "created_at": "26/08/2026 23:15",
-    "created_at_iso": "2026-08-26T23:15:43",
-    "created_ts": 1787786143,
-    "niche": {
-      "key": "shopee_jogos_consoles",
-      "name": "Jogos e Consoles"
     }
   }
 ]

@@ -1,5 +1,39 @@
 [
   {
+    "id": "611917544e014ba438",
+    "title": "Xiaomi Redmi Note 15",
+    "raw_title": "Xiaomi Redmi Note 15",
+    "description": "🔥 Oferta encontrada! 📌 Xiaomi Redmi Note 15 Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "",
+    "price": "R$ 1.611,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_893125-MLA113665227289_062026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74419020?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "27/08/2026 23:02",
+    "created_at_iso": "2026-08-27T23:02:51",
+    "created_ts": 1787871771
+  },
+  {
+    "id": "60d59282c70866628b",
+    "title": "Power Bank 20000mAh Carga Rápida",
+    "raw_title": "Carregador Portátil 20000mAh Bahrein Power Bank Universal Power Bank Carga Rápida Com Display Bahrein Compatível Com Todos Celulares Iphone Android IOS apple...",
+    "description": "⚡️ Nunca mais fique sem bateria no seu celular! Chegou o Carregador Portátil 20000mAh Bahrein! 🔋 Perfeito para manter seu iPhone, Android ou qualquer ou...",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "R$ 108,90",
+    "price": "R$ 66,90",
+    "discount_percent": 39.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_653528-MLA105019441520_012026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24099360?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "27/08/2026 23:01",
+    "created_at_iso": "2026-08-27T23:01:46",
+    "created_ts": 1787871706
+  },
+  {
     "id": "5b9f9ae76742191e27",
     "title": "Tênis De Corrida Profissional Ultraleve Com Placa De Carbono De Sola…",
     "raw_title": "Tênis De Corrida Profissional Ultraleve Com Placa De Carbono De Sola Completa Para Maratona , Masculino E Feminino",
@@ -1810,27 +1844,6 @@
     "niche": {
       "key": "shopee_jogos_consoles",
       "name": "Jogos e Consoles"
-    }
-  },
-  {
-    "id": "d0e79dc27ba915fc46",
-    "title": "Puff Orgânico Curvo - 1 Metro Elegância e Conforto Moderno Feijao mod…",
-    "raw_title": "Puff Orgânico Curvo - 1 Metro Elegância e Conforto Moderno Feijao moderno tecido premium",
-    "description": "🔥 51% OFF — Oferta encontrada! 📌 Puff Orgânico Curvo - 1 Metro Elegância e Conforto Moderno Feijao moderno tecido premium Confira os detalhes e aproveit...",
-    "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
-    "old_price": "R$ 397,76",
-    "price": "R$ 194,90",
-    "discount_percent": 51.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lv-mnpmwo5oh5vkd7",
-    "affiliate_url": "https://s.shopee.com.br/50YZtMshRX",
-    "created_at": "26/08/2026 22:20",
-    "created_at_iso": "2026-08-26T22:20:12",
-    "created_ts": 1787782812,
-    "niche": {
-      "key": "shopee_bebidas_alimentos",
-      "name": "Bebidas e Alimentos"
     }
   }
 ]

@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 27/08/2026 12:22
+Gerado em: 27/08/2026 13:08
 
 ## Como usar
 
@@ -103,8 +103,8 @@ Gerado em: 27/08/2026 12:22
 **Produtos usados:**
 
 - Amplificador De Imagem Da Tela Do Celular Lupa 3D 21,6CM*16,6CM*2,7CM…
-- Celular 5G 16GB+512GB Câmera HD
-- Carregador iPhone 20w Turbo USB-C | Carregador Adaptador Tipo C | Com…
+- Protetor Câmera Anti-espião
+- Leitor De Cartão SD USB C Para TF Adaptador Multiporta 3 Em 1 iPhone…
 
 ---
 
@@ -120,10 +120,12 @@ Gerado em: 27/08/2026 12:22
 
 - growth/shorts/slides/supermercados/01_intro.png
 - growth/shorts/slides/supermercados/02_produto_1.png
+- growth/shorts/slides/supermercados/03_produto_2.png
 - growth/shorts/slides/supermercados/05_cta.png
 
 **Produtos usados:**
 
 - Puff Orgânico Curvo - 1 Metro Elegância e Conforto Moderno Feijao mod…
+- Detergente Sabão Lava Louça Pastilha + Lava Máquina Unik
 
 ---

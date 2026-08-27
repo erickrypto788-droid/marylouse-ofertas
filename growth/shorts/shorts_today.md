@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 27/08/2026 19:21
+Gerado em: 27/08/2026 20:22
 
 ## Como usar
 
@@ -32,7 +32,7 @@ Gerado em: 27/08/2026 19:21
 
 - Fralda Premium Huggies Natural Care Aberta RN/P/M/G
 - Fralda Huggies Tripla Proteção G 36 unidades
-- Fralda Pampers Premium Care M 80 Unidades
+- Berço Portatil Moises Americano Acoplado Bebe Com Balanço e Mosquetei…
 
 ---
 

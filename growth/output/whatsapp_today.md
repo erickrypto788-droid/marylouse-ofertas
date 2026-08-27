@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 27/08/2026 13:18
+Gerado em: 27/08/2026 14:17
 
 ## Como usar
 
@@ -132,37 +132,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 5 — Ofertas Pet
-
-**Canal recomendado:** Ofertas Pet
-
-**Horário sugerido:** 17:00 - 20:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
-
-**Texto pronto:**
-
-```txt
-🐶 Oferta para Ofertas Pet
-
-Whey Protein FTW 1kg Refil
-
-💸 De: R$ 197,25
-🔥 Por: R$ 78,90
-🏷️ 60% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/gPa8KI7ir
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 6 — Saúde
+## Post 5 — Saúde
 
 **Canal recomendado:** Saúde e Bem-estar
 
@@ -185,6 +155,36 @@ Oxímetro Infantil Neonatal Pediátrico De Dedo Digital Crianças Medido…
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/2BEPNiustY
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 6 — Moda Feminina
+
+**Canal recomendado:** Moda Feminina
+
+**Horário sugerido:** 12:00 - 14:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
+
+**Texto pronto:**
+
+```txt
+👗 Oferta para Moda Feminina
+
+Kit 4 Tops Cropped Academia
+
+💸 De: R$ 99,80
+🔥 Por: R$ 49,90
+🏷️ 50% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/60R7DS6rPX
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

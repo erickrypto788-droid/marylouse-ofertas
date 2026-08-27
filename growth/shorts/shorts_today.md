@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 27/08/2026 11:18
+Gerado em: 27/08/2026 12:22
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 27/08/2026 11:18
 **Produtos usados:**
 
 - Kit Pano de Boca 12 unidades 30x30cm 100%algodao
+- Fralda Premium Huggies Natural Care Aberta RN/P/M/G
 - Fralda Descartável Pampers Supersequinha Jumbo M 90 Tiras
-- Fralda Infantil Huggies Meguinha Tamanho G 30 Unidades
 
 ---
 
@@ -79,8 +79,8 @@ Gerado em: 27/08/2026 11:18
 **Produtos usados:**
 
 - Secador LONYAN Profissional com Difusor
-- Secador Profissional 3200W
 - Escova Rotativa 2 em 1
+- Kit Protetor Solar Principia
 
 ---
 

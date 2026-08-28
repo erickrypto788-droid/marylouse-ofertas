@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 28/08/2026 03:03
+Gerado em: 28/08/2026 04:23
 
 ## Como usar
 
@@ -42,7 +42,37 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 2 — Beleza e Cuidados
+## Post 2 — Ofertas Pet
+
+**Canal recomendado:** Ofertas Pet
+
+**Horário sugerido:** 17:00 - 20:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
+
+**Texto pronto:**
+
+```txt
+🐶 Oferta para Ofertas Pet
+
+Sandália Flatform Infantil Menina Papete Glady Strass
+
+💸 De: R$ 99,74
+🔥 Por: R$ 37,90
+🏷️ 62% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/8plKS1bFna
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 3 — Beleza e Cuidados
 
 **Canal recomendado:** Beleza e Cuidados
 
@@ -72,7 +102,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 3 — Mamãe e Bebê
+## Post 4 — Mamãe e Bebê
 
 **Canal recomendado:** Mamãe e Bebê
 
@@ -102,7 +132,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Moda e Calçados
+## Post 5 — Moda e Calçados
 
 **Canal recomendado:** Moda e Calçados
 
@@ -132,7 +162,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 5 — Saúde
+## Post 6 — Saúde
 
 **Canal recomendado:** Saúde e Bem-estar
 
@@ -155,36 +185,6 @@ Oxímetro Infantil Neonatal Pediátrico De Dedo Digital Crianças Medido…
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/2BEPNiustY
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 6 — Moda Feminina
-
-**Canal recomendado:** Moda Feminina
-
-**Horário sugerido:** 12:00 - 14:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
-
-**Texto pronto:**
-
-```txt
-👗 Oferta para Moda Feminina
-
-kit 3 Blusinha de Alcinha Feminina Básica Suplex Justa Moda Verão qu…
-
-💸 De: R$ 59,98
-🔥 Por: R$ 34,79
-🏷️ 42% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/50YbHtcuin
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

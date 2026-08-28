@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 27/08/2026 23:19
+Gerado em: 28/08/2026 00:19
 
 ## Como usar
 
@@ -27,14 +27,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
 ```txt
 📱 Oferta para Celulares e Tecnologia
 
-Amplificador De Imagem Da Tela Do Celular Lupa 3D 21,6CM*16,6CM*2,7CM…
+Suporte Capacete Câmera/Celular
 
-💸 De: R$ 29,98
-🔥 Por: R$ 17,99
-🏷️ 40% OFF
+💸 De: R$ 88,48
+🔥 Por: R$ 25,66
+🏷️ 71% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/8plIvFv041
+Ver oferta: https://s.shopee.com.br/7VFvKnmsQP
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

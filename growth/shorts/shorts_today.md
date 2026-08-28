@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 28/08/2026 00:19
+Gerado em: 28/08/2026 01:19
 
 ## Como usar
 
@@ -48,10 +48,14 @@ Gerado em: 28/08/2026 00:19
 
 - growth/shorts/slides/casa_cozinha/01_intro.png
 - growth/shorts/slides/casa_cozinha/02_produto_1.png
+- growth/shorts/slides/casa_cozinha/03_produto_2.png
+- growth/shorts/slides/casa_cozinha/04_produto_3.png
 - growth/shorts/slides/casa_cozinha/05_cta.png
 
 **Produtos usados:**
 
+- Liquidificador Triturador Compacto para suco com Led - suco e frutas…
+- Liquidificador Britânia BLQE01
 - Cafeteira Elétrica Britânia 250ml 450W Preto Duo Coffee
 
 ---

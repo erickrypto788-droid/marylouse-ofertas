@@ -1,16 +1,16 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 28/08/2026 00:19
+Gerado em: 28/08/2026 01:19
 
 ## Categorias prioritárias
 
 - 👟 **Calçados**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 👕 **Moda Masculina**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 - 📦 **Outros**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
-- 👗 **Moda Feminina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 🍼 **Mãe e Bebê**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 👕 **Moda Masculina**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 - 💻 **Informática**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 👗 **Moda Feminina**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 🏋️ **Esportes**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 💄 **Beleza**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - ✨ **Moda Plus Size**: 4 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
@@ -38,54 +38,54 @@ Gerado em: 28/08/2026 00:19
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/8plIvFv041
 
-4. **Kit Gamer Teclado + Mouse RGB**
+4. **Liquidificador Triturador Compacto para suco com Led - suco e frutas…**
+   - Categoria: Casa e Cozinha
+   - Loja: Shopee
+   - Preço: R$ 78,68
+   - Desconto: 50% OFF
+   - Link: https://s.shopee.com.br/30nXIy2h4y
+
+5. **Kit Gamer Teclado + Mouse RGB**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 46,50
    - Desconto: 53% OFF
    - Link: https://s.shopee.com.br/3LQN6X9xSJ
 
-5. **Fralda Premium Huggies Natural Care Aberta RN/P/M/G**
+6. **Fralda Premium Huggies Natural Care Aberta RN/P/M/G**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 43,90
    - Desconto: 20% OFF
    - Link: https://s.shopee.com.br/19urrWFuC
 
-6. **Oxímetro Infantil Neonatal Pediátrico De Dedo Digital Crianças Medido…**
+7. **Oxímetro Infantil Neonatal Pediátrico De Dedo Digital Crianças Medido…**
    - Categoria: Saúde
    - Loja: Shopee
    - Preço: R$ 25,99
    - Desconto: 61% OFF
    - Link: https://s.shopee.com.br/2BEPNiustY
 
-7. **Escova Rotativa 2 em 1**
+8. **Escova Rotativa 2 em 1**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 99,99
    - Desconto: 67% OFF
    - Link: https://s.shopee.com.br/AKa6qFcFnv
 
-8. **Cabo Carregador Turbo Lightning Original iPhone/iPad**
+9. **Liquidificador Britânia BLQE01**
+   - Categoria: Casa e Cozinha
+   - Loja: Shopee
+   - Preço: R$ 119,90
+   - Desconto: 33% OFF
+   - Link: https://s.shopee.com.br/gPcWgBZoM
+
+10. **Cabo Carregador Turbo Lightning Original iPhone/iPad**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 21,01
    - Desconto: 46% OFF
    - Link: https://s.shopee.com.br/4qFBQC2wRt
-
-9. **Xiaomi Redmi Note 15**
-   - Categoria: Celulares
-   - Loja: Mercado Livre
-   - Preço: R$ 1.611,00
-   - Desconto: Oferta
-   - Link: https://www.mercadolivre.com.br/p/MLB74419020?matt_word=marylouse&matt_tool=50459180&forceInApp=true
-
-10. **Power Bank 20000mAh Carga Rápida**
-   - Categoria: Celulares
-   - Loja: Mercado Livre
-   - Preço: R$ 66,90
-   - Desconto: 39% OFF
-   - Link: https://www.mercadolivre.com.br/p/MLB24099360?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ## Ações gratuitas recomendadas
 

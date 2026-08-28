@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 28/08/2026 05:21
+Gerado em: 28/08/2026 06:08
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 28/08/2026 05:21
 **Produtos usados:**
 
 - Fralda Premium Huggies Natural Care Aberta RN/P/M/G
+- Fralda Pampers Pants XXG 60 Unidades
 - Fralda Geriátrica Prevent Care M C/50
-- Fralda Huggies Tripla Proteção G 36 unidades
 
 ---
 
@@ -128,6 +128,6 @@ Gerado em: 28/08/2026 05:21
 
 - Casca De Arroz Carbonizada Substrato Para Horta Jardim Plantas Vaso C…
 - 1/2/3/4 Boleadores de Doces Brigadeiros Forma Enrolador Modelador de…
-- Detergente Sabão Lava Louça Pastilha + Lava Máquina Unik
+- Amaciante Triex Amaciante Max Blue em frasco 5 L
 
 ---

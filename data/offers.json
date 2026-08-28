@@ -1,5 +1,22 @@
 [
   {
+    "id": "e68dc64c4df90027b3",
+    "title": "Papel Higiênico Folha Dupla 2000m",
+    "raw_title": "Papel Higiênico Folha Dupla 2000m - 8x250m",
+    "description": "Estoque sua casa com economia! 🏡✨ Não perca esta oferta de Papel Higiênico Folha Dupla! São 2000 metros (8x250m) para garantir conforto e tranquilidade...",
+    "marketplace": "Mercado Livre",
+    "category": "Papelaria",
+    "old_price": "R$ 156,44",
+    "price": "R$ 148,61",
+    "discount_percent": 5.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_840189-MLA111042351235_042026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68485778?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "28/08/2026 23:05",
+    "created_at_iso": "2026-08-28T23:05:16",
+    "created_ts": 1787958316
+  },
+  {
     "id": "54cc56554b3f4da4a6",
     "title": "Clareador de Manchas para Virilha, Axilas e Melasma 60g - Creme Clare…",
     "raw_title": "Clareador de Manchas para Virilha, Axilas e Melasma 60g - Creme Clareador - Cicatribem",
@@ -1752,61 +1769,6 @@
     "niche": {
       "key": "shopee_sapatos_femininos",
       "name": "Sapatos Femininos"
-    }
-  },
-  {
-    "id": "611917544e014ba438",
-    "title": "Xiaomi Redmi Note 15",
-    "raw_title": "Xiaomi Redmi Note 15",
-    "description": "🔥 Oferta encontrada! 📌 Xiaomi Redmi Note 15 Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Mercado Livre",
-    "category": "Informática",
-    "old_price": "",
-    "price": "R$ 1.611,00",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_893125-MLA113665227289_062026-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74419020?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "27/08/2026 23:02",
-    "created_at_iso": "2026-08-27T23:02:51",
-    "created_ts": 1787871771
-  },
-  {
-    "id": "60d59282c70866628b",
-    "title": "Power Bank 20000mAh Carga Rápida",
-    "raw_title": "Carregador Portátil 20000mAh Bahrein Power Bank Universal Power Bank Carga Rápida Com Display Bahrein Compatível Com Todos Celulares Iphone Android IOS apple...",
-    "description": "⚡️ Nunca mais fique sem bateria no seu celular! Chegou o Carregador Portátil 20000mAh Bahrein! 🔋 Perfeito para manter seu iPhone, Android ou qualquer ou...",
-    "marketplace": "Mercado Livre",
-    "category": "Informática",
-    "old_price": "R$ 108,90",
-    "price": "R$ 66,90",
-    "discount_percent": 39.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_653528-MLA105019441520_012026-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24099360?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "27/08/2026 23:01",
-    "created_at_iso": "2026-08-27T23:01:46",
-    "created_ts": 1787871706
-  },
-  {
-    "id": "5b9f9ae76742191e27",
-    "title": "Tênis De Corrida Profissional Ultraleve Com Placa De Carbono De Sola…",
-    "raw_title": "Tênis De Corrida Profissional Ultraleve Com Placa De Carbono De Sola Completa Para Maratona , Masculino E Feminino",
-    "description": "🔥 43% OFF — Oferta encontrada! 📌 Tênis De Corrida Profissional Ultraleve Com Placa De Carbono De Sola Completa Para Maratona , Masculino E Feminino Conf...",
-    "marketplace": "Shopee",
-    "category": "Sapatos Masculinos",
-    "old_price": "R$ 99,98",
-    "price": "R$ 56,99",
-    "discount_percent": 43.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-81zvj-mmsdueupko3q35",
-    "affiliate_url": "https://s.shopee.com.br/6L3xsXBCfL",
-    "created_at": "27/08/2026 22:19",
-    "created_at_iso": "2026-08-27T22:19:30",
-    "created_ts": 1787869170,
-    "niche": {
-      "key": "shopee_sapatos_masculinos",
-      "name": "Sapatos Masculinos"
     }
   }
 ]

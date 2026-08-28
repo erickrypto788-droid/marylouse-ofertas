@@ -1,5 +1,47 @@
 [
   {
+    "id": "16a463d3278697e997",
+    "title": "Chinelo Piccadilly EVA Marshmallow C224 Off White - Feminino",
+    "raw_title": "Chinelo Piccadilly EVA Marshmallow C224 Off White - Feminino",
+    "description": "🔥 43% OFF — Oferta encontrada! 📌 Chinelo Piccadilly EVA Marshmallow C224 Off White - Feminino Confira os detalhes e aproveite enquanto a oferta estiver...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Femininos",
+    "old_price": "R$ 99,98",
+    "price": "R$ 56,99",
+    "discount_percent": 43.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lg-mpwjo797zoxsd5",
+    "affiliate_url": "https://s.shopee.com.br/5LBTHOpQAZ",
+    "created_at": "28/08/2026 19:17",
+    "created_at_iso": "2026-08-28T19:17:30",
+    "created_ts": 1787944650,
+    "niche": {
+      "key": "shopee_sapatos_femininos",
+      "name": "Sapatos Femininos"
+    }
+  },
+  {
+    "id": "33498b8d5e5cb1dd89",
+    "title": "Bota Feminina Linda Moça Cano Longo Montaria Confort Preta",
+    "raw_title": "Bota Feminina Linda Moça Cano Longo Montaria Confort Preta",
+    "description": "🔥 57% OFF — Oferta encontrada! 📌 Bota Feminina Linda Moça Cano Longo Montaria Confort Preta Confira os detalhes e aproveite enquanto a oferta estiver di...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Femininos",
+    "old_price": "R$ 191,86",
+    "price": "R$ 82,50",
+    "discount_percent": 57.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m5rhn1l6qo4y13",
+    "affiliate_url": "https://s.shopee.com.br/6L40TElcAl",
+    "created_at": "28/08/2026 19:15",
+    "created_at_iso": "2026-08-28T19:15:39",
+    "created_ts": 1787944539,
+    "niche": {
+      "key": "shopee_sapatos_femininos",
+      "name": "Sapatos Femininos"
+    }
+  },
+  {
     "id": "ce171fe1fa9cbb8303",
     "title": "Ração Gato Castrado Life Special Robustus 10,1kg",
     "raw_title": "Ração Gato Castrado Life Special Robustus 10,1kg",
@@ -1791,48 +1833,6 @@
     "created_at": "27/08/2026 19:17",
     "created_at_iso": "2026-08-27T19:17:57",
     "created_ts": 1787858277,
-    "niche": {
-      "key": "shopee_roupas_femininas",
-      "name": "Roupas Femininas"
-    }
-  },
-  {
-    "id": "636b8d93c9bf1fe21f",
-    "title": "Blusa Feminina Regata Suplex",
-    "raw_title": "Blusa Feminina Regata Franzido Gola Alta Suplex",
-    "description": "✨ IMPERDÍVEL! ✨ Arrase com a Blusa Feminina Regata Franzido Gola Alta Suplex! Versátil, confortável e perfeita para todas as ocasiões.",
-    "marketplace": "Shopee",
-    "category": "Roupas Femininas",
-    "old_price": "R$ 49,98",
-    "price": "R$ 25,49",
-    "discount_percent": 49.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820me-mqpyuvlqgjcw10",
-    "affiliate_url": "https://s.shopee.com.br/9zxHF5SgBF",
-    "created_at": "27/08/2026 19:16",
-    "created_at_iso": "2026-08-27T19:16:53",
-    "created_ts": 1787858213,
-    "niche": {
-      "key": "shopee_roupas_femininas",
-      "name": "Roupas Femininas"
-    }
-  },
-  {
-    "id": "149372b502db07ab8e",
-    "title": "Vestido Midi Feminino Malha Suplex",
-    "raw_title": "Vestido Midi Feminino Malha Suplex Moda Camponesa Dia a Dia Confortavel",
-    "description": "✨ Mega Oferta: Vestido Midi Confortável! ✨ Perfeito para o dia a dia, com malha suplex que garante muito estilo e conforto. Um look camponesa moderno qu...",
-    "marketplace": "Shopee",
-    "category": "Roupas Femininas",
-    "old_price": "R$ 98,06",
-    "price": "R$ 50,99",
-    "discount_percent": 48.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-823p6-molyt0o7cnbibe",
-    "affiliate_url": "https://s.shopee.com.br/4LIuUfJSAq",
-    "created_at": "27/08/2026 19:15",
-    "created_at_iso": "2026-08-27T19:15:46",
-    "created_ts": 1787858146,
     "niche": {
       "key": "shopee_roupas_femininas",
       "name": "Roupas Femininas"

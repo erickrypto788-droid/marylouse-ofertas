@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 28/08/2026 07:20
+Gerado em: 28/08/2026 08:22
 
 ## Categorias prioritárias
 
-- 🍼 **Mãe e Bebê**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 🍼 **Mãe e Bebê**: 15 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🏋️ **Esportes**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 💄 **Beleza**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🧸 **Brinquedos**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
+- 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 💄 **Beleza**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
-- 🧒 **Moda Infantil**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-infantil.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-infantil
 - 👕 **Moda Masculina**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 - 👗 **Moda Feminina**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
+- 💻 **Informática**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 
 ## Top ofertas para destacar
 
@@ -38,54 +38,54 @@ Gerado em: 28/08/2026 07:20
    - Desconto: 71% OFF
    - Link: https://s.shopee.com.br/7VFvKnmsQP
 
-4. **Mini Balança Digital de Cozinha**
+4. **Fralda Huggies Máxima Proteção XXXL - 42 Un**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 99,90
+   - Desconto: 29% OFF
+   - Link: https://s.shopee.com.br/gPbf5TiYO
+
+5. **Mini Balança Digital de Cozinha**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 25,98
    - Desconto: 72% OFF
    - Link: https://s.shopee.com.br/3qMehCJAsk
 
-5. **Sandália Flatform Infantil Menina Papete Glady Strass**
+6. **Sandália Flatform Infantil Menina Papete Glady Strass**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 37,90
    - Desconto: 62% OFF
    - Link: https://s.shopee.com.br/8plKS1bFna
 
-6. **Liquidificador Triturador Compacto para suco com Led - suco e frutas…**
+7. **Liquidificador Triturador Compacto para suco com Led - suco e frutas…**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 78,68
    - Desconto: 50% OFF
    - Link: https://s.shopee.com.br/30nXIy2h4y
 
-7. **Kit Gamer Teclado + Mouse RGB**
+8. **Kit Gamer Teclado + Mouse RGB**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 46,50
    - Desconto: 53% OFF
    - Link: https://s.shopee.com.br/3LQN6X9xSJ
 
-8. **Fralda Premium Huggies Natural Care Aberta RN/P/M/G**
+9. **Fralda Premium Huggies Natural Care Aberta RN/P/M/G**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 43,90
    - Desconto: 20% OFF
    - Link: https://s.shopee.com.br/19urrWFuC
 
-9. **Oxímetro Infantil Neonatal Pediátrico De Dedo Digital Crianças Medido…**
+10. **Oxímetro Infantil Neonatal Pediátrico De Dedo Digital Crianças Medido…**
    - Categoria: Saúde
    - Loja: Shopee
    - Preço: R$ 25,99
    - Desconto: 61% OFF
    - Link: https://s.shopee.com.br/2BEPNiustY
-
-10. **Nebulizador Ultrassônico Portátil**
-   - Categoria: Saúde
-   - Loja: Shopee
-   - Preço: R$ 25,73
-   - Desconto: 30% OFF
-   - Link: https://s.shopee.com.br/gPcvNMQkD
 
 ## Ações gratuitas recomendadas
 

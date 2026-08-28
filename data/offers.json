@@ -1,5 +1,89 @@
 [
   {
+    "id": "568fa30f9109d80a7b",
+    "title": "Kit Oxímetro + Termômetro",
+    "raw_title": "Kit Oxímetro de Dedo Medidor de Saturação + Termômetro Digital Temperatura",
+    "description": "🚨 Kit essencial para sua saúde! Tenha o controle da sua saturação e temperatura sempre à mão com este combo perfeito. Um item indispensável para qualque...",
+    "marketplace": "Shopee",
+    "category": "Saúde",
+    "old_price": "",
+    "price": "R$ 29,98",
+    "discount_percent": 0.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-821ec-mhb1zzdcmqkr70",
+    "affiliate_url": "https://s.shopee.com.br/7Ad6fK1wna",
+    "created_at": "28/08/2026 07:19",
+    "created_at_iso": "2026-08-28T07:19:05",
+    "created_ts": 1787901545,
+    "niche": {
+      "key": "shopee_saude",
+      "name": "Saúde"
+    }
+  },
+  {
+    "id": "ec198fe65ea8862a02",
+    "title": "Inalador GTech Compact DC1",
+    "raw_title": "Inalador GTech Compact DC1 Bivolt",
+    "description": "✨ Saúde em primeiro lugar! ✨ Não perca a chance de ter o Inalador GTech Compact DC1 Bivolt, essencial para o bem-estar da sua família. Compacto, prático...",
+    "marketplace": "Shopee",
+    "category": "Saúde",
+    "old_price": "R$ 139,73",
+    "price": "R$ 108,99",
+    "discount_percent": 22.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134201-820lr-mqxa0s4pe0p1c8",
+    "affiliate_url": "https://s.shopee.com.br/80CCKRYoXr",
+    "created_at": "28/08/2026 07:17",
+    "created_at_iso": "2026-08-28T07:17:59",
+    "created_ts": 1787901479,
+    "niche": {
+      "key": "shopee_saude",
+      "name": "Saúde"
+    }
+  },
+  {
+    "id": "e73790ee0d3b3c3f2f",
+    "title": "Nebulizador Ultrassônico Portátil",
+    "raw_title": "Nebulizador Inalador Ultrassônico Portátil Usb Bivolt Adulto E Infantil",
+    "description": "🌬️ Respire com facilidade em qualquer lugar! Chegou o Nebulizador Inalador Ultrassônico Portátil USB Bivolt para toda a família! 👶👨‍🦰 Tecnologia moderna...",
+    "marketplace": "Shopee",
+    "category": "Saúde",
+    "old_price": "R$ 36,76",
+    "price": "R$ 25,73",
+    "discount_percent": 30.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7renw-mdv72l5vakg693",
+    "affiliate_url": "https://s.shopee.com.br/gPcvNMQkD",
+    "created_at": "28/08/2026 07:16",
+    "created_at_iso": "2026-08-28T07:16:51",
+    "created_ts": 1787901411,
+    "niche": {
+      "key": "shopee_saude",
+      "name": "Saúde"
+    }
+  },
+  {
+    "id": "6edcba8b0179f7c6d6",
+    "title": "Mini Balança Digital de Cozinha",
+    "raw_title": "Mini Balança Digital De Cozinha Alta Precisão 0,1g Até 2000g",
+    "description": "🚨 OFERTA IMPERDÍVEL! 🚨 Mini Balança Digital de Cozinha com Alta Precisão (0,1g até 2000g)! 🧑‍🍳 Perfeita para suas receitas e dietas. Não erre mais nas m...",
+    "marketplace": "Shopee",
+    "category": "Saúde",
+    "old_price": "R$ 92,79",
+    "price": "R$ 25,98",
+    "discount_percent": 72.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-ma49suo8rq4n1f",
+    "affiliate_url": "https://s.shopee.com.br/3qMehCJAsk",
+    "created_at": "28/08/2026 07:15",
+    "created_at_iso": "2026-08-28T07:15:42",
+    "created_ts": 1787901342,
+    "niche": {
+      "key": "shopee_saude",
+      "name": "Saúde"
+    }
+  },
+  {
     "id": "2c4c02a1e153a80ba4",
     "title": "Carrinho de Bonecas Infantil Carrinho de Bebê Reborn Carrinho de Bone…",
     "raw_title": "Carrinho de Bonecas Infantil Carrinho de Bebê Reborn Carrinho de Bonecas Reborn",
@@ -1871,69 +1955,6 @@
     "created_at": "27/08/2026 07:19",
     "created_at_iso": "2026-08-27T07:19:10",
     "created_ts": 1787815150,
-    "niche": {
-      "key": "shopee_beleza",
-      "name": "Beleza"
-    }
-  },
-  {
-    "id": "7a81206bad0c6748e9",
-    "title": "Kit Protetor Solar Principia",
-    "raw_title": "Principia Kit Protetor Solar PS-01 FPS 60 + PS-05 FPS 70- escolha seu tom",
-    "description": "☀️ Proteção máxima para sua pele! Garanta já o Kit Protetor Solar Principia FPS 60 + FPS 70. Escolha seu tom e cuide-se com essa super oferta! ✨",
-    "marketplace": "Shopee",
-    "category": "Beleza",
-    "old_price": "R$ 107,99",
-    "price": "R$ 80,99",
-    "discount_percent": 25.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820la-mmt07g0rint06e",
-    "affiliate_url": "https://s.shopee.com.br/AUtX2Yp5rS",
-    "created_at": "27/08/2026 07:18",
-    "created_at_iso": "2026-08-27T07:18:03",
-    "created_ts": 1787815083,
-    "niche": {
-      "key": "shopee_beleza",
-      "name": "Beleza"
-    }
-  },
-  {
-    "id": "101b4be2e631737f6c",
-    "title": "Escova Rotativa 2 em 1",
-    "raw_title": "Escova Rotativa Elétrica Secador de cabelo Professinal 2 em 1 110v e 220v",
-    "description": "✨ Cabelos de salão em casa? SIM! Transforme seu visual com a Escova Rotativa Elétrica 2 em 1! 💇‍♀️ Seque e modele com facilidade, tenha fios perfeitos e...",
-    "marketplace": "Shopee",
-    "category": "Beleza",
-    "old_price": "R$ 303,00",
-    "price": "R$ 99,99",
-    "discount_percent": 67.0,
-    "rating": 4.6,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7rd6i-lv0qqd9yygwye3",
-    "affiliate_url": "https://s.shopee.com.br/AKa6qFcFnv",
-    "created_at": "27/08/2026 07:16",
-    "created_at_iso": "2026-08-27T07:16:53",
-    "created_ts": 1787815013,
-    "niche": {
-      "key": "shopee_beleza",
-      "name": "Beleza"
-    }
-  },
-  {
-    "id": "68258d6e998458e538",
-    "title": "Secador LONYAN Profissional com Difusor",
-    "raw_title": "Secador Profissional com Difusor 127V ou 220V 5 Temperaturas Turbo Íons Negativos Secagem Rápida Anti-Frizz LONYAN 8020",
-    "description": "✨ CABELOS PERFEITOS em minutos! ✨ Garanta já o Secador Profissional LONYAN 8020 com DIFUSOR! 🌬️ Tecnologia Turbo Íons Negativos para secagem rápida, 5 t...",
-    "marketplace": "Shopee",
-    "category": "Beleza",
-    "old_price": "R$ 158,00",
-    "price": "R$ 79,00",
-    "discount_percent": 50.0,
-    "rating": 4.7,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820l9-mr8gldyq5d6v7b",
-    "affiliate_url": "https://s.shopee.com.br/AUtX2YbcSw",
-    "created_at": "27/08/2026 07:15",
-    "created_at_iso": "2026-08-27T07:15:45",
-    "created_ts": 1787814945,
     "niche": {
       "key": "shopee_beleza",
       "name": "Beleza"

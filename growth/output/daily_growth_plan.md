@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 28/08/2026 19:19
+Gerado em: 28/08/2026 20:18
 
 ## Categorias prioritárias
 
+- 📱 **Celulares**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 👟 **Calçados**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 👕 **Moda Masculina**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 - 🍼 **Mãe e Bebê**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
-- 👗 **Moda Feminina**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
+- 👕 **Moda Masculina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 - 🐶 **Pet**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 💄 **Beleza**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 📦 **Outros**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 📚 **Papelaria**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 - 🏋️ **Esportes**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
+- 👗 **Moda Feminina**: 4 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 
 ## Top ofertas para destacar
 
@@ -38,54 +38,54 @@ Gerado em: 28/08/2026 19:19
    - Desconto: 71% OFF
    - Link: https://s.shopee.com.br/7VFvKnmsQP
 
-4. **Monitor Gamer Mancer Horizon Z Pro, 23.8 Pol, IPS, FHD, 1ms, 144Hz, H…**
+4. **Xiaomi Poco X7 Pro 512GB / 256GB +12 Ram 5G Versão Global NFC Origina…**
+   - Categoria: Celulares
+   - Loja: Shopee
+   - Preço: R$ 2.139,00
+   - Desconto: 45% OFF
+   - Link: https://s.shopee.com.br/8AVeij2wd1
+
+5. **Carregador iPhone Turbo Tipo-C 20W + Cabo Lightining para IPhone Carg…**
+   - Categoria: Celulares
+   - Loja: Shopee
+   - Preço: R$ 16,99
+   - Desconto: 66% OFF
+   - Link: https://s.shopee.com.br/2LXrm0TYHa
+
+6. **Monitor Gamer Mancer Horizon Z Pro, 23.8 Pol, IPS, FHD, 1ms, 144Hz, H…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 554,90
    - Desconto: 59% OFF
    - Link: https://s.shopee.com.br/7KwVrt3ScL
 
-5. **Fralda Huggies Máxima Proteção XXXL - 42 Un**
+7. **Fralda Huggies Máxima Proteção XXXL - 42 Un**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 99,90
    - Desconto: 29% OFF
    - Link: https://s.shopee.com.br/gPbf5TiYO
 
-6. **Mini Balança Digital de Cozinha**
+8. **Mini Balança Digital de Cozinha**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 25,98
    - Desconto: 72% OFF
    - Link: https://s.shopee.com.br/3qMehCJAsk
 
-7. **Sandália Flatform Infantil Menina Papete Glady Strass**
+9. **Sandália Flatform Infantil Menina Papete Glady Strass**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 37,90
    - Desconto: 62% OFF
    - Link: https://s.shopee.com.br/8plKS1bFna
 
-8. **Liquidificador Triturador Compacto para suco com Led - suco e frutas…**
+10. **Liquidificador Triturador Compacto para suco com Led - suco e frutas…**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 78,68
    - Desconto: 50% OFF
    - Link: https://s.shopee.com.br/30nXIy2h4y
-
-9. **Ração Gato Castrado Life Special Robustus 10,1kg**
-   - Categoria: Pet
-   - Loja: Mercado Livre
-   - Preço: R$ 171,50
-   - Desconto: Oferta
-   - Link: https://www.mercadolivre.com.br/p/MLB75981402?matt_word=marylouse&matt_tool=50459180&forceInApp=true
-
-10. **Kit 10 ou 5 Cuecas Box Boxer Microfibra Infantil Juvenil MEN Boy Cria…**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 27,95
-   - Desconto: 38% OFF
-   - Link: https://s.shopee.com.br/3B6yV3d798
 
 ## Ações gratuitas recomendadas
 

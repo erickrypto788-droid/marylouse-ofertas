@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 28/08/2026 19:19
+Gerado em: 28/08/2026 20:18
 
 ## Como usar
 
@@ -103,8 +103,8 @@ Gerado em: 28/08/2026 19:19
 **Produtos usados:**
 
 - Suporte Capacete Câmera/Celular
-- Chocolate Twix Original 30 Unidades de 15g
-- Cabo Carregador Turbo Lightning Original iPhone/iPad
+- Xiaomi Poco X7 Pro 512GB / 256GB +12 Ram 5G Versão Global NFC Origina…
+- Carregador iPhone Turbo Tipo-C 20W + Cabo Lightining para IPhone Carg…
 
 ---
 

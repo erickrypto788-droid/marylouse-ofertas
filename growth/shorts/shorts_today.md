@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 28/08/2026 23:07
+Gerado em: 28/08/2026 23:22
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 28/08/2026 23:07
 **Produtos usados:**
 
 - Fralda Huggies Máxima Proteção XXXL - 42 Un
+- Kit 6 Peças Body Bebê Menina
 - Triciclo Motoca Avespa Infantil com Guia
-- Fralda Pampers Pants XXG 60 Unidades
 
 ---
 

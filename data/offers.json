@@ -1,5 +1,22 @@
 [
   {
+    "id": "d223fd068174d53953",
+    "title": "Ração Harmony Cães Pequenos",
+    "raw_title": "Ração Cachorro Selection Adultos Pequenos 10,1kg Harmony",
+    "description": "🚨 OFERTA QUENTE! 🚨 Seu melhor amigo merece o melhor! 🐶 Garanta a Ração Harmony Selection para cães adultos de raças pequenas, 10,1kg. Nutrição completa...",
+    "marketplace": "Mercado Livre",
+    "category": "Pet",
+    "old_price": "",
+    "price": "R$ 149,90",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_997469-MLA99923110131_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB49735840?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "28/08/2026 02:02",
+    "created_at_iso": "2026-08-28T02:02:41",
+    "created_ts": 1787882561
+  },
+  {
     "id": "fe8bef5679f4057d02",
     "title": "Liquidificador Britânia BLQE01",
     "raw_title": "Liquidificador Britânia BLQE01 2 copos 2,6L 900W",
@@ -1748,69 +1765,6 @@
     "niche": {
       "key": "shopee_roupas_plus_size",
       "name": "Roupas Plus Size"
-    }
-  },
-  {
-    "id": "1de8b424b2f88f9240",
-    "title": "kit 4 peças mijão calça e body manga longa infantil bebe masculino e…",
-    "raw_title": "kit 4 peças mijão calça e body manga longa infantil bebe masculino e feminino",
-    "description": "🔥 22% OFF — Oferta encontrada! 📌 kit 4 peças mijão calça e body manga longa infantil bebe masculino e feminino Confira os detalhes e aproveite enquanto...",
-    "marketplace": "Shopee",
-    "category": "Roupas Masculinas",
-    "old_price": "R$ 35,76",
-    "price": "R$ 27,89",
-    "discount_percent": 22.0,
-    "rating": 4.7,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-ls72nqbpb21we5",
-    "affiliate_url": "https://s.shopee.com.br/5q7h5GaTpB",
-    "created_at": "27/08/2026 01:20",
-    "created_at_iso": "2026-08-27T01:20:04",
-    "created_ts": 1787793604,
-    "niche": {
-      "key": "shopee_roupas_masculinas",
-      "name": "Roupas Masculinas"
-    }
-  },
-  {
-    "id": "6e68b077cdff44a367",
-    "title": "Calça Jogger Run P ao G4 Tactel com Elastano para Treino Esportiva Ma…",
-    "raw_title": "Calça Jogger Run P ao G4 Tactel com Elastano para Treino Esportiva Masculina Original com Punho",
-    "description": "🔥 37% OFF — Oferta encontrada! 📌 Calça Jogger Run P ao G4 Tactel com Elastano para Treino Esportiva Masculina Original com Punho Confira os detalhes e a...",
-    "marketplace": "Shopee",
-    "category": "Roupas Masculinas",
-    "old_price": "R$ 58,71",
-    "price": "R$ 36,99",
-    "discount_percent": 37.0,
-    "rating": 4.5,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lm-mq672er1au4g50",
-    "affiliate_url": "https://s.shopee.com.br/5VUqgeXLhe",
-    "created_at": "27/08/2026 01:18",
-    "created_at_iso": "2026-08-27T01:18:59",
-    "created_ts": 1787793539,
-    "niche": {
-      "key": "shopee_roupas_masculinas",
-      "name": "Roupas Masculinas"
-    }
-  },
-  {
-    "id": "7ad3fa6c0a2b995979",
-    "title": "Kit 5 ou 10 Cuecas Boxer Masculinas Polo Wear Microfibra Leve e Elást…",
-    "raw_title": "Kit 5 ou 10 Cuecas Boxer Masculinas Polo Wear Microfibra Leve e Elástico Confortável",
-    "description": "🔥 29% OFF — Oferta encontrada! 📌 Kit 5 ou 10 Cuecas Boxer Masculinas Polo Wear Microfibra Leve e Elástico Confortável Confira os detalhes e aproveite en...",
-    "marketplace": "Shopee",
-    "category": "Roupas Masculinas",
-    "old_price": "R$ 80,15",
-    "price": "R$ 56,91",
-    "discount_percent": 29.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mergbe3k5gqp14",
-    "affiliate_url": "https://s.shopee.com.br/5VUqgegDYW",
-    "created_at": "27/08/2026 01:17",
-    "created_at_iso": "2026-08-27T01:17:55",
-    "created_ts": 1787793475,
-    "niche": {
-      "key": "shopee_roupas_masculinas",
-      "name": "Roupas Masculinas"
     }
   }
 ]

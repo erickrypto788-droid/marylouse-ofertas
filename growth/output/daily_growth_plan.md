@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 28/08/2026 18:49
+Gerado em: 28/08/2026 19:03
 
 ## Categorias prioritárias
 
@@ -9,8 +9,8 @@ Gerado em: 28/08/2026 18:49
 - 👗 **Moda Feminina**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 👟 **Calçados**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 🐶 **Pet**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 💄 **Beleza**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 🐶 **Pet**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 📦 **Outros**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 📚 **Papelaria**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 - 🏋️ **Esportes**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
@@ -73,19 +73,19 @@ Gerado em: 28/08/2026 18:49
    - Desconto: 50% OFF
    - Link: https://s.shopee.com.br/30nXIy2h4y
 
-9. **Kit 10 ou 5 Cuecas Box Boxer Microfibra Infantil Juvenil MEN Boy Cria…**
+9. **Ração Gato Castrado Life Special Robustus 10,1kg**
+   - Categoria: Pet
+   - Loja: Mercado Livre
+   - Preço: R$ 171,50
+   - Desconto: Oferta
+   - Link: https://www.mercadolivre.com.br/p/MLB75981402?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+10. **Kit 10 ou 5 Cuecas Box Boxer Microfibra Infantil Juvenil MEN Boy Cria…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 27,95
    - Desconto: 38% OFF
    - Link: https://s.shopee.com.br/3B6yV3d798
-
-10. **Xiaomi POCO X6 5G Branco**
-   - Categoria: Celulares
-   - Loja: Mercado Livre
-   - Preço: R$ 3.500,00
-   - Desconto: Oferta
-   - Link: https://www.mercadolivre.com.br/p/MLB29728116?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ## Ações gratuitas recomendadas
 

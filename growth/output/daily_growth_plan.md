@@ -1,15 +1,15 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 28/08/2026 01:19
+Gerado em: 28/08/2026 02:04
 
 ## Categorias prioritárias
 
 - 👟 **Calçados**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 📦 **Outros**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
-- 🍼 **Mãe e Bebê**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 👕 **Moda Masculina**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
+- 🍼 **Mãe e Bebê**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 💻 **Informática**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 👕 **Moda Masculina**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 - 👗 **Moda Feminina**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 🏋️ **Esportes**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 💄 **Beleza**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
@@ -73,19 +73,19 @@ Gerado em: 28/08/2026 01:19
    - Desconto: 67% OFF
    - Link: https://s.shopee.com.br/AKa6qFcFnv
 
-9. **Liquidificador Britânia BLQE01**
+9. **Ração Harmony Cães Pequenos**
+   - Categoria: Pet
+   - Loja: Mercado Livre
+   - Preço: R$ 149,90
+   - Desconto: Oferta
+   - Link: https://www.mercadolivre.com.br/p/MLB49735840?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+10. **Liquidificador Britânia BLQE01**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 119,90
    - Desconto: 33% OFF
    - Link: https://s.shopee.com.br/gPcWgBZoM
-
-10. **Cabo Carregador Turbo Lightning Original iPhone/iPad**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 21,01
-   - Desconto: 46% OFF
-   - Link: https://s.shopee.com.br/4qFBQC2wRt
 
 ## Ações gratuitas recomendadas
 

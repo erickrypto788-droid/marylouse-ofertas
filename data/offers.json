@@ -1,5 +1,26 @@
 [
   {
+    "id": "c4723c6eb2863c303a",
+    "title": "Mochila Grande Versátil",
+    "raw_title": "Mochila Grande Masculina Feminina De Viagem Bolsa Academia",
+    "description": "💥 PROMOÇÃO RELÂMPAGO! Mochila Grande Masculina Feminina para Viagem e Academia! 🎒 Perfeita para todas as suas necessidades: trabalho, academia, ou aquel...",
+    "marketplace": "Shopee",
+    "category": "Bolsas Masculinas",
+    "old_price": "R$ 90,86",
+    "price": "R$ 39,98",
+    "discount_percent": 56.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lwsvrkev502a30",
+    "affiliate_url": "https://s.shopee.com.br/4AzTxlPYs2",
+    "created_at": "28/08/2026 10:15",
+    "created_at_iso": "2026-08-28T10:15:36",
+    "created_ts": 1787912136,
+    "niche": {
+      "key": "shopee_bolsas_masculinas",
+      "name": "Bolsas Masculinas"
+    }
+  },
+  {
     "id": "ddbdd35d1e925b8797",
     "title": "Necessaire Organizador de Viagem",
     "raw_title": "Necessaire Organizador Cosmético Maquiagem Feminino Para Viagem Em Alto Qualidade 884",
@@ -1857,69 +1878,6 @@
     "niche": {
       "key": "shopee_brinquedos_hobbies",
       "name": "Brinquedos e Hobbies"
-    }
-  },
-  {
-    "id": "9bf71363642e356b13",
-    "title": "Whey Protein Gourmet 900g",
-    "raw_title": "Whey Protein Gourmet 100% Concentrado e Isolado 900g Pote",
-    "description": "💪 Super Oferta de Whey Protein! Chegou a hora de turbinar seus resultados com o Whey Protein Gourmet 100% Concentrado e Isolado de 900g! Qualidade premi...",
-    "marketplace": "Shopee",
-    "category": "Esportes e Lazer",
-    "old_price": "R$ 90,47",
-    "price": "R$ 38,90",
-    "discount_percent": 57.0,
-    "rating": 4.7,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ln-mqc15yo9rimbd5",
-    "affiliate_url": "https://s.shopee.com.br/3LQMdcz9DH",
-    "created_at": "27/08/2026 09:20",
-    "created_at_iso": "2026-08-27T09:20:23",
-    "created_ts": 1787822423,
-    "niche": {
-      "key": "shopee_esportes_lazer",
-      "name": "Esportes e Lazer"
-    }
-  },
-  {
-    "id": "f20140acfe6ebbee89",
-    "title": "Bola de Futsal Topper + Bomba Slick Gold",
-    "raw_title": "Bola de Futsal Topper Original E Bomba Slick Gold Original Resistente Futebol de Salão Oficial",
-    "description": "Golaço de Oferta! ⚽️ Bola de Futsal Topper Original E Bomba Slick Gold Original Resistente Futebol de Salão Oficial com 65% OFF! 🥅 Qualidade e durabilid...",
-    "marketplace": "Shopee",
-    "category": "Esportes e Lazer",
-    "old_price": "R$ 199,97",
-    "price": "R$ 69,99",
-    "discount_percent": 65.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mddc18pkvuia8d",
-    "affiliate_url": "https://s.shopee.com.br/8fRszQaJ3m",
-    "created_at": "27/08/2026 09:19",
-    "created_at_iso": "2026-08-27T09:19:13",
-    "created_ts": 1787822353,
-    "niche": {
-      "key": "shopee_esportes_lazer",
-      "name": "Esportes e Lazer"
-    }
-  },
-  {
-    "id": "0e9228008b66b0fe6a",
-    "title": "Andador/Bicicleta de Equilíbrio Infantil",
-    "raw_title": "Andador/Bicicleta de Equilíbrio 4 Rodas Sem Pedal – Infantil, Estável e Seguro P14",
-    "description": "Seu filho vai amar! 🤩 Prepare-se para ver seu pequeno explorador desenvolver equilíbrio e coordenação de forma divertida e segura! 🤸‍♂️ O Andador/Bicicl...",
-    "marketplace": "Shopee",
-    "category": "Esportes e Lazer",
-    "old_price": "R$ 199,98",
-    "price": "R$ 93,99",
-    "discount_percent": 53.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgg80znl5gjo1c",
-    "affiliate_url": "https://s.shopee.com.br/9pdqNZRXFc",
-    "created_at": "27/08/2026 09:18",
-    "created_at_iso": "2026-08-27T09:18:05",
-    "created_ts": 1787822285,
-    "niche": {
-      "key": "shopee_esportes_lazer",
-      "name": "Esportes e Lazer"
     }
   }
 ]

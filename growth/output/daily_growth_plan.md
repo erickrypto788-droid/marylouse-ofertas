@@ -1,13 +1,13 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 28/08/2026 06:22
+Gerado em: 28/08/2026 07:20
 
 ## Categorias prioritárias
 
-- 💄 **Beleza**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🍼 **Mãe e Bebê**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🏋️ **Esportes**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 💄 **Beleza**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🧸 **Brinquedos**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
@@ -38,12 +38,12 @@ Gerado em: 28/08/2026 06:22
    - Desconto: 71% OFF
    - Link: https://s.shopee.com.br/7VFvKnmsQP
 
-4. **Secador LONYAN Profissional com Difusor**
-   - Categoria: Beleza
+4. **Mini Balança Digital de Cozinha**
+   - Categoria: Casa e Cozinha
    - Loja: Shopee
-   - Preço: R$ 79,00
-   - Desconto: 50% OFF
-   - Link: https://s.shopee.com.br/AUtX2YbcSw
+   - Preço: R$ 25,98
+   - Desconto: 72% OFF
+   - Link: https://s.shopee.com.br/3qMehCJAsk
 
 5. **Sandália Flatform Infantil Menina Papete Glady Strass**
    - Categoria: Pet
@@ -80,12 +80,12 @@ Gerado em: 28/08/2026 06:22
    - Desconto: 61% OFF
    - Link: https://s.shopee.com.br/2BEPNiustY
 
-10. **Escova Rotativa 2 em 1**
-   - Categoria: Beleza
+10. **Nebulizador Ultrassônico Portátil**
+   - Categoria: Saúde
    - Loja: Shopee
-   - Preço: R$ 99,99
-   - Desconto: 67% OFF
-   - Link: https://s.shopee.com.br/AKa6qFcFnv
+   - Preço: R$ 25,73
+   - Desconto: 30% OFF
+   - Link: https://s.shopee.com.br/gPcvNMQkD
 
 ## Ações gratuitas recomendadas
 

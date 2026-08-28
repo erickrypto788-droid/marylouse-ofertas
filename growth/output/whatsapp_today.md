@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 28/08/2026 16:21
+Gerado em: 28/08/2026 17:17
 
 ## Como usar
 
@@ -147,14 +147,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Macacão Pantalona Social Luxo
+Blazer Feminino Plus Size Alfaiataria Sem Forro | Botões Dourados Dec…
 
-💸 De: R$ 199,71
-🔥 Por: R$ 69,90
+💸 De: R$ 156,86
+🔥 Por: R$ 54,90
 🏷️ 65% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/AUtZAPzoMb
+Ver oferta: https://s.shopee.com.br/9pdsVQTFIm
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

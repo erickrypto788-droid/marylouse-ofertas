@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 28/08/2026 02:04
+Gerado em: 28/08/2026 02:21
 
 ## Como usar
 
@@ -78,9 +78,9 @@ Gerado em: 28/08/2026 02:04
 
 **Produtos usados:**
 
+- Kit Perfumes Masculinos Kayak + Mlbecc
+- Perfume Importados Feminino E Masculino 30ML
 - Secador LONYAN Profissional com Difusor
-- Escova Rotativa 2 em 1
-- Kit Protetor Solar Principia
 
 ---
 

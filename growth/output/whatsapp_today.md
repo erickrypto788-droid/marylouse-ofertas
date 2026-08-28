@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 28/08/2026 02:04
+Gerado em: 28/08/2026 02:21
 
 ## Como usar
 
@@ -57,14 +57,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
 ```txt
 💄 Oferta para Beleza e Cuidados
 
-Secador LONYAN Profissional com Difusor
+Kit Perfumes Masculinos Kayak + Mlbecc
 
-💸 De: R$ 158,00
-🔥 Por: R$ 79,00
-🏷️ 50% OFF
+💸 De: R$ 99,98
+🔥 Por: R$ 47,99
+🏷️ 52% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/AUtX2YbcSw
+Ver oferta: https://s.shopee.com.br/8fRu7Tk71X
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

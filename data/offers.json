@@ -1,5 +1,26 @@
 [
   {
+    "id": "8cd481f4c55a1b576b",
+    "title": "Blazer Feminino Plus Size Alfaiataria Sem Forro | Botões Dourados Dec…",
+    "raw_title": "Blazer Feminino Plus Size Alfaiataria Sem Forro | Botões Dourados Decorativos | Elegante para , Escritório e Casual",
+    "description": "🔥 65% OFF — Oferta encontrada! 📌 Blazer Feminino Plus Size Alfaiataria Sem Forro | Botões Dourados Decorativos | Elegante para , Escritório e Casual Con...",
+    "marketplace": "Shopee",
+    "category": "Roupas Plus Size",
+    "old_price": "R$ 156,86",
+    "price": "R$ 54,90",
+    "discount_percent": 65.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820ld-mrxaz6ukmltwf1",
+    "affiliate_url": "https://s.shopee.com.br/9pdsVQTFIm",
+    "created_at": "28/08/2026 17:15",
+    "created_at_iso": "2026-08-28T17:15:39",
+    "created_ts": 1787937339,
+    "niche": {
+      "key": "shopee_roupas_plus_size",
+      "name": "Roupas Plus Size"
+    }
+  },
+  {
     "id": "1b60a84f950f9a2d8d",
     "title": "Kit 10, 5 Cueca Masculina Box Adulto Microfibra Forro 100% Algodão Co…",
     "raw_title": "Kit 10, 5 Cueca Masculina Box Adulto Microfibra Forro 100% Algodão Cores Variadas",
@@ -1862,39 +1883,5 @@
       "key": "shopee_bebidas_alimentos",
       "name": "Bebidas e Alimentos"
     }
-  },
-  {
-    "id": "9780441f6feb5288de",
-    "title": "Suporte Roteador Sem Furo",
-    "raw_title": "Suporte Roteador Parede Sem Furo Fita 3M Organizador WiFi Universal",
-    "description": "Chega de bagunça com fios! 🚫 Dê um upgrade na sua casa! ✨ Transforme seu ambiente com este Suporte de Parede para Roteador. Instalação sem furos, com Fi...",
-    "marketplace": "Shopee",
-    "category": "Informática",
-    "old_price": "R$ 21,72",
-    "price": "R$ 13,90",
-    "discount_percent": 36.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ll-mn1u9ajebgucaf",
-    "affiliate_url": "https://s.shopee.com.br/112SKFedIz",
-    "created_at": "27/08/2026 16:21",
-    "created_at_iso": "2026-08-27T16:21:16",
-    "created_ts": 1787847676
-  },
-  {
-    "id": "bc1a17c7059d214e6a",
-    "title": "Webcam Emeet S600 4K com Autofoco",
-    "raw_title": "Emeet S600 4k 30Fps Webcam Autofoco Com Microfone 1080P 60Fps Camera Para Pc",
-    "description": "🔥 QUALIDADE 4K para suas chamadas e streams! A Webcam Emeet S600 é perfeita para quem busca excelência! Com autofoco, microfone integrado e resolução 4K...",
-    "marketplace": "Shopee",
-    "category": "Informática",
-    "old_price": "R$ 461,53",
-    "price": "R$ 359,99",
-    "discount_percent": 22.0,
-    "rating": 5.0,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m3-mlg8c9ay7yf9e8",
-    "affiliate_url": "https://s.shopee.com.br/4VcKUgNBUz",
-    "created_at": "27/08/2026 16:20",
-    "created_at_iso": "2026-08-27T16:20:07",
-    "created_ts": 1787847607
   }
 ]

@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 28/08/2026 21:19
+Gerado em: 28/08/2026 22:20
 
 ## Como usar
 
@@ -78,9 +78,9 @@ Gerado em: 28/08/2026 21:19
 
 **Produtos usados:**
 
+- Escova Secadora 5 em 1 Modeladora Profissional Alisadora de Cabelo An…
+- Perfume Masculino Amadeirado
 - Kit Perfumes Masculinos Kayak + Mlbecc
-- Perfume Importados Feminino E Masculino 30ML
-- Condicionador Jaborandi - 300 Ml Condicionador Jaborandi 30
 
 ---
 

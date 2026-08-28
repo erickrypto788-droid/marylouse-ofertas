@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 28/08/2026 21:19
+Gerado em: 28/08/2026 22:20
 
 ## Como usar
 
@@ -87,14 +87,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
 ```txt
 💄 Oferta para Beleza e Cuidados
 
-Kit Perfumes Masculinos Kayak + Mlbecc
+Escova Secadora 5 em 1 Modeladora Profissional Alisadora de Cabelo An…
 
-💸 De: R$ 99,98
-🔥 Por: R$ 47,99
-🏷️ 52% OFF
+💸 De: R$ 114,73
+🔥 Por: R$ 67,69
+🏷️ 41% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/8fRu7Tk71X
+Ver oferta: https://s.shopee.com.br/4AzW5c5LKf
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

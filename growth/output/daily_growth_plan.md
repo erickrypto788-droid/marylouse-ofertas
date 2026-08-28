@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 28/08/2026 11:25
+Gerado em: 28/08/2026 12:21
 
 ## Categorias prioritárias
 
-- 🍼 **Mãe e Bebê**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 📚 **Papelaria**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
+- 🍼 **Mãe e Bebê**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 📚 **Papelaria**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 - 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 👜 **Bolsas**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 - 💄 **Beleza**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 👟 **Calçados**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 💻 **Informática**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 🏋️ **Esportes**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 👕 **Moda Masculina**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
-- 👗 **Moda Feminina**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 
 ## Top ofertas para destacar
 
@@ -38,54 +38,54 @@ Gerado em: 28/08/2026 11:25
    - Desconto: 71% OFF
    - Link: https://s.shopee.com.br/7VFvKnmsQP
 
-4. **Fralda Huggies Máxima Proteção XXXL - 42 Un**
+4. **Monitor Gamer Mancer Horizon Z Pro, 23.8 Pol, IPS, FHD, 1ms, 144Hz, H…**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 554,90
+   - Desconto: 59% OFF
+   - Link: https://s.shopee.com.br/7KwVrt3ScL
+
+5. **Fralda Huggies Máxima Proteção XXXL - 42 Un**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 99,90
    - Desconto: 29% OFF
    - Link: https://s.shopee.com.br/gPbf5TiYO
 
-5. **Mini Balança Digital de Cozinha**
+6. **Mini Balança Digital de Cozinha**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 25,98
    - Desconto: 72% OFF
    - Link: https://s.shopee.com.br/3qMehCJAsk
 
-6. **Sandália Flatform Infantil Menina Papete Glady Strass**
+7. **Sandália Flatform Infantil Menina Papete Glady Strass**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 37,90
    - Desconto: 62% OFF
    - Link: https://s.shopee.com.br/8plKS1bFna
 
-7. **Liquidificador Triturador Compacto para suco com Led - suco e frutas…**
+8. **Liquidificador Triturador Compacto para suco com Led - suco e frutas…**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 78,68
    - Desconto: 50% OFF
    - Link: https://s.shopee.com.br/30nXIy2h4y
 
-8. **Kit Gamer Teclado + Mouse RGB**
+9. **Kit Gamer Teclado + Mouse RGB**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 46,50
    - Desconto: 53% OFF
    - Link: https://s.shopee.com.br/3LQN6X9xSJ
 
-9. **Fralda Premium Huggies Natural Care Aberta RN/P/M/G**
-   - Categoria: Mãe e Bebê
+10. **36 Etiquetas Adesivas Temperos Condimentos Mantimentos Resistente à Á…**
+   - Categoria: Casa e Cozinha
    - Loja: Shopee
-   - Preço: R$ 43,90
-   - Desconto: 20% OFF
-   - Link: https://s.shopee.com.br/19urrWFuC
-
-10. **Triciclo Motoca Avespa Infantil com Guia**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 197,90
-   - Desconto: 45% OFF
-   - Link: https://s.shopee.com.br/2VrHAsHls6
+   - Preço: R$ 10,50
+   - Desconto: 47% OFF
+   - Link: https://s.shopee.com.br/1LfIirHMgv
 
 ## Ações gratuitas recomendadas
 

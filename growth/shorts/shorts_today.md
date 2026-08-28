@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 28/08/2026 11:25
+Gerado em: 28/08/2026 12:21
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 28/08/2026 11:25
 **Produtos usados:**
 
 - Fralda Huggies Máxima Proteção XXXL - 42 Un
-- Fralda Premium Huggies Natural Care Aberta RN/P/M/G
 - Triciclo Motoca Avespa Infantil com Guia
+- Fralda Pampers Pants XXG 60 Unidades
 
 ---
 
@@ -55,8 +55,8 @@ Gerado em: 28/08/2026 11:25
 **Produtos usados:**
 
 - Mini Balança Digital de Cozinha
+- 36 Etiquetas Adesivas Temperos Condimentos Mantimentos Resistente à Á…
 - Liquidificador Triturador Compacto para suco com Led - suco e frutas…
-- Liquidificador Britânia BLQE01
 
 ---
 

@@ -1,6 +1,6 @@
 # Pinterest Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 29/08/2026 17:20
+Gerado em: 29/08/2026 18:21
 
 ## Como usar
 
@@ -86,7 +86,7 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
 
 **Descrição:**
 
-Veja ofertas de Beleza selecionadas pela MaryLouse Ofertas. Destaque de hoje: Escova Secadora 5 em 1 Modeladora Profissional Alisadora de Cabelo An…. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Veja ofertas de Beleza selecionadas pela MaryLouse Ofertas. Destaque de hoje: Escova Secadora Alisadora 3 em 1. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
@@ -94,7 +94,7 @@ https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=pinterest&ut
 
 **Por que postar:**
 
-Categoria com 5 oferta(s) e boa intenção de compra.
+Categoria com 9 oferta(s) e boa intenção de compra.
 
 ---
 
@@ -126,27 +126,27 @@ Categoria com 4 oferta(s) e boa intenção de compra.
 
 ---
 
-## Pin 5 — Pet
+## Pin 5 — Beleza
 
 **Tipo:** produto_direto
 
-**Board sugerido:** Ofertas Pet
+**Board sugerido:** Beleza e Cuidados
 
 **Imagem para upload no Pinterest:**
 
-https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
+https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
 
 **Título:**
 
-64% OFF: Pro 4 Fones De Ouvido TWS Sem Fio Bluetooth De Longa Duração Bateria…
+87% OFF: Escova Secadora Alisadora 3 em 1
 
 **Descrição:**
 
-Oferta destaque em Pet encontrada pela MaryLouse Ofertas. Preço: R$ 10,72. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Oferta destaque em Beleza encontrada pela MaryLouse Ofertas. Preço: R$ 37,99. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
-https://s.shopee.com.br/1Vym6sx1pU
+https://s.shopee.com.br/4fvmgX3RJg
 
 **Por que postar:**
 

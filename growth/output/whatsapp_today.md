@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 29/08/2026 17:20
+Gerado em: 29/08/2026 18:21
 
 ## Como usar
 
@@ -12,7 +12,37 @@ Gerado em: 29/08/2026 17:20
 
 ---
 
-## Post 1 — Ofertas Pet
+## Post 1 — Beleza e Cuidados
+
+**Canal recomendado:** Beleza e Cuidados
+
+**Horário sugerido:** 12:00 - 15:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
+
+**Texto pronto:**
+
+```txt
+💄 Oferta para Beleza e Cuidados
+
+Escova Secadora Alisadora 3 em 1
+
+💸 De: R$ 292,23
+🔥 Por: R$ 37,99
+🏷️ 87% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/4fvmgX3RJg
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 2 — Ofertas Pet
 
 **Canal recomendado:** Ofertas Pet
 
@@ -42,7 +72,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 2 — Mamãe e Bebê
+## Post 3 — Mamãe e Bebê
 
 **Canal recomendado:** Mamãe e Bebê
 
@@ -72,7 +102,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 3 — Casa e Cozinha
+## Post 4 — Casa e Cozinha
 
 **Canal recomendado:** Casa e Cozinha
 
@@ -102,7 +132,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Celulares e Tecnologia
+## Post 5 — Celulares e Tecnologia
 
 **Canal recomendado:** Celulares e Tecnologia
 
@@ -125,36 +155,6 @@ Xiaomi Poco X7 Pro 512GB / 256GB +12 Ram 5G Versão Global NFC Origina…
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/8AVeij2wd1
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 5 — Beleza e Cuidados
-
-**Canal recomendado:** Beleza e Cuidados
-
-**Horário sugerido:** 12:00 - 15:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
-
-**Texto pronto:**
-
-```txt
-💄 Oferta para Beleza e Cuidados
-
-Escova Secadora 5 em 1 Modeladora Profissional Alisadora de Cabelo An…
-
-💸 De: R$ 114,73
-🔥 Por: R$ 67,69
-🏷️ 41% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/4AzW5c5LKf
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

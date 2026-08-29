@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 29/08/2026 01:03
+Gerado em: 29/08/2026 01:21
 
 ## Categorias prioritárias
 
+- 🍼 **Mãe e Bebê**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🏋️ **Esportes**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 🍼 **Mãe e Bebê**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 💄 **Beleza**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 🧸 **Brinquedos**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 👟 **Calçados**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 🍳 **Casa e Cozinha**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 📚 **Papelaria**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 - 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 🐶 **Pet**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
+- 🍳 **Casa e Cozinha**: 4 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 🧒 **Moda Infantil**: 4 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-infantil.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-infantil
-- 👕 **Moda Masculina**: 4 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 
 ## Top ofertas para destacar
 
@@ -52,40 +52,40 @@ Gerado em: 29/08/2026 01:03
    - Desconto: 45% OFF
    - Link: https://s.shopee.com.br/8AVeij2wd1
 
-6. **Kit 6 Peças Body Bebê Menina**
+6. **Tapete Termico Infantil Bebe Estampas Atividades Educativo Tapetinho…**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 21,99
+   - Desconto: 56% OFF
+   - Link: https://s.shopee.com.br/5LBTg7dKX7
+
+7. **Kit 6 Peças Body Bebê Menina**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 47,90
    - Desconto: 56% OFF
    - Link: https://s.shopee.com.br/70JhWwsc9O
 
-7. **Kit 2 Body Splash Feminino Lily + Florata**
+8. **Kit 2 Body Splash Feminino Lily + Florata**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 34,90
    - Desconto: 56% OFF
    - Link: https://s.shopee.com.br/6q0Efogutq
 
-8. **Carregador iPhone Turbo Tipo-C 20W + Cabo Lightining para IPhone Carg…**
+9. **Carregador iPhone Turbo Tipo-C 20W + Cabo Lightining para IPhone Carg…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 16,99
    - Desconto: 66% OFF
    - Link: https://s.shopee.com.br/2LXrm0TYHa
 
-9. **Monitor Gamer Mancer Horizon Z Pro, 23.8 Pol, IPS, FHD, 1ms, 144Hz, H…**
+10. **Monitor Gamer Mancer Horizon Z Pro, 23.8 Pol, IPS, FHD, 1ms, 144Hz, H…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 554,90
    - Desconto: 59% OFF
    - Link: https://s.shopee.com.br/7KwVrt3ScL
-
-10. **Fralda Huggies Máxima Proteção XXXL - 42 Un**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 99,90
-   - Desconto: 29% OFF
-   - Link: https://s.shopee.com.br/gPbf5TiYO
 
 ## Ações gratuitas recomendadas
 

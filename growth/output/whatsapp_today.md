@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 29/08/2026 01:03
+Gerado em: 29/08/2026 01:21
 
 ## Como usar
 
@@ -42,7 +42,37 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 2 — Celulares e Tecnologia
+## Post 2 — Mamãe e Bebê
+
+**Canal recomendado:** Mamãe e Bebê
+
+**Horário sugerido:** 09:00 - 11:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
+
+**Texto pronto:**
+
+```txt
+🍼 Oferta para Mamãe e Bebê
+
+Tapete Termico Infantil Bebe Estampas Atividades Educativo Tapetinho…
+
+💸 De: R$ 49,98
+🔥 Por: R$ 21,99
+🏷️ 56% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/5LBTg7dKX7
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 3 — Celulares e Tecnologia
 
 **Canal recomendado:** Celulares e Tecnologia
 
@@ -72,7 +102,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 3 — Beleza e Cuidados
+## Post 4 — Beleza e Cuidados
 
 **Canal recomendado:** Beleza e Cuidados
 
@@ -95,36 +125,6 @@ Escova Secadora 5 em 1 Modeladora Profissional Alisadora de Cabelo An…
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/4AzW5c5LKf
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 4 — Mamãe e Bebê
-
-**Canal recomendado:** Mamãe e Bebê
-
-**Horário sugerido:** 09:00 - 11:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
-
-**Texto pronto:**
-
-```txt
-🍼 Oferta para Mamãe e Bebê
-
-Fralda Huggies Máxima Proteção XXXL - 42 Un
-
-💸 De: R$ 140,70
-🔥 Por: R$ 99,90
-🏷️ 29% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/gPbf5TiYO
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 29/08/2026 01:03
+Gerado em: 29/08/2026 01:21
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 29/08/2026 01:03
 **Produtos usados:**
 
 - Fralda Huggies Máxima Proteção XXXL - 42 Un
+- Tapete Termico Infantil Bebe Estampas Atividades Educativo Tapetinho…
 - Kit 6 Peças Body Bebê Menina
-- Triciclo Motoca Avespa Infantil com Guia
 
 ---
 
@@ -56,7 +56,7 @@ Gerado em: 29/08/2026 01:03
 
 - Mini Balança Digital de Cozinha
 - 36 Etiquetas Adesivas Temperos Condimentos Mantimentos Resistente à Á…
-- Liquidificador Triturador Compacto para suco com Led - suco e frutas…
+- Jogo Panelas Vermelho Alumínio Fundido Usinado Javaliaa26a30
 
 ---
 

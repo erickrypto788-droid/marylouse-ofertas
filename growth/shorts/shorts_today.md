@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 29/08/2026 18:21
+Gerado em: 29/08/2026 19:21
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 29/08/2026 18:21
 
 **Produtos usados:**
 
+- Kit 5 Camisetas Regata Bebê Menino Menina
 - Amarelo Escova Limpeza Mamadeira Kit Para Limpeza De Mamadeira Kit Li…
 - Berço Balanço Portátil Moises Mosqueteiro Infantil Trava de Segurança…
-- Tapete Termico Infantil Bebe Estampas Atividades Educativo Tapetinho…
 
 ---
 

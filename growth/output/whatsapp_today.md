@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 29/08/2026 07:25
+Gerado em: 29/08/2026 08:21
 
 ## Como usar
 
@@ -147,14 +147,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
 ```txt
 🐶 Oferta para Ofertas Pet
 
-Amplificador de sinal Wi-Fi repetidor e roteador sem fio rede sem fio…
+Repetidor Wi-Fi Potente 4 Antenas
 
-💸 De: R$ 89,54
-🔥 Por: R$ 59,99
-🏷️ 33% OFF
+💸 De: R$ 90,14
+🔥 Por: R$ 64,90
+🏷️ 28% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/1LfIirdMd9
+Ver oferta: https://s.shopee.com.br/W6EO53pEV
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

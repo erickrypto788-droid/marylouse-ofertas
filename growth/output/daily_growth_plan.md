@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 29/08/2026 07:25
+Gerado em: 29/08/2026 08:21
 
 ## Categorias prioritárias
 
-- 🍼 **Mãe e Bebê**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 📚 **Papelaria**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
+- 🍼 **Mãe e Bebê**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 🐶 **Pet**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 👜 **Bolsas**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 - 👟 **Calçados**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 🏋️ **Esportes**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 🐶 **Pet**: 4 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
+- 💻 **Informática**: 4 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - ❤️ **Saúde**: 4 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 🧸 **Brinquedos**: 4 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
-- 💄 **Beleza**: 4 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 
 ## Top ofertas para destacar
 
@@ -38,54 +38,54 @@ Gerado em: 29/08/2026 07:25
    - Desconto: 45% OFF
    - Link: https://s.shopee.com.br/8AVeij2wd1
 
-4. **Tiras de Teste Glicose G-Tech Vita C/50**
+4. **MousePad Grande Rosa Gamer Office**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 20,90
+   - Desconto: 50% OFF
+   - Link: https://s.shopee.com.br/1qbZJmFfV2
+
+5. **Tiras de Teste Glicose G-Tech Vita C/50**
    - Categoria: Saúde
    - Loja: Shopee
    - Preço: R$ 44,90
    - Desconto: 57% OFF
    - Link: https://s.shopee.com.br/20v1qF3S22
 
-5. **Medidor de Pressão Digital com Voz**
+6. **Medidor de Pressão Digital com Voz**
    - Categoria: Saúde
    - Loja: Shopee
    - Preço: R$ 37,99
    - Desconto: 62% OFF
    - Link: https://s.shopee.com.br/3LQPMZ9FpH
 
-6. **Tapete Termico Infantil Bebe Estampas Atividades Educativo Tapetinho…**
+7. **Tapete Termico Infantil Bebe Estampas Atividades Educativo Tapetinho…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 21,99
    - Desconto: 56% OFF
    - Link: https://s.shopee.com.br/5LBTg7dKX7
 
-7. **Kit 6 Peças Body Bebê Menina**
+8. **Kit 6 Peças Body Bebê Menina**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 47,90
    - Desconto: 56% OFF
    - Link: https://s.shopee.com.br/70JhWwsc9O
 
-8. **Kit 2 Body Splash Feminino Lily + Florata**
+9. **Kit 2 Body Splash Feminino Lily + Florata**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 34,90
    - Desconto: 56% OFF
    - Link: https://s.shopee.com.br/6q0Efogutq
 
-9. **Carregador iPhone Turbo Tipo-C 20W + Cabo Lightining para IPhone Carg…**
+10. **Carregador iPhone Turbo Tipo-C 20W + Cabo Lightining para IPhone Carg…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 16,99
    - Desconto: 66% OFF
    - Link: https://s.shopee.com.br/2LXrm0TYHa
-
-10. **Monitor Gamer Mancer Horizon Z Pro, 23.8 Pol, IPS, FHD, 1ms, 144Hz, H…**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 554,90
-   - Desconto: 59% OFF
-   - Link: https://s.shopee.com.br/7KwVrt3ScL
 
 ## Ações gratuitas recomendadas
 

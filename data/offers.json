@@ -1,5 +1,22 @@
 [
   {
+    "id": "e80ae7f981b093753a",
+    "title": "Ração Gato Castrado Frango +12 Anos 500g Premier",
+    "raw_title": "Ração Gato Castrado Frango +12 Anos 500g Premier",
+    "description": "🔥 Oferta encontrada! 📌 Ração Gato Castrado Frango +12 Anos 500g Premier Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Pet",
+    "old_price": "",
+    "price": "R$ 41,36",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_777146-MLA99854888751_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB22588098?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "29/08/2026 12:01",
+    "created_at_iso": "2026-08-29T12:01:36",
+    "created_ts": 1788004896
+  },
+  {
     "id": "a5d79bedf0cf7084ec",
     "title": "Conjunto Feminino Blusa Gola V e Calça Pantalona Tecido Viscolycra Pr…",
     "raw_title": "Conjunto Feminino Blusa Gola V e Calça Pantalona Tecido Viscolycra Premium",
@@ -1888,47 +1905,5 @@
     "created_at": "28/08/2026 12:15",
     "created_at_iso": "2026-08-28T12:15:47",
     "created_ts": 1787919347
-  },
-  {
-    "id": "32d8f9f307b6c578de",
-    "title": "Agenda 2027 Capa Dura Cereja Glitter",
-    "raw_title": "Agenda 2027 Capa Dura C/ Marca Páginas Espiral Agenda Cereja Estampada Glitter Grande Média 336 Pág",
-    "description": "🎉 Prepare-se para 2027 com estilo e organização! Essa Agenda 2027 Capa Dura com estampa de Cereja e Glitter é perfeita para você! 🤩 Com marca páginas e...",
-    "marketplace": "Shopee",
-    "category": "Papelaria",
-    "old_price": "R$ 39,78",
-    "price": "R$ 19,89",
-    "discount_percent": 50.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820le-mqdjq0pzlr7me0",
-    "affiliate_url": "https://s.shopee.com.br/7psnj2DLd6",
-    "created_at": "28/08/2026 11:23",
-    "created_at_iso": "2026-08-28T11:23:44",
-    "created_ts": 1787916224,
-    "niche": {
-      "key": "shopee_papelaria",
-      "name": "Papelaria"
-    }
-  },
-  {
-    "id": "9e9276df8d09c5aa3a",
-    "title": "Papel Sulfite A4 500 Folhas",
-    "raw_title": "Papel Sulfite Report Multi A4 Branco 75g com 500 Folhas",
-    "description": "Essencial no seu dia! ✨ Garanta já seu Papel Sulfite Report Multi A4 Branco 75g com 500 Folhas. Qualidade e economia para suas impressões e trabalhos! 📄",
-    "marketplace": "Shopee",
-    "category": "Papelaria",
-    "old_price": "",
-    "price": "R$ 29,99",
-    "discount_percent": 0.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-8258y-ms47358o2gi01d",
-    "affiliate_url": "https://s.shopee.com.br/4VcKQV0DMp",
-    "created_at": "28/08/2026 11:22",
-    "created_at_iso": "2026-08-28T11:22:34",
-    "created_ts": 1787916154,
-    "niche": {
-      "key": "shopee_papelaria",
-      "name": "Papelaria"
-    }
   }
 ]

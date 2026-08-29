@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 29/08/2026 01:21
+Gerado em: 29/08/2026 03:21
 
 ## Como usar
 
@@ -80,7 +80,7 @@ Gerado em: 29/08/2026 01:21
 
 - Escova Secadora 5 em 1 Modeladora Profissional Alisadora de Cabelo An…
 - Perfume Masculino Amadeirado
-- Kit Perfumes Masculinos Kayak + Mlbecc
+- Kit 2 Body Splash Feminino Lily + Florata
 
 ---
 

@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 29/08/2026 20:22
+Gerado em: 29/08/2026 21:22
 
 ## Categorias prioritárias
 
 - 🏋️ **Esportes**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 🍼 **Mãe e Bebê**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 🍼 **Mãe e Bebê**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 🐶 **Pet**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 💄 **Beleza**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 🧸 **Brinquedos**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 📚 **Papelaria**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 - 🧒 **Moda Infantil**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-infantil.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-infantil
-- 🔌 **Eletrodomésticos**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-eletrodomesticos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_eletrodomesticos
 
 ## Top ofertas para destacar
 
@@ -52,40 +52,40 @@ Gerado em: 29/08/2026 20:22
    - Desconto: 41% OFF
    - Link: https://s.shopee.com.br/4AzW5c5LKf
 
-6. **Whey Protein 900g**
+6. **Bebê Reborn Girafinha Luxo**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 139,90
+   - Desconto: 65% OFF
+   - Link: https://s.shopee.com.br/3LQPIRy0Pt
+
+7. **Whey Protein 900g**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 47,89
    - Desconto: 65% OFF
    - Link: https://s.shopee.com.br/9V13u4GBM9
 
-7. **Kit 5 Camisetas Regata Bebê Menino Menina**
+8. **Kit 5 Camisetas Regata Bebê Menino Menina**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 29,99
    - Desconto: 63% OFF
    - Link: https://s.shopee.com.br/80CG3CEdET
 
-8. **Prancha Triondas Ondulador Formador Triplo 22mm Modelador de Cachos O…**
+9. **Prancha Triondas Ondulador Formador Triplo 22mm Modelador de Cachos O…**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 40,99
    - Desconto: 66% OFF
    - Link: https://s.shopee.com.br/6fgr4D0Qr0
 
-9. **Fone De Ouvido Bluetooth Sem Fio Air Pods Pro 3 Para Android & iOS**
+10. **Fone De Ouvido Bluetooth Sem Fio Air Pods Pro 3 Para Android & iOS**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 26,99
    - Desconto: 50% OFF
    - Link: https://s.shopee.com.br/19yK82jsL
-
-10. **10000mAh/5000mAH/3000mAh Carregador portátil indução iPhone MagSafe b…**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 26,90
-   - Desconto: 73% OFF
-   - Link: https://s.shopee.com.br/7KwXjCJWSE
 
 ## Ações gratuitas recomendadas
 

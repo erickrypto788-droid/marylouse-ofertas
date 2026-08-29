@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 29/08/2026 20:22
+Gerado em: 29/08/2026 21:22
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 29/08/2026 20:22
 
 **Produtos usados:**
 
+- Bebê Reborn Girafinha Luxo
 - Kit 5 Camisetas Regata Bebê Menino Menina
 - Amarelo Escova Limpeza Mamadeira Kit Para Limpeza De Mamadeira Kit Li…
-- Berço Balanço Portátil Moises Mosqueteiro Infantil Trava de Segurança…
 
 ---
 
@@ -56,7 +56,7 @@ Gerado em: 29/08/2026 20:22
 
 - Panela De Pressão 4,5litros Panelux Linha Classic Alto Brilho A Mais…
 - Jogo Panelas Vermelho Alumínio Fundido Usinado Javaliaa26a30
-- Air Fryer Kitchen Art 16L 4 em 1 com Espeto Rotisserie KAF16A
+- Balança Digital de Precisão 10kg
 
 ---
 

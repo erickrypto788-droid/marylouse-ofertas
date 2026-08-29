@@ -1,6 +1,6 @@
 # Pinterest Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 29/08/2026 20:05
+Gerado em: 29/08/2026 20:22
 
 ## Como usar
 
@@ -114,7 +114,7 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
 
 **Descrição:**
 
-Veja ofertas de Celulares selecionadas pela MaryLouse Ofertas. Destaque de hoje: Xiaomi Poco X7 Pro 512GB / 256GB +12 Ram 5G Versão Global NFC Origina…. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Veja ofertas de Celulares selecionadas pela MaryLouse Ofertas. Destaque de hoje: 10000mAh/5000mAH/3000mAh Carregador portátil indução iPhone MagSafe b…. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
@@ -122,7 +122,7 @@ https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=pinterest
 
 **Por que postar:**
 
-Categoria com 4 oferta(s) e boa intenção de compra.
+Categoria com 2 oferta(s) e boa intenção de compra.
 
 ---
 

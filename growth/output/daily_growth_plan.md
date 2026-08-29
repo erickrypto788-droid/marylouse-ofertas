@@ -1,14 +1,14 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 29/08/2026 20:05
+Gerado em: 29/08/2026 20:22
 
 ## Categorias prioritárias
 
+- 🏋️ **Esportes**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 🍼 **Mãe e Bebê**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 🏋️ **Esportes**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
+- 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 🐶 **Pet**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 💄 **Beleza**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 👟 **Calçados**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 🐶 **Pet**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 📚 **Papelaria**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
@@ -52,12 +52,12 @@ Gerado em: 29/08/2026 20:05
    - Desconto: 41% OFF
    - Link: https://s.shopee.com.br/4AzW5c5LKf
 
-6. **Xiaomi Poco X7 Pro 512GB / 256GB +12 Ram 5G Versão Global NFC Origina…**
-   - Categoria: Celulares
+6. **Whey Protein 900g**
+   - Categoria: Pet
    - Loja: Shopee
-   - Preço: R$ 2.139,00
-   - Desconto: 45% OFF
-   - Link: https://s.shopee.com.br/8AVeij2wd1
+   - Preço: R$ 47,89
+   - Desconto: 65% OFF
+   - Link: https://s.shopee.com.br/9V13u4GBM9
 
 7. **Kit 5 Camisetas Regata Bebê Menino Menina**
    - Categoria: Mãe e Bebê

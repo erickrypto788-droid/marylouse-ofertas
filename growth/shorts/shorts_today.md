@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 29/08/2026 20:05
+Gerado em: 29/08/2026 20:22
 
 ## Como usar
 
@@ -97,14 +97,12 @@ Gerado em: 29/08/2026 20:05
 - growth/shorts/slides/celulares/01_intro.png
 - growth/shorts/slides/celulares/02_produto_1.png
 - growth/shorts/slides/celulares/03_produto_2.png
-- growth/shorts/slides/celulares/04_produto_3.png
 - growth/shorts/slides/celulares/05_cta.png
 
 **Produtos usados:**
 
-- Xiaomi Poco X7 Pro 512GB / 256GB +12 Ram 5G Versão Global NFC Origina…
 - 10000mAh/5000mAH/3000mAh Carregador portátil indução iPhone MagSafe b…
-- Carregador iPhone Turbo Tipo-C 20W + Cabo Lightining para IPhone Carg…
+- Fone De Ouvido Bluetooth Sem Fio Air Pods Pro 3 Para Android & iOS
 
 ---
 

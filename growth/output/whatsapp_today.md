@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 29/08/2026 20:05
+Gerado em: 29/08/2026 20:22
 
 ## Como usar
 
@@ -132,37 +132,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 5 — Celulares e Tecnologia
-
-**Canal recomendado:** Celulares e Tecnologia
-
-**Horário sugerido:** 19:00 - 21:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
-
-**Texto pronto:**
-
-```txt
-📱 Oferta para Celulares e Tecnologia
-
-Xiaomi Poco X7 Pro 512GB / 256GB +12 Ram 5G Versão Global NFC Origina…
-
-💸 De: R$ 3.889,09
-🔥 Por: R$ 2.139,00
-🏷️ 45% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/8AVeij2wd1
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 6 — Moda Feminina
+## Post 5 — Moda Feminina
 
 **Canal recomendado:** Moda Feminina
 
@@ -185,6 +155,36 @@ Calças Jeans Femininas Plus Size Cintura Alta Até o Umbigo Lycra
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/20v2VRRlq1
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 6 — Celulares e Tecnologia
+
+**Canal recomendado:** Celulares e Tecnologia
+
+**Horário sugerido:** 19:00 - 21:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
+
+**Texto pronto:**
+
+```txt
+📱 Oferta para Celulares e Tecnologia
+
+10000mAh/5000mAH/3000mAh Carregador portátil indução iPhone MagSafe b…
+
+💸 De: R$ 99,63
+🔥 Por: R$ 26,90
+🏷️ 73% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/7KwXjCJWSE
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

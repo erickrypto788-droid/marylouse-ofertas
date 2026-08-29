@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 29/08/2026 14:33
+Gerado em: 29/08/2026 15:19
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
 ```txt
 👟 Oferta para Moda e Calçados
 
-Botina de Segurança Couro Legítimo
+Tênis SNEEKS Feminino para Uso Diário Prático e Estiloso Super Promoç…
 
-💸 De: R$ 99,72
-🔥 Por: R$ 38,89
-🏷️ 61% OFF
+💸 De: R$ 99,97
+🔥 Por: R$ 39,99
+🏷️ 60% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/3qMfQaHSL8
+Ver oferta: https://s.shopee.com.br/5LBUbnxe3T
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

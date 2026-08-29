@@ -1,6 +1,6 @@
 # Pinterest Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 28/08/2026 23:22
+Gerado em: 29/08/2026 00:21
 
 ## Como usar
 
@@ -114,7 +114,7 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
 
 **Descrição:**
 
-Veja ofertas de Celulares selecionadas pela MaryLouse Ofertas. Destaque de hoje: Suporte Capacete Câmera/Celular. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Veja ofertas de Celulares selecionadas pela MaryLouse Ofertas. Destaque de hoje: Xiaomi Poco X7 Pro 512GB / 256GB +12 Ram 5G Versão Global NFC Origina…. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
@@ -122,34 +122,34 @@ https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=pinterest
 
 **Por que postar:**
 
-Categoria com 8 oferta(s) e boa intenção de compra.
+Categoria com 6 oferta(s) e boa intenção de compra.
 
 ---
 
-## Pin 5 — Celulares
+## Pin 5 — Beleza
 
 **Tipo:** produto_direto
 
-**Board sugerido:** Celulares e Tecnologia
+**Board sugerido:** Beleza e Cuidados
 
 **Imagem para upload no Pinterest:**
 
-https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
+https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
 
 **Título:**
 
-71% OFF: Suporte Capacete Câmera/Celular
+41% OFF: Escova Secadora 5 em 1 Modeladora Profissional Alisadora de Cabelo An…
 
 **Descrição:**
 
-Oferta destaque em Celulares encontrada pela MaryLouse Ofertas. Preço: R$ 25,66. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Oferta destaque em Beleza encontrada pela MaryLouse Ofertas. Preço: R$ 67,69. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
-https://s.shopee.com.br/7VFvKnmsQP
+https://s.shopee.com.br/4AzW5c5LKf
 
 **Por que postar:**
 
-Produto com bom score orgânico (100) e link direto afiliado.
+Produto com bom score orgânico (90) e link direto afiliado.
 
 ---

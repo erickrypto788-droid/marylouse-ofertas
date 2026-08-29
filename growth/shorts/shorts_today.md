@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 29/08/2026 12:21
+Gerado em: 29/08/2026 13:09
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 29/08/2026 12:21
 
 **Produtos usados:**
 
+- Amarelo Escova Limpeza Mamadeira Kit Para Limpeza De Mamadeira Kit Li…
 - Berço Balanço Portátil Moises Mosqueteiro Infantil Trava de Segurança…
 - Tapete Termico Infantil Bebe Estampas Atividades Educativo Tapetinho…
-- Kit 6 Peças Body Bebê Menina
 
 ---
 
@@ -54,9 +54,9 @@ Gerado em: 29/08/2026 12:21
 
 **Produtos usados:**
 
-- 36 Etiquetas Adesivas Temperos Condimentos Mantimentos Resistente à Á…
 - Jogo Panelas Vermelho Alumínio Fundido Usinado Javaliaa26a30
 - Air Fryer Kitchen Art 16L 4 em 1 com Espeto Rotisserie KAF16A
+- Balança Digital de Precisão 10kg
 
 ---
 

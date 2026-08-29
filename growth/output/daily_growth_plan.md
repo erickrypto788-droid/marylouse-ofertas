@@ -1,14 +1,14 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 29/08/2026 12:21
+Gerado em: 29/08/2026 13:09
 
 ## Categorias prioritárias
 
+- 🍼 **Mãe e Bebê**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 👕 **Moda Masculina**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 - 👗 **Moda Feminina**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 📦 **Outros**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 🐶 **Pet**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
-- 🍼 **Mãe e Bebê**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 👟 **Calçados**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - ❤️ **Saúde**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 📚 **Papelaria**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
@@ -38,54 +38,54 @@ Gerado em: 29/08/2026 12:21
    - Desconto: 45% OFF
    - Link: https://s.shopee.com.br/8AVeij2wd1
 
-4. **MousePad Grande Rosa Gamer Office**
+4. **Amarelo Escova Limpeza Mamadeira Kit Para Limpeza De Mamadeira Kit Li…**
+   - Categoria: Mãe e Bebê
+   - Loja: Mercado Livre
+   - Preço: R$ 53,20
+   - Desconto: 72% OFF
+   - Link: https://www.mercadolivre.com.br/p/MLB75043057?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+5. **MousePad Grande Rosa Gamer Office**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 20,90
    - Desconto: 50% OFF
    - Link: https://s.shopee.com.br/1qbZJmFfV2
 
-5. **Tiras de Teste Glicose G-Tech Vita C/50**
+6. **Tiras de Teste Glicose G-Tech Vita C/50**
    - Categoria: Saúde
    - Loja: Shopee
    - Preço: R$ 44,90
    - Desconto: 57% OFF
    - Link: https://s.shopee.com.br/20v1qF3S22
 
-6. **Medidor de Pressão Digital com Voz**
+7. **Medidor de Pressão Digital com Voz**
    - Categoria: Saúde
    - Loja: Shopee
    - Preço: R$ 37,99
    - Desconto: 62% OFF
    - Link: https://s.shopee.com.br/3LQPMZ9FpH
 
-7. **Tapete Termico Infantil Bebe Estampas Atividades Educativo Tapetinho…**
+8. **Tapete Termico Infantil Bebe Estampas Atividades Educativo Tapetinho…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 21,99
    - Desconto: 56% OFF
    - Link: https://s.shopee.com.br/5LBTg7dKX7
 
-8. **Kit 6 Peças Body Bebê Menina**
+9. **Kit 6 Peças Body Bebê Menina**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 47,90
    - Desconto: 56% OFF
    - Link: https://s.shopee.com.br/70JhWwsc9O
 
-9. **Kit 2 Body Splash Feminino Lily + Florata**
+10. **Kit 2 Body Splash Feminino Lily + Florata**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 34,90
    - Desconto: 56% OFF
    - Link: https://s.shopee.com.br/6q0Efogutq
-
-10. **Carregador iPhone Turbo Tipo-C 20W + Cabo Lightining para IPhone Carg…**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 16,99
-   - Desconto: 66% OFF
-   - Link: https://s.shopee.com.br/2LXrm0TYHa
 
 ## Ações gratuitas recomendadas
 

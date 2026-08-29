@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 29/08/2026 13:09
+Gerado em: 29/08/2026 13:23
 
 ## Como usar
 
@@ -104,7 +104,7 @@ Gerado em: 29/08/2026 13:09
 
 - Xiaomi Poco X7 Pro 512GB / 256GB +12 Ram 5G Versão Global NFC Origina…
 - Carregador iPhone Turbo Tipo-C 20W + Cabo Lightining para IPhone Carg…
-- Chocolate Twix Original 30 Unidades de 15g
+- Xiaomi POCO X6 5G Branco
 
 ---
 

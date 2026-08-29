@@ -1,5 +1,22 @@
 [
   {
+    "id": "ab7cafae5f8437badb",
+    "title": "Kit Ferramentas Informática Preto",
+    "raw_title": "Kit Ferramentas Informatica Cor Preto",
+    "description": "🚨 Kit Ferramentas Essencial para Informática! 🛠️ Mantenha seus equipamentos em dia com este kit completo na cor preta. Perfeito para montagens, reparos...",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "",
+    "price": "R$ 127,50",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_837553-MLA99455899792_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43810473?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "29/08/2026 23:01",
+    "created_at_iso": "2026-08-29T23:01:30",
+    "created_ts": 1788044490
+  },
+  {
     "id": "a198f6ba43d5c09df2",
     "title": "Termômetro Digital Ultra Rápido Infantil Para Bebês Clínico Flexível…",
     "raw_title": "Termômetro Digital Ultra Rápido Infantil Para Bebês Clínico Flexível Ponta Macia Silicone Adulto Rosa e Azul",
@@ -2301,26 +2318,5 @@
     "created_at": "28/08/2026 23:05",
     "created_at_iso": "2026-08-28T23:05:16",
     "created_ts": 1787958316
-  },
-  {
-    "id": "54cc56554b3f4da4a6",
-    "title": "Clareador de Manchas para Virilha, Axilas e Melasma 60g - Creme Clare…",
-    "raw_title": "Clareador de Manchas para Virilha, Axilas e Melasma 60g - Creme Clareador - Cicatribem",
-    "description": "🔥 10% OFF — Oferta encontrada! 📌 Clareador de Manchas para Virilha, Axilas e Melasma 60g - Creme Clareador - Cicatribem Confira os detalhes e aproveite...",
-    "marketplace": "Shopee",
-    "category": "Beleza",
-    "old_price": "R$ 169,90",
-    "price": "R$ 152,91",
-    "discount_percent": 10.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820li-mlmnrdi91rt36d",
-    "affiliate_url": "https://s.shopee.com.br/30nYhTNG6z",
-    "created_at": "28/08/2026 22:19",
-    "created_at_iso": "2026-08-28T22:19:00",
-    "created_ts": 1787955540,
-    "niche": {
-      "key": "shopee_beleza",
-      "name": "Beleza"
-    }
   }
 ]

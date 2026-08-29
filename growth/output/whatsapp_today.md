@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 29/08/2026 11:04
+Gerado em: 29/08/2026 11:21
 
 ## Como usar
 
@@ -117,14 +117,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Blazer Feminino Plus Size Alfaiataria Sem Forro | Botões Dourados Dec…
+Vestido Longo Feminino Costa Nua Midi Inverno Elegante de Festa Plus…
 
-💸 De: R$ 156,86
-🔥 Por: R$ 54,90
-🏷️ 65% OFF
+💸 De: R$ 78,92
+🔥 Por: R$ 29,99
+🏷️ 62% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/9pdsVQTFIm
+Ver oferta: https://s.shopee.com.br/AAGk6Cna7p
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

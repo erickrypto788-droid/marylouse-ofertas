@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 29/08/2026 03:21
+Gerado em: 29/08/2026 04:21
 
 ## Como usar
 
@@ -12,37 +12,7 @@ Gerado em: 29/08/2026 03:21
 
 ---
 
-## Post 1 — Ofertas Pet
-
-**Canal recomendado:** Ofertas Pet
-
-**Horário sugerido:** 17:00 - 20:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
-
-**Texto pronto:**
-
-```txt
-🐶 Oferta para Ofertas Pet
-
-Sandália Flatform Infantil Menina Papete Glady Strass
-
-💸 De: R$ 99,74
-🔥 Por: R$ 37,90
-🏷️ 62% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/8plKS1bFna
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 2 — Mamãe e Bebê
+## Post 1 — Mamãe e Bebê
 
 **Canal recomendado:** Mamãe e Bebê
 
@@ -72,7 +42,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 3 — Celulares e Tecnologia
+## Post 2 — Celulares e Tecnologia
 
 **Canal recomendado:** Celulares e Tecnologia
 
@@ -102,7 +72,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Beleza e Cuidados
+## Post 3 — Beleza e Cuidados
 
 **Canal recomendado:** Beleza e Cuidados
 
@@ -132,7 +102,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 5 — Moda Feminina
+## Post 4 — Moda Feminina
 
 **Canal recomendado:** Moda Feminina
 
@@ -162,7 +132,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 6 — Casa e Cozinha
+## Post 5 — Casa e Cozinha
 
 **Canal recomendado:** Casa e Cozinha
 
@@ -185,6 +155,36 @@ Mini Balança Digital de Cozinha
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/3qMehCJAsk
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 6 — Ofertas Pet
+
+**Canal recomendado:** Ofertas Pet
+
+**Horário sugerido:** 17:00 - 20:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
+
+**Texto pronto:**
+
+```txt
+🐶 Oferta para Ofertas Pet
+
+Amplificador de sinal Wi-Fi repetidor e roteador sem fio rede sem fio…
+
+💸 De: R$ 89,54
+🔥 Por: R$ 59,99
+🏷️ 33% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/1LfIirdMd9
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

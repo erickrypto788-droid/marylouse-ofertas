@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 29/08/2026 03:21
+Gerado em: 29/08/2026 04:21
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 29/08/2026 03:21
 **Produtos usados:**
 
 - Fralda Huggies Máxima Proteção XXXL - 42 Un
+- Berço Balanço Portátil Moises Mosqueteiro Infantil Trava de Segurança…
 - Tapete Termico Infantil Bebe Estampas Atividades Educativo Tapetinho…
-- Kit 6 Peças Body Bebê Menina
 
 ---
 

@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 30/08/2026 12:04
+Gerado em: 30/08/2026 12:20
 
 ## Categorias prioritárias
 
@@ -9,11 +9,11 @@ Gerado em: 30/08/2026 12:04
 - 🏋️ **Esportes**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 👗 **Moda Feminina**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - ✨ **Moda Plus Size**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
-- 👕 **Moda Masculina**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 - 💻 **Informática**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 🐶 **Pet**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 📦 **Outros**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 🔌 **Eletrodomésticos**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-eletrodomesticos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_eletrodomesticos
 
 ## Top ofertas para destacar
 
@@ -66,26 +66,26 @@ Gerado em: 30/08/2026 12:04
    - Desconto: 49% OFF
    - Link: https://s.shopee.com.br/3qMfct4IgT
 
-8. **Fone Bluetooth Pro5 Premium | Imersão Total c Cancelamento Ruído Qual…**
+8. **Espremedor Elétrico Laranja Limão Frutas Fazer Sucos Recarregável Usb…**
+   - Categoria: Casa e Cozinha
+   - Loja: Shopee
+   - Preço: R$ 61,69
+   - Desconto: 56% OFF
+   - Link: https://s.shopee.com.br/904oN4qFD1
+
+9. **Fone Bluetooth Pro5 Premium | Imersão Total c Cancelamento Ruído Qual…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 66,88
    - Desconto: 77% OFF
    - Link: https://s.shopee.com.br/qj5JezZBQ
 
-9. **Cadeira Massagem Escritorio Cadeira Escritorio Presidente Cor Âmbar**
+10. **Cadeira Massagem Escritorio Cadeira Escritorio Presidente Cor Âmbar**
    - Categoria: Pet
    - Loja: Mercado Livre
    - Preço: R$ 926,93
    - Desconto: 50% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB59413555?matt_word=marylouse&matt_tool=50459180&forceInApp=true
-
-10. **Sandália Papete Feminina Ortopédica**
-   - Categoria: Pet
-   - Loja: Shopee
-   - Preço: R$ 35,06
-   - Desconto: 61% OFF
-   - Link: https://s.shopee.com.br/50YfTU4xsq
 
 ## Ações gratuitas recomendadas
 

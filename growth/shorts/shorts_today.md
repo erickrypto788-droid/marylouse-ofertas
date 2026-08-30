@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 30/08/2026 12:04
+Gerado em: 30/08/2026 12:20
 
 ## Como usar
 
@@ -55,8 +55,8 @@ Gerado em: 30/08/2026 12:04
 **Produtos usados:**
 
 - Panela De Pressão 4,5litros Panelux Linha Classic Alto Brilho A Mais…
-- Air fryer Br House Fritadeira ELETRICA AIR FRYER Air Fryer Family pre…
-- Rack Para Sala De Estar Rack Para Tv C/ Prateleira Flex Cor Off-white
+- Espremedor Elétrico Laranja Limão Frutas Fazer Sucos Recarregável Usb…
+- Cafeteira Italiana Premium 6 Xícaras De Alumínio
 
 ---
 

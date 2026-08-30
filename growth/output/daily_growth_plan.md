@@ -1,11 +1,12 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 30/08/2026 02:03
+Gerado em: 30/08/2026 02:21
 
 ## Categorias prioritárias
 
 - 🍼 **Mãe e Bebê**: 15 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 🐶 **Pet**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
+- 🐶 **Pet**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
+- 📚 **Papelaria**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 - 💻 **Informática**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 👟 **Calçados**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 🏋️ **Esportes**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
@@ -13,7 +14,6 @@ Gerado em: 30/08/2026 02:03
 - 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 👜 **Bolsas**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
-- 💄 **Beleza**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 
 ## Top ofertas para destacar
 
@@ -59,33 +59,33 @@ Gerado em: 30/08/2026 02:03
    - Desconto: 49% OFF
    - Link: https://s.shopee.com.br/3qMfct4IgT
 
-7. **Xiaomi 15t 5G 512GB**
+7. **Kit 100 Apliques Finalizadores de Laço e Agenda**
+   - Categoria: Pet
+   - Loja: Shopee
+   - Preço: R$ 19,90
+   - Desconto: 53% OFF
+   - Link: https://s.shopee.com.br/8Kp6ue8OZq
+
+8. **Xiaomi 15t 5G 512GB**
    - Categoria: Celulares
    - Loja: Mercado Livre
    - Preço: R$ 4.509,00
    - Desconto: 15% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB59103594?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-8. **ROMANTIC CROWN Mochla de Viagem MascuIino e Feminina ImpermeaveI Refo…**
+9. **ROMANTIC CROWN Mochla de Viagem MascuIino e Feminina ImpermeaveI Refo…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 119,98
    - Desconto: 83% OFF
    - Link: https://s.shopee.com.br/2LXsZRfFOb
 
-9. **Mochila Multifuncional de Viagem Antifurto**
+10. **Mochila Multifuncional de Viagem Antifurto**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 119,98
    - Desconto: 76% OFF
    - Link: https://s.shopee.com.br/gPeaNlamB
-
-10. **Kit 48 Carrinhos De Metal Fricção Brinquedo Menino Maleta Pista Prese…**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 69,99
-   - Desconto: 53% OFF
-   - Link: https://s.shopee.com.br/2LXs6c6Lkh
 
 ## Ações gratuitas recomendadas
 

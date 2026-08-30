@@ -1,14 +1,14 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 30/08/2026 13:03
+Gerado em: 30/08/2026 13:21
 
 ## Categorias prioritárias
 
 - 👟 **Calçados**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 🍼 **Mãe e Bebê**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 💄 **Beleza**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🏋️ **Esportes**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 👗 **Moda Feminina**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
-- ✨ **Moda Plus Size**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
+- 🍼 **Mãe e Bebê**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 💻 **Informática**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 🐶 **Pet**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
@@ -17,75 +17,75 @@ Gerado em: 30/08/2026 13:03
 
 ## Top ofertas para destacar
 
-1. **Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com…**
+1. **Perfume Attracione Feminino by Attracione Woman Mulher**
+   - Categoria: Beleza
+   - Loja: Shopee
+   - Preço: R$ 44,00
+   - Desconto: 75% OFF
+   - Link: https://s.shopee.com.br/1VynVPh6e1
+
+2. **Attracione Men (Perfume Masculino com Feromônios Ativados)**
+   - Categoria: Beleza
+   - Loja: Shopee
+   - Preço: R$ 59,00
+   - Desconto: 80% OFF
+   - Link: https://s.shopee.com.br/6VNTSbOLYy
+
+3. **Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 19,79
    - Desconto: 61% OFF
    - Link: https://s.shopee.com.br/BTOWR26XM
 
-2. **Mochila Escolar Impermeável Grande 45 L Notebook 17 Resistente Mascul…**
+4. **Mochila Escolar Impermeável Grande 45 L Notebook 17 Resistente Mascul…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 29,90
    - Desconto: 57% OFF
    - Link: https://s.shopee.com.br/5q7kbdegSY
 
-3. **Mochila CHL Premium para Notebook**
+5. **Mochila CHL Premium para Notebook**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 39,99
    - Desconto: 55% OFF
    - Link: https://s.shopee.com.br/AUtaADIJRP
 
-4. **Fraldas Calça SUMIKKO Infantil**
+6. **Fraldas Calça SUMIKKO Infantil**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 72,00
    - Desconto: 64% OFF
    - Link: https://s.shopee.com.br/5As4wSmYiH
 
-5. **Escova Secadora Alisadora 3 em 1**
+7. **Escova Secadora Alisadora 3 em 1**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 37,99
    - Desconto: 87% OFF
    - Link: https://s.shopee.com.br/4fvmgX3RJg
 
-6. **Pro 4 Fones De Ouvido TWS Sem Fio Bluetooth De Longa Duração Bateria…**
+8. **Pro 4 Fones De Ouvido TWS Sem Fio Bluetooth De Longa Duração Bateria…**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 10,72
    - Desconto: 64% OFF
    - Link: https://s.shopee.com.br/1Vym6sx1pU
 
-7. **Panela De Pressão 4,5litros Panelux Linha Classic Alto Brilho A Mais…**
+9. **Panela De Pressão 4,5litros Panelux Linha Classic Alto Brilho A Mais…**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 58,90
    - Desconto: 49% OFF
    - Link: https://s.shopee.com.br/3qMfct4IgT
 
-8. **Espremedor Elétrico Laranja Limão Frutas Fazer Sucos Recarregável Usb…**
-   - Categoria: Casa e Cozinha
+10. **Kit Body Splash Dolce + Florata Red 200ml Feminino.**
+   - Categoria: Beleza
    - Loja: Shopee
-   - Preço: R$ 61,69
-   - Desconto: 56% OFF
-   - Link: https://s.shopee.com.br/904oN4qFD1
-
-9. **Fone Bluetooth Pro5 Premium | Imersão Total c Cancelamento Ruído Qual…**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 66,88
-   - Desconto: 77% OFF
-   - Link: https://s.shopee.com.br/qj5JezZBQ
-
-10. **Cadeira Massagem Escritorio Cadeira Escritorio Presidente Cor Âmbar**
-   - Categoria: Pet
-   - Loja: Mercado Livre
-   - Preço: R$ 926,93
-   - Desconto: 50% OFF
-   - Link: https://www.mercadolivre.com.br/p/MLB59413555?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+   - Preço: R$ 42,90
+   - Desconto: 57% OFF
+   - Link: https://s.shopee.com.br/AAGlpLA73V
 
 ## Ações gratuitas recomendadas
 

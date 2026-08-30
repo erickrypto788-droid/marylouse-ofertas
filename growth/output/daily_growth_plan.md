@@ -1,16 +1,16 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 30/08/2026 10:21
+Gerado em: 30/08/2026 11:06
 
 ## Categorias prioritárias
 
 - 👗 **Moda Feminina**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 👟 **Calçados**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 🍼 **Mãe e Bebê**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 🐶 **Pet**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - ✨ **Moda Plus Size**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
 - 👕 **Moda Masculina**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 - 💻 **Informática**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 🐶 **Pet**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 🏋️ **Esportes**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
@@ -59,33 +59,33 @@ Gerado em: 30/08/2026 10:21
    - Desconto: 49% OFF
    - Link: https://s.shopee.com.br/3qMfct4IgT
 
-7. **Sandália Papete Feminina Ortopédica**
+7. **Cadeira Massagem Escritorio Cadeira Escritorio Presidente Cor Âmbar**
+   - Categoria: Pet
+   - Loja: Mercado Livre
+   - Preço: R$ 926,93
+   - Desconto: 50% OFF
+   - Link: https://www.mercadolivre.com.br/p/MLB59413555?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+8. **Sandália Papete Feminina Ortopédica**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 35,06
    - Desconto: 61% OFF
    - Link: https://s.shopee.com.br/50YfTU4xsq
 
-8. **Kit 3 Shorts 2 em 1 Academia**
+9. **Kit 3 Shorts 2 em 1 Academia**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 49,89
    - Desconto: 58% OFF
    - Link: https://s.shopee.com.br/80CGqdD7zU
 
-9. **Leitor De Cartão Usb 3.0 Adaptador Micro Sd/sdxc 5gbps Envio Imediato**
+10. **Leitor De Cartão Usb 3.0 Adaptador Micro Sd/sdxc 5gbps Envio Imediato**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 17,99
    - Desconto: 74% OFF
    - Link: https://s.shopee.com.br/4fvoc22Ouu
-
-10. **Webcam Câmera Computador Full HD 1080x1920p 2MP USB Plug Play Microfo…**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 28,00
-   - Desconto: 59% OFF
-   - Link: https://s.shopee.com.br/3VjrDtBF36
 
 ## Ações gratuitas recomendadas
 

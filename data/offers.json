@@ -1,5 +1,22 @@
 [
   {
+    "id": "fe4426932dbf731020",
+    "title": "Xiaomi 15t 5G 512GB",
+    "raw_title": "Smartphone Xiaomi 15t 5g 12+12gb Ram + 512gb, Cinza",
+    "description": "🚀 POTÊNCIA MÁXIMA NO SEU BOLSO! Chegou a hora de ter o Smartphone Xiaomi 15t 5g 12+12gb Ram + 512gb, Cinza! Desempenho surreal e espaço de sobra para tu...",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "R$ 5.289,00",
+    "price": "R$ 4.509,00",
+    "discount_percent": 15.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_913469-MLA93865329554_102025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59103594?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "30/08/2026 02:01",
+    "created_at_iso": "2026-08-30T02:01:51",
+    "created_ts": 1788055311
+  },
+  {
     "id": "c889d5ea648795295f",
     "title": "Kit 2 Tênis Masculino Polo Fran Sapatênis Básico Casual Com Carteira…",
     "raw_title": "Kit 2 Tênis Masculino Polo Fran Sapatênis Básico Casual Com Carteira Cinto e Relógio London",
@@ -2258,27 +2275,6 @@
     "niche": {
       "key": "shopee_saude",
       "name": "Saúde"
-    }
-  },
-  {
-    "id": "a42a6138ec0df80956",
-    "title": "Kit Roblox 16 Bonecos Articulados Lego Kit completo Linha premium Lan…",
-    "raw_title": "Kit Roblox 16 Bonecos Articulados Lego Kit completo Linha premium Lançamento Envio Imediato",
-    "description": "🔥 24% OFF — Oferta encontrada! 📌 Kit Roblox 16 Bonecos Articulados Lego Kit completo Linha premium Lançamento Envio Imediato Confira os detalhes e aprov...",
-    "marketplace": "Shopee",
-    "category": "Brinquedos e Hobbies",
-    "old_price": "R$ 85,51",
-    "price": "R$ 64,99",
-    "discount_percent": 24.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbnv9g3leyjd26",
-    "affiliate_url": "https://s.shopee.com.br/50YdHVirUU",
-    "created_at": "29/08/2026 01:20",
-    "created_at_iso": "2026-08-29T01:20:00",
-    "created_ts": 1787966400,
-    "niche": {
-      "key": "shopee_brinquedos_hobbies",
-      "name": "Brinquedos e Hobbies"
     }
   }
 ]

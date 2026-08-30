@@ -1,5 +1,68 @@
 [
   {
+    "id": "f527c46e29c893dc36",
+    "title": "Sandália GABI Conforto Premium",
+    "raw_title": "Sandália Feminina Conforto Premium Com Detalhe Dourado Elegante | Casual E Sofisticada GABI",
+    "description": "🚨 SUPER OFERTA! Conforto e elegância com preço INCRÍVEL! ✨ A Sandália GABI é perfeita para quem busca estilo e bem-estar. Com design premium e detalhe d...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Femininos",
+    "old_price": "R$ 121,32",
+    "price": "R$ 44,89",
+    "discount_percent": 63.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mibvkye9k16q87",
+    "affiliate_url": "https://s.shopee.com.br/19zWIb3pM",
+    "created_at": "30/08/2026 10:19",
+    "created_at_iso": "2026-08-30T10:19:43",
+    "created_ts": 1788085183,
+    "niche": {
+      "key": "shopee_sapatos_femininos",
+      "name": "Sapatos Femininos"
+    }
+  },
+  {
+    "id": "bb3eb1d94131a9d0f0",
+    "title": "Sandália Feminina Asa Delta Rasteira",
+    "raw_title": "Sandália Feminina Asa Delta Rasteira Conforto Medalhas Douradas com Fivela Reveillon",
+    "description": "💥 OFERTA RELÂMPAGO! Sandália Asa Delta Rasteira! Conforto e estilo com detalhes de medalhas douradas para você arrasar no verão e Réveillon! ☀️ Não perc...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Femininos",
+    "old_price": "R$ 110,83",
+    "price": "R$ 39,90",
+    "discount_percent": 64.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mefxl407v282c1",
+    "affiliate_url": "https://s.shopee.com.br/2VrKUtRXkx",
+    "created_at": "30/08/2026 10:18",
+    "created_at_iso": "2026-08-30T10:18:20",
+    "created_ts": 1788085100,
+    "niche": {
+      "key": "shopee_sapatos_femininos",
+      "name": "Sapatos Femininos"
+    }
+  },
+  {
+    "id": "8310b9222dfcb95190",
+    "title": "Sandália Papete Feminina Ortopédica",
+    "raw_title": "Sandália Papete Feminina Ortopédica com Elástico Confortável Moderna com Palmilha Massageadora",
+    "description": "🦶 Conforto IDEAL para seus pés! A Sandália Papete Feminina Ortopédica que une estilo e bem-estar. Com palmilha massageadora e elástico, ela se adapta pe...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Femininos",
+    "old_price": "R$ 89,90",
+    "price": "R$ 35,06",
+    "discount_percent": 61.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgxpzsodtg5g5e",
+    "affiliate_url": "https://s.shopee.com.br/50YfTU4xsq",
+    "created_at": "30/08/2026 10:15",
+    "created_at_iso": "2026-08-30T10:15:44",
+    "created_ts": 1788084944,
+    "niche": {
+      "key": "shopee_sapatos_femininos",
+      "name": "Sapatos Femininos"
+    }
+  },
+  {
     "id": "b58f4b6145a0a9b7a4",
     "title": "Boneca Sophia Deluxe Unicórnio",
     "raw_title": "Boneca Sophia Deluxe com Roupa Academia Unicórnio 24cm Sunny",
@@ -2496,90 +2559,6 @@
     "created_at": "29/08/2026 10:20",
     "created_at_iso": "2026-08-29T10:20:09",
     "created_ts": 1787998809,
-    "niche": {
-      "key": "shopee_jogos_consoles",
-      "name": "Jogos e Consoles"
-    }
-  },
-  {
-    "id": "89355f17146e00b4da",
-    "title": "Headset Gamer Pichau Vega, Drivers 50mm, Preto, PCH-VGA-BL01",
-    "raw_title": "Headset Gamer Pichau Vega, Drivers 50mm, Preto, PCH-VGA-BL01",
-    "description": "🔥 50% OFF — Oferta encontrada! 📌 Headset Gamer Pichau Vega, Drivers 50mm, Preto, PCH-VGA-BL01 Confira os detalhes e aproveite enquanto a oferta estiver...",
-    "marketplace": "Shopee",
-    "category": "Jogos e Consoles",
-    "old_price": "R$ 224,02",
-    "price": "R$ 112,01",
-    "discount_percent": 50.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7rdvp-mcapznlrlndd39",
-    "affiliate_url": "https://s.shopee.com.br/1gIBuSmUDI",
-    "created_at": "29/08/2026 10:19",
-    "created_at_iso": "2026-08-29T10:19:06",
-    "created_ts": 1787998746,
-    "niche": {
-      "key": "shopee_jogos_consoles",
-      "name": "Jogos e Consoles"
-    }
-  },
-  {
-    "id": "35dd6724158354523d",
-    "title": "Controlador Xbox Sem Fio",
-    "raw_title": "Controlador Sem Fio Com Vibração Bluetooth One Game Ones XBOX Controller",
-    "description": "🔥 OFERTA RELÂMPAGO! 🔥 Eleve sua experiência de jogo com o Controlador Sem Fio Com Vibração Bluetooth para Xbox! 🎮 Conectividade perfeita e vibração imer...",
-    "marketplace": "Shopee",
-    "category": "Jogos e Consoles",
-    "old_price": "R$ 348,96",
-    "price": "R$ 233,80",
-    "discount_percent": 33.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-8262m-mjpnxwsvipdv4f",
-    "affiliate_url": "https://s.shopee.com.br/4AzVYeqGHs",
-    "created_at": "29/08/2026 10:18",
-    "created_at_iso": "2026-08-29T10:18:02",
-    "created_ts": 1787998682,
-    "niche": {
-      "key": "shopee_jogos_consoles",
-      "name": "Jogos e Consoles"
-    }
-  },
-  {
-    "id": "a7ccebc5fbf2df6e0c",
-    "title": "Controle Gamesir T4 Nova Lite",
-    "raw_title": "Gamesir T4 Nova Lite Controlador De Jogo Sem Fio Multiplataforma Efeito Hall PC Laptop Steam Android IOS Nintendo Switch",
-    "description": "🎮 Oportunidade ÚNICA para Gamers! Eleve sua gameplay com o Gamesir T4 Nova Lite, o controle sem fio multiplataforma que você precisa! Compatível com PC,...",
-    "marketplace": "Shopee",
-    "category": "Jogos e Consoles",
-    "old_price": "R$ 314,71",
-    "price": "R$ 107,00",
-    "discount_percent": 66.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-820n0-mnpb1qlmb1tu96",
-    "affiliate_url": "https://s.shopee.com.br/5q7ks7NpBu",
-    "created_at": "29/08/2026 10:16",
-    "created_at_iso": "2026-08-29T10:16:52",
-    "created_ts": 1787998612,
-    "niche": {
-      "key": "shopee_jogos_consoles",
-      "name": "Jogos e Consoles"
-    }
-  },
-  {
-    "id": "44392ceadf75b51429",
-    "title": "Console Portátil R36S",
-    "raw_title": "Console Portátil R36S + de 15.000 Jogos Vídeo Game 64g Linux Tela IPS 3.5 Polegadas",
-    "description": "🎮 VOLTE NO TEMPO AGORA! Console Portátil R36S com MAIS de 15.000 jogos! 🚀 Reviva a era de ouro dos games com este console incrível. Tela IPS de 3.5 pole...",
-    "marketplace": "Shopee",
-    "category": "Jogos e Consoles",
-    "old_price": "R$ 502,83",
-    "price": "R$ 175,99",
-    "discount_percent": 65.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7ra3y-m56askdr4w0n04",
-    "affiliate_url": "https://s.shopee.com.br/qj4uvlG6i",
-    "created_at": "29/08/2026 10:15",
-    "created_at_iso": "2026-08-29T10:15:43",
-    "created_ts": 1787998543,
     "niche": {
       "key": "shopee_jogos_consoles",
       "name": "Jogos e Consoles"

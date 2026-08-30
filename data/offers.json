@@ -1,5 +1,68 @@
 [
   {
+    "id": "73560ecc3bf212c6e7",
+    "title": "Babuche Adulto Personalizado",
+    "raw_title": "Babuche Adulto Masculino E Feminino Personalizado",
+    "description": "Conforto e estilo nos seus pés com super desconto! 👟✨ Garanta já o seu Babuche Adulto Masculino e Feminino Personalizado! Perfeito para o dia a dia, laz...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Masculinos",
+    "old_price": "R$ 76,77",
+    "price": "R$ 49,90",
+    "discount_percent": 35.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lv-mlfc4lj7ifwlb0",
+    "affiliate_url": "https://s.shopee.com.br/8AVhBBH7n0",
+    "created_at": "30/08/2026 09:17",
+    "created_at_iso": "2026-08-30T09:17:57",
+    "created_ts": 1788081477,
+    "niche": {
+      "key": "shopee_sapatos_masculinos",
+      "name": "Sapatos Masculinos"
+    }
+  },
+  {
+    "id": "b1b28711ac73304e2c",
+    "title": "Sapatenis Kinit Masculino",
+    "raw_title": "Sapatenis Tenis kinit masculino Palmilhas P.U GEL Estiloso para todas ocasiões",
+    "description": "🚨 SUPER OFERTA! 🚨 Estilo e conforto para todas as ocasiões! Garanta seu Sapatenis Kinit masculino com palmilha P.U GEL e dê um upgrade no seu visual. ✨",
+    "marketplace": "Shopee",
+    "category": "Sapatos Masculinos",
+    "old_price": "R$ 200,00",
+    "price": "R$ 88,00",
+    "discount_percent": 56.0,
+    "rating": 4.6,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m1-mm7p9n6pxdl2e4",
+    "affiliate_url": "https://s.shopee.com.br/7KwaBeFxzh",
+    "created_at": "30/08/2026 09:16",
+    "created_at_iso": "2026-08-30T09:16:48",
+    "created_ts": 1788081408,
+    "niche": {
+      "key": "shopee_sapatos_masculinos",
+      "name": "Sapatos Masculinos"
+    }
+  },
+  {
+    "id": "f84135915c837ceb15",
+    "title": "Tênis Masculino FREEDOM",
+    "raw_title": "Tenis Masculino Escolar Academia Corrida Original FREEDOM Corrida Caminhada Lançamento EXCLUSIVO CINZA GRAVITE e LARANJA",
+    "description": "👟 OFERTA IMPERDÍVEL! Tênis FREEDOM com 54% OFF! Garanta já o seu Tênis Masculino Original FREEDOM, perfeito para Escola, Academia, Corrida ou Caminhada!...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Masculinos",
+    "old_price": "R$ 89,11",
+    "price": "R$ 40,99",
+    "discount_percent": 54.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lu-mp1812w1byf511",
+    "affiliate_url": "https://s.shopee.com.br/2VrJATbFjw",
+    "created_at": "30/08/2026 09:15",
+    "created_at_iso": "2026-08-30T09:15:40",
+    "created_ts": 1788081340,
+    "niche": {
+      "key": "shopee_sapatos_masculinos",
+      "name": "Sapatos Masculinos"
+    }
+  },
+  {
     "id": "b02b1332eea964bcbf",
     "title": "Bepantol Baby 200g - Proteção Total",
     "raw_title": "Bepantol Baby Pomada Assadura Bebe Hipoalergênica, 200g",
@@ -2474,69 +2537,6 @@
     "created_at": "29/08/2026 09:19",
     "created_at_iso": "2026-08-29T09:19:04",
     "created_ts": 1787995144,
-    "niche": {
-      "key": "shopee_bebidas_alimentos",
-      "name": "Bebidas e Alimentos"
-    }
-  },
-  {
-    "id": "7e622cd55a2ac852a6",
-    "title": "Cápsula Dolce Gusto Chocolate Italle",
-    "raw_title": "Cápsula Dolce Gusto Chocolate Café Italle 10 Und",
-    "description": "☕ CHOCOLATE QUENTE na sua Dolce Gusto! Pela METADE DO PREÇO! 😱 Aproveite a Cápsula Dolce Gusto Chocolate Café Italle (10 unidades) com um super desconto...",
-    "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
-    "old_price": "R$ 35,90",
-    "price": "R$ 17,95",
-    "discount_percent": 50.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820mb-mrt5o6d1ughz22",
-    "affiliate_url": "https://s.shopee.com.br/6AkbCc2ABw",
-    "created_at": "29/08/2026 09:17",
-    "created_at_iso": "2026-08-29T09:17:56",
-    "created_ts": 1787995076,
-    "niche": {
-      "key": "shopee_bebidas_alimentos",
-      "name": "Bebidas e Alimentos"
-    }
-  },
-  {
-    "id": "4d0a322b5dd75e2f79",
-    "title": "Caneca Mixer Automática USB",
-    "raw_title": "Caneca Misturadora Automática Elétrica USB Bateria Recarregável Mixer Café 380ml",
-    "description": "✨ Café perfeito a qualquer hora, sem esforço! Chega de bebidas com grumos! Com a Caneca Misturadora Automática Elétrica USB, seu café, shake ou chocolat...",
-    "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
-    "old_price": "R$ 118,97",
-    "price": "R$ 36,88",
-    "discount_percent": 69.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81zts-mktlcixqn18h4e",
-    "affiliate_url": "https://s.shopee.com.br/1Vyle2FfPY",
-    "created_at": "29/08/2026 09:16",
-    "created_at_iso": "2026-08-29T09:16:49",
-    "created_ts": 1787995009,
-    "niche": {
-      "key": "shopee_bebidas_alimentos",
-      "name": "Bebidas e Alimentos"
-    }
-  },
-  {
-    "id": "3e03d212da0cc6a127",
-    "title": "QPS Spirulina 60 Cápsulas",
-    "raw_title": "QPS spirulina C/60 CÁPS 500MG Envio Imediato",
-    "description": "⚡️ IMPERDÍVEL! Spirulina QPS com um super desconto! 💊 Garanta sua dose diária de bem-estar com a Spirulina QPS C/60 CÁPS 500MG! Um aliado natural para s...",
-    "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
-    "old_price": "R$ 49,76",
-    "price": "R$ 20,90",
-    "discount_percent": 58.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-823qq-mp0sxkrs28lp7e",
-    "affiliate_url": "https://s.shopee.com.br/5VUuPOHtt6",
-    "created_at": "29/08/2026 09:15",
-    "created_at_iso": "2026-08-29T09:15:41",
-    "created_ts": 1787994941,
     "niche": {
       "key": "shopee_bebidas_alimentos",
       "name": "Bebidas e Alimentos"

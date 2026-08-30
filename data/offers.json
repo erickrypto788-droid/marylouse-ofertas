@@ -1,5 +1,39 @@
 [
   {
+    "id": "b02b1332eea964bcbf",
+    "title": "Bepantol Baby 200g - Proteção Total",
+    "raw_title": "Bepantol Baby Pomada Assadura Bebe Hipoalergênica, 200g",
+    "description": "👶 Assaduras nunca mais! Garanta a melhor proteção para a pele sensível do seu bebê com Bepantol Baby Pomada Hipoalergênica, 200g. ✨ Fórmula suave e efic...",
+    "marketplace": "Mercado Livre",
+    "category": "Mãe e Bebê",
+    "old_price": "",
+    "price": "R$ 109,90",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_772325-MLA110843234303_042026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68578906?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "30/08/2026 09:05",
+    "created_at_iso": "2026-08-30T09:05:10",
+    "created_ts": 1788080710
+  },
+  {
+    "id": "4f42bef3316535d3bf",
+    "title": "Azeite Oliva Extra Virgem Italiano Mercatto",
+    "raw_title": "Azeite Oliva Extra Virgem Italiano 500ml Mercatto",
+    "description": "🚨 OFERTA IMPERDÍVEL! 🚨 Azeite Oliva Extra Virgem Italiano 500ml Mercatto com um desconto delicioso! 😋 Qualidade e sabor da Itália para sua mesa. Não perca!",
+    "marketplace": "Mercado Livre",
+    "category": "Supermercados",
+    "old_price": "R$ 78,88",
+    "price": "R$ 58,37",
+    "discount_percent": 26.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_975610-MLA114908796708_082026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB54332454?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "30/08/2026 09:04",
+    "created_at_iso": "2026-08-30T09:04:01",
+    "created_ts": 1788080641
+  },
+  {
     "id": "86c36a2db6898b757d",
     "title": "Camisa Feminina Crepinho Plus Size",
     "raw_title": "Camisa Feminina Lisa Crepinho Elegante Plus Size M G GG G1",
@@ -2507,22 +2541,5 @@
       "key": "shopee_bebidas_alimentos",
       "name": "Bebidas e Alimentos"
     }
-  },
-  {
-    "id": "1cc245759d131c6c5b",
-    "title": "Repetidor Wi-Fi Potente 4 Antenas",
-    "raw_title": "Repetidor de Sinal Wi-Fi Roteador Wireless 2.4G Sem Fio 4 Antenas Longo Alcance Potente Fácil Instalação",
-    "description": "Sinal Wi-Fi ruim? Nunca mais! 📶 Turbine sua internet com este Repetidor de Sinal Wi-Fi Roteador Wireless 2.4G! 💪 Com 4 antenas para longo alcance e inst...",
-    "marketplace": "Shopee",
-    "category": "KWN IMPORTS",
-    "old_price": "R$ 90,14",
-    "price": "R$ 64,90",
-    "discount_percent": 28.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ma-mq6n6kfmt8u821",
-    "affiliate_url": "https://s.shopee.com.br/W6EO53pEV",
-    "created_at": "29/08/2026 08:20",
-    "created_at_iso": "2026-08-29T08:20:14",
-    "created_ts": 1787991614
   }
 ]

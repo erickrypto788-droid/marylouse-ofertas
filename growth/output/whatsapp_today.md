@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 30/08/2026 17:03
+Gerado em: 30/08/2026 17:21
 
 ## Como usar
 
@@ -132,37 +132,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 5 — Casa e Cozinha
-
-**Canal recomendado:** Casa e Cozinha
-
-**Horário sugerido:** 18:00 - 20:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
-
-**Texto pronto:**
-
-```txt
-🍳 Oferta para Casa e Cozinha
-
-Panela De Pressão 4,5litros Panelux Linha Classic Alto Brilho A Mais…
-
-💸 De: R$ 115,49
-🔥 Por: R$ 58,90
-🏷️ 49% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/3qMfct4IgT
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 6 — Moda Feminina
+## Post 5 — Moda Feminina
 
 **Canal recomendado:** Moda Feminina
 
@@ -185,6 +155,36 @@ Calça Legging Ausare UV50+
 🛒 Loja: Mercado Livre
 
 Ver oferta: https://www.mercadolivre.com.br/p/MLB69276350?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 6 — Moda e Calçados
+
+**Canal recomendado:** Moda e Calçados
+
+**Horário sugerido:** 12:00 - 15:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
+
+**Texto pronto:**
+
+```txt
+👟 Oferta para Moda e Calçados
+
+Tenis Infantil Masculino Led Menino Aranha Tenis De Menino Masculino…
+
+💸 De: R$ 199,90
+🔥 Por: R$ 79,96
+🏷️ 60% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/80CHJTgwiU
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

@@ -1,5 +1,22 @@
 [
   {
+    "id": "02906701e6fbb33e6c",
+    "title": "Esteira Kikos E600ix em Oferta",
+    "raw_title": "Prancha Esteira Ergometrica Kikos E600ix Preto",
+    "description": "🏃‍♀️💨 Treine em casa com a melhor! Prancha Esteira Ergométrica Kikos E600ix Preto com um preço que você não vai acreditar! E o melhor: 📦 Frete grátis!",
+    "marketplace": "Mercado Livre",
+    "category": "Esportes e Lazer",
+    "old_price": "R$ 222,43",
+    "price": "R$ 191,28",
+    "discount_percent": 14.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_947050-MLA111078716610_052026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70114350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "30/08/2026 13:01",
+    "created_at_iso": "2026-08-30T13:01:24",
+    "created_ts": 1788094884
+  },
+  {
     "id": "c6c06cccd81939da3d",
     "title": "Micro-ondas Philco 25L Função Tira Odor PM27",
     "raw_title": "Micro-ondas Philco 25L Função Tira Odor PM27",
@@ -2501,26 +2518,5 @@
     "created_at": "29/08/2026 13:01",
     "created_at_iso": "2026-08-29T13:01:44",
     "created_ts": 1788008504
-  },
-  {
-    "id": "6536ee69ea6f498733",
-    "title": "Calça Cargo Jeans Masculina Streetwear Baggy Wide Leg Oversized Moda…",
-    "raw_title": "Calça Cargo Jeans Masculina Streetwear Baggy Wide Leg Oversized Moda Urbana Skatista Premium Confortável Casual",
-    "description": "🔥 34% OFF — Oferta encontrada! 📌 Calça Cargo Jeans Masculina Streetwear Baggy Wide Leg Oversized Moda Urbana Skatista Premium Confortável Casual Confira...",
-    "marketplace": "Shopee",
-    "category": "Roupas Masculinas",
-    "old_price": "R$ 100,00",
-    "price": "R$ 66,00",
-    "discount_percent": 34.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820l7-mqvz3lt2e7lye5",
-    "affiliate_url": "https://s.shopee.com.br/2qU9QqvgOB",
-    "created_at": "29/08/2026 12:19",
-    "created_at_iso": "2026-08-29T12:19:57",
-    "created_ts": 1788005997,
-    "niche": {
-      "key": "shopee_roupas_masculinas",
-      "name": "Roupas Masculinas"
-    }
   }
 ]

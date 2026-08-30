@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 30/08/2026 01:21
+Gerado em: 30/08/2026 02:03
 
 ## Categorias prioritárias
 
@@ -13,7 +13,7 @@ Gerado em: 30/08/2026 01:21
 - 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 👜 **Bolsas**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
-- 🧸 **Brinquedos**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
+- 💄 **Beleza**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 
 ## Top ofertas para destacar
 
@@ -59,33 +59,33 @@ Gerado em: 30/08/2026 01:21
    - Desconto: 49% OFF
    - Link: https://s.shopee.com.br/3qMfct4IgT
 
-7. **ROMANTIC CROWN Mochla de Viagem MascuIino e Feminina ImpermeaveI Refo…**
+7. **Xiaomi 15t 5G 512GB**
+   - Categoria: Celulares
+   - Loja: Mercado Livre
+   - Preço: R$ 4.509,00
+   - Desconto: 15% OFF
+   - Link: https://www.mercadolivre.com.br/p/MLB59103594?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+8. **ROMANTIC CROWN Mochla de Viagem MascuIino e Feminina ImpermeaveI Refo…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 119,98
    - Desconto: 83% OFF
    - Link: https://s.shopee.com.br/2LXsZRfFOb
 
-8. **Mochila Multifuncional de Viagem Antifurto**
+9. **Mochila Multifuncional de Viagem Antifurto**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 119,98
    - Desconto: 76% OFF
    - Link: https://s.shopee.com.br/gPeaNlamB
 
-9. **Kit 48 Carrinhos De Metal Fricção Brinquedo Menino Maleta Pista Prese…**
+10. **Kit 48 Carrinhos De Metal Fricção Brinquedo Menino Maleta Pista Prese…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 69,99
    - Desconto: 53% OFF
    - Link: https://s.shopee.com.br/2LXs6c6Lkh
-
-10. **Ninho Redutor de Berço Liso e Trocador Portátil Impermeável**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 40,90
-   - Desconto: 71% OFF
-   - Link: https://s.shopee.com.br/4VcMsx0v6z
 
 ## Ações gratuitas recomendadas
 

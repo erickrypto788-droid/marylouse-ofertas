@@ -1,18 +1,18 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 30/08/2026 02:21
+Gerado em: 30/08/2026 03:21
 
 ## Categorias prioritárias
 
 - 🍼 **Mãe e Bebê**: 15 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 💻 **Informática**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 🐶 **Pet**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 📚 **Papelaria**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
-- 💻 **Informática**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 👟 **Calçados**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 🏋️ **Esportes**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- ❤️ **Saúde**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 📱 **Celulares**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 👜 **Bolsas**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 
 ## Top ofertas para destacar
@@ -59,33 +59,33 @@ Gerado em: 30/08/2026 02:21
    - Desconto: 49% OFF
    - Link: https://s.shopee.com.br/3qMfct4IgT
 
-7. **Kit 100 Apliques Finalizadores de Laço e Agenda**
-   - Categoria: Pet
-   - Loja: Shopee
-   - Preço: R$ 19,90
-   - Desconto: 53% OFF
-   - Link: https://s.shopee.com.br/8Kp6ue8OZq
-
-8. **Xiaomi 15t 5G 512GB**
+7. **Leitor De Cartão Usb 3.0 Adaptador Micro Sd/sdxc 5gbps Envio Imediato**
    - Categoria: Celulares
-   - Loja: Mercado Livre
-   - Preço: R$ 4.509,00
-   - Desconto: 15% OFF
-   - Link: https://www.mercadolivre.com.br/p/MLB59103594?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+   - Loja: Shopee
+   - Preço: R$ 17,99
+   - Desconto: 74% OFF
+   - Link: https://s.shopee.com.br/4fvoc22Ouu
 
-9. **ROMANTIC CROWN Mochla de Viagem MascuIino e Feminina ImpermeaveI Refo…**
+8. **Webcam Câmera Computador Full HD 1080x1920p 2MP USB Plug Play Microfo…**
    - Categoria: Informática
    - Loja: Shopee
-   - Preço: R$ 119,98
-   - Desconto: 83% OFF
-   - Link: https://s.shopee.com.br/2LXsZRfFOb
+   - Preço: R$ 28,00
+   - Desconto: 59% OFF
+   - Link: https://s.shopee.com.br/3VjrDtBF36
 
-10. **Mochila Multifuncional de Viagem Antifurto**
+9. **Kit Teclado e Mouse branco Gamer RGB LED USB ABNT2 Profissional com L…**
    - Categoria: Informática
    - Loja: Shopee
-   - Preço: R$ 119,98
-   - Desconto: 76% OFF
-   - Link: https://s.shopee.com.br/gPeaNlamB
+   - Preço: R$ 51,90
+   - Desconto: 60% OFF
+   - Link: https://s.shopee.com.br/BTPFlAwEy
+
+10. **Monitor Gamer LED Full HD 1ms 100Hz 32"/27"/23,6"/34" Reta/Curva HDMI…**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 609,99
+   - Desconto: 66% OFF
+   - Link: https://s.shopee.com.br/70JjOJp7Nj
 
 ## Ações gratuitas recomendadas
 

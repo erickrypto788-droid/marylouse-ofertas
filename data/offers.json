@@ -1,5 +1,39 @@
 [
   {
+    "id": "eaad8552c03b601a06",
+    "title": "Ração Gato Estimacat Premium Adulto Sabor Carne 1kg",
+    "raw_title": "Ração Gato Estimacat Premium Adulto Sabor Carne 1kg",
+    "description": "🔥 25% OFF — Oferta encontrada! 📌 Ração Gato Estimacat Premium Adulto Sabor Carne 1kg Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Pet",
+    "old_price": "R$ 35,14",
+    "price": "R$ 26,36",
+    "discount_percent": 25.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_721073-MLA109162640643_032026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66945649?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "30/08/2026 22:02",
+    "created_at_iso": "2026-08-30T22:02:18",
+    "created_ts": 1788127338
+  },
+  {
+    "id": "ce63f4d91f91ca6cb0",
+    "title": "Comedouro Elevado Duplo Ração Gato Porcelana Acrilico 190ml Porta Rac…",
+    "raw_title": "Comedouro Elevado Duplo Ração Gato Porcelana Acrilico 190ml Porta Racao Gato Comedouro Rosa",
+    "description": "🔥 37% OFF — Oferta encontrada! 📌 Comedouro Elevado Duplo Ração Gato Porcelana Acrilico 190ml Porta Racao Gato Comedouro Rosa Confira os detalhes e aprov...",
+    "marketplace": "Mercado Livre",
+    "category": "Pet",
+    "old_price": "R$ 78,80",
+    "price": "R$ 49,90",
+    "discount_percent": 37.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_670668-MLA109132288172_042026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "30/08/2026 22:01",
+    "created_at_iso": "2026-08-30T22:01:14",
+    "created_ts": 1788127274
+  },
+  {
     "id": "726f3e25def254a372",
     "title": "Kit Bobina Bopp Laminação A4 21,5cmx50m Brilho E Fosco Encadernação C…",
     "raw_title": "Kit Bobina Bopp Laminação A4 21,5cmx50m Brilho E Fosco Encadernação Capas Agendas Personalizados",
@@ -2574,27 +2608,6 @@
     "niche": {
       "key": "shopee_saude",
       "name": "Saúde"
-    }
-  },
-  {
-    "id": "55871277979ee1e85a",
-    "title": "Jogo Stop Brinquedo de Palavras Tabuleiro Educativo Divertido em Famí…",
-    "raw_title": "Jogo Stop Brinquedo de Palavras Tabuleiro Educativo Divertido em Família",
-    "description": "🔥 63% OFF — Oferta encontrada! 📌 Jogo Stop Brinquedo de Palavras Tabuleiro Educativo Divertido em Família Confira os detalhes e aproveite enquanto a ofe...",
-    "marketplace": "Shopee",
-    "category": "Brinquedos e Hobbies",
-    "old_price": "R$ 99,73",
-    "price": "R$ 36,90",
-    "discount_percent": 63.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m4-ms5x7daklq86d4",
-    "affiliate_url": "https://s.shopee.com.br/3B6z6932XO",
-    "created_at": "29/08/2026 21:20",
-    "created_at_iso": "2026-08-29T21:20:32",
-    "created_ts": 1788038432,
-    "niche": {
-      "key": "shopee_brinquedos_hobbies",
-      "name": "Brinquedos e Hobbies"
     }
   }
 ]

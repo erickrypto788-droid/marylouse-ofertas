@@ -1,18 +1,18 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 30/08/2026 18:04
+Gerado em: 30/08/2026 18:21
 
 ## Categorias prioritárias
 
+- 🍼 **Mãe e Bebê**: 16 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🏋️ **Esportes**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 💻 **Informática**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 🍼 **Mãe e Bebê**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🧸 **Brinquedos**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 👟 **Calçados**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 💄 **Beleza**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 👗 **Moda Feminina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - ❤️ **Saúde**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 🐶 **Pet**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
+- 💄 **Beleza**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 
 ## Top ofertas para destacar
@@ -66,12 +66,12 @@ Gerado em: 30/08/2026 18:04
    - Desconto: 64% OFF
    - Link: https://s.shopee.com.br/5As4wSmYiH
 
-8. **Escova Secadora Alisadora 3 em 1**
-   - Categoria: Beleza
+8. **Toalha de Banho Fralda Soft com Capuz para Bebê OU Kit com 2, 3 ou…**
+   - Categoria: Mãe e Bebê
    - Loja: Shopee
-   - Preço: R$ 37,99
-   - Desconto: 87% OFF
-   - Link: https://s.shopee.com.br/4fvmgX3RJg
+   - Preço: R$ 31,99
+   - Desconto: 47% OFF
+   - Link: https://s.shopee.com.br/5VUvL4lI2I
 
 9. **Barbeador Costas Dobrável**
    - Categoria: Beleza
@@ -80,12 +80,12 @@ Gerado em: 30/08/2026 18:04
    - Desconto: 41% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB51434487?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-10. **Aparelho Medidor De Glicose G-tech Vita Kit 10tiras+10lancet**
-   - Categoria: Saúde
+10. **Kit de 3 Lençol Cercado De Bebê Chiqueirinho com elástico Percal 400…**
+   - Categoria: Mãe e Bebê
    - Loja: Shopee
-   - Preço: R$ 45,90
-   - Desconto: 65% OFF
-   - Link: https://s.shopee.com.br/5foMjYsejl
+   - Preço: R$ 29,97
+   - Desconto: 55% OFF
+   - Link: https://s.shopee.com.br/5As6CkoHJu
 
 ## Ações gratuitas recomendadas
 

@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 30/08/2026 18:04
+Gerado em: 30/08/2026 18:21
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 30/08/2026 18:04
 **Produtos usados:**
 
 - Fraldas Calça SUMIKKO Infantil
-- Macacão Vestido Canelado Infantil
-- Ninho Redutor de Berço Liso e Trocador Portátil Impermeável
+- Toalha de Banho Fralda Soft com Capuz para Bebê OU Kit com 2, 3 ou…
+- Berço Portátil Moises Co-bed Com Balanço Mosquiteiro e Cesto Cinza -P…
 
 ---
 
@@ -80,7 +80,7 @@ Gerado em: 30/08/2026 18:04
 
 - Perfume Attracione Feminino by Attracione Woman Mulher
 - Attracione Men (Perfume Masculino com Feromônios Ativados)
-- Escova Secadora Alisadora 3 em 1
+- Barbeador Costas Dobrável
 
 ---
 

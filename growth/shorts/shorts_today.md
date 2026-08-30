@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 30/08/2026 23:04
+Gerado em: 30/08/2026 23:21
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 30/08/2026 23:04
 
 **Produtos usados:**
 
-- Fraldas Calça SUMIKKO Infantil
 - Toalha de Banho Fralda Soft com Capuz para Bebê OU Kit com 2, 3 ou…
 - Berço Portátil Moises Co-bed Com Balanço Mosquiteiro e Cesto Cinza -P…
+- NINHO REDUTOR DE BERÇO | COM ZIPER E LAÇO | TROCADOR PORTÁTIL |…
 
 ---
 
@@ -54,9 +54,9 @@ Gerado em: 30/08/2026 23:04
 
 **Produtos usados:**
 
+- Mini Mixer Elétrico 2 em 1
 - Espremedor Elétrico Laranja Limão Frutas Fazer Sucos Recarregável Usb…
 - Cafeteira Italiana Premium 6 Xícaras De Alumínio
-- Air fryer Br House Fritadeira ELETRICA AIR FRYER Air Fryer Family pre…
 
 ---
 

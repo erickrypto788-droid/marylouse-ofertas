@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 30/08/2026 23:04
+Gerado em: 30/08/2026 23:21
 
 ## Como usar
 
@@ -12,37 +12,7 @@ Gerado em: 30/08/2026 23:04
 
 ---
 
-## Post 1 — Mamãe e Bebê
-
-**Canal recomendado:** Mamãe e Bebê
-
-**Horário sugerido:** 09:00 - 11:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
-
-**Texto pronto:**
-
-```txt
-🍼 Oferta para Mamãe e Bebê
-
-Fraldas Calça SUMIKKO Infantil
-
-💸 De: R$ 200,00
-🔥 Por: R$ 72,00
-🏷️ 64% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/5As4wSmYiH
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 2 — Celulares e Tecnologia
+## Post 1 — Celulares e Tecnologia
 
 **Canal recomendado:** Celulares e Tecnologia
 
@@ -72,7 +42,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 3 — Beleza e Cuidados
+## Post 2 — Beleza e Cuidados
 
 **Canal recomendado:** Beleza e Cuidados
 
@@ -102,7 +72,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Ofertas Pet
+## Post 3 — Ofertas Pet
 
 **Canal recomendado:** Ofertas Pet
 
@@ -125,6 +95,36 @@ Sandália Papete Feminina Ortopédica
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/50YfTU4xsq
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 4 — Mamãe e Bebê
+
+**Canal recomendado:** Mamãe e Bebê
+
+**Horário sugerido:** 09:00 - 11:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
+
+**Texto pronto:**
+
+```txt
+🍼 Oferta para Mamãe e Bebê
+
+Toalha de Banho Fralda Soft com Capuz para Bebê OU Kit com 2, 3 ou…
+
+💸 De: R$ 60,36
+🔥 Por: R$ 31,99
+🏷️ 47% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/5VUvL4lI2I
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
@@ -162,29 +162,29 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 6 — Moda e Calçados
+## Post 6 — Casa e Cozinha
 
-**Canal recomendado:** Moda e Calçados
+**Canal recomendado:** Casa e Cozinha
 
-**Horário sugerido:** 12:00 - 15:00
+**Horário sugerido:** 18:00 - 20:00
 
 **Imagem/card:**
 
-https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
+https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
 
 **Texto pronto:**
 
 ```txt
-👟 Oferta para Moda e Calçados
+🍳 Oferta para Casa e Cozinha
 
-Tenis Infantil Masculino Led Menino Aranha Tenis De Menino Masculino…
+Mini Mixer Elétrico 2 em 1
 
-💸 De: R$ 199,90
-🔥 Por: R$ 79,96
-🏷️ 60% OFF
+💸 De: R$ 90,43
+🔥 Por: R$ 18,99
+🏷️ 79% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/80CHJTgwiU
+Ver oferta: https://s.shopee.com.br/19z7ZEEDD
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

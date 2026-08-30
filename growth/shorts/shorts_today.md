@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 30/08/2026 09:19
+Gerado em: 30/08/2026 10:08
 
 ## Como usar
 
@@ -125,7 +125,7 @@ Gerado em: 30/08/2026 09:19
 **Produtos usados:**
 
 - Spray Borrifador de Óleo e Azeite
-- Puff Feijão Divã de Veludo
 - Azeite Oliva Extra Virgem Italiano Mercatto
+- Substrato Pronto 10L | Turfa + Perlita + Casca de Arroz Carbonizada |…
 
 ---

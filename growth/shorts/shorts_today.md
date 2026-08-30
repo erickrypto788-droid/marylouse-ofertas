@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 30/08/2026 04:03
+Gerado em: 30/08/2026 04:22
 
 ## Como usar
 
@@ -124,8 +124,8 @@ Gerado em: 30/08/2026 04:03
 
 **Produtos usados:**
 
+- Spray Borrifador de Óleo e Azeite
 - Puff Feijão Divã de Veludo
-- Kit Pele de Porcelana Kokeshi
-- Absorvente Mulher Ativa Kit 80 Pacotes
+- Substrato Pronto 10L | Turfa + Perlita + Casca de Arroz Carbonizada |…
 
 ---

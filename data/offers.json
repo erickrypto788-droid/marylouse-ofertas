@@ -1,5 +1,22 @@
 [
   {
+    "id": "ea23f535d34f0b72a5",
+    "title": "Barbeador Costas Dobrável",
+    "raw_title": "Barbeador Costas Masculino Traseiro Dobrável Aparador Pelos",
+    "description": "✨ Chega de sofrer para raspar as costas! Barbeador Costas Masculino Traseiro Dobrável Aparador Pelos. Tenha uma depilação prática e sem ajuda! 🚛 Frete G...",
+    "marketplace": "Mercado Livre",
+    "category": "Beleza",
+    "old_price": "R$ 369,06",
+    "price": "R$ 218,00",
+    "discount_percent": 41.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_962334-MLA95523966556_102025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51434487?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "30/08/2026 14:01",
+    "created_at_iso": "2026-08-30T14:01:44",
+    "created_ts": 1788098504
+  },
+  {
     "id": "c5c12531242596c6de",
     "title": "Body Splash Virgínia W3p1nk 200ml Original Feminino Obsessed Infinity…",
     "raw_title": "Body Splash Virgínia W3p1nk 200ml Original Feminino Obsessed Infinity Liberté VF Golden | Unitário, Sortido ou Kit cm 4",
@@ -2484,26 +2501,5 @@
     "created_at": "29/08/2026 14:01",
     "created_at_iso": "2026-08-29T14:01:46",
     "created_ts": 1788012106
-  },
-  {
-    "id": "a94a885310711ba849",
-    "title": "Calça Jeans Plus Size Feminina Jeans Premium 100% algodão do 46 do 54",
-    "raw_title": "Calça Jeans Plus Size Feminina Jeans Premium 100% algodão do 46 do 54",
-    "description": "🔥 46% OFF — Oferta encontrada! 📌 Calça Jeans Plus Size Feminina Jeans Premium 100% algodão do 46 do 54 Confira os detalhes e aproveite enquanto a oferta...",
-    "marketplace": "Shopee",
-    "category": "Roupas Plus Size",
-    "old_price": "R$ 105,37",
-    "price": "R$ 56,90",
-    "discount_percent": 46.0,
-    "rating": 4.7,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820l8-msa5fnbgt3pg10",
-    "affiliate_url": "https://s.shopee.com.br/2qU9UyKCNr",
-    "created_at": "29/08/2026 13:22",
-    "created_at_iso": "2026-08-29T13:22:02",
-    "created_ts": 1788009722,
-    "niche": {
-      "key": "shopee_roupas_plus_size",
-      "name": "Roupas Plus Size"
-    }
   }
 ]

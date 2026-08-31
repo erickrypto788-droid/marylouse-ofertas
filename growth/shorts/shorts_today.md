@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 31/08/2026 17:22
+Gerado em: 31/08/2026 18:22
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 31/08/2026 17:22
 
 **Produtos usados:**
 
-- Toalha de Banho Fralda Soft com Capuz para Bebê OU Kit com 2, 3 ou…
-- Berço Portátil Moises Co-bed Com Balanço Mosquiteiro e Cesto Cinza -P…
-- NINHO REDUTOR DE BERÇO | COM ZIPER E LAÇO | TROCADOR PORTÁTIL |…
+- Fralda Pampers Confort Sec Jumbo Plus G com 128un
+- Troninho Privadinha Assento Redutor Pinico Infantil Para desfralde Ma…
+- Trocador Impermeável Anatômico
 
 ---
 
@@ -55,8 +55,8 @@ Gerado em: 31/08/2026 17:22
 **Produtos usados:**
 
 - Mini Mixer Elétrico 2 em 1
+- Kit 4 Potes Herméticos 2L
 - Liquidificador Mondial L-99 Turbo 550W
-- Fritadeira Air Fryer Mondial Oven Digital 127v
 
 ---
 

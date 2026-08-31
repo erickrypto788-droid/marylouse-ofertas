@@ -1,5 +1,22 @@
 [
   {
+    "id": "e2d360d27d1ee0b11e",
+    "title": "Cadeira Gamer Profissional Ergonômica",
+    "raw_title": "Cadeira Gamer Profissional Ergonômica Giratória Vermelha para Escritório",
+    "description": "🎮 Eleve seu conforto e performance! A Cadeira Gamer Profissional Ergonômica Vermelha é perfeita para longas horas de jogo ou trabalho. Sinta a diferença...",
+    "marketplace": "Mercado Livre",
+    "category": "Casa e Decoração",
+    "old_price": "",
+    "price": "R$ 900,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_799416-MLU71044700870_082023-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB26008929?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "31/08/2026 01:01",
+    "created_at_iso": "2026-08-31T01:01:46",
+    "created_ts": 1788138106
+  },
+  {
     "id": "6c2f46300ec7f0f86d",
     "title": "Nintendo Switch 2 lcd 256gb novo",
     "raw_title": "Nintendo Switch 2 lcd 256gb novo",
@@ -2699,26 +2716,5 @@
     "created_at": "30/08/2026 01:02",
     "created_at_iso": "2026-08-30T01:02:49",
     "created_ts": 1788051769
-  },
-  {
-    "id": "f6747b485b754be8a7",
-    "title": "Bolsa de Ombra Feminina com Alça Ajustável, Bolsa Feminina Elegante c…",
-    "raw_title": "Bolsa de Ombra Feminina com Alça Ajustável, Bolsa Feminina Elegante com Couro Sintetico Preto, Presente",
-    "description": "🔥 77% OFF — Oferta encontrada! 📌 Bolsa de Ombra Feminina com Alça Ajustável, Bolsa Feminina Elegante com Couro Sintetico Preto, Presente Confira os deta...",
-    "marketplace": "Shopee",
-    "category": "Bolsas Femininas",
-    "old_price": "R$ 304,26",
-    "price": "R$ 69,98",
-    "discount_percent": 77.0,
-    "rating": 5.0,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820l8-mnwcoooh21a9da",
-    "affiliate_url": "https://s.shopee.com.br/50YdwiXVhT",
-    "created_at": "30/08/2026 00:17",
-    "created_at_iso": "2026-08-30T00:17:52",
-    "created_ts": 1788049072,
-    "niche": {
-      "key": "shopee_bolsas_femininas",
-      "name": "Bolsas Femininas"
-    }
   }
 ]

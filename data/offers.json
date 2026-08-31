@@ -1,5 +1,39 @@
 [
   {
+    "id": "20f2f80cc187c9b790",
+    "title": "Saída Praia Saia Feminina Texturizada Moda Verão Tendências Amarelo P",
+    "raw_title": "Saída Praia Saia Feminina Texturizada Moda Verão Tendências Amarelo P",
+    "description": "🔥 7% OFF — Oferta encontrada! 📌 Saída Praia Saia Feminina Texturizada Moda Verão Tendências Amarelo P Confira os detalhes e aproveite enquanto a oferta...",
+    "marketplace": "Mercado Livre",
+    "category": "Roupas Femininas",
+    "old_price": "R$ 59,90",
+    "price": "R$ 55,71",
+    "discount_percent": 7.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_658036-MLA113966469591_062026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74626445?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "31/08/2026 03:03",
+    "created_at_iso": "2026-08-31T03:03:33",
+    "created_ts": 1788145413
+  },
+  {
+    "id": "067d241b6cd08c63a4",
+    "title": "Regata Feminina Modeladora Compressão Alta Sustentação Slim Cor Preto…",
+    "raw_title": "Regata Feminina Modeladora Compressão Alta Sustentação Slim Cor Preto Tamanho GG",
+    "description": "🔥 Oferta encontrada! 📌 Regata Feminina Modeladora Compressão Alta Sustentação Slim Cor Preto Tamanho GG Confira os detalhes e aproveite enquanto a ofert...",
+    "marketplace": "Mercado Livre",
+    "category": "Roupas Femininas",
+    "old_price": "",
+    "price": "R$ 159,90",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_867476-MLA111970064794_062026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB73198693?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "31/08/2026 03:02",
+    "created_at_iso": "2026-08-31T03:02:29",
+    "created_ts": 1788145349
+  },
+  {
     "id": "37db064b0b736554bf",
     "title": "Bermuda Moletom Masculina Academia Short Esporte Fitness Casual",
     "raw_title": "Bermuda Moletom Masculina Academia Short Esporte Fitness Casual",
@@ -2699,26 +2733,5 @@
     "created_at": "30/08/2026 03:15",
     "created_at_iso": "2026-08-30T03:15:44",
     "created_ts": 1788059744
-  },
-  {
-    "id": "325be3f640c112f853",
-    "title": "Placas Bruxismo + Estojo",
-    "raw_title": "Placas Bruxismo Moldeira de Silicone Molde Caseiro Aparelho Protetor Inferior e Superior + ESTOJO",
-    "description": "Diga adeus ao bruxismo! 🦷 Tenha noites de sono tranquilas com as Placas de Silicone para Bruxismo. Moldeira fácil de usar em casa, com proteção superior...",
-    "marketplace": "Shopee",
-    "category": "Papelaria",
-    "old_price": "R$ 21,24",
-    "price": "R$ 18,90",
-    "discount_percent": 11.0,
-    "rating": 4.6,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7rene-m8ihmls4nidcd6",
-    "affiliate_url": "https://s.shopee.com.br/9pdtR7A6nL",
-    "created_at": "30/08/2026 02:20",
-    "created_at_iso": "2026-08-30T02:20:02",
-    "created_ts": 1788056402,
-    "niche": {
-      "key": "shopee_papelaria",
-      "name": "Papelaria"
-    }
   }
 ]

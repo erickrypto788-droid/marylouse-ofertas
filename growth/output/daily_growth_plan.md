@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 31/08/2026 21:04
+Gerado em: 31/08/2026 21:21
 
 ## Categorias prioritárias
 
-- 💻 **Informática**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 📦 **Outros**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 💻 **Informática**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 🍼 **Mãe e Bebê**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 👗 **Moda Feminina**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 👟 **Calçados**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 👕 **Moda Masculina**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 - 🏋️ **Esportes**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 📚 **Papelaria**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 - 🐶 **Pet**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 🍳 **Casa e Cozinha**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
-- 💄 **Beleza**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 💄 **Beleza**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 
 ## Top ofertas para destacar
 
@@ -52,40 +52,40 @@ Gerado em: 31/08/2026 21:04
    - Desconto: 78% OFF
    - Link: https://s.shopee.com.br/2VrIlkec3c
 
-6. **Caderno A5 de couro macio 360 folhas retro notebook para agenda 2026…**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 36,99
-   - Desconto: 53% OFF
-   - Link: https://s.shopee.com.br/2LXv1uJcUr
-
-7. **Mochila Couro Masculina Reforçada Para Notebook Escolar Excecultivo S…**
+6. **Mochila Couro Masculina Reforçada Para Notebook Escolar Excecultivo S…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 45,99
    - Desconto: 42% OFF
    - Link: https://s.shopee.com.br/AKaCUUHqdt
 
-8. **Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mous…**
+7. **Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mous…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 62,86
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/2LXtpk2gqN
 
-9. **Comedouro Elevado Duplo Ração Gato Porcelana Acrilico 190ml Porta Rac…**
+8. **Comedouro Elevado Duplo Ração Gato Porcelana Acrilico 190ml Porta Rac…**
    - Categoria: Pet
    - Loja: Mercado Livre
    - Preço: R$ 49,90
    - Desconto: 37% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-10. **Repetidor WiFi 1200m 6 Antenas**
+9. **Repetidor WiFi 1200m 6 Antenas**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 51,99
    - Desconto: 56% OFF
    - Link: https://s.shopee.com.br/8AVi2kmSui
+
+10. **Leitor de cartão SD Tipo C Lightning 2 em 2, compatível com Apple, Hu…**
+   - Categoria: Celulares
+   - Loja: Shopee
+   - Preço: R$ 12,40
+   - Desconto: 89% OFF
+   - Link: https://s.shopee.com.br/8Kp9VND3wF
 
 ## Ações gratuitas recomendadas
 

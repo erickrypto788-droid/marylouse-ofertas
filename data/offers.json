@@ -1,5 +1,22 @@
 [
   {
+    "id": "0ccab0b50e7efb24af",
+    "title": "Combo Parafusadeira Furadeira DEWALT DCK276D2",
+    "raw_title": "Combo Parafusadeira Furadeira de Impacto 13mm + Parafusadeira de Impacto 6,3mm DEWALT DCK276D2",
+    "description": "🛠️ PODER DEWALT COM DESCONTO! 🛠️ Garanta já o seu Combo Parafusadeira Furadeira de Impacto 13mm + Parafusadeira de Impacto 6,3mm DEWALT DCK276D2! 🚀 Ferr...",
+    "marketplace": "Mercado Livre",
+    "category": "Ferramentas",
+    "old_price": "R$ 1.988,99",
+    "price": "R$ 1.548,00",
+    "discount_percent": 22.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_941219-MLU77146464530_062024-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21865416?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "31/08/2026 09:01",
+    "created_at_iso": "2026-08-31T09:01:50",
+    "created_ts": 1788166910
+  },
+  {
     "id": "ac627dceb25b45a86f",
     "title": "Protetor Solar Facial FPS 60 Sunless",
     "raw_title": "Protetor Solar Facial FPS 60 Antioleosidade com Base Efeito Matte Sunless 40g Envio Imediato",
@@ -2658,26 +2675,5 @@
     "created_at": "30/08/2026 09:04",
     "created_at_iso": "2026-08-30T09:04:01",
     "created_ts": 1788080641
-  },
-  {
-    "id": "86c36a2db6898b757d",
-    "title": "Camisa Feminina Crepinho Plus Size",
-    "raw_title": "Camisa Feminina Lisa Crepinho Elegante Plus Size M G GG G1",
-    "description": "✨ Elegância e Conforto com 51% OFF! ✨ A Camisa Feminina Lisa Crepinho Elegante Plus Size é a peça perfeita para você que busca estilo e bem-estar. Veste...",
-    "marketplace": "Shopee",
-    "category": "Roupas Plus Size",
-    "old_price": "R$ 89,98",
-    "price": "R$ 44,09",
-    "discount_percent": 51.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk6u6havdeyq85",
-    "affiliate_url": "https://s.shopee.com.br/2qU9UyFna4",
-    "created_at": "30/08/2026 08:19",
-    "created_at_iso": "2026-08-30T08:19:23",
-    "created_ts": 1788077963,
-    "niche": {
-      "key": "shopee_roupas_plus_size",
-      "name": "Roupas Plus Size"
-    }
   }
 ]

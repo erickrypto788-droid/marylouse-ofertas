@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 31/08/2026 22:21
+Gerado em: 31/08/2026 23:18
 
 ## Como usar
 
@@ -54,9 +54,9 @@ Gerado em: 31/08/2026 22:21
 
 **Produtos usados:**
 
-- Mini Mixer Elétrico 2 em 1
 - Kit 4 Potes Herméticos 2L
 - Liquidificador Mondial L-99 Turbo 550W
+- Elgin Air Fryer Fritadeira Air Fryer
 
 ---
 

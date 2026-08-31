@@ -1,5 +1,47 @@
 [
   {
+    "id": "d1e71f9f90d0751771",
+    "title": "Tênis Sapatênis Masculino Casual",
+    "raw_title": "Tênis Sapatênis Masculino Casual Trabalho Social Dia a Dia Jaca Qualidade",
+    "description": "💥 OFERTA IMPERDÍVEL! 💥 Conforto e estilo para qualquer ocasião! 👟 Tênis Sapatênis Masculino Casual Trabalho Social Dia a Dia Jaca Qualidade. Perfeito pa...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Masculinos",
+    "old_price": "R$ 80,18",
+    "price": "R$ 44,90",
+    "discount_percent": 44.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7rfg5-m94otf58x4wl55",
+    "affiliate_url": "https://s.shopee.com.br/AAGo5R804r",
+    "created_at": "31/08/2026 23:16",
+    "created_at_iso": "2026-08-31T23:16:51",
+    "created_ts": 1788218211,
+    "niche": {
+      "key": "shopee_sapatos_masculinos",
+      "name": "Sapatos Masculinos"
+    }
+  },
+  {
+    "id": "60d2d3b89cf37868d1",
+    "title": "Tênis Sapatênis Masculino Knit",
+    "raw_title": "Tênis Sapatênis Masculino Knit Confortável Respirável Estilso Fácil de Calçar Resistente para o Dia a Dia",
+    "description": "👟🔥 Sapatênis Masculino Knit com 57% OFF! Conforto e estilo para o seu dia a dia! ✅ Este tênis sapatênis é respirável, fácil de calçar e super resistente...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Masculinos",
+    "old_price": "R$ 197,67",
+    "price": "R$ 85,00",
+    "discount_percent": 57.0,
+    "rating": 4.6,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lw-mnbnfs86eww4f8",
+    "affiliate_url": "https://s.shopee.com.br/1VyplVezfO",
+    "created_at": "31/08/2026 23:15",
+    "created_at_iso": "2026-08-31T23:15:44",
+    "created_ts": 1788218144,
+    "niche": {
+      "key": "shopee_sapatos_masculinos",
+      "name": "Sapatos Masculinos"
+    }
+  },
+  {
     "id": "fe0a6909057b9d6a2c",
     "title": "Kit 3 Blusas Feminina Plus Size Gola V Básica Casual - H00",
     "raw_title": "Kit 3 Blusas Feminina Plus Size Gola V Básica Casual - H00",
@@ -2580,77 +2622,5 @@
       "key": "shopee_bebidas_alimentos",
       "name": "Bebidas e Alimentos"
     }
-  },
-  {
-    "id": "339aa02f9725f04127",
-    "title": "Mini Mixer Elétrico 2 em 1",
-    "raw_title": "Batedor Misturador Mixer Elétrico para Bebidas Leite Café Clara de Ovo 2 em 1",
-    "description": "✨ Prepare bebidas e receitas incríveis em segundos! Com o Batedor Misturador Mixer Elétrico 2 em 1, você tem praticidade e eficiência na cozinha. 🍳 Perf...",
-    "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
-    "old_price": "R$ 90,43",
-    "price": "R$ 18,99",
-    "discount_percent": 79.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7rd48-lupf3z3a40mxf1",
-    "affiliate_url": "https://s.shopee.com.br/19z7ZEEDD",
-    "created_at": "30/08/2026 23:15",
-    "created_at_iso": "2026-08-30T23:15:43",
-    "created_ts": 1788131743,
-    "niche": {
-      "key": "shopee_bebidas_alimentos",
-      "name": "Bebidas e Alimentos"
-    }
-  },
-  {
-    "id": "d4a4b26f7c1eb18faa",
-    "title": "Babá Eletrônica Hellobaby Hb66pro Monitor Bebê 3.2 White",
-    "raw_title": "Babá Eletrônica Hellobaby Hb66pro Monitor Bebê 3.2 White",
-    "description": "🔥 Oferta encontrada! 📌 Babá Eletrônica Hellobaby Hb66pro Monitor Bebê 3.2 White Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Mercado Livre",
-    "category": "Mãe e Bebê",
-    "old_price": "",
-    "price": "R$ 386,56",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_802386-MLA99553119798_122025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51893724?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "30/08/2026 23:02",
-    "created_at_iso": "2026-08-30T23:02:28",
-    "created_ts": 1788130948
-  },
-  {
-    "id": "82894ec8971b2e600c",
-    "title": "Tchauzinho, Fralda! - Melhoramentos",
-    "raw_title": "Tchauzinho, Fralda! - Melhoramentos",
-    "description": "🔥 12% OFF — Oferta encontrada! 📌 Tchauzinho, Fralda! - Melhoramentos Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Mercado Livre",
-    "category": "Mãe e Bebê",
-    "old_price": "R$ 55,00",
-    "price": "R$ 48,40",
-    "discount_percent": 12.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_921410-MLA113421271715_062026-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB40540370?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "30/08/2026 23:01",
-    "created_at_iso": "2026-08-30T23:01:24",
-    "created_ts": 1788130884
-  },
-  {
-    "id": "64b2b9f3001a919ff6",
-    "title": "Cartão De Memória Original SD Ultra A1 Classe 10 256gb / 512gb / 32gb…",
-    "raw_title": "Cartão De Memória Original SD Ultra A1 Classe 10 256gb / 512gb / 32gb / 64gb/ 128gb",
-    "description": "🔥 59% OFF — Oferta encontrada! 📌 Cartão De Memória Original SD Ultra A1 Classe 10 256gb / 512gb / 32gb / 64gb/ 128gb Confira os detalhes e aproveite enq...",
-    "marketplace": "Shopee",
-    "category": "lojas varitudo",
-    "old_price": "R$ 51,20",
-    "price": "R$ 20,99",
-    "discount_percent": 59.0,
-    "rating": 4.6,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-820oa-mo1bgxkreakl24",
-    "affiliate_url": "https://s.shopee.com.br/5q7nGSmPZW",
-    "created_at": "30/08/2026 22:20",
-    "created_at_iso": "2026-08-30T22:20:06",
-    "created_ts": 1788128406
   }
 ]

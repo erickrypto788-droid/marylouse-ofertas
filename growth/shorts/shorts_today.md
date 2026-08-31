@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 31/08/2026 11:21
+Gerado em: 31/08/2026 12:03
 
 ## Como usar
 
@@ -103,8 +103,8 @@ Gerado em: 31/08/2026 11:21
 **Produtos usados:**
 
 - Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mous…
+- Smartphone xiaomi Poco C85 6gb ram + 128gb, Preto
 - Smartphone Xiaomi Redmi 15c
-- Smartphone Xiaomi Redmi 13 Cor Azul-marinho
 
 ---
 

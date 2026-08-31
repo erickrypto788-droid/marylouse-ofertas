@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 31/08/2026 13:21
+Gerado em: 31/08/2026 14:19
 
 ## Como usar
 
@@ -79,8 +79,8 @@ Gerado em: 31/08/2026 13:21
 **Produtos usados:**
 
 - Chapinha Profissional Nano Titanium
-- Barbeador Costas Dobrável
 - 32 Peças Kit De Maquiagem Para Crianças Lavável/Conjunto Portátil Men…
+- Protetor Solar Facial FPS 60 Sunless
 
 ---
 

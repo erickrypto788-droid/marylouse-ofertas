@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 31/08/2026 16:21
+Gerado em: 31/08/2026 17:22
 
 ## Como usar
 
@@ -103,8 +103,8 @@ Gerado em: 31/08/2026 16:21
 **Produtos usados:**
 
 - Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mous…
+- Leitor de cartão SD Tipo C Lightning 2 em 2, compatível com Apple, Hu…
 - Smartphone xiaomi Poco C85 6gb ram + 128gb, Preto
-- Smartphone Xiaomi Redmi 15c
 
 ---
 

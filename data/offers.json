@@ -1,5 +1,22 @@
 [
   {
+    "id": "81d337521cb0f63243",
+    "title": "Condicionador Infantil Buba Care",
+    "raw_title": "Condicionador Infantil 250ml Buba Care",
+    "description": "Cabelos macios e cheirosos para os pequenos? 👶✨ O Condicionador Infantil 250ml Buba Care é a escolha ideal para o cuidado delicado dos fios! Fórmula sua...",
+    "marketplace": "Mercado Livre",
+    "category": "Supermercados",
+    "old_price": "",
+    "price": "R$ 41,50",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_616875-MLA99832702501_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29684586?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "31/08/2026 02:05",
+    "created_at_iso": "2026-08-31T02:05:17",
+    "created_ts": 1788141917
+  },
+  {
     "id": "3f86f87c2d75dc8781",
     "title": "Tênis feminino lançamento novidade leve confortável casual plataforma…",
     "raw_title": "Tênis feminino lançamento novidade leve confortável casual plataforma top!",
@@ -2682,22 +2699,5 @@
       "key": "shopee_papelaria",
       "name": "Papelaria"
     }
-  },
-  {
-    "id": "fe4426932dbf731020",
-    "title": "Xiaomi 15t 5G 512GB",
-    "raw_title": "Smartphone Xiaomi 15t 5g 12+12gb Ram + 512gb, Cinza",
-    "description": "🚀 POTÊNCIA MÁXIMA NO SEU BOLSO! Chegou a hora de ter o Smartphone Xiaomi 15t 5g 12+12gb Ram + 512gb, Cinza! Desempenho surreal e espaço de sobra para tu...",
-    "marketplace": "Mercado Livre",
-    "category": "Informática",
-    "old_price": "R$ 5.289,00",
-    "price": "R$ 4.509,00",
-    "discount_percent": 15.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_913469-MLA93865329554_102025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59103594?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "30/08/2026 02:01",
-    "created_at_iso": "2026-08-30T02:01:51",
-    "created_ts": 1788055311
   }
 ]

@@ -1,5 +1,39 @@
 [
   {
+    "id": "58338405eac3501aed",
+    "title": "Monitor 24\" Full HD Rápido",
+    "raw_title": "Monitor 24 Polegadas 1920x1200px Vga Hdmi 5ms Rápido",
+    "description": "🚀 IMAGENS PERFEITAS! Chegou o Monitor 24 Polegadas que você esperava! Com resolução 1920x1200px, VGA e HDMI.",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "",
+    "price": "R$ 565,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_907062-MLA99452126876_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45798788?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "31/08/2026 10:02",
+    "created_at_iso": "2026-08-31T10:02:53",
+    "created_ts": 1788170573
+  },
+  {
+    "id": "3ca1eec774fa6259c3",
+    "title": "Mesa Gamer/Home Office AJL",
+    "raw_title": "Mesa Computador Escrivaninha Notebook Gamer cor branco AJL",
+    "description": "Seu setup merece um upgrade! 🚀 Mesa Computador Escrivaninha Notebook Gamer cor branco AJL. ✨ Ideal para trabalho, estudos ou suas gameplays. Design mode...",
+    "marketplace": "Mercado Livre",
+    "category": "Casa e Decoração",
+    "old_price": "",
+    "price": "R$ 267,20",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_883611-MLU78942001945_092024-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29479675?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "31/08/2026 10:01",
+    "created_at_iso": "2026-08-31T10:01:42",
+    "created_ts": 1788170502
+  },
+  {
     "id": "a2c31e54f4a75afa46",
     "title": "Tênis Infantil Preto Anatômico",
     "raw_title": "Tênis Baby Infantil Preto Casual Menino Anatômico Respirável Dia a Dia 20 ao 33 Envio Imediato",
@@ -2666,22 +2700,5 @@
     "created_at": "30/08/2026 10:03",
     "created_at_iso": "2026-08-30T10:03:10",
     "created_ts": 1788084190
-  },
-  {
-    "id": "39f42e4048a811b2c3",
-    "title": "Calça Legging Ausare UV50+",
-    "raw_title": "Calça Legging Feminina Ausare de Compressão Média com UV50+ e Cós Alto para Academia",
-    "description": "🚀 TREINE COM ESTILO E CONFORTO! Calça Legging Feminina Ausare: compressão média, UV50+ e cós alto para a academia. Sinta-se poderosa! 💪 ✨ Economize 66%...",
-    "marketplace": "Mercado Livre",
-    "category": "Roupas Femininas",
-    "old_price": "R$ 296,00",
-    "price": "R$ 99,90",
-    "discount_percent": 66.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_759777-MLA110402121100_052026-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB69276350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "30/08/2026 10:02",
-    "created_at_iso": "2026-08-30T10:02:02",
-    "created_ts": 1788084122
   }
 ]

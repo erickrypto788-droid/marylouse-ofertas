@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 31/08/2026 10:04
+Gerado em: 31/08/2026 10:21
 
 ## Como usar
 
@@ -72,37 +72,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 3 — Ofertas Pet
-
-**Canal recomendado:** Ofertas Pet
-
-**Horário sugerido:** 17:00 - 20:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
-
-**Texto pronto:**
-
-```txt
-🐶 Oferta para Ofertas Pet
-
-Sandália Papete Feminina Ortopédica
-
-💸 De: R$ 89,90
-🔥 Por: R$ 35,06
-🏷️ 61% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/50YfTU4xsq
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 4 — Mamãe e Bebê
+## Post 3 — Mamãe e Bebê
 
 **Canal recomendado:** Mamãe e Bebê
 
@@ -132,7 +102,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 5 — Moda Feminina
+## Post 4 — Moda Feminina
 
 **Canal recomendado:** Moda Feminina
 
@@ -147,14 +117,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Conjunto Feminino cropped e short Verão Linho Duna Premium
+Blusa Regata Feminina Halter Efeito Silicone Modeladora Frente Unica…
 
-💸 De: R$ 100,00
-🔥 Por: R$ 39,00
-🏷️ 61% OFF
+💸 De: R$ 99,97
+🔥 Por: R$ 34,99
+🏷️ 65% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/9fKW1sA6nt
+Ver oferta: https://s.shopee.com.br/1A0W76q4l
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
@@ -162,7 +132,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 6 — Casa e Cozinha
+## Post 5 — Casa e Cozinha
 
 **Canal recomendado:** Casa e Cozinha
 
@@ -185,6 +155,36 @@ Mini Mixer Elétrico 2 em 1
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/19z7ZEEDD
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 6 — Ofertas Pet
+
+**Canal recomendado:** Ofertas Pet
+
+**Horário sugerido:** 17:00 - 20:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
+
+**Texto pronto:**
+
+```txt
+🐶 Oferta para Ofertas Pet
+
+Ração Gato Estimacat Premium Adulto Sabor Carne 1kg
+
+💸 De: R$ 35,14
+🔥 Por: R$ 26,36
+🏷️ 25% OFF
+🛒 Loja: Mercado Livre
+
+Ver oferta: https://www.mercadolivre.com.br/p/MLB66945649?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

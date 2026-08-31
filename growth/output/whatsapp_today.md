@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 31/08/2026 10:21
+Gerado em: 31/08/2026 11:21
 
 ## Como usar
 
@@ -12,37 +12,7 @@ Gerado em: 31/08/2026 10:21
 
 ---
 
-## Post 1 — Celulares e Tecnologia
-
-**Canal recomendado:** Celulares e Tecnologia
-
-**Horário sugerido:** 19:00 - 21:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
-
-**Texto pronto:**
-
-```txt
-📱 Oferta para Celulares e Tecnologia
-
-Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com…
-
-💸 De: R$ 50,74
-🔥 Por: R$ 19,79
-🏷️ 61% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/BTOWR26XM
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 2 — Beleza e Cuidados
+## Post 1 — Beleza e Cuidados
 
 **Canal recomendado:** Beleza e Cuidados
 
@@ -72,7 +42,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 3 — Mamãe e Bebê
+## Post 2 — Mamãe e Bebê
 
 **Canal recomendado:** Mamãe e Bebê
 
@@ -87,14 +57,44 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
 ```txt
 🍼 Oferta para Mamãe e Bebê
 
-Toalha de Banho Fralda Soft com Capuz para Bebê OU Kit com 2, 3 ou…
+Boneca Lola Baby Com Chupeta Rosa Menina Brinquedo Infantil Bebê
 
-💸 De: R$ 60,36
-🔥 Por: R$ 31,99
-🏷️ 47% OFF
+💸 De: R$ 70,00
+🔥 Por: R$ 32,90
+🏷️ 53% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/5VUvL4lI2I
+Ver oferta: https://s.shopee.com.br/1gIFAMu10O
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 3 — Celulares e Tecnologia
+
+**Canal recomendado:** Celulares e Tecnologia
+
+**Horário sugerido:** 19:00 - 21:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
+
+**Texto pronto:**
+
+```txt
+📱 Oferta para Celulares e Tecnologia
+
+Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mous…
+
+💸 De: R$ 104,77
+🔥 Por: R$ 62,86
+🏷️ 40% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/2LXtpk2gqN
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

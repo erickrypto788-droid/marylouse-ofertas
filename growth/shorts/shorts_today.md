@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 31/08/2026 10:21
+Gerado em: 31/08/2026 11:21
 
 ## Como usar
 
@@ -102,9 +102,9 @@ Gerado em: 31/08/2026 10:21
 
 **Produtos usados:**
 
-- Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com…
 - Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mous…
-- Fone Bluetooth Pro5 Premium | Imersão Total c Cancelamento Ruído Qual…
+- Smartphone Xiaomi Redmi 15c
+- Smartphone Xiaomi Redmi 13 Cor Azul-marinho
 
 ---
 

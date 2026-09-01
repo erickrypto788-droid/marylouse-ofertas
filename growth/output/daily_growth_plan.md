@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 01/09/2026 22:04
+Gerado em: 01/09/2026 22:21
 
 ## Categorias prioritárias
 
-- 👟 **Calçados**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 📱 **Celulares**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 👟 **Calçados**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 📦 **Outros**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 🍼 **Mãe e Bebê**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- ✨ **Moda Plus Size**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
 - 💻 **Informática**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 🔌 **Eletrodomésticos**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-eletrodomesticos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_eletrodomesticos
 - 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 📚 **Papelaria**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 - 💄 **Beleza**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 👕 **Moda Masculina**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
+- ✨ **Moda Plus Size**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
 
 ## Top ofertas para destacar
 
@@ -73,19 +73,19 @@ Gerado em: 01/09/2026 22:04
    - Desconto: 50% OFF
    - Link: https://s.shopee.com.br/7KwcyhtGU5
 
-9. **SATA III 2.5 "SSD 128GB/240GB/256GB Unidade de estado sólido interna…**
+9. **Panela de Pressao Polida Fortlar -A- LAM - Escolha o Tamanho**
+   - Categoria: Casa e Cozinha
+   - Loja: Shopee
+   - Preço: R$ 51,60
+   - Desconto: 34% OFF
+   - Link: https://s.shopee.com.br/9AOH5y19y9
+
+10. **SATA III 2.5 "SSD 128GB/240GB/256GB Unidade de estado sólido interna…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 87,99
    - Desconto: 41% OFF
    - Link: https://s.shopee.com.br/60RG3TmRoa
-
-10. **BemTeVi Cabo Tipo C USB PD 240W Cabo de carregamento rápido para iPho…**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 25,32
-   - Desconto: 74% OFF
-   - Link: https://s.shopee.com.br/2qUEobnBbr
 
 ## Ações gratuitas recomendadas
 

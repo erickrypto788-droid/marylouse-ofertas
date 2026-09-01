@@ -1,5 +1,22 @@
 [
   {
+    "id": "a80b406fb5bbc21b36",
+    "title": "SSD NVMe Kingston 1TB",
+    "raw_title": "Ssd Nvme Kingston 1tb Nv3 M.2 2280 Pcie 4.0 Nf-e Cor Ssd Nvme M.2 2280 Kingston 1tb",
+    "description": "🚀 Velocidade Extrema para seu PC! Chegou o SSD NVMe Kingston 1TB NV3 M.2 PCIe 4.0. Desempenho ultrarrápido para seus jogos e tarefas mais exigentes. 🚚 F...",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "",
+    "price": "R$ 1.099,89",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_763811-MLA100010597069_122025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50957106?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "01/09/2026 20:01",
+    "created_at_iso": "2026-09-01T20:01:27",
+    "created_ts": 1788292887
+  },
+  {
     "id": "e721d73631b8fe9385",
     "title": "Bota CAT Coturno Masculina",
     "raw_title": "Bota CAT Coturno Preto Palmilha Gel Ortopédica Couro Masculino Promoção Envio Rápido",
@@ -2331,26 +2348,5 @@
     "created_at": "31/08/2026 20:02",
     "created_at_iso": "2026-08-31T20:02:33",
     "created_ts": 1788206553
-  },
-  {
-    "id": "91f284df51693cb17f",
-    "title": "GTA VI PS5",
-    "raw_title": "Jogo Grand Theft Auto VI Edição Standard - PS5",
-    "description": "🎮 A espera acabou! 🚀 Garanta já o seu Jogo Grand Theft Auto VI Edição Standard para PS5 e mergulhe em um novo universo de ação e aventura. Prepare-se pa...",
-    "marketplace": "Shopee",
-    "category": "Jogos e Consoles",
-    "old_price": "",
-    "price": "R$ 449,90",
-    "discount_percent": 0.0,
-    "rating": 0.0,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ma-mpxxrh0ud43kb3",
-    "affiliate_url": "https://s.shopee.com.br/6Akf3bvtOt",
-    "created_at": "31/08/2026 19:17",
-    "created_at_iso": "2026-08-31T19:17:06",
-    "created_ts": 1788203826,
-    "niche": {
-      "key": "shopee_jogos_consoles",
-      "name": "Jogos e Consoles"
-    }
   }
 ]

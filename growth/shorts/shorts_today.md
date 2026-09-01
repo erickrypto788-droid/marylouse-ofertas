@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 01/09/2026 06:22
+Gerado em: 01/09/2026 07:23
 
 ## Como usar
 
@@ -55,8 +55,8 @@ Gerado em: 01/09/2026 06:22
 **Produtos usados:**
 
 - Kit 4 Potes Herméticos 2L
-- Liquidificador Mondial L-99 Turbo 550W
 - Elgin Air Fryer Fritadeira Air Fryer
+- Fritadeira Air Fryer Mondial Oven Digital 127v
 
 ---
 

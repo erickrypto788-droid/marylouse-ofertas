@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 01/09/2026 06:22
+Gerado em: 01/09/2026 07:23
 
 ## Categorias prioritárias
 
-- 🍼 **Mãe e Bebê**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 💄 **Beleza**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 🍼 **Mãe e Bebê**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 💄 **Beleza**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🏋️ **Esportes**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 💻 **Informática**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 👟 **Calçados**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 📦 **Outros**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 🧸 **Brinquedos**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 👗 **Moda Feminina**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 🐶 **Pet**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
-- 🔌 **Eletrodomésticos**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-eletrodomesticos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_eletrodomesticos
+- 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 
 ## Top ofertas para destacar
 
@@ -59,33 +59,33 @@ Gerado em: 01/09/2026 06:22
    - Desconto: 42% OFF
    - Link: https://s.shopee.com.br/AKaCUUHqdt
 
-7. **Tênis Infantil Baby Confortável Casual Leve Para Menino e Menina Sapa…**
+7. **Girafa de Pelúcia Macia para Bebês**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 23,72
+   - Desconto: 54% OFF
+   - Link: https://s.shopee.com.br/1BLztrUkQ7
+
+8. **Tênis Infantil Baby Confortável Casual Leve Para Menino e Menina Sapa…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 32,80
    - Desconto: 56% OFF
    - Link: https://s.shopee.com.br/5q7pG4sDkR
 
-8. **Kit 4 Peças Conjunto Infantil Bebê Menino Verão**
+9. **Kit 4 Peças Conjunto Infantil Bebê Menino Verão**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 41,00
    - Desconto: 68% OFF
    - Link: https://s.shopee.com.br/6VNUn0fVWm
 
-9. **Sandália Cartago Baby Masculino Slide**
+10. **Sandália Cartago Baby Masculino Slide**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 23,90
    - Desconto: 60% OFF
    - Link: https://s.shopee.com.br/6L45qzm3TH
-
-10. **Kit 2 Cartões de Memória 128GB**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 32,98
-   - Desconto: 77% OFF
-   - Link: https://s.shopee.com.br/7pssB62XXG
 
 ## Ações gratuitas recomendadas
 

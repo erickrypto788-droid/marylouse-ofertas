@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 01/09/2026 00:19
+Gerado em: 01/09/2026 01:21
 
 ## Como usar
 
@@ -147,14 +147,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
 ```txt
 📱 Oferta para Celulares e Tecnologia
 
-Leitor de cartão SD Tipo C Lightning 2 em 2, compatível com Apple, Hu…
+Kit 2 Cartões de Memória 128GB
 
-💸 De: R$ 112,73
-🔥 Por: R$ 12,40
-🏷️ 89% OFF
+💸 De: R$ 143,39
+🔥 Por: R$ 32,98
+🏷️ 77% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/8Kp9VND3wF
+Ver oferta: https://s.shopee.com.br/7pssB62XXG
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

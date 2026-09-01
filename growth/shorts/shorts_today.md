@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 01/09/2026 00:19
+Gerado em: 01/09/2026 01:21
 
 ## Como usar
 
@@ -102,9 +102,9 @@ Gerado em: 01/09/2026 00:19
 
 **Produtos usados:**
 
+- Kit 2 Cartões de Memória 128GB
 - Leitor de cartão SD Tipo C Lightning 2 em 2, compatível com Apple, Hu…
-- Smartphone xiaomi Poco C85 6gb ram + 128gb, Preto
-- Miniatura Creme Dental 15g
+- Power Bank Basike 20000mAh
 
 ---
 

@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 01/09/2026 08:03
+Gerado em: 01/09/2026 08:22
 
 ## Como usar
 
@@ -12,37 +12,7 @@ Gerado em: 01/09/2026 08:03
 
 ---
 
-## Post 1 — Beleza e Cuidados
-
-**Canal recomendado:** Beleza e Cuidados
-
-**Horário sugerido:** 12:00 - 15:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
-
-**Texto pronto:**
-
-```txt
-💄 Oferta para Beleza e Cuidados
-
-Chapinha Profissional Nano Titanium
-
-💸 De: R$ 90,59
-🔥 Por: R$ 28,99
-🏷️ 68% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/80CHFMRMnc
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 2 — Ofertas Pet
+## Post 1 — Ofertas Pet
 
 **Canal recomendado:** Ofertas Pet
 
@@ -72,7 +42,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 3 — Mamãe e Bebê
+## Post 2 — Mamãe e Bebê
 
 **Canal recomendado:** Mamãe e Bebê
 
@@ -95,6 +65,36 @@ Boneca Lola Baby Com Chupeta Rosa Menina Brinquedo Infantil Bebê
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/1gIFAMu10O
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 3 — Beleza e Cuidados
+
+**Canal recomendado:** Beleza e Cuidados
+
+**Horário sugerido:** 12:00 - 15:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
+
+**Texto pronto:**
+
+```txt
+💄 Oferta para Beleza e Cuidados
+
+Kit 2 Perfumes Casal Luxo
+
+💸 De: R$ 99,96
+🔥 Por: R$ 47,98
+🏷️ 52% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/9AOHA4mLzg
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

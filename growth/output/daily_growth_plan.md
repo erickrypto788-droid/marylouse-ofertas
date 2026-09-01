@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 01/09/2026 16:44
+Gerado em: 01/09/2026 17:21
 
 ## Categorias prioritárias
 
 - 👗 **Moda Feminina**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
+- 👕 **Moda Masculina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 - 📦 **Outros**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 🍼 **Mãe e Bebê**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 💻 **Informática**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 🐶 **Pet**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 👟 **Calçados**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 💄 **Beleza**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 💻 **Informática**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 📚 **Papelaria**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
-- ❤️ **Saúde**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 
 ## Top ofertas para destacar
 
@@ -73,19 +73,19 @@ Gerado em: 01/09/2026 16:44
    - Desconto: 50% OFF
    - Link: https://s.shopee.com.br/7KwcyhtGU5
 
-9. **SSD de alta velocidade SATA III de 2.5 polegadas 60-256 GB PC/Laptop…**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 76,00
-   - Desconto: 75% OFF
-   - Link: https://s.shopee.com.br/1gIFZ7YFWe
-
-10. **SATA III 2.5 "SSD 128GB/240GB/256GB Unidade de estado sólido interna…**
+9. **SATA III 2.5 "SSD 128GB/240GB/256GB Unidade de estado sólido interna…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 87,99
    - Desconto: 41% OFF
    - Link: https://s.shopee.com.br/60RG3TmRoa
+
+10. **Bolsa Feminina Grande TOMI MITO**
+   - Categoria: Pet
+   - Loja: Shopee
+   - Preço: R$ 64,99
+   - Desconto: 66% OFF
+   - Link: https://s.shopee.com.br/5LBZ3tQAUW
 
 ## Ações gratuitas recomendadas
 

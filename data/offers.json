@@ -1,5 +1,26 @@
 [
   {
+    "id": "58074c04998968b6eb",
+    "title": "Base Dock Carregador PS5",
+    "raw_title": "Base Dock Suporte Duplo de carregamento para 2 Controles Dualsense PS5 Slim Fat PRO",
+    "description": "⚡️ Nunca mais fique sem bateria na sua gameplay! A Base Dock Suporte Duplo carrega 2 Controles Dualsense do seu PS5 (Slim, Fat, PRO) ao mesmo tempo. Pra...",
+    "marketplace": "Shopee",
+    "category": "Jogos e Consoles",
+    "old_price": "",
+    "price": "R$ 89,99",
+    "discount_percent": 0.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mckx5wpnmvjme9",
+    "affiliate_url": "https://s.shopee.com.br/3g3LPRDR7n",
+    "created_at": "01/09/2026 15:16",
+    "created_at_iso": "2026-09-01T15:16:02",
+    "created_ts": 1788275762,
+    "niche": {
+      "key": "shopee_jogos_consoles",
+      "name": "Jogos e Consoles"
+    }
+  },
+  {
     "id": "e60eeaaee931fa155d",
     "title": "Grão de Bico 1Kg - P&P FIT",
     "raw_title": "Grão de Bico 1Kg - P&P FIT",
@@ -2446,43 +2467,5 @@
       "key": "shopee_bolsas_masculinas",
       "name": "Bolsas Masculinas"
     }
-  },
-  {
-    "id": "6eb49f317b12002f26",
-    "title": "Mochila Bolsa Reforçada Notebook Resistente Trabalho Faculdade Coreana",
-    "raw_title": "Mochila Bolsa Reforçada Notebook Resistente Trabalho Faculdade Coreana",
-    "description": "🔥 59% OFF — Oferta encontrada! 📌 Mochila Bolsa Reforçada Notebook Resistente Trabalho Faculdade Coreana Confira os detalhes e aproveite enquanto a ofert...",
-    "marketplace": "Shopee",
-    "category": "Bolsas Masculinas",
-    "old_price": "R$ 72,93",
-    "price": "R$ 29,90",
-    "discount_percent": 59.0,
-    "rating": 4.5,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lkz9ur4r4lj3c1",
-    "affiliate_url": "https://s.shopee.com.br/AUtcgnHDIu",
-    "created_at": "31/08/2026 15:15",
-    "created_at_iso": "2026-08-31T15:15:36",
-    "created_ts": 1788189336,
-    "niche": {
-      "key": "shopee_bolsas_masculinas",
-      "name": "Bolsas Masculinas"
-    }
-  },
-  {
-    "id": "1ffe155fc479ca1ed1",
-    "title": "Comedouro Automático para Aquário",
-    "raw_title": "Comedouro Automático Ração Aquário Terrario Peixe Tartaruga",
-    "description": "🚨 OFERTA RELÂMPAGO! 🚨 Cansado de se preocupar com a alimentação dos seus peixes ou tartarugas? 🐢 O Comedouro Automático garante que seus pets aquáticos...",
-    "marketplace": "Mercado Livre",
-    "category": "Pet",
-    "old_price": "R$ 142,86",
-    "price": "R$ 117,85",
-    "discount_percent": 18.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_767948-MLA115138016402_082026-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB44164135?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "31/08/2026 15:01",
-    "created_at_iso": "2026-08-31T15:01:58",
-    "created_ts": 1788188518
   }
 ]

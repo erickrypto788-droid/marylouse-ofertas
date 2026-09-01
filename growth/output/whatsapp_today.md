@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 01/09/2026 08:22
+Gerado em: 01/09/2026 09:23
 
 ## Como usar
 
@@ -57,14 +57,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
 ```txt
 🍼 Oferta para Mamãe e Bebê
 
-Boneca Lola Baby Com Chupeta Rosa Menina Brinquedo Infantil Bebê
+Kit 10 Fraldas de Pano Minasrey
 
-💸 De: R$ 70,00
-🔥 Por: R$ 32,90
-🏷️ 53% OFF
+💸 De: R$ 59,98
+🔥 Por: R$ 26,99
+🏷️ 55% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/1gIFAMu10O
+Ver oferta: https://s.shopee.com.br/9V16d0HczU
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
@@ -162,29 +162,29 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 6 — Moda e Calçados
+## Post 6 — Saúde
 
-**Canal recomendado:** Moda e Calçados
+**Canal recomendado:** Saúde e Bem-estar
 
-**Horário sugerido:** 12:00 - 15:00
+**Horário sugerido:** 09:00 - 11:00
 
 **Imagem/card:**
 
-https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
+https://marylouse-ofertas.vercel.app/growth/pinterest/saude.png
 
 **Texto pronto:**
 
 ```txt
-👟 Oferta para Moda e Calçados
+❤️ Oferta para Saúde
 
-Tênis Infantil Branco
+Monitor de Pressão Digital
 
-💸 De: R$ 99,72
-🔥 Por: R$ 39,89
-🏷️ 60% OFF
+💸 De: R$ 121,84
+🔥 Por: R$ 38,99
+🏷️ 68% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/8V8XuOf2hZ
+Ver oferta: https://s.shopee.com.br/4VcQbhGXpb
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

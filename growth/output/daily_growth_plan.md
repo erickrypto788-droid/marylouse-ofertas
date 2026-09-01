@@ -1,91 +1,91 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 01/09/2026 13:05
+Gerado em: 01/09/2026 13:22
 
 ## Categorias prioritárias
 
-- 🍼 **Mãe e Bebê**: 15 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 💻 **Informática**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 📚 **Papelaria**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
+- 🍼 **Mãe e Bebê**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 👗 **Moda Feminina**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
-- 💻 **Informática**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 👟 **Calçados**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 🐶 **Pet**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 💄 **Beleza**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 👜 **Bolsas**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
-- 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 
 ## Top ofertas para destacar
 
-1. **Capa Maleta Notebook Macbook 15,6' / 13 / 14 / 17 Polegadas Rígida An…**
+1. **Case Gaveta HD SSD 2.5 Sata III USB 3.0 Transparente Externo 6Gbps PC…**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 30,99
+   - Desconto: 69% OFF
+   - Link: https://s.shopee.com.br/6q0N30jH7Z
+
+2. **Teclado e mouse sem fio—Compatível com tablet，Notebook e celular, Rec…**
+   - Categoria: Celulares
+   - Loja: Shopee
+   - Preço: R$ 39,69
+   - Desconto: 60% OFF
+   - Link: https://s.shopee.com.br/2qUEHelIxS
+
+3. **Capa Maleta Notebook Macbook 15,6' / 13 / 14 / 17 Polegadas Rígida An…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 29,22
    - Desconto: 58% OFF
    - Link: https://s.shopee.com.br/9zxOgZor1U
 
-2. **Mochila Couro PU Grande Executiva Para Notebook Trabalho Faculdade Re…**
+4. **Mochila Couro PU Grande Executiva Para Notebook Trabalho Faculdade Re…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 38,98
    - Desconto: 64% OFF
    - Link: https://s.shopee.com.br/20v4ZAnZZa
 
-3. **Kit 10 Fraldas de Pano Minasrey**
+5. **Kit 10 Fraldas de Pano Minasrey**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 26,99
    - Desconto: 55% OFF
    - Link: https://s.shopee.com.br/9V16d0HczU
 
-4. **Kit 2 Perfumes Casal Luxo**
+6. **Kit 2 Perfumes Casal Luxo**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 47,98
    - Desconto: 52% OFF
    - Link: https://s.shopee.com.br/9AOHA4mLzg
 
-5. **Perfume Árabe Masculino Asad Bourbon Eau De Parfum 100ML**
+7. **Perfume Árabe Masculino Asad Bourbon Eau De Parfum 100ML**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 99,97
    - Desconto: 50% OFF
    - Link: https://s.shopee.com.br/7KwcyhtGU5
 
-6. **SSD de alta velocidade SATA III de 2.5 polegadas 60-256 GB PC/Laptop…**
+8. **SSD de alta velocidade SATA III de 2.5 polegadas 60-256 GB PC/Laptop…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 76,00
    - Desconto: 75% OFF
    - Link: https://s.shopee.com.br/1gIFZ7YFWe
 
-7. **Mochila Bolsa Reforçada Notebook Resistente Trabalho Faculdade Coreana**
+9. **Mochila Bolsa Reforçada Notebook Resistente Trabalho Faculdade Coreana**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 29,90
    - Desconto: 59% OFF
    - Link: https://s.shopee.com.br/AUtcgnHDIu
 
-8. **Mochila Couro Masculina Reforçada Para Notebook Escolar Excecultivo S…**
+10. **SATA III 2.5 "SSD 128GB/240GB/256GB Unidade de estado sólido interna…**
    - Categoria: Informática
    - Loja: Shopee
-   - Preço: R$ 45,99
-   - Desconto: 42% OFF
-   - Link: https://s.shopee.com.br/AKaCUUHqdt
-
-9. **Bolsa Feminina Grande TOMI MITO**
-   - Categoria: Pet
-   - Loja: Shopee
-   - Preço: R$ 64,99
-   - Desconto: 66% OFF
-   - Link: https://s.shopee.com.br/5LBZ3tQAUW
-
-10. **Fralda Hipopó Baby Mega Pacotão**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 44,90
-   - Desconto: 29% OFF
-   - Link: https://s.shopee.com.br/8fRzdTKngP
+   - Preço: R$ 87,99
+   - Desconto: 41% OFF
+   - Link: https://s.shopee.com.br/60RG3TmRoa
 
 ## Ações gratuitas recomendadas
 

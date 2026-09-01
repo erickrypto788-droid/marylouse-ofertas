@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 01/09/2026 13:05
+Gerado em: 01/09/2026 13:22
 
 ## Como usar
 
@@ -12,7 +12,37 @@ Gerado em: 01/09/2026 13:05
 
 ---
 
-## Post 1 — Ofertas Pet
+## Post 1 — Celulares e Tecnologia
+
+**Canal recomendado:** Celulares e Tecnologia
+
+**Horário sugerido:** 19:00 - 21:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
+
+**Texto pronto:**
+
+```txt
+📱 Oferta para Celulares e Tecnologia
+
+Teclado e mouse sem fio—Compatível com tablet，Notebook e celular, Rec…
+
+💸 De: R$ 99,22
+🔥 Por: R$ 39,69
+🏷️ 60% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/2qUEHelIxS
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 2 — Ofertas Pet
 
 **Canal recomendado:** Ofertas Pet
 
@@ -42,7 +72,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 2 — Mamãe e Bebê
+## Post 3 — Mamãe e Bebê
 
 **Canal recomendado:** Mamãe e Bebê
 
@@ -72,7 +102,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 3 — Beleza e Cuidados
+## Post 4 — Beleza e Cuidados
 
 **Canal recomendado:** Beleza e Cuidados
 
@@ -102,7 +132,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Moda Feminina
+## Post 5 — Moda Feminina
 
 **Canal recomendado:** Moda Feminina
 
@@ -125,36 +155,6 @@ KIT 2 Regata Blusinha Feminina Suplex Duplo Básica Elegante Blogueira…
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/2VrLUhxK0G
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 5 — Celulares e Tecnologia
-
-**Canal recomendado:** Celulares e Tecnologia
-
-**Horário sugerido:** 19:00 - 21:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
-
-**Texto pronto:**
-
-```txt
-📱 Oferta para Celulares e Tecnologia
-
-Kit 2 Cartões de Memória 128GB
-
-💸 De: R$ 143,39
-🔥 Por: R$ 32,98
-🏷️ 77% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/7pssB62XXG
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

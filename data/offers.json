@@ -1,5 +1,47 @@
 [
   {
+    "id": "b1d288b5ef93a16321",
+    "title": "Mala Esportiva Versátil",
+    "raw_title": "Mala Esportiva Academia Unissex Transversal e Mochila",
+    "description": "🚨 MEGA OFERTA! Mala Esportiva Versátil! 🎒 Ideal para academia, viagens rápidas ou seu dia a dia. Leve tudo com estilo e praticidade! Vira mochila e bols...",
+    "marketplace": "Shopee",
+    "category": "Bolsas Femininas",
+    "old_price": "R$ 121,59",
+    "price": "R$ 44,99",
+    "discount_percent": 63.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lm-mp42eo1159fqfc",
+    "affiliate_url": "https://s.shopee.com.br/5LBZ3tZ2Jk",
+    "created_at": "01/09/2026 10:18",
+    "created_at_iso": "2026-09-01T10:18:10",
+    "created_ts": 1788257890,
+    "niche": {
+      "key": "shopee_bolsas_femininas",
+      "name": "Bolsas Femininas"
+    }
+  },
+  {
+    "id": "e4dd72f06295253189",
+    "title": "Bolsa Feminina Grande TOMI MITO",
+    "raw_title": "TOMI MITO Bolsa Feminina Grande para Escritório e Rotina com Alça de Ombro Bolso Frontal e Zíper B742",
+    "description": "🚨 OFERTA RELÂMPAGO! Essa bolsa é um espetáculo! 👜 A Bolsa Feminina TOMI MITO é perfeita para o escritório e sua rotina! Grande, elegante, com alça de om...",
+    "marketplace": "Shopee",
+    "category": "Bolsas Femininas",
+    "old_price": "R$ 191,15",
+    "price": "R$ 64,99",
+    "discount_percent": 66.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lb-mrfm9j7mtuyv9b",
+    "affiliate_url": "https://s.shopee.com.br/5LBZ3tQAUW",
+    "created_at": "01/09/2026 10:15",
+    "created_at_iso": "2026-09-01T10:15:57",
+    "created_ts": 1788257757,
+    "niche": {
+      "key": "shopee_bolsas_femininas",
+      "name": "Bolsas Femininas"
+    }
+  },
+  {
     "id": "d4389b27ab56b1ba83",
     "title": "Kit Mamadeira Buba Anticólica",
     "raw_title": "Kit 2 Mamadeira Infantil Buba 120ml 270ml Anticólica Bpa free",
@@ -2360,102 +2402,5 @@
       "key": "shopee_esportes_lazer",
       "name": "Esportes e Lazer"
     }
-  },
-  {
-    "id": "168c1f9eb6a645d961",
-    "title": "Blusa Regata Feminina Halter Efeito Silicone Modeladora Frente Unica…",
-    "raw_title": "Blusa Regata Feminina Halter Efeito Silicone Modeladora Frente Unica Casual Verão Tendencia",
-    "description": "🔥 65% OFF — Oferta encontrada! 📌 Blusa Regata Feminina Halter Efeito Silicone Modeladora Frente Unica Casual Verão Tendencia Confira os detalhes e aprov...",
-    "marketplace": "Shopee",
-    "category": "Esportes e Lazer",
-    "old_price": "R$ 99,97",
-    "price": "R$ 34,99",
-    "discount_percent": 65.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lv-mqcb86sco3k1c6",
-    "affiliate_url": "https://s.shopee.com.br/1A0W76q4l",
-    "created_at": "31/08/2026 10:18",
-    "created_at_iso": "2026-08-31T10:18:04",
-    "created_ts": 1788171484,
-    "niche": {
-      "key": "shopee_esportes_lazer",
-      "name": "Esportes e Lazer"
-    }
-  },
-  {
-    "id": "d15b9bf6e471a4935c",
-    "title": "Creatina Dark Lab 120 Cápsulas",
-    "raw_title": "Creatina Monohidratada 100% Pura 120 Cápsulas Dark Lab - Creatina Pura em Cápsula",
-    "description": "💪 Turbine seus treinos com essa oferta imperdível! Creatina Monohidratada 100% Pura Dark Lab - 120 Cápsulas para você alcançar seus objetivos! 🚀 Mais fo...",
-    "marketplace": "Shopee",
-    "category": "Esportes e Lazer",
-    "old_price": "R$ 70,00",
-    "price": "R$ 32,90",
-    "discount_percent": 53.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzavsad6oaz93a",
-    "affiliate_url": "https://s.shopee.com.br/9zxN1ZLdS7",
-    "created_at": "31/08/2026 10:17",
-    "created_at_iso": "2026-08-31T10:17:00",
-    "created_ts": 1788171420,
-    "niche": {
-      "key": "shopee_esportes_lazer",
-      "name": "Esportes e Lazer"
-    }
-  },
-  {
-    "id": "7e24e94f4deafd2077",
-    "title": "Creatina DUX 300g Creapure",
-    "raw_title": "Creatina DUX 300g - 100% Pura com SELO CREAPURE Reconhecido pela ANVISA",
-    "description": "🚀 GANHE FORÇA E PERFORMANCE! 💪 Creatina DUX 300g com SELO CREAPURE! 100% Pura e reconhecida pela ANVISA. A melhor para seus resultados!",
-    "marketplace": "Shopee",
-    "category": "Esportes e Lazer",
-    "old_price": "R$ 245,83",
-    "price": "R$ 59,00",
-    "discount_percent": 76.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lt-mldt9agkd2x0c0",
-    "affiliate_url": "https://s.shopee.com.br/3g3IDddlTm",
-    "created_at": "31/08/2026 10:15",
-    "created_at_iso": "2026-08-31T10:15:48",
-    "created_ts": 1788171348,
-    "niche": {
-      "key": "shopee_esportes_lazer",
-      "name": "Esportes e Lazer"
-    }
-  },
-  {
-    "id": "58338405eac3501aed",
-    "title": "Monitor 24\" Full HD Rápido",
-    "raw_title": "Monitor 24 Polegadas 1920x1200px Vga Hdmi 5ms Rápido",
-    "description": "🚀 IMAGENS PERFEITAS! Chegou o Monitor 24 Polegadas que você esperava! Com resolução 1920x1200px, VGA e HDMI.",
-    "marketplace": "Mercado Livre",
-    "category": "Informática",
-    "old_price": "",
-    "price": "R$ 565,00",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_907062-MLA99452126876_112025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45798788?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "31/08/2026 10:02",
-    "created_at_iso": "2026-08-31T10:02:53",
-    "created_ts": 1788170573
-  },
-  {
-    "id": "3ca1eec774fa6259c3",
-    "title": "Mesa Gamer/Home Office AJL",
-    "raw_title": "Mesa Computador Escrivaninha Notebook Gamer cor branco AJL",
-    "description": "Seu setup merece um upgrade! 🚀 Mesa Computador Escrivaninha Notebook Gamer cor branco AJL. ✨ Ideal para trabalho, estudos ou suas gameplays. Design mode...",
-    "marketplace": "Mercado Livre",
-    "category": "Casa e Decoração",
-    "old_price": "",
-    "price": "R$ 267,20",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_883611-MLU78942001945_092024-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29479675?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "31/08/2026 10:01",
-    "created_at_iso": "2026-08-31T10:01:42",
-    "created_ts": 1788170502
   }
 ]

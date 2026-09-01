@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 01/09/2026 14:04
+Gerado em: 01/09/2026 14:22
 
 ## Como usar
 
@@ -12,7 +12,37 @@ Gerado em: 01/09/2026 14:04
 
 ---
 
-## Post 1 — Celulares e Tecnologia
+## Post 1 — Casa e Cozinha
+
+**Canal recomendado:** Casa e Cozinha
+
+**Horário sugerido:** 18:00 - 20:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
+
+**Texto pronto:**
+
+```txt
+🍳 Oferta para Casa e Cozinha
+
+Panela Elétrica Multifuncional 1.8L
+
+💸 De: R$ 199,97
+🔥 Por: R$ 67,99
+🏷️ 66% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/70JmVz9PMm
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 2 — Celulares e Tecnologia
 
 **Canal recomendado:** Celulares e Tecnologia
 
@@ -42,7 +72,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 2 — Ofertas Pet
+## Post 3 — Ofertas Pet
 
 **Canal recomendado:** Ofertas Pet
 
@@ -72,7 +102,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 3 — Mamãe e Bebê
+## Post 4 — Mamãe e Bebê
 
 **Canal recomendado:** Mamãe e Bebê
 
@@ -102,7 +132,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Beleza e Cuidados
+## Post 5 — Beleza e Cuidados
 
 **Canal recomendado:** Beleza e Cuidados
 
@@ -132,7 +162,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 5 — Moda Feminina
+## Post 6 — Moda Feminina
 
 **Canal recomendado:** Moda Feminina
 
@@ -155,36 +185,6 @@ KIT 2 Regata Blusinha Feminina Suplex Duplo Básica Elegante Blogueira…
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/2VrLUhxK0G
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 6 — Moda e Calçados
-
-**Canal recomendado:** Moda e Calçados
-
-**Horário sugerido:** 12:00 - 15:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
-
-**Texto pronto:**
-
-```txt
-👟 Oferta para Moda e Calçados
-
-Kit Bota Masculina Caterpillar + Cinto + Carteira+ Relógio
-
-💸 De: R$ 189,16
-🔥 Por: R$ 69,99
-🏷️ 63% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/3B74Y1NwTB
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

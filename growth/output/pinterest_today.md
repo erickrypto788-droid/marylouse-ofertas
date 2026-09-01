@@ -1,6 +1,6 @@
 # Pinterest Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 01/09/2026 14:04
+Gerado em: 01/09/2026 14:22
 
 ## Como usar
 
@@ -58,7 +58,7 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
 
 **Descrição:**
 
-Veja ofertas de Casa e Cozinha selecionadas pela MaryLouse Ofertas. Destaque de hoje: Kit 4 Potes Herméticos 2L. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Veja ofertas de Casa e Cozinha selecionadas pela MaryLouse Ofertas. Destaque de hoje: Panela Elétrica Multifuncional 1.8L. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
@@ -66,7 +66,7 @@ https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=pinter
 
 **Por que postar:**
 
-Categoria com 2 oferta(s) e boa intenção de compra.
+Categoria com 3 oferta(s) e boa intenção de compra.
 
 ---
 
@@ -126,27 +126,27 @@ Categoria com 8 oferta(s) e boa intenção de compra.
 
 ---
 
-## Pin 5 — Informática
+## Pin 5 — Casa e Cozinha
 
 **Tipo:** produto_direto
 
-**Board sugerido:** Celulares e Tecnologia
+**Board sugerido:** Achadinhos de Casa
 
 **Imagem para upload no Pinterest:**
 
-https://marylouse-ofertas.vercel.app/growth/pinterest/informatica.png
+https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
 
 **Título:**
 
-69% OFF: Case Gaveta HD SSD 2.5 Sata III USB 3.0 Transparente Externo 6Gbps PC…
+66% OFF: Panela Elétrica Multifuncional 1.8L
 
 **Descrição:**
 
-Oferta destaque em Informática encontrada pela MaryLouse Ofertas. Preço: R$ 30,99. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Oferta destaque em Casa e Cozinha encontrada pela MaryLouse Ofertas. Preço: R$ 67,99. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
-https://s.shopee.com.br/6q0N30jH7Z
+https://s.shopee.com.br/70JmVz9PMm
 
 **Por que postar:**
 

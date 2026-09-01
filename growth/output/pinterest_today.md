@@ -1,6 +1,6 @@
 # Pinterest Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 01/09/2026 18:20
+Gerado em: 01/09/2026 19:03
 
 ## Como usar
 
@@ -66,7 +66,7 @@ https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=pinter
 
 **Por que postar:**
 
-Categoria com 3 oferta(s) e boa intenção de compra.
+Categoria com 2 oferta(s) e boa intenção de compra.
 
 ---
 

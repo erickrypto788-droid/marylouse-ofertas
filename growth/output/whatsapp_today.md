@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 01/09/2026 10:19
+Gerado em: 01/09/2026 11:21
 
 ## Como usar
 
@@ -162,29 +162,29 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 6 — Saúde
+## Post 6 — Moda e Calçados
 
-**Canal recomendado:** Saúde e Bem-estar
+**Canal recomendado:** Moda e Calçados
 
-**Horário sugerido:** 09:00 - 11:00
+**Horário sugerido:** 12:00 - 15:00
 
 **Imagem/card:**
 
-https://marylouse-ofertas.vercel.app/growth/pinterest/saude.png
+https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
 
 **Texto pronto:**
 
 ```txt
-❤️ Oferta para Saúde
+👟 Oferta para Moda e Calçados
 
-Monitor de Pressão Digital
+Kit Bota Masculina Caterpillar + Cinto + Carteira+ Relógio
 
-💸 De: R$ 121,84
-🔥 Por: R$ 38,99
-🏷️ 68% OFF
+💸 De: R$ 189,16
+🔥 Por: R$ 69,99
+🏷️ 63% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/4VcQbhGXpb
+Ver oferta: https://s.shopee.com.br/3B74Y1NwTB
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

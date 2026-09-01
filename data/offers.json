@@ -1,5 +1,39 @@
 [
   {
+    "id": "a0a3f63b79d1519b80",
+    "title": "Kit Furadeira Parafusadeira Impacto",
+    "raw_title": "Furadeira Parafusadeira Imp C/ Parafusadeira Imp Dlx2336syx",
+    "description": "🛠️ Potência máxima para seus projetos! Chegou o Kit Furadeira Parafusadeira Impacto Dlx2336syx! Tenha duas ferramentas essenciais para qualquer trabalho...",
+    "marketplace": "Mercado Livre",
+    "category": "Ferramentas",
+    "old_price": "",
+    "price": "R$ 1.659,50",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_720035-MLA99981479295_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23649057?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "01/09/2026 02:03",
+    "created_at_iso": "2026-09-01T02:03:19",
+    "created_ts": 1788228199
+  },
+  {
+    "id": "f0e06934f99d34edf1",
+    "title": "Combo Furadeira Parafusadeira Makita 12V",
+    "raw_title": "Combo Furadeira Parafusadeira DF333D + Parafusadeira de Impacto TD110D 12V - CLX224SAX",
+    "description": "💥 Potencialize seus projetos! Garanta já o Combo Furadeira Parafusadeira DF333D + Parafusadeira de Impacto TD110D 12V - CLX224SAX da Makita! 🛠️ Duas fer...",
+    "marketplace": "Mercado Livre",
+    "category": "Ferramentas",
+    "old_price": "",
+    "price": "R$ 1.213,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_760221-MLA99494941634_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB19765397?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "01/09/2026 02:02",
+    "created_at_iso": "2026-09-01T02:02:08",
+    "created_ts": 1788228128
+  },
+  {
     "id": "b87573a12f8a88b470",
     "title": "Capa Case Capinha Anti Impacto \\ + Película 3D Vidro Temperado Para S…",
     "raw_title": "Capa Case Capinha Anti Impacto \\ + Película 3D Vidro Temperado Para Samsung s20 s21 s22 s23 s24 s25 FE plus",
@@ -2467,26 +2501,5 @@
     "created_at": "31/08/2026 02:05",
     "created_at_iso": "2026-08-31T02:05:17",
     "created_ts": 1788141917
-  },
-  {
-    "id": "3f86f87c2d75dc8781",
-    "title": "Tênis feminino lançamento novidade leve confortável casual plataforma…",
-    "raw_title": "Tênis feminino lançamento novidade leve confortável casual plataforma top!",
-    "description": "🔥 22% OFF — Oferta encontrada! 📌 Tênis feminino lançamento novidade leve confortável casual plataforma top! Confira os detalhes e aproveite enquanto a o...",
-    "marketplace": "Shopee",
-    "category": "Roupas Femininas",
-    "old_price": "R$ 63,97",
-    "price": "R$ 49,90",
-    "discount_percent": 22.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7qukw-lfxa7no9rsam46",
-    "affiliate_url": "https://s.shopee.com.br/4LIygG7VEe",
-    "created_at": "31/08/2026 01:20",
-    "created_at_iso": "2026-08-31T01:20:22",
-    "created_ts": 1788139222,
-    "niche": {
-      "key": "shopee_roupas_femininas",
-      "name": "Roupas Femininas"
-    }
   }
 ]

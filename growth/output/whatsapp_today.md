@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 01/09/2026 20:18
+Gerado em: 01/09/2026 21:03
 
 ## Como usar
 
@@ -162,29 +162,29 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 6 — Moda Feminina
+## Post 6 — Moda e Calçados
 
-**Canal recomendado:** Moda Feminina
+**Canal recomendado:** Moda e Calçados
 
-**Horário sugerido:** 12:00 - 14:00
+**Horário sugerido:** 12:00 - 15:00
 
 **Imagem/card:**
 
-https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
+https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
 
 **Texto pronto:**
 
 ```txt
-👗 Oferta para Moda Feminina
+👟 Oferta para Moda e Calçados
 
-KIT 2 Regata Blusinha Feminina Suplex Duplo Básica Elegante Blogueira…
+Kit Bota Masculina Caterpillar + Cinto + Carteira+ Relógio
 
-💸 De: R$ 70,32
-🔥 Por: R$ 26,72
-🏷️ 62% OFF
+💸 De: R$ 189,16
+🔥 Por: R$ 69,99
+🏷️ 63% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/2VrLUhxK0G
+Ver oferta: https://s.shopee.com.br/3B74Y1NwTB
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

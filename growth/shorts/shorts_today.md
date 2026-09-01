@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 01/09/2026 22:21
+Gerado em: 01/09/2026 23:20
 
 ## Como usar
 
@@ -78,9 +78,9 @@ Gerado em: 01/09/2026 22:21
 
 **Produtos usados:**
 
+- Escova 5 em 1 Secador, Pente, Modelador, Aumenta volume Profissional…
+- GOKOCO Escova Secadora 7 Em 1 GD032 Conjunto De Secador De Cabelo Mul…
 - Kit 2 Perfumes Casal Luxo
-- Perfume Árabe Masculino Asad Bourbon Eau De Parfum 100ML
-- Kit Máquina Cabelo + Barbeador
 
 ---
 

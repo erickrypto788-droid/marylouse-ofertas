@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 01/09/2026 21:03
+Gerado em: 01/09/2026 21:21
 
 ## Como usar
 
@@ -48,13 +48,11 @@ Gerado em: 01/09/2026 21:03
 
 - growth/shorts/slides/casa_cozinha/01_intro.png
 - growth/shorts/slides/casa_cozinha/02_produto_1.png
-- growth/shorts/slides/casa_cozinha/03_produto_2.png
 - growth/shorts/slides/casa_cozinha/05_cta.png
 
 **Produtos usados:**
 
 - Panela Elétrica Multifuncional 1.8L
-- Elgin Air Fryer Fritadeira Air Fryer
 
 ---
 
@@ -101,8 +99,8 @@ Gerado em: 01/09/2026 21:03
 **Produtos usados:**
 
 - Teclado e mouse sem fio—Compatível com tablet，Notebook e celular, Rec…
+- BemTeVi Cabo Tipo C USB PD 240W Cabo de carregamento rápido para iPho…
 - Kit 2 Cartões de Memória 128GB
-- Barra de Proteína Snacks Protein Bar Flash 35g 10 Unids Bodyaction
 
 ---
 

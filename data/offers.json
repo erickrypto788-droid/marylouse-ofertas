@@ -1,5 +1,110 @@
 [
   {
+    "id": "eb2fa2d20ff9289cb8",
+    "title": "Kit Medidor de Glicose Bioland",
+    "raw_title": "Kit Medidor de Glicose Bioland G425-3 + 25 Tiras + 25 Lancetas + Bolsa CAIXA",
+    "description": "🚨 CONTROLE SUA SAÚDE! Kit Medidor de Glicose Bioland G425-3 completo, com 25 Tiras, 25 Lancetas e bolsa. Essencial para seu dia a dia! 🩺",
+    "marketplace": "Shopee",
+    "category": "Saúde",
+    "old_price": "",
+    "price": "R$ 38,49",
+    "discount_percent": 0.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbmy10gfie3mfb",
+    "affiliate_url": "https://s.shopee.com.br/LmsyS9dSm",
+    "created_at": "01/09/2026 08:21",
+    "created_at_iso": "2026-09-01T08:21:13",
+    "created_ts": 1788250873,
+    "niche": {
+      "key": "shopee_saude",
+      "name": "Saúde"
+    }
+  },
+  {
+    "id": "db2e4cc0a3fad3f6ba",
+    "title": "Tiras Medidor Glicemia Accu-Chek Guide 50 Unidades",
+    "raw_title": "Tiras Medidor Glicemia Accu Check Guide 50 Unidades Promoção",
+    "description": "🩺 Cuidado com a saúde em primeiro lugar! 🩺 Mantenha o controle da sua glicemia com as Tiras Accu-Chek Guide 50 Unidades. Qualidade e precisão para sua t...",
+    "marketplace": "Shopee",
+    "category": "Saúde",
+    "old_price": "R$ 83,01",
+    "price": "R$ 68,90",
+    "discount_percent": 17.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-me75733y134258",
+    "affiliate_url": "https://s.shopee.com.br/3g3KwZwwhc",
+    "created_at": "01/09/2026 08:19",
+    "created_at_iso": "2026-09-01T08:19:44",
+    "created_ts": 1788250784,
+    "niche": {
+      "key": "shopee_saude",
+      "name": "Saúde"
+    }
+  },
+  {
+    "id": "690cef4d827aed95b5",
+    "title": "Kit Medidor de Glicose",
+    "raw_title": "Kit de medidor de glicose: 50 lancetas + medidor de glicemia + 50 tiras de teste",
+    "description": "✨ Cuidado completo para sua saúde! Mantenha a glicemia sob controle com este kit essencial. Perfeito para quem busca praticidade e precisão no dia a dia...",
+    "marketplace": "Shopee",
+    "category": "Saúde",
+    "old_price": "R$ 119,39",
+    "price": "R$ 78,80",
+    "discount_percent": 34.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lo-moouy8ot4s1x8f",
+    "affiliate_url": "https://s.shopee.com.br/50YiX1rrzk",
+    "created_at": "01/09/2026 08:18",
+    "created_at_iso": "2026-09-01T08:18:36",
+    "created_ts": 1788250716,
+    "niche": {
+      "key": "shopee_saude",
+      "name": "Saúde"
+    }
+  },
+  {
+    "id": "02cd49c28523120035",
+    "title": "Kit Medidor Glicose G-Tech Lite",
+    "raw_title": "Kit Medidor Glicose 10 Tiras 10 Lancetas Caneta G-Tech - Lite - Lite Praticidade Rapidez Precisão",
+    "description": "🚨 Cuidado e economia para sua saúde! Kit Medidor de Glicose G-Tech Lite. Praticidade, rapidez e precisão no seu dia a dia. Chega de complicação! 🩺",
+    "marketplace": "Shopee",
+    "category": "Saúde",
+    "old_price": "R$ 100,00",
+    "price": "R$ 59,00",
+    "discount_percent": 41.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-8260q-mjhoq20od2x1b8",
+    "affiliate_url": "https://s.shopee.com.br/BTSm9AGnn",
+    "created_at": "01/09/2026 08:17",
+    "created_at_iso": "2026-09-01T08:17:12",
+    "created_ts": 1788250632,
+    "niche": {
+      "key": "shopee_saude",
+      "name": "Saúde"
+    }
+  },
+  {
+    "id": "2320b004aa1d5bba70",
+    "title": "Monitor de Pressão Digital",
+    "raw_title": "Monitor digital de pressão arterial de braço totalmente automático anjgg",
+    "description": "🚨 Cuide da sua saúde com precisão! Tenha o controle da sua pressão arterial em casa com este Monitor Digital de Braço totalmente automático. Praticidade...",
+    "marketplace": "Shopee",
+    "category": "Saúde",
+    "old_price": "R$ 121,84",
+    "price": "R$ 38,99",
+    "discount_percent": 68.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-81zte-mmiy7u0wlgqw8c",
+    "affiliate_url": "https://s.shopee.com.br/4VcQbhGXpb",
+    "created_at": "01/09/2026 08:16",
+    "created_at_iso": "2026-09-01T08:16:02",
+    "created_ts": 1788250562,
+    "niche": {
+      "key": "shopee_saude",
+      "name": "Saúde"
+    }
+  },
+  {
     "id": "04240bdf4f84281f11",
     "title": "Comedouro Automático Inteligente para Cães e Gatos 4L",
     "raw_title": "Comedouro Automático 4L Cães e Gatos APP WIFI Bluetooth APP Alimentador Inteligente Comedouro Automático Pet",
@@ -2369,85 +2474,5 @@
     "created_at": "31/08/2026 09:01",
     "created_at_iso": "2026-08-31T09:01:50",
     "created_ts": 1788166910
-  },
-  {
-    "id": "ac627dceb25b45a86f",
-    "title": "Protetor Solar Facial FPS 60 Sunless",
-    "raw_title": "Protetor Solar Facial FPS 60 Antioleosidade com Base Efeito Matte Sunless 40g Envio Imediato",
-    "description": "☀️ Proteção máxima com pele sequinha! Chega de oleosidade! O Protetor Solar Facial FPS 60 Sunless tem base e efeito matte, perfeito para o dia a dia. Pr...",
-    "marketplace": "Shopee",
-    "category": "Beleza",
-    "old_price": "R$ 49,62",
-    "price": "R$ 27,79",
-    "discount_percent": 44.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-821do-mgpx2ntisd8t6a",
-    "affiliate_url": "https://s.shopee.com.br/1gIEy0ZK3M",
-    "created_at": "31/08/2026 08:18",
-    "created_at_iso": "2026-08-31T08:18:27",
-    "created_ts": 1788164307,
-    "niche": {
-      "key": "shopee_beleza",
-      "name": "Beleza"
-    }
-  },
-  {
-    "id": "a92860fe347870b452",
-    "title": "Kit Clareador Facial Completo",
-    "raw_title": "Kit Clareador Facial - Sabonete Líquido + Protetor Solar Clareador 70 FPS + Sérum Multicorretivo Clareador",
-    "description": "✨ TRANSFORME SUA PELE AGORA! ✨ Conquiste uma pele radiante e uniforme com o Kit Clareador Facial completo! 💖 Este kit incrível inclui:",
-    "marketplace": "Shopee",
-    "category": "Beleza",
-    "old_price": "R$ 157,80",
-    "price": "R$ 78,90",
-    "discount_percent": 50.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-825ad-mqxdc5tl1b7qcb",
-    "affiliate_url": "https://s.shopee.com.br/4AzXQ24qVT",
-    "created_at": "31/08/2026 08:16",
-    "created_at_iso": "2026-08-31T08:16:51",
-    "created_ts": 1788164211,
-    "niche": {
-      "key": "shopee_beleza",
-      "name": "Beleza"
-    }
-  },
-  {
-    "id": "b2849a5ebf3e22dc95",
-    "title": "Chapinha Profissional Nano Titanium",
-    "raw_title": "Chapinha Prancha Cabelo Profissional Nano Titanium 450F BIVOLT",
-    "description": "Cabelos impecáveis com preço INCRÍVEL! ✨ Não perca essa chance de ter a Chapinha Prancha Profissional Nano Titanium 450F BIVOLT, a queridinha dos salões...",
-    "marketplace": "Shopee",
-    "category": "Beleza",
-    "old_price": "R$ 90,59",
-    "price": "R$ 28,99",
-    "discount_percent": 68.0,
-    "rating": 4.6,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-824iy-mfiwdimgg3yi4e",
-    "affiliate_url": "https://s.shopee.com.br/80CHFMRMnc",
-    "created_at": "31/08/2026 08:15",
-    "created_at_iso": "2026-08-31T08:15:43",
-    "created_ts": 1788164143,
-    "niche": {
-      "key": "shopee_beleza",
-      "name": "Beleza"
-    }
-  },
-  {
-    "id": "ac6173c92e2456e059",
-    "title": "Fritadeira Air Fryer Mondial Oven Digital 127v",
-    "raw_title": "Fritadeira Air Fryer Mondial Oven Digital 127v",
-    "description": "🔥 Oferta encontrada! 📌 Fritadeira Air Fryer Mondial Oven Digital 127v Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Mercado Livre",
-    "category": "Casa e Cozinha",
-    "old_price": "",
-    "price": "R$ 1.800,00",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_648444-MLA100045466525_122025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB54083722?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "31/08/2026 08:02",
-    "created_at_iso": "2026-08-31T08:02:04",
-    "created_ts": 1788163324
   }
 ]

@@ -1,5 +1,39 @@
 [
   {
+    "id": "5470bfa2d0d04edea6",
+    "title": "Kit Máquina Cabelo + Barbeador",
+    "raw_title": "Kit Maquina Cortar Cabelo + Maquina Barbeador Recarregavel",
+    "description": "🚨 Chega de gastar no barbeiro! 🚨 Tenha um corte profissional e barba feita em casa com o Kit Máquina de Cortar Cabelo + Barbeador Recarregável! 💇‍♂️✨ ✅...",
+    "marketplace": "Mercado Livre",
+    "category": "Beleza",
+    "old_price": "",
+    "price": "R$ 169,90",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_702346-MLU77151490548_072024-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20624919?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "01/09/2026 00:02",
+    "created_at_iso": "2026-09-01T00:02:39",
+    "created_ts": 1788220959
+  },
+  {
+    "id": "58dd301a7f4a130af4",
+    "title": "Chapinha Profissional Titanium",
+    "raw_title": "Chapinha Cabelo Profissional 450f Slim Bivolt, Titanium",
+    "description": "Liso impecável e profissional em minutos! ✨ Transforme seu visual com a Chapinha Cabelo Profissional 450f Slim Bivolt, Titanium. Perfeita para todos os...",
+    "marketplace": "Mercado Livre",
+    "category": "Beleza",
+    "old_price": "",
+    "price": "R$ 139,98",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_918345-MLA112463875688_062026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74370100?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "01/09/2026 00:01",
+    "created_at_iso": "2026-09-01T00:01:26",
+    "created_ts": 1788220886
+  },
+  {
     "id": "d1e71f9f90d0751771",
     "title": "Tênis Sapatênis Masculino Casual",
     "raw_title": "Tênis Sapatênis Masculino Casual Trabalho Social Dia a Dia Jaca Qualidade",
@@ -2521,106 +2555,5 @@
     "created_at": "31/08/2026 00:03",
     "created_at_iso": "2026-08-31T00:03:47",
     "created_ts": 1788134627
-  },
-  {
-    "id": "ee6fb6399a4ed2ff80",
-    "title": "Impressora de Etiquetas USB",
-    "raw_title": "Impressora Etiquetas Logistica Código De Barras Usb",
-    "description": "📦 Otimize sua logística AGORA! A Impressora Etiquetas Logistica Código De Barras Usb está com uma oferta imperdível para impulsionar seu negócio! 🚀 🚚 Fr...",
-    "marketplace": "Mercado Livre",
-    "category": "Informática",
-    "old_price": "R$ 688,00",
-    "price": "R$ 565,00",
-    "discount_percent": 18.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_862523-MLA99458044630_112025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39019401?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "31/08/2026 00:02",
-    "created_at_iso": "2026-08-31T00:02:29",
-    "created_ts": 1788134549
-  },
-  {
-    "id": "04eaa9af8e568ebdc4",
-    "title": "Chaleira Elétrica Jarra Café Chá Inox 110v",
-    "raw_title": "Chaleira Elétrica Jarra Café Chá Inox 110v",
-    "description": "🔥 37% OFF — Oferta encontrada! 📌 Chaleira Elétrica Jarra Café Chá Inox 110v Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
-    "old_price": "R$ 71,27",
-    "price": "R$ 44,90",
-    "discount_percent": 37.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m9-mr7oweocldl204",
-    "affiliate_url": "https://s.shopee.com.br/112WJPAQBR",
-    "created_at": "30/08/2026 23:20",
-    "created_at_iso": "2026-08-30T23:20:03",
-    "created_ts": 1788132003,
-    "niche": {
-      "key": "shopee_bebidas_alimentos",
-      "name": "Bebidas e Alimentos"
-    }
-  },
-  {
-    "id": "70c96c5240cfe35181",
-    "title": "Garrafa 800ml/1000ml Inox Térmica Com Infusor Prata Dourada De Água C…",
-    "raw_title": "Garrafa 800ml/1000ml Inox Térmica Com Infusor Prata Dourada De Água Café Parede Dupla Com Alça-Para envio imediato",
-    "description": "🔥 66% OFF — Oferta encontrada! 📌 Garrafa 800ml/1000ml Inox Térmica Com Infusor Prata Dourada De Água Café Parede Dupla Com Alça-Para envio imediato Conf...",
-    "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
-    "old_price": "R$ 96,44",
-    "price": "R$ 32,79",
-    "discount_percent": 66.0,
-    "rating": 4.7,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-824hi-meiay4l437d37e",
-    "affiliate_url": "https://s.shopee.com.br/3g3HUJ0GmD",
-    "created_at": "30/08/2026 23:18",
-    "created_at_iso": "2026-08-30T23:18:59",
-    "created_ts": 1788131939,
-    "niche": {
-      "key": "shopee_bebidas_alimentos",
-      "name": "Bebidas e Alimentos"
-    }
-  },
-  {
-    "id": "6f396a61a663686001",
-    "title": "Filtro De Café 103 Inox - Coador de Café Grande Sem Uso De Papel - Ma…",
-    "raw_title": "Filtro De Café 103 Inox - Coador de Café Grande Sem Uso De Papel - Mazzal atacado",
-    "description": "🔥 71% OFF — Oferta encontrada! 📌 Filtro De Café 103 Inox - Coador de Café Grande Sem Uso De Papel - Mazzal atacado Confira os detalhes e aproveite enqua...",
-    "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
-    "old_price": "R$ 72,34",
-    "price": "R$ 20,98",
-    "discount_percent": 71.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7rdyd-m1h4z2rsedhl2f",
-    "affiliate_url": "https://s.shopee.com.br/50Yf4kvC4L",
-    "created_at": "30/08/2026 23:17",
-    "created_at_iso": "2026-08-30T23:17:56",
-    "created_ts": 1788131876,
-    "niche": {
-      "key": "shopee_bebidas_alimentos",
-      "name": "Bebidas e Alimentos"
-    }
-  },
-  {
-    "id": "715deeb97f46ba9208",
-    "title": "Hibisco + Cavalinha Diurético",
-    "raw_title": "Hibisco + Cavalinha Suplemento Diurético Retenção de Líquido e Queima de Gordura",
-    "description": "🔥 50% OFF! Diga adeus ao inchaço e acelere a queima! O combo perfeito de Hibisco + Cavalinha para um efeito diurético potente, combatendo a retenção de...",
-    "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
-    "old_price": "R$ 49,80",
-    "price": "R$ 24,90",
-    "discount_percent": 50.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lq-mou59qxsg000eb",
-    "affiliate_url": "https://s.shopee.com.br/4qFG8kAP2b",
-    "created_at": "30/08/2026 23:16",
-    "created_at_iso": "2026-08-30T23:16:52",
-    "created_ts": 1788131812,
-    "niche": {
-      "key": "shopee_bebidas_alimentos",
-      "name": "Bebidas e Alimentos"
-    }
   }
 ]

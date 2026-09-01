@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 01/09/2026 00:04
+Gerado em: 01/09/2026 00:19
 
 ## Como usar
 
@@ -42,7 +42,37 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 2 — Mamãe e Bebê
+## Post 2 — Ofertas Pet
+
+**Canal recomendado:** Ofertas Pet
+
+**Horário sugerido:** 17:00 - 20:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
+
+**Texto pronto:**
+
+```txt
+🐶 Oferta para Ofertas Pet
+
+Papete feminina Pérolas de strass de luxo sandália diferente feminina…
+
+💸 De: R$ 197,37
+🔥 Por: R$ 75,00
+🏷️ 62% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/8AVjlsn8Tq
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 3 — Mamãe e Bebê
 
 **Canal recomendado:** Mamãe e Bebê
 
@@ -65,36 +95,6 @@ Boneca Lola Baby Com Chupeta Rosa Menina Brinquedo Infantil Bebê
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/1gIFAMu10O
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 3 — Ofertas Pet
-
-**Canal recomendado:** Ofertas Pet
-
-**Horário sugerido:** 17:00 - 20:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
-
-**Texto pronto:**
-
-```txt
-🐶 Oferta para Ofertas Pet
-
-Repetidor WiFi 1200m 6 Antenas
-
-💸 De: R$ 118,16
-🔥 Por: R$ 51,99
-🏷️ 56% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/8AVi2kmSui
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

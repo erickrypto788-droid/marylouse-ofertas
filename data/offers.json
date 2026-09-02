@@ -1,5 +1,39 @@
 [
   {
+    "id": "3e9622f2e9e638cff8",
+    "title": "Conjunto de Panelas Antiaderente 5pc Panelux",
+    "raw_title": "Conjunto De Panelas Antiaderente 5pc Grafite - Panelux",
+    "description": "🍳 Sua cozinha merece o melhor! Transforme suas refeições com o Conjunto De Panelas Antiaderente 5pc Grafite da Panelux. Praticidade e qualidade em um só...",
+    "marketplace": "Mercado Livre",
+    "category": "Casa e Cozinha",
+    "old_price": "",
+    "price": "R$ 192,06",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_970918-MLA95661559632_102025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB33380670?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "02/09/2026 07:03",
+    "created_at_iso": "2026-09-02T07:03:10",
+    "created_ts": 1788332590
+  },
+  {
+    "id": "f4ce6e4e4365b59c60",
+    "title": "Jogo Panelas Tramontina Coimbra 5pçs",
+    "raw_title": "Jogo Panelas Tramontina Coimbra 5pçs Preto Antiaderente",
+    "description": "✨ Cozinha renovada e prática! Garanta já o seu Jogo de Panelas Tramontina Coimbra 5pçs Preto Antiaderente e transforme suas refeições! Qualidade e durab...",
+    "marketplace": "Mercado Livre",
+    "category": "Casa e Cozinha",
+    "old_price": "",
+    "price": "R$ 213,89",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_737133-MLA95400026102_102025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39387638?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "02/09/2026 07:02",
+    "created_at_iso": "2026-09-02T07:02:01",
+    "created_ts": 1788332521
+  },
+  {
     "id": "bc38456fa3e444997d",
     "title": "Capa Para Notebook Stand Macia De Couro PU Macbook Air Pro 13,3 e 15-…",
     "raw_title": "Capa Para Notebook Stand Macia De Couro PU Macbook Air Pro 13,3 e 15-16,2 Polegadas Bolsa",
@@ -2452,48 +2486,6 @@
     "niche": {
       "key": "shopee_brinquedos_hobbies",
       "name": "Brinquedos e Hobbies"
-    }
-  },
-  {
-    "id": "ea892870c5ca429bd5",
-    "title": "WHEY 900g O MAIS GOSTOSO DO BRASIL- DIVERSOS SABORES",
-    "raw_title": "WHEY 900g O MAIS GOSTOSO DO BRASIL- DIVERSOS SABORES",
-    "description": "🔥 56% OFF — Oferta encontrada! 📌 WHEY 900g O MAIS GOSTOSO DO BRASIL- DIVERSOS SABORES Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Shopee",
-    "category": "Esportes e Lazer",
-    "old_price": "R$ 108,84",
-    "price": "R$ 47,89",
-    "discount_percent": 56.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820l5-mruyz495o0zr9e",
-    "affiliate_url": "https://s.shopee.com.br/9fKXxMQw3w",
-    "created_at": "01/09/2026 06:19",
-    "created_at_iso": "2026-09-01T06:19:58",
-    "created_ts": 1788243598,
-    "niche": {
-      "key": "shopee_esportes_lazer",
-      "name": "Esportes e Lazer"
-    }
-  },
-  {
-    "id": "c3ce855d44b9e41311",
-    "title": "Kit Creatina Monohidratada + Pré Treino Evolution 300g Aminoácidos E…",
-    "raw_title": "Kit Creatina Monohidratada + Pré Treino Evolution 300g Aminoácidos Essenciais - Soldiers Nutrition",
-    "description": "🔥 53% OFF — Oferta encontrada! 📌 Kit Creatina Monohidratada + Pré Treino Evolution 300g Aminoácidos Essenciais - Soldiers Nutrition Confira os detalhes...",
-    "marketplace": "Shopee",
-    "category": "Esportes e Lazer",
-    "old_price": "R$ 148,72",
-    "price": "R$ 69,90",
-    "discount_percent": 53.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-825bd-mseh9ytoqo0178",
-    "affiliate_url": "https://s.shopee.com.br/8AVkAbauLa",
-    "created_at": "01/09/2026 06:18",
-    "created_at_iso": "2026-09-01T06:18:54",
-    "created_ts": 1788243534,
-    "niche": {
-      "key": "shopee_esportes_lazer",
-      "name": "Esportes e Lazer"
     }
   }
 ]

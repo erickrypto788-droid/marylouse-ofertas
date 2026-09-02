@@ -1,5 +1,22 @@
 [
   {
+    "id": "aaad7cbe4ad946fa9a",
+    "title": "SSD Nvme Asgard AN4 1tb Gen4",
+    "raw_title": "SSD Nvme Asgard AN4 1tb Gen4",
+    "description": "🔥 Oferta encontrada! 📌 SSD Nvme Asgard AN4 1tb Gen4 Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "",
+    "price": "R$ 1.449,90",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_638062-MLA99489879142_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24522367?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "02/09/2026 13:01",
+    "created_at_iso": "2026-09-02T13:01:28",
+    "created_ts": 1788354088
+  },
+  {
     "id": "1c21bd61ba36e7ccd6",
     "title": "Calça Jeans Masculina Lycra Premium Slim Casual Elegante para o Dia a…",
     "raw_title": "Calça Jeans Masculina Lycra Premium Slim Casual Elegante para o Dia a Dia",
@@ -2374,26 +2391,5 @@
     "created_at": "01/09/2026 13:02",
     "created_at_iso": "2026-09-01T13:02:06",
     "created_ts": 1788267726
-  },
-  {
-    "id": "c05b8dcefef8927ab1",
-    "title": "Dominó Profissional de Osso",
-    "raw_title": "Dominó Profissional De Osso Estojo Com 28 Peças Dominó Estojo",
-    "description": "🎉 Diversão garantida com essa OFERTA IMPERDÍVEL! 🎉 Dominó Profissional De Osso com Estojo e 28 Peças! Perfeito para reunir a galera e garantir horas de...",
-    "marketplace": "Shopee",
-    "category": "Papelaria",
-    "old_price": "R$ 45,41",
-    "price": "R$ 19,98",
-    "discount_percent": 56.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7rdy6-lymrx82igdka26",
-    "affiliate_url": "https://s.shopee.com.br/7fZSe09Yo3",
-    "created_at": "01/09/2026 12:20",
-    "created_at_iso": "2026-09-01T12:20:30",
-    "created_ts": 1788265230,
-    "niche": {
-      "key": "shopee_papelaria",
-      "name": "Papelaria"
-    }
   }
 ]

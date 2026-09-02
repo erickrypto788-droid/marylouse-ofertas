@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 02/09/2026 23:05
+Gerado em: 02/09/2026 23:21
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 02/09/2026 23:05
 
 **Produtos usados:**
 
+- Kit Pano de Boca 12 unidades 30x30cm 100%algodao
 - Berço Portátil de Bebê Dobrável Balanço Moisés com Colchão Mosquiteir…
-- Kit 3 Fraldas Pampers Supersequinha
-- Kit Porta Leite em Pó + Colher
+- Fralda Descartável Pampers Supersequinha Jumbo M 90 Tiras
 
 ---
 
@@ -78,9 +78,9 @@ Gerado em: 02/09/2026 23:05
 
 **Produtos usados:**
 
-- Escova 5 em 1 Secador, Pente, Modelador, Aumenta volume Profissional…
 - Secador de Cabelo Profissional 3200w 110v
 - Perfume Grace Midnight Hinode 100ml
+- Perfume Feminino Olympia
 
 ---
 

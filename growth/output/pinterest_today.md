@@ -1,6 +1,6 @@
 # Pinterest Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 02/09/2026 23:05
+Gerado em: 02/09/2026 23:21
 
 ## Como usar
 
@@ -30,7 +30,7 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
 
 **Descrição:**
 
-Veja ofertas de Mãe e Bebê selecionadas pela MaryLouse Ofertas. Destaque de hoje: Kit 3 Fraldas Pampers Supersequinha. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Veja ofertas de Mãe e Bebê selecionadas pela MaryLouse Ofertas. Destaque de hoje: Fralda Descartável Pampers Supersequinha Jumbo M 90 Tiras. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
@@ -38,7 +38,7 @@ https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=pinterest&
 
 **Por que postar:**
 
-Categoria com 12 oferta(s) e boa intenção de compra.
+Categoria com 17 oferta(s) e boa intenção de compra.
 
 ---
 
@@ -86,7 +86,7 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
 
 **Descrição:**
 
-Veja ofertas de Beleza selecionadas pela MaryLouse Ofertas. Destaque de hoje: Escova 5 em 1 Secador, Pente, Modelador, Aumenta volume Profissional…. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Veja ofertas de Beleza selecionadas pela MaryLouse Ofertas. Destaque de hoje: Secador de Cabelo Profissional 3200w 110v. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
@@ -94,7 +94,7 @@ https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=pinterest&ut
 
 **Por que postar:**
 
-Categoria com 12 oferta(s) e boa intenção de compra.
+Categoria com 8 oferta(s) e boa intenção de compra.
 
 ---
 
@@ -138,18 +138,18 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
 
 **Título:**
 
-61% OFF: Escova 5 em 1 Secador, Pente, Modelador, Aumenta volume Profissional…
+50% OFF: Secador de Cabelo Profissional 3200w 110v
 
 **Descrição:**
 
-Oferta destaque em Beleza encontrada pela MaryLouse Ofertas. Preço: R$ 58,99. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Oferta destaque em Beleza encontrada pela MaryLouse Ofertas. Preço: R$ 49,99. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
-https://s.shopee.com.br/1BM0xmgyaP
+https://s.shopee.com.br/1A4pvmejO
 
 **Por que postar:**
 
-Produto com bom score orgânico (100) e link direto afiliado.
+Produto com bom score orgânico (90) e link direto afiliado.
 
 ---

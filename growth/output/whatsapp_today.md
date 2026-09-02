@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 02/09/2026 23:05
+Gerado em: 02/09/2026 23:21
 
 ## Como usar
 
@@ -27,14 +27,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
 ```txt
 💄 Oferta para Beleza e Cuidados
 
-Escova 5 em 1 Secador, Pente, Modelador, Aumenta volume Profissional…
+Secador de Cabelo Profissional 3200w 110v
 
-💸 De: R$ 151,26
-🔥 Por: R$ 58,99
-🏷️ 61% OFF
+💸 De: R$ 99,98
+🔥 Por: R$ 49,99
+🏷️ 50% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/1BM0xmgyaP
+Ver oferta: https://s.shopee.com.br/1A4pvmejO
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
@@ -87,14 +87,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
 ```txt
 🍼 Oferta para Mamãe e Bebê
 
-Kit 3 Fraldas Pampers Supersequinha
+Fralda Descartável Pampers Supersequinha Jumbo M 90 Tiras
 
-💸 De: R$ 186,45
-🔥 Por: R$ 137,97
-🏷️ 26% OFF
+💸 De: R$ 145,57
+🔥 Por: R$ 98,99
+🏷️ 32% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/2LXygXF3gf
+Ver oferta: https://s.shopee.com.br/5foRuwqXtL
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

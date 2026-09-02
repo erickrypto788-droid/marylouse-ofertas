@@ -1,5 +1,68 @@
 [
   {
+    "id": "bead81bf52f100b682",
+    "title": "Medidor de Glicose Medisign GH83",
+    "raw_title": "Aparelho Medidor de Glicose GH83 Medisign Glicemia Diabetes",
+    "description": "✨ Controle sua glicemia com facilidade! Tenha mais tranquilidade no seu dia a dia com o Aparelho Medidor de Glicose GH83 Medisign. Praticidade e precisã...",
+    "marketplace": "Shopee",
+    "category": "Saúde",
+    "old_price": "R$ 58,68",
+    "price": "R$ 53,99",
+    "discount_percent": 8.0,
+    "rating": 5.0,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-824h7-mpy9g96f318ubb",
+    "affiliate_url": "https://s.shopee.com.br/AKaHPPEf8x",
+    "created_at": "02/09/2026 22:17",
+    "created_at_iso": "2026-09-02T22:17:54",
+    "created_ts": 1788387474,
+    "niche": {
+      "key": "shopee_saude",
+      "name": "Saúde"
+    }
+  },
+  {
+    "id": "76fef9565116f328b1",
+    "title": "Relógio De Parede Led Digital Grande Termômetro Recepção",
+    "raw_title": "Relógio De Parede Led Digital Grande Termômetro Recepção",
+    "description": "🔥 24% OFF — Oferta encontrada! 📌 Relógio De Parede Led Digital Grande Termômetro Recepção Confira os detalhes e aproveite enquanto a oferta estiver disp...",
+    "marketplace": "Shopee",
+    "category": "Saúde",
+    "old_price": "R$ 90,00",
+    "price": "R$ 68,40",
+    "discount_percent": 24.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7rfic-m9xz1ua16srw93",
+    "affiliate_url": "https://s.shopee.com.br/4fvuezIhnE",
+    "created_at": "02/09/2026 22:16",
+    "created_at_iso": "2026-09-02T22:16:44",
+    "created_ts": 1788387404,
+    "niche": {
+      "key": "shopee_saude",
+      "name": "Saúde"
+    }
+  },
+  {
+    "id": "0898aefbad96c7fbae",
+    "title": "Termômetro Industrial Digital Infravermelho Cozinha Laser Medição Tem…",
+    "raw_title": "Termômetro Industrial Digital Infravermelho Cozinha Laser Medição Temperatura Industrial -55º- 400ºc",
+    "description": "🔥 36% OFF — Oferta encontrada! 📌 Termômetro Industrial Digital Infravermelho Cozinha Laser Medição Temperatura Industrial -55º- 400ºc Confira os detalhe...",
+    "marketplace": "Shopee",
+    "category": "Saúde",
+    "old_price": "R$ 70,30",
+    "price": "R$ 44,99",
+    "discount_percent": 36.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi4bhw6sehhff5",
+    "affiliate_url": "https://s.shopee.com.br/4VcUSgJL8J",
+    "created_at": "02/09/2026 22:15",
+    "created_at_iso": "2026-09-02T22:15:40",
+    "created_ts": 1788387340,
+    "niche": {
+      "key": "shopee_saude",
+      "name": "Saúde"
+    }
+  },
+  {
     "id": "746f7178d06cd2b906",
     "title": "Hidratante Corporal Pessego",
     "raw_title": "Hidratante Corporal Pessego",
@@ -2415,69 +2478,6 @@
     "created_at": "01/09/2026 22:18",
     "created_at_iso": "2026-09-01T22:18:51",
     "created_ts": 1788301131,
-    "niche": {
-      "key": "shopee_eletrodomesticos",
-      "name": "Eletrodomésticos"
-    }
-  },
-  {
-    "id": "b180b6241eb46c587e",
-    "title": "Panela De Pressão Fechamento Externo Antiaderente 4,5L Nacional",
-    "raw_title": "Panela De Pressão Fechamento Externo Antiaderente 4,5L Nacional",
-    "description": "🔥 20% OFF — Oferta encontrada! 📌 Panela De Pressão Fechamento Externo Antiaderente 4,5L Nacional Confira os detalhes e aproveite enquanto a oferta estiv...",
-    "marketplace": "Shopee",
-    "category": "Eletrodomésticos",
-    "old_price": "R$ 186,25",
-    "price": "R$ 149,00",
-    "discount_percent": 20.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820le-mo9nab0ho2klbf",
-    "affiliate_url": "https://s.shopee.com.br/AAGoHnxLwF",
-    "created_at": "01/09/2026 22:17",
-    "created_at_iso": "2026-09-01T22:17:47",
-    "created_ts": 1788301067,
-    "niche": {
-      "key": "shopee_eletrodomesticos",
-      "name": "Eletrodomésticos"
-    }
-  },
-  {
-    "id": "c9292f274df91202c3",
-    "title": "Panela de Pressao Polida Fortlar -A- LAM - Escolha o Tamanho",
-    "raw_title": "Panela de Pressao Polida Fortlar -A- LAM - Escolha o Tamanho",
-    "description": "🔥 34% OFF — Oferta encontrada! 📌 Panela de Pressao Polida Fortlar -A- LAM - Escolha o Tamanho Confira os detalhes e aproveite enquanto a oferta estiver...",
-    "marketplace": "Shopee",
-    "category": "Eletrodomésticos",
-    "old_price": "R$ 78,18",
-    "price": "R$ 51,60",
-    "discount_percent": 34.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7w89evfnc3552",
-    "affiliate_url": "https://s.shopee.com.br/9AOH5y19y9",
-    "created_at": "01/09/2026 22:16",
-    "created_at_iso": "2026-09-01T22:16:43",
-    "created_ts": 1788301003,
-    "niche": {
-      "key": "shopee_eletrodomesticos",
-      "name": "Eletrodomésticos"
-    }
-  },
-  {
-    "id": "c474b290f26b650a2e",
-    "title": "MINI Refrigerador De Ar Ventilador Umidificador Dupla Giratório+rgb C…",
-    "raw_title": "MINI Refrigerador De Ar Ventilador Umidificador Dupla Giratório+rgb Camada Ventilador Climatizador Ar C/ Reservatório",
-    "description": "🔥 68% OFF — Oferta encontrada! 📌 MINI Refrigerador De Ar Ventilador Umidificador Dupla Giratório+rgb Camada Ventilador Climatizador Ar C/ Reservatório C...",
-    "marketplace": "Shopee",
-    "category": "Eletrodomésticos",
-    "old_price": "R$ 187,41",
-    "price": "R$ 59,97",
-    "discount_percent": 68.0,
-    "rating": 4.6,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-81zue-mizz3df604cj39",
-    "affiliate_url": "https://s.shopee.com.br/4LJ2fU6Ku3",
-    "created_at": "01/09/2026 22:15",
-    "created_at_iso": "2026-09-01T22:15:39",
-    "created_ts": 1788300939,
     "niche": {
       "key": "shopee_eletrodomesticos",
       "name": "Eletrodomésticos"

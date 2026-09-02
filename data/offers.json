@@ -1,5 +1,22 @@
 [
   {
+    "id": "58f0185f21e6851e68",
+    "title": "Perfume Feminino Olympia",
+    "raw_title": "Perfume Feminino Olympia",
+    "description": "✨ IMPERDÍVEL! Perfume Feminino Olympia com 50% OFF! ✨ Sinta-se poderosa e envolvente com essa fragrância icônica. Uma oferta que você não pode perder pa...",
+    "marketplace": "Mercado Livre",
+    "category": "Beleza",
+    "old_price": "R$ 368,00",
+    "price": "R$ 184,00",
+    "discount_percent": 50.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_637919-MLA116003089439_082026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77039877?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "02/09/2026 10:01",
+    "created_at_iso": "2026-09-02T10:01:24",
+    "created_ts": 1788343284
+  },
+  {
     "id": "5802d9eef39e482077",
     "title": "Gelatina Chocolate Kids Super Brilhante 550g",
     "raw_title": "Gelatina Chocolate Kids Super Brilhante 550g",
@@ -2466,27 +2483,6 @@
     "niche": {
       "key": "shopee_bolsas_femininas",
       "name": "Bolsas Femininas"
-    }
-  },
-  {
-    "id": "d4389b27ab56b1ba83",
-    "title": "Kit Mamadeira Buba Anticólica",
-    "raw_title": "Kit 2 Mamadeira Infantil Buba 120ml 270ml Anticólica Bpa free",
-    "description": "✨ Conforto e segurança para seu bebê! ✨ Chega de cólicas! 👶 Garanta o Kit 2 Mamadeiras Infantis Buba Anticólica, livres de BPA. Perfeito para o dia a di...",
-    "marketplace": "Shopee",
-    "category": "Mãe e Bebê",
-    "old_price": "",
-    "price": "R$ 54,90",
-    "discount_percent": 0.0,
-    "rating": 5.0,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc274u8tytadf7",
-    "affiliate_url": "https://s.shopee.com.br/2BEXDw0qLS",
-    "created_at": "01/09/2026 09:21",
-    "created_at_iso": "2026-09-01T09:21:12",
-    "created_ts": 1788254472,
-    "niche": {
-      "key": "shopee_mae_bebe",
-      "name": "Mãe e Bebê"
     }
   }
 ]

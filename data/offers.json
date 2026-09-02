@@ -1,5 +1,22 @@
 [
   {
+    "id": "70e5ea4237522ca10f",
+    "title": "Ração Premier Pet Vitta Natural Ração Cachorro Adulto 15k",
+    "raw_title": "Ração Premier Pet Vitta Natural Ração Cachorro Adulto 15k",
+    "description": "🔥 Oferta encontrada! 📌 Ração Premier Pet Vitta Natural Ração Cachorro Adulto 15k Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Pet",
+    "old_price": "",
+    "price": "R$ 131,99",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_694880-MLA99934866983_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB32106098?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "02/09/2026 18:01",
+    "created_at_iso": "2026-09-02T18:01:39",
+    "created_ts": 1788372099
+  },
+  {
     "id": "4e33389dad0776b329",
     "title": "Espremedor Mondial Premium",
     "raw_title": "Espremedor de Frutas Premium E02 30W Mondial",
@@ -2331,27 +2348,6 @@
     "niche": {
       "key": "shopee_roupas_plus_size",
       "name": "Roupas Plus Size"
-    }
-  },
-  {
-    "id": "042e1c7d2ac4f941ea",
-    "title": "Kit 3 Camisetas Básicas Masculina Slim Algodão",
-    "raw_title": "Kit 3 Camisetas Básicas Masculina Slim Algodão",
-    "description": "🔥 27% OFF — Oferta encontrada! 📌 Kit 3 Camisetas Básicas Masculina Slim Algodão Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Shopee",
-    "category": "Roupas Masculinas",
-    "old_price": "R$ 89,90",
-    "price": "R$ 65,63",
-    "discount_percent": 27.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-8262o-mm2pcrwmi8770b",
-    "affiliate_url": "https://s.shopee.com.br/7fZSyazkvF",
-    "created_at": "01/09/2026 17:20",
-    "created_at_iso": "2026-09-01T17:20:03",
-    "created_ts": 1788283203,
-    "niche": {
-      "key": "shopee_roupas_masculinas",
-      "name": "Roupas Masculinas"
     }
   }
 ]

@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 02/09/2026 09:03
+Gerado em: 02/09/2026 09:22
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 02/09/2026 09:03
 
 **Produtos usados:**
 
-- Kit 10 Fraldas de Pano Minasrey
 - Berço Portátil de Bebê Dobrável Balanço Moisés com Colchão Mosquiteir…
 - Kit 3 Fraldas Pampers Supersequinha
+- Kit Porta Leite em Pó + Colher
 
 ---
 
@@ -55,8 +55,8 @@ Gerado em: 02/09/2026 09:03
 **Produtos usados:**
 
 - Panela Elétrica Multifuncional 1.8L
+- Panela Elétrica Britânia 2L
 - Panela De Pressão Fechamento Externo Antiaderente 4,5L Nacional
-- Panela de Pressao Polida Fortlar -A- LAM - Escolha o Tamanho
 
 ---
 

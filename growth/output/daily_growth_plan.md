@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 02/09/2026 02:22
+Gerado em: 02/09/2026 03:20
 
 ## Categorias prioritárias
 
 - 🍼 **Mãe e Bebê**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- ❤️ **Saúde**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 🏋️ **Esportes**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 💄 **Beleza**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 🧸 **Brinquedos**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 🐶 **Pet**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 📦 **Outros**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
-- 💻 **Informática**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- ❤️ **Saúde**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 👟 **Calçados**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 💻 **Informática**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 
 ## Top ofertas para destacar
 
@@ -73,19 +73,19 @@ Gerado em: 02/09/2026 02:22
    - Desconto: 55% OFF
    - Link: https://s.shopee.com.br/9V16d0HczU
 
-9. **Kit 2 Perfumes Casal Luxo**
-   - Categoria: Beleza
+9. **Panela de Pressao Polida Fortlar -A- LAM - Escolha o Tamanho**
+   - Categoria: Casa e Cozinha
    - Loja: Shopee
-   - Preço: R$ 47,98
-   - Desconto: 52% OFF
-   - Link: https://s.shopee.com.br/9AOHA4mLzg
+   - Preço: R$ 51,60
+   - Desconto: 34% OFF
+   - Link: https://s.shopee.com.br/9AOH5y19y9
 
-10. **Perfume Árabe Masculino Asad Bourbon Eau De Parfum 100ML**
-   - Categoria: Beleza
+10. **SATA III 2.5 "SSD 128GB/240GB/256GB Unidade de estado sólido interna…**
+   - Categoria: Informática
    - Loja: Shopee
-   - Preço: R$ 99,97
-   - Desconto: 50% OFF
-   - Link: https://s.shopee.com.br/7KwcyhtGU5
+   - Preço: R$ 87,99
+   - Desconto: 41% OFF
+   - Link: https://s.shopee.com.br/60RG3TmRoa
 
 ## Ações gratuitas recomendadas
 

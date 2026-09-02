@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 02/09/2026 22:10
+Gerado em: 02/09/2026 22:19
 
 ## Categorias prioritárias
 
 - 💄 **Beleza**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🍼 **Mãe e Bebê**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🏋️ **Esportes**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 🍳 **Casa e Cozinha**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 🧸 **Brinquedos**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
-- 🔌 **Eletrodomésticos**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-eletrodomesticos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_eletrodomesticos
+- ❤️ **Saúde**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
+- 🍳 **Casa e Cozinha**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 🧒 **Moda Infantil**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-infantil.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-infantil
 - 👟 **Calçados**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 🔌 **Eletrodomésticos**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-eletrodomesticos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_eletrodomesticos
 - 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
-- 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 
 ## Top ofertas para destacar
 
@@ -66,26 +66,26 @@ Gerado em: 02/09/2026 22:10
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/3qMlTUhUvY
 
-8. **Panela de Pressao Polida Fortlar -A- LAM - Escolha o Tamanho**
-   - Categoria: Casa e Cozinha
-   - Loja: Shopee
-   - Preço: R$ 51,60
-   - Desconto: 34% OFF
-   - Link: https://s.shopee.com.br/9AOH5y19y9
-
-9. **Cabo 4 em 1 PD 65W**
+8. **Cabo 4 em 1 PD 65W**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 14,99
    - Desconto: 75% OFF
    - Link: https://s.shopee.com.br/2BEWgyPlN1
 
-10. **Carregador Super Rápido Turbo 125w 50w 68w 168w Fonte Tipo C para cel…**
+9. **Carregador Super Rápido Turbo 125w 50w 68w 168w Fonte Tipo C para cel…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 19,99
    - Desconto: 71% OFF
    - Link: https://s.shopee.com.br/qjAQvzKxC
+
+10. **Kit 2 Formas de Silicone para Doces e Creatina**
+   - Categoria: Casa e Cozinha
+   - Loja: Shopee
+   - Preço: R$ 22,99
+   - Desconto: 54% OFF
+   - Link: https://s.shopee.com.br/4qFJzjmBnF
 
 ## Ações gratuitas recomendadas
 

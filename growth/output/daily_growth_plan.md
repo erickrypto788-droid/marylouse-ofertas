@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 02/09/2026 13:03
+Gerado em: 02/09/2026 13:22
 
 ## Categorias prioritárias
 
-- 👗 **Moda Feminina**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 📦 **Outros**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 🍼 **Mãe e Bebê**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 👕 **Moda Masculina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
-- 💻 **Informática**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 👗 **Moda Feminina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
+- ✨ **Moda Plus Size**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
+- 💻 **Informática**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 🍳 **Casa e Cozinha**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
-- 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 💄 **Beleza**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🏋️ **Esportes**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 👟 **Calçados**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 
 ## Top ofertas para destacar
 
@@ -45,47 +45,47 @@ Gerado em: 02/09/2026 13:03
    - Desconto: 66% OFF
    - Link: https://s.shopee.com.br/70JmVz9PMm
 
-5. **Case Gaveta HD SSD 2.5 Sata III USB 3.0 Transparente Externo 6Gbps PC…**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 30,99
-   - Desconto: 69% OFF
-   - Link: https://s.shopee.com.br/6q0N30jH7Z
-
-6. **Teclado e mouse sem fio—Compatível com tablet，Notebook e celular, Rec…**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 39,69
-   - Desconto: 60% OFF
-   - Link: https://s.shopee.com.br/2qUEHelIxS
-
-7. **Panela Elétrica Britânia 2L**
+5. **Panela Elétrica Britânia 2L**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 126,90
    - Desconto: 37% OFF
    - Link: https://s.shopee.com.br/3B760fsXAt
 
-8. **Suporte Ergonômico Portátil para Notebook**
+6. **Suporte Ergonômico Portátil para Notebook**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 17,97
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/3qMlTUhUvY
 
-9. **Panela de Pressao Polida Fortlar -A- LAM - Escolha o Tamanho**
+7. **Panela de Pressao Polida Fortlar -A- LAM - Escolha o Tamanho**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 51,60
    - Desconto: 34% OFF
    - Link: https://s.shopee.com.br/9AOH5y19y9
 
-10. **SATA III 2.5 "SSD 128GB/240GB/256GB Unidade de estado sólido interna…**
+8. **Kit 2 Formas de Silicone para Doces e Creatina**
+   - Categoria: Casa e Cozinha
+   - Loja: Shopee
+   - Preço: R$ 22,99
+   - Desconto: 54% OFF
+   - Link: https://s.shopee.com.br/4qFJzjmBnF
+
+9. **Kit Porta Leite em Pó + Colher**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 26,89
+   - Desconto: 55% OFF
+   - Link: https://s.shopee.com.br/40gD0CcIgD
+
+10. **Webcam Full HD 1080p com Microfone**
    - Categoria: Informática
    - Loja: Shopee
-   - Preço: R$ 87,99
-   - Desconto: 41% OFF
-   - Link: https://s.shopee.com.br/60RG3TmRoa
+   - Preço: R$ 29,88
+   - Desconto: 57% OFF
+   - Link: https://s.shopee.com.br/1A2uSDgoY
 
 ## Ações gratuitas recomendadas
 

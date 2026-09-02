@@ -1,91 +1,91 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 02/09/2026 18:03
+Gerado em: 02/09/2026 18:22
 
 ## Categorias prioritárias
 
+- 💄 **Beleza**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🍼 **Mãe e Bebê**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 📱 **Celulares**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- ✨ **Moda Plus Size**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
 - 📦 **Outros**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 🔌 **Eletrodomésticos**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-eletrodomesticos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_eletrodomesticos
 - 🍳 **Casa e Cozinha**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 💻 **Informática**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
-- 💄 **Beleza**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 🏋️ **Esportes**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 
 ## Top ofertas para destacar
 
-1. **Perfume Feminino Olympia**
+1. **Secador de Cabelo Profissional 3200w 110v**
+   - Categoria: Beleza
+   - Loja: Shopee
+   - Preço: R$ 49,99
+   - Desconto: 50% OFF
+   - Link: https://s.shopee.com.br/1A4pvmejO
+
+2. **Perfume Grace Midnight Hinode 100ml**
+   - Categoria: Beleza
+   - Loja: Shopee
+   - Preço: R$ 84,95
+   - Desconto: 50% OFF
+   - Link: https://s.shopee.com.br/9fKaLh3C9A
+
+3. **Perfume Feminino Olympia**
    - Categoria: Beleza
    - Loja: Mercado Livre
    - Preço: R$ 184,00
    - Desconto: 50% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB77039877?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-2. **GOKOCO Escova Secadora 7 Em 1 GD032 Conjunto De Secador De Cabelo Mul…**
+4. **GOKOCO Escova Secadora 7 Em 1 GD032 Conjunto De Secador De Cabelo Mul…**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 595,00
    - Desconto: 54% OFF
    - Link: https://s.shopee.com.br/9AOIUUCWMD
 
-3. **Escova 5 em 1 Secador, Pente, Modelador, Aumenta volume Profissional…**
+5. **Escova 5 em 1 Secador, Pente, Modelador, Aumenta volume Profissional…**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 58,99
    - Desconto: 61% OFF
    - Link: https://s.shopee.com.br/1BM0xmgyaP
 
-4. **Panela Elétrica Britânia 2L**
+6. **Panela Elétrica Britânia 2L**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 126,90
    - Desconto: 37% OFF
    - Link: https://s.shopee.com.br/3B760fsXAt
 
-5. **Suporte Ergonômico Portátil para Notebook**
+7. **Suporte Ergonômico Portátil para Notebook**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 17,97
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/3qMlTUhUvY
 
-6. **Panela de Pressao Polida Fortlar -A- LAM - Escolha o Tamanho**
+8. **Panela de Pressao Polida Fortlar -A- LAM - Escolha o Tamanho**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 51,60
    - Desconto: 34% OFF
    - Link: https://s.shopee.com.br/9AOH5y19y9
 
-7. **Cabo 4 em 1 PD 65W**
+9. **Cabo 4 em 1 PD 65W**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 14,99
    - Desconto: 75% OFF
    - Link: https://s.shopee.com.br/2BEWgyPlN1
 
-8. **Carregador Super Rápido Turbo 125w 50w 68w 168w Fonte Tipo C para cel…**
+10. **Carregador Super Rápido Turbo 125w 50w 68w 168w Fonte Tipo C para cel…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 19,99
    - Desconto: 71% OFF
    - Link: https://s.shopee.com.br/qjAQvzKxC
-
-9. **Kit 2 Formas de Silicone para Doces e Creatina**
-   - Categoria: Casa e Cozinha
-   - Loja: Shopee
-   - Preço: R$ 22,99
-   - Desconto: 54% OFF
-   - Link: https://s.shopee.com.br/4qFJzjmBnF
-
-10. **Kit Porta Leite em Pó + Colher**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 26,89
-   - Desconto: 55% OFF
-   - Link: https://s.shopee.com.br/40gD0CcIgD
 
 ## Ações gratuitas recomendadas
 

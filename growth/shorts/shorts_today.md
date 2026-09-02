@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 02/09/2026 18:03
+Gerado em: 02/09/2026 18:22
 
 ## Como usar
 
@@ -79,8 +79,8 @@ Gerado em: 02/09/2026 18:03
 **Produtos usados:**
 
 - Escova 5 em 1 Secador, Pente, Modelador, Aumenta volume Profissional…
-- Perfume Feminino Olympia
-- GOKOCO Escova Secadora 7 Em 1 GD032 Conjunto De Secador De Cabelo Mul…
+- Secador de Cabelo Profissional 3200w 110v
+- Perfume Grace Midnight Hinode 100ml
 
 ---
 

@@ -1,5 +1,47 @@
 [
   {
+    "id": "1419a2c4bd47e582e9",
+    "title": "Sapatenis Masculino Star Fox",
+    "raw_title": "Sapatenis Masculino Star Fox Ziper e Cadarço Calce Casual A1",
+    "description": "🔥 IMPERDÍVEL! Sapatenis Masculino Star Fox! 👟 Com zíper e cadarço, este calçado casual é perfeito para o seu dia a dia. Conforto e estilo garantidos! ✨...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Masculinos",
+    "old_price": "R$ 89,40",
+    "price": "R$ 59,90",
+    "discount_percent": 33.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820mc-mnebo6lm4phd6e",
+    "affiliate_url": "https://s.shopee.com.br/AAGqgAhbRC",
+    "created_at": "02/09/2026 14:17",
+    "created_at_iso": "2026-09-02T14:17:22",
+    "created_ts": 1788358642,
+    "niche": {
+      "key": "shopee_sapatos_masculinos",
+      "name": "Sapatos Masculinos"
+    }
+  },
+  {
+    "id": "bbf8dddce8699c3387",
+    "title": "Tenis Sapatilha Masculino Casual Aquatico de Trilha Impermeável Com S…",
+    "raw_title": "Tenis Sapatilha Masculino Casual Aquatico de Trilha Impermeável Com Solado Costurado E Elastico Ajustável",
+    "description": "🔥 40% OFF — Oferta encontrada! 📌 Tenis Sapatilha Masculino Casual Aquatico de Trilha Impermeável Com Solado Costurado E Elastico Ajustável Confira os de...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Masculinos",
+    "old_price": "R$ 109,83",
+    "price": "R$ 65,90",
+    "discount_percent": 40.0,
+    "rating": 4.6,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lv25ejj4lz1958",
+    "affiliate_url": "https://s.shopee.com.br/9V19swbTlf",
+    "created_at": "02/09/2026 14:16",
+    "created_at_iso": "2026-09-02T14:16:13",
+    "created_ts": 1788358573,
+    "niche": {
+      "key": "shopee_sapatos_masculinos",
+      "name": "Sapatos Masculinos"
+    }
+  },
+  {
     "id": "4cac52ce941bc4d868",
     "title": "Calça Cargo Pantalona Wide Leg Alfaiataria Plus Size e Padrão",
     "raw_title": "Calça Cargo Pantalona Wide Leg Alfaiataria Plus Size e Padrão",
@@ -2318,81 +2360,5 @@
       "key": "shopee_bebidas_alimentos",
       "name": "Bebidas e Alimentos"
     }
-  },
-  {
-    "id": "709428a1db3404601c",
-    "title": "Kit S.O.S Hidratação Azeite de Oliva Salon Line Litrão",
-    "raw_title": "Kit S.O.S Hidratação Azeite de Oliva Shampoo e Condicionador Litrão Salon Line",
-    "description": "✨ Hidratação poderosa para seus cabelos! ✨ O Kit S.O.S Hidratação Azeite de Oliva da Salon Line, em versão litrão, é perfeito para nutrir e dar brilho i...",
-    "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
-    "old_price": "R$ 73,51",
-    "price": "R$ 49,25",
-    "discount_percent": 33.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-8258o-msbwr4svgah18a",
-    "affiliate_url": "https://s.shopee.com.br/5foPj03Iwx",
-    "created_at": "01/09/2026 14:17",
-    "created_at_iso": "2026-09-01T14:17:19",
-    "created_ts": 1788272239,
-    "niche": {
-      "key": "shopee_bebidas_alimentos",
-      "name": "Bebidas e Alimentos"
-    }
-  },
-  {
-    "id": "0dc3178d3f09e68be6",
-    "title": "Panela Elétrica Multifuncional 1.8L",
-    "raw_title": "1.8L Panela De Arroz Elétrica Multi-Camadas/De Dupla Camada Dormitório Doméstico Funções",
-    "description": "🔥 Cozinhe com praticidade e economia! 🍳 Essa Panela de Arroz Elétrica 1.8L é perfeita para quem busca agilidade na cozinha, seja em casa ou no dormitóri...",
-    "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
-    "old_price": "R$ 199,97",
-    "price": "R$ 67,99",
-    "discount_percent": 66.0,
-    "rating": 4.7,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-821d4-mgpdkly8i4nh7c",
-    "affiliate_url": "https://s.shopee.com.br/70JmVz9PMm",
-    "created_at": "01/09/2026 14:16",
-    "created_at_iso": "2026-09-01T14:16:10",
-    "created_ts": 1788272170,
-    "niche": {
-      "key": "shopee_bebidas_alimentos",
-      "name": "Bebidas e Alimentos"
-    }
-  },
-  {
-    "id": "593fbbeb69a79244b6",
-    "title": "Cadeira Escritório Secretaria Rcp Preto",
-    "raw_title": "Cadeira Escritório Secretaria Rcp Preto",
-    "description": "🔥 6% OFF — Oferta encontrada! 📌 Cadeira Escritório Secretaria Rcp Preto Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Mercado Livre",
-    "category": "Casa e Decoração",
-    "old_price": "R$ 261,89",
-    "price": "R$ 247,17",
-    "discount_percent": 6.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_830361-MLA95524555493_102025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB22813112?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "01/09/2026 14:02",
-    "created_at_iso": "2026-09-01T14:02:49",
-    "created_ts": 1788271369
-  },
-  {
-    "id": "eb099b60349dc3f22c",
-    "title": "Webcam sem fio à prova d'água 1080P com visão noturna IR da marca RUI",
-    "raw_title": "Webcam sem fio à prova d'água 1080P com visão noturna IR da marca RUI",
-    "description": "🔥 44% OFF — Oferta encontrada! 📌 Webcam sem fio à prova d'água 1080P com visão noturna IR da marca RUI Confira os detalhes e aproveite enquanto a oferta...",
-    "marketplace": "Shopee",
-    "category": "Informática",
-    "old_price": "R$ 89,27",
-    "price": "R$ 49,99",
-    "discount_percent": 44.0,
-    "rating": 4.5,
-    "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mgqgjoywyxvt09",
-    "affiliate_url": "https://s.shopee.com.br/8AVkdSibFO",
-    "created_at": "01/09/2026 13:20",
-    "created_at_iso": "2026-09-01T13:20:10",
-    "created_ts": 1788268810
   }
 ]

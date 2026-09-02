@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 02/09/2026 15:18
+Gerado em: 02/09/2026 16:23
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
 ```txt
 📱 Oferta para Celulares e Tecnologia
 
-BemTeVi Cabo Tipo C USB PD 240W Cabo de carregamento rápido para iPho…
+Cabo 4 em 1 PD 65W
 
-💸 De: R$ 97,38
-🔥 Por: R$ 25,32
-🏷️ 74% OFF
+💸 De: R$ 59,96
+🔥 Por: R$ 14,99
+🏷️ 75% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/2qUEobnBbr
+Ver oferta: https://s.shopee.com.br/2BEWgyPlN1
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

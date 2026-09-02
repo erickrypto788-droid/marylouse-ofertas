@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 02/09/2026 15:18
+Gerado em: 02/09/2026 16:23
 
 ## Como usar
 
@@ -102,9 +102,9 @@ Gerado em: 02/09/2026 15:18
 
 **Produtos usados:**
 
+- Cabo 4 em 1 PD 65W
+- Carregador Super Rápido Turbo 125w 50w 68w 168w Fonte Tipo C para cel…
 - BemTeVi Cabo Tipo C USB PD 240W Cabo de carregamento rápido para iPho…
-- Leitor Cartão USB C 3 em 1
-- Power Bank 10000mAh para iPhone: Turbo Carregamento Sem Fio Magnético…
 
 ---
 

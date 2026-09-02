@@ -1,17 +1,17 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 02/09/2026 15:18
+Gerado em: 02/09/2026 16:23
 
 ## Categorias prioritárias
 
 - 🍼 **Mãe e Bebê**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 📱 **Celulares**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 👕 **Moda Masculina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
-- 👗 **Moda Feminina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - ✨ **Moda Plus Size**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
-- 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
-- 📦 **Outros**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 📦 **Outros**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 💻 **Informática**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 💄 **Beleza**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🍳 **Casa e Cozinha**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 
@@ -59,33 +59,33 @@ Gerado em: 02/09/2026 15:18
    - Desconto: 34% OFF
    - Link: https://s.shopee.com.br/9AOH5y19y9
 
-7. **Kit 2 Formas de Silicone para Doces e Creatina**
+7. **Cabo 4 em 1 PD 65W**
+   - Categoria: Celulares
+   - Loja: Shopee
+   - Preço: R$ 14,99
+   - Desconto: 75% OFF
+   - Link: https://s.shopee.com.br/2BEWgyPlN1
+
+8. **Carregador Super Rápido Turbo 125w 50w 68w 168w Fonte Tipo C para cel…**
+   - Categoria: Celulares
+   - Loja: Shopee
+   - Preço: R$ 19,99
+   - Desconto: 71% OFF
+   - Link: https://s.shopee.com.br/qjAQvzKxC
+
+9. **Kit 2 Formas de Silicone para Doces e Creatina**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 22,99
    - Desconto: 54% OFF
    - Link: https://s.shopee.com.br/4qFJzjmBnF
 
-8. **Kit Porta Leite em Pó + Colher**
+10. **Kit Porta Leite em Pó + Colher**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 26,89
    - Desconto: 55% OFF
    - Link: https://s.shopee.com.br/40gD0CcIgD
-
-9. **Webcam Full HD 1080p com Microfone**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 29,88
-   - Desconto: 57% OFF
-   - Link: https://s.shopee.com.br/1A2uSDgoY
-
-10. **Mochila Mala Reforçada Notebook Impermeável Escolar Trabalho**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 29,90
-   - Desconto: 27% OFF
-   - Link: https://s.shopee.com.br/W6KdP94SJ
 
 ## Ações gratuitas recomendadas
 

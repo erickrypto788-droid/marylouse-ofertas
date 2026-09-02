@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 02/09/2026 13:22
+Gerado em: 02/09/2026 14:19
 
 ## Como usar
 
@@ -54,9 +54,9 @@ Gerado em: 02/09/2026 13:22
 
 **Produtos usados:**
 
-- Panela Elétrica Multifuncional 1.8L
 - Panela Elétrica Britânia 2L
 - Panela De Pressão Fechamento Externo Antiaderente 4,5L Nacional
+- Panela de Pressao Polida Fortlar -A- LAM - Escolha o Tamanho
 
 ---
 
@@ -128,6 +128,6 @@ Gerado em: 02/09/2026 13:22
 
 - Azeite Oliva Extra Virgem Português Vila Oliva 500ml (3 Un)
 - Hidratante Creme Facial Pele De Porcelana Kokeshi 30g Milagre do Arroz
-- Kit S.O.S Hidratação Azeite de Oliva Salon Line Litrão
+- 100 Sacos de Lixo 60L Reforçados
 
 ---

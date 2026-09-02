@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 02/09/2026 13:22
+Gerado em: 02/09/2026 14:19
 
 ## Como usar
 
@@ -12,37 +12,7 @@ Gerado em: 02/09/2026 13:22
 
 ---
 
-## Post 1 — Casa e Cozinha
-
-**Canal recomendado:** Casa e Cozinha
-
-**Horário sugerido:** 18:00 - 20:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
-
-**Texto pronto:**
-
-```txt
-🍳 Oferta para Casa e Cozinha
-
-Panela Elétrica Multifuncional 1.8L
-
-💸 De: R$ 199,97
-🔥 Por: R$ 67,99
-🏷️ 66% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/70JmVz9PMm
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 2 — Beleza e Cuidados
+## Post 1 — Beleza e Cuidados
 
 **Canal recomendado:** Beleza e Cuidados
 
@@ -72,7 +42,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 3 — Ofertas Pet
+## Post 2 — Ofertas Pet
 
 **Canal recomendado:** Ofertas Pet
 
@@ -102,7 +72,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Mamãe e Bebê
+## Post 3 — Mamãe e Bebê
 
 **Canal recomendado:** Mamãe e Bebê
 
@@ -132,7 +102,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 5 — Moda Feminina
+## Post 4 — Moda Feminina
 
 **Canal recomendado:** Moda Feminina
 
@@ -155,6 +125,36 @@ Conjunto Feminino Cropped e Calça Mercy
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/8AVkpod1y4
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 5 — Casa e Cozinha
+
+**Canal recomendado:** Casa e Cozinha
+
+**Horário sugerido:** 18:00 - 20:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
+
+**Texto pronto:**
+
+```txt
+🍳 Oferta para Casa e Cozinha
+
+Panela Elétrica Britânia 2L
+
+💸 De: R$ 201,43
+🔥 Por: R$ 126,90
+🏷️ 37% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/3B760fsXAt
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

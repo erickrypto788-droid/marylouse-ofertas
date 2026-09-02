@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 02/09/2026 10:03
+Gerado em: 02/09/2026 11:22
 
 ## Categorias prioritárias
 
+- 👗 **Moda Feminina**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 📦 **Outros**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 🍼 **Mãe e Bebê**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 📚 **Papelaria**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
-- 💻 **Informática**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 👜 **Bolsas**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
+- 💻 **Informática**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 🍳 **Casa e Cozinha**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
-- 👗 **Moda Feminina**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
-- 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 💄 **Beleza**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 🏋️ **Esportes**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
+- 👟 **Calçados**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 
 ## Top ofertas para destacar
 
@@ -59,33 +59,33 @@ Gerado em: 02/09/2026 10:03
    - Desconto: 60% OFF
    - Link: https://s.shopee.com.br/2qUEHelIxS
 
-7. **Capa Maleta Notebook Macbook 15,6' / 13 / 14 / 17 Polegadas Rígida An…**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 29,22
-   - Desconto: 58% OFF
-   - Link: https://s.shopee.com.br/9zxOgZor1U
-
-8. **Mochila Couro PU Grande Executiva Para Notebook Trabalho Faculdade Re…**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 38,98
-   - Desconto: 64% OFF
-   - Link: https://s.shopee.com.br/20v4ZAnZZa
-
-9. **Panela Elétrica Britânia 2L**
+7. **Panela Elétrica Britânia 2L**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 126,90
    - Desconto: 37% OFF
    - Link: https://s.shopee.com.br/3B760fsXAt
 
-10. **Suporte Ergonômico Portátil para Notebook**
+8. **Suporte Ergonômico Portátil para Notebook**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 17,97
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/3qMlTUhUvY
+
+9. **Panela de Pressao Polida Fortlar -A- LAM - Escolha o Tamanho**
+   - Categoria: Casa e Cozinha
+   - Loja: Shopee
+   - Preço: R$ 51,60
+   - Desconto: 34% OFF
+   - Link: https://s.shopee.com.br/9AOH5y19y9
+
+10. **SATA III 2.5 "SSD 128GB/240GB/256GB Unidade de estado sólido interna…**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 87,99
+   - Desconto: 41% OFF
+   - Link: https://s.shopee.com.br/60RG3TmRoa
 
 ## Ações gratuitas recomendadas
 

@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 02/09/2026 10:03
+Gerado em: 02/09/2026 11:22
 
 ## Como usar
 
@@ -162,29 +162,29 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 6 — Moda e Calçados
+## Post 6 — Moda Feminina
 
-**Canal recomendado:** Moda e Calçados
+**Canal recomendado:** Moda Feminina
 
-**Horário sugerido:** 12:00 - 15:00
+**Horário sugerido:** 12:00 - 14:00
 
 **Imagem/card:**
 
-https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
+https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 
 **Texto pronto:**
 
 ```txt
-👟 Oferta para Moda e Calçados
+👗 Oferta para Moda Feminina
 
-Kit Bota Masculina Caterpillar + Cinto + Carteira+ Relógio
+Conjunto Feminino Cropped e Calça Mercy
 
-💸 De: R$ 189,16
-🔥 Por: R$ 69,99
+💸 De: R$ 81,05
+🔥 Por: R$ 29,99
 🏷️ 63% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/3B74Y1NwTB
+Ver oferta: https://s.shopee.com.br/8AVkpod1y4
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

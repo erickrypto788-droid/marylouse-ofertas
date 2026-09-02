@@ -1,5 +1,22 @@
 [
   {
+    "id": "09bb46317541a28ff6",
+    "title": "Bike Spinning WCT Fitness",
+    "raw_title": "Bike Spinning Bicicleta 6kg Wct Fitness Preta",
+    "description": "🔥 Oferta Imperdível! Transforme seu corpo com a Bike Spinning Bicicleta 6kg Wct Fitness Preta! 🚴‍♀️ Treine no conforto da sua casa e alcance seus objeti...",
+    "marketplace": "Mercado Livre",
+    "category": "Esportes e Lazer",
+    "old_price": "R$ 1.132,90",
+    "price": "R$ 699,99",
+    "discount_percent": 38.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_648848-MLA113038268844_072026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75107533?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "02/09/2026 09:01",
+    "created_at_iso": "2026-09-02T09:01:42",
+    "created_ts": 1788339702
+  },
+  {
     "id": "66051084842db89aa3",
     "title": "Papel Fotográfico Adesivo Masterprint A4",
     "raw_title": "Papel Fotográfico Adesivo 130G Glossy 100 Folhas A4 MASTERPRINT (PAPEL ADESIVO)",
@@ -2449,27 +2466,6 @@
     "niche": {
       "key": "shopee_mae_bebe",
       "name": "Mãe e Bebê"
-    }
-  },
-  {
-    "id": "eb2fa2d20ff9289cb8",
-    "title": "Kit Medidor de Glicose Bioland",
-    "raw_title": "Kit Medidor de Glicose Bioland G425-3 + 25 Tiras + 25 Lancetas + Bolsa CAIXA",
-    "description": "🚨 CONTROLE SUA SAÚDE! Kit Medidor de Glicose Bioland G425-3 completo, com 25 Tiras, 25 Lancetas e bolsa. Essencial para seu dia a dia! 🩺",
-    "marketplace": "Shopee",
-    "category": "Saúde",
-    "old_price": "",
-    "price": "R$ 38,49",
-    "discount_percent": 0.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbmy10gfie3mfb",
-    "affiliate_url": "https://s.shopee.com.br/LmsyS9dSm",
-    "created_at": "01/09/2026 08:21",
-    "created_at_iso": "2026-09-01T08:21:13",
-    "created_ts": 1788250873,
-    "niche": {
-      "key": "shopee_saude",
-      "name": "Saúde"
     }
   }
 ]

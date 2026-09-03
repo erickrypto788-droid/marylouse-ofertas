@@ -1,5 +1,39 @@
 [
   {
+    "id": "c8b61e4b4219154888",
+    "title": "Arroz Motigome 1kg",
+    "raw_title": "Arroz Motigome 1kg",
+    "description": "🔥 18% OFF — Oferta encontrada! 📌 Arroz Motigome 1kg Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Supermercados",
+    "old_price": "R$ 45,69",
+    "price": "R$ 37,40",
+    "discount_percent": 18.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_740049-MLA116879535281_082026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21407698?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "03/09/2026 15:05",
+    "created_at_iso": "2026-09-03T15:05:49",
+    "created_ts": 1788447949
+  },
+  {
+    "id": "329b2e554a31927f5a",
+    "title": "Fralda Huggies G 36 Unid.",
+    "raw_title": "Fralda Huggies Tripla Proteção G 36 unidades",
+    "description": "👶 Proteção que seu bebê merece! Fralda Huggies Tripla Proteção G 36 unidades. Conforto e segurança para o dia a dia.",
+    "marketplace": "Mercado Livre",
+    "category": "Mãe e Bebê",
+    "old_price": "",
+    "price": "R$ 192,05",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_777421-MLA99340212546_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB17336422?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "03/09/2026 15:04",
+    "created_at_iso": "2026-09-03T15:04:40",
+    "created_ts": 1788447880
+  },
+  {
     "id": "01bffd61a6ac682e52",
     "title": "Camiseta E Bermuda Infantil Com Bolsos 04 á 16 Moda Infantil Roupa D…",
     "raw_title": "Camiseta E Bermuda Infantil Com Bolsos 04 á 16 Moda Infantil Roupa De Criança Para Ir para escola",
@@ -2112,39 +2146,5 @@
       "key": "shopee_sapatos_femininos",
       "name": "Sapatos Femininos"
     }
-  },
-  {
-    "id": "4997910bf47ffccb87",
-    "title": "Motorola Smartphone Motorola Razr 50 Ultra 5g Cor Pink",
-    "raw_title": "Motorola Smartphone Motorola Razr 50 Ultra 5g Cor Pink",
-    "description": "🔥 Oferta encontrada! 📌 Motorola Smartphone Motorola Razr 50 Ultra 5g Cor Pink Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Mercado Livre",
-    "category": "Informática",
-    "old_price": "",
-    "price": "R$ 4.499,00",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_731263-MLA82936820100_032025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47306242?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "02/09/2026 15:02",
-    "created_at_iso": "2026-09-02T15:02:54",
-    "created_ts": 1788361374
-  },
-  {
-    "id": "ad3b64e61c79543d73",
-    "title": "Smartphone Samsung Galaxy A56 5g Preto 256gb",
-    "raw_title": "Smartphone Samsung Galaxy A56 5g Preto 256gb",
-    "description": "🔥 Oferta encontrada! 📌 Smartphone Samsung Galaxy A56 5g Preto 256gb Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Mercado Livre",
-    "category": "Informática",
-    "old_price": "",
-    "price": "R$ 2.969,00",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_693751-MLA97315678331_112025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB61698753?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "02/09/2026 15:01",
-    "created_at_iso": "2026-09-02T15:01:49",
-    "created_ts": 1788361309
   }
 ]

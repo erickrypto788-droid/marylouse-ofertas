@@ -1,5 +1,22 @@
 [
   {
+    "id": "9e16ae5e606ca24964",
+    "title": "Fone Bluetooth Redmi",
+    "raw_title": "Fone Bluetooth Redmi",
+    "description": "🎧 IMPERDÍVEL! Fone Bluetooth Redmi com som de qualidade e preço baixo. 🚚 Frete grátis para você!",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "R$ 43,00",
+    "price": "R$ 35,00",
+    "discount_percent": 19.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_918309-MLA97869219589_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62010143?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "03/09/2026 07:02",
+    "created_at_iso": "2026-09-03T07:02:52",
+    "created_ts": 1788418972
+  },
+  {
     "id": "762f213611d731d3f5",
     "title": "Kit 4 Top Cropped Academia Forro Duplo Microfibra Feminino",
     "raw_title": "Kit 4 Top Cropped Academia Forro Duplo Microfibra Feminino",
@@ -2209,22 +2226,5 @@
     "created_at": "02/09/2026 07:03",
     "created_at_iso": "2026-09-02T07:03:10",
     "created_ts": 1788332590
-  },
-  {
-    "id": "f4ce6e4e4365b59c60",
-    "title": "Jogo Panelas Tramontina Coimbra 5pçs",
-    "raw_title": "Jogo Panelas Tramontina Coimbra 5pçs Preto Antiaderente",
-    "description": "✨ Cozinha renovada e prática! Garanta já o seu Jogo de Panelas Tramontina Coimbra 5pçs Preto Antiaderente e transforme suas refeições! Qualidade e durab...",
-    "marketplace": "Mercado Livre",
-    "category": "Casa e Cozinha",
-    "old_price": "",
-    "price": "R$ 213,89",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_737133-MLA95400026102_102025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39387638?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "02/09/2026 07:02",
-    "created_at_iso": "2026-09-02T07:02:01",
-    "created_ts": 1788332521
   }
 ]

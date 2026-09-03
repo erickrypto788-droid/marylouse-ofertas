@@ -1,5 +1,22 @@
 [
   {
+    "id": "1857d84d91f85984eb",
+    "title": "Jogo Panelas Ipanema 5 Peças",
+    "raw_title": "Jogo Panelas Ipanema 5 Peças Preto Nacional",
+    "description": "🔥 MEGA OFERTA! 🔥 Jogo de Panelas Ipanema 5 Peças Preto Nacional com um super desconto! Sua cozinha merece esse upgrade. 🚚 Frete Grátis!",
+    "marketplace": "Mercado Livre",
+    "category": "Casa e Cozinha",
+    "old_price": "R$ 404,69",
+    "price": "R$ 305,90",
+    "discount_percent": 24.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_810214-MLA115224351761_072026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75817439?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "03/09/2026 17:02",
+    "created_at_iso": "2026-09-03T17:02:47",
+    "created_ts": 1788454967
+  },
+  {
     "id": "624900601d46b3f9f6",
     "title": "Bebê Reborn 100% Silicone Realista Boneca Barata Completa",
     "raw_title": "Bebê Reborn 100% Silicone Realista Boneca Barata Completa",
@@ -2246,39 +2263,5 @@
       "key": "shopee_eletrodomesticos",
       "name": "Eletrodomésticos"
     }
-  },
-  {
-    "id": "25244218cee8d3a1c2",
-    "title": "KIT 2 CABOS TIPO-C ULTRA RÁPIDO ORIGINAL INOVA Compatível com Diversa…",
-    "raw_title": "KIT 2 CABOS TIPO-C ULTRA RÁPIDO ORIGINAL INOVA Compatível com Diversas Marcas",
-    "description": "🔥 45% OFF — Oferta encontrada! 📌 KIT 2 CABOS TIPO-C ULTRA RÁPIDO ORIGINAL INOVA Compatível com Diversas Marcas Confira os detalhes e aproveite enquanto...",
-    "marketplace": "Shopee",
-    "category": "𝑨𝒏𝒚𝑾𝒊𝒍𝒍𝒊'𝒔 𝑺𝒕𝒐𝒓𝒆",
-    "old_price": "R$ 39,62",
-    "price": "R$ 21,79",
-    "discount_percent": 45.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m79acgp7yjws79",
-    "affiliate_url": "https://s.shopee.com.br/3B76TVwR6M",
-    "created_at": "02/09/2026 16:21",
-    "created_at_iso": "2026-09-02T16:21:16",
-    "created_ts": 1788366076
-  },
-  {
-    "id": "a0f0bf55f6091a842f",
-    "title": "Cabo 4 em 1 PD 65W",
-    "raw_title": "Cabo 4 em 1 Carregamento Rápido PD 65W USB Tipo C Lightning Duplo Nylon Trançado para Android e iOS",
-    "description": "🔥 ACABOU A BAGUNÇA DE CABOS! Um único cabo para carregar TUDO! 📲 Este Cabo 4 em 1 tem Carregamento Rápido PD 65W e é perfeito para Android e iOS, com co...",
-    "marketplace": "Shopee",
-    "category": "Roweder Filial 2",
-    "old_price": "R$ 59,96",
-    "price": "R$ 14,99",
-    "discount_percent": 75.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mckdfy7a3capa7",
-    "affiliate_url": "https://s.shopee.com.br/2BEWgyPlN1",
-    "created_at": "02/09/2026 16:20",
-    "created_at_iso": "2026-09-02T16:20:12",
-    "created_ts": 1788366012
   }
 ]

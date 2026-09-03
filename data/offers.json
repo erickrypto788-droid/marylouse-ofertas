@@ -1,5 +1,47 @@
 [
   {
+    "id": "8b4d10840e1192d7b9",
+    "title": "Calça Wide Leg Cargo Modeladora",
+    "raw_title": "Calça Wid Leg Cargo Modeladora Blogueira Moda",
+    "description": "🔥 LANÇAMENTO IMPERDÍVEL! 🔥 Arrase com a Calça Wide Leg Cargo Modeladora Blogueira Moda! 😍 Perfeita para valorizar suas curvas e te deixar super estilosa...",
+    "marketplace": "Shopee",
+    "category": "Roupas Plus Size",
+    "old_price": "R$ 89,90",
+    "price": "R$ 89,00",
+    "discount_percent": 1.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi6t8mc0ntab1e",
+    "affiliate_url": "https://s.shopee.com.br/3LQXjkGlF4",
+    "created_at": "03/09/2026 08:17",
+    "created_at_iso": "2026-09-03T08:17:00",
+    "created_ts": 1788423420,
+    "niche": {
+      "key": "shopee_roupas_plus_size",
+      "name": "Roupas Plus Size"
+    }
+  },
+  {
+    "id": "4cdd104ab454221433",
+    "title": "Vestido Plus Size Rodado Suplex",
+    "raw_title": "Vestido rodado Plus Size manga fler com a faixa Suplex Digital 44/46/48/50/52 g gg g1 g2",
+    "description": "✨ Estilo e Conforto para você! Arrase com o Vestido rodado Plus Size manga fler, em Suplex Digital! Perfeito para todas as ocasiões, realçando sua belez...",
+    "marketplace": "Shopee",
+    "category": "Roupas Plus Size",
+    "old_price": "R$ 38,76",
+    "price": "R$ 34,88",
+    "discount_percent": 10.0,
+    "rating": 4.7,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lg-mpt4jxd5rpqbe4",
+    "affiliate_url": "https://s.shopee.com.br/8fS45Y0vSF",
+    "created_at": "03/09/2026 08:15",
+    "created_at_iso": "2026-09-03T08:15:48",
+    "created_ts": 1788423348,
+    "niche": {
+      "key": "shopee_roupas_plus_size",
+      "name": "Roupas Plus Size"
+    }
+  },
+  {
     "id": "9f7067ec89c25c5e97",
     "title": "Ulefone Note 18 Ultra 256GB 6GB RAM 5G Branco",
     "raw_title": "Ulefone Note 18 Ultra 256GB 6GB RAM Celular 5G 5450mAh Câmera 50MP Branco",
@@ -2192,39 +2234,5 @@
     "created_at": "02/09/2026 08:18",
     "created_at_iso": "2026-09-02T08:18:08",
     "created_ts": 1788337088
-  },
-  {
-    "id": "54383764bc556c8f35",
-    "title": "Etiquetas Adesivas Personalizadas",
-    "raw_title": "Etiquetas Adesivas 3x3, 4x4 ou 5x5cm Personalizados Com Recorte",
-    "description": "✨ Destaque sua marca com estilo! Crie etiquetas adesivas personalizadas com recorte e dê um toque profissional aos seus produtos ou embalagens. Perfeito...",
-    "marketplace": "Shopee",
-    "category": "Plottz.br",
-    "old_price": "R$ 21,37",
-    "price": "R$ 13,25",
-    "discount_percent": 38.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ls-mlzbvg8xfzt360",
-    "affiliate_url": "https://s.shopee.com.br/60RHFdYr0h",
-    "created_at": "02/09/2026 08:16",
-    "created_at_iso": "2026-09-02T08:16:59",
-    "created_ts": 1788337019
-  },
-  {
-    "id": "96c6e841fc307600ec",
-    "title": "Webcam Full HD 1080p com Microfone",
-    "raw_title": "Webcam com Microfone Full HD 1080p Giratória 360° Ajuste de Ângulo Livre para PC Notebook e Home Office",
-    "description": "🚨 IMPERDÍVEL! Webcam Full HD com Microfone por um precinho! Garanta sua Webcam com Microfone Full HD 1080p, perfeita para suas reuniões, aulas online e...",
-    "marketplace": "Shopee",
-    "category": "Informática",
-    "old_price": "R$ 69,49",
-    "price": "R$ 29,88",
-    "discount_percent": 57.0,
-    "rating": 4.7,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-82618-mk4ye2ybngudc3",
-    "affiliate_url": "https://s.shopee.com.br/1A2uSDgoY",
-    "created_at": "02/09/2026 08:15",
-    "created_at_iso": "2026-09-02T08:15:52",
-    "created_ts": 1788336952
   }
 ]

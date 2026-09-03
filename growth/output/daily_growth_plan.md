@@ -1,12 +1,12 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 03/09/2026 10:04
+Gerado em: 03/09/2026 10:19
 
 ## Categorias prioritárias
 
 - 👗 **Moda Feminina**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
+- 👟 **Calçados**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 👕 **Moda Masculina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
-- 👟 **Calçados**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - ✨ **Moda Plus Size**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
 - 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 🧸 **Brinquedos**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos

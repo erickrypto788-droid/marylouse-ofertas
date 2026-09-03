@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 03/09/2026 23:04
+Gerado em: 03/09/2026 23:22
 
 ## Como usar
 
@@ -132,7 +132,37 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 5 — Saúde
+## Post 5 — Ofertas Pet
+
+**Canal recomendado:** Ofertas Pet
+
+**Horário sugerido:** 17:00 - 20:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
+
+**Texto pronto:**
+
+```txt
+🐶 Oferta para Ofertas Pet
+
+Ração Quatree Life 10.1Kg Ração Quatree Gatos Adultos Salmão e Arroz…
+
+💸 De: R$ 197,39
+🔥 Por: R$ 151,99
+🏷️ 23% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/6fgzROC8D6
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 6 — Saúde
 
 **Canal recomendado:** Saúde e Bem-estar
 
@@ -155,36 +185,6 @@ Oxímetro Infantil Digital
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/20vAkQ2guv
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 6 — Moda Feminina
-
-**Canal recomendado:** Moda Feminina
-
-**Horário sugerido:** 12:00 - 14:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
-
-**Texto pronto:**
-
-```txt
-👗 Oferta para Moda Feminina
-
-Kit 4 Top Cropped Academia Forro Duplo Microfibra Feminino
-
-💸 De: R$ 101,02
-🔥 Por: R$ 49,50
-🏷️ 51% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/9pe1LRnFKb
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 03/09/2026 23:04
+Gerado em: 03/09/2026 23:22
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 03/09/2026 23:04
 
 **Produtos usados:**
 
-- Kit Pano de Boca 12 unidades 30x30cm 100%algodao
 - Fralda Huggies Natural Care Premium
-- Fralda Descartável Pampers Supersequinha Jumbo M 90 Tiras
+- Fralda Huggies Máxima Proteção / * Antiga Supreme Care | P | M | G |…
+- Fralda Huggies G 36 Unid.
 
 ---
 

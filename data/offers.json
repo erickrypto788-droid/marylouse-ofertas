@@ -1,5 +1,22 @@
 [
   {
+    "id": "9f7067ec89c25c5e97",
+    "title": "Ulefone Note 18 Ultra 256GB 6GB RAM 5G Branco",
+    "raw_title": "Ulefone Note 18 Ultra 256GB 6GB RAM Celular 5G 5450mAh Câmera 50MP Branco",
+    "description": "🚀 **Ulefone Note 18 Ultra: Potência e velocidade na palma da sua mão!** Este celular 5G vem com 256GB de armazenamento, 6GB RAM e uma bateria gigante de...",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "",
+    "price": "R$ 1.965,43",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_805210-MLA114871829618_082026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77446522?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "03/09/2026 08:01",
+    "created_at_iso": "2026-09-03T08:01:48",
+    "created_ts": 1788422508
+  },
+  {
     "id": "aa4ece49cdf17a6454",
     "title": "Kit Cuecas Boxer Infantil/Juvenil",
     "raw_title": "Cueca Infantil Juvenil Box Boxer Kit 5 ou 10 Peças Microfibra Menino 2 a 16 Anos Confortável",
@@ -2209,47 +2226,5 @@
     "created_at": "02/09/2026 08:15",
     "created_at_iso": "2026-09-02T08:15:52",
     "created_ts": 1788336952
-  },
-  {
-    "id": "69a59560b01ce400f5",
-    "title": "Caderno Pasta Desafio Poupança",
-    "raw_title": "Caderno Pasta Desafio Poupança com 100 Envelopes Modelo Genérico Material Papel",
-    "description": "🚀 Seu desafio de poupança começa aqui! Organize suas finanças de um jeito divertido e eficaz com o Caderno Pasta Desafio Poupança com 100 Envelopes. Per...",
-    "marketplace": "Shopee",
-    "category": "Papelaria",
-    "old_price": "",
-    "price": "R$ 39,00",
-    "discount_percent": 0.0,
-    "rating": 5.0,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820mb-mnv4j2mf7vuoe0",
-    "affiliate_url": "https://s.shopee.com.br/8plScqJOQc",
-    "created_at": "02/09/2026 07:22",
-    "created_at_iso": "2026-09-02T07:22:59",
-    "created_ts": 1788333779,
-    "niche": {
-      "key": "shopee_papelaria",
-      "name": "Papelaria"
-    }
-  },
-  {
-    "id": "d6b614c9be8a69e602",
-    "title": "Agenda de Clientes Não Datada",
-    "raw_title": "Agenda para agendamento de clientes com páginas não datada",
-    "description": "ORGANIZAÇÃO IMEDIATA! 🚀 Chega de perder agendamentos! Garanta já sua Agenda de Clientes com páginas NÃO DATADAS. Comece a organizar sua vida profissiona...",
-    "marketplace": "Shopee",
-    "category": "Papelaria",
-    "old_price": "R$ 32,00",
-    "price": "R$ 26,24",
-    "discount_percent": 18.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj9a7rsss4xvb1",
-    "affiliate_url": "https://s.shopee.com.br/3B74c9haO4",
-    "created_at": "02/09/2026 07:21",
-    "created_at_iso": "2026-09-02T07:21:52",
-    "created_ts": 1788333712,
-    "niche": {
-      "key": "shopee_papelaria",
-      "name": "Papelaria"
-    }
   }
 ]

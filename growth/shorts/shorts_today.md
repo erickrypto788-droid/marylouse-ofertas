@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 03/09/2026 11:03
+Gerado em: 03/09/2026 11:21
 
 ## Como usar
 
@@ -102,9 +102,9 @@ Gerado em: 03/09/2026 11:03
 
 **Produtos usados:**
 
+- Lupa Amplificadora 3D para Celular
+- Pendrive HP 2TB Metal
 - Cabo 4 em 1 PD 65W
-- Carregador Super Rápido Turbo 125w 50w 68w 168w Fonte Tipo C para cel…
-- Kit com 3/6/12/20 Unidades Protetor Tampa Câmera Webcam Anti-espião N…
 
 ---
 

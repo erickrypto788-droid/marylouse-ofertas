@@ -1,5 +1,22 @@
 [
   {
+    "id": "8f5595c3a8105687bc",
+    "title": "Difusor Umidificador Ultrassônico 1.5L",
+    "raw_title": "Difusor Ar Umidificador Umidificador Ar 1.5l Humidifiicador Ar Ultrassonico Umidificador Doméstico Para Quarto Sala Berçário Operação Silenciosa Umidificação...",
+    "description": "✨ Ar puro e fresco com 49% OFF! Transforme o ambiente da sua casa com o Difusor Umidificador Ultrassônico de 1.5L! Perfeito para quarto, sala ou berçári...",
+    "marketplace": "Mercado Livre",
+    "category": "Pet",
+    "old_price": "R$ 260,00",
+    "price": "R$ 132,60",
+    "discount_percent": 49.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_948271-MLA114975044670_082026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77579661?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "03/09/2026 10:02",
+    "created_at_iso": "2026-09-03T10:02:43",
+    "created_ts": 1788429763
+  },
+  {
     "id": "fd79cc04107a28e9af",
     "title": "Bota Masculina Coturno Adventure",
     "raw_title": "Bota Masculina Coturno trabalho Adventure Solado Borracha Cater",
@@ -2106,65 +2123,6 @@
     "niche": {
       "key": "shopee_roupas_femininas",
       "name": "Roupas Femininas"
-    }
-  },
-  {
-    "id": "58f0185f21e6851e68",
-    "title": "Perfume Feminino Olympia",
-    "raw_title": "Perfume Feminino Olympia",
-    "description": "✨ IMPERDÍVEL! Perfume Feminino Olympia com 50% OFF! ✨ Sinta-se poderosa e envolvente com essa fragrância icônica. Uma oferta que você não pode perder pa...",
-    "marketplace": "Mercado Livre",
-    "category": "Beleza",
-    "old_price": "R$ 368,00",
-    "price": "R$ 184,00",
-    "discount_percent": 50.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_637919-MLA116003089439_082026-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77039877?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "02/09/2026 10:01",
-    "created_at_iso": "2026-09-02T10:01:24",
-    "created_ts": 1788343284
-  },
-  {
-    "id": "5802d9eef39e482077",
-    "title": "Gelatina Chocolate Kids Super Brilhante 550g",
-    "raw_title": "Gelatina Chocolate Kids Super Brilhante 550g",
-    "description": "🔥 45% OFF — Oferta encontrada! 📌 Gelatina Chocolate Kids Super Brilhante 550g Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
-    "old_price": "R$ 31,51",
-    "price": "R$ 17,33",
-    "discount_percent": 45.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134201-820me-mp9hlobiyz29a8",
-    "affiliate_url": "https://s.shopee.com.br/3VjwPHiflu",
-    "created_at": "02/09/2026 09:20",
-    "created_at_iso": "2026-09-02T09:20:21",
-    "created_ts": 1788340821,
-    "niche": {
-      "key": "shopee_bebidas_alimentos",
-      "name": "Bebidas e Alimentos"
-    }
-  },
-  {
-    "id": "9d2e8758d229ac283f",
-    "title": "Pasta de Amendoim Integral Manicrem 1kg",
-    "raw_title": "Manicrem Pasta De Amendoim Integral 100% Amendoim - 1kg",
-    "description": "🥜 Imperdível para a sua dieta e seu bolso! Aproveite a Manicrem Pasta De Amendoim Integral 100% Amendoim - 1kg! Perfeita para sua energia e nutrição diá...",
-    "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
-    "old_price": "R$ 34,71",
-    "price": "R$ 23,95",
-    "discount_percent": 31.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lsmu3092h72l8b",
-    "affiliate_url": "https://s.shopee.com.br/9pdzwvG5pr",
-    "created_at": "02/09/2026 09:19",
-    "created_at_iso": "2026-09-02T09:19:17",
-    "created_ts": 1788340757,
-    "niche": {
-      "key": "shopee_bebidas_alimentos",
-      "name": "Bebidas e Alimentos"
     }
   }
 ]

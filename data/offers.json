@@ -1,5 +1,26 @@
 [
   {
+    "id": "eb134cfd993017acaf",
+    "title": "Mochila de Lona Unissex 50L",
+    "raw_title": "Mochila de Lona Unissex Grande 50l com Altíssima Qualidade e Resistente Á água",
+    "description": "🎒 IMPERDÍVEL! Mochila de Lona Unissex Grande 50L! Altíssima qualidade e resistente à água. Ideal para suas aventuras ou dia a dia! 💧",
+    "marketplace": "Shopee",
+    "category": "Bolsas Masculinas",
+    "old_price": "R$ 73,11",
+    "price": "R$ 39,48",
+    "discount_percent": 46.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98p-lm4yjh13x8vr78",
+    "affiliate_url": "https://s.shopee.com.br/8plV5Iy2aJ",
+    "created_at": "03/09/2026 20:15",
+    "created_at_iso": "2026-09-03T20:15:52",
+    "created_ts": 1788466552,
+    "niche": {
+      "key": "shopee_bolsas_masculinas",
+      "name": "Bolsas Masculinas"
+    }
+  },
+  {
     "id": "095c5692edc896f667",
     "title": "Bolsa Mala Academia Viagem Imagem Fitness Transversal Casual Masculin…",
     "raw_title": "Bolsa Mala Academia Viagem Imagem Fitness Transversal Casual Masculino e Feminina--luna_hyq",
@@ -2098,90 +2119,6 @@
     "niche": {
       "key": "shopee_esportes_lazer",
       "name": "Esportes e Lazer"
-    }
-  },
-  {
-    "id": "1711d0efe16006398b",
-    "title": "Whey Ultra Protein Concentrado Pote 900g - FTW",
-    "raw_title": "Whey Ultra Protein Concentrado Pote 900g - FTW",
-    "description": "🔥 36% OFF — Oferta encontrada! 📌 Whey Ultra Protein Concentrado Pote 900g - FTW Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Shopee",
-    "category": "Esportes e Lazer",
-    "old_price": "R$ 109,36",
-    "price": "R$ 69,99",
-    "discount_percent": 36.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj9vukr0feo684",
-    "affiliate_url": "https://s.shopee.com.br/6AkeSWVch6",
-    "created_at": "02/09/2026 20:15",
-    "created_at_iso": "2026-09-02T20:15:49",
-    "created_ts": 1788380149,
-    "niche": {
-      "key": "shopee_esportes_lazer",
-      "name": "Esportes e Lazer"
-    }
-  },
-  {
-    "id": "020604b9f622ea1033",
-    "title": "Kit 6 Peças de Roupas Infantil Menina Conjunto Verão Algodão",
-    "raw_title": "Kit 6 Peças de Roupas Infantil Menina Conjunto Verão Algodão",
-    "description": "🔥 40% OFF — Oferta encontrada! 📌 Kit 6 Peças de Roupas Infantil Menina Conjunto Verão Algodão Confira os detalhes e aproveite enquanto a oferta estiver...",
-    "marketplace": "Shopee",
-    "category": "Moda Infantil",
-    "old_price": "R$ 83,32",
-    "price": "R$ 49,99",
-    "discount_percent": 40.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mge3pll6ed4w91",
-    "affiliate_url": "https://s.shopee.com.br/904sMJArzi",
-    "created_at": "02/09/2026 19:20",
-    "created_at_iso": "2026-09-02T19:20:21",
-    "created_ts": 1788376821,
-    "niche": {
-      "key": "shopee_moda_infantil",
-      "name": "Moda Infantil"
-    }
-  },
-  {
-    "id": "b1586030eaed24a7ad",
-    "title": "Kit Camiseta e Bermuda Infantil/Juvenil",
-    "raw_title": "KIT Infantil Camiseta e Bermuda Elastano E Juvenil Masculino Com Elástico e BOLSOS 04 á 16",
-    "description": "🚨 OFERTA RELÂMPAGO! 🚨 Seu filho merece conforto e estilo! ✨ Garanta agora o KIT Camiseta e Bermuda Infantil/Juvenil Masculino com elastano, elástico na...",
-    "marketplace": "Shopee",
-    "category": "Moda Infantil",
-    "old_price": "R$ 49,90",
-    "price": "R$ 29,94",
-    "discount_percent": 40.0,
-    "rating": 4.6,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-824ht-mfgvhfwziolr28",
-    "affiliate_url": "https://s.shopee.com.br/3LQVbtjR1x",
-    "created_at": "02/09/2026 19:19",
-    "created_at_iso": "2026-09-02T19:19:17",
-    "created_ts": 1788376757,
-    "niche": {
-      "key": "shopee_moda_infantil",
-      "name": "Moda Infantil"
-    }
-  },
-  {
-    "id": "d7dbaa0ce6ea9ed06a",
-    "title": "Kit 5 CAMISETAS Lisas Básicas MENINO Coloridas Verão Algodão Confortá…",
-    "raw_title": "Kit 5 CAMISETAS Lisas Básicas MENINO Coloridas Verão Algodão Confortável",
-    "description": "🔥 44% OFF — Oferta encontrada! 📌 Kit 5 CAMISETAS Lisas Básicas MENINO Coloridas Verão Algodão Confortável Confira os detalhes e aproveite enquanto a ofe...",
-    "marketplace": "Shopee",
-    "category": "Moda Infantil",
-    "old_price": "R$ 80,18",
-    "price": "R$ 44,90",
-    "discount_percent": 44.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820l6-mmkqk837zdvrce",
-    "affiliate_url": "https://s.shopee.com.br/2VrOcMmbiw",
-    "created_at": "02/09/2026 19:18",
-    "created_at_iso": "2026-09-02T19:18:06",
-    "created_ts": 1788376686,
-    "niche": {
-      "key": "shopee_moda_infantil",
-      "name": "Moda Infantil"
     }
   }
 ]

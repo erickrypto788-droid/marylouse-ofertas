@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 03/09/2026 09:20
+Gerado em: 03/09/2026 10:04
 
 ## Como usar
 
@@ -80,7 +80,7 @@ Gerado em: 03/09/2026 09:20
 
 - Secador de Cabelo Profissional 3200w 110v
 - Perfume Grace Midnight Hinode 100ml
-- Perfume Feminino Olympia
+- Principia Kit Peles Sensíveis c/ Gel de Limpeza Gl-02 + Creme Hidrata…
 
 ---
 

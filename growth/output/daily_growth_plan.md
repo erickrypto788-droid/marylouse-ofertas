@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 03/09/2026 00:06
+Gerado em: 03/09/2026 00:20
 
 ## Categorias prioritárias
 
@@ -10,10 +10,10 @@ Gerado em: 03/09/2026 00:06
 - 👗 **Moda Feminina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 💄 **Beleza**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🧸 **Brinquedos**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
+- 💻 **Informática**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 👜 **Bolsas**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 - ❤️ **Saúde**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
-- 🧒 **Moda Infantil**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-infantil.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-infantil
 - 👟 **Calçados**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 
 ## Top ofertas para destacar
 
@@ -66,26 +66,26 @@ Gerado em: 03/09/2026 00:06
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/3qMlTUhUvY
 
-8. **Fralda Infantil Huggies Meguinha Tamanho G 30 Unidades**
+8. **Mochila Masculina Bolsa Feminina Notebook Escolar Resistente Oferta**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 29,90
+   - Desconto: 25% OFF
+   - Link: https://s.shopee.com.br/1LfSp79IGj
+
+9. **Fralda Infantil Huggies Meguinha Tamanho G 30 Unidades**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 37,89
    - Desconto: 25% OFF
    - Link: https://s.shopee.com.br/LmvZ9F6vd
 
-9. **Kit Pano de Boca 12 unidades 30x30cm 100%algodao**
+10. **Kit Pano de Boca 12 unidades 30x30cm 100%algodao**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 28,99
    - Desconto: 64% OFF
    - Link: https://s.shopee.com.br/AAGq0vgYyF
-
-10. **Cabo 4 em 1 PD 65W**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 14,99
-   - Desconto: 75% OFF
-   - Link: https://s.shopee.com.br/2BEWgyPlN1
 
 ## Ações gratuitas recomendadas
 

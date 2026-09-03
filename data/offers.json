@@ -1,5 +1,47 @@
 [
   {
+    "id": "7c20cd33fc63cbfae6",
+    "title": "Tênis Infantil Feminino Escolar",
+    "raw_title": "Tenis Infantil Feminino Menina Escolar Pronta Entrega",
+    "description": "Estilo e conforto para as pequenas! 💖 Tênis Infantil Feminino Menina Escolar com pronta entrega! 👟 Perfeito para o dia a dia, escola e passeios. Sua fil...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Femininos",
+    "old_price": "R$ 94,66",
+    "price": "R$ 54,90",
+    "discount_percent": 42.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mrhgxq5hee4ke8",
+    "affiliate_url": "https://s.shopee.com.br/4AzerW0pPa",
+    "created_at": "03/09/2026 10:16",
+    "created_at_iso": "2026-09-03T10:16:51",
+    "created_ts": 1788430611,
+    "niche": {
+      "key": "shopee_sapatos_femininos",
+      "name": "Sapatos Femininos"
+    }
+  },
+  {
+    "id": "0b7faa30ab0855f9c6",
+    "title": "Tênis Feminino Casual Blogueira",
+    "raw_title": "Tênis Feminino Casual Blogueira Confortável e Estiloso Envio Rápido",
+    "description": "🚨 IMPERDÍVEL! Tênis Feminino Casual Blogueira! 👟✨ Conforto e estilo para arrasar em qualquer look. Perfeito para o dia a dia e para quem ama estar na moda!",
+    "marketplace": "Shopee",
+    "category": "Sapatos Femininos",
+    "old_price": "R$ 110,87",
+    "price": "R$ 49,89",
+    "discount_percent": 55.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lc-ml81dad8dqmf31",
+    "affiliate_url": "https://s.shopee.com.br/60RJ2stqh1",
+    "created_at": "03/09/2026 10:15",
+    "created_at_iso": "2026-09-03T10:15:44",
+    "created_ts": 1788430544,
+    "niche": {
+      "key": "shopee_sapatos_femininos",
+      "name": "Sapatos Femininos"
+    }
+  },
+  {
     "id": "8f5595c3a8105687bc",
     "title": "Difusor Umidificador Ultrassônico 1.5L",
     "raw_title": "Difusor Ar Umidificador Umidificador Ar 1.5l Humidifiicador Ar Ultrassonico Umidificador Doméstico Para Quarto Sala Berçário Operação Silenciosa Umidificação...",

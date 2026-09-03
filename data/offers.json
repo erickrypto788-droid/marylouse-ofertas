@@ -1,5 +1,26 @@
 [
   {
+    "id": "e3c0268d919f2dc58d",
+    "title": "Mochila Escolar Reforçada Notebook Impermeável Cabo De Aço",
+    "raw_title": "Mochila Escolar Reforçada Notebook Impermeável Cabo De Aço",
+    "description": "🔥 41% OFF — Oferta encontrada! 📌 Mochila Escolar Reforçada Notebook Impermeável Cabo De Aço Confira os detalhes e aproveite enquanto a oferta estiver di...",
+    "marketplace": "Shopee",
+    "category": "Bolsas Masculinas",
+    "old_price": "R$ 50,68",
+    "price": "R$ 29,90",
+    "discount_percent": 41.0,
+    "rating": 4.6,
+    "image": "https://cf.shopee.com.br/file/92e894139b206ffe034d923c570d2a81",
+    "affiliate_url": "https://s.shopee.com.br/4qFL3f31YV",
+    "created_at": "03/09/2026 01:15",
+    "created_at_iso": "2026-09-03T01:15:43",
+    "created_ts": 1788398143,
+    "niche": {
+      "key": "shopee_bolsas_masculinas",
+      "name": "Bolsas Masculinas"
+    }
+  },
+  {
     "id": "108b27b90a024d1f1a",
     "title": "Mochila Masculina Bolsa Feminina Notebook Escolar Resistente Oferta",
     "raw_title": "Mochila Masculina Bolsa Feminina Notebook Escolar Resistente Oferta",
@@ -2452,65 +2473,6 @@
     "niche": {
       "key": "shopee_esportes_lazer",
       "name": "Esportes e Lazer"
-    }
-  },
-  {
-    "id": "fcd13e1dadb6abf8ed",
-    "title": "Ração Gato Estimacat Premium Filhote Sabor Frango 10kg",
-    "raw_title": "Ração Gato Estimacat Premium Filhote Sabor Frango 10kg",
-    "description": "🔥 25% OFF — Oferta encontrada! 📌 Ração Gato Estimacat Premium Filhote Sabor Frango 10kg Confira os detalhes e aproveite enquanto a oferta estiver dispon...",
-    "marketplace": "Mercado Livre",
-    "category": "Pet",
-    "old_price": "R$ 337,43",
-    "price": "R$ 253,07",
-    "discount_percent": 25.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_921645-MLA109036799255_032026-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66844874?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "02/09/2026 01:01",
-    "created_at_iso": "2026-09-02T01:01:23",
-    "created_ts": 1788310883
-  },
-  {
-    "id": "796efcc2b1198a753e",
-    "title": "Manta Cobertor de Bebê c/ Naninha Para Menina Menino Infantil Mantinh…",
-    "raw_title": "Manta Cobertor de Bebê c/ Naninha Para Menina Menino Infantil Mantinha Premium 02 Peças",
-    "description": "🔥 42% OFF — Oferta encontrada! 📌 Manta Cobertor de Bebê c/ Naninha Para Menina Menino Infantil Mantinha Premium 02 Peças Confira os detalhes e aproveite...",
-    "marketplace": "Shopee",
-    "category": "Moda Infantil",
-    "old_price": "R$ 59,43",
-    "price": "R$ 34,47",
-    "discount_percent": 42.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhrnt72k0npe90",
-    "affiliate_url": "https://s.shopee.com.br/3g3M0VQm2j",
-    "created_at": "02/09/2026 00:20",
-    "created_at_iso": "2026-09-02T00:20:04",
-    "created_ts": 1788308404,
-    "niche": {
-      "key": "shopee_moda_infantil",
-      "name": "Moda Infantil"
-    }
-  },
-  {
-    "id": "203e0cc69904caeaac",
-    "title": "Vestido Bebê Menina + Faixinha de Cabelo Verão Cores/Natal Tam P, M,…",
-    "raw_title": "Vestido Bebê Menina + Faixinha de Cabelo Verão Cores/Natal Tam P, M, G/ 1, 2 e 3",
-    "description": "🔥 22% OFF — Oferta encontrada! 📌 Vestido Bebê Menina + Faixinha de Cabelo Verão Cores/Natal Tam P, M, G/ 1, 2 e 3 Confira os detalhes e aproveite enquan...",
-    "marketplace": "Shopee",
-    "category": "Moda Infantil",
-    "old_price": "R$ 51,63",
-    "price": "R$ 40,27",
-    "discount_percent": 22.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgp7t32bu138c9",
-    "affiliate_url": "https://s.shopee.com.br/7AdEAwMFWG",
-    "created_at": "02/09/2026 00:19",
-    "created_at_iso": "2026-09-02T00:19:00",
-    "created_ts": 1788308340,
-    "niche": {
-      "key": "shopee_moda_infantil",
-      "name": "Moda Infantil"
     }
   }
 ]

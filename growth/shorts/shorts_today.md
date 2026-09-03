@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 03/09/2026 13:03
+Gerado em: 03/09/2026 13:23
 
 ## Como usar
 
@@ -78,9 +78,9 @@ Gerado em: 03/09/2026 13:03
 
 **Produtos usados:**
 
+- Perfumes Brand Collection 25ml - Fragrâncias femininas
+- Secador Profissional LONYAN
 - Secador de Cabelo Profissional 3200w 110v
-- Perfume Grace Midnight Hinode 100ml
-- Principia Kit Peles Sensíveis c/ Gel de Limpeza Gl-02 + Creme Hidrata…
 
 ---
 

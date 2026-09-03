@@ -1,17 +1,17 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 03/09/2026 17:19
+Gerado em: 03/09/2026 18:22
 
 ## Categorias prioritárias
 
-- 💄 **Beleza**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 🍼 **Mãe e Bebê**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🏋️ **Esportes**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 🧸 **Brinquedos**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
-- 🍼 **Mãe e Bebê**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🍳 **Casa e Cozinha**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 👗 **Moda Feminina**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 🧒 **Moda Infantil**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-infantil.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-infantil
+- 💄 **Beleza**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 📚 **Papelaria**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 - 💻 **Informática**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 
@@ -45,47 +45,47 @@ Gerado em: 03/09/2026 17:19
    - Desconto: 74% OFF
    - Link: https://s.shopee.com.br/3LQXP8vu9Z
 
-5. **Secador de Cabelo Profissional 3200w 110v**
-   - Categoria: Beleza
-   - Loja: Shopee
-   - Preço: R$ 49,99
-   - Desconto: 50% OFF
-   - Link: https://s.shopee.com.br/1A4pvmejO
-
-6. **Perfume Grace Midnight Hinode 100ml**
-   - Categoria: Beleza
-   - Loja: Shopee
-   - Preço: R$ 84,95
-   - Desconto: 50% OFF
-   - Link: https://s.shopee.com.br/9fKaLh3C9A
-
-7. **Lupa Amplificadora 3D para Celular**
+5. **Lupa Amplificadora 3D para Celular**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 17,99
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/3qMoX3LTSm
 
-8. **Mochila Escolar Reforçada Notebook Impermeável Cabo De Aço**
+6. **Mochila Escolar Reforçada Notebook Impermeável Cabo De Aço**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 29,90
    - Desconto: 41% OFF
    - Link: https://s.shopee.com.br/4qFL3f31YV
 
-9. **Jogo de Panelas Antiaderente 5 Peças Cereja com Revestimento Antiader…**
+7. **Jogo de Panelas Antiaderente 5 Peças Cereja com Revestimento Antiader…**
    - Categoria: Casa e Cozinha
    - Loja: Mercado Livre
    - Preço: R$ 166,65
    - Desconto: 36% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB33652298?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-10. **Fralda Descartável Pampers Supersequinha Jumbo M 90 Tiras**
+8. **Fralda Descartável Pampers Supersequinha Jumbo M 90 Tiras**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 98,99
    - Desconto: 32% OFF
    - Link: https://s.shopee.com.br/5foRuwqXtL
+
+9. **Fralda Huggies Natural Care Premium**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 43,90
+   - Desconto: 20% OFF
+   - Link: https://s.shopee.com.br/AAGsXVsOAs
+
+10. **Oxímetro Infantil Digital**
+   - Categoria: Saúde
+   - Loja: Shopee
+   - Preço: R$ 25,99
+   - Desconto: 61% OFF
+   - Link: https://s.shopee.com.br/20vAkQ2guv
 
 ## Ações gratuitas recomendadas
 

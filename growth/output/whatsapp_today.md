@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 03/09/2026 17:19
+Gerado em: 03/09/2026 18:22
 
 ## Como usar
 
@@ -117,14 +117,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
 ```txt
 🍼 Oferta para Mamãe e Bebê
 
-Fralda Descartável Pampers Supersequinha Jumbo M 90 Tiras
+Fralda Huggies Natural Care Premium
 
-💸 De: R$ 145,57
-🔥 Por: R$ 98,99
-🏷️ 32% OFF
+💸 De: R$ 54,87
+🔥 Por: R$ 43,90
+🏷️ 20% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/5foRuwqXtL
+Ver oferta: https://s.shopee.com.br/AAGsXVsOAs
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

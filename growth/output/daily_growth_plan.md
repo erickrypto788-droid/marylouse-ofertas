@@ -1,16 +1,16 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 02/09/2026 23:21
+Gerado em: 03/09/2026 00:06
 
 ## Categorias prioritárias
 
 - 🍼 **Mãe e Bebê**: 17 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🏋️ **Esportes**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
+- 🍳 **Casa e Cozinha**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 👗 **Moda Feminina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 💄 **Beleza**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🧸 **Brinquedos**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
-- ❤️ **Saúde**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
-- 🍳 **Casa e Cozinha**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
+- ❤️ **Saúde**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 🧒 **Moda Infantil**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-infantil.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-infantil
 - 👟 **Calçados**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
@@ -38,54 +38,54 @@ Gerado em: 02/09/2026 23:21
    - Desconto: 50% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB77039877?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-4. **Fralda Descartável Pampers Supersequinha Jumbo M 90 Tiras**
+4. **Jogo de Panelas Antiaderente 5 Peças Cereja com Revestimento Antiader…**
+   - Categoria: Casa e Cozinha
+   - Loja: Mercado Livre
+   - Preço: R$ 166,65
+   - Desconto: 36% OFF
+   - Link: https://www.mercadolivre.com.br/p/MLB33652298?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+5. **Fralda Descartável Pampers Supersequinha Jumbo M 90 Tiras**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 98,99
    - Desconto: 32% OFF
    - Link: https://s.shopee.com.br/5foRuwqXtL
 
-5. **Panela Elétrica Britânia 2L**
+6. **Panela Elétrica Britânia 2L**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 126,90
    - Desconto: 37% OFF
    - Link: https://s.shopee.com.br/3B760fsXAt
 
-6. **Suporte Ergonômico Portátil para Notebook**
+7. **Suporte Ergonômico Portátil para Notebook**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 17,97
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/3qMlTUhUvY
 
-7. **Fralda Infantil Huggies Meguinha Tamanho G 30 Unidades**
+8. **Fralda Infantil Huggies Meguinha Tamanho G 30 Unidades**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 37,89
    - Desconto: 25% OFF
    - Link: https://s.shopee.com.br/LmvZ9F6vd
 
-8. **Kit Pano de Boca 12 unidades 30x30cm 100%algodao**
+9. **Kit Pano de Boca 12 unidades 30x30cm 100%algodao**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 28,99
    - Desconto: 64% OFF
    - Link: https://s.shopee.com.br/AAGq0vgYyF
 
-9. **Cabo 4 em 1 PD 65W**
+10. **Cabo 4 em 1 PD 65W**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 14,99
    - Desconto: 75% OFF
    - Link: https://s.shopee.com.br/2BEWgyPlN1
-
-10. **Carregador Super Rápido Turbo 125w 50w 68w 168w Fonte Tipo C para cel…**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 19,99
-   - Desconto: 71% OFF
-   - Link: https://s.shopee.com.br/qjAQvzKxC
 
 ## Ações gratuitas recomendadas
 

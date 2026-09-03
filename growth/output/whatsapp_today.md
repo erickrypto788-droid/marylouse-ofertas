@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 02/09/2026 23:21
+Gerado em: 03/09/2026 00:06
 
 ## Como usar
 
@@ -147,14 +147,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
 ```txt
 🍳 Oferta para Casa e Cozinha
 
-Panela Elétrica Britânia 2L
+Jogo de Panelas Antiaderente 5 Peças Cereja com Revestimento Antiader…
 
-💸 De: R$ 201,43
-🔥 Por: R$ 126,90
-🏷️ 37% OFF
-🛒 Loja: Shopee
+💸 De: R$ 260,00
+🔥 Por: R$ 166,65
+🏷️ 36% OFF
+🛒 Loja: Mercado Livre
 
-Ver oferta: https://s.shopee.com.br/3B760fsXAt
+Ver oferta: https://www.mercadolivre.com.br/p/MLB33652298?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

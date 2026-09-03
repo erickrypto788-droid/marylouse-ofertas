@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 03/09/2026 02:22
+Gerado em: 03/09/2026 03:21
 
 ## Como usar
 
@@ -104,7 +104,7 @@ Gerado em: 03/09/2026 02:22
 
 - Cabo 4 em 1 PD 65W
 - Carregador Super Rápido Turbo 125w 50w 68w 168w Fonte Tipo C para cel…
-- Leitor Cartão USB C 3 em 1
+- Kit com 3/6/12/20 Unidades Protetor Tampa Câmera Webcam Anti-espião N…
 
 ---
 

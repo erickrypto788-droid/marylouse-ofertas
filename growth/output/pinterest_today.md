@@ -1,6 +1,6 @@
 # Pinterest Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 03/09/2026 03:21
+Gerado em: 03/09/2026 04:22
 
 ## Como usar
 
@@ -38,7 +38,7 @@ https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=pinterest&
 
 **Por que postar:**
 
-Categoria com 13 oferta(s) e boa intenção de compra.
+Categoria com 8 oferta(s) e boa intenção de compra.
 
 ---
 
@@ -58,7 +58,7 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
 
 **Descrição:**
 
-Veja ofertas de Casa e Cozinha selecionadas pela MaryLouse Ofertas. Destaque de hoje: Jogo de Panelas Antiaderente 5 Peças Cereja com Revestimento Antiader…. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Veja ofertas de Casa e Cozinha selecionadas pela MaryLouse Ofertas. Destaque de hoje: Panela Arroz Elétrica Fmaxx 10 Xícaras. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
@@ -66,7 +66,7 @@ https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=pinter
 
 **Por que postar:**
 
-Categoria com 9 oferta(s) e boa intenção de compra.
+Categoria com 10 oferta(s) e boa intenção de compra.
 
 ---
 
@@ -126,27 +126,27 @@ Categoria com 7 oferta(s) e boa intenção de compra.
 
 ---
 
-## Pin 5 — Informática
+## Pin 5 — Casa e Cozinha
 
 **Tipo:** produto_direto
 
-**Board sugerido:** Celulares e Tecnologia
+**Board sugerido:** Achadinhos de Casa
 
 **Imagem para upload no Pinterest:**
 
-https://marylouse-ofertas.vercel.app/growth/pinterest/informatica.png
+https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
 
 **Título:**
 
-74% OFF: Unidade De Estado Sólido Portátil SSD Externa E61 4TB 128TB 1TB 2TB T…
+65% OFF: Panela Arroz Elétrica Fmaxx 10 Xícaras
 
 **Descrição:**
 
-Oferta destaque em Informática encontrada pela MaryLouse Ofertas. Preço: R$ 57,46. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Oferta destaque em Casa e Cozinha encontrada pela MaryLouse Ofertas. Preço: R$ 139,99. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
-https://s.shopee.com.br/3LQXP8vu9Z
+https://s.shopee.com.br/7VG6Qv8xWD
 
 **Por que postar:**
 

@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 03/09/2026 03:21
+Gerado em: 03/09/2026 04:22
 
 ## Como usar
 
@@ -12,7 +12,37 @@ Gerado em: 03/09/2026 03:21
 
 ---
 
-## Post 1 — Beleza e Cuidados
+## Post 1 — Casa e Cozinha
+
+**Canal recomendado:** Casa e Cozinha
+
+**Horário sugerido:** 18:00 - 20:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
+
+**Texto pronto:**
+
+```txt
+🍳 Oferta para Casa e Cozinha
+
+Panela Arroz Elétrica Fmaxx 10 Xícaras
+
+💸 De: R$ 399,97
+🔥 Por: R$ 139,99
+🏷️ 65% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/7VG6Qv8xWD
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 2 — Beleza e Cuidados
 
 **Canal recomendado:** Beleza e Cuidados
 
@@ -42,7 +72,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 2 — Mamãe e Bebê
+## Post 3 — Mamãe e Bebê
 
 **Canal recomendado:** Mamãe e Bebê
 
@@ -72,7 +102,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 3 — Moda Feminina
+## Post 4 — Moda Feminina
 
 **Canal recomendado:** Moda Feminina
 
@@ -95,36 +125,6 @@ Conjunto Feminino Cropped e Calça Mercy
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/8AVkpod1y4
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 4 — Casa e Cozinha
-
-**Canal recomendado:** Casa e Cozinha
-
-**Horário sugerido:** 18:00 - 20:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
-
-**Texto pronto:**
-
-```txt
-🍳 Oferta para Casa e Cozinha
-
-Jogo de Panelas Antiaderente 5 Peças Cereja com Revestimento Antiader…
-
-💸 De: R$ 260,00
-🔥 Por: R$ 166,65
-🏷️ 36% OFF
-🛒 Loja: Mercado Livre
-
-Ver oferta: https://www.mercadolivre.com.br/p/MLB33652298?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

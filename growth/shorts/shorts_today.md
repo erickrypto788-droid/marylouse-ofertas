@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 03/09/2026 03:21
+Gerado em: 03/09/2026 04:22
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 03/09/2026 03:21
 **Produtos usados:**
 
 - Kit Pano de Boca 12 unidades 30x30cm 100%algodao
-- Berço Portátil de Bebê Dobrável Balanço Moisés com Colchão Mosquiteir…
 - Fralda Descartável Pampers Supersequinha Jumbo M 90 Tiras
+- Fralda Infantil Huggies Meguinha Tamanho G 30 Unidades
 
 ---
 
@@ -54,9 +54,9 @@ Gerado em: 03/09/2026 03:21
 
 **Produtos usados:**
 
+- Panela Arroz Elétrica Fmaxx 10 Xícaras
 - Jogo de Panelas Antiaderente 5 Peças Cereja com Revestimento Antiader…
 - Panela Elétrica Britânia 2L
-- Kit 2 Formas de Silicone para Doces e Creatina
 
 ---
 
@@ -121,11 +121,13 @@ Gerado em: 03/09/2026 03:21
 - growth/shorts/slides/supermercados/01_intro.png
 - growth/shorts/slides/supermercados/02_produto_1.png
 - growth/shorts/slides/supermercados/03_produto_2.png
+- growth/shorts/slides/supermercados/04_produto_3.png
 - growth/shorts/slides/supermercados/05_cta.png
 
 **Produtos usados:**
 
-- Azeite Oliva Extra Virgem Português Vila Oliva 500ml (3 Un)
-- 100 Sacos de Lixo 60L Reforçados
+- Kit 2 Borrifadores de Azeite Vinagre Líquidos Pulverizador Culinário…
+- Galheteiro Azeite Borrifador Dosador 2 em 1 Economico vidro 470ml Óle…
+- Criativo Feijão Artesanato 3D Molde Caixa Conjunto Completo Com Ferra…
 
 ---

@@ -1,5 +1,22 @@
 [
   {
+    "id": "9a484e0e71332173de",
+    "title": "Impressora Etiquetas + 1000 Etiquetas",
+    "raw_title": "Impressora Etiquetas Código Barras + 1.000 Etiquetas Cor Branco",
+    "description": "🚀 Otimize seu Negócio Agora! Chega de complicação! Com a Impressora de Etiquetas Código de Barras, você organiza seu estoque e agiliza suas vendas. 🏷️ J...",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "",
+    "price": "R$ 448,99",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_878767-MLA84806101469_052025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50110319?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "03/09/2026 13:01",
+    "created_at_iso": "2026-09-03T13:01:48",
+    "created_ts": 1788440508
+  },
+  {
     "id": "5a5128b0c8c5015fb2",
     "title": "Aspirador de Pó 2 em 1 Limpeza Portátil Sem Fio Multifuncional Para L…",
     "raw_title": "Aspirador de Pó 2 em 1 Limpeza Portátil Sem Fio Multifuncional Para Limpeza De Casa Manual",
@@ -2065,86 +2082,6 @@
     "niche": {
       "key": "shopee_roupas_plus_size",
       "name": "Roupas Plus Size"
-    }
-  },
-  {
-    "id": "aaad7cbe4ad946fa9a",
-    "title": "SSD Nvme Asgard AN4 1tb Gen4",
-    "raw_title": "SSD Nvme Asgard AN4 1tb Gen4",
-    "description": "🔥 Oferta encontrada! 📌 SSD Nvme Asgard AN4 1tb Gen4 Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Mercado Livre",
-    "category": "Informática",
-    "old_price": "",
-    "price": "R$ 1.449,90",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_638062-MLA99489879142_112025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24522367?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "02/09/2026 13:01",
-    "created_at_iso": "2026-09-02T13:01:28",
-    "created_ts": 1788354088
-  },
-  {
-    "id": "1c21bd61ba36e7ccd6",
-    "title": "Calça Jeans Masculina Lycra Premium Slim Casual Elegante para o Dia a…",
-    "raw_title": "Calça Jeans Masculina Lycra Premium Slim Casual Elegante para o Dia a Dia",
-    "description": "🔥 18% OFF — Oferta encontrada! 📌 Calça Jeans Masculina Lycra Premium Slim Casual Elegante para o Dia a Dia Confira os detalhes e aproveite enquanto a of...",
-    "marketplace": "Shopee",
-    "category": "Roupas Masculinas",
-    "old_price": "R$ 59,74",
-    "price": "R$ 48,99",
-    "discount_percent": 18.0,
-    "rating": 4.7,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m1-mo33pw5u56v504",
-    "affiliate_url": "https://s.shopee.com.br/8V8cYpxSb7",
-    "created_at": "02/09/2026 12:20",
-    "created_at_iso": "2026-09-02T12:20:04",
-    "created_ts": 1788351604,
-    "niche": {
-      "key": "shopee_roupas_masculinas",
-      "name": "Roupas Masculinas"
-    }
-  },
-  {
-    "id": "f5f6721e4831c239b5",
-    "title": "Calça Jogger Preta Masculina Dry Fit Com Fitas Esportiva",
-    "raw_title": "Calça Jogger Preta Masculina Dry Fit Com Fitas Esportiva",
-    "description": "🔥 22% OFF — Oferta encontrada! 📌 Calça Jogger Preta Masculina Dry Fit Com Fitas Esportiva Confira os detalhes e aproveite enquanto a oferta estiver disp...",
-    "marketplace": "Shopee",
-    "category": "Roupas Masculinas",
-    "old_price": "R$ 49,99",
-    "price": "R$ 38,99",
-    "discount_percent": 22.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lp2ydonmf0wle7",
-    "affiliate_url": "https://s.shopee.com.br/6L47yr5hzs",
-    "created_at": "02/09/2026 12:18",
-    "created_at_iso": "2026-09-02T12:18:59",
-    "created_ts": 1788351539,
-    "niche": {
-      "key": "shopee_roupas_masculinas",
-      "name": "Roupas Masculinas"
-    }
-  },
-  {
-    "id": "5f031089cc3f24c78e",
-    "title": "Calça Masculina Esporte Fino Estilo Social - Sport Fino",
-    "raw_title": "Calça Masculina Esporte Fino Estilo Social - Sport Fino",
-    "description": "🔥 33% OFF — Oferta encontrada! 📌 Calça Masculina Esporte Fino Estilo Social - Sport Fino Confira os detalhes e aproveite enquanto a oferta estiver dispo...",
-    "marketplace": "Shopee",
-    "category": "Roupas Masculinas",
-    "old_price": "R$ 119,49",
-    "price": "R$ 80,06",
-    "discount_percent": 33.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820mf-mnkjjlw2lceca5",
-    "affiliate_url": "https://s.shopee.com.br/AUtgwVpqXZ",
-    "created_at": "02/09/2026 12:17",
-    "created_at_iso": "2026-09-02T12:17:55",
-    "created_ts": 1788351475,
-    "niche": {
-      "key": "shopee_roupas_masculinas",
-      "name": "Roupas Masculinas"
     }
   }
 ]

@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 03/09/2026 23:22
+Gerado em: 04/09/2026 00:19
 
 ## Categorias prioritárias
 
@@ -8,12 +8,12 @@ Gerado em: 03/09/2026 23:22
 - 📚 **Papelaria**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 - 📦 **Outros**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 👟 **Calçados**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 🍼 **Mãe e Bebê**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
-- 👜 **Bolsas**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
-- 🍳 **Casa e Cozinha**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
+- 👜 **Bolsas**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 - 👗 **Moda Feminina**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 🏋️ **Esportes**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
+- 💄 **Beleza**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 
 ## Top ofertas para destacar
 
@@ -59,33 +59,33 @@ Gerado em: 03/09/2026 23:22
    - Desconto: 41% OFF
    - Link: https://s.shopee.com.br/4qFL3f31YV
 
-7. **Jogo de Panelas Antiaderente 5 Peças Cereja com Revestimento Antiader…**
-   - Categoria: Casa e Cozinha
-   - Loja: Mercado Livre
-   - Preço: R$ 166,65
-   - Desconto: 36% OFF
-   - Link: https://www.mercadolivre.com.br/p/MLB33652298?matt_word=marylouse&matt_tool=50459180&forceInApp=true
-
-8. **Ração Quatree Life 10.1Kg Ração Quatree Gatos Adultos Salmão e Arroz…**
+7. **Ração Quatree Life 10.1Kg Ração Quatree Gatos Adultos Salmão e Arroz…**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 151,99
    - Desconto: 23% OFF
    - Link: https://s.shopee.com.br/6fgzROC8D6
 
-9. **Monitor Gamer Curvo 24" IPS Full HD 180Hz Adaptive Sync Alto-Falante…**
+8. **Monitor Gamer Curvo 24" IPS Full HD 180Hz Adaptive Sync Alto-Falante…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 523,88
    - Desconto: 51% OFF
    - Link: https://s.shopee.com.br/6q0PZZduE4
 
-10. **Fralda Huggies Natural Care Premium**
+9. **Fralda Huggies Natural Care Premium**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 43,90
    - Desconto: 20% OFF
    - Link: https://s.shopee.com.br/AAGsXVsOAs
+
+10. **Oxímetro Infantil Digital**
+   - Categoria: Saúde
+   - Loja: Shopee
+   - Preço: R$ 25,99
+   - Desconto: 61% OFF
+   - Link: https://s.shopee.com.br/20vAkQ2guv
 
 ## Ações gratuitas recomendadas
 

@@ -1,5 +1,89 @@
 [
   {
+    "id": "7a9b8360288f0af10c",
+    "title": "Creme Hidratante Facial Principia CH-01 - 50g",
+    "raw_title": "Creme Hidratante Facial 5% Manteiga de Karité + 5% Glicerina + 2% Niacinamida CH-01Principia - 50g",
+    "description": "✨ PELE IMPECÁVEL com Principia! Creme Hidratante Facial CH-01 com 5% Manteiga de Karité + 5% Glicerina + 2% Niacinamida. Hidratação profunda e melhora d...",
+    "marketplace": "Shopee",
+    "category": "Beleza",
+    "old_price": "R$ 42,86",
+    "price": "R$ 39,00",
+    "discount_percent": 9.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-maa1iap089dl6d",
+    "affiliate_url": "https://s.shopee.com.br/80CNcwJJGg",
+    "created_at": "04/09/2026 08:19",
+    "created_at_iso": "2026-09-04T08:19:16",
+    "created_ts": 1788509956,
+    "niche": {
+      "key": "shopee_beleza",
+      "name": "Beleza"
+    }
+  },
+  {
+    "id": "4f4c63b04eb3454c71",
+    "title": "Kit Protetor Solar Principia FPS 60 + 70",
+    "raw_title": "Principia Kit Protetor Solar PS-01 FPS 60 + PS-05 FPS 70- escolha seu tom",
+    "description": "☀️ Proteção máxima para sua pele com Principia! Garanta o Kit Protetor Solar com FPS 60 e FPS 70 e cuide-se do sol com o tom perfeito para você. ✨",
+    "marketplace": "Shopee",
+    "category": "Beleza",
+    "old_price": "R$ 107,99",
+    "price": "R$ 80,99",
+    "discount_percent": 25.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820la-mmt07g0rint06e",
+    "affiliate_url": "https://s.shopee.com.br/3B77s3bqaa",
+    "created_at": "04/09/2026 08:18",
+    "created_at_iso": "2026-09-04T08:18:09",
+    "created_ts": 1788509889,
+    "niche": {
+      "key": "shopee_beleza",
+      "name": "Beleza"
+    }
+  },
+  {
+    "id": "5f8a091f19ed4c3c6f",
+    "title": "Escova Rotativa Profissional 2 em 1",
+    "raw_title": "Escova Rotativa Elétrica Secador de cabelo Professinal 2 em 1 110v e 220v",
+    "description": "✨ Cabelos de salão em casa! Tenha o poder de um salão nas suas mãos com a Escova Rotativa Elétrica Secador de Cabelo Profissional 2 em 1! 💁‍♀️ Seca, mod...",
+    "marketplace": "Shopee",
+    "category": "Beleza",
+    "old_price": "R$ 303,00",
+    "price": "R$ 99,99",
+    "discount_percent": 67.0,
+    "rating": 4.6,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7rd6i-lv0qqd9yygwye3",
+    "affiliate_url": "https://s.shopee.com.br/9zxS0c3Aj2",
+    "created_at": "04/09/2026 08:17",
+    "created_at_iso": "2026-09-04T08:17:02",
+    "created_ts": 1788509822,
+    "niche": {
+      "key": "shopee_beleza",
+      "name": "Beleza"
+    }
+  },
+  {
+    "id": "6a58e2c0bdb54e7350",
+    "title": "Body Splash Masculino Barbarius Primacial",
+    "raw_title": "BODY SPLASH MASCULINO BARBARIUS 200ML - PRIMACIAL PERFUME AMADEIRADO",
+    "description": "🔥 IMPERDÍVEL! Body Splash Masculino Barbarius Primacial com 48% OFF! Tenha uma fragrância amadeirada marcante que te acompanha em todos os momentos. Ide...",
+    "marketplace": "Shopee",
+    "category": "Beleza",
+    "old_price": "R$ 70,13",
+    "price": "R$ 36,47",
+    "discount_percent": 48.0,
+    "rating": 4.7,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820l8-mr0al1uy9z47a0",
+    "affiliate_url": "https://s.shopee.com.br/3VjyGfJ7KF",
+    "created_at": "04/09/2026 08:15",
+    "created_at_iso": "2026-09-04T08:15:45",
+    "created_ts": 1788509745,
+    "niche": {
+      "key": "shopee_beleza",
+      "name": "Beleza"
+    }
+  },
+  {
     "id": "602b6abde3a405a613",
     "title": "Liquidificador Portátil com LED",
     "raw_title": "Liquidificador Triturador Compacto para suco com Led - suco e frutas Bivolt 600ml novo ZZJ",
@@ -1825,149 +1909,6 @@
     "niche": {
       "key": "shopee_sapatos_masculinos",
       "name": "Sapatos Masculinos"
-    }
-  },
-  {
-    "id": "8b4d10840e1192d7b9",
-    "title": "Calça Wide Leg Cargo Modeladora",
-    "raw_title": "Calça Wid Leg Cargo Modeladora Blogueira Moda",
-    "description": "🔥 LANÇAMENTO IMPERDÍVEL! 🔥 Arrase com a Calça Wide Leg Cargo Modeladora Blogueira Moda! 😍 Perfeita para valorizar suas curvas e te deixar super estilosa...",
-    "marketplace": "Shopee",
-    "category": "Roupas Plus Size",
-    "old_price": "R$ 89,90",
-    "price": "R$ 89,00",
-    "discount_percent": 1.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi6t8mc0ntab1e",
-    "affiliate_url": "https://s.shopee.com.br/3LQXjkGlF4",
-    "created_at": "03/09/2026 08:17",
-    "created_at_iso": "2026-09-03T08:17:00",
-    "created_ts": 1788423420,
-    "niche": {
-      "key": "shopee_roupas_plus_size",
-      "name": "Roupas Plus Size"
-    }
-  },
-  {
-    "id": "4cdd104ab454221433",
-    "title": "Vestido Plus Size Rodado Suplex",
-    "raw_title": "Vestido rodado Plus Size manga fler com a faixa Suplex Digital 44/46/48/50/52 g gg g1 g2",
-    "description": "✨ Estilo e Conforto para você! Arrase com o Vestido rodado Plus Size manga fler, em Suplex Digital! Perfeito para todas as ocasiões, realçando sua belez...",
-    "marketplace": "Shopee",
-    "category": "Roupas Plus Size",
-    "old_price": "R$ 38,76",
-    "price": "R$ 34,88",
-    "discount_percent": 10.0,
-    "rating": 4.7,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lg-mpt4jxd5rpqbe4",
-    "affiliate_url": "https://s.shopee.com.br/8fS45Y0vSF",
-    "created_at": "03/09/2026 08:15",
-    "created_at_iso": "2026-09-03T08:15:48",
-    "created_ts": 1788423348,
-    "niche": {
-      "key": "shopee_roupas_plus_size",
-      "name": "Roupas Plus Size"
-    }
-  },
-  {
-    "id": "9f7067ec89c25c5e97",
-    "title": "Ulefone Note 18 Ultra 256GB 6GB RAM 5G Branco",
-    "raw_title": "Ulefone Note 18 Ultra 256GB 6GB RAM Celular 5G 5450mAh Câmera 50MP Branco",
-    "description": "🚀 **Ulefone Note 18 Ultra: Potência e velocidade na palma da sua mão!** Este celular 5G vem com 256GB de armazenamento, 6GB RAM e uma bateria gigante de...",
-    "marketplace": "Mercado Livre",
-    "category": "Informática",
-    "old_price": "",
-    "price": "R$ 1.965,43",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_805210-MLA114871829618_082026-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77446522?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "03/09/2026 08:01",
-    "created_at_iso": "2026-09-03T08:01:48",
-    "created_ts": 1788422508
-  },
-  {
-    "id": "aa4ece49cdf17a6454",
-    "title": "Kit Cuecas Boxer Infantil/Juvenil",
-    "raw_title": "Cueca Infantil Juvenil Box Boxer Kit 5 ou 10 Peças Microfibra Menino 2 a 16 Anos Confortável",
-    "description": "Conforto e economia para os meninos! 🚀 Kit de Cuecas Boxer Infantil/Juvenil de Microfibra! Perfeito para o dia a dia, super confortável para crianças e...",
-    "marketplace": "Shopee",
-    "category": "Roupas Masculinas",
-    "old_price": "R$ 45,19",
-    "price": "R$ 33,89",
-    "discount_percent": 25.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdfxskukjmj549",
-    "affiliate_url": "https://s.shopee.com.br/8V8dp7lV1l",
-    "created_at": "03/09/2026 07:21",
-    "created_at_iso": "2026-09-03T07:21:22",
-    "created_ts": 1788420082,
-    "niche": {
-      "key": "shopee_roupas_masculinas",
-      "name": "Roupas Masculinas"
-    }
-  },
-  {
-    "id": "27496990e6fa0fc387",
-    "title": "Kit 3 Shorts Infantis Chimpa",
-    "raw_title": "Short infantil Chimpa - Kit com 3 shorts - Ótimos para ir para a escola, e para ficar em casa!",
-    "description": "🏃‍♀️🏃‍♂️ Conforto e Estilo para os Pequenos! Garanta o Kit com 3 Shorts Infantis Chimpa, perfeitos para a escola e para brincar em casa. Seu filho vai a...",
-    "marketplace": "Shopee",
-    "category": "Roupas Masculinas",
-    "old_price": "R$ 44,96",
-    "price": "R$ 37,77",
-    "discount_percent": 16.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mdyza9lsqj9d0b",
-    "affiliate_url": "https://s.shopee.com.br/qjCh26A3y",
-    "created_at": "03/09/2026 07:20",
-    "created_at_iso": "2026-09-03T07:20:16",
-    "created_ts": 1788420016,
-    "niche": {
-      "key": "shopee_roupas_masculinas",
-      "name": "Roupas Masculinas"
-    }
-  },
-  {
-    "id": "eef4cae095b91c27ac",
-    "title": "Calça Jogger Run Masculina Tactel",
-    "raw_title": "Calça Jogger Run P ao G4 Tactel com Elastano para Treino Esportiva Masculina Original com Punho",
-    "description": "🏃‍♂️ Treine com ESTILO e CONFORTO! Calça Jogger Run Masculina Original em Tactel com Elastano. Perfeita para seus treinos e dia a dia, do P ao G4! Garan...",
-    "marketplace": "Shopee",
-    "category": "Roupas Masculinas",
-    "old_price": "R$ 58,71",
-    "price": "R$ 36,99",
-    "discount_percent": 37.0,
-    "rating": 4.5,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lm-mq672er1au4g50",
-    "affiliate_url": "https://s.shopee.com.br/4VcV3lsCci",
-    "created_at": "03/09/2026 07:19",
-    "created_at_iso": "2026-09-03T07:19:09",
-    "created_ts": 1788419949,
-    "niche": {
-      "key": "shopee_roupas_masculinas",
-      "name": "Roupas Masculinas"
-    }
-  },
-  {
-    "id": "a6a9d8705a51f33f7f",
-    "title": "Calça Jeans Masculina Slim",
-    "raw_title": "Calça Jeans Masculina Slim Elastano Atacado",
-    "description": "🚨 IMPERDÍVEL! Calça Jeans Masculina Slim com 30% OFF! 👖 Conforto e estilo para o seu dia a dia. Perfeita para qualquer ocasião, com elastano para o caim...",
-    "marketplace": "Shopee",
-    "category": "Roupas Masculinas",
-    "old_price": "R$ 69,99",
-    "price": "R$ 48,99",
-    "discount_percent": 30.0,
-    "rating": 4.6,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lf-mo33uq1kc6iq79",
-    "affiliate_url": "https://s.shopee.com.br/5LBc3It9k2",
-    "created_at": "03/09/2026 07:16",
-    "created_at_iso": "2026-09-03T07:16:59",
-    "created_ts": 1788419819,
-    "niche": {
-      "key": "shopee_roupas_masculinas",
-      "name": "Roupas Masculinas"
     }
   }
 ]

@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 04/09/2026 02:21
+Gerado em: 04/09/2026 03:18
 
 ## Como usar
 
@@ -147,14 +147,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Calça Lanzinha Cintura Alta Inverno
+Kit 4 Blusa Plus Size Camiseta Dry Fit Roupa de Academia Feminina Lon…
 
-💸 De: R$ 99,93
-🔥 Por: R$ 29,98
-🏷️ 70% OFF
+💸 De: R$ 239,66
+🔥 Por: R$ 69,50
+🏷️ 71% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/3qMpSiXbFh
+Ver oferta: https://s.shopee.com.br/7AdGInAtku
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

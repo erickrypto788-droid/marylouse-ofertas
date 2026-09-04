@@ -1,5 +1,47 @@
 [
   {
+    "id": "8ebb1ceba445d465b1",
+    "title": "Tênis Feminino Masculino Diker Esportivo Caminhada Academia",
+    "raw_title": "Tênis Feminino Masculino Diker Esportivo Caminhada Academia",
+    "description": "🔥 10% OFF — Oferta encontrada! 📌 Tênis Feminino Masculino Diker Esportivo Caminhada Academia Confira os detalhes e aproveite enquanto a oferta estiver d...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Femininos",
+    "old_price": "R$ 38,90",
+    "price": "R$ 35,01",
+    "discount_percent": 10.0,
+    "rating": 4.7,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7qukw-lgv5e9fc3x6e20",
+    "affiliate_url": "https://s.shopee.com.br/AKaIXSonXs",
+    "created_at": "04/09/2026 05:17",
+    "created_at_iso": "2026-09-04T05:17:49",
+    "created_ts": 1788499069,
+    "niche": {
+      "key": "shopee_sapatos_femininos",
+      "name": "Sapatos Femininos"
+    }
+  },
+  {
+    "id": "21ce0a0ae71e5a5607",
+    "title": "Bota Coturno Tratorado Blogueira",
+    "raw_title": "Bota Feminina Coturno Tratorado Blogueira Confortavel PROMOÇÃO PREÇO DE FABRICA",
+    "description": "👢 PROMOÇÃO RELÂMPAGO! 👢 Bota Feminina Coturno Tratorado Blogueira Confortável com PREÇO DE FÁBRICA! 🔥 Estilo e conforto para seus pés.",
+    "marketplace": "Shopee",
+    "category": "Sapatos Femininos",
+    "old_price": "R$ 99,67",
+    "price": "R$ 59,80",
+    "discount_percent": 40.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7qukw-lk6sqzmzpkzufe",
+    "affiliate_url": "https://s.shopee.com.br/6AkjFCAoQj",
+    "created_at": "04/09/2026 05:15",
+    "created_at_iso": "2026-09-04T05:15:45",
+    "created_ts": 1788498945,
+    "niche": {
+      "key": "shopee_sapatos_femininos",
+      "name": "Sapatos Femininos"
+    }
+  },
+  {
     "id": "f4c5d59245d52ff318",
     "title": "Ração Cachorro Selection Adultos Pequenos 10,1kg Harmony",
     "raw_title": "Ração Cachorro Selection Adultos Pequenos 10,1kg Harmony",
@@ -1960,22 +2002,5 @@
       "key": "shopee_roupas_femininas",
       "name": "Roupas Femininas"
     }
-  },
-  {
-    "id": "f8c1f98a23a406a2c4",
-    "title": "Brinquedo Lider Kit Ferramentas - 2381",
-    "raw_title": "Brinquedo Lider Kit Ferramentas - 2381",
-    "description": "🔥 Oferta encontrada! 📌 Brinquedo Lider Kit Ferramentas - 2381 Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Mercado Livre",
-    "category": "Brinquedos e Hobbies",
-    "old_price": "",
-    "price": "R$ 119,00",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_735715-MLA99504869284_112025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45785598?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "03/09/2026 05:01",
-    "created_at_iso": "2026-09-03T05:01:50",
-    "created_ts": 1788411710
   }
 ]

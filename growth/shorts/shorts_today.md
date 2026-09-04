@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 04/09/2026 15:17
+Gerado em: 04/09/2026 16:22
 
 ## Como usar
 
@@ -121,12 +121,10 @@ Gerado em: 04/09/2026 15:17
 - growth/shorts/slides/supermercados/01_intro.png
 - growth/shorts/slides/supermercados/02_produto_1.png
 - growth/shorts/slides/supermercados/03_produto_2.png
-- growth/shorts/slides/supermercados/04_produto_3.png
 - growth/shorts/slides/supermercados/05_cta.png
 
 **Produtos usados:**
 
-- Kit Banheiro Infantil Lego | Porta Escova + Porta Papel Higiênico + P…
 - Puff Orgânico Curvo - 1 Metro Elegância e Conforto Moderno Feijao mod…
 - Ração Quatree Life 10.1Kg Ração Quatree Gatos Adultos Salmão e Arroz…
 

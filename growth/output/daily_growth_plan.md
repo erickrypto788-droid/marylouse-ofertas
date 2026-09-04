@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 04/09/2026 11:27
+Gerado em: 04/09/2026 12:19
 
 ## Categorias prioritárias
 
@@ -52,40 +52,40 @@ Gerado em: 04/09/2026 11:27
    - Desconto: 51% OFF
    - Link: https://s.shopee.com.br/8plUcT38zq
 
-6. **Sandália Flatform Infantil Glady Strass**
+6. **Garrafa Térmica Termometro Digital 1L Café Chá Nórdica Com Cabo Madei…**
+   - Categoria: Saúde
+   - Loja: Shopee
+   - Preço: R$ 44,99
+   - Desconto: 59% OFF
+   - Link: https://s.shopee.com.br/3LQYKrostg
+
+7. **Sandália Flatform Infantil Glady Strass**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 37,90
    - Desconto: 62% OFF
    - Link: https://s.shopee.com.br/3LQY8TiKvD
 
-7. **Escova Rotativa Profissional 2 em 1**
+8. **Escova Rotativa Profissional 2 em 1**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 99,99
    - Desconto: 67% OFF
    - Link: https://s.shopee.com.br/9zxS0c3Aj2
 
-8. **Liquidificador Portátil com LED**
+9. **Liquidificador Portátil com LED**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 78,68
    - Desconto: 50% OFF
    - Link: https://s.shopee.com.br/7AdGZHXdVa
 
-9. **Ração Quatree Life 10.1Kg Ração Quatree Gatos Adultos Salmão e Arroz…**
+10. **Ração Quatree Life 10.1Kg Ração Quatree Gatos Adultos Salmão e Arroz…**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 151,99
    - Desconto: 23% OFF
    - Link: https://s.shopee.com.br/6fgzROC8D6
-
-10. **Monitor Gamer Curvo 24" IPS Full HD 180Hz Adaptive Sync Alto-Falante…**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 523,88
-   - Desconto: 51% OFF
-   - Link: https://s.shopee.com.br/6q0PZZduE4
 
 ## Ações gratuitas recomendadas
 

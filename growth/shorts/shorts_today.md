@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 04/09/2026 00:19
+Gerado em: 04/09/2026 01:22
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 04/09/2026 00:19
 **Produtos usados:**
 
 - Fralda Huggies Natural Care Premium
+- Kit 3 T-Shirt Algodão 30.1 Comfort Confortavel Estilosa Baby Look Cas…
 - Fralda Huggies Máxima Proteção / * Antiga Supreme Care | P | M | G |…
-- Fralda Huggies G 36 Unid.
 
 ---
 

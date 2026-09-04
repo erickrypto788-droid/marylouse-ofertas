@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 04/09/2026 17:22
+Gerado em: 04/09/2026 18:22
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 04/09/2026 17:22
 **Produtos usados:**
 
 - Berço Portátil Com Mosquiteiro Cama De Duas Camas 0-3 Anos Fecho De S…
-- Fralda Huggies Natural Care Premium
 - Tênis Branco Infantil Unissex
+- Kit 3 T-Shirt Algodão 30.1 Comfort Confortavel Estilosa Baby Look Cas…
 
 ---
 
@@ -119,11 +119,13 @@ Gerado em: 04/09/2026 17:22
 - growth/shorts/slides/supermercados/01_intro.png
 - growth/shorts/slides/supermercados/02_produto_1.png
 - growth/shorts/slides/supermercados/03_produto_2.png
+- growth/shorts/slides/supermercados/04_produto_3.png
 - growth/shorts/slides/supermercados/05_cta.png
 
 **Produtos usados:**
 
+- Casca de Arroz Carbonizada
 - Puff Orgânico Curvo - 1 Metro Elegância e Conforto Moderno Feijao mod…
-- Ração Quatree Life 10.1Kg Ração Quatree Gatos Adultos Salmão e Arroz…
+- Kit Explosão de Azeite de Oliva | bn.Cachos
 
 ---

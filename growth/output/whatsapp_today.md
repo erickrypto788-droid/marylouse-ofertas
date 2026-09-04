@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 04/09/2026 06:03
+Gerado em: 04/09/2026 06:20
 
 ## Como usar
 
@@ -12,7 +12,37 @@ Gerado em: 04/09/2026 06:03
 
 ---
 
-## Post 1 — Beleza e Cuidados
+## Post 1 — Celulares e Tecnologia
+
+**Canal recomendado:** Celulares e Tecnologia
+
+**Horário sugerido:** 19:00 - 21:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
+
+**Texto pronto:**
+
+```txt
+📱 Oferta para Celulares e Tecnologia
+
+Suporte Capacete Câmera/Celular
+
+💸 De: R$ 86,60
+🔥 Por: R$ 25,98
+🏷️ 70% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/112d9qImng
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 2 — Beleza e Cuidados
 
 **Canal recomendado:** Beleza e Cuidados
 
@@ -35,36 +65,6 @@ Perfumes Brand Collection 25ml - Fragrâncias femininas
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/7AdGdP0U2j
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 2 — Celulares e Tecnologia
-
-**Canal recomendado:** Celulares e Tecnologia
-
-**Horário sugerido:** 19:00 - 21:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
-
-**Texto pronto:**
-
-```txt
-📱 Oferta para Celulares e Tecnologia
-
-celulares smartphones 6.78 Polegadas celular 5g 16GB+512GB Câmera HD…
-
-💸 De: R$ 3.320,00
-🔥 Por: R$ 1.660,00
-🏷️ 50% OFF
-🛒 Loja: Mercado Livre
-
-Ver oferta: https://www.mercadolivre.com.br/p/MLB78262248?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

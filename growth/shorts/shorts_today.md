@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 04/09/2026 07:18
+Gerado em: 04/09/2026 08:21
 
 ## Como usar
 
@@ -80,7 +80,7 @@ Gerado em: 04/09/2026 07:18
 
 - Perfumes Brand Collection 25ml - Fragrâncias femininas
 - Secador Profissional LONYAN
-- Corretivo Líquido Under Eye 10 ML - Ruby Kisses
+- Escova Rotativa Profissional 2 em 1
 
 ---
 

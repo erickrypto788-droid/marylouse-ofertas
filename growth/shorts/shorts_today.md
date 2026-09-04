@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 04/09/2026 12:19
+Gerado em: 04/09/2026 13:22
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 04/09/2026 12:19
 
 **Produtos usados:**
 
+- Berço Portátil Com Mosquiteiro Cama De Duas Camas 0-3 Anos Fecho De S…
 - Fralda Huggies Natural Care Premium
 - Tênis Branco Infantil Unissex
-- Kit 3 T-Shirt Algodão 30.1 Comfort Confortavel Estilosa Baby Look Cas…
 
 ---
 
@@ -78,9 +78,9 @@ Gerado em: 04/09/2026 12:19
 
 **Produtos usados:**
 
-- Perfumes Brand Collection 25ml - Fragrâncias femininas
-- Secador Profissional LONYAN
 - Escova Rotativa Profissional 2 em 1
+- Body Splash Masculino Barbarius Primacial
+- Kit Protetor Solar Principia FPS 60 + 70
 
 ---
 

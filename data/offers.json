@@ -1,5 +1,22 @@
 [
   {
+    "id": "9421ac6364b14b7812",
+    "title": "Body Modelador Nayane Short",
+    "raw_title": "Body Modelador Nayane Short Feminino Cor Cristal Tamanho EG",
+    "description": "Sinta-se confiante e poderosa! ✨ Realce sua silhueta com o Body Modelador Nayane Short Feminino. Conforto e caimento impecável para qualquer look! 💖 Tam...",
+    "marketplace": "Mercado Livre",
+    "category": "Roupas Femininas",
+    "old_price": "",
+    "price": "R$ 151,70",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_723789-MLA95555705961_102025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB56081727?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "04/09/2026 10:04",
+    "created_at_iso": "2026-09-04T10:04:01",
+    "created_ts": 1788516241
+  },
+  {
     "id": "30640ac96ddce8add5",
     "title": "Kit 3 Camisetas Infantis Algodão",
     "raw_title": "Kit 3 Camisetas Infantis 100% Algodão Gola Redonda Califórnia Blogueirinho Adolescente Streetwear",
@@ -1952,22 +1969,5 @@
       "key": "shopee_sapatos_femininos",
       "name": "Sapatos Femininos"
     }
-  },
-  {
-    "id": "8f5595c3a8105687bc",
-    "title": "Difusor Umidificador Ultrassônico 1.5L",
-    "raw_title": "Difusor Ar Umidificador Umidificador Ar 1.5l Humidifiicador Ar Ultrassonico Umidificador Doméstico Para Quarto Sala Berçário Operação Silenciosa Umidificação...",
-    "description": "✨ Ar puro e fresco com 49% OFF! Transforme o ambiente da sua casa com o Difusor Umidificador Ultrassônico de 1.5L! Perfeito para quarto, sala ou berçári...",
-    "marketplace": "Mercado Livre",
-    "category": "Pet",
-    "old_price": "R$ 260,00",
-    "price": "R$ 132,60",
-    "discount_percent": 49.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_948271-MLA114975044670_082026-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77579661?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "03/09/2026 10:02",
-    "created_at_iso": "2026-09-03T10:02:43",
-    "created_ts": 1788429763
   }
 ]

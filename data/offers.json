@@ -1,5 +1,22 @@
 [
   {
+    "id": "f4c5d59245d52ff318",
+    "title": "Ração Cachorro Selection Adultos Pequenos 10,1kg Harmony",
+    "raw_title": "Ração Cachorro Selection Adultos Pequenos 10,1kg Harmony",
+    "description": "🔥 Oferta encontrada! 📌 Ração Cachorro Selection Adultos Pequenos 10,1kg Harmony Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Pet",
+    "old_price": "",
+    "price": "R$ 114,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_997469-MLA99923110131_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB49735840?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "04/09/2026 05:01",
+    "created_at_iso": "2026-09-04T05:01:20",
+    "created_ts": 1788498080
+  },
+  {
     "id": "7071dcb5a9bb82799c",
     "title": "Botina Texana Masculina Bota Chelsea Country Confortável Couro Eco",
     "raw_title": "Botina Texana Masculina Bota Chelsea Country Confortável Couro Eco",
@@ -1960,68 +1977,5 @@
     "created_at": "03/09/2026 05:01",
     "created_at_iso": "2026-09-03T05:01:50",
     "created_ts": 1788411710
-  },
-  {
-    "id": "38a1b624471c1c9ea5",
-    "title": "Criativo Feijão Artesanato 3D Molde Caixa Conjunto Completo Com Ferra…",
-    "raw_title": "Criativo Feijão Artesanato 3D Molde Caixa Conjunto Completo Com Ferramentas De Arte DIY E Acessórios Para Crianças Adole",
-    "description": "🔥 36% OFF — Oferta encontrada! 📌 Criativo Feijão Artesanato 3D Molde Caixa Conjunto Completo Com Ferramentas De Arte DIY E Acessórios Para Crianças Adol...",
-    "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
-    "old_price": "R$ 154,33",
-    "price": "R$ 98,77",
-    "discount_percent": 36.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/sg-11134301-825a0-mq4mph9n3g8y65",
-    "affiliate_url": "https://s.shopee.com.br/3VjxfZSW8m",
-    "created_at": "03/09/2026 04:20",
-    "created_at_iso": "2026-09-03T04:20:06",
-    "created_ts": 1788409206,
-    "niche": {
-      "key": "shopee_bebidas_alimentos",
-      "name": "Bebidas e Alimentos"
-    }
-  },
-  {
-    "id": "1b4c7523aa93199237",
-    "title": "Kit 2 Borrifadores de Azeite Vinagre Líquidos Pulverizador Culinário…",
-    "raw_title": "Kit 2 Borrifadores de Azeite Vinagre Líquidos Pulverizador Culinário 200ml",
-    "description": "🔥 71% OFF — Oferta encontrada! 📌 Kit 2 Borrifadores de Azeite Vinagre Líquidos Pulverizador Culinário 200ml Confira os detalhes e aproveite enquanto a o...",
-    "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
-    "old_price": "R$ 68,93",
-    "price": "R$ 19,99",
-    "discount_percent": 71.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mipusv9cf4eaac",
-    "affiliate_url": "https://s.shopee.com.br/8plU1MzYIL",
-    "created_at": "03/09/2026 04:19",
-    "created_at_iso": "2026-09-03T04:19:02",
-    "created_ts": 1788409142,
-    "niche": {
-      "key": "shopee_bebidas_alimentos",
-      "name": "Bebidas e Alimentos"
-    }
-  },
-  {
-    "id": "f2a80fde39547593a9",
-    "title": "Galheteiro Azeite Borrifador Dosador 2 em 1 Economico vidro 470ml Óle…",
-    "raw_title": "Galheteiro Azeite Borrifador Dosador 2 em 1 Economico vidro 470ml Óleo Vinagre Shoyu Gourmet",
-    "description": "🔥 71% OFF — Oferta encontrada! 📌 Galheteiro Azeite Borrifador Dosador 2 em 1 Economico vidro 470ml Óleo Vinagre Shoyu Gourmet Confira os detalhes e apro...",
-    "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
-    "old_price": "R$ 68,97",
-    "price": "R$ 20,00",
-    "discount_percent": 71.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820l5-msibm1afaozob2",
-    "affiliate_url": "https://s.shopee.com.br/7AdG2J5tfz",
-    "created_at": "03/09/2026 04:17",
-    "created_at_iso": "2026-09-03T04:17:58",
-    "created_ts": 1788409078,
-    "niche": {
-      "key": "shopee_bebidas_alimentos",
-      "name": "Bebidas e Alimentos"
-    }
   }
 ]

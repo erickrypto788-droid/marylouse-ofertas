@@ -1,5 +1,47 @@
 [
   {
+    "id": "8397868d3d45fa04a4",
+    "title": "Tênis Infantil Menino Casual",
+    "raw_title": "Tênis Infantil Menino Masculino Casual Sapatenis Infantil",
+    "description": "Seu pequeno merece estilo e conforto! 👟 Olha que demais esse Tênis Infantil Masculino Casual! Perfeito para o dia a dia, passeios e brincadeiras, combin...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Masculinos",
+    "old_price": "R$ 105,18",
+    "price": "R$ 59,95",
+    "discount_percent": 43.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98q-lm6hytak80mjaf",
+    "affiliate_url": "https://s.shopee.com.br/LmykvOmyv",
+    "created_at": "04/09/2026 23:16",
+    "created_at_iso": "2026-09-04T23:16:46",
+    "created_ts": 1788563806,
+    "niche": {
+      "key": "shopee_sapatos_masculinos",
+      "name": "Sapatos Masculinos"
+    }
+  },
+  {
+    "id": "507b37357b7efe1aec",
+    "title": "Bota Social Masculina Zíper Lateral Alta Durabilidade Forro Macio Aca…",
+    "raw_title": "Bota Social Masculina Zíper Lateral Alta Durabilidade Forro Macio Acabamento Premium",
+    "description": "🔥 47% OFF — Oferta encontrada! 📌 Bota Social Masculina Zíper Lateral Alta Durabilidade Forro Macio Acabamento Premium Confira os detalhes e aproveite en...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Masculinos",
+    "old_price": "R$ 107,55",
+    "price": "R$ 57,00",
+    "discount_percent": 47.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lt-mp4bl66h5eyrb9",
+    "affiliate_url": "https://s.shopee.com.br/9V1DflygvA",
+    "created_at": "04/09/2026 23:15",
+    "created_at_iso": "2026-09-04T23:15:38",
+    "created_ts": 1788563738,
+    "niche": {
+      "key": "shopee_sapatos_masculinos",
+      "name": "Sapatos Masculinos"
+    }
+  },
+  {
     "id": "7e07aef1a30acfef89",
     "title": "Fralda Geriatrica Prevent Care Tamanho FRALDA GERIATRICA PREVENT CARE…",
     "raw_title": "Fralda Geriatrica Prevent Care Tamanho FRALDA GERIATRICA PREVENT CARE M C/50",
@@ -1879,43 +1921,5 @@
       "key": "shopee_bebidas_alimentos",
       "name": "Bebidas e Alimentos"
     }
-  },
-  {
-    "id": "cfa396f5df4091a08a",
-    "title": "Creatina Ultra FTW 300g",
-    "raw_title": "Creatina Ultra Pote 300g - FTW",
-    "description": "⚡️ IMPERDÍVEL! A Creatina Ultra Pote 300g da FTW está com um super desconto! Turbine seus treinos e alcance seus objetivos com mais força e energia. 💪 P...",
-    "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
-    "old_price": "R$ 71,19",
-    "price": "R$ 29,90",
-    "discount_percent": 58.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-meourptjpj4194",
-    "affiliate_url": "https://s.shopee.com.br/3LQYjYdKKI",
-    "created_at": "03/09/2026 23:15",
-    "created_at_iso": "2026-09-03T23:15:52",
-    "created_ts": 1788477352,
-    "niche": {
-      "key": "shopee_bebidas_alimentos",
-      "name": "Bebidas e Alimentos"
-    }
-  },
-  {
-    "id": "451850551dd6acfca7",
-    "title": "SSD Netac Nvme M2 250GB",
-    "raw_title": "SSD Netac Nv3000 Ssd Nvme M2 250gb",
-    "description": "🚀 Turbine seu PC com velocidade máxima! Chegou o SSD Netac Nv3000 Nvme M2 de 250GB! Perfeito para quem busca performance e agilidade no sistema. ⚡ 📦 Fre...",
-    "marketplace": "Mercado Livre",
-    "category": "Informática",
-    "old_price": "",
-    "price": "R$ 399,00",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_962098-MLA115695831628_092026-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24511657?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "03/09/2026 23:02",
-    "created_at_iso": "2026-09-03T23:02:36",
-    "created_ts": 1788476556
   }
 ]

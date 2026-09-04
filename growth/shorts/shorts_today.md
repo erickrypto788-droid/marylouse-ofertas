@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 04/09/2026 09:06
+Gerado em: 04/09/2026 09:22
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 04/09/2026 09:06
 **Produtos usados:**
 
 - Fralda Huggies Natural Care Premium
+- Tênis Branco Infantil Unissex
 - Kit 3 T-Shirt Algodão 30.1 Comfort Confortavel Estilosa Baby Look Cas…
-- Fralda Pampers Pants XXG 60 Unidades
 
 ---
 

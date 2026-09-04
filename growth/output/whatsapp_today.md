@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 04/09/2026 09:06
+Gerado em: 04/09/2026 09:22
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
 ```txt
 🐶 Oferta para Ofertas Pet
 
-Ração Quatree Life 10.1Kg Ração Quatree Gatos Adultos Salmão e Arroz…
+Sandália Flatform Infantil Glady Strass
 
-💸 De: R$ 197,39
-🔥 Por: R$ 151,99
-🏷️ 23% OFF
+💸 De: R$ 99,74
+🔥 Por: R$ 37,90
+🏷️ 62% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/6fgzROC8D6
+Ver oferta: https://s.shopee.com.br/3LQY8TiKvD
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

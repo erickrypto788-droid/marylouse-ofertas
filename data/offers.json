@@ -1,5 +1,26 @@
 [
   {
+    "id": "10313d3de6bd7611a6",
+    "title": "Mochila Grande Viagem/Academia",
+    "raw_title": "Mochila Grande Masculina Feminina De Viagem Bolsa Academia",
+    "description": "🚨 OFERTA RELÂMPAGO! Mochila Grande e Versátil com 56% OFF! 🎒 Perfeita para viagens, academia e o dia a dia, masculina e feminina. Leve tudo com conforto...",
+    "marketplace": "Shopee",
+    "category": "Bolsas Masculinas",
+    "old_price": "R$ 90,86",
+    "price": "R$ 39,98",
+    "discount_percent": 56.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lwsvrkev502a30",
+    "affiliate_url": "https://s.shopee.com.br/6VNaJ1Fead",
+    "created_at": "04/09/2026 15:15",
+    "created_at_iso": "2026-09-04T15:15:50",
+    "created_ts": 1788534950,
+    "niche": {
+      "key": "shopee_bolsas_masculinas",
+      "name": "Bolsas Masculinas"
+    }
+  },
+  {
     "id": "4db0dcd47aad86f05b",
     "title": "Bolsa Veludo Unissex 63% OFF",
     "raw_title": "Bolsa Novo Estilo Bolsa De Moda De Ombro Unissex De Grande Capacidade Bolsa De Veludo",
@@ -1958,103 +1979,6 @@
     "niche": {
       "key": "shopee_esportes_lazer",
       "name": "Esportes e Lazer"
-    }
-  },
-  {
-    "id": "c8b61e4b4219154888",
-    "title": "Arroz Motigome 1kg",
-    "raw_title": "Arroz Motigome 1kg",
-    "description": "🔥 18% OFF — Oferta encontrada! 📌 Arroz Motigome 1kg Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Mercado Livre",
-    "category": "Supermercados",
-    "old_price": "R$ 45,69",
-    "price": "R$ 37,40",
-    "discount_percent": 18.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_740049-MLA116879535281_082026-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21407698?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "03/09/2026 15:05",
-    "created_at_iso": "2026-09-03T15:05:49",
-    "created_ts": 1788447949
-  },
-  {
-    "id": "329b2e554a31927f5a",
-    "title": "Fralda Huggies G 36 Unid.",
-    "raw_title": "Fralda Huggies Tripla Proteção G 36 unidades",
-    "description": "👶 Proteção que seu bebê merece! Fralda Huggies Tripla Proteção G 36 unidades. Conforto e segurança para o dia a dia.",
-    "marketplace": "Mercado Livre",
-    "category": "Mãe e Bebê",
-    "old_price": "",
-    "price": "R$ 192,05",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_777421-MLA99340212546_112025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB17336422?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "03/09/2026 15:04",
-    "created_at_iso": "2026-09-03T15:04:40",
-    "created_ts": 1788447880
-  },
-  {
-    "id": "01bffd61a6ac682e52",
-    "title": "Camiseta E Bermuda Infantil Com Bolsos 04 á 16 Moda Infantil Roupa D…",
-    "raw_title": "Camiseta E Bermuda Infantil Com Bolsos 04 á 16 Moda Infantil Roupa De Criança Para Ir para escola",
-    "description": "🔥 45% OFF — Oferta encontrada! 📌 Camiseta E Bermuda Infantil Com Bolsos 04 á 16 Moda Infantil Roupa De Criança Para Ir para escola Confira os detalhes e...",
-    "marketplace": "Shopee",
-    "category": "Moda Infantil",
-    "old_price": "R$ 49,89",
-    "price": "R$ 27,44",
-    "discount_percent": 45.0,
-    "rating": 4.7,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk8rweh88qgyc3",
-    "affiliate_url": "https://s.shopee.com.br/9V1BToGONS",
-    "created_at": "03/09/2026 14:20",
-    "created_at_iso": "2026-09-03T14:20:07",
-    "created_ts": 1788445207,
-    "niche": {
-      "key": "shopee_moda_infantil",
-      "name": "Moda Infantil"
-    }
-  },
-  {
-    "id": "1eae77a8c2d4115f97",
-    "title": "Conjunto Infantil Menino Verão – Camisa com Botões e Gola + Shorts co…",
-    "raw_title": "Conjunto Infantil Menino Verão – Camisa com Botões e Gola + Shorts com Elástico",
-    "description": "🔥 50% OFF — Oferta encontrada! 📌 Conjunto Infantil Menino Verão – Camisa com Botões e Gola + Shorts com Elástico Confira os detalhes e aproveite enquant...",
-    "marketplace": "Shopee",
-    "category": "Moda Infantil",
-    "old_price": "R$ 79,90",
-    "price": "R$ 39,95",
-    "discount_percent": 50.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ma-mqlundmr65fl30",
-    "affiliate_url": "https://s.shopee.com.br/AUtifeCaLY",
-    "created_at": "03/09/2026 14:19",
-    "created_at_iso": "2026-09-03T14:19:03",
-    "created_ts": 1788445143,
-    "niche": {
-      "key": "shopee_moda_infantil",
-      "name": "Moda Infantil"
-    }
-  },
-  {
-    "id": "345bc05bf86073f206",
-    "title": "Escolha Seu Vestido 3 Marias Roupas de Menina Infantil 100% Algodão V…",
-    "raw_title": "Escolha Seu Vestido 3 Marias Roupas de Menina Infantil 100% Algodão Vestido de Criança Confortável l02",
-    "description": "🔥 54% OFF — Oferta encontrada! 📌 Escolha Seu Vestido 3 Marias Roupas de Menina Infantil 100% Algodão Vestido de Criança Confortável l02 Confira os detal...",
-    "marketplace": "Shopee",
-    "category": "Moda Infantil",
-    "old_price": "R$ 49,78",
-    "price": "R$ 22,90",
-    "discount_percent": 54.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mieptagf0n414e",
-    "affiliate_url": "https://s.shopee.com.br/80CNh3Hltn",
-    "created_at": "03/09/2026 14:17",
-    "created_at_iso": "2026-09-03T14:17:59",
-    "created_ts": 1788445079,
-    "niche": {
-      "key": "shopee_moda_infantil",
-      "name": "Moda Infantil"
     }
   }
 ]

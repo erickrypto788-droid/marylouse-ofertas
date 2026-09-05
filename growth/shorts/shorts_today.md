@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 05/09/2026 15:23
+Gerado em: 05/09/2026 16:04
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 05/09/2026 15:23
 
 **Produtos usados:**
 
+- Azul escova limpeza mamadeira kit para limpeza de mamadeira kit limpe…
 - Fraldas Pampers Supersequinha XXG
 - Tapete Termico Infantil Bebe Estampas Atividades Educativo Tapetinho…
-- Kit 6 Peças Roupa De Bebê Body Menina Animado Estampado Algodão
 
 ---
 

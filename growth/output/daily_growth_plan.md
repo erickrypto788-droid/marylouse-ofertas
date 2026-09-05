@@ -1,12 +1,12 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 05/09/2026 15:23
+Gerado em: 05/09/2026 16:04
 
 ## Categorias prioritárias
 
+- 🍼 **Mãe e Bebê**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 📚 **Papelaria**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 - 📦 **Outros**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
-- 🍼 **Mãe e Bebê**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 👗 **Moda Feminina**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 🐶 **Pet**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
@@ -59,33 +59,33 @@ Gerado em: 05/09/2026 15:23
    - Desconto: 37% OFF
    - Link: https://s.shopee.com.br/8V8gkQ7qLp
 
-7. **MousePad Grande Rosa Desk Pad Couro Gamer Office**
+7. **Azul escova limpeza mamadeira kit para limpeza de mamadeira kit limpe…**
+   - Categoria: Mãe e Bebê
+   - Loja: Mercado Livre
+   - Preço: R$ 53,60
+   - Desconto: 72% OFF
+   - Link: https://www.mercadolivre.com.br/p/MLB75043054?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+8. **MousePad Grande Rosa Desk Pad Couro Gamer Office**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 20,90
    - Desconto: 50% OFF
    - Link: https://s.shopee.com.br/1A7xbg8yR
 
-8. **Fraldas Pampers Supersequinha XXG**
+9. **Fraldas Pampers Supersequinha XXG**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 95,93
    - Desconto: 20% OFF
    - Link: https://s.shopee.com.br/4VcYJfdb0e
 
-9. **Tiras de Teste Glicose G-Tech Vita C/50**
+10. **Tiras de Teste Glicose G-Tech Vita C/50**
    - Categoria: Saúde
    - Loja: Shopee
    - Preço: R$ 44,90
    - Desconto: 57% OFF
    - Link: https://s.shopee.com.br/3VjyXB5qid
-
-10. **Medidor de Pressão Digital de Braço**
-   - Categoria: Saúde
-   - Loja: Shopee
-   - Preço: R$ 37,99
-   - Desconto: 62% OFF
-   - Link: https://s.shopee.com.br/50YoqSzq6k
 
 ## Ações gratuitas recomendadas
 

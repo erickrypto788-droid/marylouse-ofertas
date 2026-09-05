@@ -1,12 +1,12 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 05/09/2026 22:23
+Gerado em: 05/09/2026 23:22
 
 ## Categorias prioritárias
 
 - 👟 **Calçados**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 💄 **Beleza**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🍼 **Mãe e Bebê**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 💄 **Beleza**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🐶 **Pet**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 🔌 **Eletrodomésticos**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-eletrodomesticos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_eletrodomesticos
 - 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
@@ -80,12 +80,12 @@ Gerado em: 05/09/2026 22:23
    - Desconto: 37% OFF
    - Link: https://s.shopee.com.br/8V8gkQ7qLp
 
-10. **Prancha Triondas Ondulador Formador Triplo 22mm Modelador de Cachos O…**
-   - Categoria: Beleza
+10. **Kit 5 Regatas Bebê**
+   - Categoria: Mãe e Bebê
    - Loja: Shopee
-   - Preço: R$ 40,99
-   - Desconto: 66% OFF
-   - Link: https://s.shopee.com.br/6L4DQj8o21
+   - Preço: R$ 29,99
+   - Desconto: 63% OFF
+   - Link: https://s.shopee.com.br/6L4CEdTvUU
 
 ## Ações gratuitas recomendadas
 

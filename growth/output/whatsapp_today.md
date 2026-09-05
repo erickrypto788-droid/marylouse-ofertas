@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 05/09/2026 15:02
+Gerado em: 05/09/2026 15:23
 
 ## Como usar
 
@@ -117,14 +117,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Macacão Feminino Pantalona Luxo
+Vestido Longo Feminino Costa Nua Midi Inverno Elegante de Festa Plus…
 
-💸 De: R$ 199,71
-🔥 Por: R$ 69,90
-🏷️ 65% OFF
+💸 De: R$ 80,81
+🔥 Por: R$ 29,90
+🏷️ 63% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/5VV4i46Yzb
+Ver oferta: https://s.shopee.com.br/1LfX0h6XtF
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

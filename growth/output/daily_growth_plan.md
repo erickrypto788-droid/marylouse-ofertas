@@ -1,14 +1,14 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 05/09/2026 01:03
+Gerado em: 05/09/2026 01:18
 
 ## Categorias prioritárias
 
-- 🍼 **Mãe e Bebê**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 🍼 **Mãe e Bebê**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 👗 **Moda Feminina**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
+- 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 👕 **Moda Masculina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
-- 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 👗 **Moda Feminina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 🐶 **Pet**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 📚 **Papelaria**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
@@ -38,54 +38,54 @@ Gerado em: 05/09/2026 01:03
    - Desconto: 50% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB78262248?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-4. **Monitor Gamer Mancer Valak Z186, 23.8 Pol, Curvo, 180Hz**
+4. **Carregador iPhone Turbo Tipo-C 20W + Cabo Lightining para IPhone Carg…**
+   - Categoria: Celulares
+   - Loja: Shopee
+   - Preço: R$ 16,99
+   - Desconto: 66% OFF
+   - Link: https://s.shopee.com.br/112fgPmcAb
+
+5. **Monitor Gamer Mancer Valak Z186, 23.8 Pol, Curvo, 180Hz**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 561,95
    - Desconto: 59% OFF
    - Link: https://s.shopee.com.br/4AzgvGZDdw
 
-5. **Berço Portátil Com Mosquiteiro Cama De Duas Camas 0-3 Anos Fecho De S…**
+6. **Berço Portátil Com Mosquiteiro Cama De Duas Camas 0-3 Anos Fecho De S…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 538,79
    - Desconto: 68% OFF
    - Link: https://s.shopee.com.br/3B79Swl9ep
 
-6. **Garrafa Térmica Termometro Digital 1L Café Chá Nórdica Com Cabo Madei…**
+7. **Garrafa Térmica Termometro Digital 1L Café Chá Nórdica Com Cabo Madei…**
    - Categoria: Saúde
    - Loja: Shopee
    - Preço: R$ 44,99
    - Desconto: 59% OFF
    - Link: https://s.shopee.com.br/3LQYKrostg
 
-7. **Sandália Flatform Infantil Glady Strass**
+8. **Sandália Flatform Infantil Glady Strass**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 37,90
    - Desconto: 62% OFF
    - Link: https://s.shopee.com.br/3LQY8TiKvD
 
-8. **Escova Rotativa Profissional 2 em 1**
+9. **Escova Rotativa Profissional 2 em 1**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 99,99
    - Desconto: 67% OFF
    - Link: https://s.shopee.com.br/9zxS0c3Aj2
 
-9. **Liquidificador Portátil com LED**
+10. **Liquidificador Portátil com LED**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 78,68
    - Desconto: 50% OFF
    - Link: https://s.shopee.com.br/7AdGZHXdVa
-
-10. **Fralda Geriatrica Prevent Care Tamanho FRALDA GERIATRICA PREVENT CARE…**
-   - Categoria: Mãe e Bebê
-   - Loja: Mercado Livre
-   - Preço: R$ 112,90
-   - Desconto: Oferta
-   - Link: https://www.mercadolivre.com.br/p/MLB75635951?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ## Ações gratuitas recomendadas
 

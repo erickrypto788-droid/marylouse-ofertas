@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 05/09/2026 00:18
+Gerado em: 05/09/2026 01:18
 
 ## Como usar
 
@@ -32,7 +32,7 @@ Gerado em: 05/09/2026 00:18
 
 - Berço Portátil Com Mosquiteiro Cama De Duas Camas 0-3 Anos Fecho De S…
 - Tênis Branco Infantil Unissex
-- Kit 3 T-Shirt Algodão 30.1 Comfort Confortavel Estilosa Baby Look Cas…
+- Fralda Geriatrica Prevent Care Tamanho FRALDA GERIATRICA PREVENT CARE…
 
 ---
 

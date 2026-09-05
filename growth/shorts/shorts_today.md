@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 05/09/2026 02:22
+Gerado em: 05/09/2026 03:22
 
 ## Como usar
 
@@ -78,9 +78,9 @@ Gerado em: 05/09/2026 02:22
 
 **Produtos usados:**
 
+- Kit Perfumes Masculinos Kayak + Mlbecc | Presente Ideal Dia e Noite |…
+- Kit 2 Body Splash Feminino Perfumado Encanto Lily + Florata Rose Pres…
 - Escova Rotativa Profissional 2 em 1
-- Body Splash Masculino Barbarius Primacial
-- Kit Protetor Solar Principia FPS 60 + 70
 
 ---
 

@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 05/09/2026 02:22
+Gerado em: 05/09/2026 03:22
 
 ## Como usar
 
@@ -42,7 +42,37 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 2 — Mamãe e Bebê
+## Post 2 — Beleza e Cuidados
+
+**Canal recomendado:** Beleza e Cuidados
+
+**Horário sugerido:** 12:00 - 15:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
+
+**Texto pronto:**
+
+```txt
+💄 Oferta para Beleza e Cuidados
+
+Kit Perfumes Masculinos Kayak + Mlbecc | Presente Ideal Dia e Noite |…
+
+💸 De: R$ 99,96
+🔥 Por: R$ 47,98
+🏷️ 52% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/7VG9YaFysw
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 3 — Mamãe e Bebê
 
 **Canal recomendado:** Mamãe e Bebê
 
@@ -72,7 +102,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 3 — Moda Feminina
+## Post 4 — Moda Feminina
 
 **Canal recomendado:** Moda Feminina
 
@@ -102,36 +132,6 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Beleza e Cuidados
-
-**Canal recomendado:** Beleza e Cuidados
-
-**Horário sugerido:** 12:00 - 15:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
-
-**Texto pronto:**
-
-```txt
-💄 Oferta para Beleza e Cuidados
-
-Escova Rotativa Profissional 2 em 1
-
-💸 De: R$ 303,00
-🔥 Por: R$ 99,99
-🏷️ 67% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/9zxS0c3Aj2
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
 ## Post 5 — Ofertas Pet
 
 **Canal recomendado:** Ofertas Pet
@@ -147,14 +147,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
 ```txt
 🐶 Oferta para Ofertas Pet
 
-Amplificador de sinal Wi-Fi repetidor e roteador sem fio rede sem fio…
+Kit 2 Body Splash Feminino Perfumado Encanto Lily + Florata Rose Pres…
 
-💸 De: R$ 89,69
-🔥 Por: R$ 60,99
-🏷️ 32% OFF
+💸 De: R$ 80,28
+🔥 Por: R$ 28,90
+🏷️ 64% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/7fZWZ6oCvT
+Ver oferta: https://s.shopee.com.br/gPmtSPEEB
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

@@ -1,5 +1,47 @@
 [
   {
+    "id": "d33b705911f6cbb25c",
+    "title": "Chinelo Piccadilly EVA Marshmallow C224 Off White - Feminino",
+    "raw_title": "Chinelo Piccadilly EVA Marshmallow C224 Off White - Feminino",
+    "description": "🔥 43% OFF — Oferta encontrada! 📌 Chinelo Piccadilly EVA Marshmallow C224 Off White - Feminino Confira os detalhes e aproveite enquanto a oferta estiver...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Femininos",
+    "old_price": "R$ 99,98",
+    "price": "R$ 56,99",
+    "discount_percent": 43.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lg-mpwjo797zoxsd5",
+    "affiliate_url": "https://s.shopee.com.br/5LBemEhfxG",
+    "created_at": "05/09/2026 00:16",
+    "created_at_iso": "2026-09-05T00:16:47",
+    "created_ts": 1788567407,
+    "niche": {
+      "key": "shopee_sapatos_femininos",
+      "name": "Sapatos Femininos"
+    }
+  },
+  {
+    "id": "f4147d390d9a47d6fd",
+    "title": "Bota Coturno Adventure Feminina",
+    "raw_title": "Bota Coturno Adventure Feminino Tênis Cano Curto Preto Rosa do 33 ao 40",
+    "description": "🚨 OFERTA RELÂMPAGO! Bota Coturno Feminina com 40% OFF! 👢 Estilo e aventura aos seus pés! A Bota Coturno Adventure Feminino Cano Curto é perfeita para qu...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Femininos",
+    "old_price": "R$ 99,97",
+    "price": "R$ 59,98",
+    "discount_percent": 40.0,
+    "rating": 4.6,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820l8-mn1v8yk1rbicbd",
+    "affiliate_url": "https://s.shopee.com.br/AKaKjQT2ay",
+    "created_at": "05/09/2026 00:15",
+    "created_at_iso": "2026-09-05T00:15:43",
+    "created_ts": 1788567343,
+    "niche": {
+      "key": "shopee_sapatos_femininos",
+      "name": "Sapatos Femininos"
+    }
+  },
+  {
     "id": "8397868d3d45fa04a4",
     "title": "Tênis Infantil Menino Casual",
     "raw_title": "Tênis Infantil Menino Masculino Casual Sapatenis Infantil",
@@ -1815,111 +1857,6 @@
     "niche": {
       "key": "shopee_jogos_consoles",
       "name": "Jogos e Consoles"
-    }
-  },
-  {
-    "id": "cfc8562473cb1e11c6",
-    "title": "Videogame Portátil Retro",
-    "raw_title": "2026 Videogame Portatil Tela 5.8\" /4.8\" +10000 Jogos Retro 16GB, Console de Mão Memoria Expansivel",
-    "description": "🎮 VOLTOU! O Videogame Portátil que vai te levar de volta à infância! Reviva os clássicos com este console incrível! São mais de 10.000 jogos retrô na pa...",
-    "marketplace": "Shopee",
-    "category": "Jogos e Consoles",
-    "old_price": "R$ 249,84",
-    "price": "R$ 159,90",
-    "discount_percent": 36.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7rdvp-m0enpdf28jf2a1",
-    "affiliate_url": "https://s.shopee.com.br/904vY62L3X",
-    "created_at": "04/09/2026 00:16",
-    "created_at_iso": "2026-09-04T00:16:02",
-    "created_ts": 1788480962,
-    "niche": {
-      "key": "shopee_jogos_consoles",
-      "name": "Jogos e Consoles"
-    }
-  },
-  {
-    "id": "f21413cd9f93619f19",
-    "title": "Caixa de Bombom Lacta Favoritos 250,6g",
-    "raw_title": "Caixa de Bombom Lacta Favoritos 250,6g",
-    "description": "🔥 44% OFF — Oferta encontrada! 📌 Caixa de Bombom Lacta Favoritos 250,6g Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
-    "old_price": "R$ 29,80",
-    "price": "R$ 16,69",
-    "discount_percent": 44.0,
-    "rating": 4.7,
-    "image": "https://cf.shopee.com.br/file/br-11134201-820l6-mrhragxfck5g70",
-    "affiliate_url": "https://s.shopee.com.br/80CN1q2iyD",
-    "created_at": "03/09/2026 23:20",
-    "created_at_iso": "2026-09-03T23:20:10",
-    "created_ts": 1788477610,
-    "niche": {
-      "key": "shopee_bebidas_alimentos",
-      "name": "Bebidas e Alimentos"
-    }
-  },
-  {
-    "id": "9cbbded3f4326556ca",
-    "title": "Puff Orgânico Curvo - 1 Metro Elegância e Conforto Moderno Feijao mod…",
-    "raw_title": "Puff Orgânico Curvo - 1 Metro Elegância e Conforto Moderno Feijao moderno tecido premium",
-    "description": "🔥 51% OFF — Oferta encontrada! 📌 Puff Orgânico Curvo - 1 Metro Elegância e Conforto Moderno Feijao moderno tecido premium Confira os detalhes e aproveit...",
-    "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
-    "old_price": "R$ 397,76",
-    "price": "R$ 194,90",
-    "discount_percent": 51.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lv-mnpmwo5oh5vkd7",
-    "affiliate_url": "https://s.shopee.com.br/40gFWmWWio",
-    "created_at": "03/09/2026 23:19",
-    "created_at_iso": "2026-09-03T23:19:06",
-    "created_ts": 1788477546,
-    "niche": {
-      "key": "shopee_bebidas_alimentos",
-      "name": "Bebidas e Alimentos"
-    }
-  },
-  {
-    "id": "d2b710879b8853bba8",
-    "title": "Chocolate Moranguete 468g C/36 Unidades 13g Bel",
-    "raw_title": "Chocolate Moranguete 468g C/36 Unidades 13g Bel",
-    "description": "🔥 37% OFF — Oferta encontrada! 📌 Chocolate Moranguete 468g C/36 Unidades 13g Bel Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
-    "old_price": "R$ 41,98",
-    "price": "R$ 26,45",
-    "discount_percent": 37.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lys00kowtw01e5",
-    "affiliate_url": "https://s.shopee.com.br/8V8dcl0oxK",
-    "created_at": "03/09/2026 23:18",
-    "created_at_iso": "2026-09-03T23:18:02",
-    "created_ts": 1788477482,
-    "niche": {
-      "key": "shopee_bebidas_alimentos",
-      "name": "Bebidas e Alimentos"
-    }
-  },
-  {
-    "id": "f6bd127bdf24ae1576",
-    "title": "Ração Quatree Life 10.1Kg Ração Quatree Gatos Adultos Salmão e Arroz…",
-    "raw_title": "Ração Quatree Life 10.1Kg Ração Quatree Gatos Adultos Salmão e Arroz Ração Quatree Gatos 10Kg",
-    "description": "🔥 23% OFF — Oferta encontrada! 📌 Ração Quatree Life 10.1Kg Ração Quatree Gatos Adultos Salmão e Arroz Ração Quatree Gatos 10Kg Confira os detalhes e apr...",
-    "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
-    "old_price": "R$ 197,39",
-    "price": "R$ 151,99",
-    "discount_percent": 23.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7rd72-lvt04eugw3tpbe",
-    "affiliate_url": "https://s.shopee.com.br/6fgzROC8D6",
-    "created_at": "03/09/2026 23:16",
-    "created_at_iso": "2026-09-03T23:16:57",
-    "created_ts": 1788477417,
-    "niche": {
-      "key": "shopee_bebidas_alimentos",
-      "name": "Bebidas e Alimentos"
     }
   }
 ]

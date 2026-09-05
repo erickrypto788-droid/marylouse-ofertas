@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 05/09/2026 20:13
+Gerado em: 05/09/2026 20:20
 
 ## Como usar
 
@@ -12,7 +12,37 @@ Gerado em: 05/09/2026 20:13
 
 ---
 
-## Post 1 — Mamãe e Bebê
+## Post 1 — Ofertas Pet
+
+**Canal recomendado:** Ofertas Pet
+
+**Horário sugerido:** 17:00 - 20:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
+
+**Texto pronto:**
+
+```txt
+🐶 Oferta para Ofertas Pet
+
+Pro 4 Fones De Ouvido TWS Sem Fio Bluetooth De Longa Duração Bateria…
+
+💸 De: R$ 29,78
+🔥 Por: R$ 10,72
+🏷️ 64% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/7KwghUCH4d
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 2 — Mamãe e Bebê
 
 **Canal recomendado:** Mamãe e Bebê
 
@@ -42,7 +72,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 2 — Casa e Cozinha
+## Post 3 — Casa e Cozinha
 
 **Canal recomendado:** Casa e Cozinha
 
@@ -72,7 +102,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 3 — Beleza e Cuidados
+## Post 4 — Beleza e Cuidados
 
 **Canal recomendado:** Beleza e Cuidados
 
@@ -102,7 +132,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Moda Feminina
+## Post 5 — Moda Feminina
 
 **Canal recomendado:** Moda Feminina
 
@@ -132,7 +162,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 5 — Celulares e Tecnologia
+## Post 6 — Celulares e Tecnologia
 
 **Canal recomendado:** Celulares e Tecnologia
 
@@ -147,44 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
 ```txt
 📱 Oferta para Celulares e Tecnologia
 
-Carregador iPhone Turbo Tipo-C 20W + Cabo Lightining para IPhone Carg…
+10000mAh/5000mAH/3000mAh Carregador portátil indução iPhone MagSafe b…
 
-💸 De: R$ 49,97
-🔥 Por: R$ 16,99
-🏷️ 66% OFF
+💸 De: R$ 99,63
+🔥 Por: R$ 26,90
+🏷️ 73% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/112fgPmcAb
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 6 — Ofertas Pet
-
-**Canal recomendado:** Ofertas Pet
-
-**Horário sugerido:** 17:00 - 20:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
-
-**Texto pronto:**
-
-```txt
-🐶 Oferta para Ofertas Pet
-
-Alimento Royal Canin Hair & Skin 3kg Ração Gato
-
-💸 De: R$ 399,90
-🔥 Por: R$ 257,00
-🏷️ 36% OFF
-🛒 Loja: Mercado Livre
-
-Ver oferta: https://www.mercadolivre.com.br/p/MLB28523781?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+Ver oferta: https://s.shopee.com.br/6AklpuXTz4
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

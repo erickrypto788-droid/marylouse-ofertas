@@ -1,6 +1,6 @@
 # Pinterest Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 05/09/2026 20:13
+Gerado em: 05/09/2026 20:20
 
 ## Como usar
 
@@ -114,7 +114,7 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
 
 **Descrição:**
 
-Veja ofertas de Celulares selecionadas pela MaryLouse Ofertas. Destaque de hoje: Carregador iPhone Turbo Tipo-C 20W + Cabo Lightining para IPhone Carg…. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Veja ofertas de Celulares selecionadas pela MaryLouse Ofertas. Destaque de hoje: 10000mAh/5000mAH/3000mAh Carregador portátil indução iPhone MagSafe b…. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
@@ -122,34 +122,34 @@ https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=pinterest
 
 **Por que postar:**
 
-Categoria com 5 oferta(s) e boa intenção de compra.
+Categoria com 7 oferta(s) e boa intenção de compra.
 
 ---
 
-## Pin 5 — Informática
+## Pin 5 — Pet
 
 **Tipo:** produto_direto
 
-**Board sugerido:** Celulares e Tecnologia
+**Board sugerido:** Ofertas Pet
 
 **Imagem para upload no Pinterest:**
 
-https://marylouse-ofertas.vercel.app/growth/pinterest/informatica.png
+https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
 
 **Título:**
 
-46% OFF: Notebook Gamer 15,6 Polegadas Intel N5095 (2025) - 16GB RAM + 512GB S…
+64% OFF: Pro 4 Fones De Ouvido TWS Sem Fio Bluetooth De Longa Duração Bateria…
 
 **Descrição:**
 
-Oferta destaque em Informática encontrada pela MaryLouse Ofertas. Preço: R$ 2.698,00. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Oferta destaque em Pet encontrada pela MaryLouse Ofertas. Preço: R$ 10,72. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
-https://s.shopee.com.br/7fZaLy64iQ
+https://s.shopee.com.br/7KwghUCH4d
 
 **Por que postar:**
 
-Produto com bom score orgânico (90) e link direto afiliado.
+Produto com bom score orgânico (100) e link direto afiliado.
 
 ---

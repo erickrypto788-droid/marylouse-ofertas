@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 05/09/2026 01:18
+Gerado em: 05/09/2026 02:08
 
 ## Categorias prioritárias
 
 - 🍼 **Mãe e Bebê**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 👕 **Moda Masculina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
-- 👗 **Moda Feminina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
+- 📚 **Papelaria**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
+- 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 🐶 **Pet**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
-- 📚 **Papelaria**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
+- 💄 **Beleza**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 👗 **Moda Feminina**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 🧸 **Brinquedos**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
-- 🏋️ **Esportes**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 
 ## Top ofertas para destacar
 
@@ -31,61 +31,61 @@ Gerado em: 05/09/2026 01:18
    - Desconto: 70% OFF
    - Link: https://s.shopee.com.br/112d9qImng
 
-3. **celulares smartphones 6.78 Polegadas celular 5g 16GB+512GB Câmera HD…**
-   - Categoria: Celulares
-   - Loja: Mercado Livre
-   - Preço: R$ 1.660,00
-   - Desconto: 50% OFF
-   - Link: https://www.mercadolivre.com.br/p/MLB78262248?matt_word=marylouse&matt_tool=50459180&forceInApp=true
-
-4. **Carregador iPhone Turbo Tipo-C 20W + Cabo Lightining para IPhone Carg…**
+3. **Carregador iPhone Turbo Tipo-C 20W + Cabo Lightining para IPhone Carg…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 16,99
    - Desconto: 66% OFF
    - Link: https://s.shopee.com.br/112fgPmcAb
 
-5. **Monitor Gamer Mancer Valak Z186, 23.8 Pol, Curvo, 180Hz**
+4. **Monitor Gamer Mancer Valak Z186, 23.8 Pol, Curvo, 180Hz**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 561,95
    - Desconto: 59% OFF
    - Link: https://s.shopee.com.br/4AzgvGZDdw
 
-6. **Berço Portátil Com Mosquiteiro Cama De Duas Camas 0-3 Anos Fecho De S…**
+5. **Berço Portátil Com Mosquiteiro Cama De Duas Camas 0-3 Anos Fecho De S…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 538,79
    - Desconto: 68% OFF
    - Link: https://s.shopee.com.br/3B79Swl9ep
 
-7. **Garrafa Térmica Termometro Digital 1L Café Chá Nórdica Com Cabo Madei…**
+6. **Garrafa Térmica Termometro Digital 1L Café Chá Nórdica Com Cabo Madei…**
    - Categoria: Saúde
    - Loja: Shopee
    - Preço: R$ 44,99
    - Desconto: 59% OFF
    - Link: https://s.shopee.com.br/3LQYKrostg
 
-8. **Sandália Flatform Infantil Glady Strass**
+7. **Sandália Flatform Infantil Glady Strass**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 37,90
    - Desconto: 62% OFF
    - Link: https://s.shopee.com.br/3LQY8TiKvD
 
-9. **Escova Rotativa Profissional 2 em 1**
+8. **Escova Rotativa Profissional 2 em 1**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 99,99
    - Desconto: 67% OFF
    - Link: https://s.shopee.com.br/9zxS0c3Aj2
 
-10. **Liquidificador Portátil com LED**
+9. **Liquidificador Portátil com LED**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 78,68
    - Desconto: 50% OFF
    - Link: https://s.shopee.com.br/7AdGZHXdVa
+
+10. **Cabo Tipo C 100W | USB p/ Tipo C 60W | Turbo 1m 2m 3m | Android, iPho…**
+   - Categoria: Celulares
+   - Loja: Shopee
+   - Preço: R$ 24,89
+   - Desconto: 32% OFF
+   - Link: https://s.shopee.com.br/8AVqDaH4N0
 
 ## Ações gratuitas recomendadas
 

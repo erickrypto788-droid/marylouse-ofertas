@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 05/09/2026 01:18
+Gerado em: 05/09/2026 02:08
 
 ## Como usar
 
@@ -102,7 +102,7 @@ Gerado em: 05/09/2026 01:18
 
 - Suporte Capacete Câmera/Celular
 - Suporte Celular Carro Automático
-- celulares smartphones 6.78 Polegadas celular 5g 16GB+512GB Câmera HD…
+- Carregador iPhone Turbo Tipo-C 20W + Cabo Lightining para IPhone Carg…
 
 ---
 
@@ -119,10 +119,12 @@ Gerado em: 05/09/2026 01:18
 - growth/shorts/slides/supermercados/01_intro.png
 - growth/shorts/slides/supermercados/02_produto_1.png
 - growth/shorts/slides/supermercados/03_produto_2.png
+- growth/shorts/slides/supermercados/04_produto_3.png
 - growth/shorts/slides/supermercados/05_cta.png
 
 **Produtos usados:**
 
+- Papel Higiênico Folha Dupla - 2000m
 - Casca de Arroz Carbonizada
 - Kit Explosão de Azeite de Oliva | bn.Cachos
 

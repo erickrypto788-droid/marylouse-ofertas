@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 05/09/2026 12:21
+Gerado em: 05/09/2026 13:22
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 05/09/2026 12:21
 
 **Produtos usados:**
 
-- Berço Portátil Com Mosquiteiro Cama De Duas Camas 0-3 Anos Fecho De S…
 - Fraldas Pampers Supersequinha XXG
 - Tapete Termico Infantil Bebe Estampas Atividades Educativo Tapetinho…
+- Kit 6 Peças Roupa De Bebê Body Menina Animado Estampado Algodão
 
 ---
 

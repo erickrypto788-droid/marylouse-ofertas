@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 05/09/2026 05:22
+Gerado em: 05/09/2026 06:21
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 05/09/2026 05:22
 **Produtos usados:**
 
 - Berço Portátil Com Mosquiteiro Cama De Duas Camas 0-3 Anos Fecho De S…
+- Tapete Termico Infantil Bebe Estampas Atividades Educativo Tapetinho…
 - Kit 6 Peças Roupa De Bebê Body Menina Animado Estampado Algodão
-- Tênis Branco Infantil Unissex
 
 ---
 
@@ -102,9 +102,9 @@ Gerado em: 05/09/2026 05:22
 
 **Produtos usados:**
 
-- Suporte Capacete Câmera/Celular
-- Suporte Celular Carro Automático
 - Carregador iPhone Turbo Tipo-C 20W + Cabo Lightining para IPhone Carg…
+- Chocolate Twix Original 30 Unidades de 15g
+- Smartphone Xiaomi Redmi 14C Preto 128GB 4GB RAM
 
 ---
 

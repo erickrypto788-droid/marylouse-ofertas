@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 05/09/2026 05:50
+Gerado em: 05/09/2026 06:21
 
 ## Como usar
 
@@ -12,29 +12,29 @@ Gerado em: 05/09/2026 05:50
 
 ---
 
-## Post 1 — Celulares e Tecnologia
+## Post 1 — Mamãe e Bebê
 
-**Canal recomendado:** Celulares e Tecnologia
+**Canal recomendado:** Mamãe e Bebê
 
-**Horário sugerido:** 19:00 - 21:00
+**Horário sugerido:** 09:00 - 11:00
 
 **Imagem/card:**
 
-https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
+https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
 
 **Texto pronto:**
 
 ```txt
-📱 Oferta para Celulares e Tecnologia
+🍼 Oferta para Mamãe e Bebê
 
-Suporte Capacete Câmera/Celular
+Tapete Termico Infantil Bebe Estampas Atividades Educativo Tapetinho…
 
-💸 De: R$ 86,60
-🔥 Por: R$ 25,98
-🏷️ 70% OFF
+💸 De: R$ 49,98
+🔥 Por: R$ 20,99
+🏷️ 58% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/112d9qImng
+Ver oferta: https://s.shopee.com.br/4LJ7z7Ur5z
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
@@ -102,37 +102,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Mamãe e Bebê
-
-**Canal recomendado:** Mamãe e Bebê
-
-**Horário sugerido:** 09:00 - 11:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
-
-**Texto pronto:**
-
-```txt
-🍼 Oferta para Mamãe e Bebê
-
-Berço Portátil Com Mosquiteiro Cama De Duas Camas 0-3 Anos Fecho De S…
-
-💸 De: R$ 1.683,72
-🔥 Por: R$ 538,79
-🏷️ 68% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/3B79Swl9ep
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 5 — Moda Feminina
+## Post 4 — Moda Feminina
 
 **Canal recomendado:** Moda Feminina
 
@@ -155,6 +125,36 @@ Macacão Feminino Pantalona Luxo
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/5VV4i46Yzb
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 5 — Celulares e Tecnologia
+
+**Canal recomendado:** Celulares e Tecnologia
+
+**Horário sugerido:** 19:00 - 21:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
+
+**Texto pronto:**
+
+```txt
+📱 Oferta para Celulares e Tecnologia
+
+Carregador iPhone Turbo Tipo-C 20W + Cabo Lightining para IPhone Carg…
+
+💸 De: R$ 49,97
+🔥 Por: R$ 16,99
+🏷️ 66% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/112fgPmcAb
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

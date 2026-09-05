@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 05/09/2026 14:03
+Gerado em: 05/09/2026 14:20
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
 ```txt
 🐶 Oferta para Ofertas Pet
 
-Repetidor de Sinal Wi-Fi Roteador Wireless 2.4G Sem Fio 4 Antenas Lon…
+Controlador Sem Fio Com Vibração Bluetooth One Game Ones XBOX Control…
 
-💸 De: R$ 90,14
-🔥 Por: R$ 64,90
-🏷️ 28% OFF
+💸 De: R$ 372,84
+🔥 Por: R$ 249,80
+🏷️ 33% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/2BEdnra5UG
+Ver oferta: https://s.shopee.com.br/1A85pcnCN
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

@@ -1,5 +1,22 @@
 [
   {
+    "id": "a851ff2114decf611c",
+    "title": "Modem Roteador Intelbras Wifiber 121ac",
+    "raw_title": "Modem Roteador Wifi Intelbras Wifiber 121ac Gpon",
+    "description": "🚀 Chega de internet lenta! Dê um upgrade na sua conexão com o Modem Roteador Wifi Intelbras Wifiber 121ac Gpon! Perfeito para fibra óptica e com Wi-Fi d...",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "",
+    "price": "R$ 389,99",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_801806-MLA99478464306_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB16377075?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "05/09/2026 10:01",
+    "created_at_iso": "2026-09-05T10:01:21",
+    "created_ts": 1788602481
+  },
+  {
     "id": "7e86fee3ee2552aab9",
     "title": "Mochila Feminina Grande Impermeável Escolar Faculdade Trabalho Resist…",
     "raw_title": "Mochila Feminina Grande Impermeável Escolar Faculdade Trabalho Resistente Moderna",
@@ -2013,26 +2030,5 @@
     "created_at": "04/09/2026 10:04",
     "created_at_iso": "2026-09-04T10:04:01",
     "created_ts": 1788516241
-  },
-  {
-    "id": "30640ac96ddce8add5",
-    "title": "Kit 3 Camisetas Infantis Algodão",
-    "raw_title": "Kit 3 Camisetas Infantis 100% Algodão Gola Redonda Califórnia Blogueirinho Adolescente Streetwear",
-    "description": "🌟 Oferta IMPERDÍVEL para os pequenos estilosos! Kit 3 Camisetas Infantis 100% Algodão, gola redonda, perfeitas para o look blogueirinho ou streetwear do...",
-    "marketplace": "Shopee",
-    "category": "Moda Infantil",
-    "old_price": "R$ 89,91",
-    "price": "R$ 57,54",
-    "discount_percent": 36.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-825ay-mq52uq9clwjkb6",
-    "affiliate_url": "https://s.shopee.com.br/5foSulUz9p",
-    "created_at": "04/09/2026 09:20",
-    "created_at_iso": "2026-09-04T09:20:17",
-    "created_ts": 1788513617,
-    "niche": {
-      "key": "shopee_moda_infantil",
-      "name": "Moda Infantil"
-    }
   }
 ]

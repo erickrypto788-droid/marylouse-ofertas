@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 05/09/2026 11:26
+Gerado em: 05/09/2026 12:03
 
 ## Como usar
 
@@ -104,7 +104,7 @@ Gerado em: 05/09/2026 11:26
 
 - Carregador iPhone Turbo Tipo-C 20W + Cabo Lightining para IPhone Carg…
 - Chocolate Twix Original 30 Unidades de 15g
-- Smartphone Xiaomi Redmi 14C Preto 128GB 4GB RAM
+- Xiaomi POCO X6 5G 256GB/12GB Branco
 
 ---
 

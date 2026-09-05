@@ -1,91 +1,91 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 05/09/2026 21:20
+Gerado em: 05/09/2026 22:23
 
 ## Categorias prioritárias
 
-- 🍼 **Mãe e Bebê**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 👟 **Calçados**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 💄 **Beleza**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 🍼 **Mãe e Bebê**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🐶 **Pet**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
-- 👕 **Moda Masculina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
+- 🔌 **Eletrodomésticos**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-eletrodomesticos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_eletrodomesticos
 - 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 📚 **Papelaria**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 - 🏋️ **Esportes**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
-- 💄 **Beleza**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 
 ## Top ofertas para destacar
 
-1. **Pro 4 Fones De Ouvido TWS Sem Fio Bluetooth De Longa Duração Bateria…**
+1. **Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler…**
+   - Categoria: Beleza
+   - Loja: Shopee
+   - Preço: R$ 42,99
+   - Desconto: 86% OFF
+   - Link: https://s.shopee.com.br/BTYp6i2Jn
+
+2. **Pro 4 Fones De Ouvido TWS Sem Fio Bluetooth De Longa Duração Bateria…**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 10,72
    - Desconto: 64% OFF
    - Link: https://s.shopee.com.br/7KwghUCH4d
 
-2. **Kit Perfumes Masculinos Kayak + Mlbecc | Presente Ideal Dia e Noite |…**
+3. **Kit Perfumes Masculinos Kayak + Mlbecc | Presente Ideal Dia e Noite |…**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 47,98
    - Desconto: 52% OFF
    - Link: https://s.shopee.com.br/7VG9YaFysw
 
-3. **Alimento Royal Canin Hair & Skin 3kg Ração Gato**
+4. **Panela De Pressão 4,5litros Panelux Linha Classic Alto Brilho A Mais…**
+   - Categoria: Casa e Cozinha
+   - Loja: Shopee
+   - Preço: R$ 58,90
+   - Desconto: 49% OFF
+   - Link: https://s.shopee.com.br/9zxUT4CoX4
+
+5. **Alimento Royal Canin Hair & Skin 3kg Ração Gato**
    - Categoria: Pet
    - Loja: Mercado Livre
    - Preço: R$ 257,00
    - Desconto: 36% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB28523781?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-4. **Controlador Sem Fio Com Vibração Bluetooth One Game Ones XBOX Control…**
+6. **Controlador Sem Fio Com Vibração Bluetooth One Game Ones XBOX Control…**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 249,80
    - Desconto: 33% OFF
    - Link: https://s.shopee.com.br/1A85pcnCN
 
-5. **Notebook Gamer 15,6 Polegadas Intel N5095 (2025) - 16GB RAM + 512GB S…**
+7. **Notebook Gamer 15,6 Polegadas Intel N5095 (2025) - 16GB RAM + 512GB S…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 2.698,00
    - Desconto: 46% OFF
    - Link: https://s.shopee.com.br/7fZaLy64iQ
 
-6. **Conjunto Panelas Antiaderente 8 Peças Teflon Preto**
+8. **Conjunto Panelas Antiaderente 8 Peças Teflon Preto**
    - Categoria: Casa e Cozinha
    - Loja: Mercado Livre
    - Preço: R$ 477,90
    - Desconto: 40% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB78269423?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-7. **BODY SPLASH FEMININO ARABE AYRA 100ML - PRIMACIAL PERFUME FLORAL**
+9. **BODY SPLASH FEMININO ARABE AYRA 100ML - PRIMACIAL PERFUME FLORAL**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 25,00
    - Desconto: 37% OFF
    - Link: https://s.shopee.com.br/8V8gkQ7qLp
 
-8. **Fone De Ouvido Bluetooth Sem Fio Air Pods Pro 3 Para Android & iOS**
-   - Categoria: Celulares
+10. **Prancha Triondas Ondulador Formador Triplo 22mm Modelador de Cachos O…**
+   - Categoria: Beleza
    - Loja: Shopee
-   - Preço: R$ 26,99
-   - Desconto: 50% OFF
-   - Link: https://s.shopee.com.br/7pszoyVfuC
-
-9. **10000mAh/5000mAH/3000mAh Carregador portátil indução iPhone MagSafe b…**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 26,90
-   - Desconto: 73% OFF
-   - Link: https://s.shopee.com.br/6AklpuXTz4
-
-10. **Azul escova limpeza mamadeira kit para limpeza de mamadeira kit limpe…**
-   - Categoria: Mãe e Bebê
-   - Loja: Mercado Livre
-   - Preço: R$ 53,60
-   - Desconto: 72% OFF
-   - Link: https://www.mercadolivre.com.br/p/MLB75043054?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+   - Preço: R$ 40,99
+   - Desconto: 66% OFF
+   - Link: https://s.shopee.com.br/6L4DQj8o21
 
 ## Ações gratuitas recomendadas
 

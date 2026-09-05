@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 05/09/2026 21:20
+Gerado em: 05/09/2026 22:23
 
 ## Como usar
 
@@ -12,7 +12,37 @@ Gerado em: 05/09/2026 21:20
 
 ---
 
-## Post 1 — Ofertas Pet
+## Post 1 — Beleza e Cuidados
+
+**Canal recomendado:** Beleza e Cuidados
+
+**Horário sugerido:** 12:00 - 15:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
+
+**Texto pronto:**
+
+```txt
+💄 Oferta para Beleza e Cuidados
+
+Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler…
+
+💸 De: R$ 307,07
+🔥 Por: R$ 42,99
+🏷️ 86% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/BTYp6i2Jn
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 2 — Ofertas Pet
 
 **Canal recomendado:** Ofertas Pet
 
@@ -42,7 +72,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 2 — Mamãe e Bebê
+## Post 3 — Mamãe e Bebê
 
 **Canal recomendado:** Mamãe e Bebê
 
@@ -72,7 +102,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 3 — Casa e Cozinha
+## Post 4 — Casa e Cozinha
 
 **Canal recomendado:** Casa e Cozinha
 
@@ -87,44 +117,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
 ```txt
 🍳 Oferta para Casa e Cozinha
 
-Conjunto Panelas Antiaderente 8 Peças Teflon Preto
+Panela De Pressão 4,5litros Panelux Linha Classic Alto Brilho A Mais…
 
-💸 De: R$ 799,00
-🔥 Por: R$ 477,90
-🏷️ 40% OFF
-🛒 Loja: Mercado Livre
-
-Ver oferta: https://www.mercadolivre.com.br/p/MLB78269423?matt_word=marylouse&matt_tool=50459180&forceInApp=true
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 4 — Beleza e Cuidados
-
-**Canal recomendado:** Beleza e Cuidados
-
-**Horário sugerido:** 12:00 - 15:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
-
-**Texto pronto:**
-
-```txt
-💄 Oferta para Beleza e Cuidados
-
-Kit Perfumes Masculinos Kayak + Mlbecc | Presente Ideal Dia e Noite |…
-
-💸 De: R$ 99,96
-🔥 Por: R$ 47,98
-🏷️ 52% OFF
+💸 De: R$ 115,49
+🔥 Por: R$ 58,90
+🏷️ 49% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/7VG9YaFysw
+Ver oferta: https://s.shopee.com.br/9zxUT4CoX4
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

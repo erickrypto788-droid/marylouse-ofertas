@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 05/09/2026 07:22
+Gerado em: 05/09/2026 08:23
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 05/09/2026 07:22
 **Produtos usados:**
 
 - Berço Portátil Com Mosquiteiro Cama De Duas Camas 0-3 Anos Fecho De S…
+- Fraldas Pampers Supersequinha XXG
 - Tapete Termico Infantil Bebe Estampas Atividades Educativo Tapetinho…
-- Kit 6 Peças Roupa De Bebê Body Menina Animado Estampado Algodão
 
 ---
 
@@ -80,7 +80,7 @@ Gerado em: 05/09/2026 07:22
 
 - Kit Perfumes Masculinos Kayak + Mlbecc | Presente Ideal Dia e Noite |…
 - Kit 2 Body Splash Feminino Perfumado Encanto Lily + Florata Rose Pres…
-- Escova Rotativa Profissional 2 em 1
+- BODY SPLASH FEMININO ARABE AYRA 100ML - PRIMACIAL PERFUME FLORAL
 
 ---
 

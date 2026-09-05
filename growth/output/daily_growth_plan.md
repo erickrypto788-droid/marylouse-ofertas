@@ -1,12 +1,12 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 05/09/2026 04:05
+Gerado em: 05/09/2026 04:22
 
 ## Categorias prioritárias
 
-- 🍼 **Mãe e Bebê**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 💄 **Beleza**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 🍼 **Mãe e Bebê**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 💄 **Beleza**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🐶 **Pet**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 📚 **Papelaria**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 - 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
@@ -52,40 +52,40 @@ Gerado em: 05/09/2026 04:05
    - Desconto: 37% OFF
    - Link: https://s.shopee.com.br/8V8gkQ7qLp
 
-6. **Kit 2 Body Splash Feminino Perfumado Encanto Lily + Florata Rose Pres…**
+6. **Kit 6 Peças Roupa De Bebê Body Menina Animado Estampado Algodão**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 47,89
+   - Desconto: 56% OFF
+   - Link: https://s.shopee.com.br/9pe4P47Wm3
+
+7. **Kit 2 Body Splash Feminino Perfumado Encanto Lily + Florata Rose Pres…**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 28,90
    - Desconto: 64% OFF
    - Link: https://s.shopee.com.br/gPmtSPEEB
 
-7. **Carregador iPhone Turbo Tipo-C 20W + Cabo Lightining para IPhone Carg…**
+8. **Carregador iPhone Turbo Tipo-C 20W + Cabo Lightining para IPhone Carg…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 16,99
    - Desconto: 66% OFF
    - Link: https://s.shopee.com.br/112fgPmcAb
 
-8. **Monitor Gamer Mancer Valak Z186, 23.8 Pol, Curvo, 180Hz**
+9. **Monitor Gamer Mancer Valak Z186, 23.8 Pol, Curvo, 180Hz**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 561,95
    - Desconto: 59% OFF
    - Link: https://s.shopee.com.br/4AzgvGZDdw
 
-9. **Berço Portátil Com Mosquiteiro Cama De Duas Camas 0-3 Anos Fecho De S…**
+10. **Berço Portátil Com Mosquiteiro Cama De Duas Camas 0-3 Anos Fecho De S…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 538,79
    - Desconto: 68% OFF
    - Link: https://s.shopee.com.br/3B79Swl9ep
-
-10. **Garrafa Térmica Termometro Digital 1L Café Chá Nórdica Com Cabo Madei…**
-   - Categoria: Saúde
-   - Loja: Shopee
-   - Preço: R$ 44,99
-   - Desconto: 59% OFF
-   - Link: https://s.shopee.com.br/3LQYKrostg
 
 ## Ações gratuitas recomendadas
 

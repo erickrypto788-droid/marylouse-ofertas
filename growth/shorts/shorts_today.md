@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 05/09/2026 04:05
+Gerado em: 05/09/2026 04:22
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 05/09/2026 04:05
 **Produtos usados:**
 
 - Berço Portátil Com Mosquiteiro Cama De Duas Camas 0-3 Anos Fecho De S…
+- Kit 6 Peças Roupa De Bebê Body Menina Animado Estampado Algodão
 - Tênis Branco Infantil Unissex
-- Fralda Geriatrica Prevent Care Tamanho FRALDA GERIATRICA PREVENT CARE…
 
 ---
 

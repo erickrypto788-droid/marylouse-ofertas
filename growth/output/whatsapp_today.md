@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 05/09/2026 14:20
+Gerado em: 05/09/2026 15:02
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
 ```txt
 🐶 Oferta para Ofertas Pet
 
-Controlador Sem Fio Com Vibração Bluetooth One Game Ones XBOX Control…
+Alimento Royal Canin Hair & Skin 3kg Ração Gato
 
-💸 De: R$ 372,84
-🔥 Por: R$ 249,80
-🏷️ 33% OFF
-🛒 Loja: Shopee
+💸 De: R$ 399,90
+🔥 Por: R$ 257,00
+🏷️ 36% OFF
+🛒 Loja: Mercado Livre
 
-Ver oferta: https://s.shopee.com.br/1A85pcnCN
+Ver oferta: https://www.mercadolivre.com.br/p/MLB28523781?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

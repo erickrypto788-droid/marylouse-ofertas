@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 06/09/2026 03:22
+Gerado em: 06/09/2026 04:19
 
 ## Como usar
 
@@ -48,15 +48,11 @@ Gerado em: 06/09/2026 03:22
 
 - growth/shorts/slides/casa_cozinha/01_intro.png
 - growth/shorts/slides/casa_cozinha/02_produto_1.png
-- growth/shorts/slides/casa_cozinha/03_produto_2.png
-- growth/shorts/slides/casa_cozinha/04_produto_3.png
 - growth/shorts/slides/casa_cozinha/05_cta.png
 
 **Produtos usados:**
 
 - Panela De Pressão 4,5litros Panelux Linha Classic Alto Brilho A Mais…
-- Conjunto Panelas Antiaderente 8 Peças Teflon Preto
-- Jogo Panelas Vermelho Alumínio Fundido Usinado Javaliaa26a30
 
 ---
 

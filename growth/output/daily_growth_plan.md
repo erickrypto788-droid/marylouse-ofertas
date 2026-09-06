@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 06/09/2026 03:22
+Gerado em: 06/09/2026 04:19
 
 ## Categorias prioritárias
 
 - 🍼 **Mãe e Bebê**: 17 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🏋️ **Esportes**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 👟 **Calçados**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 🐶 **Pet**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - ❤️ **Saúde**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 🧸 **Brinquedos**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
+- 💻 **Informática**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 📚 **Papelaria**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
-- 💻 **Informática**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 
 ## Top ofertas para destacar
 
@@ -66,26 +66,26 @@ Gerado em: 06/09/2026 03:22
    - Desconto: 46% OFF
    - Link: https://s.shopee.com.br/7fZaLy64iQ
 
-8. **Conjunto Panelas Antiaderente 8 Peças Teflon Preto**
-   - Categoria: Casa e Cozinha
-   - Loja: Mercado Livre
-   - Preço: R$ 477,90
-   - Desconto: 40% OFF
-   - Link: https://www.mercadolivre.com.br/p/MLB78269423?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+8. **ROMANTIC CROWN Mochla de Viagem MascuIino e Feminina ImpermeaveI Refo…**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 119,98
+   - Desconto: 83% OFF
+   - Link: https://s.shopee.com.br/8V8iPQO017
 
-9. **Kit 48 Carrinhos De Metal Fricção Brinquedo Menino Maleta Pista Prese…**
+9. **Mochila Vlagem Feminina Masculinas Multifuncional Reforçada Impermeáv…**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 119,98
+   - Desconto: 76% OFF
+   - Link: https://s.shopee.com.br/1A6Z4a8Xm
+
+10. **Kit 48 Carrinhos De Metal Fricção Brinquedo Menino Maleta Pista Prese…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 69,99
    - Desconto: 53% OFF
    - Link: https://s.shopee.com.br/9zxUjXR5Uq
-
-10. **Ninho Redutor de Berço Liso e Trocador Portátil Impermeável**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 44,99
-   - Desconto: 68% OFF
-   - Link: https://s.shopee.com.br/70JuYYn7bS
 
 ## Ações gratuitas recomendadas
 

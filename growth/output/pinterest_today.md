@@ -1,6 +1,6 @@
 # Pinterest Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 06/09/2026 15:06
+Gerado em: 06/09/2026 15:20
 
 ## Como usar
 
@@ -114,7 +114,7 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
 
 **Descrição:**
 
-Veja ofertas de Celulares selecionadas pela MaryLouse Ofertas. Destaque de hoje: Leitor de Cartão USB 3.0. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Veja ofertas de Celulares selecionadas pela MaryLouse Ofertas. Destaque de hoje: Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com…. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
@@ -122,31 +122,31 @@ https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=pinterest
 
 **Por que postar:**
 
-Categoria com 5 oferta(s) e boa intenção de compra.
+Categoria com 7 oferta(s) e boa intenção de compra.
 
 ---
 
-## Pin 5 — Mãe e Bebê
+## Pin 5 — Celulares
 
 **Tipo:** produto_direto
 
-**Board sugerido:** Ofertas para Bebê
+**Board sugerido:** Celulares e Tecnologia
 
 **Imagem para upload no Pinterest:**
 
-https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
+https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
 
 **Título:**
 
-64% OFF: Fraldas Calça SUMIKKO Infantil
+61% OFF: Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com…
 
 **Descrição:**
 
-Oferta destaque em Mãe e Bebê encontrada pela MaryLouse Ofertas. Preço: R$ 72,00. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Oferta destaque em Celulares encontrada pela MaryLouse Ofertas. Preço: R$ 19,79. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
-https://s.shopee.com.br/7pt0HnQyUm
+https://s.shopee.com.br/60ROAB6U23
 
 **Por que postar:**
 

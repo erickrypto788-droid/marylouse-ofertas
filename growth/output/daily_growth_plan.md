@@ -1,18 +1,18 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 06/09/2026 21:03
+Gerado em: 06/09/2026 21:21
 
 ## Categorias prioritárias
 
-- 🏋️ **Esportes**: 15 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
+- 🏋️ **Esportes**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 👟 **Calçados**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 🧸 **Brinquedos**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 💄 **Beleza**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 👗 **Moda Feminina**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 🍼 **Mãe e Bebê**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 💻 **Informática**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 🍳 **Casa e Cozinha**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
-- 🐶 **Pet**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
-- 🔌 **Eletrodomésticos**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-eletrodomesticos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_eletrodomesticos
+- 👗 **Moda Feminina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
+- 🍳 **Casa e Cozinha**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
+- 🐶 **Pet**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 🧒 **Moda Infantil**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-infantil.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-infantil
 
 ## Top ofertas para destacar
@@ -66,26 +66,26 @@ Gerado em: 06/09/2026 21:03
    - Desconto: 41% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB51434487?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-8. **Panela De Pressão 4,5litros Panelux Linha Classic Alto Brilho A Mais…**
-   - Categoria: Casa e Cozinha
-   - Loja: Shopee
-   - Preço: R$ 58,90
-   - Desconto: 49% OFF
-   - Link: https://s.shopee.com.br/9zxUT4CoX4
-
-9. **Kit Body Splash Dolce + Florata Red 200ml Feminino.**
+8. **Kit Body Splash Dolce + Florata Red 200ml Feminino.**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 42,90
    - Desconto: 57% OFF
    - Link: https://s.shopee.com.br/1VyxfqIPDd
 
-10. **Espremedor Elétrico Laranja Limão Frutas Fazer Sucos Recarregável Usb…**
+9. **Espremedor Elétrico Laranja Limão Frutas Fazer Sucos Recarregável Usb…**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 61,99
    - Desconto: 56% OFF
    - Link: https://s.shopee.com.br/80CSbxNijZ
+
+10. **Fone Bluetooth Pro5 Premium | Imersão Total c Cancelamento Ruído Qual…**
+   - Categoria: Celulares
+   - Loja: Shopee
+   - Preço: R$ 66,88
+   - Desconto: 77% OFF
+   - Link: https://s.shopee.com.br/5VV7ZG8O2s
 
 ## Ações gratuitas recomendadas
 

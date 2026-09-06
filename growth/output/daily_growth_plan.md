@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 06/09/2026 22:05
+Gerado em: 06/09/2026 22:22
 
 ## Categorias prioritárias
 
@@ -8,12 +8,12 @@ Gerado em: 06/09/2026 22:05
 - 👟 **Calçados**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 💻 **Informática**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 🧸 **Brinquedos**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
-- 💄 **Beleza**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- ❤️ **Saúde**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 🍼 **Mãe e Bebê**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 👗 **Moda Feminina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 🍳 **Casa e Cozinha**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
-- 🐶 **Pet**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
-- 🧒 **Moda Infantil**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-infantil.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-infantil
+- 💄 **Beleza**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 🐶 **Pet**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 
 ## Top ofertas para destacar
 
@@ -52,40 +52,40 @@ Gerado em: 06/09/2026 22:05
    - Desconto: 64% OFF
    - Link: https://s.shopee.com.br/7pt0HnQyUm
 
-6. **Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler…**
-   - Categoria: Beleza
-   - Loja: Shopee
-   - Preço: R$ 42,99
-   - Desconto: 86% OFF
-   - Link: https://s.shopee.com.br/BTYp6i2Jn
-
-7. **Barbeador Costas Dobrável**
+6. **Barbeador Costas Dobrável**
    - Categoria: Beleza
    - Loja: Mercado Livre
    - Preço: R$ 218,00
    - Desconto: 41% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB51434487?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-8. **Kit Body Splash Dolce + Florata Red 200ml Feminino.**
-   - Categoria: Beleza
+7. **Medidor de Pressão Digital de Braço Automático Monitor Cardíaco LCD c…**
+   - Categoria: Saúde
    - Loja: Shopee
-   - Preço: R$ 42,90
-   - Desconto: 57% OFF
-   - Link: https://s.shopee.com.br/1VyxfqIPDd
+   - Preço: R$ 38,99
+   - Desconto: 61% OFF
+   - Link: https://s.shopee.com.br/qjITVlmVY
 
-9. **Espremedor Elétrico Laranja Limão Frutas Fazer Sucos Recarregável Usb…**
-   - Categoria: Casa e Cozinha
+8. **Medidor Pressão Digital De Pulso Com Voz Monitor Inteligente Aparelho…**
+   - Categoria: Saúde
    - Loja: Shopee
-   - Preço: R$ 61,99
-   - Desconto: 56% OFF
-   - Link: https://s.shopee.com.br/80CSbxNijZ
+   - Preço: R$ 40,98
+   - Desconto: 59% OFF
+   - Link: https://s.shopee.com.br/3LQdS6cGQn
 
-10. **Fone Bluetooth Pro5 Premium | Imersão Total c Cancelamento Ruído Qual…**
-   - Categoria: Celulares
+9. **Balança Corporal Transparente Quadrada Digital Até 180kg Com Vidro Te…**
+   - Categoria: Saúde
    - Loja: Shopee
-   - Preço: R$ 66,88
-   - Desconto: 77% OFF
-   - Link: https://s.shopee.com.br/5VV7ZG8O2s
+   - Preço: R$ 29,90
+   - Desconto: 65% OFF
+   - Link: https://s.shopee.com.br/2qULWmE8bs
+
+10. **Termômetro De Testa Infravermelha Digital**
+   - Categoria: Saúde
+   - Loja: Shopee
+   - Preço: R$ 26,59
+   - Desconto: 78% OFF
+   - Link: https://s.shopee.com.br/1qbpfLmAUF
 
 ## Ações gratuitas recomendadas
 

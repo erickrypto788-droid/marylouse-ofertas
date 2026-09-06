@@ -1,5 +1,39 @@
 [
   {
+    "id": "3c1108b84c63bbec1f",
+    "title": "Bepantol Baby Pomada Assadura Bebe Hipoalergênica, 200g",
+    "raw_title": "Bepantol Baby Pomada Assadura Bebe Hipoalergênica, 200g",
+    "description": "🔥 17% OFF — Oferta encontrada! 📌 Bepantol Baby Pomada Assadura Bebe Hipoalergênica, 200g Confira os detalhes e aproveite enquanto a oferta estiver dispo...",
+    "marketplace": "Mercado Livre",
+    "category": "Mãe e Bebê",
+    "old_price": "R$ 119,90",
+    "price": "R$ 99,99",
+    "discount_percent": 17.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_772325-MLA110843234303_042026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68578906?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "06/09/2026 13:05",
+    "created_at_iso": "2026-09-06T13:05:21",
+    "created_ts": 1788699921
+  },
+  {
+    "id": "f764521ba410a50a48",
+    "title": "Amaciante Vinagreen Lavanda 1L",
+    "raw_title": "Vinagreen Amaciante Roupas Campos De Lavanda Concentrado 1l",
+    "description": "✨ Roupas perfumadas e macias! ✨ Vinagreen Amaciante Roupas Campos De Lavanda Concentrado 1L. Suas roupas com o toque suave e o aroma relaxante de lavand...",
+    "marketplace": "Mercado Livre",
+    "category": "Supermercados",
+    "old_price": "",
+    "price": "R$ 46,88",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_839354-MLA99906696345_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB35007224?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "06/09/2026 13:04",
+    "created_at_iso": "2026-09-06T13:04:17",
+    "created_ts": 1788699857
+  },
+  {
     "id": "6e085f8d7b87b65027",
     "title": "Camisa Feminina Lisa Crepinho Elegante Plus Size",
     "raw_title": "Camisa Feminina Lisa Crepinho Elegante Plus Size M G GG G1",
@@ -2406,39 +2440,5 @@
       "key": "shopee_bebidas_alimentos",
       "name": "Bebidas e Alimentos"
     }
-  },
-  {
-    "id": "52e78bf4edc0a32b1d",
-    "title": "Homem Aranha - Miniaturas para Monitor – Decoração Criativa para Setu…",
-    "raw_title": "Homem Aranha - Miniaturas para Monitor – Decoração Criativa para Setup PC Gamer/Office - Spider Man Miles Morales",
-    "description": "🔥 Oferta encontrada! 📌 Homem Aranha - Miniaturas para Monitor – Decoração Criativa para Setup PC Gamer/Office - Spider Man Miles Morales Confira os deta...",
-    "marketplace": "Shopee",
-    "category": "Pet",
-    "old_price": "",
-    "price": "R$ 28,90",
-    "discount_percent": 0.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m6-mrhl57mbwq9y6a",
-    "affiliate_url": "https://s.shopee.com.br/7VGA9f6z5c",
-    "created_at": "05/09/2026 12:20",
-    "created_at_iso": "2026-09-05T12:20:00",
-    "created_ts": 1788610800
-  },
-  {
-    "id": "fad66b098b8ce336cc",
-    "title": "Repetidor de Sinal Wi-Fi Roteador Wireless 2.4G Sem Fio 4 Antenas Lon…",
-    "raw_title": "Repetidor de Sinal Wi-Fi Roteador Wireless 2.4G Sem Fio 4 Antenas Longo Alcance Potente Fácil Instalação",
-    "description": "🔥 28% OFF — Oferta encontrada! 📌 Repetidor de Sinal Wi-Fi Roteador Wireless 2.4G Sem Fio 4 Antenas Longo Alcance Potente Fácil Instalação Confira os det...",
-    "marketplace": "Shopee",
-    "category": "Informática",
-    "old_price": "R$ 90,14",
-    "price": "R$ 64,90",
-    "discount_percent": 28.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ma-mq6n6kfmt8u821",
-    "affiliate_url": "https://s.shopee.com.br/2BEdnra5UG",
-    "created_at": "05/09/2026 12:18",
-    "created_at_iso": "2026-09-05T12:18:57",
-    "created_ts": 1788610737
   }
 ]

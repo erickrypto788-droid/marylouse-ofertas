@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 06/09/2026 05:20
+Gerado em: 06/09/2026 06:03
 
 ## Como usar
 
@@ -100,7 +100,7 @@ Gerado em: 06/09/2026 05:20
 
 - 10000mAh/5000mAH/3000mAh Carregador portátil indução iPhone MagSafe b…
 - Fone De Ouvido Bluetooth Sem Fio Air Pods Pro 3 Para Android & iOS
-- Xiaomi POCO X6 5G 256GB/12GB Branco
+- Smartphone Xiaomi 15t 5g 12+12gb Ram + 512gb, Cinza
 
 ---
 

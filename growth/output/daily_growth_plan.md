@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 06/09/2026 05:20
+Gerado em: 06/09/2026 06:03
 
 ## Categorias prioritárias
 
@@ -10,10 +10,10 @@ Gerado em: 06/09/2026 05:20
 - 💻 **Informática**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - ❤️ **Saúde**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 🧸 **Brinquedos**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
-- 🏋️ **Esportes**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
+- 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 🏋️ **Esportes**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
-- 📚 **Papelaria**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 
 ## Top ofertas para destacar
 
@@ -73,19 +73,19 @@ Gerado em: 06/09/2026 05:20
    - Desconto: 46% OFF
    - Link: https://s.shopee.com.br/7fZaLy64iQ
 
-9. **ROMANTIC CROWN Mochla de Viagem MascuIino e Feminina ImpermeaveI Refo…**
+9. **Smartphone Xiaomi 15t 5g 12+12gb Ram + 512gb, Cinza**
+   - Categoria: Celulares
+   - Loja: Mercado Livre
+   - Preço: R$ 4.299,90
+   - Desconto: 19% OFF
+   - Link: https://www.mercadolivre.com.br/p/MLB59103594?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+10. **ROMANTIC CROWN Mochla de Viagem MascuIino e Feminina ImpermeaveI Refo…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 119,98
    - Desconto: 83% OFF
    - Link: https://s.shopee.com.br/8V8iPQO017
-
-10. **Mochila Vlagem Feminina Masculinas Multifuncional Reforçada Impermeáv…**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 119,98
-   - Desconto: 76% OFF
-   - Link: https://s.shopee.com.br/1A6Z4a8Xm
 
 ## Ações gratuitas recomendadas
 

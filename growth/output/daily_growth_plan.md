@@ -1,42 +1,42 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 06/09/2026 03:04
+Gerado em: 06/09/2026 03:22
 
 ## Categorias prioritárias
 
-- 🍼 **Mãe e Bebê**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 🍼 **Mãe e Bebê**: 17 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🏋️ **Esportes**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 👟 **Calçados**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 🐶 **Pet**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
-- 💄 **Beleza**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 🐶 **Pet**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - ❤️ **Saúde**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 🧸 **Brinquedos**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 📚 **Papelaria**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
+- 💻 **Informática**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 
 ## Top ofertas para destacar
 
-1. **Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler…**
+1. **Fraldas Calça SUMIKKO Infantil**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 72,00
+   - Desconto: 64% OFF
+   - Link: https://s.shopee.com.br/7pt0HnQyUm
+
+2. **Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler…**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 42,99
    - Desconto: 86% OFF
    - Link: https://s.shopee.com.br/BTYp6i2Jn
 
-2. **Pro 4 Fones De Ouvido TWS Sem Fio Bluetooth De Longa Duração Bateria…**
+3. **Pro 4 Fones De Ouvido TWS Sem Fio Bluetooth De Longa Duração Bateria…**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 10,72
    - Desconto: 64% OFF
    - Link: https://s.shopee.com.br/7KwghUCH4d
-
-3. **Kit Perfumes Masculinos Kayak + Mlbecc | Presente Ideal Dia e Noite |…**
-   - Categoria: Beleza
-   - Loja: Shopee
-   - Preço: R$ 47,98
-   - Desconto: 52% OFF
-   - Link: https://s.shopee.com.br/7VG9YaFysw
 
 4. **Panela De Pressão 4,5litros Panelux Linha Classic Alto Brilho A Mais…**
    - Categoria: Casa e Cozinha
@@ -73,19 +73,19 @@ Gerado em: 06/09/2026 03:04
    - Desconto: 40% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB78269423?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-9. **BODY SPLASH FEMININO ARABE AYRA 100ML - PRIMACIAL PERFUME FLORAL**
-   - Categoria: Beleza
+9. **Kit 48 Carrinhos De Metal Fricção Brinquedo Menino Maleta Pista Prese…**
+   - Categoria: Mãe e Bebê
    - Loja: Shopee
-   - Preço: R$ 25,00
-   - Desconto: 37% OFF
-   - Link: https://s.shopee.com.br/8V8gkQ7qLp
+   - Preço: R$ 69,99
+   - Desconto: 53% OFF
+   - Link: https://s.shopee.com.br/9zxUjXR5Uq
 
-10. **Nebulizador Portátil AIQUE**
-   - Categoria: Saúde
+10. **Ninho Redutor de Berço Liso e Trocador Portátil Impermeável**
+   - Categoria: Mãe e Bebê
    - Loja: Shopee
-   - Preço: R$ 25,99
-   - Desconto: 62% OFF
-   - Link: https://s.shopee.com.br/gPqwnDWBZ
+   - Preço: R$ 44,99
+   - Desconto: 68% OFF
+   - Link: https://s.shopee.com.br/70JuYYn7bS
 
 ## Ações gratuitas recomendadas
 

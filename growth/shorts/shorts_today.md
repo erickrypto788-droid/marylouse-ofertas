@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 06/09/2026 03:04
+Gerado em: 06/09/2026 03:22
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 06/09/2026 03:04
 
 **Produtos usados:**
 
+- Fraldas Calça SUMIKKO Infantil
+- Ninho Redutor de Berço Liso e Trocador Portátil Impermeável
 - Bebê Reborn Girafinha Luxo
-- Kit 5 Regatas Bebê
-- Azul escova limpeza mamadeira kit para limpeza de mamadeira kit limpe…
 
 ---
 
@@ -79,8 +79,8 @@ Gerado em: 06/09/2026 03:04
 **Produtos usados:**
 
 - Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler…
-- Kit Perfumes Masculinos Kayak + Mlbecc | Presente Ideal Dia e Noite |…
 - Prancha Triondas Ondulador Formador Triplo 22mm Modelador de Cachos O…
+- Kit Body Splash Masculino Malbeck Essencialle
 
 ---
 

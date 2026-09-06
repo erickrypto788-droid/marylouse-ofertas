@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 06/09/2026 03:04
+Gerado em: 06/09/2026 03:22
 
 ## Como usar
 
@@ -12,7 +12,37 @@ Gerado em: 06/09/2026 03:04
 
 ---
 
-## Post 1 — Beleza e Cuidados
+## Post 1 — Mamãe e Bebê
+
+**Canal recomendado:** Mamãe e Bebê
+
+**Horário sugerido:** 09:00 - 11:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
+
+**Texto pronto:**
+
+```txt
+🍼 Oferta para Mamãe e Bebê
+
+Fraldas Calça SUMIKKO Infantil
+
+💸 De: R$ 200,00
+🔥 Por: R$ 72,00
+🏷️ 64% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/7pt0HnQyUm
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 2 — Beleza e Cuidados
 
 **Canal recomendado:** Beleza e Cuidados
 
@@ -42,7 +72,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 2 — Ofertas Pet
+## Post 3 — Ofertas Pet
 
 **Canal recomendado:** Ofertas Pet
 
@@ -65,36 +95,6 @@ Pro 4 Fones De Ouvido TWS Sem Fio Bluetooth De Longa Duração Bateria…
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/7KwghUCH4d
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 3 — Mamãe e Bebê
-
-**Canal recomendado:** Mamãe e Bebê
-
-**Horário sugerido:** 09:00 - 11:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
-
-**Texto pronto:**
-
-```txt
-🍼 Oferta para Mamãe e Bebê
-
-Tapete Termico Infantil Bebe Estampas Atividades Educativo Tapetinho…
-
-💸 De: R$ 49,98
-🔥 Por: R$ 20,99
-🏷️ 58% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/4LJ7z7Ur5z
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

@@ -1,5 +1,110 @@
 [
   {
+    "id": "021d7004360bb8fd45",
+    "title": "Body Splash Lily 200Ml + 1 Hidratante 200ML",
+    "raw_title": "Body Splash Lily 200Ml + 1 Hidratante 200ML",
+    "description": "🔥 Oferta encontrada! 📌 Body Splash Lily 200Ml + 1 Hidratante 200ML Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Shopee",
+    "category": "Beleza",
+    "old_price": "",
+    "price": "R$ 89,90",
+    "discount_percent": 0.0,
+    "rating": 4.6,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-824h8-mf5y7ebbr9jc70",
+    "affiliate_url": "https://s.shopee.com.br/BTa5ONTvV",
+    "created_at": "06/09/2026 17:21",
+    "created_at_iso": "2026-09-06T17:21:01",
+    "created_ts": 1788715261,
+    "niche": {
+      "key": "shopee_beleza",
+      "name": "Beleza"
+    }
+  },
+  {
+    "id": "8862af95c4957d8518",
+    "title": "Celimax The Vita A Retinal Shot Tightening Booster 15ml",
+    "raw_title": "Celimax The Vita A Retinal Shot Tightening Booster 15ml",
+    "description": "🔥 33% OFF — Oferta encontrada! 📌 Celimax The Vita A Retinal Shot Tightening Booster 15ml Confira os detalhes e aproveite enquanto a oferta estiver dispo...",
+    "marketplace": "Shopee",
+    "category": "Beleza",
+    "old_price": "R$ 219,40",
+    "price": "R$ 147,00",
+    "discount_percent": 33.0,
+    "rating": 5.0,
+    "image": "https://cf.shopee.com.br/file/sg-11134207-825ai-mr9pynhmd43k22",
+    "affiliate_url": "https://s.shopee.com.br/9fKgf91xXz",
+    "created_at": "06/09/2026 17:19",
+    "created_at_iso": "2026-09-06T17:19:57",
+    "created_ts": 1788715197,
+    "niche": {
+      "key": "shopee_beleza",
+      "name": "Beleza"
+    }
+  },
+  {
+    "id": "9b383e8bc173234bea",
+    "title": "Kit Body Splash Dolce + Florata Red 200ml Feminino.",
+    "raw_title": "Kit Body Splash Dolce + Florata Red 200ml Feminino.",
+    "description": "🔥 57% OFF — Oferta encontrada! 📌 Kit Body Splash Dolce + Florata Red 200ml Feminino. Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Shopee",
+    "category": "Beleza",
+    "old_price": "R$ 99,77",
+    "price": "R$ 42,90",
+    "discount_percent": 57.0,
+    "rating": 4.6,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-md4na59oiqsy8c",
+    "affiliate_url": "https://s.shopee.com.br/1VyxfqIPDd",
+    "created_at": "06/09/2026 17:18",
+    "created_at_iso": "2026-09-06T17:18:06",
+    "created_ts": 1788715086,
+    "niche": {
+      "key": "shopee_beleza",
+      "name": "Beleza"
+    }
+  },
+  {
+    "id": "128cc896f9aca52dda",
+    "title": "Perfume Attracione Feminino",
+    "raw_title": "Perfume Attracione Feminino by Attracione Woman Mulher",
+    "description": "🚨 IMPERDÍVEL! Perfume Attracione Feminino com 75% OFF! ✨ Garanta já o seu Perfume Attracione Woman, sucesso de vendas e super bem avaliado! Ideal para v...",
+    "marketplace": "Shopee",
+    "category": "Beleza",
+    "old_price": "R$ 176,00",
+    "price": "R$ 44,00",
+    "discount_percent": 75.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9g8de45a3w911",
+    "affiliate_url": "https://s.shopee.com.br/gPqgJLZue",
+    "created_at": "06/09/2026 17:17",
+    "created_at_iso": "2026-09-06T17:17:02",
+    "created_ts": 1788715022,
+    "niche": {
+      "key": "shopee_beleza",
+      "name": "Beleza"
+    }
+  },
+  {
+    "id": "9405a0a18904c95c16",
+    "title": "Perfume Attracione Men",
+    "raw_title": "Attracione Men (Perfume Masculino com Feromônios Ativados)",
+    "description": "🔥 Destaque-se com Attracione Men! O perfume masculino com feromônios ativados que te ajuda a impressionar! ✨",
+    "marketplace": "Shopee",
+    "category": "Beleza",
+    "old_price": "R$ 286,10",
+    "price": "R$ 57,22",
+    "discount_percent": 80.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7repr-m2v3wdwedwcb1f",
+    "affiliate_url": "https://s.shopee.com.br/6fh2Z3J9Zj",
+    "created_at": "06/09/2026 17:15",
+    "created_at_iso": "2026-09-06T17:15:52",
+    "created_ts": 1788714952,
+    "niche": {
+      "key": "shopee_beleza",
+      "name": "Beleza"
+    }
+  },
+  {
     "id": "009b8584c32fc69379",
     "title": "Whey Protein + Cafeína",
     "raw_title": "Whey Protein Concentrado + Whey Protein Isolado + Cafeína",
@@ -2361,69 +2466,6 @@
     "niche": {
       "key": "shopee_sapatos_masculinos",
       "name": "Sapatos Masculinos"
-    }
-  },
-  {
-    "id": "1bd9cf108087d863fe",
-    "title": "Calça Pantalona Feminina Plus Size Canelada Com Elastico na Cintura C…",
-    "raw_title": "Calça Pantalona Feminina Plus Size Canelada Com Elastico na Cintura Curvy +",
-    "description": "🔥 50% OFF — Oferta encontrada! 📌 Calça Pantalona Feminina Plus Size Canelada Com Elastico na Cintura Curvy + Confira os detalhes e aproveite enquanto a...",
-    "marketplace": "Shopee",
-    "category": "Roupas Plus Size",
-    "old_price": "R$ 69,98",
-    "price": "R$ 34,99",
-    "discount_percent": 50.0,
-    "rating": 4.7,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk8jk6b1fegwe9",
-    "affiliate_url": "https://s.shopee.com.br/2qUJfPHI4q",
-    "created_at": "05/09/2026 17:17",
-    "created_at_iso": "2026-09-05T17:17:46",
-    "created_ts": 1788628666,
-    "niche": {
-      "key": "shopee_roupas_plus_size",
-      "name": "Roupas Plus Size"
-    }
-  },
-  {
-    "id": "42e783643bad1ac861",
-    "title": "Calças Jeans Femininas Plus Size Cintura Alta Até o Umbigo Lycra",
-    "raw_title": "Calças Jeans Femininas Plus Size Cintura Alta Até o Umbigo Lycra",
-    "description": "🔥 69% OFF — Oferta encontrada! 📌 Calças Jeans Femininas Plus Size Cintura Alta Até o Umbigo Lycra Confira os detalhes e aproveite enquanto a oferta esti...",
-    "marketplace": "Shopee",
-    "category": "Roupas Plus Size",
-    "old_price": "R$ 159,32",
-    "price": "R$ 49,39",
-    "discount_percent": 69.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgmxpf0udzpj00",
-    "affiliate_url": "https://s.shopee.com.br/5foSW2L0aD",
-    "created_at": "05/09/2026 17:16",
-    "created_at_iso": "2026-09-05T17:16:42",
-    "created_ts": 1788628602,
-    "niche": {
-      "key": "shopee_roupas_plus_size",
-      "name": "Roupas Plus Size"
-    }
-  },
-  {
-    "id": "266483713ae9dff8fc",
-    "title": "Vestido Plus Size Soltinho Em Dois Tamanhos e Várias Cores",
-    "raw_title": "Vestido Plus Size Soltinho Em Dois Tamanhos e Várias Cores",
-    "description": "🔥 65% OFF — Oferta encontrada! 📌 Vestido Plus Size Soltinho Em Dois Tamanhos e Várias Cores Confira os detalhes e aproveite enquanto a oferta estiver di...",
-    "marketplace": "Shopee",
-    "category": "Roupas Plus Size",
-    "old_price": "R$ 110,00",
-    "price": "R$ 38,50",
-    "discount_percent": 65.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m4-mm2bgmooii2o0f",
-    "affiliate_url": "https://s.shopee.com.br/5foV2bohRJ",
-    "created_at": "05/09/2026 17:15",
-    "created_at_iso": "2026-09-05T17:15:38",
-    "created_ts": 1788628538,
-    "niche": {
-      "key": "shopee_roupas_plus_size",
-      "name": "Roupas Plus Size"
     }
   }
 ]

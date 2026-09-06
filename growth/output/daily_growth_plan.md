@@ -1,15 +1,15 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 06/09/2026 23:04
+Gerado em: 06/09/2026 23:21
 
 ## Categorias prioritárias
 
 - 🏋️ **Esportes**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 👟 **Calçados**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 🍼 **Mãe e Bebê**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 💻 **Informática**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 🧸 **Brinquedos**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - ❤️ **Saúde**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
-- 🍼 **Mãe e Bebê**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 👗 **Moda Feminina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 🍳 **Casa e Cozinha**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
@@ -52,40 +52,40 @@ Gerado em: 06/09/2026 23:04
    - Desconto: 64% OFF
    - Link: https://s.shopee.com.br/7pt0HnQyUm
 
-6. **Barbeador Costas Dobrável**
+6. **Toalha de Banho Fralda Soft com Capuz para Bebê OU Kit com 2, 3 ou…**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 31,99
+   - Desconto: 47% OFF
+   - Link: https://s.shopee.com.br/7AdJUZTVqa
+
+7. **Barbeador Costas Dobrável**
    - Categoria: Beleza
    - Loja: Mercado Livre
    - Preço: R$ 218,00
    - Desconto: 41% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB51434487?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-7. **Medidor de Pressão Digital de Braço Automático Monitor Cardíaco LCD c…**
-   - Categoria: Saúde
+8. **Kit de 3 Lençol Cercado De Bebê Chiqueirinho com elástico Percal 400…**
+   - Categoria: Mãe e Bebê
    - Loja: Shopee
-   - Preço: R$ 38,99
-   - Desconto: 61% OFF
-   - Link: https://s.shopee.com.br/qjITVlmVY
+   - Preço: R$ 29,97
+   - Desconto: 55% OFF
+   - Link: https://s.shopee.com.br/6AknZ1qIIL
 
-8. **Medidor Pressão Digital De Pulso Com Voz Monitor Inteligente Aparelho…**
-   - Categoria: Saúde
+9. **Berço Portátil Moises Co-bed Com Balanço Mosquiteiro e Cesto Regulage…**
+   - Categoria: Mãe e Bebê
    - Loja: Shopee
-   - Preço: R$ 40,98
-   - Desconto: 59% OFF
-   - Link: https://s.shopee.com.br/3LQdS6cGQn
+   - Preço: R$ 539,49
+   - Desconto: 70% OFF
+   - Link: https://s.shopee.com.br/AAGwKNb4BF
 
-9. **Balança Corporal Transparente Quadrada Digital Até 180kg Com Vidro Te…**
-   - Categoria: Saúde
+10. **NINHO REDUTOR DE BERÇO | COM ZIPER E LAÇO | TROCADOR PORTÁTIL |…**
+   - Categoria: Mãe e Bebê
    - Loja: Shopee
-   - Preço: R$ 29,90
-   - Desconto: 65% OFF
-   - Link: https://s.shopee.com.br/2qULWmE8bs
-
-10. **Termômetro De Testa Infravermelha Digital**
-   - Categoria: Saúde
-   - Loja: Shopee
-   - Preço: R$ 26,59
-   - Desconto: 78% OFF
-   - Link: https://s.shopee.com.br/1qbpfLmAUF
+   - Preço: R$ 45,90
+   - Desconto: 67% OFF
+   - Link: https://s.shopee.com.br/6q0UMFnkwP
 
 ## Ações gratuitas recomendadas
 

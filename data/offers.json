@@ -1,5 +1,39 @@
 [
   {
+    "id": "c349d13972d9b6ea2d",
+    "title": "Xiaomi Redmi 15c 256GB Azul",
+    "raw_title": "Smartphone Xiaomi Redmi 15c 256gb Global Azul",
+    "description": "🚀 Chegou a hora de ter um novo smartphone! O incrível Xiaomi Redmi 15c 256gb Global Azul está com frete grátis! 📱 Desfrute de muito espaço e performance...",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "",
+    "price": "R$ 1.135,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_748348-MLA96267396954_102025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB61421090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "06/09/2026 23:02",
+    "created_at_iso": "2026-09-06T23:02:33",
+    "created_ts": 1788735753
+  },
+  {
+    "id": "dcb2eaa2a03f77ee92",
+    "title": "Xiaomi Redmi 13 Azul-marinho",
+    "raw_title": "Smartphone Xiaomi Redmi 13 Cor Azul-marinho",
+    "description": "⚡️ IMPERDÍVEL! ⚡️ Smartphone Xiaomi Redmi 13 Cor Azul-marinho! 📱✨ Performance e estilo em suas mãos.",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "",
+    "price": "R$ 1.337,40",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_921092-MLA99495354242_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB41629336?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "06/09/2026 23:01",
+    "created_at_iso": "2026-09-06T23:01:22",
+    "created_ts": 1788735682
+  },
+  {
     "id": "87425e23525aa3230a",
     "title": "Medidor de Pressão Digital de Braço Automático Monitor Cardíaco LCD c…",
     "raw_title": "Medidor de Pressão Digital de Braço Automático Monitor Cardíaco LCD com USB",
@@ -2507,27 +2541,6 @@
     "niche": {
       "key": "shopee_moda_infantil",
       "name": "Moda Infantil"
-    }
-  },
-  {
-    "id": "8192fab99c80b90689",
-    "title": "Protetor Solar Facial Acnezil FPS 30 Oil Control 60g",
-    "raw_title": "Protetor Solar Facial Acnezil FPS 30 Oil Control 60g",
-    "description": "🔥 14% OFF — Oferta encontrada! 📌 Protetor Solar Facial Acnezil FPS 30 Oil Control 60g Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Shopee",
-    "category": "Beleza",
-    "old_price": "R$ 29,99",
-    "price": "R$ 25,79",
-    "discount_percent": 14.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7rd3n-lw5vik3i483va6",
-    "affiliate_url": "https://s.shopee.com.br/8KpHoPEOIm",
-    "created_at": "05/09/2026 22:21",
-    "created_at_iso": "2026-09-05T22:21:54",
-    "created_ts": 1788646914,
-    "niche": {
-      "key": "shopee_beleza",
-      "name": "Beleza"
     }
   }
 ]

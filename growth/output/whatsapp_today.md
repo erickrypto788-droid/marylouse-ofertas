@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 06/09/2026 13:43
+Gerado em: 06/09/2026 14:10
 
 ## Como usar
 
@@ -147,14 +147,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-KIT 3 Blusas Cacharrel Gola Alta
+Calça Legging Ausare UV50+ Cós Alto
 
-💸 De: R$ 148,53
-🔥 Por: R$ 44,56
-🏷️ 70% OFF
-🛒 Loja: Shopee
+💸 De: R$ 296,00
+🔥 Por: R$ 99,90
+🏷️ 66% OFF
+🛒 Loja: Mercado Livre
 
-Ver oferta: https://s.shopee.com.br/9KhpngdbX3
+Ver oferta: https://www.mercadolivre.com.br/p/MLB69276350?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

@@ -1,5 +1,39 @@
 [
   {
+    "id": "009b8584c32fc69379",
+    "title": "Whey Protein + Cafeína",
+    "raw_title": "Whey Protein Concentrado + Whey Protein Isolado + Cafeína",
+    "description": "💪 Potencialize seus treinos agora! Chegou o combo perfeito: Whey Protein Concentrado + Whey Protein Isolado + Cafeína! 🚀 Mais força, energia e recuperaç...",
+    "marketplace": "Mercado Livre",
+    "category": "Esportes e Lazer",
+    "old_price": "",
+    "price": "R$ 658,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_647505-MLB31230837165_062019-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20818317?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "06/09/2026 17:02",
+    "created_at_iso": "2026-09-06T17:02:47",
+    "created_ts": 1788714167
+  },
+  {
+    "id": "02906701e6fbb33e6c",
+    "title": "Prancha Esteira Ergometrica Kikos E600ix Preto",
+    "raw_title": "Prancha Esteira Ergometrica Kikos E600ix Preto",
+    "description": "🔥 14% OFF — Oferta encontrada! 📌 Prancha Esteira Ergometrica Kikos E600ix Preto Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Esportes e Lazer",
+    "old_price": "R$ 222,43",
+    "price": "R$ 191,28",
+    "discount_percent": 14.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_947050-MLA111078716610_052026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70114350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "06/09/2026 17:01",
+    "created_at_iso": "2026-09-06T17:01:38",
+    "created_ts": 1788714098
+  },
+  {
     "id": "9d0076ce0f4b9522ca",
     "title": "Ventilador de Mesa Mondial 6 Pás Super Power Preto VSP-30-B - 30cm 22…",
     "raw_title": "Ventilador de Mesa Mondial 6 Pás Super Power Preto VSP-30-B - 30cm 220V",
@@ -2390,44 +2424,6 @@
     "niche": {
       "key": "shopee_roupas_plus_size",
       "name": "Roupas Plus Size"
-    }
-  },
-  {
-    "id": "1c60efe852fad20f0a",
-    "title": "Mini Impressora Niimbot B1 etiqueta Bluetooth Cor Prateado impressora…",
-    "raw_title": "Mini Impressora Niimbot B1 etiqueta Bluetooth Cor Prateado impressora etiquetas adesivas",
-    "description": "🔥 Oferta encontrada! 📌 Mini Impressora Niimbot B1 etiqueta Bluetooth Cor Prateado impressora etiquetas adesivas Confira os detalhes e aproveite enquanto...",
-    "marketplace": "Mercado Livre",
-    "category": "Informática",
-    "old_price": "",
-    "price": "R$ 209,99",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_656520-MLA93232832197_092025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "05/09/2026 17:01",
-    "created_at_iso": "2026-09-05T17:01:40",
-    "created_ts": 1788627700
-  },
-  {
-    "id": "6bf29d12d78326bb10",
-    "title": "Calça Pantalona Alfaiataria Feminina",
-    "raw_title": "Calça Pantalona Alfaiataria Feminina COM ELÁSTICO NA CINTURA TECIDO DE QUALIDADE MELHOR QUE A DUNA",
-    "description": "✨ A pantalona dos seus sonhos com preço imperdível! A Calça Pantalona Alfaiataria Feminina com ELÁSTICO NA CINTURA é a peça ideal para um look elegante...",
-    "marketplace": "Shopee",
-    "category": "Roupas Masculinas",
-    "old_price": "R$ 70,00",
-    "price": "R$ 39,90",
-    "discount_percent": 43.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkf78hh46dxc8c",
-    "affiliate_url": "https://s.shopee.com.br/6q0Tcvf3nR",
-    "created_at": "05/09/2026 16:20",
-    "created_at_iso": "2026-09-05T16:20:21",
-    "created_ts": 1788625221,
-    "niche": {
-      "key": "shopee_roupas_masculinas",
-      "name": "Roupas Masculinas"
     }
   }
 ]

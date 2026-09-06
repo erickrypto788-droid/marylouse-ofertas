@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 06/09/2026 00:22
+Gerado em: 06/09/2026 01:22
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 06/09/2026 00:22
 
 **Produtos usados:**
 
+- Bebê Reborn Girafinha Luxo
 - Kit 5 Regatas Bebê
 - Azul escova limpeza mamadeira kit para limpeza de mamadeira kit limpe…
-- Fraldas Pampers Supersequinha XXG
 
 ---
 
@@ -103,8 +103,8 @@ Gerado em: 06/09/2026 00:22
 **Produtos usados:**
 
 - 10000mAh/5000mAH/3000mAh Carregador portátil indução iPhone MagSafe b…
-- Carregador iPhone Turbo Tipo-C 20W + Cabo Lightining para IPhone Carg…
 - Fone De Ouvido Bluetooth Sem Fio Air Pods Pro 3 Para Android & iOS
+- Xiaomi POCO X6 5G 256GB/12GB Branco
 
 ---
 

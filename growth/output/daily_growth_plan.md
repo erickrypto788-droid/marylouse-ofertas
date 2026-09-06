@@ -1,11 +1,11 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 06/09/2026 17:22
+Gerado em: 06/09/2026 18:03
 
 ## Categorias prioritárias
 
 - 👟 **Calçados**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 💄 **Beleza**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 💄 **Beleza**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🏋️ **Esportes**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 🐶 **Pet**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 👗 **Moda Feminina**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
@@ -66,26 +66,26 @@ Gerado em: 06/09/2026 17:22
    - Desconto: 64% OFF
    - Link: https://s.shopee.com.br/7KwghUCH4d
 
-8. **Panela De Pressão 4,5litros Panelux Linha Classic Alto Brilho A Mais…**
+8. **Barbeador Costas Dobrável**
+   - Categoria: Beleza
+   - Loja: Mercado Livre
+   - Preço: R$ 218,00
+   - Desconto: 41% OFF
+   - Link: https://www.mercadolivre.com.br/p/MLB51434487?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+9. **Panela De Pressão 4,5litros Panelux Linha Classic Alto Brilho A Mais…**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 58,90
    - Desconto: 49% OFF
    - Link: https://s.shopee.com.br/9zxUT4CoX4
 
-9. **Kit Body Splash Dolce + Florata Red 200ml Feminino.**
+10. **Kit Body Splash Dolce + Florata Red 200ml Feminino.**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 42,90
    - Desconto: 57% OFF
    - Link: https://s.shopee.com.br/1VyxfqIPDd
-
-10. **Espremedor Elétrico Laranja Limão Frutas Fazer Sucos Recarregável Usb…**
-   - Categoria: Casa e Cozinha
-   - Loja: Shopee
-   - Preço: R$ 61,99
-   - Desconto: 56% OFF
-   - Link: https://s.shopee.com.br/80CSbxNijZ
 
 ## Ações gratuitas recomendadas
 

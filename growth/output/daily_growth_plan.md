@@ -1,10 +1,11 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 06/09/2026 17:07
+Gerado em: 06/09/2026 17:22
 
 ## Categorias prioritárias
 
 - 👟 **Calçados**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 💄 **Beleza**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🏋️ **Esportes**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 🐶 **Pet**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 👗 **Moda Feminina**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
@@ -13,79 +14,78 @@ Gerado em: 06/09/2026 17:07
 - 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 💻 **Informática**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 🔌 **Eletrodomésticos**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-eletrodomesticos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_eletrodomesticos
-- 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 
 ## Top ofertas para destacar
 
-1. **Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com…**
+1. **Perfume Attracione Feminino**
+   - Categoria: Beleza
+   - Loja: Shopee
+   - Preço: R$ 44,00
+   - Desconto: 75% OFF
+   - Link: https://s.shopee.com.br/gPqgJLZue
+
+2. **Perfume Attracione Men**
+   - Categoria: Beleza
+   - Loja: Shopee
+   - Preço: R$ 57,22
+   - Desconto: 80% OFF
+   - Link: https://s.shopee.com.br/6fh2Z3J9Zj
+
+3. **Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 19,79
    - Desconto: 61% OFF
    - Link: https://s.shopee.com.br/60ROAB6U23
 
-2. **Mochila CHL Bolsa Reforçada Notebook Impermeavel Material Premium Col…**
+4. **Mochila CHL Bolsa Reforçada Notebook Impermeavel Material Premium Col…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 39,99
    - Desconto: 55% OFF
    - Link: https://s.shopee.com.br/3Vk2WMNM8e
 
-3. **Fraldas Calça SUMIKKO Infantil**
+5. **Fraldas Calça SUMIKKO Infantil**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 72,00
    - Desconto: 64% OFF
    - Link: https://s.shopee.com.br/7pt0HnQyUm
 
-4. **Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler…**
+6. **Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler…**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 42,99
    - Desconto: 86% OFF
    - Link: https://s.shopee.com.br/BTYp6i2Jn
 
-5. **Pro 4 Fones De Ouvido TWS Sem Fio Bluetooth De Longa Duração Bateria…**
+7. **Pro 4 Fones De Ouvido TWS Sem Fio Bluetooth De Longa Duração Bateria…**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 10,72
    - Desconto: 64% OFF
    - Link: https://s.shopee.com.br/7KwghUCH4d
 
-6. **Panela De Pressão 4,5litros Panelux Linha Classic Alto Brilho A Mais…**
+8. **Panela De Pressão 4,5litros Panelux Linha Classic Alto Brilho A Mais…**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 58,90
    - Desconto: 49% OFF
    - Link: https://s.shopee.com.br/9zxUT4CoX4
 
-7. **Espremedor Elétrico Laranja Limão Frutas Fazer Sucos Recarregável Usb…**
+9. **Kit Body Splash Dolce + Florata Red 200ml Feminino.**
+   - Categoria: Beleza
+   - Loja: Shopee
+   - Preço: R$ 42,90
+   - Desconto: 57% OFF
+   - Link: https://s.shopee.com.br/1VyxfqIPDd
+
+10. **Espremedor Elétrico Laranja Limão Frutas Fazer Sucos Recarregável Usb…**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 61,99
    - Desconto: 56% OFF
    - Link: https://s.shopee.com.br/80CSbxNijZ
-
-8. **Fone Bluetooth Pro5 Premium | Imersão Total c Cancelamento Ruído Qual…**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 66,88
-   - Desconto: 77% OFF
-   - Link: https://s.shopee.com.br/5VV7ZG8O2s
-
-9. **Cadeira de Escritório Presidente com Massagem**
-   - Categoria: Casa e Cozinha
-   - Loja: Mercado Livre
-   - Preço: R$ 926,00
-   - Desconto: 50% OFF
-   - Link: https://www.mercadolivre.com.br/p/MLB59413555?matt_word=marylouse&matt_tool=50459180&forceInApp=true
-
-10. **Sandália Papete Feminina Ortopédica com Elástico Confortável Moderna…**
-   - Categoria: Pet
-   - Loja: Shopee
-   - Preço: R$ 35,06
-   - Desconto: 61% OFF
-   - Link: https://s.shopee.com.br/AAGvnPDad1
 
 ## Ações gratuitas recomendadas
 

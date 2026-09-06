@@ -1,5 +1,22 @@
 [
   {
+    "id": "7b4fd8e934a327fdb3",
+    "title": "Kit Ferramentas Ingco Esmerilhadeira Martelete 4ah",
+    "raw_title": "Kit Ferramentas Ingco Esmerilhadeira Martelete 4ah",
+    "description": "🔥 15% OFF — Oferta encontrada! 📌 Kit Ferramentas Ingco Esmerilhadeira Martelete 4ah Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Ferramentas",
+    "old_price": "R$ 2.052,00",
+    "price": "R$ 1.736,75",
+    "discount_percent": 15.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_989583-MLA116067690907_082026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77188949?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "06/09/2026 20:01",
+    "created_at_iso": "2026-09-06T20:01:18",
+    "created_ts": 1788724878
+  },
+  {
     "id": "890941901c82fc8f17",
     "title": "Liquidificador Portátil USB",
     "raw_title": "Liquidificador portátil, Mini liquidificador recarregável USB, Liquidificador",
@@ -2501,68 +2518,5 @@
     "created_at": "05/09/2026 20:06",
     "created_at_iso": "2026-09-05T20:06:54",
     "created_ts": 1788638814
-  },
-  {
-    "id": "8ca041e039fe757901",
-    "title": "BABUCHE PLATAFORMA ALTA NUVEM MACIA 100 % DECORADA COM BÓTONS PINGENT…",
-    "raw_title": "BABUCHE PLATAFORMA ALTA NUVEM MACIA 100 % DECORADA COM BÓTONS PINGENTES EM ABS CONFORTÁVEL",
-    "description": "🔥 52% OFF — Oferta encontrada! 📌 BABUCHE PLATAFORMA ALTA NUVEM MACIA 100 % DECORADA COM BÓTONS PINGENTES EM ABS CONFORTÁVEL Confira os detalhes e aprove...",
-    "marketplace": "Shopee",
-    "category": "Sapatos Femininos",
-    "old_price": "R$ 79,98",
-    "price": "R$ 38,39",
-    "discount_percent": 52.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81zu9-mkpc3fgyf0u9e5",
-    "affiliate_url": "https://s.shopee.com.br/6VNdQfN9Gm",
-    "created_at": "05/09/2026 19:17",
-    "created_at_iso": "2026-09-05T19:17:47",
-    "created_ts": 1788635867,
-    "niche": {
-      "key": "shopee_sapatos_femininos",
-      "name": "Sapatos Femininos"
-    }
-  },
-  {
-    "id": "6c6c975e9e44735ed3",
-    "title": "Tênis SNEEKS Feminino para Uso Diário Prático e Estiloso Super Promoç…",
-    "raw_title": "Tênis SNEEKS Feminino para Uso Diário Prático e Estiloso Super Promoção",
-    "description": "🔥 60% OFF — Oferta encontrada! 📌 Tênis SNEEKS Feminino para Uso Diário Prático e Estiloso Super Promoção Confira os detalhes e aproveite enquanto a ofer...",
-    "marketplace": "Shopee",
-    "category": "Sapatos Femininos",
-    "old_price": "R$ 99,97",
-    "price": "R$ 39,99",
-    "discount_percent": 60.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk3wepd0ly4g52",
-    "affiliate_url": "https://s.shopee.com.br/4LJ53p0C4b",
-    "created_at": "05/09/2026 19:16",
-    "created_at_iso": "2026-09-05T19:16:43",
-    "created_ts": 1788635803,
-    "niche": {
-      "key": "shopee_sapatos_femininos",
-      "name": "Sapatos Femininos"
-    }
-  },
-  {
-    "id": "fb22f3ff9e44670147",
-    "title": "Bota Feminina GiGiL Cano Longo Enrugado Slouch Bico Fino Salto Bloco…",
-    "raw_title": "Bota Feminina GiGiL Cano Longo Enrugado Slouch Bico Fino Salto Bloco Médio Elegante Clássica Casual",
-    "description": "🔥 60% OFF — Oferta encontrada! 📌 Bota Feminina GiGiL Cano Longo Enrugado Slouch Bico Fino Salto Bloco Médio Elegante Clássica Casual Confira os detalhes...",
-    "marketplace": "Shopee",
-    "category": "Sapatos Femininos",
-    "old_price": "R$ 298,88",
-    "price": "R$ 119,55",
-    "discount_percent": 60.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8luys2i8oep28",
-    "affiliate_url": "https://s.shopee.com.br/7Kwj9ueSgA",
-    "created_at": "05/09/2026 19:15",
-    "created_at_iso": "2026-09-05T19:15:38",
-    "created_ts": 1788635738,
-    "niche": {
-      "key": "shopee_sapatos_femininos",
-      "name": "Sapatos Femininos"
-    }
   }
 ]

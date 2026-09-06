@@ -1,18 +1,18 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 06/09/2026 11:23
+Gerado em: 06/09/2026 12:19
 
 ## Categorias prioritárias
 
 - 🐶 **Pet**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 👗 **Moda Feminina**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 👕 **Moda Masculina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
-- 📦 **Outros**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
-- 💻 **Informática**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 🍼 **Mãe e Bebê**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 📦 **Outros**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 📚 **Papelaria**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
-- 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 💻 **Informática**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- ✨ **Moda Plus Size**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
+- 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 🏋️ **Esportes**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 
 ## Top ofertas para destacar
@@ -66,26 +66,26 @@ Gerado em: 06/09/2026 11:23
    - Desconto: 33% OFF
    - Link: https://s.shopee.com.br/1A85pcnCN
 
-8. **Notebook Gamer 15,6 Polegadas Intel N5095 (2025) - 16GB RAM + 512GB S…**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 2.698,00
-   - Desconto: 46% OFF
-   - Link: https://s.shopee.com.br/7fZaLy64iQ
-
-9. **Spray de Óleo para Cozinha**
+8. **Spray de Óleo para Cozinha**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 16,79
    - Desconto: 57% OFF
    - Link: https://s.shopee.com.br/8AVr1125kj
 
-10. **Leitor de Cartão USB 3.0**
+9. **Leitor de Cartão USB 3.0**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 17,99
    - Desconto: 74% OFF
    - Link: https://s.shopee.com.br/5foXEaSbj3
+
+10. **Webcam Full HD com Microfone**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 28,00
+   - Desconto: 59% OFF
+   - Link: https://s.shopee.com.br/4fw02kasmo
 
 ## Ações gratuitas recomendadas
 

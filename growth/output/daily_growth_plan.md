@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 06/09/2026 14:19
+Gerado em: 06/09/2026 15:06
 
 ## Categorias prioritárias
 
 - 👟 **Calçados**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 👗 **Moda Feminina**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
-- 🐶 **Pet**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 🍼 **Mãe e Bebê**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 👕 **Moda Masculina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
+- 🐶 **Pet**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 💻 **Informática**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 🏋️ **Esportes**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - ✨ **Moda Plus Size**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
+- 🍳 **Casa e Cozinha**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 🧸 **Brinquedos**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
-- 📦 **Outros**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 
 ## Top ofertas para destacar
 
@@ -52,40 +52,40 @@ Gerado em: 06/09/2026 14:19
    - Desconto: 49% OFF
    - Link: https://s.shopee.com.br/9zxUT4CoX4
 
-6. **Alimento Royal Canin Hair & Skin 3kg Ração Gato**
-   - Categoria: Pet
+6. **Cadeira de Escritório Presidente com Massagem**
+   - Categoria: Casa e Cozinha
    - Loja: Mercado Livre
-   - Preço: R$ 257,00
-   - Desconto: 36% OFF
-   - Link: https://www.mercadolivre.com.br/p/MLB28523781?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+   - Preço: R$ 926,00
+   - Desconto: 50% OFF
+   - Link: https://www.mercadolivre.com.br/p/MLB59413555?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-7. **Controlador Sem Fio Com Vibração Bluetooth One Game Ones XBOX Control…**
-   - Categoria: Pet
-   - Loja: Shopee
-   - Preço: R$ 249,80
-   - Desconto: 33% OFF
-   - Link: https://s.shopee.com.br/1A85pcnCN
-
-8. **Sandália Papete Feminina Ortopédica com Elástico Confortável Moderna…**
+7. **Sandália Papete Feminina Ortopédica com Elástico Confortável Moderna…**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 35,06
    - Desconto: 61% OFF
    - Link: https://s.shopee.com.br/AAGvnPDad1
 
-9. **Spray de Óleo para Cozinha**
+8. **Spray de Óleo para Cozinha**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 16,79
    - Desconto: 57% OFF
    - Link: https://s.shopee.com.br/8AVr1125kj
 
-10. **Leitor de Cartão USB 3.0**
+9. **Leitor de Cartão USB 3.0**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 17,99
    - Desconto: 74% OFF
    - Link: https://s.shopee.com.br/5foXEaSbj3
+
+10. **Webcam Full HD com Microfone**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 28,00
+   - Desconto: 59% OFF
+   - Link: https://s.shopee.com.br/4fw02kasmo
 
 ## Ações gratuitas recomendadas
 

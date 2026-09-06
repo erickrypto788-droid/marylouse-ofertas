@@ -1,5 +1,22 @@
 [
   {
+    "id": "fe4426932dbf731020",
+    "title": "Smartphone Xiaomi 15t 5g 12+12gb Ram + 512gb, Cinza",
+    "raw_title": "Smartphone Xiaomi 15t 5g 12+12gb Ram + 512gb, Cinza",
+    "description": "🔥 19% OFF — Oferta encontrada! 📌 Smartphone Xiaomi 15t 5g 12+12gb Ram + 512gb, Cinza Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "R$ 5.289,00",
+    "price": "R$ 4.299,90",
+    "discount_percent": 19.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_913469-MLA93865329554_102025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59103594?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "06/09/2026 06:01",
+    "created_at_iso": "2026-09-06T06:01:18",
+    "created_ts": 1788674478
+  },
+  {
     "id": "773cd22c23a8492ff5",
     "title": "Mochila para Escola Reforçada com Entrada USB Impermeável",
     "raw_title": "Mochila para Escola Reforçada com Entrada USB Impermeável",
@@ -2325,48 +2342,6 @@
     "niche": {
       "key": "shopee_brinquedos_hobbies",
       "name": "Brinquedos e Hobbies"
-    }
-  },
-  {
-    "id": "0b7f8472f35089bc9e",
-    "title": "Kit Suplementos Espartanos",
-    "raw_title": "Kit Whey Protein Fusion + Bcaa + Creatina + Shaker - Espartanos",
-    "description": "🚀 Kit Completo para Seus Treinos! 💪 Potencialize seus resultados com o Kit Whey Protein Fusion + Bcaa + Creatina + Shaker - Espartanos. Tudo que você pr...",
-    "marketplace": "Shopee",
-    "category": "Esportes e Lazer",
-    "old_price": "R$ 99,99",
-    "price": "R$ 79,99",
-    "discount_percent": 20.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m8-msflhqky5jicbf",
-    "affiliate_url": "https://s.shopee.com.br/2BEdL1weXv",
-    "created_at": "05/09/2026 05:20",
-    "created_at_iso": "2026-09-05T05:20:15",
-    "created_ts": 1788585615,
-    "niche": {
-      "key": "shopee_esportes_lazer",
-      "name": "Esportes e Lazer"
-    }
-  },
-  {
-    "id": "c8b6dee9340c3dfb39",
-    "title": "Bola De Futebol Elétrica Flutuante Para Crianças Jogos Esportivos Ind…",
-    "raw_title": "Bola De Futebol Elétrica Flutuante Para Crianças Jogos Esportivos Indoor LED Kid Brinquedo Menino",
-    "description": "🔥 46% OFF — Oferta encontrada! 📌 Bola De Futebol Elétrica Flutuante Para Crianças Jogos Esportivos Indoor LED Kid Brinquedo Menino Confira os detalhes e...",
-    "marketplace": "Shopee",
-    "category": "Esportes e Lazer",
-    "old_price": "R$ 55,54",
-    "price": "R$ 29,99",
-    "discount_percent": 46.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-8259e-mftz0trven7z53",
-    "affiliate_url": "https://s.shopee.com.br/9pe4T7P4C5",
-    "created_at": "05/09/2026 05:19",
-    "created_at_iso": "2026-09-05T05:19:07",
-    "created_ts": 1788585547,
-    "niche": {
-      "key": "shopee_esportes_lazer",
-      "name": "Esportes e Lazer"
     }
   }
 ]

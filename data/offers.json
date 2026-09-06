@@ -1,5 +1,22 @@
 [
   {
+    "id": "0a5d9209ca6a7aac4c",
+    "title": "Comedouro Automático 8L para Cães e Gatos",
+    "raw_title": "Comedouro Dispenser De Ração Automático 8l Para Cães Gatos Cor Comedouro Automatico Vermelho",
+    "description": "Chega de preocupação com a alimentação do seu pet! 🐾 Garanta o Comedouro Dispenser Automático de 8L para Cães e Gatos e mantenha seu amigo sempre bem al...",
+    "marketplace": "Mercado Livre",
+    "category": "Pet",
+    "old_price": "R$ 59,99",
+    "price": "R$ 43,25",
+    "discount_percent": 28.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_878296-MLA114080133726_072026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB76168566?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "06/09/2026 09:01",
+    "created_at_iso": "2026-09-06T09:01:24",
+    "created_ts": 1788685284
+  },
+  {
     "id": "0ba312174775a7d87b",
     "title": "Chocolate Stikadinho Morango 32un",
     "raw_title": "Chocolate Stikadinho Morango Neugebauer Chocolates 12g- 32un",
@@ -2339,27 +2356,6 @@
     "niche": {
       "key": "shopee_bolsas_femininas",
       "name": "Bolsas Femininas"
-    }
-  },
-  {
-    "id": "a262973fdb55bc1c7d",
-    "title": "Berço Co-Bed Balanço Portátil",
-    "raw_title": "Berço Co-Bed Balanço Portátil Moises Mosqueteiro Infantil Trava de Segurança Regulável",
-    "description": "Conforto e segurança para seu bebê, e praticidade para você! 💖 O Berço Co-Bed Balanço Portátil é perfeito para noites tranquilas ao lado do seu pequeno....",
-    "marketplace": "Shopee",
-    "category": "Mãe e Bebê",
-    "old_price": "R$ 548,66",
-    "price": "R$ 449,90",
-    "discount_percent": 18.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ln-msobo14q2ubqbf",
-    "affiliate_url": "https://s.shopee.com.br/9AOLLgE059",
-    "created_at": "05/09/2026 08:21",
-    "created_at_iso": "2026-09-05T08:21:18",
-    "created_ts": 1788596478,
-    "niche": {
-      "key": "shopee_mae_bebe",
-      "name": "Mãe e Bebê"
     }
   }
 ]

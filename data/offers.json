@@ -1,5 +1,22 @@
 [
   {
+    "id": "e2d360d27d1ee0b11e",
+    "title": "Cadeira Gamer Ergonômica Vermelha",
+    "raw_title": "Cadeira Gamer Profissional Ergonômica Giratória Vermelha para Escritório",
+    "description": "🔥 CONFORTO e PERFORMANCE para suas horas de jogo e trabalho! 🚀 Cadeira Gamer Profissional Ergonômica Giratória Vermelha para Escritório. Perfeita para l...",
+    "marketplace": "Mercado Livre",
+    "category": "Casa e Decoração",
+    "old_price": "",
+    "price": "R$ 900,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_799416-MLU71044700870_082023-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB26008929?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "07/09/2026 05:01",
+    "created_at_iso": "2026-09-07T05:01:40",
+    "created_ts": 1788757300
+  },
+  {
     "id": "0e39cac67b0e3d8247",
     "title": "Escorredor De Arroz Inox Legumes Frutas Multiuso Cozinha Alça Coador…",
     "raw_title": "Escorredor De Arroz Inox Legumes Frutas Multiuso Cozinha Alça Coador Peneira Drenagem Inoxidável",
@@ -2556,22 +2573,5 @@
       "key": "shopee_bolsas_masculinas",
       "name": "Bolsas Masculinas"
     }
-  },
-  {
-    "id": "444347dbdcb05b78b7",
-    "title": "TV Box RBI Smart TV Box 4K PROSB-2000 Preto 5ª Geração Wi-Fi HDMI",
-    "raw_title": "TV Box RBI Smart TV Box 4K PROSB-2000 Preto 5ª Geração Wi-Fi HDMI",
-    "description": "🔥 Oferta encontrada! 📌 TV Box RBI Smart TV Box 4K PROSB-2000 Preto 5ª Geração Wi-Fi HDMI Confira os detalhes e aproveite enquanto a oferta estiver dispo...",
-    "marketplace": "Mercado Livre",
-    "category": "Pet",
-    "old_price": "",
-    "price": "R$ 176,90",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_683378-MLA99463515480_112025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59821316?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "06/09/2026 05:01",
-    "created_at_iso": "2026-09-06T05:01:19",
-    "created_ts": 1788670879
   }
 ]

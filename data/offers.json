@@ -1,5 +1,22 @@
 [
   {
+    "id": "51102dc0b2a697c896",
+    "title": "Lâmina Philips Bodygroom",
+    "raw_title": "Lamina Aparador Pelos Philips Bodygroom Qg3379 Qg3280 Qg3380",
+    "description": "✨ OFERTA IMPERDÍVEL! ✨ Lâmina Aparador Pelos Philips Bodygroom para um visual sempre impecável! Compatível com Qg3379, Qg3280, Qg3380. 📦 Frete grátis!",
+    "marketplace": "Mercado Livre",
+    "category": "Beleza",
+    "old_price": "R$ 149,90",
+    "price": "R$ 129,90",
+    "discount_percent": 13.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_782959-MLA99825071093_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24908965?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "07/09/2026 11:02",
+    "created_at_iso": "2026-09-07T11:02:58",
+    "created_ts": 1788778978
+  },
+  {
     "id": "fbbdc367d18a09bb23",
     "title": "Tênis Vizzano Flatform",
     "raw_title": "Tênis Vizzano Feminino Casual Plataforma Macia Confortável Dia Moda Passeio Leve Conforto Flatform",
@@ -2572,90 +2589,6 @@
     "niche": {
       "key": "shopee_roupas_masculinas",
       "name": "Roupas Masculinas"
-    }
-  },
-  {
-    "id": "17b3d7ae173b6964b3",
-    "title": "Kit 24 Meias 100% Algodão Unissex",
-    "raw_title": "Vários modelos com Kit de 24 meia cano alto 100% algodão soquete Cano Curto Masculina Feminina Unissex direto da fabrica",
-    "description": "🔥 SENSACIONAL! Kit com 24 Pares de Meias 100% Algodão! Conforto e qualidade garantidos! 🧦 Kit com 24 pares de meias 100% algodão, diversos modelos (cano...",
-    "marketplace": "Shopee",
-    "category": "Roupas Femininas",
-    "old_price": "R$ 54,55",
-    "price": "R$ 30,55",
-    "discount_percent": 44.0,
-    "rating": 4.7,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcbj0hdid3ajec",
-    "affiliate_url": "https://s.shopee.com.br/2VrUOqbN2M",
-    "created_at": "06/09/2026 10:20",
-    "created_at_iso": "2026-09-06T10:20:32",
-    "created_ts": 1788690032,
-    "niche": {
-      "key": "shopee_roupas_femininas",
-      "name": "Roupas Femininas"
-    }
-  },
-  {
-    "id": "cf6a0482d5ceadc27e",
-    "title": "Blusa Antonella Top Halter",
-    "raw_title": "Blusa Antonella Top Halter Moda Gringa Verão Frente Única Alta Compressão e Sustentação",
-    "description": "🔥 OFERTA QUENTE! Blusa Antonella com 52% OFF! ✨ Perfeita para o verão, essa blusa Top Halter traz a moda gringa para você. Com design frente única, ofer...",
-    "marketplace": "Shopee",
-    "category": "Roupas Femininas",
-    "old_price": "R$ 60,31",
-    "price": "R$ 28,95",
-    "discount_percent": 52.0,
-    "rating": 4.7,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjyeiztxs35uf6",
-    "affiliate_url": "https://s.shopee.com.br/gPqDTHx49",
-    "created_at": "06/09/2026 10:19",
-    "created_at_iso": "2026-09-06T10:19:21",
-    "created_ts": 1788689961,
-    "niche": {
-      "key": "shopee_roupas_femininas",
-      "name": "Roupas Femininas"
-    }
-  },
-  {
-    "id": "ae379e1fd7a6ba1532",
-    "title": "Vestido Longo Casual Canelado Feminino",
-    "raw_title": "Vestido longo casual basico feminino ribana canelada manga muscle moda gringa preto marrom plus size",
-    "description": "🔥 IMPERDÍVEL! Vestido longo que é puro estilo e conforto! ✨ Perfeito para qualquer ocasião, do casual ao arrumadinho. Com caimento impecável em ribana c...",
-    "marketplace": "Shopee",
-    "category": "Roupas Femininas",
-    "old_price": "R$ 90,45",
-    "price": "R$ 37,99",
-    "discount_percent": 58.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mke9y8fknmyr42",
-    "affiliate_url": "https://s.shopee.com.br/4LJ8aDUOJv",
-    "created_at": "06/09/2026 10:18",
-    "created_at_iso": "2026-09-06T10:18:13",
-    "created_ts": 1788689893,
-    "niche": {
-      "key": "shopee_roupas_femininas",
-      "name": "Roupas Femininas"
-    }
-  },
-  {
-    "id": "df8b22266fda7f3063",
-    "title": "Shorts Cinta Modelador Levanta Bumbum",
-    "raw_title": "Shorts Cinta Modelador Levanta Empina Bumbum Feminina Alta Compressão Shortinho",
-    "description": "🍑 Bumbum PERFEITO com conforto e estilo! Chegou o Shorts Cinta Modelador que levanta e empina, com alta compressão para você se sentir incrível. ✨ Mais...",
-    "marketplace": "Shopee",
-    "category": "Roupas Femininas",
-    "old_price": "R$ 60,44",
-    "price": "R$ 25,99",
-    "discount_percent": 57.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-ltdnldgr2fco96",
-    "affiliate_url": "https://s.shopee.com.br/4qFQRQ7jAK",
-    "created_at": "06/09/2026 10:17",
-    "created_at_iso": "2026-09-06T10:17:05",
-    "created_ts": 1788689825,
-    "niche": {
-      "key": "shopee_roupas_femininas",
-      "name": "Roupas Femininas"
     }
   }
 ]

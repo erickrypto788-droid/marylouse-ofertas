@@ -1,5 +1,22 @@
 [
   {
+    "id": "67be3426bce05ce7ed",
+    "title": "Ração Estimacat Premium Adulto Carne 15kg",
+    "raw_title": "Ração Gato Estimacat Premium Adulto Sabor Carne 15kg",
+    "description": "Seu gato merece o melhor! 😻 Ração Gato Estimacat Premium Adulto Sabor Carne 15kg Com 25% OFF!",
+    "marketplace": "Mercado Livre",
+    "category": "Pet",
+    "old_price": "R$ 356,33",
+    "price": "R$ 267,24",
+    "discount_percent": 25.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_978315-MLA108642652989_032026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66541712?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "07/09/2026 02:02",
+    "created_at_iso": "2026-09-07T02:02:27",
+    "created_ts": 1788746547
+  },
+  {
     "id": "b8f71154f4c1012b7f",
     "title": "Sapato Social Masculino Confortável Elegante com Carteira Cinto e Rel…",
     "raw_title": "Sapato Social Masculino Confortável Elegante com Carteira Cinto e Relógio DIRETO DA FÁBRICA",
@@ -2444,48 +2461,6 @@
     "niche": {
       "key": "shopee_saude",
       "name": "Saúde"
-    }
-  },
-  {
-    "id": "b59b6b74ad3ea37f05",
-    "title": "Jogo Stop Alfabeto Eletrônico com Temporizador para 2 a 8 Jogadores –…",
-    "raw_title": "Jogo Stop Alfabeto Eletrônico com Temporizador para 2 a 8 Jogadores – Versão em Espanhol",
-    "description": "🔥 61% OFF — Oferta encontrada! 📌 Jogo Stop Alfabeto Eletrônico com Temporizador para 2 a 8 Jogadores – Versão em Espanhol Confira os detalhes e aproveit...",
-    "marketplace": "Shopee",
-    "category": "Brinquedos e Hobbies",
-    "old_price": "R$ 99,74",
-    "price": "R$ 38,90",
-    "discount_percent": 61.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m0-mspvxi18clj86b",
-    "affiliate_url": "https://s.shopee.com.br/6q0UE0eizI",
-    "created_at": "06/09/2026 01:21",
-    "created_at_iso": "2026-09-06T01:21:05",
-    "created_ts": 1788657665,
-    "niche": {
-      "key": "shopee_brinquedos_hobbies",
-      "name": "Brinquedos e Hobbies"
-    }
-  },
-  {
-    "id": "5dfaee0adf0a55a460",
-    "title": "MEDOOSI Jogo de Desafio de Corda e Nós | Quebra-Cabeça Lógico, Brinqu…",
-    "raw_title": "MEDOOSI Jogo de Desafio de Corda e Nós | Quebra-Cabeça Lógico, Brinquedo Desatar Educativo para Crianças / Infantil",
-    "description": "🔥 70% OFF — Oferta encontrada! 📌 MEDOOSI Jogo de Desafio de Corda e Nós | Quebra-Cabeça Lógico, Brinquedo Desatar Educativo para Crianças / Infantil Con...",
-    "marketplace": "Shopee",
-    "category": "Brinquedos e Hobbies",
-    "old_price": "R$ 99,67",
-    "price": "R$ 29,90",
-    "discount_percent": 70.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820le-moi05u6t3y0zdb",
-    "affiliate_url": "https://s.shopee.com.br/6L4Dd5gd0B",
-    "created_at": "06/09/2026 01:20",
-    "created_at_iso": "2026-09-06T01:20:01",
-    "created_ts": 1788657601,
-    "niche": {
-      "key": "shopee_brinquedos_hobbies",
-      "name": "Brinquedos e Hobbies"
     }
   }
 ]

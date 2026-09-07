@@ -1,5 +1,22 @@
 [
   {
+    "id": "0ccab0b50e7efb24af",
+    "title": "Combo DEWALT DCK276D2",
+    "raw_title": "Combo Parafusadeira Furadeira de Impacto 13mm + Parafusadeira de Impacto 6,3mm DEWALT DCK276D2",
+    "description": "🛠️ OPORTUNIDADE ÚNICA! Leve a potência DEWALT para sua caixa de ferramentas! Este combo completo traz a Parafusadeira Furadeira de Impacto 13mm e a Para...",
+    "marketplace": "Mercado Livre",
+    "category": "Ferramentas",
+    "old_price": "R$ 1.988,99",
+    "price": "R$ 1.476,00",
+    "discount_percent": 26.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_941219-MLU77146464530_062024-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21865416?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "07/09/2026 13:01",
+    "created_at_iso": "2026-09-07T13:01:25",
+    "created_ts": 1788786085
+  },
+  {
     "id": "ea60cf07ba25b0b341",
     "title": "Ventilador de Teto com Luz e Controle Remoto",
     "raw_title": "Ventilador de Teto com Luz para Pequenos Espaços Controle Remoto Instalação Fácil Silencioso Bivolt",
@@ -2549,26 +2566,5 @@
     "created_at": "06/09/2026 13:04",
     "created_at_iso": "2026-09-06T13:04:17",
     "created_ts": 1788699857
-  },
-  {
-    "id": "6e085f8d7b87b65027",
-    "title": "Camisa Feminina Lisa Crepinho Elegante Plus Size",
-    "raw_title": "Camisa Feminina Lisa Crepinho Elegante Plus Size M G GG G1",
-    "description": "Luxo e conforto com 51% OFF! ✨ A Camisa Feminina Lisa Crepinho Elegante Plus Size que você procurava para um look impecável! Perfeita para qualquer ocas...",
-    "marketplace": "Shopee",
-    "category": "Roupas Plus Size",
-    "old_price": "R$ 89,98",
-    "price": "R$ 44,09",
-    "discount_percent": 51.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk6u6havdeyq85",
-    "affiliate_url": "https://s.shopee.com.br/1LfYPDhxeM",
-    "created_at": "06/09/2026 12:17",
-    "created_at_iso": "2026-09-06T12:17:58",
-    "created_ts": 1788697078,
-    "niche": {
-      "key": "shopee_roupas_plus_size",
-      "name": "Roupas Plus Size"
-    }
   }
 ]

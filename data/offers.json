@@ -1,5 +1,22 @@
 [
   {
+    "id": "befe53bd8991b8c3ba",
+    "title": "Impressora de Etiquetas Niimbot D11",
+    "raw_title": "Impressora Etiquetas Portátil Niimbot D11 + 1 Rolo Azul",
+    "description": "✨ Sua vida mais organizada com um clique! A Impressora de Etiquetas Portátil Niimbot D11 + 1 Rolo Azul é a solução perfeita para etiquetar e organizar t...",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "R$ 299,80",
+    "price": "R$ 169,36",
+    "discount_percent": 44.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_912356-MLA116986084137_082026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB78736073?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "07/09/2026 21:01",
+    "created_at_iso": "2026-09-07T21:01:52",
+    "created_ts": 1788814912
+  },
+  {
     "id": "0d30dae23a265cb2bf",
     "title": "Mochila de Ombro Transversal Compacta Unilateral USB Trava de Código…",
     "raw_title": "Mochila de Ombro Transversal Compacta Unilateral USB Trava de Código Resistente água",
@@ -2507,86 +2524,6 @@
     "niche": {
       "key": "shopee_brinquedos_hobbies",
       "name": "Brinquedos e Hobbies"
-    }
-  },
-  {
-    "id": "61ce4c78c98155d319",
-    "title": "Roteador Wifi AC 1200",
-    "raw_title": "Roteador Wifi Ac 1200 2 Flex",
-    "description": "⚡️ Dê um UP na sua internet! Chega de lentidão! 🚀 Com o Roteador Wifi AC 1200 2 Flex, sua conexão será rápida e estável em todos os cantos da casa. 🚚 Fr...",
-    "marketplace": "Mercado Livre",
-    "category": "Informática",
-    "old_price": "R$ 198,15",
-    "price": "R$ 171,00",
-    "discount_percent": 14.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_697321-MLA99502086258_112025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47353377?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "06/09/2026 21:01",
-    "created_at_iso": "2026-09-06T21:01:35",
-    "created_ts": 1788728495
-  },
-  {
-    "id": "98b35e63a715d7bee1",
-    "title": "Kit de Halteres E Anilhas de 15kg com Kettlebell 6 em 1 Barras de Mus…",
-    "raw_title": "Kit de Halteres E Anilhas de 15kg com Kettlebell 6 em 1 Barras de Musculação Academia Treino Fitness Peso Shape Puxador",
-    "description": "🔥 64% OFF — Oferta encontrada! 📌 Kit de Halteres E Anilhas de 15kg com Kettlebell 6 em 1 Barras de Musculação Academia Treino Fitness Peso Shape Puxador...",
-    "marketplace": "Shopee",
-    "category": "Esportes e Lazer",
-    "old_price": "R$ 499,72",
-    "price": "R$ 179,90",
-    "discount_percent": 64.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820la-mrly8pyno64n2b",
-    "affiliate_url": "https://s.shopee.com.br/4VcadsZjvu",
-    "created_at": "06/09/2026 20:19",
-    "created_at_iso": "2026-09-06T20:19:56",
-    "created_ts": 1788725996,
-    "niche": {
-      "key": "shopee_esportes_lazer",
-      "name": "Esportes e Lazer"
-    }
-  },
-  {
-    "id": "9e8913b3ddd0fdef7d",
-    "title": "Regata Feminina Blusa Alça fina Poliamida Premium Fitness Casual com…",
-    "raw_title": "Regata Feminina Blusa Alça fina Poliamida Premium Fitness Casual com Bojo Removível",
-    "description": "🔥 50% OFF — Oferta encontrada! 📌 Regata Feminina Blusa Alça fina Poliamida Premium Fitness Casual com Bojo Removível Confira os detalhes e aproveite enq...",
-    "marketplace": "Shopee",
-    "category": "Esportes e Lazer",
-    "old_price": "R$ 99,90",
-    "price": "R$ 49,95",
-    "discount_percent": 50.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjughleg1zwic3",
-    "affiliate_url": "https://s.shopee.com.br/9V1FzzuZHm",
-    "created_at": "06/09/2026 20:18",
-    "created_at_iso": "2026-09-06T20:18:52",
-    "created_ts": 1788725932,
-    "niche": {
-      "key": "shopee_esportes_lazer",
-      "name": "Esportes e Lazer"
-    }
-  },
-  {
-    "id": "34db86e2508948bb66",
-    "title": "WATERSY Garrafa térmica em aço inoxidável 304 500ml Academia Garrafa…",
-    "raw_title": "WATERSY Garrafa térmica em aço inoxidável 304 500ml Academia Garrafa térmica Copo de água Aço Inox Garrafa Portátil",
-    "description": "🔥 60% OFF — Oferta encontrada! 📌 WATERSY Garrafa térmica em aço inoxidável 304 500ml Academia Garrafa térmica Copo de água Aço Inox Garrafa Portátil Con...",
-    "marketplace": "Shopee",
-    "category": "Esportes e Lazer",
-    "old_price": "R$ 74,97",
-    "price": "R$ 29,99",
-    "discount_percent": 60.0,
-    "rating": 5.0,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m8-mpairfhk17gm5e",
-    "affiliate_url": "https://s.shopee.com.br/6Akocwkib4",
-    "created_at": "06/09/2026 20:17",
-    "created_at_iso": "2026-09-06T20:17:48",
-    "created_ts": 1788725868,
-    "niche": {
-      "key": "shopee_esportes_lazer",
-      "name": "Esportes e Lazer"
     }
   }
 ]

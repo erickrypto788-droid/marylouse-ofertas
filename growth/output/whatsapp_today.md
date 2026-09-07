@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 07/09/2026 06:09
+Gerado em: 07/09/2026 06:21
 
 ## Como usar
 
@@ -147,14 +147,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Conjunto Infantil Menina Shorts Couro Cirre e Blusa Feminina Regata i…
+Conjunto Feminino cropped e short Verão Linho Duna Premium
 
-💸 De: R$ 105,28
-🔥 Por: R$ 37,90
-🏷️ 64% OFF
+💸 De: R$ 100,00
+🔥 Por: R$ 39,00
+🏷️ 61% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/6L4El8dIxT
+Ver oferta: https://s.shopee.com.br/6L4FYaEurr
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

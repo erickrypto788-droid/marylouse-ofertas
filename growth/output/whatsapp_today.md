@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 07/09/2026 03:04
+Gerado em: 07/09/2026 03:21
 
 ## Como usar
 
@@ -12,37 +12,7 @@ Gerado em: 07/09/2026 03:04
 
 ---
 
-## Post 1 — Mamãe e Bebê
-
-**Canal recomendado:** Mamãe e Bebê
-
-**Horário sugerido:** 09:00 - 11:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
-
-**Texto pronto:**
-
-```txt
-🍼 Oferta para Mamãe e Bebê
-
-Fraldas Calça SUMIKKO Infantil
-
-💸 De: R$ 200,00
-🔥 Por: R$ 72,00
-🏷️ 64% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/7pt0HnQyUm
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 2 — Celulares e Tecnologia
+## Post 1 — Celulares e Tecnologia
 
 **Canal recomendado:** Celulares e Tecnologia
 
@@ -72,7 +42,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 3 — Beleza e Cuidados
+## Post 2 — Beleza e Cuidados
 
 **Canal recomendado:** Beleza e Cuidados
 
@@ -102,7 +72,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Ofertas Pet
+## Post 3 — Ofertas Pet
 
 **Canal recomendado:** Ofertas Pet
 
@@ -125,6 +95,36 @@ Sandália Papete Feminina Ortopédica com Elástico Confortável Moderna…
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/AAGvnPDad1
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 4 — Mamãe e Bebê
+
+**Canal recomendado:** Mamãe e Bebê
+
+**Horário sugerido:** 09:00 - 11:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
+
+**Texto pronto:**
+
+```txt
+🍼 Oferta para Mamãe e Bebê
+
+Toalha de Banho Fralda Soft com Capuz para Bebê OU Kit com 2, 3 ou…
+
+💸 De: R$ 60,36
+🔥 Por: R$ 31,99
+🏷️ 47% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/7AdJUZTVqa
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 07/09/2026 03:04
+Gerado em: 07/09/2026 03:21
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 07/09/2026 03:04
 
 **Produtos usados:**
 
-- Fraldas Calça SUMIKKO Infantil
 - Toalha de Banho Fralda Soft com Capuz para Bebê OU Kit com 2, 3 ou…
 - Berço Portátil Moises Co-bed Com Balanço Mosquiteiro e Cesto Regulage…
+- NINHO REDUTOR DE BERÇO | COM ZIPER E LAÇO | TROCADOR PORTÁTIL |…
 
 ---
 
@@ -103,8 +103,8 @@ Gerado em: 07/09/2026 03:04
 **Produtos usados:**
 
 - Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com…
+- Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mous…
 - Fone Bluetooth Pro5 Premium | Imersão Total c Cancelamento Ruído Qual…
-- Leitor de Cartão USB 3.0
 
 ---
 

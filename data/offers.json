@@ -1,5 +1,47 @@
 [
   {
+    "id": "ea60cf07ba25b0b341",
+    "title": "Ventilador de Teto com Luz e Controle Remoto",
+    "raw_title": "Ventilador de Teto com Luz para Pequenos Espaços Controle Remoto Instalação Fácil Silencioso Bivolt",
+    "description": "✨ Transforme seu ambiente com este Ventilador de Teto! Com luz integrada, controle remoto e instalação super fácil. Perfeito para pequenos espaços, é si...",
+    "marketplace": "Shopee",
+    "category": "Eletrodomésticos",
+    "old_price": "R$ 116,19",
+    "price": "R$ 55,77",
+    "discount_percent": 52.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7rdx9-mc00laq3j4sp99",
+    "affiliate_url": "https://s.shopee.com.br/7AdLcQVMWf",
+    "created_at": "07/09/2026 12:17",
+    "created_at_iso": "2026-09-07T12:17:02",
+    "created_ts": 1788783422,
+    "niche": {
+      "key": "shopee_eletrodomesticos",
+      "name": "Eletrodomésticos"
+    }
+  },
+  {
+    "id": "d3d6aeea9b5a0bb3a5",
+    "title": "Liquidificador Mondial L‑99 Turbo 550 W 3 Velocidades",
+    "raw_title": "Liquidificador Mondial L‑99 Turbo 550 W 3 Velocidades",
+    "description": "🔥 36% OFF — Oferta encontrada! 📌 Liquidificador Mondial L‑99 Turbo 550 W 3 Velocidades Confira os detalhes e aproveite enquanto a oferta estiver disponí...",
+    "marketplace": "Shopee",
+    "category": "Eletrodomésticos",
+    "old_price": "R$ 171,84",
+    "price": "R$ 109,98",
+    "discount_percent": 36.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc83lzgst4gw71",
+    "affiliate_url": "https://s.shopee.com.br/7KwlojQG5N",
+    "created_at": "07/09/2026 12:15",
+    "created_at_iso": "2026-09-07T12:15:53",
+    "created_ts": 1788783353,
+    "niche": {
+      "key": "shopee_eletrodomesticos",
+      "name": "Eletrodomésticos"
+    }
+  },
+  {
     "id": "ac6173c92e2456e059",
     "title": "Fritadeira Air Fryer Mondial Oven Digital 127v",
     "raw_title": "Fritadeira Air Fryer Mondial Oven Digital 127v",
@@ -2524,48 +2566,6 @@
     "created_at": "06/09/2026 12:17",
     "created_at_iso": "2026-09-06T12:17:58",
     "created_ts": 1788697078,
-    "niche": {
-      "key": "shopee_roupas_plus_size",
-      "name": "Roupas Plus Size"
-    }
-  },
-  {
-    "id": "8c75f3b149914b23ed",
-    "title": "Conjunto Alfaiataria Plus Size",
-    "raw_title": "Conjunto na Alfaiataria Calça Pantalona + Colete Social Escritório Plus SIze",
-    "description": "✨ Elegância e conforto no trabalho? SIM! ✨ Look impecável com este Conjunto de Alfaiataria! Perfeito para o escritório, com calça pantalona e colete soc...",
-    "marketplace": "Shopee",
-    "category": "Roupas Plus Size",
-    "old_price": "R$ 140,18",
-    "price": "R$ 79,90",
-    "discount_percent": 43.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh6lnpjrx2x137",
-    "affiliate_url": "https://s.shopee.com.br/60RNpZ7tQH",
-    "created_at": "06/09/2026 12:16",
-    "created_at_iso": "2026-09-06T12:16:51",
-    "created_ts": 1788697011,
-    "niche": {
-      "key": "shopee_roupas_plus_size",
-      "name": "Roupas Plus Size"
-    }
-  },
-  {
-    "id": "69ec45680e92a310bc",
-    "title": "Meia Calça Fina7D Anticelite Plus Size",
-    "raw_title": "Meia Calça Fina7D ANTICELULITE Fio 70 Plus Size – Veste do 36 ao 54 | Conforto e Alta Elasticidade",
-    "description": "🌟 Sinta-se incrível com a Meia Calça Fina7D ANTICELULITE! Fio 70 e alta elasticidade que veste do 36 ao 54. Conforto e confiança para todos os momentos!",
-    "marketplace": "Shopee",
-    "category": "Roupas Plus Size",
-    "old_price": "R$ 73,90",
-    "price": "R$ 30,30",
-    "discount_percent": 59.0,
-    "rating": 4.7,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-82611-mkiakz0qu58i00",
-    "affiliate_url": "https://s.shopee.com.br/4AzjmQXFC9",
-    "created_at": "06/09/2026 12:15",
-    "created_at_iso": "2026-09-06T12:15:43",
-    "created_ts": 1788696943,
     "niche": {
       "key": "shopee_roupas_plus_size",
       "name": "Roupas Plus Size"

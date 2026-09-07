@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 07/09/2026 05:19
+Gerado em: 07/09/2026 06:09
 
 ## Como usar
 
@@ -120,10 +120,14 @@ Gerado em: 07/09/2026 05:19
 
 - growth/shorts/slides/supermercados/01_intro.png
 - growth/shorts/slides/supermercados/02_produto_1.png
+- growth/shorts/slides/supermercados/03_produto_2.png
+- growth/shorts/slides/supermercados/04_produto_3.png
 - growth/shorts/slides/supermercados/05_cta.png
 
 **Produtos usados:**
 
+- Condicionador Infantil 250ml Buba Care
+- Detergente Sabão Lava Louça Pastilha + Lava Máquina Unik
 - Amaciante Vinagreen Lavanda 1L
 
 ---

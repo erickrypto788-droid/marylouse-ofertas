@@ -1,5 +1,47 @@
 [
   {
+    "id": "fbbdc367d18a09bb23",
+    "title": "Tênis Vizzano Flatform",
+    "raw_title": "Tênis Vizzano Feminino Casual Plataforma Macia Confortável Dia Moda Passeio Leve Conforto Flatform",
+    "description": "✨ Tênis Vizzano Flatform com 36% OFF! 👟 Conforto e estilo para o seu dia a dia! Perfeito para passeios e para arrasar na moda casual. Macio, leve e supe...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Femininos",
+    "old_price": "R$ 179,53",
+    "price": "R$ 114,90",
+    "discount_percent": 36.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lh-mohcwkodwlxh54",
+    "affiliate_url": "https://s.shopee.com.br/5foXhQadQ7",
+    "created_at": "07/09/2026 10:16",
+    "created_at_iso": "2026-09-07T10:16:54",
+    "created_ts": 1788776214,
+    "niche": {
+      "key": "shopee_sapatos_femininos",
+      "name": "Sapatos Femininos"
+    }
+  },
+  {
+    "id": "07bc33070dff9f654b",
+    "title": "Bota Feminina Inverno",
+    "raw_title": "Bota Feminina Cano Curto Preta Salto Grosso Tratorada Confortável Moda Inverno",
+    "description": "IMPERDÍVEL! ✨ Arrase neste inverno com a Bota Feminina Cano Curto Preta! Salto tratorado e super confortável para você desfilar com muito estilo. 👢 Não...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Femininos",
+    "old_price": "R$ 89,11",
+    "price": "R$ 49,90",
+    "discount_percent": 44.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjis59nbonib20",
+    "affiliate_url": "https://s.shopee.com.br/2qUMKE31DN",
+    "created_at": "07/09/2026 10:15",
+    "created_at_iso": "2026-09-07T10:15:45",
+    "created_ts": 1788776145,
+    "niche": {
+      "key": "shopee_sapatos_femininos",
+      "name": "Sapatos Femininos"
+    }
+  },
+  {
     "id": "ebfc2b6e57465a82ad",
     "title": "Bike Spinning Kikos Max-ks5",
     "raw_title": "Bike Spinning Kikos Max-ks5 Preto",
@@ -2611,27 +2653,6 @@
     "created_at": "06/09/2026 10:17",
     "created_at_iso": "2026-09-06T10:17:05",
     "created_ts": 1788689825,
-    "niche": {
-      "key": "shopee_roupas_femininas",
-      "name": "Roupas Femininas"
-    }
-  },
-  {
-    "id": "3cf94624c5ad90ce5d",
-    "title": "KIT 3 Blusas Cacharrel Gola Alta",
-    "raw_title": "KIT 3 Blusas Feminina Manga Longa Cacharrel Confortável Básico Gola Alta",
-    "description": "✨ OFERTA RELÂMPAGO! Kit 3 Blusas Cacharrel que você vai amar! ❤️ Garanta já o seu KIT 3 Blusas Feminina Manga Longa Cacharrel Confortável Básico Gola Al...",
-    "marketplace": "Shopee",
-    "category": "Roupas Femininas",
-    "old_price": "R$ 148,53",
-    "price": "R$ 44,56",
-    "discount_percent": 70.0,
-    "rating": 4.7,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfes7idiiy9wa2",
-    "affiliate_url": "https://s.shopee.com.br/9KhpngdbX3",
-    "created_at": "06/09/2026 10:15",
-    "created_at_iso": "2026-09-06T10:15:56",
-    "created_ts": 1788689756,
     "niche": {
       "key": "shopee_roupas_femininas",
       "name": "Roupas Femininas"

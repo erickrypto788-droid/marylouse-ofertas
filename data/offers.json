@@ -1,5 +1,22 @@
 [
   {
+    "id": "a9ba585a8fa4a6b714",
+    "title": "Carregador Magnético 3 em 1 (iPhone, Apple Watch, Android)",
+    "raw_title": "Carregador magnético USB 3 em 1 20w para iPhone, Apple Watch e Android, carregador tipo C, carregador iPhone",
+    "description": "Diga adeus à bagunça de cabos! 🤯 Com o Carregador Magnético USB 3 em 1 de 20W, você carrega seu iPhone, Apple Watch e Android com total praticidade e ra...",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "R$ 35,90",
+    "price": "R$ 34,10",
+    "discount_percent": 5.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_758498-MLA110380955951_042026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67951851?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "07/09/2026 16:01",
+    "created_at_iso": "2026-09-07T16:01:55",
+    "created_ts": 1788796915
+  },
+  {
     "id": "7b33c88a17a7891c89",
     "title": "ROMANTIC CROWN Garrafa Térmica 900ml Inox com Bico e Alça Flip Tumble…",
     "raw_title": "ROMANTIC CROWN Garrafa Térmica 900ml Inox com Bico e Alça Flip Tumbler para Academia e Trabalho",
@@ -2534,22 +2551,5 @@
       "key": "shopee_eletrodomesticos",
       "name": "Eletrodomésticos"
     }
-  },
-  {
-    "id": "59bd4ac30d8d855425",
-    "title": "Vestido feminino casual feminino Guess, relógio esportivo, pulseira,…",
-    "raw_title": "Vestido feminino casual feminino Guess, relógio esportivo, pulseira, cor dourada",
-    "description": "🔥 Oferta encontrada! 📌 Vestido feminino casual feminino Guess, relógio esportivo, pulseira, cor dourada Confira os detalhes e aproveite enquanto a ofert...",
-    "marketplace": "Mercado Livre",
-    "category": "Esportes e Lazer",
-    "old_price": "",
-    "price": "R$ 661,98",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_844926-MLU77096472529_062024-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB25981434?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "06/09/2026 16:01",
-    "created_at_iso": "2026-09-06T16:01:51",
-    "created_ts": 1788710511
   }
 ]

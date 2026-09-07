@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 07/09/2026 04:05
+Gerado em: 07/09/2026 04:21
 
 ## Como usar
 
@@ -162,29 +162,29 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 6 — Moda e Calçados
+## Post 6 — Casa e Cozinha
 
-**Canal recomendado:** Moda e Calçados
+**Canal recomendado:** Casa e Cozinha
 
-**Horário sugerido:** 12:00 - 15:00
+**Horário sugerido:** 18:00 - 20:00
 
 **Imagem/card:**
 
-https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
+https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
 
 **Texto pronto:**
 
 ```txt
-👟 Oferta para Moda e Calçados
+🍳 Oferta para Casa e Cozinha
 
-Tenis Infantil Masculino Led Menino Aranha Tenis De Menino Masculino…
+Escorredor De Arroz Inox Legumes Frutas Multiuso Cozinha Alça Coador…
 
-💸 De: R$ 199,75
-🔥 Por: R$ 79,90
+💸 De: R$ 49,97
+🔥 Por: R$ 19,99
 🏷️ 60% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/6L4El8m6R6
+Ver oferta: https://s.shopee.com.br/9KhqzquX5v
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

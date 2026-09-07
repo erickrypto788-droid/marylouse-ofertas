@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 07/09/2026 22:22
+Gerado em: 07/09/2026 23:10
 
 ## Como usar
 
@@ -104,7 +104,7 @@ Gerado em: 07/09/2026 22:22
 
 - Xiaomi Poco X7 Pro 512GB / 256GB +12 Ram 5G Versão Global NFC Origina…
 - Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mous…
-- Xiaomi Redmi 15c 256GB Azul
+- Creme Gel Regenerador Facial Gota de Colágeno Kokeshi 45g
 
 ---
 
@@ -127,7 +127,7 @@ Gerado em: 07/09/2026 22:22
 **Produtos usados:**
 
 - Kit Clareador Facial - Sabonete Líquido + Protetor Solar Clareador 70…
-- Condicionador Infantil 250ml Buba Care
-- Detergente Sabão Lava Louça Pastilha + Lava Máquina Unik
+- Kit Higiene Bucal Completo - 35 Unidades
+- Amaciante Triex Amaciante Max Blue em frasco 5 L
 
 ---

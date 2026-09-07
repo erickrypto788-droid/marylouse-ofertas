@@ -1,5 +1,39 @@
 [
   {
+    "id": "c0ea4a382c1b6b5fa3",
+    "title": "Painel D'Rossi para TV 60\" Cumaru",
+    "raw_title": "Painel D'Rossi Painel Para TV para TV até 60\" cumaru de mdf/mdp",
+    "description": "🛋️ Renove sua sala com estilo e economia! O Painel D'Rossi para TV até 60\" na cor Cumaru é a escolha perfeita para um ambiente moderno e organizado. Qua...",
+    "marketplace": "Mercado Livre",
+    "category": "Casa e Cozinha",
+    "old_price": "R$ 798,90",
+    "price": "R$ 632,50",
+    "discount_percent": 21.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_815339-MLA113527420537_062026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74184723?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "07/09/2026 08:03",
+    "created_at_iso": "2026-09-07T08:03:37",
+    "created_ts": 1788768217
+  },
+  {
+    "id": "4e85b1c2443da51490",
+    "title": "Miniatura Aspirador Infantil",
+    "raw_title": "Miniatura Aspirador Pó Infantil Bw165",
+    "description": "✨ DIVERSÃO GARANTIDA! ✨ Seu pequeno vai amar o Miniatura Aspirador Pó Infantil Bw165! Perfeito para estimular a imaginação e a diversão em casa. 🏠🧹 🚚 Fr...",
+    "marketplace": "Mercado Livre",
+    "category": "Casa e Cozinha",
+    "old_price": "",
+    "price": "R$ 70,54",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_918994-MLA95645873915_102025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB28353455?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "07/09/2026 08:02",
+    "created_at_iso": "2026-09-07T08:02:28",
+    "created_ts": 1788768148
+  },
+  {
     "id": "9ac1079cd5ce2cbd14",
     "title": "Kit Cuecas Boxer Microfibra",
     "raw_title": "Kit 10 ou 5 Cuecas Boxer Microfibra Adulto Sem Costura Confortável",
@@ -2606,22 +2640,5 @@
       "key": "shopee_bebidas_alimentos",
       "name": "Bebidas e Alimentos"
     }
-  },
-  {
-    "id": "93f10f9656e2ad03fd",
-    "title": "Monitor de Pressão Omron",
-    "raw_title": "Aparelho Monitor Pressão Arterial Portátil Pulso Omron",
-    "description": "🚨 OFERTA RELÂMPAGO! Monitore sua saúde com praticidade! 🩺 Aparelho Monitor Pressão Arterial Portátil Pulso Omron. Tenha controle total da sua pressão on...",
-    "marketplace": "Mercado Livre",
-    "category": "Saúde",
-    "old_price": "R$ 272,98",
-    "price": "R$ 151,05",
-    "discount_percent": 45.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_732248-MLA108909250030_032026-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB22958206?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "06/09/2026 08:01",
-    "created_at_iso": "2026-09-06T08:01:33",
-    "created_ts": 1788681693
   }
 ]

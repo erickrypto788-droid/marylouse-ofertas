@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 07/09/2026 18:24
+Gerado em: 07/09/2026 19:04
 
 ## Categorias prioritárias
 
@@ -52,40 +52,40 @@ Gerado em: 07/09/2026 18:24
    - Desconto: 53% OFF
    - Link: https://s.shopee.com.br/Ln24xUAZW
 
-6. **Xiaomi Poco X7 Pro 512GB / 256GB +12 Ram 5G Versão Global NFC Origina…**
+6. **Comedouro Elevado Duplo Ração Gato Porcelana Acrilico 190ml Porta Rac…**
+   - Categoria: Pet
+   - Loja: Mercado Livre
+   - Preço: R$ 49,90
+   - Desconto: 37% OFF
+   - Link: https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+7. **Xiaomi Poco X7 Pro 512GB / 256GB +12 Ram 5G Versão Global NFC Origina…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 2.539,00
    - Desconto: 45% OFF
    - Link: https://s.shopee.com.br/3Vk4VytQWL
 
-7. **Fralda Huggies Jumbinho M - 36 Unidades**
+8. **Fralda Huggies Jumbinho M - 36 Unidades**
    - Categoria: Mãe e Bebê
    - Loja: Mercado Livre
    - Preço: R$ 42,90
    - Desconto: 35% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB25251850?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-8. **Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mous…**
+9. **Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mous…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 69,89
    - Desconto: 41% OFF
    - Link: https://s.shopee.com.br/1BM5Lkbhbg
 
-9. **Toalha de Banho Fralda Soft com Capuz para Bebê OU Kit com 2, 3 ou…**
+10. **Toalha de Banho Fralda Soft com Capuz para Bebê OU Kit com 2, 3 ou…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 31,99
    - Desconto: 47% OFF
    - Link: https://s.shopee.com.br/7AdJUZTVqa
-
-10. **Huggies Fralda Descartável Máxima Proteção XG - 112 Un**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 179,90
-   - Desconto: 26% OFF
-   - Link: https://s.shopee.com.br/2VrWWhH0xY
 
 ## Ações gratuitas recomendadas
 

@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 07/09/2026 13:03
+Gerado em: 07/09/2026 13:22
 
 ## Como usar
 
@@ -78,9 +78,9 @@ Gerado em: 07/09/2026 13:03
 
 **Produtos usados:**
 
+- Chapinha Prancha Cabelo Profissional Nano Titanium 450F BIVOLT
 - Perfume Attracione Feminino
 - Perfume Attracione Men
-- Barbeador Costas Dobrável
 
 ---
 
@@ -126,8 +126,8 @@ Gerado em: 07/09/2026 13:03
 
 **Produtos usados:**
 
+- Kit Clareador Facial - Sabonete Líquido + Protetor Solar Clareador 70…
 - Condicionador Infantil 250ml Buba Care
 - Detergente Sabão Lava Louça Pastilha + Lava Máquina Unik
-- Amaciante Vinagreen Lavanda 1L
 
 ---

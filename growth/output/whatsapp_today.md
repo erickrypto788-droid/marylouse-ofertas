@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 07/09/2026 14:22
+Gerado em: 07/09/2026 15:21
 
 ## Como usar
 
@@ -12,37 +12,7 @@ Gerado em: 07/09/2026 14:22
 
 ---
 
-## Post 1 — Celulares e Tecnologia
-
-**Canal recomendado:** Celulares e Tecnologia
-
-**Horário sugerido:** 19:00 - 21:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
-
-**Texto pronto:**
-
-```txt
-📱 Oferta para Celulares e Tecnologia
-
-Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com…
-
-💸 De: R$ 50,74
-🔥 Por: R$ 19,79
-🏷️ 61% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/60ROAB6U23
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 2 — Beleza e Cuidados
+## Post 1 — Beleza e Cuidados
 
 **Canal recomendado:** Beleza e Cuidados
 
@@ -72,7 +42,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 3 — Mamãe e Bebê
+## Post 2 — Mamãe e Bebê
 
 **Canal recomendado:** Mamãe e Bebê
 
@@ -102,6 +72,36 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
+## Post 3 — Celulares e Tecnologia
+
+**Canal recomendado:** Celulares e Tecnologia
+
+**Horário sugerido:** 19:00 - 21:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
+
+**Texto pronto:**
+
+```txt
+📱 Oferta para Celulares e Tecnologia
+
+Xiaomi Poco X7 Pro 512GB / 256GB +12 Ram 5G Versão Global NFC Origina…
+
+💸 De: R$ 4.616,36
+🔥 Por: R$ 2.539,00
+🏷️ 45% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/3Vk4VytQWL
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
 ## Post 4 — Moda Feminina
 
 **Canal recomendado:** Moda Feminina
@@ -117,14 +117,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Conjunto Feminino cropped e short Verão Linho Duna Premium
+Blusa Regata Feminina Halter Efeito Silicone Modeladora Frente Unica…
 
-💸 De: R$ 100,00
-🔥 Por: R$ 39,00
-🏷️ 61% OFF
+💸 De: R$ 99,97
+🔥 Por: R$ 34,99
+🏷️ 65% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/6L4FYaEurr
+Ver oferta: https://s.shopee.com.br/1Vyznhoun6
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

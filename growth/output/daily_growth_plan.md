@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 08/09/2026 01:22
+Gerado em: 08/09/2026 02:22
 
 ## Categorias prioritárias
 
-- 💻 **Informática**: 16 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 💻 **Informática**: 15 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 📦 **Outros**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 👗 **Moda Feminina**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 🍼 **Mãe e Bebê**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 👕 **Moda Masculina**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 - 🍳 **Casa e Cozinha**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
-- 💄 **Beleza**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 👟 **Calçados**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 🏋️ **Esportes**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 📚 **Papelaria**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
-- 🐶 **Pet**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
+- 💄 **Beleza**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 🐶 **Pet**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 
 ## Top ofertas para destacar
 
@@ -38,54 +38,54 @@ Gerado em: 08/09/2026 01:22
    - Desconto: 57% OFF
    - Link: https://s.shopee.com.br/3g3Sv1U4r5
 
-4. **Caderno A5 de couro macio 360 folhas retro notebook para agenda 2026…**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 36,99
-   - Desconto: 53% OFF
-   - Link: https://s.shopee.com.br/80CTHA7peB
-
-5. **Mochila Couro Masculina Reforçada Para Notebook Escolar Excecultivo S…**
+4. **Mochila Couro Masculina Reforçada Para Notebook Escolar Excecultivo S…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 45,69
    - Desconto: 49% OFF
    - Link: https://s.shopee.com.br/2qUN3YKeVF
 
-6. **Mochila Viagem Executiva Grande Notebook com ou sem Compartimento par…**
+5. **Mochila Viagem Executiva Grande Notebook com ou sem Compartimento par…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 78,99
    - Desconto: 47% OFF
    - Link: https://s.shopee.com.br/30noS0xDFy
 
-7. **Comedouro Elevado Duplo Ração Gato Porcelana Acrilico 190ml Porta Rac…**
+6. **Comedouro Elevado Duplo Ração Gato Porcelana Acrilico 190ml Porta Rac…**
    - Categoria: Pet
    - Loja: Mercado Livre
    - Preço: R$ 49,90
    - Desconto: 37% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-8. **Xiaomi Poco X7 Pro 512GB / 256GB +12 Ram 5G Versão Global NFC Origina…**
+7. **Xiaomi Poco X7 Pro 512GB / 256GB +12 Ram 5G Versão Global NFC Origina…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 2.539,00
    - Desconto: 45% OFF
    - Link: https://s.shopee.com.br/3Vk4VytQWL
 
-9. **Fralda Huggies Jumbinho M - 36 Unidades**
+8. **Fralda Huggies Jumbinho M - 36 Unidades**
    - Categoria: Mãe e Bebê
    - Loja: Mercado Livre
    - Preço: R$ 42,90
    - Desconto: 35% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB25251850?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-10. **Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mous…**
+9. **Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mous…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 69,89
    - Desconto: 41% OFF
    - Link: https://s.shopee.com.br/1BM5Lkbhbg
+
+10. **Webcam Full HD 1080p com Microfone Embutido - Widescreen USB, Ideal p…**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 44,00
+   - Desconto: 77% OFF
+   - Link: https://s.shopee.com.br/4VccR8prTC
 
 ## Ações gratuitas recomendadas
 

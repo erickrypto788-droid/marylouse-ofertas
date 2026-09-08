@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 08/09/2026 21:55
+Gerado em: 08/09/2026 22:22
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Kit Roupa Infantil Menina Verão
+Blazer Feminino Plus Size Alfaiataria
 
-💸 De: R$ 131,32
-🔥 Por: R$ 49,90
-🏷️ 62% OFF
+💸 De: R$ 157,58
+🔥 Por: R$ 52,00
+🏷️ 67% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/Ln4Cno5dB
+Ver oferta: https://s.shopee.com.br/AAH0mRCvFX
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

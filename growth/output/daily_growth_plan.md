@@ -1,49 +1,49 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 08/09/2026 12:22
+Gerado em: 08/09/2026 13:24
 
 ## Categorias prioritárias
 
-- 💄 **Beleza**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 🍼 **Mãe e Bebê**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 💻 **Informática**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - ❤️ **Saúde**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 🏋️ **Esportes**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 🍼 **Mãe e Bebê**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🧸 **Brinquedos**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 👗 **Moda Feminina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
-- 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 💄 **Beleza**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 📦 **Outros**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 🐶 **Pet**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
+- 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 
 ## Top ofertas para destacar
 
-1. **Perfumes Importados Feminino e Masculino 30ML**
+1. **Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 26,99
+   - Desconto: 55% OFF
+   - Link: https://s.shopee.com.br/9AOSze5Etu
+
+2. **Perfumes Importados Feminino e Masculino 30ML**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 29,40
    - Desconto: 51% OFF
    - Link: https://s.shopee.com.br/4qFSEfFjHv
 
-2. **Escova Secadora Pet 2 em 1**
+3. **Escova Secadora Pet 2 em 1**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 48,99
    - Desconto: 75% OFF
    - Link: https://s.shopee.com.br/9KhsrDvVLC
 
-3. **Mochila Bolsa Reforçada Notebook Resistente Trabalho Faculdade Coreana**
+4. **Mochila Bolsa Reforçada Notebook Resistente Trabalho Faculdade Coreana**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 29,90
    - Desconto: 59% OFF
    - Link: https://s.shopee.com.br/3qMuFOGz1x
-
-4. **Chapinha Prancha Cabelo Profissional Nano Titanium 450F BIVOLT**
-   - Categoria: Beleza
-   - Loja: Shopee
-   - Preço: R$ 33,99
-   - Desconto: 62% OFF
-   - Link: https://s.shopee.com.br/Ln2sOfS9D
 
 5. **Air Fryer Rosa Britânia 5,5L**
    - Categoria: Casa e Cozinha
@@ -73,19 +73,19 @@ Gerado em: 08/09/2026 12:22
    - Desconto: 37% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-9. **Kit Saúde Essencial 3 em 1**
+9. **Fralda Hipopó Baby Mega Pacotão**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 44,90
+   - Desconto: 29% OFF
+   - Link: https://s.shopee.com.br/20vISTWWRe
+
+10. **Kit Saúde Essencial 3 em 1**
    - Categoria: Saúde
    - Loja: Shopee
    - Preço: R$ 77,99
    - Desconto: 59% OFF
    - Link: https://s.shopee.com.br/AAGyqww61Z
-
-10. **Nebulizador Portátil para Crianças e Adultos**
-   - Categoria: Saúde
-   - Loja: Shopee
-   - Preço: R$ 27,99
-   - Desconto: 69% OFF
-   - Link: https://s.shopee.com.br/9zxYedsC2P
 
 ## Ações gratuitas recomendadas
 

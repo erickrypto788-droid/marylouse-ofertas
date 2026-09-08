@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 08/09/2026 12:22
+Gerado em: 08/09/2026 13:24
 
 ## Como usar
 
@@ -87,14 +87,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
 ```txt
 🍼 Oferta para Mamãe e Bebê
 
-Boneca Lola Baby Com Chupeta Rosa Menina Brinquedo Infantil Bebê
+Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…
 
-💸 De: R$ 69,35
-🔥 Por: R$ 31,90
-🏷️ 54% OFF
+💸 De: R$ 59,98
+🔥 Por: R$ 26,99
+🏷️ 55% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/6VNgYKlhYH
+Ver oferta: https://s.shopee.com.br/9AOSze5Etu
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

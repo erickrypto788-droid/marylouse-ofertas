@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 08/09/2026 12:22
+Gerado em: 08/09/2026 13:24
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 08/09/2026 12:22
 
 **Produtos usados:**
 
+- Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…
 - Sandália Cartago Baby Masculino
-- Huggies Fralda Descartável Máxima Proteção XG - 112 Un
-- Tênis Infantil Anatômico
+- Fralda Hipopó Baby Mega Pacotão
 
 ---
 
@@ -79,8 +79,8 @@ Gerado em: 08/09/2026 12:22
 **Produtos usados:**
 
 - Escova Secadora Pet 2 em 1
-- Chapinha Prancha Cabelo Profissional Nano Titanium 450F BIVOLT
 - Perfumes Importados Feminino e Masculino 30ML
+- ANA1108 Kit 10 mini pincéis para Maquiagem com estojo bolsa para viag…
 
 ---
 
@@ -127,7 +127,7 @@ Gerado em: 08/09/2026 12:22
 **Produtos usados:**
 
 - Kit 4 Potes Herméticos 2L Com Copo Medidor Organizador Mantimentos Ar…
-- Kit Clareador Facial - Sabonete Líquido + Protetor Solar Clareador 70…
 - Kit Higiene Bucal Completo - 35 Unidades
+- Amaciante Triex Amaciante Max Blue em frasco 5 L
 
 ---

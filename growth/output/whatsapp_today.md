@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 08/09/2026 01:05
+Gerado em: 08/09/2026 01:22
 
 ## Como usar
 
@@ -117,14 +117,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Blusa Regata Feminina Halter Efeito Silicone Modeladora Frente Unica…
+Calça Pantalona Alfaiataria Premium
 
-💸 De: R$ 99,97
-🔥 Por: R$ 34,99
-🏷️ 65% OFF
+💸 De: R$ 132,86
+🔥 Por: R$ 27,90
+🏷️ 79% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/1Vyznhoun6
+Ver oferta: https://s.shopee.com.br/4fw2poEFWs
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

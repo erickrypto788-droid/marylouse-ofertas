@@ -1,5 +1,56 @@
 [
   {
+    "id": "68b2588906b6dc8d35",
+    "title": "Condicionador Lowell Mirtilinho Infantil",
+    "raw_title": "Condicionador Infantil Lowell Mirtilinho 240ml",
+    "description": "✨ Cabelos impecáveis para seu filho! ✨ Condicionador Infantil Lowell Mirtilinho 240ml. Desembarace sem lágrimas e deixe os fios macios, brilhantes e com...",
+    "marketplace": "Mercado Livre",
+    "category": "Beleza",
+    "old_price": "",
+    "price": "R$ 77,50",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_616065-MLA109632684102_042026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68094806?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "08/09/2026 16:09",
+    "created_at_iso": "2026-09-08T16:09:21",
+    "created_ts": 1788883761
+  },
+  {
+    "id": "b7d021ea8a921fa926",
+    "title": "Miniatura Creme Dental 15g",
+    "raw_title": "Miniatura Creme Dental 15g",
+    "description": "🔥 Oferta encontrada! 📌 Miniatura Creme Dental 15g Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Supermercados",
+    "old_price": "",
+    "price": "R$ 179,89",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_662638-MLA99420901376_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB53217462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "08/09/2026 16:08",
+    "created_at_iso": "2026-09-08T16:08:11",
+    "created_ts": 1788883691
+  },
+  {
+    "id": "4f42bef3316535d3bf",
+    "title": "Azeite Extra Virgem Italiano Mercatto",
+    "raw_title": "Azeite Oliva Extra Virgem Italiano 500ml Mercatto",
+    "description": "✨ Sabor e qualidade italiana na sua cozinha! ✨ Azeite Oliva Extra Virgem Italiano 500ml Mercatto com um super desconto para você! Perfeito para suas rec...",
+    "marketplace": "Mercado Livre",
+    "category": "Supermercados",
+    "old_price": "R$ 78,88",
+    "price": "R$ 58,37",
+    "discount_percent": 26.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_975610-MLA114908796708_082026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB54332454?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "08/09/2026 16:07",
+    "created_at_iso": "2026-09-08T16:07:07",
+    "created_ts": 1788883627
+  },
+  {
     "id": "5deb36f47f99d5a76c",
     "title": "Mochila Unissex para Viagem Cabo de Aço Reforçado Resistente Elegante…",
     "raw_title": "Mochila Unissex para Viagem Cabo de Aço Reforçado Resistente Elegantes Moderno RC9801",
@@ -2469,22 +2520,5 @@
       "key": "shopee_brinquedos_hobbies",
       "name": "Brinquedos e Hobbies"
     }
-  },
-  {
-    "id": "a9ba585a8fa4a6b714",
-    "title": "Carregador Magnético 3 em 1 (iPhone, Apple Watch, Android)",
-    "raw_title": "Carregador magnético USB 3 em 1 20w para iPhone, Apple Watch e Android, carregador tipo C, carregador iPhone",
-    "description": "Diga adeus à bagunça de cabos! 🤯 Com o Carregador Magnético USB 3 em 1 de 20W, você carrega seu iPhone, Apple Watch e Android com total praticidade e ra...",
-    "marketplace": "Mercado Livre",
-    "category": "Informática",
-    "old_price": "R$ 35,90",
-    "price": "R$ 34,10",
-    "discount_percent": 5.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_758498-MLA110380955951_042026-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67951851?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "07/09/2026 16:01",
-    "created_at_iso": "2026-09-07T16:01:55",
-    "created_ts": 1788796915
   }
 ]

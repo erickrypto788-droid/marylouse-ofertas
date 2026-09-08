@@ -1,11 +1,12 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 08/09/2026 12:04
+Gerado em: 08/09/2026 12:22
 
 ## Categorias prioritárias
 
 - 💄 **Beleza**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 💻 **Informática**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- ❤️ **Saúde**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 🏋️ **Esportes**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 🍼 **Mãe e Bebê**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🧸 **Brinquedos**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
@@ -13,7 +14,6 @@ Gerado em: 08/09/2026 12:04
 - 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 📦 **Outros**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 🐶 **Pet**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
-- 🍳 **Casa e Cozinha**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 
 ## Top ofertas para destacar
 
@@ -73,19 +73,19 @@ Gerado em: 08/09/2026 12:04
    - Desconto: 37% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-9. **Sandália Cartago Baby Masculino**
-   - Categoria: Mãe e Bebê
+9. **Kit Saúde Essencial 3 em 1**
+   - Categoria: Saúde
    - Loja: Shopee
-   - Preço: R$ 23,90
-   - Desconto: 60% OFF
-   - Link: https://s.shopee.com.br/2VrYmmomK4
+   - Preço: R$ 77,99
+   - Desconto: 59% OFF
+   - Link: https://s.shopee.com.br/AAGyqww61Z
 
-10. **Kit 2 Cartões de Memória 128GB**
-   - Categoria: Celulares
+10. **Nebulizador Portátil para Crianças e Adultos**
+   - Categoria: Saúde
    - Loja: Shopee
-   - Preço: R$ 32,98
-   - Desconto: 77% OFF
-   - Link: https://s.shopee.com.br/1ADbpHfnu
+   - Preço: R$ 27,99
+   - Desconto: 69% OFF
+   - Link: https://s.shopee.com.br/9zxYedsC2P
 
 ## Ações gratuitas recomendadas
 

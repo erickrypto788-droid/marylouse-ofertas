@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 08/09/2026 17:06
+Gerado em: 08/09/2026 17:21
 
 ## Como usar
 
@@ -102,9 +102,9 @@ Gerado em: 08/09/2026 17:06
 
 **Produtos usados:**
 
+- Teclado e mouse sem fio—Compatível com tablet，Notebook e celular, Rec…
 - Capa Anti Impacto + Película 3D para Samsung
 - Kit 2 Cartões de Memória 128GB
-- Carregador Portátil Basike 20000mAh
 
 ---
 

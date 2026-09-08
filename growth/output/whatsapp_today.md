@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 08/09/2026 17:06
+Gerado em: 08/09/2026 17:21
 
 ## Como usar
 
@@ -12,7 +12,37 @@ Gerado em: 08/09/2026 17:06
 
 ---
 
-## Post 1 — Beleza e Cuidados
+## Post 1 — Celulares e Tecnologia
+
+**Canal recomendado:** Celulares e Tecnologia
+
+**Horário sugerido:** 19:00 - 21:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
+
+**Texto pronto:**
+
+```txt
+📱 Oferta para Celulares e Tecnologia
+
+Teclado e mouse sem fio—Compatível com tablet，Notebook e celular, Rec…
+
+💸 De: R$ 99,22
+🔥 Por: R$ 39,69
+🏷️ 60% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/70JxPjOoUj
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 2 — Beleza e Cuidados
 
 **Canal recomendado:** Beleza e Cuidados
 
@@ -42,7 +72,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 2 — Ofertas Pet
+## Post 3 — Ofertas Pet
 
 **Canal recomendado:** Ofertas Pet
 
@@ -72,7 +102,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 3 — Mamãe e Bebê
+## Post 4 — Mamãe e Bebê
 
 **Canal recomendado:** Mamãe e Bebê
 
@@ -95,36 +125,6 @@ Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/9AOSze5Etu
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 4 — Celulares e Tecnologia
-
-**Canal recomendado:** Celulares e Tecnologia
-
-**Horário sugerido:** 19:00 - 21:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
-
-**Texto pronto:**
-
-```txt
-📱 Oferta para Celulares e Tecnologia
-
-Capa Anti Impacto + Película 3D para Samsung
-
-💸 De: R$ 19,98
-🔥 Por: R$ 10,99
-🏷️ 45% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/30npBLAaEq
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

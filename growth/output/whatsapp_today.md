@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 08/09/2026 07:03
+Gerado em: 08/09/2026 07:21
 
 ## Como usar
 
@@ -162,29 +162,29 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 6 — Moda e Calçados
+## Post 6 — Casa e Cozinha
 
-**Canal recomendado:** Moda e Calçados
+**Canal recomendado:** Casa e Cozinha
 
-**Horário sugerido:** 12:00 - 15:00
+**Horário sugerido:** 18:00 - 20:00
 
 **Imagem/card:**
 
-https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
+https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
 
 **Texto pronto:**
 
 ```txt
-👟 Oferta para Moda e Calçados
+🍳 Oferta para Casa e Cozinha
 
-Tênis Branco Infantil
+Air Fryer Rosa Britânia 5,5L
 
-💸 De: R$ 99,72
-🔥 Por: R$ 39,89
-🏷️ 60% OFF
+💸 De: R$ 398,38
+🔥 Por: R$ 270,90
+🏷️ 32% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/4VcbuBARxQ
+Ver oferta: https://s.shopee.com.br/7pt50MyMUo
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

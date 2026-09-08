@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 08/09/2026 07:03
+Gerado em: 08/09/2026 07:21
 
 ## Como usar
 
@@ -54,9 +54,9 @@ Gerado em: 08/09/2026 07:03
 
 **Produtos usados:**
 
+- Air Fryer Rosa Britânia 5,5L
 - Potes de Vidro Herméticos
 - Jogo Panelas Grandes 40cm
-- Elgin Air Fryer Fritadeira Air Fryer
 
 ---
 

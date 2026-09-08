@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 08/09/2026 07:21
+Gerado em: 08/09/2026 08:20
 
 ## Como usar
 
@@ -78,9 +78,9 @@ Gerado em: 08/09/2026 07:21
 
 **Produtos usados:**
 
+- Escova Secadora Pet 2 em 1
 - Chapinha Prancha Cabelo Profissional Nano Titanium 450F BIVOLT
-- ANA1108 Kit 10 mini pincéis para Maquiagem com estojo bolsa para viag…
-- Protetor Solar Facial FPS 60 Antioleosidade com Base Efeito Matte Sun…
+- Perfumes Importados Feminino e Masculino 30ML
 
 ---
 

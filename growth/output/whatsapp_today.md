@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 08/09/2026 07:21
+Gerado em: 08/09/2026 08:20
 
 ## Como usar
 
@@ -27,14 +27,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
 ```txt
 💄 Oferta para Beleza e Cuidados
 
-Chapinha Prancha Cabelo Profissional Nano Titanium 450F BIVOLT
+Escova Secadora Pet 2 em 1
 
-💸 De: R$ 89,45
-🔥 Por: R$ 33,99
-🏷️ 62% OFF
+💸 De: R$ 195,96
+🔥 Por: R$ 48,99
+🏷️ 75% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/Ln2sOfS9D
+Ver oferta: https://s.shopee.com.br/9KhsrDvVLC
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

@@ -1,6 +1,6 @@
 # Pinterest Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 08/09/2026 07:21
+Gerado em: 08/09/2026 08:20
 
 ## Como usar
 
@@ -66,7 +66,7 @@ https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=pinter
 
 **Por que postar:**
 
-Categoria com 9 oferta(s) e boa intenção de compra.
+Categoria com 7 oferta(s) e boa intenção de compra.
 
 ---
 
@@ -86,7 +86,7 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
 
 **Descrição:**
 
-Veja ofertas de Beleza selecionadas pela MaryLouse Ofertas. Destaque de hoje: Chapinha Prancha Cabelo Profissional Nano Titanium 450F BIVOLT. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Veja ofertas de Beleza selecionadas pela MaryLouse Ofertas. Destaque de hoje: Escova Secadora Pet 2 em 1. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
@@ -94,7 +94,7 @@ https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=pinterest&ut
 
 **Por que postar:**
 
-Categoria com 8 oferta(s) e boa intenção de compra.
+Categoria com 12 oferta(s) e boa intenção de compra.
 
 ---
 
@@ -138,15 +138,15 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
 
 **Título:**
 
-62% OFF: Chapinha Prancha Cabelo Profissional Nano Titanium 450F BIVOLT
+75% OFF: Escova Secadora Pet 2 em 1
 
 **Descrição:**
 
-Oferta destaque em Beleza encontrada pela MaryLouse Ofertas. Preço: R$ 33,99. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Oferta destaque em Beleza encontrada pela MaryLouse Ofertas. Preço: R$ 48,99. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
-https://s.shopee.com.br/Ln2sOfS9D
+https://s.shopee.com.br/9KhsrDvVLC
 
 **Por que postar:**
 

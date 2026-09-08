@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 08/09/2026 18:04
+Gerado em: 08/09/2026 18:22
 
 ## Como usar
 
@@ -54,9 +54,9 @@ Gerado em: 08/09/2026 18:04
 
 **Produtos usados:**
 
+- 1.8L Panela De Arroz Elétrica Multi-Camadas/De Dupla Camada Dormitóri…
 - Air Fryer Rosa Britânia 5,5L
 - Conjunto Panelas Antiaderente Tramontina 5peças Vermelho
-- Jogo Panelas Grandes 40cm
 
 ---
 
@@ -127,7 +127,7 @@ Gerado em: 08/09/2026 18:04
 **Produtos usados:**
 
 - Kit 4 Potes Herméticos 2L Com Copo Medidor Organizador Mantimentos Ar…
+- Hidratante Creme Facial Pele De Porcelana Kokeshi 30g Milagre do Arroz
 - Kit Higiene Bucal Completo - 35 Unidades
-- Amaciante Triex Amaciante Max Blue em frasco 5 L
 
 ---

@@ -1,5 +1,22 @@
 [
   {
+    "id": "877800ded36b493205",
+    "title": "Ração Vittamax Premium Gatos 10kg",
+    "raw_title": "Ração Gato Alimento Vittamax Premium Especial 10kg Mix",
+    "description": "🚨 Seu gato merece o melhor! 😻 Garanta já a Ração Vittamax Premium Especial 10kg Mix para seu felino! Qualidade e sabor que ele ama. 🚚 Frete grátis!",
+    "marketplace": "Mercado Livre",
+    "category": "Pet",
+    "old_price": "R$ 128,99",
+    "price": "R$ 123,99",
+    "discount_percent": 4.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_643929-MLA99897198459_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB28886564?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "08/09/2026 12:02",
+    "created_at_iso": "2026-09-08T12:02:28",
+    "created_ts": 1788868948
+  },
+  {
     "id": "122e1fcf3263ea2c01",
     "title": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador…",
     "raw_title": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
@@ -2482,22 +2499,5 @@
       "key": "shopee_eletrodomesticos",
       "name": "Eletrodomésticos"
     }
-  },
-  {
-    "id": "ac6173c92e2456e059",
-    "title": "Fritadeira Air Fryer Mondial Oven Digital 127v",
-    "raw_title": "Fritadeira Air Fryer Mondial Oven Digital 127v",
-    "description": "🔥 Oferta encontrada! 📌 Fritadeira Air Fryer Mondial Oven Digital 127v Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Mercado Livre",
-    "category": "Casa e Cozinha",
-    "old_price": "",
-    "price": "R$ 1.800,00",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_648444-MLA100045466525_122025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB54083722?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "07/09/2026 12:02",
-    "created_at_iso": "2026-09-07T12:02:00",
-    "created_ts": 1788782520
   }
 ]

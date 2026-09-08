@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 08/09/2026 06:04
+Gerado em: 08/09/2026 06:20
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 08/09/2026 06:04
 **Produtos usados:**
 
 - Huggies Fralda Descartável Máxima Proteção XG - 112 Un
-- Fralda Huggies Jumbinho M - 36 Unidades
 - Boneca Lola Baby Com Chupeta Rosa Menina Brinquedo Infantil Bebê
+- Trocador Plastificado Impermeável Anatômico Americano de Cômoda Para…
 
 ---
 
@@ -102,9 +102,9 @@ Gerado em: 08/09/2026 06:04
 
 **Produtos usados:**
 
+- Capa Anti Impacto + Película 3D para Samsung
 - Xiaomi Poco X7 Pro 512GB / 256GB +12 Ram 5G Versão Global NFC Origina…
-- Creme Gel Regenerador Facial Gota de Colágeno Kokeshi 45g
-- Carregador Magnético 3 em 1 (iPhone, Apple Watch, Android)
+- Kit 2 Cartões de Memória 128GB
 
 ---
 

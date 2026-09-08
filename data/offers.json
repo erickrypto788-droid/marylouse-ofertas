@@ -1,5 +1,56 @@
 [
   {
+    "id": "fe65f8fa5d38fb65d1",
+    "title": "Cama Box Solteiro: Colchão Molas Ensacadas Orthoflex Memor",
+    "raw_title": "Cama Box Solteiro: Colchão Molas Ensacadas Orthoflex Memor",
+    "description": "🔥 5% OFF — Oferta encontrada! 📌 Cama Box Solteiro: Colchão Molas Ensacadas Orthoflex Memor Confira os detalhes e aproveite enquanto a oferta estiver dis...",
+    "marketplace": "Mercado Livre",
+    "category": "Casa e Decoração",
+    "old_price": "R$ 1.301,96",
+    "price": "R$ 1.236,86",
+    "discount_percent": 5.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_758365-MLA99458220674_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB48409016?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "08/09/2026 01:04",
+    "created_at_iso": "2026-09-08T01:04:10",
+    "created_ts": 1788829450
+  },
+  {
+    "id": "1ee9568832b9014d91",
+    "title": "Jogo Panelas Grandes 40cm",
+    "raw_title": "Jogo Panelas Grandes Conjunto Caçarolas 40cm - 2 Un Alumínio",
+    "description": "✨ MEGA OFERTA PARA SUA COZINHA! ✨ Prepare refeições incríveis com este Jogo de Panelas Grandes! 🍳 São 2 Caçarolas de Alumínio de 40cm, perfeitas para su...",
+    "marketplace": "Mercado Livre",
+    "category": "Casa e Cozinha",
+    "old_price": "",
+    "price": "R$ 397,61",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_798020-MLA110128132977_042026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67685128?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "08/09/2026 01:03",
+    "created_at_iso": "2026-09-08T01:03:06",
+    "created_ts": 1788829386
+  },
+  {
+    "id": "c2e793502d3d02961e",
+    "title": "Elgin Air Fryer Fritadeira Air Fryer",
+    "raw_title": "Elgin Air Fryer Fritadeira Air Fryer",
+    "description": "🔥 Oferta encontrada! 📌 Elgin Air Fryer Fritadeira Air Fryer Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Casa e Cozinha",
+    "old_price": "",
+    "price": "R$ 212,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_963725-MLA113034359792_072026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50493068?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "08/09/2026 01:01",
+    "created_at_iso": "2026-09-08T01:01:53",
+    "created_ts": 1788829313
+  },
+  {
     "id": "bc05fdea91fb97a82d",
     "title": "Jogo Grand Theft Auto VI Edição Standard - PS5",
     "raw_title": "Jogo Grand Theft Auto VI Edição Standard - PS5",
@@ -2572,27 +2623,6 @@
     "niche": {
       "key": "shopee_bolsas_masculinas",
       "name": "Bolsas Masculinas"
-    }
-  },
-  {
-    "id": "7114bd5ee75fc81dd9",
-    "title": "Mochila Bolsa Masculina Impermeável Reforçada Promoção Cor Preta",
-    "raw_title": "Mochila Bolsa Masculina Impermeável Reforçada Promoção Cor Preta",
-    "description": "🔥 47% OFF — Oferta encontrada! 📌 Mochila Bolsa Masculina Impermeável Reforçada Promoção Cor Preta Confira os detalhes e aproveite enquanto a oferta esti...",
-    "marketplace": "Shopee",
-    "category": "Bolsas Femininas",
-    "old_price": "R$ 66,04",
-    "price": "R$ 35,00",
-    "discount_percent": 47.0,
-    "rating": 4.6,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mke1crgmbksie2",
-    "affiliate_url": "https://s.shopee.com.br/8KpJXWojSQ",
-    "created_at": "07/09/2026 00:18",
-    "created_at_iso": "2026-09-07T00:18:00",
-    "created_ts": 1788740280,
-    "niche": {
-      "key": "shopee_bolsas_femininas",
-      "name": "Bolsas Femininas"
     }
   }
 ]

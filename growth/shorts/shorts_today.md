@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 08/09/2026 09:04
+Gerado em: 08/09/2026 09:23
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 08/09/2026 09:04
 
 **Produtos usados:**
 
+- Sandália Cartago Baby Masculino
 - Huggies Fralda Descartável Máxima Proteção XG - 112 Un
-- Boneca Lola Baby Com Chupeta Rosa Menina Brinquedo Infantil Bebê
-- Trocador Plastificado Impermeável Anatômico Americano de Cômoda Para…
+- Tênis Infantil Anatômico
 
 ---
 

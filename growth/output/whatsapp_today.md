@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 08/09/2026 09:04
+Gerado em: 08/09/2026 09:23
 
 ## Como usar
 
@@ -147,14 +147,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Calça Pantalona Alfaiataria Premium
+Kit Roupa Infantil Menina Verão
 
-💸 De: R$ 132,86
-🔥 Por: R$ 27,90
-🏷️ 79% OFF
+💸 De: R$ 131,32
+🔥 Por: R$ 49,90
+🏷️ 62% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/4fw2poEFWs
+Ver oferta: https://s.shopee.com.br/Ln4Cno5dB
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

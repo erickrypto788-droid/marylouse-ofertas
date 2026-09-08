@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 08/09/2026 13:24
+Gerado em: 08/09/2026 14:20
 
 ## Categorias prioritárias
 
@@ -45,47 +45,47 @@ Gerado em: 08/09/2026 13:24
    - Desconto: 59% OFF
    - Link: https://s.shopee.com.br/3qMuFOGz1x
 
-5. **Air Fryer Rosa Britânia 5,5L**
+5. **Mala Case Capa Bolsa Porta Case Notebook Slim 14,6/15,6 Alça Dupla Re…**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 29,22
+   - Desconto: 36% OFF
+   - Link: https://s.shopee.com.br/2gAzJj3nBR
+
+6. **Air Fryer Rosa Britânia 5,5L**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 270,90
    - Desconto: 32% OFF
    - Link: https://s.shopee.com.br/7pt50MyMUo
 
-6. **Mochila Couro Masculina Reforçada Para Notebook Escolar Excecultivo S…**
+7. **Mochila Couro Masculina Reforçada Para Notebook Escolar Excecultivo S…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 45,69
    - Desconto: 49% OFF
    - Link: https://s.shopee.com.br/2qUN3YKeVF
 
-7. **Mochila Viagem Executiva Grande Notebook com ou sem Compartimento par…**
+8. **Mochila Viagem Executiva Grande Notebook com ou sem Compartimento par…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 78,99
    - Desconto: 47% OFF
    - Link: https://s.shopee.com.br/30noS0xDFy
 
-8. **Comedouro Elevado Duplo Ração Gato Porcelana Acrilico 190ml Porta Rac…**
+9. **Comedouro Elevado Duplo Ração Gato Porcelana Acrilico 190ml Porta Rac…**
    - Categoria: Pet
    - Loja: Mercado Livre
    - Preço: R$ 49,90
    - Desconto: 37% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-9. **Fralda Hipopó Baby Mega Pacotão**
+10. **Fralda Hipopó Baby Mega Pacotão**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 44,90
    - Desconto: 29% OFF
    - Link: https://s.shopee.com.br/20vISTWWRe
-
-10. **Kit Saúde Essencial 3 em 1**
-   - Categoria: Saúde
-   - Loja: Shopee
-   - Preço: R$ 77,99
-   - Desconto: 59% OFF
-   - Link: https://s.shopee.com.br/AAGyqww61Z
 
 ## Ações gratuitas recomendadas
 

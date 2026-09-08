@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 08/09/2026 04:48
+Gerado em: 08/09/2026 05:18
 
 ## Como usar
 
@@ -42,7 +42,37 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 2 — Mamãe e Bebê
+## Post 2 — Ofertas Pet
+
+**Canal recomendado:** Ofertas Pet
+
+**Horário sugerido:** 17:00 - 20:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
+
+**Texto pronto:**
+
+```txt
+🐶 Oferta para Ofertas Pet
+
+Papete Feminina Pérolas de Strass
+
+💸 De: R$ 197,37
+🔥 Por: R$ 75,00
+🏷️ 62% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/8KpKCjmFWC
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 3 — Mamãe e Bebê
 
 **Canal recomendado:** Mamãe e Bebê
 
@@ -72,7 +102,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 3 — Celulares e Tecnologia
+## Post 4 — Celulares e Tecnologia
 
 **Canal recomendado:** Celulares e Tecnologia
 
@@ -102,7 +132,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Moda Feminina
+## Post 5 — Moda Feminina
 
 **Canal recomendado:** Moda Feminina
 
@@ -132,59 +162,29 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 5 — Casa e Cozinha
+## Post 6 — Moda e Calçados
 
-**Canal recomendado:** Casa e Cozinha
+**Canal recomendado:** Moda e Calçados
 
-**Horário sugerido:** 18:00 - 20:00
+**Horário sugerido:** 12:00 - 15:00
 
 **Imagem/card:**
 
-https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
+https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
 
 **Texto pronto:**
 
 ```txt
-🍳 Oferta para Casa e Cozinha
+👟 Oferta para Moda e Calçados
 
-Escorredor De Arroz Inox Legumes Frutas Multiuso Cozinha Alça Coador…
+Tênis Branco Infantil
 
-💸 De: R$ 49,97
-🔥 Por: R$ 19,99
+💸 De: R$ 99,72
+🔥 Por: R$ 39,89
 🏷️ 60% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/9KhqzquX5v
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 6 — Ofertas Pet
-
-**Canal recomendado:** Ofertas Pet
-
-**Horário sugerido:** 17:00 - 20:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
-
-**Texto pronto:**
-
-```txt
-🐶 Oferta para Ofertas Pet
-
-Comedouro Elevado Duplo Ração Gato Porcelana Acrilico 190ml Porta Rac…
-
-💸 De: R$ 78,80
-🔥 Por: R$ 49,90
-🏷️ 37% OFF
-🛒 Loja: Mercado Livre
-
-Ver oferta: https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+Ver oferta: https://s.shopee.com.br/4VcbuBARxQ
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

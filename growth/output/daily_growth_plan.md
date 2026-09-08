@@ -1,18 +1,18 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 08/09/2026 04:48
+Gerado em: 08/09/2026 05:18
 
 ## Categorias prioritárias
 
+- 👟 **Calçados**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 👗 **Moda Feminina**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
-- 👟 **Calçados**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 📦 **Outros**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 💻 **Informática**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 👕 **Moda Masculina**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 - 🍼 **Mãe e Bebê**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 💄 **Beleza**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - ✨ **Moda Plus Size**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
-- 🍳 **Casa e Cozinha**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
+- 📦 **Outros**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 🍳 **Casa e Cozinha**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 🏋️ **Esportes**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 
 ## Top ofertas para destacar
@@ -66,26 +66,26 @@ Gerado em: 08/09/2026 04:48
    - Desconto: 35% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB25251850?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-8. **Webcam Full HD 1080p com Microfone Embutido - Widescreen USB, Ideal p…**
+8. **Papete Feminina Pérolas de Strass**
+   - Categoria: Pet
+   - Loja: Shopee
+   - Preço: R$ 75,00
+   - Desconto: 62% OFF
+   - Link: https://s.shopee.com.br/8KpKCjmFWC
+
+9. **Webcam Full HD 1080p com Microfone Embutido - Widescreen USB, Ideal p…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 44,00
    - Desconto: 77% OFF
    - Link: https://s.shopee.com.br/4VccR8prTC
 
-9. **Hub USB Type C 8 Em 1 Com Leitor De Cartão Divisor 3.0 2.0 SD TF Dock…**
+10. **Hub USB Type C 8 Em 1 Com Leitor De Cartão Divisor 3.0 2.0 SD TF Dock…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 27,99
    - Desconto: 60% OFF
    - Link: https://s.shopee.com.br/5LBiANgZO6
-
-10. **Monitor Gamer ARZOPA M1RC, 27" 2K QHD 180Hz IPS, 1ms, 115% sRGB, USB-…**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 1.199,00
-   - Desconto: 83% OFF
-   - Link: https://s.shopee.com.br/4VccR8h888
 
 ## Ações gratuitas recomendadas
 

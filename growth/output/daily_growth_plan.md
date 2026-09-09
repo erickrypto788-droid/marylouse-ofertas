@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 09/09/2026 20:21
+Gerado em: 09/09/2026 21:21
 
 ## Categorias prioritárias
 
-- 👟 **Calçados**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 📱 **Celulares**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 👟 **Calçados**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - ✨ **Moda Plus Size**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
-- 👕 **Moda Masculina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 - 🍼 **Mãe e Bebê**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 📦 **Outros**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 🔌 **Eletrodomésticos**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-eletrodomesticos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_eletrodomesticos
 - 👗 **Moda Feminina**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 💄 **Beleza**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 🍳 **Casa e Cozinha**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 💻 **Informática**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 📚 **Papelaria**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 
 ## Top ofertas para destacar
 
@@ -59,33 +59,33 @@ Gerado em: 09/09/2026 20:21
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/8V8mSmT8nG
 
-7. **Cabo 4 em 1 Carregamento Rápido PD 65W USB Tipo C Lightning Duplo Nyl…**
+7. **Panela de Pressao Polida Fortlar -A- LAM - Escolha o Tamanho**
+   - Categoria: Casa e Cozinha
+   - Loja: Shopee
+   - Preço: R$ 51,20
+   - Desconto: 23% OFF
+   - Link: https://s.shopee.com.br/80CXjEath3
+
+8. **Cabo 4 em 1 Carregamento Rápido PD 65W USB Tipo C Lightning Duplo Nyl…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 14,88
    - Desconto: 75% OFF
    - Link: https://s.shopee.com.br/8KpMnR4r34
 
-8. **Microfone de lapela duplo redondo magnético A’Gold 2 em 1 iphone tipo…**
+9. **Microfone de lapela duplo redondo magnético A’Gold 2 em 1 iphone tipo…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 69,99
    - Desconto: 50% OFF
    - Link: https://s.shopee.com.br/W6WjKN7w6
 
-9. **Kit 2 Porta Leite em Pó Para Bebê + Colher de Silicone**
+10. **Kit 2 Porta Leite em Pó Para Bebê + Colher de Silicone**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 26,89
    - Desconto: 55% OFF
    - Link: https://s.shopee.com.br/3Vk6ZhkdYb
-
-10. **Webcam Full HD 1080p c/ Microfone**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 32,49
-   - Desconto: 54% OFF
-   - Link: https://s.shopee.com.br/6AkswmZ8Zi
 
 ## Ações gratuitas recomendadas
 

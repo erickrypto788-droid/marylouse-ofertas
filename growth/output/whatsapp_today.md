@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 09/09/2026 20:21
+Gerado em: 09/09/2026 21:21
 
 ## Como usar
 
@@ -147,14 +147,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
 ```txt
 🍳 Oferta para Casa e Cozinha
 
-Panela Elétrica Britânia BPE02A
+Panela de Pressao Polida Fortlar -A- LAM - Escolha o Tamanho
 
-💸 De: R$ 201,43
-🔥 Por: R$ 126,90
-🏷️ 37% OFF
+💸 De: R$ 66,49
+🔥 Por: R$ 51,20
+🏷️ 23% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/9V1Kz22dAF
+Ver oferta: https://s.shopee.com.br/80CXjEath3
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

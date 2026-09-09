@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 09/09/2026 19:18
+Gerado em: 09/09/2026 20:21
 
 ## Como usar
 
@@ -103,8 +103,8 @@ Gerado em: 09/09/2026 19:18
 **Produtos usados:**
 
 - Mini carregador portatil power bank para celular IPNHONE Samsung Xiao…
+- Carregador 168w Para Celular Com Type C Tipo C
 - Leitor Cartão USB C 3 Em 1 OTG SD Micro SD Adaptador Para Celular Not…
-- Power Bank Magnético 10000mAh para iPhone
 
 ---
 

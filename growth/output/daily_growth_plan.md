@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 09/09/2026 21:21
+Gerado em: 09/09/2026 22:04
 
 ## Categorias prioritárias
 
@@ -12,8 +12,8 @@ Gerado em: 09/09/2026 21:21
 - 🔌 **Eletrodomésticos**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-eletrodomesticos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_eletrodomesticos
 - 👗 **Moda Feminina**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 💄 **Beleza**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 🐶 **Pet**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 🍳 **Casa e Cozinha**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
-- 💻 **Informática**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 
 ## Top ofertas para destacar
 
@@ -59,33 +59,33 @@ Gerado em: 09/09/2026 21:21
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/8V8mSmT8nG
 
-7. **Panela de Pressao Polida Fortlar -A- LAM - Escolha o Tamanho**
+7. **Comedouro Automático Ração Aquário Terrario Peixe Tartaruga**
+   - Categoria: Pet
+   - Loja: Mercado Livre
+   - Preço: R$ 117,85
+   - Desconto: 18% OFF
+   - Link: https://www.mercadolivre.com.br/p/MLB44164135?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+8. **Panela de Pressao Polida Fortlar -A- LAM - Escolha o Tamanho**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 51,20
    - Desconto: 23% OFF
    - Link: https://s.shopee.com.br/80CXjEath3
 
-8. **Cabo 4 em 1 Carregamento Rápido PD 65W USB Tipo C Lightning Duplo Nyl…**
+9. **Cabo 4 em 1 Carregamento Rápido PD 65W USB Tipo C Lightning Duplo Nyl…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 14,88
    - Desconto: 75% OFF
    - Link: https://s.shopee.com.br/8KpMnR4r34
 
-9. **Microfone de lapela duplo redondo magnético A’Gold 2 em 1 iphone tipo…**
+10. **Microfone de lapela duplo redondo magnético A’Gold 2 em 1 iphone tipo…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 69,99
    - Desconto: 50% OFF
    - Link: https://s.shopee.com.br/W6WjKN7w6
-
-10. **Kit 2 Porta Leite em Pó Para Bebê + Colher de Silicone**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 26,89
-   - Desconto: 55% OFF
-   - Link: https://s.shopee.com.br/3Vk6ZhkdYb
 
 ## Ações gratuitas recomendadas
 

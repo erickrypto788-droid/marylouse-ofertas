@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 09/09/2026 14:05
+Gerado em: 09/09/2026 15:22
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Blazer Feminino Plus Size Alfaiataria
+Conjunto Mercy Feminino Cropped e Calça em Tecido Dunas Moda Casual C…
 
-💸 De: R$ 157,58
-🔥 Por: R$ 52,00
-🏷️ 67% OFF
+💸 De: R$ 81,05
+🔥 Por: R$ 29,99
+🏷️ 63% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/AAH0mRCvFX
+Ver oferta: https://s.shopee.com.br/6VNiHSvJEB
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

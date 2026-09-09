@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 09/09/2026 17:21
+Gerado em: 09/09/2026 18:19
 
 ## Como usar
 
@@ -12,37 +12,7 @@ Gerado em: 09/09/2026 17:21
 
 ---
 
-## Post 1 — Casa e Cozinha
-
-**Canal recomendado:** Casa e Cozinha
-
-**Horário sugerido:** 18:00 - 20:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
-
-**Texto pronto:**
-
-```txt
-🍳 Oferta para Casa e Cozinha
-
-1.8L Panela De Arroz Elétrica Multi-Camadas/De Dupla Camada Dormitóri…
-
-💸 De: R$ 199,94
-🔥 Por: R$ 67,98
-🏷️ 66% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/1BMB47b4vw
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 2 — Celulares e Tecnologia
+## Post 1 — Celulares e Tecnologia
 
 **Canal recomendado:** Celulares e Tecnologia
 
@@ -72,7 +42,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 3 — Mamãe e Bebê
+## Post 2 — Mamãe e Bebê
 
 **Canal recomendado:** Mamãe e Bebê
 
@@ -102,7 +72,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Beleza e Cuidados
+## Post 3 — Beleza e Cuidados
 
 **Canal recomendado:** Beleza e Cuidados
 
@@ -132,7 +102,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 5 — Moda Feminina
+## Post 4 — Moda Feminina
 
 **Canal recomendado:** Moda Feminina
 
@@ -155,6 +125,36 @@ Conjunto Mercy Feminino Cropped e Calça em Tecido Dunas Moda Casual C…
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/6VNiHSvJEB
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 5 — Casa e Cozinha
+
+**Canal recomendado:** Casa e Cozinha
+
+**Horário sugerido:** 18:00 - 20:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
+
+**Texto pronto:**
+
+```txt
+🍳 Oferta para Casa e Cozinha
+
+Panela Elétrica Britânia BPE02A
+
+💸 De: R$ 201,43
+🔥 Por: R$ 126,90
+🏷️ 37% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/9V1Kz22dAF
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

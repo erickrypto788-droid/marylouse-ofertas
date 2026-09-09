@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 09/09/2026 07:22
+Gerado em: 09/09/2026 08:22
 
 ## Como usar
 
@@ -32,7 +32,7 @@ Gerado em: 09/09/2026 07:22
 
 - Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…
 - Sandália Cartago Baby Masculino
-- Fralda Hipopó Baby Mega Pacotão
+- Kit 3 Fraldas Pampers Supersequinha Mega P
 
 ---
 
@@ -78,9 +78,9 @@ Gerado em: 09/09/2026 07:22
 
 **Produtos usados:**
 
-- Escova Secadora Pet 2 em 1
-- Perfumes Importados Feminino e Masculino 30ML
 - Escova 5 em 1 Profissional
+- Principia Kit Duo c/ 2 Protetores Solares Faciais - PS-01 FPS 60
+- Kit Sundown Fps50 200ml + Sundown Fps50 120ml
 
 ---
 

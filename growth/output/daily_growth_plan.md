@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 09/09/2026 07:22
+Gerado em: 09/09/2026 08:22
 
 ## Categorias prioritárias
 
+- 🍼 **Mãe e Bebê**: 15 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - ❤️ **Saúde**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
-- 🍼 **Mãe e Bebê**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🏋️ **Esportes**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 💄 **Beleza**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🧸 **Brinquedos**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 👟 **Calçados**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 🐶 **Pet**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 💻 **Informática**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 
 ## Top ofertas para destacar
 
@@ -59,33 +59,33 @@ Gerado em: 09/09/2026 07:22
    - Desconto: 55% OFF
    - Link: https://s.shopee.com.br/9AOSze5Etu
 
-7. **Perfumes Importados Feminino e Masculino 30ML**
-   - Categoria: Beleza
-   - Loja: Shopee
-   - Preço: R$ 29,40
-   - Desconto: 51% OFF
-   - Link: https://s.shopee.com.br/4qFSEfFjHv
-
-8. **Escova Secadora Pet 2 em 1**
-   - Categoria: Beleza
-   - Loja: Shopee
-   - Preço: R$ 48,99
-   - Desconto: 75% OFF
-   - Link: https://s.shopee.com.br/9KhsrDvVLC
-
-9. **Mala Case Capa Bolsa Porta Case Notebook Slim 14,6/15,6 Alça Dupla Re…**
+7. **Mala Case Capa Bolsa Porta Case Notebook Slim 14,6/15,6 Alça Dupla Re…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 29,22
    - Desconto: 36% OFF
    - Link: https://s.shopee.com.br/2gAzJj3nBR
 
-10. **Monitor de Pressão Arterial Automático**
+8. **Kit 3 Fraldas Pampers Supersequinha Mega P**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 137,97
+   - Desconto: 26% OFF
+   - Link: https://s.shopee.com.br/AKaRdws8Xo
+
+9. **Monitor de Pressão Arterial Automático**
    - Categoria: Saúde
    - Loja: Shopee
    - Preço: R$ 32,29
    - Desconto: 73% OFF
    - Link: https://s.shopee.com.br/3LQhExlbgz
+
+10. **Carrinho De Boneca Bebe Brinquedo Infantil Passeio**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 20,99
+   - Desconto: 58% OFF
+   - Link: https://s.shopee.com.br/60RSLkhfSj
 
 ## Ações gratuitas recomendadas
 

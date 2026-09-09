@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 09/09/2026 12:22
+Gerado em: 09/09/2026 13:22
 
 ## Como usar
 
@@ -32,7 +32,7 @@ Gerado em: 09/09/2026 12:22
 
 - Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…
 - Kit 3 Fraldas Pampers Supersequinha Mega P
-- Fralda Hipopó Baby Mega Pacotão
+- Kit 2 Porta Leite em Pó Para Bebê + Colher de Silicone
 
 ---
 
@@ -55,8 +55,8 @@ Gerado em: 09/09/2026 12:22
 **Produtos usados:**
 
 - 1.8L Panela De Arroz Elétrica Multi-Camadas/De Dupla Camada Dormitóri…
+- Panela Elétrica Britânia BPE02A
 - Jogo Panelas Tramontina Coimbra 5pçs Preto Antiaderente
-- Conjunto Panelas Antiaderente Tramontina 5peças Vermelho
 
 ---
 

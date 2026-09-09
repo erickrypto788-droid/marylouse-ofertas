@@ -1,17 +1,17 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 09/09/2026 17:04
+Gerado em: 09/09/2026 17:21
 
 ## Categorias prioritárias
 
-- 👗 **Moda Feminina**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
+- 👗 **Moda Feminina**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 📦 **Outros**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- ✨ **Moda Plus Size**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
 - 👕 **Moda Masculina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 - 🍼 **Mãe e Bebê**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 👟 **Calçados**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 💻 **Informática**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 💄 **Beleza**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 💻 **Informática**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 🍳 **Casa e Cozinha**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 📚 **Papelaria**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 
@@ -45,47 +45,47 @@ Gerado em: 09/09/2026 17:04
    - Desconto: 66% OFF
    - Link: https://s.shopee.com.br/1BMB47b4vw
 
-5. **Teclado e mouse sem fio—Compatível com tablet，Notebook e celular, Rec…**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 39,69
-   - Desconto: 60% OFF
-   - Link: https://s.shopee.com.br/70JxPjOoUj
-
-6. **Panela Elétrica Britânia BPE02A**
+5. **Panela Elétrica Britânia BPE02A**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 126,90
    - Desconto: 37% OFF
    - Link: https://s.shopee.com.br/9V1Kz22dAF
 
-7. **Leitor Cartão USB C 3 Em 1 OTG SD Micro SD Adaptador Para Celular Not…**
+6. **Leitor Cartão USB C 3 Em 1 OTG SD Micro SD Adaptador Para Celular Not…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 17,99
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/8V8mSmT8nG
 
-8. **Kit 2 Porta Leite em Pó Para Bebê + Colher de Silicone**
+7. **Kit 2 Porta Leite em Pó Para Bebê + Colher de Silicone**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 26,89
    - Desconto: 55% OFF
    - Link: https://s.shopee.com.br/3Vk6ZhkdYb
 
-9. **Webcam Full HD 1080p c/ Microfone**
+8. **Webcam Full HD 1080p c/ Microfone**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 32,49
    - Desconto: 54% OFF
    - Link: https://s.shopee.com.br/6AkswmZ8Zi
 
-10. **Kit 3 Fraldas Pampers Supersequinha Mega P**
+9. **Kit 3 Fraldas Pampers Supersequinha Mega P**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 137,97
    - Desconto: 26% OFF
    - Link: https://s.shopee.com.br/AKaRdws8Xo
+
+10. **Monitor de Pressão Arterial Automático**
+   - Categoria: Saúde
+   - Loja: Shopee
+   - Preço: R$ 32,29
+   - Desconto: 73% OFF
+   - Link: https://s.shopee.com.br/3LQhExlbgz
 
 ## Ações gratuitas recomendadas
 

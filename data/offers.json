@@ -1,5 +1,39 @@
 [
   {
+    "id": "64bd3572d5c51b5213",
+    "title": "Chapinha Cabelo Profissional 450f Slim Bivolt, Titanium",
+    "raw_title": "Chapinha Cabelo Profissional 450f Slim Bivolt, Titanium",
+    "description": "🔥 Oferta encontrada! 📌 Chapinha Cabelo Profissional 450f Slim Bivolt, Titanium Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Beleza",
+    "old_price": "",
+    "price": "R$ 74,90",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_918345-MLA112463875688_062026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74370100?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "09/09/2026 14:03",
+    "created_at_iso": "2026-09-09T14:03:19",
+    "created_ts": 1788962599
+  },
+  {
+    "id": "58f0185f21e6851e68",
+    "title": "Perfume Feminino Olympia",
+    "raw_title": "Perfume Feminino Olympia",
+    "description": "🔥 50% OFF — Oferta encontrada! 📌 Perfume Feminino Olympia Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Beleza",
+    "old_price": "R$ 368,00",
+    "price": "R$ 184,00",
+    "discount_percent": 50.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_637919-MLA116003089439_082026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77039877?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "09/09/2026 14:02",
+    "created_at_iso": "2026-09-09T14:02:15",
+    "created_ts": 1788962535
+  },
+  {
     "id": "a1f50160aa058a6f56",
     "title": "Manicrem Pasta De Amendoim Integral 100% Amendoim - 1kg",
     "raw_title": "Manicrem Pasta De Amendoim Integral 100% Amendoim - 1kg",
@@ -2394,48 +2428,6 @@
     "niche": {
       "key": "shopee_bolsas_femininas",
       "name": "Bolsas Femininas"
-    }
-  },
-  {
-    "id": "38a069d3a7537419a3",
-    "title": "KIT 3 LENÇOL PARA BERÇO PORTATIL SIDE BY SIDE SAFETY OU COSCO PLUGGY…",
-    "raw_title": "KIT 3 LENÇOL PARA BERÇO PORTATIL SIDE BY SIDE SAFETY OU COSCO PLUGGY 100% Algodão",
-    "description": "🔥 13% OFF — Oferta encontrada! 📌 KIT 3 LENÇOL PARA BERÇO PORTATIL SIDE BY SIDE SAFETY OU COSCO PLUGGY 100% Algodão Confira os detalhes e aproveite enqua...",
-    "marketplace": "Shopee",
-    "category": "Mãe e Bebê",
-    "old_price": "R$ 80,34",
-    "price": "R$ 69,90",
-    "discount_percent": 13.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1yy4l3an6jo4b",
-    "affiliate_url": "https://s.shopee.com.br/6q0WwwtEPN",
-    "created_at": "08/09/2026 13:22",
-    "created_at_iso": "2026-09-08T13:22:11",
-    "created_ts": 1788873731,
-    "niche": {
-      "key": "shopee_mae_bebe",
-      "name": "Mãe e Bebê"
-    }
-  },
-  {
-    "id": "1544d81f7789c893c5",
-    "title": "Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…",
-    "raw_title": "Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Bebê Babete Toalinha Babita Paninho Estampado",
-    "description": "🔥 55% OFF — Oferta encontrada! 📌 Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Bebê Babete Toalinha Babita Paninho Estampado Confira...",
-    "marketplace": "Shopee",
-    "category": "Mãe e Bebê",
-    "old_price": "R$ 59,98",
-    "price": "R$ 26,99",
-    "discount_percent": 55.0,
-    "rating": 4.5,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7rcf9-lton9bme325s31",
-    "affiliate_url": "https://s.shopee.com.br/9AOSze5Etu",
-    "created_at": "08/09/2026 13:21",
-    "created_at_iso": "2026-09-08T13:21:07",
-    "created_ts": 1788873667,
-    "niche": {
-      "key": "shopee_mae_bebe",
-      "name": "Mãe e Bebê"
     }
   }
 ]

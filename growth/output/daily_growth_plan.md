@@ -1,91 +1,91 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 09/09/2026 10:07
+Gerado em: 09/09/2026 10:20
 
 ## Categorias prioritárias
 
 - 🍼 **Mãe e Bebê**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - ❤️ **Saúde**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 🏋️ **Esportes**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
+- 👜 **Bolsas**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 - 👗 **Moda Feminina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 🧸 **Brinquedos**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
+- 💻 **Informática**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
-- 👜 **Bolsas**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 - 💄 **Beleza**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 📚 **Papelaria**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 
 ## Top ofertas para destacar
 
-1. **Mini carregador portatil power bank para celular IPNHONE Samsung Xiao…**
+1. **Capa Maleta Rígida Anti-Impacto Notebook**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 29,22
+   - Desconto: 58% OFF
+   - Link: https://s.shopee.com.br/5VVC1K1qAp
+
+2. **Mini carregador portatil power bank para celular IPNHONE Samsung Xiao…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 25,98
    - Desconto: 71% OFF
    - Link: https://s.shopee.com.br/6q0Z0g6AJp
 
-2. **1.8L Panela De Arroz Elétrica Multi-Camadas/De Dupla Camada Dormitóri…**
+3. **1.8L Panela De Arroz Elétrica Multi-Camadas/De Dupla Camada Dormitóri…**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 67,98
    - Desconto: 66% OFF
    - Link: https://s.shopee.com.br/1BMB47b4vw
 
-3. **Teclado e mouse sem fio—Compatível com tablet，Notebook e celular, Rec…**
+4. **Teclado e mouse sem fio—Compatível com tablet，Notebook e celular, Rec…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 39,69
    - Desconto: 60% OFF
    - Link: https://s.shopee.com.br/70JxPjOoUj
 
-4. **Mochila Couro PU Grande Executiva Para Notebook Trabalho Faculdade Re…**
+5. **Mochila Couro PU Grande Executiva Para Notebook Trabalho Faculdade Re…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 38,98
    - Desconto: 64% OFF
    - Link: https://s.shopee.com.br/AUtpRvAyxL
 
-5. **Mochila Masculina Multifuncional Colorida Antifurto para Notebook e A…**
+6. **Mochila Masculina Multifuncional Colorida Antifurto para Notebook e A…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 29,90
    - Desconto: 50% OFF
    - Link: https://s.shopee.com.br/60RRM0AY5j
 
-6. **Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…**
+7. **Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 26,99
    - Desconto: 55% OFF
    - Link: https://s.shopee.com.br/9AOSze5Etu
 
-7. **Mala Case Capa Bolsa Porta Case Notebook Slim 14,6/15,6 Alça Dupla Re…**
+8. **Mala Case Capa Bolsa Porta Case Notebook Slim 14,6/15,6 Alça Dupla Re…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 29,22
    - Desconto: 36% OFF
    - Link: https://s.shopee.com.br/2gAzJj3nBR
 
-8. **Kit 3 Fraldas Pampers Supersequinha Mega P**
+9. **Kit 3 Fraldas Pampers Supersequinha Mega P**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 137,97
    - Desconto: 26% OFF
    - Link: https://s.shopee.com.br/AKaRdws8Xo
 
-9. **Monitor de Pressão Arterial Automático**
+10. **Monitor de Pressão Arterial Automático**
    - Categoria: Saúde
    - Loja: Shopee
    - Preço: R$ 32,29
    - Desconto: 73% OFF
    - Link: https://s.shopee.com.br/3LQhExlbgz
-
-10. **Carrinho De Boneca Bebe Brinquedo Infantil Passeio**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 20,99
-   - Desconto: 58% OFF
-   - Link: https://s.shopee.com.br/60RSLkhfSj
 
 ## Ações gratuitas recomendadas
 

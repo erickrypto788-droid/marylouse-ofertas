@@ -1,5 +1,39 @@
 [
   {
+    "id": "1e8b175187667f4b97",
+    "title": "Calça Texx Moto Feminina Impermeável",
+    "raw_title": "Calça Feminina Tamanho M Texx Impermeável Com Proteção Conforto Viagem Moto Motociclista",
+    "description": "🚨 Pilote com total segurança e conforto! 🚨 Chegou a Calça Feminina Texx Impermeável com Proteção! Perfeita para suas viagens de moto, garantindo seguran...",
+    "marketplace": "Mercado Livre",
+    "category": "Roupas Femininas",
+    "old_price": "",
+    "price": "R$ 399,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_919715-MLA99509013172_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36244629?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "09/09/2026 10:05",
+    "created_at_iso": "2026-09-09T10:05:46",
+    "created_ts": 1788948346
+  },
+  {
+    "id": "9b7e9dcd49ee04c70b",
+    "title": "Calça Legging Ausare UV 50+",
+    "raw_title": "Calça Legging Fitness Feminina Ausare com Proteção UV 50+ para Academia, Yoga e Pilates",
+    "description": "⚡️ Performance e Proteção UV 50+! A Calça Legging Fitness Feminina Ausare é perfeita para seus treinos de academia, yoga e pilates. Conforto, estilo e s...",
+    "marketplace": "Mercado Livre",
+    "category": "Roupas Femininas",
+    "old_price": "",
+    "price": "R$ 78,90",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_718335-MLA110401793602_052026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB69276346?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "09/09/2026 10:04",
+    "created_at_iso": "2026-09-09T10:04:31",
+    "created_ts": 1788948271
+  },
+  {
     "id": "4441fd588617b98627",
     "title": "Kit Chinelo e Necessaire Luiza Liz",
     "raw_title": "Kit chinelo Luiza Liz e necessaire bolsa de mão pequena kit dia a dia blogueira",
@@ -2464,69 +2498,6 @@
     "niche": {
       "key": "shopee_esportes_lazer",
       "name": "Esportes e Lazer"
-    }
-  },
-  {
-    "id": "0146df38cf090aaa7b",
-    "title": "Kit Roupa Infantil Menina Verão",
-    "raw_title": "Kit 6 Peças de Roupa Infantil Menina Verão Feminino",
-    "description": "🚨 **OFERTA IMPERDÍVEL!** 🚨 Sua pequena pronta para o verão com muito estilo e conforto! ☀️ **Kit 6 Peças de Roupa Infantil Menina Verão Feminino**",
-    "marketplace": "Shopee",
-    "category": "Moda Infantil",
-    "old_price": "R$ 131,32",
-    "price": "R$ 49,90",
-    "discount_percent": 62.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lz-mqbx9jyaolc0c9",
-    "affiliate_url": "https://s.shopee.com.br/Ln4Cno5dB",
-    "created_at": "08/09/2026 09:22",
-    "created_at_iso": "2026-09-08T09:22:04",
-    "created_ts": 1788859324,
-    "niche": {
-      "key": "shopee_moda_infantil",
-      "name": "Moda Infantil"
-    }
-  },
-  {
-    "id": "a0810708e6418604da",
-    "title": "Tênis Infantil Anatômico",
-    "raw_title": "Tênis Baby Infantil Preto Casual Menino Anatômico Respirável Dia a Dia 20 ao 33 Envio Imediato",
-    "description": "👟 SEU PEQUENO MERECE O MELHOR! Este Tênis Baby Infantil Preto é perfeito para o dia a dia. Anatômico, respirável e super confortável para os pezinhos! 👣",
-    "marketplace": "Shopee",
-    "category": "Moda Infantil",
-    "old_price": "R$ 98,17",
-    "price": "R$ 58,90",
-    "discount_percent": 40.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-meucw7y5aqyq0a",
-    "affiliate_url": "https://s.shopee.com.br/40gLJGCLyN",
-    "created_at": "08/09/2026 09:19",
-    "created_at_iso": "2026-09-08T09:19:52",
-    "created_ts": 1788859192,
-    "niche": {
-      "key": "shopee_moda_infantil",
-      "name": "Moda Infantil"
-    }
-  },
-  {
-    "id": "caa3031dac90bf7d0b",
-    "title": "Sandália Babuche Papete Estilosa",
-    "raw_title": "Sandália Babuche Infantil Papete Menina ADULTO",
-    "description": "🔥 IMPERDÍVEL! Sandália Babuche Papete: o conforto e estilo que as meninas e mulheres amam! 👣 Leveza para o dia a dia, com um design super moderno. Perfe...",
-    "marketplace": "Shopee",
-    "category": "Moda Infantil",
-    "old_price": "R$ 40,18",
-    "price": "R$ 22,90",
-    "discount_percent": 43.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1vm4nmfs5xk57",
-    "affiliate_url": "https://s.shopee.com.br/1LfbOdtDgp",
-    "created_at": "08/09/2026 09:18",
-    "created_at_iso": "2026-09-08T09:18:45",
-    "created_ts": 1788859125,
-    "niche": {
-      "key": "shopee_moda_infantil",
-      "name": "Moda Infantil"
     }
   }
 ]

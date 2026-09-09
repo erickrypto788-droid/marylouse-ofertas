@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 09/09/2026 05:03
+Gerado em: 09/09/2026 05:21
 
 ## Como usar
 
@@ -102,37 +102,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Ofertas Pet
-
-**Canal recomendado:** Ofertas Pet
-
-**Horário sugerido:** 17:00 - 20:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
-
-**Texto pronto:**
-
-```txt
-🐶 Oferta para Ofertas Pet
-
-Papete Feminina Pérolas de Strass
-
-💸 De: R$ 197,37
-🔥 Por: R$ 75,00
-🏷️ 62% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/8KpKCjmFWC
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 5 — Mamãe e Bebê
+## Post 4 — Mamãe e Bebê
 
 **Canal recomendado:** Mamãe e Bebê
 
@@ -155,6 +125,36 @@ Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/9AOSze5Etu
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 5 — Ofertas Pet
+
+**Canal recomendado:** Ofertas Pet
+
+**Horário sugerido:** 17:00 - 20:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
+
+**Texto pronto:**
+
+```txt
+🐶 Oferta para Ofertas Pet
+
+Repetidor WiFi Profissional 2800m 6 Antenas Roteador Amplificador de…
+
+💸 De: R$ 115,20
+🔥 Por: R$ 52,99
+🏷️ 54% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/9pe8mweHtJ
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

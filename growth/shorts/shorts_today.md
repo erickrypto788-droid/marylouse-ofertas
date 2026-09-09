@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 09/09/2026 08:22
+Gerado em: 09/09/2026 09:11
 
 ## Como usar
 
@@ -79,8 +79,8 @@ Gerado em: 09/09/2026 08:22
 **Produtos usados:**
 
 - Escova 5 em 1 Profissional
+- Hidratante Morango
 - Principia Kit Duo c/ 2 Protetores Solares Faciais - PS-01 FPS 60
-- Kit Sundown Fps50 200ml + Sundown Fps50 120ml
 
 ---
 
@@ -120,10 +120,14 @@ Gerado em: 09/09/2026 08:22
 
 - growth/shorts/slides/supermercados/01_intro.png
 - growth/shorts/slides/supermercados/02_produto_1.png
+- growth/shorts/slides/supermercados/03_produto_2.png
+- growth/shorts/slides/supermercados/04_produto_3.png
 - growth/shorts/slides/supermercados/05_cta.png
 
 **Produtos usados:**
 
+- Azeite Português Vila Oliva 500ml (3 Un)
 - Hidratante Creme Facial Pele De Porcelana Kokeshi 30g Milagre do Arroz
+- Creme Dental Bioxtra
 
 ---

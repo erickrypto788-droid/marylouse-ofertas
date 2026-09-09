@@ -1,5 +1,22 @@
 [
   {
+    "id": "c73449f776cc3931d4",
+    "title": "Fone Bluetooth Esportivo Lilás",
+    "raw_title": "Fone Bluetooth Esportivo 320mah Fone Sem Fio Fone Academia Lilás",
+    "description": "🎧 Treine com estilo e liberdade total! Este Fone Bluetooth Esportivo Lilás é perfeito para sua academia ou corrida. Sem fios para atrapalhar, só você e...",
+    "marketplace": "Mercado Livre",
+    "category": "Eletrônicos",
+    "old_price": "R$ 78,99",
+    "price": "R$ 55,00",
+    "discount_percent": 30.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_621843-MLA108323387828_032026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66915787?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "09/09/2026 01:02",
+    "created_at_iso": "2026-09-09T01:02:05",
+    "created_ts": 1788915725
+  },
+  {
     "id": "e7b5d19cc2b40e501b",
     "title": "Papete feminina Tiras Pedraria Strass Sola Confort",
     "raw_title": "Papete feminina Tiras Pedraria Strass Sola Confort",
@@ -2330,22 +2347,5 @@
     "created_at": "08/09/2026 01:03",
     "created_at_iso": "2026-09-08T01:03:06",
     "created_ts": 1788829386
-  },
-  {
-    "id": "c2e793502d3d02961e",
-    "title": "Elgin Air Fryer Fritadeira Air Fryer",
-    "raw_title": "Elgin Air Fryer Fritadeira Air Fryer",
-    "description": "🔥 Oferta encontrada! 📌 Elgin Air Fryer Fritadeira Air Fryer Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Mercado Livre",
-    "category": "Casa e Cozinha",
-    "old_price": "",
-    "price": "R$ 212,00",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_963725-MLA113034359792_072026-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50493068?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "08/09/2026 01:01",
-    "created_at_iso": "2026-09-08T01:01:53",
-    "created_ts": 1788829313
   }
 ]

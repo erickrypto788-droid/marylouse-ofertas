@@ -1,5 +1,39 @@
 [
   {
+    "id": "6118ba792652102510",
+    "title": "Samsung Galaxy A55 256gb 8gb Awesome Navy",
+    "raw_title": "Samsung Galaxy A55 256gb 8gb Awesome Navy",
+    "description": "🔥 Oferta encontrada! 📌 Samsung Galaxy A55 256gb 8gb Awesome Navy Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "",
+    "price": "R$ 2.999,99",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_848050-MLA99992132387_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB38283662?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "09/09/2026 02:02",
+    "created_at_iso": "2026-09-09T02:02:37",
+    "created_ts": 1788919357
+  },
+  {
+    "id": "d088df19f476852bee",
+    "title": "Smartphone Samsung Galaxy S23 Ultra 512gb Creme",
+    "raw_title": "Smartphone Samsung Galaxy S23 Ultra 512gb Creme",
+    "description": "🔥 Oferta encontrada! 📌 Smartphone Samsung Galaxy S23 Ultra 512gb Creme Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "",
+    "price": "R$ 5.999,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_662216-MLA99464976462_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39444837?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "09/09/2026 02:01",
+    "created_at_iso": "2026-09-09T02:01:34",
+    "created_ts": 1788919294
+  },
+  {
     "id": "d598800363b1d96e53",
     "title": "Adaptadores Tomada Universal Para Viagem Internacional Compatível Em…",
     "raw_title": "Adaptadores Tomada Universal Para Viagem Internacional Compatível Em +150 Países",
@@ -2292,27 +2326,6 @@
     "niche": {
       "key": "shopee_roupas_masculinas",
       "name": "Roupas Masculinas"
-    }
-  },
-  {
-    "id": "5d2ce86b0605ef82ae",
-    "title": "Conjunto Plus Size Feminino Cropped e Short Saia com Botões P M G GG…",
-    "raw_title": "Conjunto Plus Size Feminino Cropped e Short Saia com Botões P M G GG | Tecido Premium Liverpool",
-    "description": "🔥 50% OFF — Oferta encontrada! 📌 Conjunto Plus Size Feminino Cropped e Short Saia com Botões P M G GG | Tecido Premium Liverpool Confira os detalhes e a...",
-    "marketplace": "Shopee",
-    "category": "Roupas Femininas",
-    "old_price": "R$ 78,86",
-    "price": "R$ 39,43",
-    "discount_percent": 50.0,
-    "rating": 4.7,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820me-mqqfc6m9tc74a9",
-    "affiliate_url": "https://s.shopee.com.br/4qFRlpKcuf",
-    "created_at": "08/09/2026 01:20",
-    "created_at_iso": "2026-09-08T01:20:18",
-    "created_ts": 1788830418,
-    "niche": {
-      "key": "shopee_roupas_femininas",
-      "name": "Roupas Femininas"
     }
   }
 ]

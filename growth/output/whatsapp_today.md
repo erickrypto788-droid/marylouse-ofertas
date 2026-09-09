@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 09/09/2026 01:03
+Gerado em: 09/09/2026 01:21
 
 ## Como usar
 
@@ -57,14 +57,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
 ```txt
 📱 Oferta para Celulares e Tecnologia
 
-Teclado e mouse sem fio—Compatível com tablet，Notebook e celular, Rec…
+Mini carregador portatil power bank para celular IPNHONE Samsung Xiao…
 
-💸 De: R$ 99,22
-🔥 Por: R$ 39,69
-🏷️ 60% OFF
+💸 De: R$ 89,59
+🔥 Por: R$ 25,98
+🏷️ 71% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/70JxPjOoUj
+Ver oferta: https://s.shopee.com.br/6q0Z0g6AJp
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

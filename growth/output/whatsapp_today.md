@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 09/09/2026 22:04
+Gerado em: 09/09/2026 22:21
 
 ## Como usar
 
@@ -87,14 +87,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
 ```txt
 💄 Oferta para Beleza e Cuidados
 
-Perfume Feminino Olympia
+Secador de Cabelo 110v Profissional 3200w - Voltagem 110v
 
-💸 De: R$ 368,00
-🔥 Por: R$ 184,00
+💸 De: R$ 99,98
+🔥 Por: R$ 49,99
 🏷️ 50% OFF
-🛒 Loja: Mercado Livre
+🛒 Loja: Shopee
 
-Ver oferta: https://www.mercadolivre.com.br/p/MLB77039877?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+Ver oferta: https://s.shopee.com.br/qjNGBdxpt
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 09/09/2026 22:04
+Gerado em: 09/09/2026 22:21
 
 ## Como usar
 
@@ -78,9 +78,9 @@ Gerado em: 09/09/2026 22:04
 
 **Produtos usados:**
 
+- Secador de Cabelo 110v Profissional 3200w - Voltagem 110v
+- Perfume Masculino 100ml Fragrância Amadeirada Marcante Sofisticada Lo…
 - Perfume Feminino Olympia
-- Escova 5 em 1 Profissional
-- Chapinha Cabelo Profissional 450f Slim Bivolt, Titanium
 
 ---
 

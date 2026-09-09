@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 09/09/2026 13:22
+Gerado em: 09/09/2026 14:05
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 09/09/2026 13:22
 
 **Produtos usados:**
 
-- Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…
 - Kit 3 Fraldas Pampers Supersequinha Mega P
 - Kit 2 Porta Leite em Pó Para Bebê + Colher de Silicone
+- Tapete Higiênico para Cães
 
 ---
 
@@ -78,9 +78,9 @@ Gerado em: 09/09/2026 13:22
 
 **Produtos usados:**
 
+- Perfume Feminino Olympia
 - Escova 5 em 1 Profissional
-- Hidratante Morango
-- Principia Kit Duo c/ 2 Protetores Solares Faciais - PS-01 FPS 60
+- Chapinha Cabelo Profissional 450f Slim Bivolt, Titanium
 
 ---
 

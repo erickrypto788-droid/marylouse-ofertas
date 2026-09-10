@@ -1,5 +1,22 @@
 [
   {
+    "id": "9a484e0e71332173de",
+    "title": "Impressora Etiquetas + 1.000 Etiquetas",
+    "raw_title": "Impressora Etiquetas Código Barras + 1.000 Etiquetas Cor Branco",
+    "description": "🚀 Agilize seu negócio AGORA! Chegou a Impressora Etiquetas Código Barras + 1.000 Etiquetas Cor Branco! 🏷️ Ideal para otimizar sua organização, estoque e...",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "",
+    "price": "R$ 448,99",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_878767-MLA84806101469_052025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50110319?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "10/09/2026 17:02",
+    "created_at_iso": "2026-09-10T17:02:07",
+    "created_ts": 1789059727
+  },
+  {
     "id": "4c1a8419dc4b95435b",
     "title": "Micro-ondas Britânia 20L Pintura Limpa Fácil BMO23",
     "raw_title": "Micro-ondas Britânia 20L Pintura Limpa Fácil BMO23",
@@ -2378,43 +2395,5 @@
     "created_at": "09/09/2026 17:02",
     "created_at_iso": "2026-09-09T17:02:34",
     "created_ts": 1788973354
-  },
-  {
-    "id": "aaad7cbe4ad946fa9a",
-    "title": "SSD Nvme Asgard 1TB Gen4",
-    "raw_title": "SSD Nvme Asgard AN4 1tb Gen4",
-    "description": "🚀 VELOCIDADE MÁXIMA para seu PC! Chegou o SSD NVMe Asgard AN4 1TB Gen4! ⚡️ Desempenho surreal para jogos e trabalho pesado. Carregamentos instantâneos e...",
-    "marketplace": "Mercado Livre",
-    "category": "Informática",
-    "old_price": "",
-    "price": "R$ 1.449,90",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_638062-MLA99489879142_112025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24522367?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "09/09/2026 17:01",
-    "created_at_iso": "2026-09-09T17:01:24",
-    "created_ts": 1788973284
-  },
-  {
-    "id": "a1a21889fc2539fa60",
-    "title": "Kit 2 Camisas Polo Masculinas 100% Algodão",
-    "raw_title": "KIT 2 Camisa Gola Polo Alta Qualidade 100% Algodão Camiseta Básica Masculina Diversas Cores",
-    "description": "🔥 Estilo e Economia em Dobro! 👕 Garanta seu KIT 2 Camisas Polo Masculinas de ALTA QUALIDADE, 100% Algodão, para um visual impecável e confortável em qua...",
-    "marketplace": "Shopee",
-    "category": "Roupas Masculinas",
-    "old_price": "R$ 99,67",
-    "price": "R$ 59,80",
-    "discount_percent": 40.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81zty-mkjyqctdl34035",
-    "affiliate_url": "https://s.shopee.com.br/6q0XTuUWAe",
-    "created_at": "09/09/2026 16:20",
-    "created_at_iso": "2026-09-09T16:20:25",
-    "created_ts": 1788970825,
-    "niche": {
-      "key": "shopee_roupas_masculinas",
-      "name": "Roupas Masculinas"
-    }
   }
 ]

@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 10/09/2026 06:22
+Gerado em: 10/09/2026 07:05
 
 ## Como usar
 
@@ -87,14 +87,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
 ```txt
 💄 Oferta para Beleza e Cuidados
 
-Secador de Cabelo 110v Profissional 3200w - Voltagem 110v
+Perfume Masculino Millions
 
-💸 De: R$ 99,98
-🔥 Por: R$ 49,99
+💸 De: R$ 368,00
+🔥 Por: R$ 184,00
 🏷️ 50% OFF
-🛒 Loja: Shopee
+🛒 Loja: Mercado Livre
 
-Ver oferta: https://s.shopee.com.br/qjNGBdxpt
+Ver oferta: https://www.mercadolivre.com.br/p/MLB77141871?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

@@ -1,12 +1,12 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 10/09/2026 06:22
+Gerado em: 10/09/2026 07:05
 
 ## Categorias prioritárias
 
 - 🍼 **Mãe e Bebê**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 💄 **Beleza**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 📚 **Papelaria**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
-- 💄 **Beleza**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 👜 **Bolsas**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 - 🍳 **Casa e Cozinha**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 👗 **Moda Feminina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
@@ -17,75 +17,75 @@ Gerado em: 10/09/2026 06:22
 
 ## Top ofertas para destacar
 
-1. **Secador de Cabelo 110v Profissional 3200w - Voltagem 110v**
+1. **Perfume Masculino Millions**
+   - Categoria: Beleza
+   - Loja: Mercado Livre
+   - Preço: R$ 184,00
+   - Desconto: 50% OFF
+   - Link: https://www.mercadolivre.com.br/p/MLB77141871?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+2. **Secador de Cabelo 110v Profissional 3200w - Voltagem 110v**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 49,99
    - Desconto: 50% OFF
    - Link: https://s.shopee.com.br/qjNGBdxpt
 
-2. **Perfume Masculino 100ml Fragrância Amadeirada Marcante Sofisticada Lo…**
+3. **Perfume Masculino 100ml Fragrância Amadeirada Marcante Sofisticada Lo…**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 28,99
    - Desconto: 52% OFF
    - Link: https://s.shopee.com.br/5fod14GtBu
 
-3. **Perfume Feminino Olympia**
+4. **Perfume Feminino Olympia**
    - Categoria: Beleza
    - Loja: Mercado Livre
    - Preço: R$ 184,00
    - Desconto: 50% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB77039877?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-4. **Capa Maleta Rígida Anti-Impacto Notebook**
+5. **Capa Maleta Rígida Anti-Impacto Notebook**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 29,22
    - Desconto: 58% OFF
    - Link: https://s.shopee.com.br/5VVC1K1qAp
 
-5. **Jogo de Panelas Antiaderente 5 Peças Cereja com Revestimento Antiader…**
+6. **Jogo de Panelas Antiaderente 5 Peças Cereja com Revestimento Antiader…**
    - Categoria: Casa e Cozinha
    - Loja: Mercado Livre
    - Preço: R$ 166,65
    - Desconto: 36% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB33652298?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-6. **Fralda Pampers Supersec Mega M**
+7. **Fralda Pampers Supersec Mega M**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 45,99
    - Desconto: 32% OFF
    - Link: https://s.shopee.com.br/4VcfxWBjSr
 
-7. **Carregador 168w Para Celular Com Type C Tipo C**
+8. **Carregador 168w Para Celular Com Type C Tipo C**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 25,88
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/8AVxrPyChg
 
-8. **Panela Elétrica Britânia BPE02A**
+9. **Panela Elétrica Britânia BPE02A**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 126,90
    - Desconto: 37% OFF
    - Link: https://s.shopee.com.br/9V1Kz22dAF
 
-9. **Leitor Cartão USB C 3 Em 1 OTG SD Micro SD Adaptador Para Celular Not…**
+10. **Leitor Cartão USB C 3 Em 1 OTG SD Micro SD Adaptador Para Celular Not…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 17,99
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/8V8mSmT8nG
-
-10. **Mochila Mala Reforçada Notebook Impermeável Escolar Trabalho**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 29,90
-   - Desconto: 27% OFF
-   - Link: https://s.shopee.com.br/20vL7AUHTj
 
 ## Ações gratuitas recomendadas
 

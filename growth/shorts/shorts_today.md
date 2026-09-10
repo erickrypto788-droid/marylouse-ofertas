@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 10/09/2026 06:22
+Gerado em: 10/09/2026 07:05
 
 ## Como usar
 
@@ -78,9 +78,9 @@ Gerado em: 10/09/2026 06:22
 
 **Produtos usados:**
 
+- Perfume Masculino Millions
 - Secador de Cabelo 110v Profissional 3200w - Voltagem 110v
 - Perfume Masculino 100ml Fragrância Amadeirada Marcante Sofisticada Lo…
-- Perfume Feminino Olympia
 
 ---
 

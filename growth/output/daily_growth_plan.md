@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 10/09/2026 04:05
+Gerado em: 10/09/2026 04:19
 
 ## Categorias prioritárias
 
@@ -12,8 +12,8 @@ Gerado em: 10/09/2026 04:05
 - ❤️ **Saúde**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 🧸 **Brinquedos**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 👜 **Bolsas**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 - 📚 **Papelaria**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
-- 🧒 **Moda Infantil**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-infantil.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-infantil
 
 ## Top ofertas para destacar
 
@@ -80,12 +80,12 @@ Gerado em: 10/09/2026 04:05
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/8V8mSmT8nG
 
-10. **Kit Pano de Boca 12 unidades 30x30cm 100%algodao**
-   - Categoria: Mãe e Bebê
+10. **Mochila Masculina Bolsa Feminina Notebook Escolar Resistente Oferta**
+   - Categoria: Informática
    - Loja: Shopee
-   - Preço: R$ 28,99
-   - Desconto: 64% OFF
-   - Link: https://s.shopee.com.br/9AOVW5pV0L
+   - Preço: R$ 29,90
+   - Desconto: 25% OFF
+   - Link: https://s.shopee.com.br/6q0anveMIe
 
 ## Ações gratuitas recomendadas
 

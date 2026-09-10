@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 10/09/2026 17:20
+Gerado em: 10/09/2026 18:22
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
 ```txt
 👟 Oferta para Moda e Calçados
 
-Tênis Masculino Academia Esportivo
+Kit 3 Pares Chinelo Infantil Menina
 
-💸 De: R$ 119,75
-🔥 Por: R$ 47,90
+💸 De: R$ 69,75
+🔥 Por: R$ 27,90
 🏷️ 60% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/9AOWBLcrqN
+Ver oferta: https://s.shopee.com.br/5q84Xn2UNr
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

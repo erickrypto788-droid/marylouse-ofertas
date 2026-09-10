@@ -1,15 +1,15 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 10/09/2026 02:14
+Gerado em: 10/09/2026 02:20
 
 ## Categorias prioritárias
 
 - 💄 **Beleza**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🍼 **Mãe e Bebê**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🏋️ **Esportes**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
+- ❤️ **Saúde**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 🧸 **Brinquedos**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 🔌 **Eletrodomésticos**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-eletrodomesticos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_eletrodomesticos
 - 👗 **Moda Feminina**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 🍳 **Casa e Cozinha**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 📚 **Papelaria**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
@@ -66,26 +66,26 @@ Gerado em: 10/09/2026 02:14
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/8V8mSmT8nG
 
-8. **Carrinho de Controle Remoto Esportivo Competição Ferrari Lamborghini…**
+8. **Aparelho de Pressão Digital de Pulso AUXOM Recarregável com APP Wi-Fi…**
+   - Categoria: Saúde
+   - Loja: Shopee
+   - Preço: R$ 38,99
+   - Desconto: 66% OFF
+   - Link: https://s.shopee.com.br/6L4K4lkIDB
+
+9. **Garrafa Térmica 1 Litro Com Termômetro Led Para Chás / Café Design Mo…**
+   - Categoria: Saúde
+   - Loja: Shopee
+   - Preço: R$ 44,95
+   - Desconto: 59% OFF
+   - Link: https://s.shopee.com.br/3g3YtruigE
+
+10. **Carrinho de Controle Remoto Esportivo Competição Ferrari Lamborghini…**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 20,54
    - Desconto: 59% OFF
    - Link: https://s.shopee.com.br/2qURqDvASD
-
-9. **Cadiveu Essentials Quartzo Shine Quartzo Líquido Condicionante 65ml**
-   - Categoria: Beleza
-   - Loja: Shopee
-   - Preço: R$ 27,90
-   - Desconto: 51% OFF
-   - Link: https://s.shopee.com.br/5LBmcSe9rw
-
-10. **Comedouro Automático Ração Aquário Terrario Peixe Tartaruga**
-   - Categoria: Pet
-   - Loja: Mercado Livre
-   - Preço: R$ 117,85
-   - Desconto: 18% OFF
-   - Link: https://www.mercadolivre.com.br/p/MLB44164135?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ## Ações gratuitas recomendadas
 

@@ -1,5 +1,47 @@
 [
   {
+    "id": "ff0a20bcc4dfd2c8e2",
+    "title": "Tenis Infantil Feminino Menina Escolar Pronta Entrega",
+    "raw_title": "Tenis Infantil Feminino Menina Escolar Pronta Entrega",
+    "description": "🔥 42% OFF — Oferta encontrada! 📌 Tenis Infantil Feminino Menina Escolar Pronta Entrega Confira os detalhes e aproveite enquanto a oferta estiver disponí...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Femininos",
+    "old_price": "R$ 94,66",
+    "price": "R$ 54,90",
+    "discount_percent": 42.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lk-msy1v6ausykn5b",
+    "affiliate_url": "https://s.shopee.com.br/9peD2gYeZ2",
+    "created_at": "10/09/2026 14:17",
+    "created_at_iso": "2026-09-10T14:17:27",
+    "created_ts": 1789049847,
+    "niche": {
+      "key": "shopee_sapatos_femininos",
+      "name": "Sapatos Femininos"
+    }
+  },
+  {
+    "id": "1c562dee7b8bf02f63",
+    "title": "Tênis Feminino Casual Blogueira",
+    "raw_title": "Tênis Feminino Casual Blogueira Confortável e Estiloso Envio Rápido",
+    "description": "✨ ESTILO E CONFORTO COM PREÇO INCRÍVEL! ✨ Arrase com o Tênis Feminino Casual Blogueira, perfeito para o dia a dia! Confortável, estiloso e com envio ráp...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Femininos",
+    "old_price": "R$ 109,67",
+    "price": "R$ 49,35",
+    "discount_percent": 55.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lc-ml81dad8dqmf31",
+    "affiliate_url": "https://s.shopee.com.br/9V1Me4ZvF0",
+    "created_at": "10/09/2026 14:16",
+    "created_at_iso": "2026-09-10T14:16:23",
+    "created_ts": 1789049783,
+    "niche": {
+      "key": "shopee_sapatos_femininos",
+      "name": "Sapatos Femininos"
+    }
+  },
+  {
     "id": "8f5595c3a8105687bc",
     "title": "Umidificador Ultrassônico 1.5L Silencioso",
     "raw_title": "Difusor Ar Umidificador Umidificador Ar 1.5l Humidifiicador Ar Ultrassonico Umidificador Doméstico Para Quarto Sala Berçário Operação Silenciosa Umidificação...",
@@ -2356,39 +2398,5 @@
       "key": "shopee_roupas_femininas",
       "name": "Roupas Femininas"
     }
-  },
-  {
-    "id": "64bd3572d5c51b5213",
-    "title": "Chapinha Cabelo Profissional 450f Slim Bivolt, Titanium",
-    "raw_title": "Chapinha Cabelo Profissional 450f Slim Bivolt, Titanium",
-    "description": "🔥 Oferta encontrada! 📌 Chapinha Cabelo Profissional 450f Slim Bivolt, Titanium Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Mercado Livre",
-    "category": "Beleza",
-    "old_price": "",
-    "price": "R$ 74,90",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_918345-MLA112463875688_062026-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74370100?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "09/09/2026 14:03",
-    "created_at_iso": "2026-09-09T14:03:19",
-    "created_ts": 1788962599
-  },
-  {
-    "id": "58f0185f21e6851e68",
-    "title": "Perfume Feminino Olympia",
-    "raw_title": "Perfume Feminino Olympia",
-    "description": "🔥 50% OFF — Oferta encontrada! 📌 Perfume Feminino Olympia Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Mercado Livre",
-    "category": "Beleza",
-    "old_price": "R$ 368,00",
-    "price": "R$ 184,00",
-    "discount_percent": 50.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_637919-MLA116003089439_082026-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77039877?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "09/09/2026 14:02",
-    "created_at_iso": "2026-09-09T14:02:15",
-    "created_ts": 1788962535
   }
 ]

@@ -1,5 +1,22 @@
 [
   {
+    "id": "9e16ae5e606ca24964",
+    "title": "Fone Bluetooth Redmi",
+    "raw_title": "Fone Bluetooth Redmi",
+    "description": "🎧 OFERTA RELÂMPAGO! Fone Bluetooth Redmi! Liberdade e qualidade de som para o seu dia a dia, sem fios! Aproveite essa chance única. 🚚 Frete grátis!",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "R$ 43,00",
+    "price": "R$ 35,00",
+    "discount_percent": 19.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_918309-MLA97869219589_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62010143?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "10/09/2026 11:03",
+    "created_at_iso": "2026-09-10T11:03:07",
+    "created_ts": 1789038187
+  },
+  {
     "id": "6129a4a8981425ea71",
     "title": "CONJUNTO PATY FEMININO LUXO - SAIA COM CROPPED DE AMARRAÇÃO (PAULA)",
     "raw_title": "CONJUNTO PATY FEMININO LUXO - SAIA COM CROPPED DE AMARRAÇÃO (PAULA)",
@@ -2302,22 +2319,5 @@
       "key": "shopee_papelaria",
       "name": "Papelaria"
     }
-  },
-  {
-    "id": "f4ce6e4e4365b59c60",
-    "title": "Jogo Panelas Tramontina Coimbra 5pçs Preto Antiaderente",
-    "raw_title": "Jogo Panelas Tramontina Coimbra 5pçs Preto Antiaderente",
-    "description": "🔥 Oferta encontrada! 📌 Jogo Panelas Tramontina Coimbra 5pçs Preto Antiaderente Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Mercado Livre",
-    "category": "Casa e Cozinha",
-    "old_price": "",
-    "price": "R$ 213,89",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_737133-MLA95400026102_102025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39387638?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "09/09/2026 11:03",
-    "created_at_iso": "2026-09-09T11:03:04",
-    "created_ts": 1788951784
   }
 ]

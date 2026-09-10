@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 10/09/2026 12:23
+Gerado em: 10/09/2026 13:20
 
 ## Categorias prioritárias
 
@@ -10,10 +10,10 @@ Gerado em: 10/09/2026 12:23
 - 💄 **Beleza**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - ✨ **Moda Plus Size**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
 - 🍼 **Mãe e Bebê**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 🍳 **Casa e Cozinha**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
+- 👟 **Calçados**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 💻 **Informática**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 📚 **Papelaria**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
-- 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 🍳 **Casa e Cozinha**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
+- 📚 **Papelaria**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 
 ## Top ofertas para destacar
 
@@ -73,19 +73,19 @@ Gerado em: 10/09/2026 12:23
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/8AVxrPyChg
 
-9. **Panela Elétrica Britânia BPE02A**
-   - Categoria: Casa e Cozinha
-   - Loja: Shopee
-   - Preço: R$ 126,90
-   - Desconto: 37% OFF
-   - Link: https://s.shopee.com.br/9V1Kz22dAF
-
-10. **Kit Borrifadores Azeite e Vinagre**
+9. **Kit Borrifadores Azeite e Vinagre**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 19,99
    - Desconto: 71% OFF
    - Link: https://s.shopee.com.br/1BMEK05Cw0
+
+10. **Galheteiro Borrifador 2 em 1**
+   - Categoria: Casa e Cozinha
+   - Loja: Shopee
+   - Preço: R$ 20,00
+   - Desconto: 71% OFF
+   - Link: https://s.shopee.com.br/1AGvr9eIl
 
 ## Ações gratuitas recomendadas
 

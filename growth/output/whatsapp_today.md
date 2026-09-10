@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 10/09/2026 03:21
+Gerado em: 10/09/2026 04:05
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
 ```txt
 🍳 Oferta para Casa e Cozinha
 
-Panela de Pressao Polida Fortlar -A- LAM - Escolha o Tamanho
+Jogo de Panelas Antiaderente 5 Peças Cereja com Revestimento Antiader…
 
-💸 De: R$ 66,49
-🔥 Por: R$ 51,20
-🏷️ 23% OFF
-🛒 Loja: Shopee
+💸 De: R$ 260,00
+🔥 Por: R$ 166,65
+🏷️ 36% OFF
+🛒 Loja: Mercado Livre
 
-Ver oferta: https://s.shopee.com.br/80CXjEath3
+Ver oferta: https://www.mercadolivre.com.br/p/MLB33652298?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

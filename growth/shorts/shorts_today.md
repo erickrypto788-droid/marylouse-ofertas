@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 10/09/2026 17:04
+Gerado em: 10/09/2026 17:20
 
 ## Como usar
 
@@ -78,9 +78,9 @@ Gerado em: 10/09/2026 17:04
 
 **Produtos usados:**
 
+- Perfumes Brand Collection 25ml - Fragrâncias femininas
+- Secador Profissional com Difusor 127V ou 220V 5 Temperaturas Turbo Ío…
 - Perfume Masculino Millions
-- Secador de Cabelo 110v Profissional 3200w - Voltagem 110v
-- Perfume Masculino 100ml Fragrância Amadeirada Marcante Sofisticada Lo…
 
 ---
 

@@ -1,91 +1,91 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 10/09/2026 17:04
+Gerado em: 10/09/2026 17:20
 
 ## Categorias prioritárias
 
+- 💄 **Beleza**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 📱 **Celulares**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 👟 **Calçados**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 🍳 **Casa e Cozinha**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
-- ✨ **Moda Plus Size**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
-- 💻 **Informática**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 🍼 **Mãe e Bebê**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 💄 **Beleza**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 💻 **Informática**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 🔌 **Eletrodomésticos**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-eletrodomesticos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_eletrodomesticos
 - 📦 **Outros**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- ✨ **Moda Plus Size**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
 - 📚 **Papelaria**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 
 ## Top ofertas para destacar
 
-1. **SSD Portátil Externo E61**
+1. **Perfumes Brand Collection 25ml - Fragrâncias femininas**
+   - Categoria: Beleza
+   - Loja: Shopee
+   - Preço: R$ 38,00
+   - Desconto: 62% OFF
+   - Link: https://s.shopee.com.br/1gIVW032QJ
+
+2. **Secador Profissional com Difusor 127V ou 220V 5 Temperaturas Turbo Ío…**
+   - Categoria: Beleza
+   - Loja: Shopee
+   - Preço: R$ 78,00
+   - Desconto: 51% OFF
+   - Link: https://s.shopee.com.br/7KwsGPqCE9
+
+3. **SSD Portátil Externo E61**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 57,46
    - Desconto: 74% OFF
    - Link: https://s.shopee.com.br/9fKmNV1KJG
 
-2. **Perfume Masculino Millions**
+4. **Perfume Masculino Millions**
    - Categoria: Beleza
    - Loja: Mercado Livre
    - Preço: R$ 184,00
    - Desconto: 50% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB77141871?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-3. **Secador de Cabelo 110v Profissional 3200w - Voltagem 110v**
+5. **Secador de Cabelo 110v Profissional 3200w - Voltagem 110v**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 49,99
    - Desconto: 50% OFF
    - Link: https://s.shopee.com.br/qjNGBdxpt
 
-4. **Perfume Masculino 100ml Fragrância Amadeirada Marcante Sofisticada Lo…**
+6. **Perfume Masculino 100ml Fragrância Amadeirada Marcante Sofisticada Lo…**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 28,99
    - Desconto: 52% OFF
    - Link: https://s.shopee.com.br/5fod14GtBu
 
-5. **Amplificador De Imagem Da Tela Do Celular Lupa 3D 21,6CM*16,6CM*2,7CM…**
+7. **Amplificador De Imagem Da Tela Do Celular Lupa 3D 21,6CM*16,6CM*2,7CM…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 17,99
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/Ln7nJPLN3
 
-6. **Jogo de Panelas Antiaderente 5 Peças Cereja com Revestimento Antiader…**
+8. **Jogo de Panelas Antiaderente 5 Peças Cereja com Revestimento Antiader…**
    - Categoria: Casa e Cozinha
    - Loja: Mercado Livre
    - Preço: R$ 166,65
    - Desconto: 36% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB33652298?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-7. **Fralda Pampers Supersec Mega M**
+9. **Fralda Pampers Supersec Mega M**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 45,99
    - Desconto: 32% OFF
    - Link: https://s.shopee.com.br/4VcfxWBjSr
 
-8. **Carregador 168w Para Celular Com Type C Tipo C**
+10. **Carregador 168w Para Celular Com Type C Tipo C**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 25,88
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/8AVxrPyChg
-
-9. **Kit Borrifadores Azeite e Vinagre**
-   - Categoria: Casa e Cozinha
-   - Loja: Shopee
-   - Preço: R$ 19,99
-   - Desconto: 71% OFF
-   - Link: https://s.shopee.com.br/1BMEK05Cw0
-
-10. **Galheteiro Borrifador 2 em 1**
-   - Categoria: Casa e Cozinha
-   - Loja: Shopee
-   - Preço: R$ 20,00
-   - Desconto: 71% OFF
-   - Link: https://s.shopee.com.br/1AGvr9eIl
 
 ## Ações gratuitas recomendadas
 

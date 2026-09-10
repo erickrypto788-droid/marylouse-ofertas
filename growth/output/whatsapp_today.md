@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 10/09/2026 17:04
+Gerado em: 10/09/2026 17:20
 
 ## Como usar
 
@@ -12,7 +12,37 @@ Gerado em: 10/09/2026 17:04
 
 ---
 
-## Post 1 — Celulares e Tecnologia
+## Post 1 — Beleza e Cuidados
+
+**Canal recomendado:** Beleza e Cuidados
+
+**Horário sugerido:** 12:00 - 15:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
+
+**Texto pronto:**
+
+```txt
+💄 Oferta para Beleza e Cuidados
+
+Perfumes Brand Collection 25ml - Fragrâncias femininas
+
+💸 De: R$ 100,00
+🔥 Por: R$ 38,00
+🏷️ 62% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/1gIVW032QJ
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 2 — Celulares e Tecnologia
 
 **Canal recomendado:** Celulares e Tecnologia
 
@@ -35,36 +65,6 @@ Amplificador De Imagem Da Tela Do Celular Lupa 3D 21,6CM*16,6CM*2,7CM…
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/Ln7nJPLN3
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 2 — Beleza e Cuidados
-
-**Canal recomendado:** Beleza e Cuidados
-
-**Horário sugerido:** 12:00 - 15:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
-
-**Texto pronto:**
-
-```txt
-💄 Oferta para Beleza e Cuidados
-
-Perfume Masculino Millions
-
-💸 De: R$ 368,00
-🔥 Por: R$ 184,00
-🏷️ 50% OFF
-🛒 Loja: Mercado Livre
-
-Ver oferta: https://www.mercadolivre.com.br/p/MLB77141871?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

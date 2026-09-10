@@ -1,5 +1,22 @@
 [
   {
+    "id": "8f5595c3a8105687bc",
+    "title": "Umidificador Ultrassônico 1.5L Silencioso",
+    "raw_title": "Difusor Ar Umidificador Umidificador Ar 1.5l Humidifiicador Ar Ultrassonico Umidificador Doméstico Para Quarto Sala Berçário Operação Silenciosa Umidificação...",
+    "description": "🌬️ Respire melhor! Umidificador com DESCONTO IMPERDÍVEL! Transforme o ambiente da sua casa com o Umidificador Ultrassônico Doméstico 1.5L. Perfeito para...",
+    "marketplace": "Mercado Livre",
+    "category": "Pet",
+    "old_price": "R$ 260,00",
+    "price": "R$ 132,60",
+    "discount_percent": 49.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_948271-MLA114975044670_082026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77579661?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "10/09/2026 14:01",
+    "created_at_iso": "2026-09-10T14:01:41",
+    "created_ts": 1789048901
+  },
+  {
     "id": "27b147a6288502c12e",
     "title": "Botina De Segurança BICO PVC Em COURO Para Trabalho Atacado de EPI Re…",
     "raw_title": "Botina De Segurança BICO PVC Em COURO Para Trabalho Atacado de EPI Resistente Serviços Gerais",
@@ -2373,47 +2390,5 @@
     "created_at": "09/09/2026 14:02",
     "created_at_iso": "2026-09-09T14:02:15",
     "created_ts": 1788962535
-  },
-  {
-    "id": "a1f50160aa058a6f56",
-    "title": "Manicrem Pasta De Amendoim Integral 100% Amendoim - 1kg",
-    "raw_title": "Manicrem Pasta De Amendoim Integral 100% Amendoim - 1kg",
-    "description": "🔥 31% OFF — Oferta encontrada! 📌 Manicrem Pasta De Amendoim Integral 100% Amendoim - 1kg Confira os detalhes e aproveite enquanto a oferta estiver dispo...",
-    "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
-    "old_price": "R$ 34,71",
-    "price": "R$ 23,95",
-    "discount_percent": 31.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lsmu3092h72l8b",
-    "affiliate_url": "https://s.shopee.com.br/5VVCDg4rj5",
-    "created_at": "09/09/2026 13:20",
-    "created_at_iso": "2026-09-09T13:20:42",
-    "created_ts": 1788960042,
-    "niche": {
-      "key": "shopee_bebidas_alimentos",
-      "name": "Bebidas e Alimentos"
-    }
-  },
-  {
-    "id": "06c841a86ce2c8eccd",
-    "title": "Kit 2 Porta Leite em Pó Para Bebê + Colher de Silicone",
-    "raw_title": "Kit 2 Porta Leite em Pó Para Bebê + Colher de Silicone",
-    "description": "🔥 55% OFF — Oferta encontrada! 📌 Kit 2 Porta Leite em Pó Para Bebê + Colher de Silicone Confira os detalhes e aproveite enquanto a oferta estiver dispon...",
-    "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
-    "old_price": "R$ 59,76",
-    "price": "R$ 26,89",
-    "discount_percent": 55.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mdw3sefbaozla9",
-    "affiliate_url": "https://s.shopee.com.br/3Vk6ZhkdYb",
-    "created_at": "09/09/2026 13:19",
-    "created_at_iso": "2026-09-09T13:19:38",
-    "created_ts": 1788959978,
-    "niche": {
-      "key": "shopee_bebidas_alimentos",
-      "name": "Bebidas e Alimentos"
-    }
   }
 ]

@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 10/09/2026 20:07
+Gerado em: 10/09/2026 20:21
 
 ## Como usar
 
@@ -103,8 +103,8 @@ Gerado em: 10/09/2026 20:07
 **Produtos usados:**
 
 - Amplificador De Imagem Da Tela Do Celular Lupa 3D 21,6CM*16,6CM*2,7CM…
-- Carregador 168w Para Celular Com Type C Tipo C
 - HUB 3 EM 1 Tipo C HDMI USB
+- Cabo 4 em 1 Carregamento Rápido PD 65W USB Tipo C Lightning Duplo Nyl…
 
 ---
 
@@ -121,10 +121,12 @@ Gerado em: 10/09/2026 20:07
 - growth/shorts/slides/supermercados/01_intro.png
 - growth/shorts/slides/supermercados/02_produto_1.png
 - growth/shorts/slides/supermercados/03_produto_2.png
+- growth/shorts/slides/supermercados/04_produto_3.png
 - growth/shorts/slides/supermercados/05_cta.png
 
 **Produtos usados:**
 
+- Kit Banheiro Infantil Lego | Porta Escova + Porta Papel Higiênico + P…
 - Arroz Motigome 1kg
 - 100 Saco De Lixo 60l Preto Saco Lixo Resistente Reforçado
 

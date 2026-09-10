@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 10/09/2026 21:18
+Gerado em: 10/09/2026 22:22
 
 ## Como usar
 
@@ -32,7 +32,7 @@ Gerado em: 10/09/2026 21:18
 
 - Kit Pano de Boca 12 unidades 30x30cm 100%algodao
 - Troninho Infantil com Escada
-- Fralda Pampers Supersec Mega M
+- Fralda Pampers Supersequinha Tamanho G 80 Unidades
 
 ---
 

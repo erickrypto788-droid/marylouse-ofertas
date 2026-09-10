@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 10/09/2026 21:18
+Gerado em: 10/09/2026 22:22
 
 ## Categorias prioritárias
 
-- 💄 **Beleza**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 🍼 **Mãe e Bebê**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 🍼 **Mãe e Bebê**: 15 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🏋️ **Esportes**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 🍳 **Casa e Cozinha**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
+- 🍳 **Casa e Cozinha**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 🧸 **Brinquedos**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
+- 💄 **Beleza**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 👟 **Calçados**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 🧒 **Moda Infantil**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-infantil.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-infantil
 - 💻 **Informática**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 🔌 **Eletrodomésticos**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-eletrodomesticos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_eletrodomesticos
 - 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
+- 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 
 ## Top ofertas para destacar
 
@@ -45,47 +45,47 @@ Gerado em: 10/09/2026 21:18
    - Desconto: 50% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB77141871?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-5. **Secador de Cabelo 110v Profissional 3200w - Voltagem 110v**
-   - Categoria: Beleza
-   - Loja: Shopee
-   - Preço: R$ 49,99
-   - Desconto: 50% OFF
-   - Link: https://s.shopee.com.br/qjNGBdxpt
-
-6. **Perfume Masculino 100ml Fragrância Amadeirada Marcante Sofisticada Lo…**
-   - Categoria: Beleza
-   - Loja: Shopee
-   - Preço: R$ 28,99
-   - Desconto: 52% OFF
-   - Link: https://s.shopee.com.br/5fod14GtBu
-
-7. **Jogo de Panelas 5 Peças Preto Nacional**
+5. **Jogo de Panelas 5 Peças Preto Nacional**
    - Categoria: Casa e Cozinha
    - Loja: Mercado Livre
    - Preço: R$ 164,80
    - Desconto: 30% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB50984468?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-8. **Amplificador De Imagem Da Tela Do Celular Lupa 3D 21,6CM*16,6CM*2,7CM…**
+6. **Amplificador De Imagem Da Tela Do Celular Lupa 3D 21,6CM*16,6CM*2,7CM…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 17,99
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/Ln7nJPLN3
 
-9. **Jogo de Panelas Antiaderente 5 Peças Cereja com Revestimento Antiader…**
+7. **Jogo de Panelas Antiaderente 5 Peças Cereja com Revestimento Antiader…**
    - Categoria: Casa e Cozinha
    - Loja: Mercado Livre
    - Preço: R$ 166,65
    - Desconto: 36% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB33652298?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-10. **Fralda Pampers Supersec Mega M**
+8. **Fralda Pampers Supersec Mega M**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 45,99
    - Desconto: 32% OFF
    - Link: https://s.shopee.com.br/4VcfxWBjSr
+
+9. **Fralda Pampers Supersequinha Tamanho G 80 Unidades**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 110,00
+   - Desconto: 22% OFF
+   - Link: https://s.shopee.com.br/5fodLf7I6D
+
+10. **Kit Escova Higiene 4 em 1 Portátil**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 25,99
+   - Desconto: 54% OFF
+   - Link: https://s.shopee.com.br/1LffS02pTH
 
 ## Ações gratuitas recomendadas
 

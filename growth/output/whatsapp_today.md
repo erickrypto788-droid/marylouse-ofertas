@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 10/09/2026 15:03
+Gerado em: 10/09/2026 15:22
 
 ## Como usar
 
@@ -27,14 +27,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
 ```txt
 📱 Oferta para Celulares e Tecnologia
 
-Carregador 168w Para Celular Com Type C Tipo C
+Amplificador De Imagem Da Tela Do Celular Lupa 3D 21,6CM*16,6CM*2,7CM…
 
-💸 De: R$ 43,13
-🔥 Por: R$ 25,88
+💸 De: R$ 29,98
+🔥 Por: R$ 17,99
 🏷️ 40% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/8AVxrPyChg
+Ver oferta: https://s.shopee.com.br/Ln7nJPLN3
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
@@ -132,37 +132,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 5 — Moda Feminina
-
-**Canal recomendado:** Moda Feminina
-
-**Horário sugerido:** 12:00 - 14:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
-
-**Texto pronto:**
-
-```txt
-👗 Oferta para Moda Feminina
-
-Conjunto Mercy Feminino Cropped e Calça em Tecido Dunas Moda Casual C…
-
-💸 De: R$ 81,05
-🔥 Por: R$ 29,99
-🏷️ 63% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/6VNiHSvJEB
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 6 — Casa e Cozinha
+## Post 5 — Casa e Cozinha
 
 **Canal recomendado:** Casa e Cozinha
 
@@ -185,6 +155,36 @@ Kit Borrifadores Azeite e Vinagre
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/1BMEK05Cw0
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 6 — Moda e Calçados
+
+**Canal recomendado:** Moda e Calçados
+
+**Horário sugerido:** 12:00 - 15:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
+
+**Texto pronto:**
+
+```txt
+👟 Oferta para Moda e Calçados
+
+Tênis Masculino Academia Esportivo
+
+💸 De: R$ 119,75
+🔥 Por: R$ 47,90
+🏷️ 60% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/9AOWBLcrqN
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

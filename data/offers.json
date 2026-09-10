@@ -1,5 +1,22 @@
 [
   {
+    "id": "180e5d1b096b2c3dbe",
+    "title": "Jogo de Panelas 5 Peças Preto Nacional",
+    "raw_title": "Jogo Panelas 5 Peças Tradicional Preto Nacional",
+    "description": "🚨 IMPERDÍVEL! 🚨 Renove sua cozinha com o Jogo de Panelas 5 Peças Tradicional Preto Nacional! Qualidade e um preço incrível pra você. 🚚 Frete Grátis para...",
+    "marketplace": "Mercado Livre",
+    "category": "Casa e Cozinha",
+    "old_price": "R$ 233,90",
+    "price": "R$ 164,80",
+    "discount_percent": 30.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_780839-MLA111506558194_062026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50984468?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "10/09/2026 21:02",
+    "created_at_iso": "2026-09-10T21:02:35",
+    "created_ts": 1789074155
+  },
+  {
     "id": "c4b5d5c56c232345a2",
     "title": "Bebê Reborn 100% Silicone Realista Boneca Barata Completa",
     "raw_title": "Bebê Reborn 100% Silicone Realista Boneca Barata Completa",
@@ -2537,22 +2554,5 @@
       "key": "shopee_eletrodomesticos",
       "name": "Eletrodomésticos"
     }
-  },
-  {
-    "id": "41911bd539692181d5",
-    "title": "Cabo 4 em 1 Carregamento Rápido PD 65W USB Tipo C Lightning Duplo Nyl…",
-    "raw_title": "Cabo 4 em 1 Carregamento Rápido PD 65W USB Tipo C Lightning Duplo Nylon Trançado para Android e iOS",
-    "description": "🔥 75% OFF — Oferta encontrada! 📌 Cabo 4 em 1 Carregamento Rápido PD 65W USB Tipo C Lightning Duplo Nylon Trançado para Android e iOS Confira os detalhes...",
-    "marketplace": "Shopee",
-    "category": "Roweder Filial 2",
-    "old_price": "R$ 59,52",
-    "price": "R$ 14,88",
-    "discount_percent": 75.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mckdfy7a3capa7",
-    "affiliate_url": "https://s.shopee.com.br/8KpMnR4r34",
-    "created_at": "09/09/2026 20:20",
-    "created_at_iso": "2026-09-09T20:20:15",
-    "created_ts": 1788985215
   }
 ]

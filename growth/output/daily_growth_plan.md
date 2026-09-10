@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 10/09/2026 20:21
+Gerado em: 10/09/2026 21:04
 
 ## Categorias prioritárias
 
 - 💄 **Beleza**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 🍳 **Casa e Cozinha**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 🍼 **Mãe e Bebê**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🏋️ **Esportes**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 🍳 **Casa e Cozinha**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 🧸 **Brinquedos**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 👟 **Calçados**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 🧒 **Moda Infantil**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-infantil.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-infantil
 - 💻 **Informática**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 🔌 **Eletrodomésticos**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-eletrodomesticos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_eletrodomesticos
-- 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 
 ## Top ofertas para destacar
 
@@ -59,33 +59,33 @@ Gerado em: 10/09/2026 20:21
    - Desconto: 52% OFF
    - Link: https://s.shopee.com.br/5fod14GtBu
 
-7. **Amplificador De Imagem Da Tela Do Celular Lupa 3D 21,6CM*16,6CM*2,7CM…**
+7. **Jogo de Panelas 5 Peças Preto Nacional**
+   - Categoria: Casa e Cozinha
+   - Loja: Mercado Livre
+   - Preço: R$ 164,80
+   - Desconto: 30% OFF
+   - Link: https://www.mercadolivre.com.br/p/MLB50984468?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+8. **Amplificador De Imagem Da Tela Do Celular Lupa 3D 21,6CM*16,6CM*2,7CM…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 17,99
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/Ln7nJPLN3
 
-8. **Jogo de Panelas Antiaderente 5 Peças Cereja com Revestimento Antiader…**
+9. **Jogo de Panelas Antiaderente 5 Peças Cereja com Revestimento Antiader…**
    - Categoria: Casa e Cozinha
    - Loja: Mercado Livre
    - Preço: R$ 166,65
    - Desconto: 36% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB33652298?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-9. **Fralda Pampers Supersec Mega M**
+10. **Fralda Pampers Supersec Mega M**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 45,99
    - Desconto: 32% OFF
    - Link: https://s.shopee.com.br/4VcfxWBjSr
-
-10. **Kit Borrifadores Azeite e Vinagre**
-   - Categoria: Casa e Cozinha
-   - Loja: Shopee
-   - Preço: R$ 19,99
-   - Desconto: 71% OFF
-   - Link: https://s.shopee.com.br/1BMEK05Cw0
 
 ## Ações gratuitas recomendadas
 

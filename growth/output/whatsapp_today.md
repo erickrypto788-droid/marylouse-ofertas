@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 10/09/2026 20:21
+Gerado em: 10/09/2026 21:04
 
 ## Como usar
 
@@ -147,14 +147,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
 ```txt
 🍳 Oferta para Casa e Cozinha
 
-Kit Borrifadores Azeite e Vinagre
+Jogo de Panelas 5 Peças Preto Nacional
 
-💸 De: R$ 68,93
-🔥 Por: R$ 19,99
-🏷️ 71% OFF
-🛒 Loja: Shopee
+💸 De: R$ 233,90
+🔥 Por: R$ 164,80
+🏷️ 30% OFF
+🛒 Loja: Mercado Livre
 
-Ver oferta: https://s.shopee.com.br/1BMEK05Cw0
+Ver oferta: https://www.mercadolivre.com.br/p/MLB50984468?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

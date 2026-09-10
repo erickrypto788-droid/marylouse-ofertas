@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 10/09/2026 20:21
+Gerado em: 10/09/2026 21:04
 
 ## Como usar
 
@@ -56,7 +56,7 @@ Gerado em: 10/09/2026 20:21
 
 - Kit Borrifadores Azeite e Vinagre
 - Galheteiro Borrifador 2 em 1
-- Jogo de Panelas Antiaderente 5 Peças Cereja com Revestimento Antiader…
+- Jogo de Panelas 5 Peças Preto Nacional
 
 ---
 
@@ -104,7 +104,7 @@ Gerado em: 10/09/2026 20:21
 
 - Amplificador De Imagem Da Tela Do Celular Lupa 3D 21,6CM*16,6CM*2,7CM…
 - HUB 3 EM 1 Tipo C HDMI USB
-- Cabo 4 em 1 Carregamento Rápido PD 65W USB Tipo C Lightning Duplo Nyl…
+- Suporte Veicular Magnético Magsafe P/ iPhone 12, iPhone 13, iPhone 14…
 
 ---
 

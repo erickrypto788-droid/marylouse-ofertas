@@ -1,18 +1,18 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 10/09/2026 14:03
+Gerado em: 10/09/2026 14:19
 
 ## Categorias prioritárias
 
+- 👟 **Calçados**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 📱 **Celulares**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 👕 **Moda Masculina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 - 👗 **Moda Feminina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
-- 💄 **Beleza**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - ✨ **Moda Plus Size**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
-- 👟 **Calçados**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 🍼 **Mãe e Bebê**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 💻 **Informática**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 🍳 **Casa e Cozinha**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
+- 💄 **Beleza**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 📚 **Papelaria**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 
 ## Top ofertas para destacar
@@ -45,47 +45,47 @@ Gerado em: 10/09/2026 14:03
    - Desconto: 52% OFF
    - Link: https://s.shopee.com.br/5fod14GtBu
 
-5. **Perfume Feminino Olympia**
-   - Categoria: Beleza
-   - Loja: Mercado Livre
-   - Preço: R$ 184,00
-   - Desconto: 50% OFF
-   - Link: https://www.mercadolivre.com.br/p/MLB77039877?matt_word=marylouse&matt_tool=50459180&forceInApp=true
-
-6. **Jogo de Panelas Antiaderente 5 Peças Cereja com Revestimento Antiader…**
+5. **Jogo de Panelas Antiaderente 5 Peças Cereja com Revestimento Antiader…**
    - Categoria: Casa e Cozinha
    - Loja: Mercado Livre
    - Preço: R$ 166,65
    - Desconto: 36% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB33652298?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-7. **Fralda Pampers Supersec Mega M**
+6. **Fralda Pampers Supersec Mega M**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 45,99
    - Desconto: 32% OFF
    - Link: https://s.shopee.com.br/4VcfxWBjSr
 
-8. **Carregador 168w Para Celular Com Type C Tipo C**
+7. **Carregador 168w Para Celular Com Type C Tipo C**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 25,88
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/8AVxrPyChg
 
-9. **Kit Borrifadores Azeite e Vinagre**
+8. **Kit Borrifadores Azeite e Vinagre**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 19,99
    - Desconto: 71% OFF
    - Link: https://s.shopee.com.br/1BMEK05Cw0
 
-10. **Galheteiro Borrifador 2 em 1**
+9. **Galheteiro Borrifador 2 em 1**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 20,00
    - Desconto: 71% OFF
    - Link: https://s.shopee.com.br/1AGvr9eIl
+
+10. **HUB 3 EM 1 Tipo C HDMI USB**
+   - Categoria: Celulares
+   - Loja: Shopee
+   - Preço: R$ 18,98
+   - Desconto: 60% OFF
+   - Link: https://s.shopee.com.br/7fZhzp8wNC
 
 ## Ações gratuitas recomendadas
 

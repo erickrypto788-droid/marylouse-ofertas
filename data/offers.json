@@ -1,5 +1,47 @@
 [
   {
+    "id": "ced98687f0e5e77d7c",
+    "title": "TOMI MITO Bolsa Feminina com Alça Lateral Transversal Faixa de Mão de…",
+    "raw_title": "TOMI MITO Bolsa Feminina com Alça Lateral Transversal Faixa de Mão de Couro B736",
+    "description": "🔥 54% OFF — Oferta encontrada! 📌 TOMI MITO Bolsa Feminina com Alça Lateral Transversal Faixa de Mão de Couro B736 Confira os detalhes e aproveite enquan...",
+    "marketplace": "Shopee",
+    "category": "Bolsas Femininas",
+    "old_price": "R$ 130,41",
+    "price": "R$ 59,99",
+    "discount_percent": 54.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-824hz-mpj8tt3gjlkx51",
+    "affiliate_url": "https://s.shopee.com.br/7VGIrRZD3d",
+    "created_at": "10/09/2026 23:16",
+    "created_at_iso": "2026-09-10T23:16:48",
+    "created_ts": 1789082208,
+    "niche": {
+      "key": "shopee_bolsas_femininas",
+      "name": "Bolsas Femininas"
+    }
+  },
+  {
+    "id": "d692297ebce26146df",
+    "title": "Bolsa Feminina Baú Transversal Média com Lenço Alça Tiracolo Estrutur…",
+    "raw_title": "Bolsa Feminina Baú Transversal Média com Lenço Alça Tiracolo Estruturada e Espaçosa",
+    "description": "🔥 67% OFF — Oferta encontrada! 📌 Bolsa Feminina Baú Transversal Média com Lenço Alça Tiracolo Estruturada e Espaçosa Confira os detalhes e aproveite enq...",
+    "marketplace": "Shopee",
+    "category": "Bolsas Femininas",
+    "old_price": "R$ 121,15",
+    "price": "R$ 39,98",
+    "discount_percent": 67.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-825av-mrgkchcezqpu43",
+    "affiliate_url": "https://s.shopee.com.br/3g3aIOsCfV",
+    "created_at": "10/09/2026 23:15",
+    "created_at_iso": "2026-09-10T23:15:44",
+    "created_ts": 1789082144,
+    "niche": {
+      "key": "shopee_bolsas_femininas",
+      "name": "Bolsas Femininas"
+    }
+  },
+  {
     "id": "05b13ab3638d9fd9d8",
     "title": "Prancha Esteira Ergométrica T3000",
     "raw_title": "Prancha Esteira Ergométrica Deck Múltipla T3000 Preto",
@@ -2445,48 +2487,6 @@
     "created_at": "09/09/2026 23:17",
     "created_at_iso": "2026-09-09T23:17:49",
     "created_ts": 1788995869,
-    "niche": {
-      "key": "shopee_moda_infantil",
-      "name": "Moda Infantil"
-    }
-  },
-  {
-    "id": "94058ee48d5bff2071",
-    "title": "Shorts Curto Cotton Infantil Menina – Ideal para Usar com Saias e Ves…",
-    "raw_title": "Shorts Curto Cotton Infantil Menina – Ideal para Usar com Saias e Vestidos | 2 a 12 Anos",
-    "description": "🔥 50% OFF — Oferta encontrada! 📌 Shorts Curto Cotton Infantil Menina – Ideal para Usar com Saias e Vestidos | 2 a 12 Anos Confira os detalhes e aproveit...",
-    "marketplace": "Shopee",
-    "category": "Moda Infantil",
-    "old_price": "R$ 49,98",
-    "price": "R$ 24,99",
-    "discount_percent": 50.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-md3a9zarh4j6b8",
-    "affiliate_url": "https://s.shopee.com.br/60RTTnITwr",
-    "created_at": "09/09/2026 23:16",
-    "created_at_iso": "2026-09-09T23:16:45",
-    "created_ts": 1788995805,
-    "niche": {
-      "key": "shopee_moda_infantil",
-      "name": "Moda Infantil"
-    }
-  },
-  {
-    "id": "6b3728a0324a25923b",
-    "title": "Tênis Calce Facil Infantil Bordado Leve Macio",
-    "raw_title": "Tênis Calce Facil Infantil Bordado Leve Macio",
-    "description": "🔥 42% OFF — Oferta encontrada! 📌 Tênis Calce Facil Infantil Bordado Leve Macio Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Shopee",
-    "category": "Moda Infantil",
-    "old_price": "R$ 39,64",
-    "price": "R$ 22,99",
-    "discount_percent": 42.0,
-    "rating": 4.7,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m34agtis4avnc0",
-    "affiliate_url": "https://s.shopee.com.br/AUtsq4EY9r",
-    "created_at": "09/09/2026 23:15",
-    "created_at_iso": "2026-09-09T23:15:41",
-    "created_ts": 1788995741,
     "niche": {
       "key": "shopee_moda_infantil",
       "name": "Moda Infantil"

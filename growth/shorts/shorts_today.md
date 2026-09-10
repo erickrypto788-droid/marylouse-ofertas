@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 10/09/2026 00:21
+Gerado em: 10/09/2026 01:21
 
 ## Como usar
 
@@ -102,9 +102,9 @@ Gerado em: 10/09/2026 00:21
 
 **Produtos usados:**
 
-- Mini carregador portatil power bank para celular IPNHONE Samsung Xiao…
 - Carregador 168w Para Celular Com Type C Tipo C
 - Leitor Cartão USB C 3 Em 1 OTG SD Micro SD Adaptador Para Celular Not…
+- Cabo 4 em 1 Carregamento Rápido PD 65W USB Tipo C Lightning Duplo Nyl…
 
 ---
 

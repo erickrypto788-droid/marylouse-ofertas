@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 10/09/2026 01:09
+Gerado em: 10/09/2026 01:21
 
 ## Como usar
 
@@ -12,37 +12,7 @@ Gerado em: 10/09/2026 01:09
 
 ---
 
-## Post 1 — Celulares e Tecnologia
-
-**Canal recomendado:** Celulares e Tecnologia
-
-**Horário sugerido:** 19:00 - 21:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
-
-**Texto pronto:**
-
-```txt
-📱 Oferta para Celulares e Tecnologia
-
-Mini carregador portatil power bank para celular IPNHONE Samsung Xiao…
-
-💸 De: R$ 89,59
-🔥 Por: R$ 25,98
-🏷️ 71% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/6q0Z0g6AJp
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 2 — Mamãe e Bebê
+## Post 1 — Mamãe e Bebê
 
 **Canal recomendado:** Mamãe e Bebê
 
@@ -65,6 +35,36 @@ Tapete Higiênico para Cães
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/4AzoIcFc3D
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 2 — Celulares e Tecnologia
+
+**Canal recomendado:** Celulares e Tecnologia
+
+**Horário sugerido:** 19:00 - 21:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
+
+**Texto pronto:**
+
+```txt
+📱 Oferta para Celulares e Tecnologia
+
+Carregador 168w Para Celular Com Type C Tipo C
+
+💸 De: R$ 43,13
+🔥 Por: R$ 25,88
+🏷️ 40% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/8AVxrPyChg
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
@@ -102,7 +102,37 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Moda Feminina
+## Post 4 — Ofertas Pet
+
+**Canal recomendado:** Ofertas Pet
+
+**Horário sugerido:** 17:00 - 20:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
+
+**Texto pronto:**
+
+```txt
+🐶 Oferta para Ofertas Pet
+
+Carrinho de Controle Remoto Esportivo Competição Ferrari Lamborghini…
+
+💸 De: R$ 50,10
+🔥 Por: R$ 20,54
+🏷️ 59% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/2qURqDvASD
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 5 — Moda Feminina
 
 **Canal recomendado:** Moda Feminina
 
@@ -132,7 +162,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 5 — Casa e Cozinha
+## Post 6 — Casa e Cozinha
 
 **Canal recomendado:** Casa e Cozinha
 
@@ -155,36 +185,6 @@ Panela de Pressao Polida Fortlar -A- LAM - Escolha o Tamanho
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/80CXjEath3
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 6 — Ofertas Pet
-
-**Canal recomendado:** Ofertas Pet
-
-**Horário sugerido:** 17:00 - 20:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
-
-**Texto pronto:**
-
-```txt
-🐶 Oferta para Ofertas Pet
-
-Ração Gato Estimacat Premium Filhote Sabor Frango 10kg
-
-💸 De: R$ 337,43
-🔥 Por: R$ 253,07
-🏷️ 25% OFF
-🛒 Loja: Mercado Livre
-
-Ver oferta: https://www.mercadolivre.com.br/p/MLB66844874?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

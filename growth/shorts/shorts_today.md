@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 10/09/2026 03:04
+Gerado em: 10/09/2026 03:21
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 10/09/2026 03:04
 
 **Produtos usados:**
 
-- Kit 3 Fraldas Pampers Supersequinha Mega P
-- Kit 2 Porta Leite em Pó Para Bebê + Colher de Silicone
-- Tapete Higiênico para Cães
+- Kit Pano de Boca 12 unidades 30x30cm 100%algodao
+- Troninho Infantil com Escada
+- Fralda Pampers Supersec Mega M
 
 ---
 

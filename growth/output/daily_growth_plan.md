@@ -1,11 +1,11 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 10/09/2026 03:04
+Gerado em: 10/09/2026 03:21
 
 ## Categorias prioritárias
 
-- 💄 **Beleza**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 🍼 **Mãe e Bebê**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 🍼 **Mãe e Bebê**: 16 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 💄 **Beleza**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🏋️ **Esportes**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 👗 **Moda Feminina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - ❤️ **Saúde**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
@@ -45,47 +45,47 @@ Gerado em: 10/09/2026 03:04
    - Desconto: 58% OFF
    - Link: https://s.shopee.com.br/5VVC1K1qAp
 
-5. **Carregador 168w Para Celular Com Type C Tipo C**
+5. **Fralda Pampers Supersec Mega M**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 45,99
+   - Desconto: 32% OFF
+   - Link: https://s.shopee.com.br/4VcfxWBjSr
+
+6. **Carregador 168w Para Celular Com Type C Tipo C**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 25,88
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/8AVxrPyChg
 
-6. **Panela Elétrica Britânia BPE02A**
+7. **Panela Elétrica Britânia BPE02A**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 126,90
    - Desconto: 37% OFF
    - Link: https://s.shopee.com.br/9V1Kz22dAF
 
-7. **Leitor Cartão USB C 3 Em 1 OTG SD Micro SD Adaptador Para Celular Not…**
+8. **Leitor Cartão USB C 3 Em 1 OTG SD Micro SD Adaptador Para Celular Not…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 17,99
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/8V8mSmT8nG
 
-8. **Aparelho de Pressão Digital de Pulso AUXOM Recarregável com APP Wi-Fi…**
-   - Categoria: Saúde
+9. **Kit Pano de Boca 12 unidades 30x30cm 100%algodao**
+   - Categoria: Mãe e Bebê
    - Loja: Shopee
-   - Preço: R$ 38,99
-   - Desconto: 66% OFF
-   - Link: https://s.shopee.com.br/6L4K4lkIDB
+   - Preço: R$ 28,99
+   - Desconto: 64% OFF
+   - Link: https://s.shopee.com.br/9AOVW5pV0L
 
-9. **Garrafa Térmica 1 Litro Com Termômetro Led Para Chás / Café Design Mo…**
-   - Categoria: Saúde
+10. **Troninho Infantil com Escada**
+   - Categoria: Mãe e Bebê
    - Loja: Shopee
-   - Preço: R$ 44,95
-   - Desconto: 59% OFF
-   - Link: https://s.shopee.com.br/3g3YtruigE
-
-10. **Carrinho de Controle Remoto Esportivo Competição Ferrari Lamborghini…**
-   - Categoria: Pet
-   - Loja: Shopee
-   - Preço: R$ 20,54
-   - Desconto: 59% OFF
-   - Link: https://s.shopee.com.br/2qURqDvASD
+   - Preço: R$ 71,90
+   - Desconto: 64% OFF
+   - Link: https://s.shopee.com.br/8fSEvArP1G
 
 ## Ações gratuitas recomendadas
 

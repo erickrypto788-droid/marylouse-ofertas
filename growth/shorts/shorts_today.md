@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 11/09/2026 22:04
+Gerado em: 11/09/2026 22:21
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 11/09/2026 22:04
 **Produtos usados:**
 
 - Berço Portátil Com Mosquiteiro Cama De Duas Camas 0-3 Anos Fecho De S…
-- Fralda Pampers Supersequinha Tamanho G 80 Unidades
-- Fralda Huggies Natural Care
+- Tênis Branco Unissex Infantil e Baby, Conforto e Elegância para Crian…
+- Kit 3 T-Shirt Algodão 30.1 Comfort Confortavel Estilosa Baby Look Cas…
 
 ---
 
@@ -105,5 +105,25 @@ Gerado em: 11/09/2026 22:04
 - Capa para Samsung Galaxy Tab
 - Kit Reparo Smartphone Completo
 - Celular Smartphone 5G 16GB/512GB
+
+---
+
+## Supermercados
+
+**Título sugerido:** 🛒 Ofertas de Supermercados atualizadas hoje
+
+**Descrição sugerida:** Ofertas de Supermercados selecionadas pela MaryLouse. Preços podem mudar. Veja no site. #MaryLouseOfertas #Ofertas #Achadinhos
+
+**Link/CTA:** https://marylouse-ofertas.vercel.app/ofertas-supermercados.html
+
+**Slides:**
+
+- growth/shorts/slides/supermercados/01_intro.png
+- growth/shorts/slides/supermercados/02_produto_1.png
+- growth/shorts/slides/supermercados/05_cta.png
+
+**Produtos usados:**
+
+- Kit Pele de Porcelana com Sérum de Arroz e Olhos de Gueixa Kokeshi
 
 ---

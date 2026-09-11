@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 11/09/2026 15:22
+Gerado em: 11/09/2026 16:18
 
 ## Categorias prioritárias
 
@@ -11,9 +11,9 @@ Gerado em: 11/09/2026 15:22
 - 🧸 **Brinquedos**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 💻 **Informática**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 🍳 **Casa e Cozinha**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 📚 **Papelaria**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
+- 🍳 **Casa e Cozinha**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 
 ## Top ofertas para destacar
 
@@ -66,26 +66,26 @@ Gerado em: 11/09/2026 15:22
    - Desconto: 30% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB50984468?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-8. **Dispensador Lego Criativo**
+8. **Oxímetro de Dedo Digital Portátil**
+   - Categoria: Saúde
+   - Loja: Shopee
+   - Preço: R$ 31,99
+   - Desconto: 57% OFF
+   - Link: https://s.shopee.com.br/7pt97pOMpb
+
+9. **Dispensador Lego Criativo**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 35,58
    - Desconto: 50% OFF
    - Link: https://s.shopee.com.br/3LQjhQHBEe
 
-9. **Sandália Flatform Infantil Menina Papete Glady Strass Fashion Várias…**
+10. **Sandália Flatform Infantil Menina Papete Glady Strass Fashion Várias…**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 36,90
    - Desconto: 63% OFF
    - Link: https://s.shopee.com.br/5AsNkZ51jn
-
-10. **Frigideira Antiaderente 4 Furos**
-   - Categoria: Casa e Cozinha
-   - Loja: Shopee
-   - Preço: R$ 26,00
-   - Desconto: 68% OFF
-   - Link: https://s.shopee.com.br/AUtvIWWvKj
 
 ## Ações gratuitas recomendadas
 

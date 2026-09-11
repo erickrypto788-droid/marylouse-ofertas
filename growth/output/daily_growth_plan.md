@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 11/09/2026 03:22
+Gerado em: 11/09/2026 04:18
 
 ## Categorias prioritárias
 
@@ -8,12 +8,12 @@ Gerado em: 11/09/2026 03:22
 - 📦 **Outros**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 📚 **Papelaria**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 - 🍼 **Mãe e Bebê**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 👜 **Bolsas**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
+- 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 💄 **Beleza**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 👜 **Bolsas**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 - 🏋️ **Esportes**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 🍳 **Casa e Cozinha**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
-- 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 👗 **Moda Feminina**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 
 ## Top ofertas para destacar
 
@@ -66,26 +66,26 @@ Gerado em: 11/09/2026 03:22
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/Ln7nJPLN3
 
-8. **Jogo de Panelas Antiaderente 5 Peças Cereja com Revestimento Antiader…**
-   - Categoria: Casa e Cozinha
-   - Loja: Mercado Livre
-   - Preço: R$ 166,65
-   - Desconto: 36% OFF
-   - Link: https://www.mercadolivre.com.br/p/MLB33652298?matt_word=marylouse&matt_tool=50459180&forceInApp=true
-
-9. **Fralda Pampers Supersequinha Tamanho G 80 Unidades**
+8. **Fralda Pampers Supersequinha Tamanho G 80 Unidades**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 110,00
    - Desconto: 22% OFF
    - Link: https://s.shopee.com.br/5fodLf7I6D
 
-10. **Kit Escova Higiene 4 em 1 Portátil**
+9. **Kit Escova Higiene 4 em 1 Portátil**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 25,99
    - Desconto: 54% OFF
    - Link: https://s.shopee.com.br/1LffS02pTH
+
+10. **Fralda Huggies Natural Care**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 42,90
+   - Desconto: 22% OFF
+   - Link: https://s.shopee.com.br/Ln8G9tVQm
 
 ## Ações gratuitas recomendadas
 

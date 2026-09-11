@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 11/09/2026 12:07
+Gerado em: 11/09/2026 12:21
 
 ## Como usar
 
@@ -57,14 +57,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
 ```txt
 💄 Oferta para Beleza e Cuidados
 
-Perfumes Brand Collection 25ml - Fragrâncias femininas
+Escova Secadora 3 em 1 Profissional
 
-💸 De: R$ 100,00
-🔥 Por: R$ 38,00
-🏷️ 62% OFF
+💸 De: R$ 199,97
+🔥 Por: R$ 77,99
+🏷️ 61% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/1gIVW032QJ
+Ver oferta: https://s.shopee.com.br/BTizXEaoZ
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

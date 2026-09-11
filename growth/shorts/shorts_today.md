@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 11/09/2026 12:07
+Gerado em: 11/09/2026 12:21
 
 ## Como usar
 
@@ -55,8 +55,8 @@ Gerado em: 11/09/2026 12:07
 **Produtos usados:**
 
 - Mini Panela Elétrica Bivolt
+- Frigideira Antiaderente 4 Furos
 - Jogo de Panelas 5 Peças Preto Nacional
-- Liquidificador Triturador Compacto
 
 ---
 
@@ -78,9 +78,9 @@ Gerado em: 11/09/2026 12:07
 
 **Produtos usados:**
 
+- Escova Secadora 3 em 1 Profissional
 - Perfumes Brand Collection 25ml - Fragrâncias femininas
 - Secador Profissional com Difusor 127V ou 220V 5 Temperaturas Turbo Ío…
-- Sérum Roll-On Área dos Olhos Adeus Olheiras 10ml Kokeshi
 
 ---
 

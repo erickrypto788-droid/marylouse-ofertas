@@ -1,5 +1,47 @@
 [
   {
+    "id": "2c8f3aad6f0bc7b8ca",
+    "title": "Bota Coturno Tratorado Blogueira",
+    "raw_title": "Bota Feminina Coturno Tratorado Blogueira Confortavel PROMOÇÃO PREÇO DE FABRICA",
+    "description": "QUE ACHADO! 👢 Bota Feminina Coturno Tratorado Blogueira! Estilo e conforto para seus looks com preço de fábrica! ✨",
+    "marketplace": "Shopee",
+    "category": "Sapatos Femininos",
+    "old_price": "R$ 99,83",
+    "price": "R$ 59,90",
+    "discount_percent": 40.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7qukw-lk6sqzmzpkzufe",
+    "affiliate_url": "https://s.shopee.com.br/gPzO6IfaN",
+    "created_at": "11/09/2026 09:17",
+    "created_at_iso": "2026-09-11T09:17:00",
+    "created_ts": 1789118220,
+    "niche": {
+      "key": "shopee_sapatos_femininos",
+      "name": "Sapatos Femininos"
+    }
+  },
+  {
+    "id": "0e7985cacdcee414f3",
+    "title": "Bota Coturno Feminina GiGiL",
+    "raw_title": "Bota GiGiL Cano Alto Coturno Feminino Salto Plataforma Com Zíper",
+    "description": "✨ Estilo e atitude nos seus pés! 👢 A Bota GiGiL Cano Alto Coturno Feminino Salto Plataforma Com Zíper é perfeita para você arrasar! Conforto e tendência...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Femininos",
+    "old_price": "R$ 181,11",
+    "price": "R$ 79,69",
+    "discount_percent": 56.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/80c59df38a565a9f40027a035b43ddc9",
+    "affiliate_url": "https://s.shopee.com.br/1AIasLCwJ",
+    "created_at": "11/09/2026 09:15",
+    "created_at_iso": "2026-09-11T09:15:53",
+    "created_ts": 1789118153,
+    "niche": {
+      "key": "shopee_sapatos_femininos",
+      "name": "Sapatos Femininos"
+    }
+  },
+  {
     "id": "3ab8b9cef410b4882b",
     "title": "Babá Eletrônica Hellobaby",
     "raw_title": "Babá Eletrônica Hellobaby Hb65-2 Monitor Bebê 3.2 Branco",
@@ -2293,26 +2335,5 @@
     "created_at": "10/09/2026 10:02",
     "created_at_iso": "2026-09-10T10:02:48",
     "created_ts": 1789034568
-  },
-  {
-    "id": "96fb39cb9a1b3ac2cf",
-    "title": "Nintendo Switch Lite Desbloqueado",
-    "raw_title": "Nintendo Switch Lite Desbloqueado com Lojinha Tinfoil Premium Dualboot Novo | Envio Imediato",
-    "description": "🎮 Liberdade total no seu bolso! Chegou o Nintendo Switch Lite Desbloqueado com Lojinha Tinfoil Premium e Dualboot! Jogue o que quiser, como quiser. Novo...",
-    "marketplace": "Shopee",
-    "category": "Jogos e Consoles",
-    "old_price": "",
-    "price": "R$ 1.599,00",
-    "discount_percent": 0.0,
-    "rating": 4.7,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820l8-mmus5q9sjc3lcb",
-    "affiliate_url": "https://s.shopee.com.br/1qbvBMQiIP",
-    "created_at": "10/09/2026 09:16",
-    "created_at_iso": "2026-09-10T09:16:03",
-    "created_ts": 1789031763,
-    "niche": {
-      "key": "shopee_jogos_consoles",
-      "name": "Jogos e Consoles"
-    }
   }
 ]

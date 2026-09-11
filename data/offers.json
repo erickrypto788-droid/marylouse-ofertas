@@ -1,5 +1,22 @@
 [
   {
+    "id": "3f1ce4c4d4ef087ebd",
+    "title": "Perfume Feminino Hinode Eterna",
+    "raw_title": "Perfume Feminino Hinode Eterna",
+    "description": "🔥 Oferta encontrada! 📌 Perfume Feminino Hinode Eterna Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Beleza",
+    "old_price": "",
+    "price": "R$ 179,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_837934-MLB47503900226_092021-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21909642?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "11/09/2026 17:01",
+    "created_at_iso": "2026-09-11T17:01:38",
+    "created_ts": 1789146098
+  },
+  {
     "id": "2dc335cf2072b26038",
     "title": "Nebulizador G-Tech Infantil",
     "raw_title": "Inalador E Nebulizador Compressor De Ar Comprimido Compact DC1 G-Tech Infantil Remédio e Corticoides",
@@ -2242,68 +2259,5 @@
     "created_at": "10/09/2026 17:02",
     "created_at_iso": "2026-09-10T17:02:07",
     "created_ts": 1789059727
-  },
-  {
-    "id": "4c1a8419dc4b95435b",
-    "title": "Micro-ondas Britânia 20L Pintura Limpa Fácil BMO23",
-    "raw_title": "Micro-ondas Britânia 20L Pintura Limpa Fácil BMO23",
-    "description": "🔥 37% OFF — Oferta encontrada! 📌 Micro-ondas Britânia 20L Pintura Limpa Fácil BMO23 Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Shopee",
-    "category": "Eletrodomésticos",
-    "old_price": "R$ 714,13",
-    "price": "R$ 449,90",
-    "discount_percent": 37.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-825an-mso959qqjx1geb",
-    "affiliate_url": "https://s.shopee.com.br/8plfz3dZL1",
-    "created_at": "10/09/2026 16:20",
-    "created_at_iso": "2026-09-10T16:20:08",
-    "created_ts": 1789057208,
-    "niche": {
-      "key": "shopee_eletrodomesticos",
-      "name": "Eletrodomésticos"
-    }
-  },
-  {
-    "id": "22ad9aefc5b8cb5243",
-    "title": "Extrator de Sucos Turbo Premium Mondial Preto e Inox 250W E-10",
-    "raw_title": "Extrator de Sucos Turbo Premium Mondial Preto e Inox 250W E-10",
-    "description": "🔥 40% OFF — Oferta encontrada! 📌 Extrator de Sucos Turbo Premium Mondial Preto e Inox 250W E-10 Confira os detalhes e aproveite enquanto a oferta estive...",
-    "marketplace": "Shopee",
-    "category": "Eletrodomésticos",
-    "old_price": "R$ 290,00",
-    "price": "R$ 174,00",
-    "discount_percent": 40.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-8260s-mkwhm62zdurl9a",
-    "affiliate_url": "https://s.shopee.com.br/2gB2dinukg",
-    "created_at": "10/09/2026 16:19",
-    "created_at_iso": "2026-09-10T16:19:04",
-    "created_ts": 1789057144,
-    "niche": {
-      "key": "shopee_eletrodomesticos",
-      "name": "Eletrodomésticos"
-    }
-  },
-  {
-    "id": "f676398e313367cb56",
-    "title": "Pipoqueira Elétrica Popcorn Maker 110V Pipoca Sem Óleo",
-    "raw_title": "Pipoqueira Elétrica Popcorn Maker 110V Pipoca Sem Óleo",
-    "description": "🔥 55% OFF — Oferta encontrada! 📌 Pipoqueira Elétrica Popcorn Maker 110V Pipoca Sem Óleo Confira os detalhes e aproveite enquanto a oferta estiver dispon...",
-    "marketplace": "Shopee",
-    "category": "Eletrodomésticos",
-    "old_price": "R$ 148,49",
-    "price": "R$ 66,82",
-    "discount_percent": 55.0,
-    "rating": 4.7,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-me7iswtkw3yb2f",
-    "affiliate_url": "https://s.shopee.com.br/3LQjQx2hTm",
-    "created_at": "10/09/2026 16:17",
-    "created_at_iso": "2026-09-10T16:17:59",
-    "created_ts": 1789057079,
-    "niche": {
-      "key": "shopee_eletrodomesticos",
-      "name": "Eletrodomésticos"
-    }
   }
 ]

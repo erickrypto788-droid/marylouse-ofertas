@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 11/09/2026 17:03
+Gerado em: 11/09/2026 17:21
 
 ## Como usar
 
@@ -147,14 +147,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
 ```txt
 🍼 Oferta para Mamãe e Bebê
 
-Fralda Pampers Supersequinha Tamanho G 80 Unidades
+Berço Portátil Com Mosquiteiro Cama De Duas Camas 0-3 Anos Fecho De S…
 
-💸 De: R$ 141,03
-🔥 Por: R$ 110,00
-🏷️ 22% OFF
+💸 De: R$ 1.683,72
+🔥 Por: R$ 538,79
+🏷️ 68% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/5fodLf7I6D
+Ver oferta: https://s.shopee.com.br/7fZkFvbcrV
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

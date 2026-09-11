@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 11/09/2026 17:03
+Gerado em: 11/09/2026 17:21
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 11/09/2026 17:03
 
 **Produtos usados:**
 
+- Berço Portátil Com Mosquiteiro Cama De Duas Camas 0-3 Anos Fecho De S…
 - Fralda Pampers Supersequinha Tamanho G 80 Unidades
 - Fralda Huggies Natural Care
-- Tênis Branco Unissex Infantil e Baby, Conforto e Elegância para Crian…
 
 ---
 
@@ -79,8 +79,8 @@ Gerado em: 11/09/2026 17:03
 **Produtos usados:**
 
 - Escova Secadora 3 em 1 Profissional
-- Perfumes Brand Collection 25ml - Fragrâncias femininas
-- Secador Profissional com Difusor 127V ou 220V 5 Temperaturas Turbo Ío…
+- Perfume Feminino Hinode Eterna
+- Principia Kit Protetor Solar PS-01 FPS 60 + PS-05 FPS 70- escolha seu…
 
 ---
 

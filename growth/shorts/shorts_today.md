@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 11/09/2026 01:22
+Gerado em: 11/09/2026 02:22
 
 ## Como usar
 
@@ -121,13 +121,11 @@ Gerado em: 11/09/2026 01:22
 - growth/shorts/slides/supermercados/01_intro.png
 - growth/shorts/slides/supermercados/02_produto_1.png
 - growth/shorts/slides/supermercados/03_produto_2.png
-- growth/shorts/slides/supermercados/04_produto_3.png
 - growth/shorts/slides/supermercados/05_cta.png
 
 **Produtos usados:**
 
 - Kit Banheiro Infantil Lego | Porta Escova + Porta Papel Higiênico + P…
 - Arroz Motigome 1kg
-- 100 Saco De Lixo 60l Preto Saco Lixo Resistente Reforçado
 
 ---

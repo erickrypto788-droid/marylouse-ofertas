@@ -1,6 +1,6 @@
 # Pinterest Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 11/09/2026 19:48
+Gerado em: 11/09/2026 20:22
 
 ## Como usar
 
@@ -38,7 +38,7 @@ https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=pinterest&
 
 **Por que postar:**
 
-Categoria com 16 oferta(s) e boa intenção de compra.
+Categoria com 15 oferta(s) e boa intenção de compra.
 
 ---
 

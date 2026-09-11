@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 11/09/2026 19:17
+Gerado em: 11/09/2026 20:22
 
 ## Como usar
 
@@ -105,25 +105,5 @@ Gerado em: 11/09/2026 19:17
 - Capa para Samsung Galaxy Tab
 - Kit Reparo Smartphone Completo
 - Celular Samsung Galaxy A06 5g Preto
-
----
-
-## Supermercados
-
-**Título sugerido:** 🛒 Ofertas de Supermercados atualizadas hoje
-
-**Descrição sugerida:** Ofertas de Supermercados selecionadas pela MaryLouse. Preços podem mudar. Veja no site. #MaryLouseOfertas #Ofertas #Achadinhos
-
-**Link/CTA:** https://marylouse-ofertas.vercel.app/ofertas-supermercados.html
-
-**Slides:**
-
-- growth/shorts/slides/supermercados/01_intro.png
-- growth/shorts/slides/supermercados/02_produto_1.png
-- growth/shorts/slides/supermercados/05_cta.png
-
-**Produtos usados:**
-
-- Kit Banheiro Infantil Lego | Porta Escova + Porta Papel Higiênico + P…
 
 ---

@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 11/09/2026 10:22
+Gerado em: 11/09/2026 11:19
 
 ## Categorias prioritárias
 
 - 📦 **Outros**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 👟 **Calçados**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 🍼 **Mãe e Bebê**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 👕 **Moda Masculina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
-- 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - ✨ **Moda Plus Size**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
+- 👕 **Moda Masculina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 - 💻 **Informática**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
+- 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 📚 **Papelaria**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 - 🏋️ **Esportes**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
+- 👗 **Moda Feminina**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 
 ## Top ofertas para destacar
 
@@ -38,54 +38,54 @@ Gerado em: 11/09/2026 10:22
    - Desconto: 51% OFF
    - Link: https://s.shopee.com.br/7KwsGPqCE9
 
-4. **Mochila Reforçada Notebook Impermeável**
+4. **Mini Panela Elétrica Bivolt**
+   - Categoria: Casa e Cozinha
+   - Loja: Shopee
+   - Preço: R$ 58,88
+   - Desconto: 41% OFF
+   - Link: https://s.shopee.com.br/7fZjrDMukD
+
+5. **Mochila Reforçada Notebook Impermeável**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 29,90
    - Desconto: 41% OFF
    - Link: https://s.shopee.com.br/7pt9KArqoF
 
-5. **Jogo de Panelas 5 Peças Preto Nacional**
+6. **Jogo de Panelas 5 Peças Preto Nacional**
    - Categoria: Casa e Cozinha
    - Loja: Mercado Livre
    - Preço: R$ 164,80
    - Desconto: 30% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB50984468?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-6. **Amplificador De Imagem Da Tela Do Celular Lupa 3D 21,6CM*16,6CM*2,7CM…**
+7. **Amplificador De Imagem Da Tela Do Celular Lupa 3D 21,6CM*16,6CM*2,7CM…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 17,99
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/Ln7nJPLN3
 
-7. **Capa para Samsung Galaxy Tab**
+8. **Liquidificador Triturador Compacto**
+   - Categoria: Casa e Cozinha
+   - Loja: Shopee
+   - Preço: R$ 78,68
+   - Desconto: 50% OFF
+   - Link: https://s.shopee.com.br/6fhBP4YgdJ
+
+9. **Capa para Samsung Galaxy Tab**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 29,00
    - Desconto: 71% OFF
    - Link: https://s.shopee.com.br/AAH3VNf2ZX
 
-8. **Fralda Pampers Supersequinha Tamanho G 80 Unidades**
+10. **Fralda Pampers Supersequinha Tamanho G 80 Unidades**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 110,00
    - Desconto: 22% OFF
    - Link: https://s.shopee.com.br/5fodLf7I6D
-
-9. **Kit Escova Higiene 4 em 1 Portátil**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 25,99
-   - Desconto: 54% OFF
-   - Link: https://s.shopee.com.br/1LffS02pTH
-
-10. **Fralda Huggies Natural Care**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 42,90
-   - Desconto: 22% OFF
-   - Link: https://s.shopee.com.br/Ln8G9tVQm
 
 ## Ações gratuitas recomendadas
 

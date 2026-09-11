@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 11/09/2026 08:19
+Gerado em: 11/09/2026 09:04
 
 ## Como usar
 
@@ -49,14 +49,12 @@ Gerado em: 11/09/2026 08:19
 - growth/shorts/slides/casa_cozinha/01_intro.png
 - growth/shorts/slides/casa_cozinha/02_produto_1.png
 - growth/shorts/slides/casa_cozinha/03_produto_2.png
-- growth/shorts/slides/casa_cozinha/04_produto_3.png
 - growth/shorts/slides/casa_cozinha/05_cta.png
 
 **Produtos usados:**
 
-- Kit Borrifadores Azeite e Vinagre
-- Galheteiro Borrifador 2 em 1
 - Jogo de Panelas 5 Peças Preto Nacional
+- Cafeteira Philco 15 Cafezinhos 550W 600ml PCFE01
 
 ---
 

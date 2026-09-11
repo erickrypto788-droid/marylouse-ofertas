@@ -1,5 +1,22 @@
 [
   {
+    "id": "9421ac6364b14b7812",
+    "title": "Body Modelador Nayane Short Feminino Cor Cristal Tamanho EG",
+    "raw_title": "Body Modelador Nayane Short Feminino Cor Cristal Tamanho EG",
+    "description": "🔥 Oferta encontrada! 📌 Body Modelador Nayane Short Feminino Cor Cristal Tamanho EG Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Roupas Femininas",
+    "old_price": "",
+    "price": "R$ 151,70",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_723789-MLA95555705961_102025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB56081727?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "11/09/2026 13:02",
+    "created_at_iso": "2026-09-11T13:02:16",
+    "created_ts": 1789131736
+  },
+  {
     "id": "8f864d20279a4f14e2",
     "title": "Creme Hidratante Facial 5% Manteiga de Karité + 5% Glicerina + 2% Nia…",
     "raw_title": "Creme Hidratante Facial 5% Manteiga de Karité + 5% Glicerina + 2% Niacinamida CH-01Principia - 50g",
@@ -2196,27 +2213,6 @@
     "niche": {
       "key": "shopee_sapatos_masculinos",
       "name": "Sapatos Masculinos"
-    }
-  },
-  {
-    "id": "21beaa4f1f9c6ca661",
-    "title": "Calça Wid Leg Cargo Modeladora Blogueira Moda",
-    "raw_title": "Calça Wid Leg Cargo Modeladora Blogueira Moda",
-    "description": "🔥 1% OFF — Oferta encontrada! 📌 Calça Wid Leg Cargo Modeladora Blogueira Moda Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Shopee",
-    "category": "Roupas Plus Size",
-    "old_price": "R$ 89,90",
-    "price": "R$ 89,00",
-    "discount_percent": 1.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi6t8mc0ntab1e",
-    "affiliate_url": "https://s.shopee.com.br/80CYj2K4VV",
-    "created_at": "10/09/2026 12:19",
-    "created_at_iso": "2026-09-10T12:19:59",
-    "created_ts": 1789042799,
-    "niche": {
-      "key": "shopee_roupas_plus_size",
-      "name": "Roupas Plus Size"
     }
   }
 ]

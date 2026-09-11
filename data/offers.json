@@ -1,5 +1,47 @@
 [
   {
+    "id": "7b3bec8247302ade5d",
+    "title": "Bota Galocha Impermeável EPI",
+    "raw_title": "Bota Galocha Impermeável EPI com C.A. Original Proteção Chuva Motoboy Limpeza ENVIO IMEDIATO",
+    "description": "☔️ Pés secos e seguros em qualquer clima! Chega de se preocupar com chuva! 🌧️ Proteção total para motoboys, limpeza ou qualquer atividade que exija segu...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Masculinos",
+    "old_price": "R$ 84,62",
+    "price": "R$ 38,08",
+    "discount_percent": 55.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-825a2-mg4fy6b59qmi08",
+    "affiliate_url": "https://s.shopee.com.br/3LQkUs6Gaj",
+    "created_at": "11/09/2026 08:18",
+    "created_at_iso": "2026-09-11T08:18:07",
+    "created_ts": 1789114687,
+    "niche": {
+      "key": "shopee_sapatos_masculinos",
+      "name": "Sapatos Masculinos"
+    }
+  },
+  {
+    "id": "52af49de88b6cdbfab",
+    "title": "Bota CAT Coturno Masculino",
+    "raw_title": "Bota CAT Coturno Preto Palmilha Gel Ortopédica Couro Masculino Promoção Envio Rápido",
+    "description": "⚡️ OFERTA IMPERDÍVEL! ⚡️ Bota CAT Coturno Masculino em Couro com Palmilha Gel Ortopédica! Perfeita para quem busca estilo e conforto.",
+    "marketplace": "Shopee",
+    "category": "Sapatos Masculinos",
+    "old_price": "R$ 179,90",
+    "price": "R$ 88,15",
+    "discount_percent": 51.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6a9mz47y83p16",
+    "affiliate_url": "https://s.shopee.com.br/3g3atU4zup",
+    "created_at": "11/09/2026 08:17",
+    "created_at_iso": "2026-09-11T08:17:00",
+    "created_ts": 1789114620,
+    "niche": {
+      "key": "shopee_sapatos_masculinos",
+      "name": "Sapatos Masculinos"
+    }
+  },
+  {
     "id": "f4c5d59245d52ff318",
     "title": "Ração Harmony Adultos Pequenos 10,1kg",
     "raw_title": "Ração Cachorro Selection Adultos Pequenos 10,1kg Harmony",
@@ -2318,27 +2360,6 @@
     "created_at": "10/09/2026 08:18",
     "created_at_iso": "2026-09-10T08:18:15",
     "created_ts": 1789028295,
-    "niche": {
-      "key": "shopee_bebidas_alimentos",
-      "name": "Bebidas e Alimentos"
-    }
-  },
-  {
-    "id": "8ec364631cadbd4e10",
-    "title": "Pré Treino Diabo Verde FTW",
-    "raw_title": "Pré Treino Diabo Verde Pre-Workout 150g - FTW",
-    "description": "⚡️ TURBINE SEU TREINO AGORA! 💪 O Pré Treino Diabo Verde Pre-Workout 150g da FTW vai te dar a energia que você precisa para ir além! Prepare-se para resu...",
-    "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
-    "old_price": "R$ 68,95",
-    "price": "R$ 39,99",
-    "discount_percent": 42.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi9otpx56woy4a",
-    "affiliate_url": "https://s.shopee.com.br/7pt8GFkMie",
-    "created_at": "10/09/2026 08:16",
-    "created_at_iso": "2026-09-10T08:16:42",
-    "created_ts": 1789028202,
     "niche": {
       "key": "shopee_bebidas_alimentos",
       "name": "Bebidas e Alimentos"

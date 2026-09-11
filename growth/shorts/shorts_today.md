@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 11/09/2026 06:21
+Gerado em: 11/09/2026 07:22
 
 ## Como usar
 
@@ -80,7 +80,7 @@ Gerado em: 11/09/2026 06:21
 
 - Perfumes Brand Collection 25ml - Fragrâncias femininas
 - Secador Profissional com Difusor 127V ou 220V 5 Temperaturas Turbo Ío…
-- Perfume Masculino Millions
+- Sérum Roll-On Área dos Olhos Adeus Olheiras 10ml Kokeshi
 
 ---
 
@@ -103,8 +103,8 @@ Gerado em: 11/09/2026 06:21
 **Produtos usados:**
 
 - Amplificador De Imagem Da Tela Do Celular Lupa 3D 21,6CM*16,6CM*2,7CM…
-- HUB 3 EM 1 Tipo C HDMI USB
 - Suporte Veicular Magnético Magsafe P/ iPhone 12, iPhone 13, iPhone 14…
+- Celular Samsung Galaxy A06 5g Preto
 
 ---
 

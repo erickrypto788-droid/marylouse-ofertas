@@ -1,5 +1,47 @@
 [
   {
+    "id": "2dc335cf2072b26038",
+    "title": "Nebulizador G-Tech Infantil",
+    "raw_title": "Inalador E Nebulizador Compressor De Ar Comprimido Compact DC1 G-Tech Infantil Remédio e Corticoides",
+    "description": "👶 Saúde dos pequenos com super desconto! 👶 Inalador e Nebulizador Compressor de Ar Comprimido Compact DC1 G-Tech Infantil. Ideal para a administração de...",
+    "marketplace": "Shopee",
+    "category": "Saúde",
+    "old_price": "R$ 159,45",
+    "price": "R$ 105,24",
+    "discount_percent": 34.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-maik7ndboplb25",
+    "affiliate_url": "https://s.shopee.com.br/AKaU6QANig",
+    "created_at": "11/09/2026 16:16",
+    "created_at_iso": "2026-09-11T16:16:57",
+    "created_ts": 1789143417,
+    "niche": {
+      "key": "shopee_saude",
+      "name": "Saúde"
+    }
+  },
+  {
+    "id": "d4e54046dd650d4256",
+    "title": "Oxímetro de Dedo Digital Portátil",
+    "raw_title": "Oxímetro de Dedo Digital Portátil com Tela LED, Leitura Rápida de SpO2 e Pulso para Uso Doméstico e Viagem",
+    "description": "CUIDE DA SUA SAÚDE! 🚨 Tenha controle total da sua oxigenação com o Oxímetro de Dedo Digital Portátil! Leitura rápida de SpO2 e Pulso em tela LED, perfei...",
+    "marketplace": "Shopee",
+    "category": "Saúde",
+    "old_price": "R$ 74,40",
+    "price": "R$ 31,99",
+    "discount_percent": 57.0,
+    "rating": 4.7,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7raty-mb21uls6g6eb33",
+    "affiliate_url": "https://s.shopee.com.br/7pt97pOMpb",
+    "created_at": "11/09/2026 16:15",
+    "created_at_iso": "2026-09-11T16:15:47",
+    "created_ts": 1789143347,
+    "niche": {
+      "key": "shopee_saude",
+      "name": "Saúde"
+    }
+  },
+  {
     "id": "ad6ad9546c74d980fb",
     "title": "Kit Montessori de Madeira - 3 Jogos",
     "raw_title": "Kit de Brinquedo Educativo Montessori de Madeira - Formas Geométricas - 3 Jogos",
@@ -2259,48 +2301,6 @@
     "created_at": "10/09/2026 16:17",
     "created_at_iso": "2026-09-10T16:17:59",
     "created_ts": 1789057079,
-    "niche": {
-      "key": "shopee_eletrodomesticos",
-      "name": "Eletrodomésticos"
-    }
-  },
-  {
-    "id": "ae82af7e795ef5f4a7",
-    "title": "Cafeteira Philco 15 Cafezinhos 550W 600ml PCFE01",
-    "raw_title": "Cafeteira Philco 15 Cafezinhos 550W 600ml PCFE01",
-    "description": "🔥 29% OFF — Oferta encontrada! 📌 Cafeteira Philco 15 Cafezinhos 550W 600ml PCFE01 Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Shopee",
-    "category": "Eletrodomésticos",
-    "old_price": "R$ 140,70",
-    "price": "R$ 99,90",
-    "discount_percent": 29.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-8258o-msk2369yxddtf4",
-    "affiliate_url": "https://s.shopee.com.br/7pt8nDYZmk",
-    "created_at": "10/09/2026 16:16",
-    "created_at_iso": "2026-09-10T16:16:56",
-    "created_ts": 1789057016,
-    "niche": {
-      "key": "shopee_eletrodomesticos",
-      "name": "Eletrodomésticos"
-    }
-  },
-  {
-    "id": "1e43d9b26be749ff6a",
-    "title": "Aspirador Gaabor 2 em 1",
-    "raw_title": "Aspirador De Pó Vertical 2 Em 1 Portátil Gaabor 650w",
-    "description": "🧹 Limpeza PRÁTICA e RÁPIDA! ✨ Cansado da sujeira? Conheça o Aspirador De Pó Vertical 2 Em 1 Portátil Gaabor 650w! Perfeito para o dia a dia, ele se tran...",
-    "marketplace": "Shopee",
-    "category": "Eletrodomésticos",
-    "old_price": "R$ 221,30",
-    "price": "R$ 134,99",
-    "discount_percent": 39.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m8-mo5vncqk1ssi68",
-    "affiliate_url": "https://s.shopee.com.br/3g3ZpYxJ2k",
-    "created_at": "10/09/2026 16:15",
-    "created_at_iso": "2026-09-10T16:15:51",
-    "created_ts": 1789056951,
     "niche": {
       "key": "shopee_eletrodomesticos",
       "name": "Eletrodomésticos"

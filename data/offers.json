@@ -1,5 +1,39 @@
 [
   {
+    "id": "3ab8b9cef410b4882b",
+    "title": "Babá Eletrônica Hellobaby",
+    "raw_title": "Babá Eletrônica Hellobaby Hb65-2 Monitor Bebê 3.2 Branco",
+    "description": "🚨 PAIS DE PLANTÃO! Tenha seu bebê sempre por perto com a Babá Eletrônica Hellobaby! 👶 Garanta a segurança e a tranquilidade que você merece com a Babá E...",
+    "marketplace": "Mercado Livre",
+    "category": "Mãe e Bebê",
+    "old_price": "",
+    "price": "R$ 650,99",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_709655-MLA99560771504_122025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51901869?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "11/09/2026 09:03",
+    "created_at_iso": "2026-09-11T09:03:00",
+    "created_ts": 1789117380
+  },
+  {
+    "id": "b7f70a90e916909efe",
+    "title": "Livro Tchauzinho, Fralda",
+    "raw_title": "Livro Tchauzinho, Fralda",
+    "description": "🚀 Desfralde fácil e divertido! Diga adeus às fraldas com o Livro Tchauzinho, Fralda! Um guia carinhoso e eficaz para essa fase tão importante. Receba em...",
+    "marketplace": "Mercado Livre",
+    "category": "Papelaria",
+    "old_price": "",
+    "price": "R$ 196,88",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_760437-MLA112057174990_062026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB73518090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "11/09/2026 09:01",
+    "created_at_iso": "2026-09-11T09:01:48",
+    "created_ts": 1789117308
+  },
+  {
     "id": "7b3bec8247302ade5d",
     "title": "Bota Galocha Impermeável EPI",
     "raw_title": "Bota Galocha Impermeável EPI com C.A. Original Proteção Chuva Motoboy Limpeza ENVIO IMEDIATO",
@@ -2279,90 +2313,6 @@
     "niche": {
       "key": "shopee_jogos_consoles",
       "name": "Jogos e Consoles"
-    }
-  },
-  {
-    "id": "fb05bbdc43198b6f65",
-    "title": "Porta Leite em Pó Plásutil",
-    "raw_title": "Porta Leite em Pó Fórmula Infantil 9 Porções Dosador para Fórmula Infantil Plásutil",
-    "description": "🚨 Mamães e Papais, ATENÇÃO! 🚨 Facilite a vida com o Porta Leite em Pó Fórmula Infantil da Plásutil! Ideal para organizar as porções do seu bebê e levar...",
-    "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
-    "old_price": "R$ 33,15",
-    "price": "R$ 17,90",
-    "discount_percent": 46.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-maa8wb2cg62e2c",
-    "affiliate_url": "https://s.shopee.com.br/BTh8A4khi",
-    "created_at": "10/09/2026 08:22",
-    "created_at_iso": "2026-09-10T08:22:55",
-    "created_ts": 1789028575,
-    "niche": {
-      "key": "shopee_bebidas_alimentos",
-      "name": "Bebidas e Alimentos"
-    }
-  },
-  {
-    "id": "555b0e003fc4f96d84",
-    "title": "Gelatina Kids Super Brilhante",
-    "raw_title": "Gelatina Chocolate Kids Super Brilhante 550g",
-    "description": "🌟 Brilho e cuidado para os cachos dos pequenos! Gelatina Chocolate Kids Super Brilhante 550g da Salon Line! Cachos definidos e cheios de vida com cheiri...",
-    "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
-    "old_price": "R$ 31,51",
-    "price": "R$ 17,33",
-    "discount_percent": 45.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134201-820me-mp9hlobiyz29a8",
-    "affiliate_url": "https://s.shopee.com.br/9peCdvTg2u",
-    "created_at": "10/09/2026 08:21",
-    "created_at_iso": "2026-09-10T08:21:48",
-    "created_ts": 1789028508,
-    "niche": {
-      "key": "shopee_bebidas_alimentos",
-      "name": "Bebidas e Alimentos"
-    }
-  },
-  {
-    "id": "c7030a2c455a5429f5",
-    "title": "Kit Borrifadores Azeite e Vinagre",
-    "raw_title": "Kit 2 Borrifadores de Azeite Vinagre Líquidos Pulverizador Culinário 200ml",
-    "description": "Cozinha mais prática e saborosa? Sim! 🤩 Tenha precisão e facilidade ao temperar seus pratos com o Kit 2 Borrifadores de Azeite e Vinagre. Perfeito para...",
-    "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
-    "old_price": "R$ 68,93",
-    "price": "R$ 19,99",
-    "discount_percent": 71.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mipusv9cf4eaac",
-    "affiliate_url": "https://s.shopee.com.br/1BMEK05Cw0",
-    "created_at": "10/09/2026 08:19",
-    "created_at_iso": "2026-09-10T08:19:22",
-    "created_ts": 1789028362,
-    "niche": {
-      "key": "shopee_bebidas_alimentos",
-      "name": "Bebidas e Alimentos"
-    }
-  },
-  {
-    "id": "c5ff2270e1bc26ea04",
-    "title": "Galheteiro Borrifador 2 em 1",
-    "raw_title": "Galheteiro Azeite Borrifador Dosador 2 em 1 Economico vidro 470ml Óleo Vinagre Shoyu Gourmet",
-    "description": "🚨 Oferta IMPERDÍVEL para sua cozinha! 🚨 Chega de desperdício! Com o Galheteiro Borrifador e Dosador 2 em 1, você tempera seus pratos com precisão e econ...",
-    "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
-    "old_price": "R$ 68,97",
-    "price": "R$ 20,00",
-    "discount_percent": 71.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820l5-msibm1afaozob2",
-    "affiliate_url": "https://s.shopee.com.br/1AGvr9eIl",
-    "created_at": "10/09/2026 08:18",
-    "created_at_iso": "2026-09-10T08:18:15",
-    "created_ts": 1789028295,
-    "niche": {
-      "key": "shopee_bebidas_alimentos",
-      "name": "Bebidas e Alimentos"
     }
   }
 ]

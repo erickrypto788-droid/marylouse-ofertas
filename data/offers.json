@@ -1,5 +1,47 @@
 [
   {
+    "id": "117b648164ce1d9572",
+    "title": "Mini Panela Elétrica Bivolt",
+    "raw_title": "Mini Panela elétrica （110V / 220V）",
+    "description": "🔥 Praticidade na cozinha com a Mini Panela Elétrica! 🍳 Perfeita para refeições rápidas e fáceis. Bivolt (110V/220V), ideal para seu dia a dia ou viagens...",
+    "marketplace": "Shopee",
+    "category": "Eletrodomésticos",
+    "old_price": "R$ 99,80",
+    "price": "R$ 58,88",
+    "discount_percent": 41.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-825ae-mg5kfnqkan7wc8",
+    "affiliate_url": "https://s.shopee.com.br/7fZjrDMukD",
+    "created_at": "11/09/2026 11:17",
+    "created_at_iso": "2026-09-11T11:17:22",
+    "created_ts": 1789125442,
+    "niche": {
+      "key": "shopee_eletrodomesticos",
+      "name": "Eletrodomésticos"
+    }
+  },
+  {
+    "id": "b799dff60b980f9be0",
+    "title": "Liquidificador Triturador Compacto",
+    "raw_title": "Liquidificador Triturador Compacto para suco com Led - suco e frutas Bivolt 600ml novo ZZJ",
+    "description": "⚡️ OFERTA RELÂMPAGO NA SHOPEE! Liquidificador Triturador Compacto com 50% OFF! 🤩 Prepare seus sucos e vitaminas em qualquer lugar! Este modelo portátil...",
+    "marketplace": "Shopee",
+    "category": "Eletrodomésticos",
+    "old_price": "R$ 157,36",
+    "price": "R$ 78,68",
+    "discount_percent": 50.0,
+    "rating": 4.5,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lp-mlwwdr6umzno4b",
+    "affiliate_url": "https://s.shopee.com.br/6fhBP4YgdJ",
+    "created_at": "11/09/2026 11:16",
+    "created_at_iso": "2026-09-11T11:16:07",
+    "created_ts": 1789125367,
+    "niche": {
+      "key": "shopee_eletrodomesticos",
+      "name": "Eletrodomésticos"
+    }
+  },
+  {
     "id": "c29c2200e6ada01728",
     "title": "Cabo Turbo Tipo-C Samsung",
     "raw_title": "Cabo Turbo Tipo-C Compativel com Samsung USB-C carregamento Rápido",
@@ -2238,107 +2280,6 @@
     "niche": {
       "key": "shopee_roupas_masculinas",
       "name": "Roupas Masculinas"
-    }
-  },
-  {
-    "id": "c99f9ab816bc5940cd",
-    "title": "Calça Esporte Fino Masculina",
-    "raw_title": "Calça Masculina Esporte Fino Estilo Social - Sport Fino",
-    "description": "✨ ELEVE SEU ESTILO COM DESCONTO! ✨ Garanta já a sua Calça Masculina Esporte Fino Estilo Social. Perfeita para o trabalho ou eventos casuais, unindo eleg...",
-    "marketplace": "Shopee",
-    "category": "Roupas Masculinas",
-    "old_price": "R$ 119,49",
-    "price": "R$ 80,06",
-    "discount_percent": 33.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820mf-mnkjjlw2lceca5",
-    "affiliate_url": "https://s.shopee.com.br/4LJGIB4yeg",
-    "created_at": "10/09/2026 11:16",
-    "created_at_iso": "2026-09-10T11:16:55",
-    "created_ts": 1789039015,
-    "niche": {
-      "key": "shopee_roupas_masculinas",
-      "name": "Roupas Masculinas"
-    }
-  },
-  {
-    "id": "e4c84fe7be122e2b32",
-    "title": "Kit 2 Camisas Polo Masculinas",
-    "raw_title": "Kit 2 camisa polo masculina camiseta premium piquet poliester",
-    "description": "✨ Estilo e economia que você merece! Garanta já o seu Kit 2 Camisas Polo Masculinas Premium em Piquet. Conforto e qualidade para todas as ocasiões!",
-    "marketplace": "Shopee",
-    "category": "Roupas Masculinas",
-    "old_price": "R$ 90,59",
-    "price": "R$ 53,45",
-    "discount_percent": 41.0,
-    "rating": 4.7,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lq5op3mkxlb334",
-    "affiliate_url": "https://s.shopee.com.br/9AOW33di1T",
-    "created_at": "10/09/2026 11:15",
-    "created_at_iso": "2026-09-10T11:15:46",
-    "created_ts": 1789038946,
-    "niche": {
-      "key": "shopee_roupas_masculinas",
-      "name": "Roupas Masculinas"
-    }
-  },
-  {
-    "id": "9e16ae5e606ca24964",
-    "title": "Fone Bluetooth Redmi",
-    "raw_title": "Fone Bluetooth Redmi",
-    "description": "🎧 OFERTA RELÂMPAGO! Fone Bluetooth Redmi! Liberdade e qualidade de som para o seu dia a dia, sem fios! Aproveite essa chance única. 🚚 Frete grátis!",
-    "marketplace": "Mercado Livre",
-    "category": "Informática",
-    "old_price": "R$ 43,00",
-    "price": "R$ 35,00",
-    "discount_percent": 19.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_918309-MLA97869219589_112025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62010143?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "10/09/2026 11:03",
-    "created_at_iso": "2026-09-10T11:03:07",
-    "created_ts": 1789038187
-  },
-  {
-    "id": "6129a4a8981425ea71",
-    "title": "CONJUNTO PATY FEMININO LUXO - SAIA COM CROPPED DE AMARRAÇÃO (PAULA)",
-    "raw_title": "CONJUNTO PATY FEMININO LUXO - SAIA COM CROPPED DE AMARRAÇÃO (PAULA)",
-    "description": "🔥 Oferta encontrada! 📌 CONJUNTO PATY FEMININO LUXO - SAIA COM CROPPED DE AMARRAÇÃO (PAULA) Confira os detalhes e aproveite enquanto a oferta estiver dis...",
-    "marketplace": "Shopee",
-    "category": "Roupas Femininas",
-    "old_price": "",
-    "price": "R$ 35,00",
-    "discount_percent": 0.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820l8-mmqe8ufqeark87",
-    "affiliate_url": "https://s.shopee.com.br/3qMzd8ztVv",
-    "created_at": "10/09/2026 10:21",
-    "created_at_iso": "2026-09-10T10:21:34",
-    "created_ts": 1789035694,
-    "niche": {
-      "key": "shopee_roupas_femininas",
-      "name": "Roupas Femininas"
-    }
-  },
-  {
-    "id": "9cc541eaa993d97fae",
-    "title": "Kit 4 Top Cropped Academia Forro Duplo Microfibra Feminino",
-    "raw_title": "Kit 4 Top Cropped Academia Forro Duplo Microfibra Feminino",
-    "description": "🔥 51% OFF — Oferta encontrada! 📌 Kit 4 Top Cropped Academia Forro Duplo Microfibra Feminino Confira os detalhes e aproveite enquanto a oferta estiver di...",
-    "marketplace": "Shopee",
-    "category": "Roupas Femininas",
-    "old_price": "R$ 101,02",
-    "price": "R$ 49,50",
-    "discount_percent": 51.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-820nz-mnutu1g7jeo6cf",
-    "affiliate_url": "https://s.shopee.com.br/2gB2F04Ksa",
-    "created_at": "10/09/2026 10:20",
-    "created_at_iso": "2026-09-10T10:20:30",
-    "created_ts": 1789035630,
-    "niche": {
-      "key": "shopee_roupas_femininas",
-      "name": "Roupas Femininas"
     }
   }
 ]

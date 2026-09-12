@@ -1,5 +1,22 @@
 [
   {
+    "id": "593fbbeb69a79244b6",
+    "title": "Cadeira Escritório Secretaria Rcp Preto",
+    "raw_title": "Cadeira Escritório Secretaria Rcp Preto",
+    "description": "⚡️ OFERTA IMPERDÍVEL! ⚡️ Cadeira Escritório Secretaria Rcp Preto: design e ergonomia para o seu home office ou ambiente de trabalho. Garanta mais confor...",
+    "marketplace": "Mercado Livre",
+    "category": "Casa e Decoração",
+    "old_price": "",
+    "price": "R$ 261,89",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_830361-MLA95524555493_102025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB22813112?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "12/09/2026 07:02",
+    "created_at_iso": "2026-09-12T07:02:33",
+    "created_ts": 1789196553
+  },
+  {
     "id": "d5dc4ecf5aafd4f401",
     "title": "Micro-ondas Electrolux 20L cor Inox Espelhado com Função Tira Odor (M…",
     "raw_title": "Micro-ondas Electrolux 20L cor Inox Espelhado com Função Tira Odor (MT30S)",
@@ -1918,27 +1935,6 @@
     "niche": {
       "key": "shopee_roupas_plus_size",
       "name": "Roupas Plus Size"
-    }
-  },
-  {
-    "id": "3b11fce57212f99710",
-    "title": "Camiseta Basica Algodão Pima Peruano Tecido Encorpado Malha Super Mar…",
-    "raw_title": "Camiseta Basica Algodão Pima Peruano Tecido Encorpado Malha Super Marcio Importado diadia",
-    "description": "🔥 29% OFF — Oferta encontrada! 📌 Camiseta Basica Algodão Pima Peruano Tecido Encorpado Malha Super Marcio Importado diadia Confira os detalhes e aprovei...",
-    "marketplace": "Shopee",
-    "category": "Roupas Masculinas",
-    "old_price": "R$ 98,58",
-    "price": "R$ 69,99",
-    "discount_percent": 29.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdkir3fpujtd09",
-    "affiliate_url": "https://s.shopee.com.br/1Lffyx92gx",
-    "created_at": "11/09/2026 06:20",
-    "created_at_iso": "2026-09-11T06:20:00",
-    "created_ts": 1789107600,
-    "niche": {
-      "key": "shopee_roupas_masculinas",
-      "name": "Roupas Masculinas"
     }
   }
 ]

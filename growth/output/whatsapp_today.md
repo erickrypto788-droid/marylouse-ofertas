@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 11/09/2026 22:39
+Gerado em: 12/09/2026 00:23
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Calça Lanzinha Inverno
+Macacão Pantalona Social Luxo
 
-💸 De: R$ 99,90
-🔥 Por: R$ 29,97
-🏷️ 70% OFF
+💸 De: R$ 199,71
+🔥 Por: R$ 69,90
+🏷️ 65% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/3qN0tR1L46
+Ver oferta: https://s.shopee.com.br/9zxfV69MjG
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

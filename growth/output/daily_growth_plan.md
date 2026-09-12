@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 11/09/2026 22:39
+Gerado em: 12/09/2026 00:23
 
 ## Categorias prioritárias
 
 - 📦 **Outros**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 📚 **Papelaria**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
-- 🍼 **Mãe e Bebê**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 💻 **Informática**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 👜 **Bolsas**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
+- 🍼 **Mãe e Bebê**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 👗 **Moda Feminina**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
+- 💻 **Informática**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 🐶 **Pet**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
-- 🏋️ **Esportes**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 🐶 **Pet**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 🧸 **Brinquedos**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 💄 **Beleza**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 🏋️ **Esportes**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 
 ## Top ofertas para destacar
 
@@ -45,47 +45,47 @@ Gerado em: 11/09/2026 22:39
    - Desconto: 41% OFF
    - Link: https://s.shopee.com.br/7fZjrDMukD
 
-5. **Mochila Reforçada Notebook Impermeável**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 29,90
-   - Desconto: 41% OFF
-   - Link: https://s.shopee.com.br/7pt9KArqoF
-
-6. **Monitor Gamer Mancer Valak Z186**
+5. **Monitor Gamer Mancer Valak Z186**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 566,90
    - Desconto: 58% OFF
    - Link: https://s.shopee.com.br/1Vz5umGXMf
 
-7. **Berço Portátil Com Mosquiteiro Cama De Duas Camas 0-3 Anos Fecho De S…**
+6. **Berço Portátil Com Mosquiteiro Cama De Duas Camas 0-3 Anos Fecho De S…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 538,79
    - Desconto: 68% OFF
    - Link: https://s.shopee.com.br/7fZkFvbcrV
 
-8. **Oxímetro de Dedo Digital Portátil**
+7. **Oxímetro de Dedo Digital Portátil**
    - Categoria: Saúde
    - Loja: Shopee
    - Preço: R$ 31,99
    - Desconto: 57% OFF
    - Link: https://s.shopee.com.br/7pt97pOMpb
 
-9. **Dispensador Lego Criativo**
+8. **Dispensador Lego Criativo**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 35,58
    - Desconto: 50% OFF
    - Link: https://s.shopee.com.br/3LQjhQHBEe
 
-10. **Sandália Flatform Infantil Menina Papete Glady Strass Fashion Várias…**
+9. **Sandália Flatform Infantil Menina Papete Glady Strass Fashion Várias…**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 36,90
    - Desconto: 63% OFF
    - Link: https://s.shopee.com.br/5AsNkZ51jn
+
+10. **Frigideira Antiaderente 4 Furos**
+   - Categoria: Casa e Cozinha
+   - Loja: Shopee
+   - Preço: R$ 26,00
+   - Desconto: 68% OFF
+   - Link: https://s.shopee.com.br/AUtvIWWvKj
 
 ## Ações gratuitas recomendadas
 

@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 12/09/2026 10:55
+Gerado em: 12/09/2026 11:20
 
 ## Categorias prioritárias
 
@@ -10,10 +10,10 @@ Gerado em: 12/09/2026 10:55
 - 🧸 **Brinquedos**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 🐶 **Pet**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
-- 📦 **Outros**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 📚 **Papelaria**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
-- 🍳 **Casa e Cozinha**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 👗 **Moda Feminina**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
+- ❤️ **Saúde**: 4 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 
 ## Top ofertas para destacar
 
@@ -45,47 +45,47 @@ Gerado em: 12/09/2026 10:55
    - Desconto: 43% OFF
    - Link: https://s.shopee.com.br/7fZlBbRYTS
 
-5. **Mini Panela Elétrica Bivolt**
-   - Categoria: Casa e Cozinha
+5. **Tiras Glicose G-Tech Vita C/50**
+   - Categoria: Saúde
    - Loja: Shopee
-   - Preço: R$ 58,88
-   - Desconto: 41% OFF
-   - Link: https://s.shopee.com.br/7fZjrDMukD
+   - Preço: R$ 44,90
+   - Desconto: 57% OFF
+   - Link: https://s.shopee.com.br/9KhyArXdWI
 
-6. **Tapete Térmico Infantil Lavável**
+6. **Aparelho Medidor De Pressão Arterial Digital De Braço Alta Precisão C…**
+   - Categoria: Saúde
+   - Loja: Shopee
+   - Preço: R$ 37,99
+   - Desconto: 62% OFF
+   - Link: https://s.shopee.com.br/1BMHi8mhzI
+
+7. **Tapete Térmico Infantil Lavável**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 21,98
    - Desconto: 56% OFF
    - Link: https://s.shopee.com.br/3LQmDztfau
 
-7. **Kit 6 Peças Roupa De Bebê**
+8. **Kit 6 Peças Roupa De Bebê**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 47,89
    - Desconto: 56% OFF
    - Link: https://s.shopee.com.br/8plidrpxf4
 
-8. **Kit 2 Body Splash Feminino Perfumado**
+9. **Kit 2 Body Splash Feminino Perfumado**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 28,90
    - Desconto: 64% OFF
    - Link: https://s.shopee.com.br/gPyKA6qRt
 
-9. **Panela de Pressão Antiaderente 4,5L**
+10. **Panela de Pressão Antiaderente 4,5L**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 134,50
    - Desconto: 28% OFF
    - Link: https://s.shopee.com.br/20vON5AwJm
-
-10. **Carregador iPhone Turbo Tipo-C 20W + Cabo Lightining para IPhone Carg…**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 16,99
-   - Desconto: 66% OFF
-   - Link: https://s.shopee.com.br/1gIXuLItTX
 
 ## Ações gratuitas recomendadas
 

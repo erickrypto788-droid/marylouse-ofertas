@@ -1,5 +1,47 @@
 [
   {
+    "id": "5fbfda72e016558f2f",
+    "title": "Tênis Corrida Placa Carbono",
+    "raw_title": "Tênis De Corrida Profissional Ultraleve Com Placa De Carbono De Sola Completa Para Maratona , Masculino E Feminino",
+    "description": "🚀 Voe nas pistas com o Tênis de Corrida Profissional Ultraleve com Placa de Carbono! Ideal para maratonas, masculino e feminino. 🏃‍♂️💨",
+    "marketplace": "Shopee",
+    "category": "Sapatos Femininos",
+    "old_price": "R$ 99,99",
+    "price": "R$ 69,99",
+    "discount_percent": 30.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-81zvj-mmsdueupko3q35",
+    "affiliate_url": "https://s.shopee.com.br/gQ0eNbuX7",
+    "created_at": "12/09/2026 04:17",
+    "created_at_iso": "2026-09-12T04:17:34",
+    "created_ts": 1789186654,
+    "niche": {
+      "key": "shopee_sapatos_femininos",
+      "name": "Sapatos Femininos"
+    }
+  },
+  {
+    "id": "452f8e99600f498f9a",
+    "title": "Bota Coturno Adventure Feminino Tênis Cano Curto Preto Rosa do 33 ao…",
+    "raw_title": "Bota Coturno Adventure Feminino Tênis Cano Curto Preto Rosa do 33 ao 40",
+    "description": "🔥 40% OFF — Oferta encontrada! 📌 Bota Coturno Adventure Feminino Tênis Cano Curto Preto Rosa do 33 ao 40 Confira os detalhes e aproveite enquanto a ofer...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Femininos",
+    "old_price": "R$ 99,97",
+    "price": "R$ 59,98",
+    "discount_percent": 40.0,
+    "rating": 4.6,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820l8-mn1v8yk1rbicbd",
+    "affiliate_url": "https://s.shopee.com.br/9zxflXFiSX",
+    "created_at": "12/09/2026 04:15",
+    "created_at_iso": "2026-09-12T04:15:44",
+    "created_ts": 1789186544,
+    "niche": {
+      "key": "shopee_sapatos_femininos",
+      "name": "Sapatos Femininos"
+    }
+  },
+  {
     "id": "155f6a42a283ca9439",
     "title": "Tênis Infantil Menino Masculino Casual Sapatenis Infantil",
     "raw_title": "Tênis Infantil Menino Masculino Casual Sapatenis Infantil",
@@ -1952,110 +1994,5 @@
     "created_at": "11/09/2026 05:01",
     "created_at_iso": "2026-09-11T05:01:23",
     "created_ts": 1789102883
-  },
-  {
-    "id": "aab0690e98bff452a7",
-    "title": "Console PlayStation 5 Slim Digital 825GB",
-    "raw_title": "Console PlayStation 5 Slim Digital 825GB",
-    "description": "🔥 3% OFF — Oferta encontrada! 📌 Console PlayStation 5 Slim Digital 825GB Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Shopee",
-    "category": "Jogos e Consoles",
-    "old_price": "R$ 5.154,54",
-    "price": "R$ 4.999,90",
-    "discount_percent": 3.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfmltid9j6dj4f",
-    "affiliate_url": "https://s.shopee.com.br/3qMzZ2NhqF",
-    "created_at": "11/09/2026 04:16",
-    "created_at_iso": "2026-09-11T04:16:51",
-    "created_ts": 1789100211,
-    "niche": {
-      "key": "shopee_jogos_consoles",
-      "name": "Jogos e Consoles"
-    }
-  },
-  {
-    "id": "b9e5cf957ac073abab",
-    "title": "Console Nintendo Switch OLED + Super Mario Bros + 3 Meses NSO",
-    "raw_title": "Console Nintendo Switch OLED + Super Mario Bros + 3 Meses NSO",
-    "description": "🔥 19% OFF — Oferta encontrada! 📌 Console Nintendo Switch OLED + Super Mario Bros + 3 Meses NSO Confira os detalhes e aproveite enquanto a oferta estiver...",
-    "marketplace": "Shopee",
-    "category": "Jogos e Consoles",
-    "old_price": "R$ 2.715,93",
-    "price": "R$ 2.199,90",
-    "discount_percent": 19.0,
-    "rating": 5.0,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ld-mrhncjeix1jae6",
-    "affiliate_url": "https://s.shopee.com.br/7VGJC3Fzkw",
-    "created_at": "11/09/2026 04:15",
-    "created_at_iso": "2026-09-11T04:15:47",
-    "created_ts": 1789100147,
-    "niche": {
-      "key": "shopee_jogos_consoles",
-      "name": "Jogos e Consoles"
-    }
-  },
-  {
-    "id": "f2bf1650c69b71f03a",
-    "title": "Caixa de Bombom Lacta Favoritos 250,6g",
-    "raw_title": "Caixa de Bombom Lacta Favoritos 250,6g",
-    "description": "🔥 43% OFF — Oferta encontrada! 📌 Caixa de Bombom Lacta Favoritos 250,6g Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
-    "old_price": "R$ 29,81",
-    "price": "R$ 16,99",
-    "discount_percent": 43.0,
-    "rating": 4.7,
-    "image": "https://cf.shopee.com.br/file/br-11134201-820l6-mrhragxfck5g70",
-    "affiliate_url": "https://s.shopee.com.br/6VNlw5DHvD",
-    "created_at": "11/09/2026 03:20",
-    "created_at_iso": "2026-09-11T03:20:09",
-    "created_ts": 1789096809,
-    "niche": {
-      "key": "shopee_bebidas_alimentos",
-      "name": "Bebidas e Alimentos"
-    }
-  },
-  {
-    "id": "ef12e295afd99a1f18",
-    "title": "Mini Filtro De Café Chá Coador De Café Reutilizável Portátil Inox",
-    "raw_title": "Mini Filtro De Café Chá Coador De Café Reutilizável Portátil Inox",
-    "description": "🔥 43% OFF — Oferta encontrada! 📌 Mini Filtro De Café Chá Coador De Café Reutilizável Portátil Inox Confira os detalhes e aproveite enquanto a oferta est...",
-    "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
-    "old_price": "R$ 29,81",
-    "price": "R$ 16,99",
-    "discount_percent": 43.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820mf-mp41tle5y6tc9d",
-    "affiliate_url": "https://s.shopee.com.br/7VGJ7v0gLM",
-    "created_at": "11/09/2026 03:19",
-    "created_at_iso": "2026-09-11T03:19:05",
-    "created_ts": 1789096745,
-    "niche": {
-      "key": "shopee_bebidas_alimentos",
-      "name": "Bebidas e Alimentos"
-    }
-  },
-  {
-    "id": "9f5d958ad5e38169b6",
-    "title": "Puff Orgânico Curvo - 1 Metro",
-    "raw_title": "Puff Orgânico Curvo - 1 Metro Elegância e Conforto Moderno Feijao moderno tecido premium",
-    "description": "🛋️ Conforto e Estilo Moderno pela METADE do preço! Transforme seu ambiente com o Puff Orgânico Curvo de 1 Metro. ✨ Design elegante e tecido premium para...",
-    "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
-    "old_price": "R$ 397,76",
-    "price": "R$ 194,90",
-    "discount_percent": 51.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lv-mnpmwo5oh5vkd7",
-    "affiliate_url": "https://s.shopee.com.br/50Yy9KNOlv",
-    "created_at": "11/09/2026 03:18",
-    "created_at_iso": "2026-09-11T03:18:01",
-    "created_ts": 1789096681,
-    "niche": {
-      "key": "shopee_bebidas_alimentos",
-      "name": "Bebidas e Alimentos"
-    }
   }
 ]

@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 12/09/2026 18:22
+Gerado em: 12/09/2026 19:04
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 12/09/2026 18:22
 
 **Produtos usados:**
 
+- Azul escova limpeza mamadeira kit para limpeza de mamadeira kit limpe…
 - Ninho Redutor de Berço Mosquiteiro Portátil
 - Tapete Térmico Infantil Lavável
-- Kit 6 Peças Roupa De Bebê
 
 ---
 

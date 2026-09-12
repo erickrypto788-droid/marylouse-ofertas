@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 12/09/2026 21:21
+Gerado em: 12/09/2026 22:08
 
 ## Como usar
 
@@ -98,9 +98,9 @@ Gerado em: 12/09/2026 21:21
 
 **Produtos usados:**
 
-- Celular Smartphone 5G 16GB/512GB
 - Gamesir T4 Nova Lite Controlador De Jogo Sem Fio Multiplataforma Efei…
 - Carregador iPhone Turbo Tipo-C 20W + Cabo Lightining para IPhone Carg…
+- Adaptador Tipo-C USB-C e Leitor de Cartão OTG
 
 ---
 
@@ -123,7 +123,7 @@ Gerado em: 12/09/2026 21:21
 **Produtos usados:**
 
 - Kit Pele de Porcelana com Sérum de Arroz e Olhos de Gueixa Kokeshi
+- Absorvente Mulher Ativa Com Abas Kit 80 Pacotes Gel Super Absorvente
 - Creme dental Virbac C.e.t. Creme dental para cães 70 g sabor frango
-- Base Amaciante 500 Faz 100 Litros Amaciante
 
 ---

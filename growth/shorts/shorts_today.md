@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 12/09/2026 07:04
+Gerado em: 12/09/2026 07:22
 
 ## Como usar
 
@@ -78,9 +78,9 @@ Gerado em: 12/09/2026 07:04
 
 **Produtos usados:**
 
+- Escova Rotativa Secadora 2 em 1
 - Escova Secadora 3 em 1 Profissional
-- Perfume Feminino Hinode Eterna
-- Principia Kit Protetor Solar PS-01 FPS 60 + PS-05 FPS 70- escolha seu…
+- Kit 3 Perfumes Malbec Masculino
 
 ---
 

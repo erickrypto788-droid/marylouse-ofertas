@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 12/09/2026 11:20
+Gerado em: 12/09/2026 12:21
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 12/09/2026 11:20
 
 **Produtos usados:**
 
+- Ninho Redutor de Berço Mosquiteiro Portátil
 - Berço Portátil Com Mosquiteiro Cama De Duas Camas 0-3 Anos Fecho De S…
 - Tapete Térmico Infantil Lavável
-- Kit 6 Peças Roupa De Bebê
 
 ---
 
@@ -49,12 +49,10 @@ Gerado em: 12/09/2026 11:20
 - growth/shorts/slides/casa_cozinha/01_intro.png
 - growth/shorts/slides/casa_cozinha/02_produto_1.png
 - growth/shorts/slides/casa_cozinha/03_produto_2.png
-- growth/shorts/slides/casa_cozinha/04_produto_3.png
 - growth/shorts/slides/casa_cozinha/05_cta.png
 
 **Produtos usados:**
 
-- Frigideira Antiaderente 4 Furos
 - Panela de Pressão Antiaderente 4,5L
 - Dispensador Lego Criativo
 
@@ -79,8 +77,8 @@ Gerado em: 12/09/2026 11:20
 **Produtos usados:**
 
 - Escova Rotativa Secadora 2 em 1
-- Escova Secadora 3 em 1 Profissional
 - Kit 3 Perfumes Malbec Masculino
+- Kit 2 Body Splash Feminino Perfumado
 
 ---
 

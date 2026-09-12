@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 12/09/2026 16:22
+Gerado em: 12/09/2026 18:05
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 12/09/2026 16:22
 **Produtos usados:**
 
 - Ninho Redutor de Berço Mosquiteiro Portátil
-- Berço Portátil Com Mosquiteiro Cama De Duas Camas 0-3 Anos Fecho De S…
 - Tapete Térmico Infantil Lavável
+- Kit 6 Peças Roupa De Bebê
 
 ---
 

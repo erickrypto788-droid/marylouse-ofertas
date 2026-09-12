@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 12/09/2026 19:04
+Gerado em: 12/09/2026 19:20
 
 ## Como usar
 
@@ -99,8 +99,8 @@ Gerado em: 12/09/2026 19:04
 **Produtos usados:**
 
 - Celular Smartphone 5G 16GB/512GB
+- Gamesir T4 Nova Lite Controlador De Jogo Sem Fio Multiplataforma Efei…
 - Carregador iPhone Turbo Tipo-C 20W + Cabo Lightining para IPhone Carg…
-- Adaptador Tipo-C USB-C e Leitor de Cartão OTG
 
 ---
 

@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 12/09/2026 09:22
+Gerado em: 12/09/2026 10:22
 
 ## Como usar
 
@@ -12,37 +12,7 @@ Gerado em: 12/09/2026 09:22
 
 ---
 
-## Post 1 — Celulares e Tecnologia
-
-**Canal recomendado:** Celulares e Tecnologia
-
-**Horário sugerido:** 19:00 - 21:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
-
-**Texto pronto:**
-
-```txt
-📱 Oferta para Celulares e Tecnologia
-
-Capa para Samsung Galaxy Tab
-
-💸 De: R$ 100,00
-🔥 Por: R$ 29,00
-🏷️ 71% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/AAH3VNf2ZX
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 2 — Beleza e Cuidados
+## Post 1 — Beleza e Cuidados
 
 **Canal recomendado:** Beleza e Cuidados
 
@@ -72,7 +42,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 3 — Ofertas Pet
+## Post 2 — Ofertas Pet
 
 **Canal recomendado:** Ofertas Pet
 
@@ -95,6 +65,36 @@ Sandália Flatform Infantil Menina Papete Glady Strass Fashion Várias…
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/5AsNkZ51jn
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 3 — Mamãe e Bebê
+
+**Canal recomendado:** Mamãe e Bebê
+
+**Horário sugerido:** 09:00 - 11:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
+
+**Texto pronto:**
+
+```txt
+🍼 Oferta para Mamãe e Bebê
+
+Tapete Térmico Infantil Lavável
+
+💸 De: R$ 49,95
+🔥 Por: R$ 21,98
+🏷️ 56% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/3LQmDztfau
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
@@ -132,29 +132,29 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 5 — Mamãe e Bebê
+## Post 5 — Celulares e Tecnologia
 
-**Canal recomendado:** Mamãe e Bebê
+**Canal recomendado:** Celulares e Tecnologia
 
-**Horário sugerido:** 09:00 - 11:00
+**Horário sugerido:** 19:00 - 21:00
 
 **Imagem/card:**
 
-https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
+https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
 
 **Texto pronto:**
 
 ```txt
-🍼 Oferta para Mamãe e Bebê
+📱 Oferta para Celulares e Tecnologia
 
-Berço Portátil Com Mosquiteiro Cama De Duas Camas 0-3 Anos Fecho De S…
+Celular Smartphone 5G 16GB/512GB
 
-💸 De: R$ 1.683,72
-🔥 Por: R$ 538,79
-🏷️ 68% OFF
-🛒 Loja: Shopee
+💸 De: R$ 3.320,00
+🔥 Por: R$ 1.660,00
+🏷️ 50% OFF
+🛒 Loja: Mercado Livre
 
-Ver oferta: https://s.shopee.com.br/7fZkFvbcrV
+Ver oferta: https://www.mercadolivre.com.br/p/MLB78262248?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

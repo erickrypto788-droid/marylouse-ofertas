@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 12/09/2026 15:22
+Gerado em: 12/09/2026 16:22
 
 ## Como usar
 
@@ -100,7 +100,7 @@ Gerado em: 12/09/2026 15:22
 
 - Celular Smartphone 5G 16GB/512GB
 - Carregador iPhone Turbo Tipo-C 20W + Cabo Lightining para IPhone Carg…
-- Ulefone Note 18 Ultra 256GB 6GB RAM Celular 5G
+- Adaptador Tipo-C USB-C e Leitor de Cartão OTG
 
 ---
 

@@ -1,16 +1,16 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 12/09/2026 15:22
+Gerado em: 12/09/2026 16:22
 
 ## Categorias prioritárias
 
 - 🍼 **Mãe e Bebê**: 15 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 💻 **Informática**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 📚 **Papelaria**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
-- 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
-- 💻 **Informática**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 🐶 **Pet**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 💄 **Beleza**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 👟 **Calçados**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 🐶 **Pet**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 👜 **Bolsas**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 - 🏋️ **Esportes**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
@@ -45,47 +45,47 @@ Gerado em: 12/09/2026 15:22
    - Desconto: 43% OFF
    - Link: https://s.shopee.com.br/7fZlBbRYTS
 
-5. **Ninho Redutor de Berço Mosquiteiro Portátil**
+5. **Adaptador Tipo-C USB-C e Leitor de Cartão OTG**
+   - Categoria: Celulares
+   - Loja: Shopee
+   - Preço: R$ 17,90
+   - Desconto: 52% OFF
+   - Link: https://s.shopee.com.br/1LfiF3SzuL
+
+6. **MousePad Grande Rosa Desk Pad Couro Gamer Office**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 20,90
+   - Desconto: 50% OFF
+   - Link: https://s.shopee.com.br/30nwE79SD3
+
+7. **Ninho Redutor de Berço Mosquiteiro Portátil**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 64,89
    - Desconto: 69% OFF
    - Link: https://s.shopee.com.br/1qbyZUQ9HQ
 
-6. **Tiras Glicose G-Tech Vita C/50**
+8. **Tiras Glicose G-Tech Vita C/50**
    - Categoria: Saúde
    - Loja: Shopee
    - Preço: R$ 44,90
    - Desconto: 57% OFF
    - Link: https://s.shopee.com.br/9KhyArXdWI
 
-7. **Aparelho Medidor De Pressão Arterial Digital De Braço Alta Precisão C…**
+9. **Aparelho Medidor De Pressão Arterial Digital De Braço Alta Precisão C…**
    - Categoria: Saúde
    - Loja: Shopee
    - Preço: R$ 37,99
    - Desconto: 62% OFF
    - Link: https://s.shopee.com.br/1BMHi8mhzI
 
-8. **Tapete Térmico Infantil Lavável**
+10. **Tapete Térmico Infantil Lavável**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 21,98
    - Desconto: 56% OFF
    - Link: https://s.shopee.com.br/3LQmDztfau
-
-9. **Kit 6 Peças Roupa De Bebê**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 47,89
-   - Desconto: 56% OFF
-   - Link: https://s.shopee.com.br/8plidrpxf4
-
-10. **Kit 2 Body Splash Feminino Perfumado**
-   - Categoria: Pet
-   - Loja: Shopee
-   - Preço: R$ 28,90
-   - Desconto: 64% OFF
-   - Link: https://s.shopee.com.br/gPyKA6qRt
 
 ## Ações gratuitas recomendadas
 

@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 12/09/2026 15:22
+Gerado em: 12/09/2026 16:22
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
 ```txt
 🐶 Oferta para Ofertas Pet
 
-Kit 2 Body Splash Feminino Perfumado
+Repetidor de Sinal Wi-Fi Roteador Wireless 2.4G Sem Fio 4 Antenas Lon…
 
-💸 De: R$ 80,28
-🔥 Por: R$ 28,90
-🏷️ 64% OFF
+💸 De: R$ 90,14
+🔥 Por: R$ 64,90
+🏷️ 28% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/gPyKA6qRt
+Ver oferta: https://s.shopee.com.br/2VrfdCSkZc
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

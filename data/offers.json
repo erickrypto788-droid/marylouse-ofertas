@@ -1,5 +1,110 @@
 [
   {
+    "id": "0acfce4626775513c9",
+    "title": "Vestido Midi Linho Premium",
+    "raw_title": "Vestido Feminino Sem Manga Midi Elegante Soltinho Casual Festa Linho Premium",
+    "description": "✨ Elegância e conforto em um só vestido! O Vestido Feminino Midi de Linho Premium é perfeito para qualquer ocasião: casual, festa ou um look mais soltin...",
+    "marketplace": "Shopee",
+    "category": "Roupas Femininas",
+    "old_price": "R$ 130,75",
+    "price": "R$ 67,99",
+    "discount_percent": 48.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf4itkmckw7b3f",
+    "affiliate_url": "https://s.shopee.com.br/3g3bxS6wLk",
+    "created_at": "12/09/2026 00:21",
+    "created_at_iso": "2026-09-12T00:21:17",
+    "created_ts": 1789172477,
+    "niche": {
+      "key": "shopee_roupas_femininas",
+      "name": "Roupas Femininas"
+    }
+  },
+  {
+    "id": "1e754e84b5175cc767",
+    "title": "Calça Pantalona Feminina Elegante",
+    "raw_title": "Calça Pantalona Feminino Tecido texturado Calça Feminino Cintura Alta Pantalona Elegante",
+    "description": "✨ ESTILO E CONFORTO! Calça Pantalona Feminina com tecido texturizado e cintura alta. Perfeita para qualquer ocasião, com a elegância que você merece! Já...",
+    "marketplace": "Shopee",
+    "category": "Roupas Femininas",
+    "old_price": "R$ 59,98",
+    "price": "R$ 39,59",
+    "discount_percent": 34.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mlxu1qd62v4003",
+    "affiliate_url": "https://s.shopee.com.br/2qUUxvIudV",
+    "created_at": "12/09/2026 00:20",
+    "created_at_iso": "2026-09-12T00:20:06",
+    "created_ts": 1789172406,
+    "niche": {
+      "key": "shopee_roupas_femininas",
+      "name": "Roupas Femininas"
+    }
+  },
+  {
+    "id": "7acd060630cda3a7b2",
+    "title": "Vestido Midi Feminino Malha Suplex",
+    "raw_title": "Vestido Midi Feminino Malha Suplex Moda Camponesa Dia a Dia Confortavel",
+    "description": "✨ Estilo e Conforto para o seu Dia a Dia! ✨ O Vestido Midi Feminino em Malha Suplex é perfeito para quem busca moda camponesa com muito conforto. Ideal...",
+    "marketplace": "Shopee",
+    "category": "Roupas Femininas",
+    "old_price": "R$ 98,09",
+    "price": "R$ 51,99",
+    "discount_percent": 47.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820me-msvzg9hyiih39a",
+    "affiliate_url": "https://s.shopee.com.br/5AsPkD1EIv",
+    "created_at": "12/09/2026 00:18",
+    "created_at_iso": "2026-09-12T00:18:56",
+    "created_ts": 1789172336,
+    "niche": {
+      "key": "shopee_roupas_femininas",
+      "name": "Roupas Femininas"
+    }
+  },
+  {
+    "id": "bd64b05844918b7ce7",
+    "title": "Conjunto Mabel Cropped e Short",
+    "raw_title": "Conjunto Mabel Top Cropped Tomara que Caia Decote Coração e Short Botão com Bolso Cintura Alta Novidade Moda Feminina",
+    "description": "✨ NOVIDADE IMPERDÍVEL! ✨ Arrase com o Conjunto Mabel! 💖 Top cropped tomara que caia com decote coração e short cintura alta com bolso. Perfeito para um...",
+    "marketplace": "Shopee",
+    "category": "Roupas Femininas",
+    "old_price": "R$ 38,91",
+    "price": "R$ 37,74",
+    "discount_percent": 3.0,
+    "rating": 4.7,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mad3gdgvhifj94",
+    "affiliate_url": "https://s.shopee.com.br/9KhyhrpuBT",
+    "created_at": "12/09/2026 00:17",
+    "created_at_iso": "2026-09-12T00:17:47",
+    "created_ts": 1789172267,
+    "niche": {
+      "key": "shopee_roupas_femininas",
+      "name": "Roupas Femininas"
+    }
+  },
+  {
+    "id": "8e1244c5e2be99eb16",
+    "title": "Macacão Pantalona Social Luxo",
+    "raw_title": "Macacão Feminino Longo Regata Pantalona Com Bolsos Social Luxo",
+    "description": "✨ IMPERDÍVEL! Macacão Feminino Longo Regata Pantalona com Bolsos. 🤩 Perfeito para qualquer ocasião, do social ao casual chic! Sinta-se linda e confortáv...",
+    "marketplace": "Shopee",
+    "category": "Roupas Femininas",
+    "old_price": "R$ 199,71",
+    "price": "R$ 69,90",
+    "discount_percent": 65.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lr-mn04hnv8ag3odb",
+    "affiliate_url": "https://s.shopee.com.br/9zxfV69MjG",
+    "created_at": "12/09/2026 00:16",
+    "created_at_iso": "2026-09-12T00:16:37",
+    "created_ts": 1789172197,
+    "niche": {
+      "key": "shopee_roupas_femininas",
+      "name": "Roupas Femininas"
+    }
+  },
+  {
     "id": "48dc6b7b542054f3cd",
     "title": "Pasta De Amendoim Integral Vários Sabores Maniforce",
     "raw_title": "Pasta De Amendoim Integral Vários Sabores Maniforce",
@@ -1981,170 +2086,6 @@
     "niche": {
       "key": "shopee_papelaria",
       "name": "Papelaria"
-    }
-  },
-  {
-    "id": "a67a0d0e29d4003ad4",
-    "title": "Mala Academia Estampada Feminina Masculina Fit Esporte Mala Malinha A…",
-    "raw_title": "Mala Academia Estampada Feminina Masculina Fit Esporte Mala Malinha Academia Unissex Sport Bolsa Transversal Regulável",
-    "description": "🔥 10% OFF — Oferta encontrada! 📌 Mala Academia Estampada Feminina Masculina Fit Esporte Mala Malinha Academia Unissex Sport Bolsa Transversal Regulável...",
-    "marketplace": "Shopee",
-    "category": "Bolsas Masculinas",
-    "old_price": "R$ 29,90",
-    "price": "R$ 26,91",
-    "discount_percent": 10.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820la-mpe0s5knbu2t9e",
-    "affiliate_url": "https://s.shopee.com.br/7Kwsf8n2kq",
-    "created_at": "11/09/2026 00:19",
-    "created_at_iso": "2026-09-11T00:19:03",
-    "created_ts": 1789085943,
-    "niche": {
-      "key": "shopee_bolsas_masculinas",
-      "name": "Bolsas Masculinas"
-    }
-  },
-  {
-    "id": "544308c097614d5eaf",
-    "title": "Capa Para Notebook Stand Macia De Couro PU Macbook Air Pro 13,3 e 15-…",
-    "raw_title": "Capa Para Notebook Stand Macia De Couro PU Macbook Air Pro 13,3 e 15-16,2 Polegadas Bolsa",
-    "description": "🔥 Oferta encontrada! 📌 Capa Para Notebook Stand Macia De Couro PU Macbook Air Pro 13,3 e 15-16,2 Polegadas Bolsa Confira os detalhes e aproveite enquant...",
-    "marketplace": "Shopee",
-    "category": "Bolsas Masculinas",
-    "old_price": "",
-    "price": "R$ 39,89",
-    "discount_percent": 0.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lxkwd3mjkfjzdc",
-    "affiliate_url": "https://s.shopee.com.br/2LYBVmT0nl",
-    "created_at": "11/09/2026 00:17",
-    "created_at_iso": "2026-09-11T00:17:59",
-    "created_ts": 1789085879,
-    "niche": {
-      "key": "shopee_bolsas_masculinas",
-      "name": "Bolsas Masculinas"
-    }
-  },
-  {
-    "id": "34360d24b4612aebbc",
-    "title": "Mochila Masculina 50L",
-    "raw_title": "Mochila Masculina Lona 50 Litros Viagem Passeio Motoboy Esporte Trilha Viagem 803",
-    "description": "🎒 Mochila Masculina de Lona 50 Litros! Acompanha você em todas as aventuras: viagem, passeio, motoboy, esporte ou trilha. Super resistente e espaçosa pa...",
-    "marketplace": "Shopee",
-    "category": "Bolsas Masculinas",
-    "old_price": "R$ 36,87",
-    "price": "R$ 36,50",
-    "discount_percent": 1.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134201-23030-nx9v1tkjn5nv21",
-    "affiliate_url": "https://s.shopee.com.br/4LJH9k0m7G",
-    "created_at": "11/09/2026 00:16",
-    "created_at_iso": "2026-09-11T00:16:55",
-    "created_ts": 1789085815,
-    "niche": {
-      "key": "shopee_bolsas_masculinas",
-      "name": "Bolsas Masculinas"
-    }
-  },
-  {
-    "id": "2ab5f02d4da3186637",
-    "title": "Mochila Reforçada Notebook Impermeável",
-    "raw_title": "Mochila Escolar Reforçada Notebook Impermeável Cabo De Aço",
-    "description": "🚨 Super Oferta para Volta às Aulas! 🎒 Não perca essa chance de garantir a Mochila Escolar Reforçada Notebook Impermeável Cabo De Aço! Perfeita para prot...",
-    "marketplace": "Shopee",
-    "category": "Bolsas Masculinas",
-    "old_price": "R$ 50,68",
-    "price": "R$ 29,90",
-    "discount_percent": 41.0,
-    "rating": 4.6,
-    "image": "https://cf.shopee.com.br/file/92e894139b206ffe034d923c570d2a81",
-    "affiliate_url": "https://s.shopee.com.br/7pt9KArqoF",
-    "created_at": "11/09/2026 00:15",
-    "created_at_iso": "2026-09-11T00:15:44",
-    "created_ts": 1789085744,
-    "niche": {
-      "key": "shopee_bolsas_masculinas",
-      "name": "Bolsas Masculinas"
-    }
-  },
-  {
-    "id": "ced98687f0e5e77d7c",
-    "title": "TOMI MITO Bolsa Feminina com Alça Lateral Transversal Faixa de Mão de…",
-    "raw_title": "TOMI MITO Bolsa Feminina com Alça Lateral Transversal Faixa de Mão de Couro B736",
-    "description": "🔥 54% OFF — Oferta encontrada! 📌 TOMI MITO Bolsa Feminina com Alça Lateral Transversal Faixa de Mão de Couro B736 Confira os detalhes e aproveite enquan...",
-    "marketplace": "Shopee",
-    "category": "Bolsas Femininas",
-    "old_price": "R$ 130,41",
-    "price": "R$ 59,99",
-    "discount_percent": 54.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-824hz-mpj8tt3gjlkx51",
-    "affiliate_url": "https://s.shopee.com.br/7VGIrRZD3d",
-    "created_at": "10/09/2026 23:16",
-    "created_at_iso": "2026-09-10T23:16:48",
-    "created_ts": 1789082208,
-    "niche": {
-      "key": "shopee_bolsas_femininas",
-      "name": "Bolsas Femininas"
-    }
-  },
-  {
-    "id": "d692297ebce26146df",
-    "title": "Bolsa Feminina Baú Transversal Média com Lenço Alça Tiracolo Estrutur…",
-    "raw_title": "Bolsa Feminina Baú Transversal Média com Lenço Alça Tiracolo Estruturada e Espaçosa",
-    "description": "🔥 67% OFF — Oferta encontrada! 📌 Bolsa Feminina Baú Transversal Média com Lenço Alça Tiracolo Estruturada e Espaçosa Confira os detalhes e aproveite enq...",
-    "marketplace": "Shopee",
-    "category": "Bolsas Femininas",
-    "old_price": "R$ 121,15",
-    "price": "R$ 39,98",
-    "discount_percent": 67.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-825av-mrgkchcezqpu43",
-    "affiliate_url": "https://s.shopee.com.br/3g3aIOsCfV",
-    "created_at": "10/09/2026 23:15",
-    "created_at_iso": "2026-09-10T23:15:44",
-    "created_ts": 1789082144,
-    "niche": {
-      "key": "shopee_bolsas_femininas",
-      "name": "Bolsas Femininas"
-    }
-  },
-  {
-    "id": "05b13ab3638d9fd9d8",
-    "title": "Prancha Esteira Ergométrica T3000",
-    "raw_title": "Prancha Esteira Ergométrica Deck Múltipla T3000 Preto",
-    "description": "🏃‍♀️ Treine em Casa com Estilo! A Prancha Esteira Ergométrica Deck Múltipla T3000 Preto está com um preço incrível para você manter a forma! 💪 E tem mai...",
-    "marketplace": "Mercado Livre",
-    "category": "Esportes e Lazer",
-    "old_price": "R$ 311,00",
-    "price": "R$ 270,57",
-    "discount_percent": 13.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_706043-MLA115224941943_072026-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75817587?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "10/09/2026 23:01",
-    "created_at_iso": "2026-09-10T23:01:55",
-    "created_ts": 1789081315
-  },
-  {
-    "id": "408061d0880bf79917",
-    "title": "Berço Portatil Moises Americano Acoplado Bebe Com Balanço e Mosquetei…",
-    "raw_title": "Berço Portatil Moises Americano Acoplado Bebe Com Balanço e Mosqueteiro",
-    "description": "🔥 25% OFF — Oferta encontrada! 📌 Berço Portatil Moises Americano Acoplado Bebe Com Balanço e Mosqueteiro Confira os detalhes e aproveite enquanto a ofer...",
-    "marketplace": "Shopee",
-    "category": "Mãe e Bebê",
-    "old_price": "R$ 599,87",
-    "price": "R$ 449,90",
-    "discount_percent": 25.0,
-    "rating": 5.0,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m6-msr8w3rizev88f",
-    "affiliate_url": "https://s.shopee.com.br/AKaUAXdA09",
-    "created_at": "10/09/2026 22:20",
-    "created_at_iso": "2026-09-10T22:20:18",
-    "created_ts": 1789078818,
-    "niche": {
-      "key": "shopee_mae_bebe",
-      "name": "Mãe e Bebê"
     }
   }
 ]

@@ -1,5 +1,110 @@
 [
   {
+    "id": "f422fe781096c0a56d",
+    "title": "Principia Gel Limpeza Suave",
+    "raw_title": "Principia Gel de Limpeza Suave - GL-02 c/ 200g",
+    "description": "PELE LIMPA E SAUDÁVEL COM DESCONTO! ✨ O Principia Gel de Limpeza Suave - GL-02 c/ 200g é perfeito para sua rotina de cuidados. Limpeza eficaz sem agredi...",
+    "marketplace": "Shopee",
+    "category": "Beleza",
+    "old_price": "R$ 42,86",
+    "price": "R$ 39,00",
+    "discount_percent": 9.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfvjjhfmqcjp5b",
+    "affiliate_url": "https://s.shopee.com.br/40gSorsmXt",
+    "created_at": "12/09/2026 07:20",
+    "created_at_iso": "2026-09-12T07:20:22",
+    "created_ts": 1789197622,
+    "niche": {
+      "key": "shopee_beleza",
+      "name": "Beleza"
+    }
+  },
+  {
+    "id": "b29a9de5ba22a65f2c",
+    "title": "Clareador de Manchas Cicatribem",
+    "raw_title": "Clareador de Manchas para Virilha, Axilas e Melasma 60g - Creme Clareador - Cicatribem",
+    "description": "✨ Pele impecável onde você mais quer! Diga adeus às manchas de virilha, axilas e melasma com o Clareador Cicatribem. ✨ Sua pele merece esse cuidado! Ten...",
+    "marketplace": "Shopee",
+    "category": "Beleza",
+    "old_price": "R$ 169,67",
+    "price": "R$ 149,31",
+    "discount_percent": 12.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820li-mlmnrdi91rt36d",
+    "affiliate_url": "https://s.shopee.com.br/3g3cQFu3Dv",
+    "created_at": "12/09/2026 07:19",
+    "created_at_iso": "2026-09-12T07:19:14",
+    "created_ts": 1789197554,
+    "niche": {
+      "key": "shopee_beleza",
+      "name": "Beleza"
+    }
+  },
+  {
+    "id": "c7f34608b7a483417e",
+    "title": "Kit 3 Perfumes Malbec Masculino",
+    "raw_title": "Kit 3 Perfumes Malbec Masculino Importado Aroma Marcante Essência Alta Fixação Projeção Duradoura",
+    "description": "Perfume importado com precinho? TEMOS! 🤩 Garanta o Kit 3 Perfumes Malbec Masculino com aroma marcante, alta fixação e projeção duradoura. Perfeito para...",
+    "marketplace": "Shopee",
+    "category": "Beleza",
+    "old_price": "R$ 59,47",
+    "price": "R$ 33,90",
+    "discount_percent": 43.0,
+    "rating": 4.1,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mly50552czcw50",
+    "affiliate_url": "https://s.shopee.com.br/7fZlBbRYTS",
+    "created_at": "12/09/2026 07:18",
+    "created_at_iso": "2026-09-12T07:18:07",
+    "created_ts": 1789197487,
+    "niche": {
+      "key": "shopee_beleza",
+      "name": "Beleza"
+    }
+  },
+  {
+    "id": "87c56fcc507d8fe1a8",
+    "title": "Escova Rotativa Secadora 2 em 1",
+    "raw_title": "Escova Rotativa Elétrica Secador de cabelo Professinal 2 em 1 110v e 220v",
+    "description": "💇‍♀️ Cabelos de salão em casa! Transforme seu visual com a Escova Rotativa Elétrica 2 em 1! ✨ Ela é secador e modelador profissional, perfeita para ter...",
+    "marketplace": "Shopee",
+    "category": "Beleza",
+    "old_price": "R$ 303,00",
+    "price": "R$ 99,99",
+    "discount_percent": 67.0,
+    "rating": 4.6,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7rd6i-lv0qqd9yygwye3",
+    "affiliate_url": "https://s.shopee.com.br/6fhDzlVV4I",
+    "created_at": "12/09/2026 07:16",
+    "created_at_iso": "2026-09-12T07:16:57",
+    "created_ts": 1789197417,
+    "niche": {
+      "key": "shopee_beleza",
+      "name": "Beleza"
+    }
+  },
+  {
+    "id": "633cce31faab3e5e1c",
+    "title": "Kit 2 Body Splash Feminino Perfumado",
+    "raw_title": "Kit 2 Body Splash Feminino Perfumado Encanto Lily + Florata Rose Presente Cheiroso Longa Duração",
+    "description": "💖 Cheirinho irresistível com 64% OFF! Garanta seu Kit 2 Body Splash Feminino Perfumado Encanto Lily + Florata Rose e tenha longa duração de um aroma del...",
+    "marketplace": "Shopee",
+    "category": "Beleza",
+    "old_price": "R$ 80,28",
+    "price": "R$ 28,90",
+    "discount_percent": 64.0,
+    "rating": 4.5,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-820o8-mnwuoe6zva4ke8",
+    "affiliate_url": "https://s.shopee.com.br/gPyKA6qRt",
+    "created_at": "12/09/2026 07:15",
+    "created_at_iso": "2026-09-12T07:15:46",
+    "created_ts": 1789197346,
+    "niche": {
+      "key": "shopee_beleza",
+      "name": "Beleza"
+    }
+  },
+  {
     "id": "593fbbeb69a79244b6",
     "title": "Cadeira Escritório Secretaria Rcp Preto",
     "raw_title": "Cadeira Escritório Secretaria Rcp Preto",
@@ -1869,69 +1974,6 @@
     "created_at": "11/09/2026 07:20",
     "created_at_iso": "2026-09-11T07:20:47",
     "created_ts": 1789111247,
-    "niche": {
-      "key": "shopee_roupas_plus_size",
-      "name": "Roupas Plus Size"
-    }
-  },
-  {
-    "id": "a6eab55198ed2a31f3",
-    "title": "Kit Cuecas Boxer Polo Wear",
-    "raw_title": "Kit 5 ou 10 Cuecas Boxer Masculinas Polo Wear Microfibra Leve e Elástico Confortável",
-    "description": "🔥 Conforto e estilo para o seu dia a dia com essa super oferta! Kit 5 ou 10 Cuecas Boxer Masculinas Polo Wear Microfibra Leve e Elástico Confortável. A...",
-    "marketplace": "Shopee",
-    "category": "Roupas Plus Size",
-    "old_price": "R$ 90,00",
-    "price": "R$ 54,90",
-    "discount_percent": 39.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820l7-mogqop0wbp4z84",
-    "affiliate_url": "https://s.shopee.com.br/6q0cX3wlZG",
-    "created_at": "11/09/2026 07:19",
-    "created_at_iso": "2026-09-11T07:19:34",
-    "created_ts": 1789111174,
-    "niche": {
-      "key": "shopee_roupas_plus_size",
-      "name": "Roupas Plus Size"
-    }
-  },
-  {
-    "id": "7c060af9340c3ced76",
-    "title": "Kit 4 Blusas Plus Size Dry Fit",
-    "raw_title": "Kit 4 Blusa Plus Size Camiseta Dry Fit Roupa de Academia Feminina Long Line Tapa Bumbum Curvy +",
-    "description": "✨ TREINE COM ESTILO E CONFORTO! ✨ Kit 4 Blusas Plus Size Dry Fit, perfeito para a academia e o dia a dia! Modelagem Long Line que tapa o bumbum, garanti...",
-    "marketplace": "Shopee",
-    "category": "Roupas Plus Size",
-    "old_price": "R$ 241,61",
-    "price": "R$ 74,90",
-    "discount_percent": 69.0,
-    "rating": 4.7,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj04kq4iby83c7",
-    "affiliate_url": "https://s.shopee.com.br/40gRDyf8x0",
-    "created_at": "11/09/2026 07:18",
-    "created_at_iso": "2026-09-11T07:18:26",
-    "created_ts": 1789111106,
-    "niche": {
-      "key": "shopee_roupas_plus_size",
-      "name": "Roupas Plus Size"
-    }
-  },
-  {
-    "id": "2a60234422cc705b5c",
-    "title": "Calça Plus Size Bengaline",
-    "raw_title": "Calça Plus Size Feminina Social Tecido Bengaline Estica Muito com Bolso e Botões 42 ao 52",
-    "description": "🚨 IMPERDÍVEL! Calça Plus Size Feminina Social que une conforto e elegância! 💃 Feita em tecido Bengaline que estica muito, com bolso e botões, perfeita p...",
-    "marketplace": "Shopee",
-    "category": "Roupas Plus Size",
-    "old_price": "R$ 150,93",
-    "price": "R$ 64,90",
-    "discount_percent": 57.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820mc-mpupoizfwcub1d",
-    "affiliate_url": "https://s.shopee.com.br/30nu28nLlM",
-    "created_at": "11/09/2026 07:17",
-    "created_at_iso": "2026-09-11T07:17:18",
-    "created_ts": 1789111038,
     "niche": {
       "key": "shopee_roupas_plus_size",
       "name": "Roupas Plus Size"

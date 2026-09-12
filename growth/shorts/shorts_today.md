@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 12/09/2026 07:22
+Gerado em: 12/09/2026 08:22
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 12/09/2026 07:22
 **Produtos usados:**
 
 - Berço Portátil Com Mosquiteiro Cama De Duas Camas 0-3 Anos Fecho De S…
+- Kit 6 Peças Roupa De Bebê
 - Tênis Branco Unissex Infantil e Baby, Conforto e Elegância para Crian…
-- Lenços Umedecidos Pampers Carícia de Bebê com 576 unidades
 
 ---
 

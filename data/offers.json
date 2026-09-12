@@ -1,5 +1,22 @@
 [
   {
+    "id": "b1445ec23ed7281dd3",
+    "title": "Owlet Dream Sock | Meia Inteligente Monitor Bebê - Rosa",
+    "raw_title": "Owlet Dream Sock | Meia Inteligente Monitor Bebê - Rosa",
+    "description": "🔥 Oferta encontrada! 📌 Owlet Dream Sock | Meia Inteligente Monitor Bebê - Rosa Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Mãe e Bebê",
+    "old_price": "",
+    "price": "R$ 3.650,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_609292-MLU71415889747_082023-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB26685042?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "12/09/2026 02:01",
+    "created_at_iso": "2026-09-12T02:01:22",
+    "created_ts": 1789178482
+  },
+  {
     "id": "2ed8eefe85d200aea6",
     "title": "Calça Jeans Masculina Slim",
     "raw_title": "Calça Jeans Masculina Slim Elastano Lycra Atacado Trabalho",
@@ -2104,26 +2121,5 @@
     "created_at": "11/09/2026 02:15",
     "created_at_iso": "2026-09-11T02:15:59",
     "created_ts": 1789092959
-  },
-  {
-    "id": "8228653f532aa7898a",
-    "title": "Kit 36 Canetas Marca Texto Neon Fluorescente Vighs – Cores Vivas Seca…",
-    "raw_title": "Kit 36 Canetas Marca Texto Neon Fluorescente Vighs – Cores Vivas Secagem Rápida Escolar Escritório",
-    "description": "🔥 15% OFF — Oferta encontrada! 📌 Kit 36 Canetas Marca Texto Neon Fluorescente Vighs – Cores Vivas Secagem Rápida Escolar Escritório Confira os detalhes...",
-    "marketplace": "Shopee",
-    "category": "Papelaria",
-    "old_price": "R$ 20,94",
-    "price": "R$ 17,80",
-    "discount_percent": 15.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfyg7kfl337k88",
-    "affiliate_url": "https://s.shopee.com.br/9AOWyl29mm",
-    "created_at": "11/09/2026 01:20",
-    "created_at_iso": "2026-09-11T01:20:16",
-    "created_ts": 1789089616,
-    "niche": {
-      "key": "shopee_papelaria",
-      "name": "Papelaria"
-    }
   }
 ]

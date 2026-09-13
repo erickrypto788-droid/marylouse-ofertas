@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 13/09/2026 07:04
+Gerado em: 13/09/2026 07:28
 
 ## Categorias prioritárias
 
-- 🐶 **Pet**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
+- 🍼 **Mãe e Bebê**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🏋️ **Esportes**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 🍼 **Mãe e Bebê**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 🐶 **Pet**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 👟 **Calçados**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 💄 **Beleza**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 💻 **Informática**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 🧸 **Brinquedos**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
+- 💄 **Beleza**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 📦 **Outros**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
-- 👕 **Moda Masculina**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 
 ## Top ofertas para destacar
 
@@ -24,68 +24,68 @@ Gerado em: 13/09/2026 07:04
    - Desconto: 87% OFF
    - Link: https://s.shopee.com.br/6VNnnSW8P3
 
-2. **Escova Rotativa Secadora 2 em 1**
-   - Categoria: Beleza
-   - Loja: Shopee
-   - Preço: R$ 99,99
-   - Desconto: 67% OFF
-   - Link: https://s.shopee.com.br/6fhDzlVV4I
-
-3. **Panela de Pressão Panelux 4,5L**
+2. **Panela de Pressão Panelux 4,5L**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 58,90
    - Desconto: 49% OFF
    - Link: https://s.shopee.com.br/6fhFG3SXoy
 
-4. **Fone de Ouvido Bluetooth 5.0 Sem Fio Headset Bateria de Longa Duração…**
+3. **Fone de Ouvido Bluetooth 5.0 Sem Fio Headset Bateria de Longa Duração…**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 40,99
    - Desconto: 49% OFF
    - Link: https://s.shopee.com.br/1ALFgXjrQ
 
-5. **Suporte Notebook Ergonômico Portátil**
+4. **Suporte Notebook Ergonômico Portátil**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 17,97
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/112rmKIoRE
 
-6. **Kit 3 Perfumes Malbec Masculino**
-   - Categoria: Beleza
+5. **Boneca Reborn Unicórnio Realista**
+   - Categoria: Mãe e Bebê
    - Loja: Shopee
-   - Preço: R$ 33,90
-   - Desconto: 43% OFF
-   - Link: https://s.shopee.com.br/7fZlBbRYTS
+   - Preço: R$ 79,90
+   - Desconto: 58% OFF
+   - Link: https://s.shopee.com.br/1qbyRF8Jl3
 
-7. **Creatina Dark Lab Pura**
+6. **Creatina Dark Lab Pura**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 32,90
    - Desconto: 54% OFF
    - Link: https://s.shopee.com.br/3qN3HlqnOa
 
-8. **Whey Protein 900g**
+7. **Whey Protein 900g**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 47,89
    - Desconto: 65% OFF
    - Link: https://s.shopee.com.br/4VcksRUTeD
 
-9. **Kit 5 Camisetas Regata Bebê Menino Menina**
+8. **Kit 5 Camisetas Regata Bebê Menino Menina**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 29,99
    - Desconto: 63% OFF
    - Link: https://s.shopee.com.br/7fZma8cEmd
 
-10. **Prancha Triondas Ondulador Formador Triplo 22mm Modelador de Cachos O…**
+9. **Prancha Triondas Ondulador Formador Triplo 22mm Modelador de Cachos O…**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 40,99
    - Desconto: 66% OFF
    - Link: https://s.shopee.com.br/30nwxRMgeL
+
+10. **Kit Body Splash Masculino**
+   - Categoria: Pet
+   - Loja: Shopee
+   - Preço: R$ 33,89
+   - Desconto: 66% OFF
+   - Link: https://s.shopee.com.br/905A6SqqAR
 
 ## Ações gratuitas recomendadas
 

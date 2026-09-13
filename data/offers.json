@@ -1,5 +1,22 @@
 [
   {
+    "id": "93f10f9656e2ad03fd",
+    "title": "Monitor de Pressão Arterial Omron",
+    "raw_title": "Aparelho Monitor Pressão Arterial Portátil Pulso Omron",
+    "description": "🚨 Cuidado com a saúde nunca foi tão fácil! Tenha mais controle com o Aparelho Monitor Pressão Arterial Portátil Pulso Omron. Ideal para acompanhar sua s...",
+    "marketplace": "Mercado Livre",
+    "category": "Saúde",
+    "old_price": "R$ 272,98",
+    "price": "R$ 151,05",
+    "discount_percent": 45.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_732248-MLA108909250030_032026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB22958206?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "13/09/2026 11:03",
+    "created_at_iso": "2026-09-13T11:03:37",
+    "created_ts": 1789297417
+  },
+  {
     "id": "f6d69410e0e6995965",
     "title": "ROMANTIC CROWN Bolsa de Ombra Feminina com Alça Ajustável, Bolsa Femi…",
     "raw_title": "ROMANTIC CROWN Bolsa de Ombra Feminina com Alça Ajustável, Bolsa Feminina Elegante com Couro Sintetico Preto, Presente",
@@ -2120,90 +2137,6 @@
     "niche": {
       "key": "shopee_saude",
       "name": "Saúde"
-    }
-  },
-  {
-    "id": "32b1f66169a8cd1653",
-    "title": "Cadeira 12x1 + Mesa LEGO RAGALUMA",
-    "raw_title": "Cadeira Alimentacao Alta e Baixa 12x1 e Mesa de Atividades LEGO BEBE RAGALUMA Cinza Claro e Rajado",
-    "description": "🚀 PAIS, ATENÇÃO! Cadeira de Alimentação 12x1 + Mesa de Atividades LEGO para seu bebê! Uma solução completa que cresce com seu filho, de cadeira alta a m...",
-    "marketplace": "Shopee",
-    "category": "Brinquedos e Hobbies",
-    "old_price": "R$ 992,21",
-    "price": "R$ 605,25",
-    "discount_percent": 39.0,
-    "rating": 5.0,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m4-mlfjn39q45qc02",
-    "affiliate_url": "https://s.shopee.com.br/BTkSBAKbg",
-    "created_at": "12/09/2026 10:20",
-    "created_at_iso": "2026-09-12T10:20:21",
-    "created_ts": 1789208421,
-    "niche": {
-      "key": "shopee_brinquedos_hobbies",
-      "name": "Brinquedos e Hobbies"
-    }
-  },
-  {
-    "id": "3bd4165d1a327e3801",
-    "title": "Mesa Gamer Legos 120cm em L de Canto",
-    "raw_title": "Mesa Gamer Legos 120cm em L de Canto para Home Office Setup Escrivaninha Geek Com Cantos Arredondados Design Moderno",
-    "description": "🚀 Seu setup gamer ou home office merece isso! Mesa Gamer Legos 120cm em L de Canto: o espaço e o design moderno que você precisa para produtividade e im...",
-    "marketplace": "Shopee",
-    "category": "Brinquedos e Hobbies",
-    "old_price": "R$ 399,98",
-    "price": "R$ 239,99",
-    "discount_percent": 40.0,
-    "rating": 4.5,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi6a275ag9vm7b",
-    "affiliate_url": "https://s.shopee.com.br/9fKnF3t4Na",
-    "created_at": "12/09/2026 10:19",
-    "created_at_iso": "2026-09-12T10:19:12",
-    "created_ts": 1789208352,
-    "niche": {
-      "key": "shopee_brinquedos_hobbies",
-      "name": "Brinquedos e Hobbies"
-    }
-  },
-  {
-    "id": "3408449f897bb3f564",
-    "title": "Tapete Térmico Infantil Lavável",
-    "raw_title": "Tapete Termico Infantil Bebe Estampas Atividades Educativo Tapetinho Lavável Impermeavel",
-    "description": "✨ Diversão e segurança para seu pequeno! Seu bebê merece o melhor! O Tapete Térmico Infantil é perfeito para as brincadeiras, com estampas educativas, é...",
-    "marketplace": "Shopee",
-    "category": "Brinquedos e Hobbies",
-    "old_price": "R$ 49,95",
-    "price": "R$ 21,98",
-    "discount_percent": 56.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m5st2065j0i8a8",
-    "affiliate_url": "https://s.shopee.com.br/3LQmDztfau",
-    "created_at": "12/09/2026 10:18",
-    "created_at_iso": "2026-09-12T10:18:01",
-    "created_ts": 1789208281,
-    "niche": {
-      "key": "shopee_brinquedos_hobbies",
-      "name": "Brinquedos e Hobbies"
-    }
-  },
-  {
-    "id": "006c968aa5baa40d5d",
-    "title": "Boneca K-Pop Musical Articulada",
-    "raw_title": "Boneca K-Pop Musical Articulada 30Cm Guerreiras Do K-Pop Mira Rumi Zoe",
-    "description": "🎉 Sua pequena vai pirar! Boneca K-Pop Musical Articulada 30cm com as Guerreiras do K-Pop Mira, Rumi e Zoe! 🎤 Diversão garantida para as fãs de música e...",
-    "marketplace": "Shopee",
-    "category": "Brinquedos e Hobbies",
-    "old_price": "R$ 69,77",
-    "price": "R$ 36,98",
-    "discount_percent": 47.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820mb-mpp6eokq9loj35",
-    "affiliate_url": "https://s.shopee.com.br/4Vcjc8yALp",
-    "created_at": "12/09/2026 10:16",
-    "created_at_iso": "2026-09-12T10:16:54",
-    "created_ts": 1789208214,
-    "niche": {
-      "key": "shopee_brinquedos_hobbies",
-      "name": "Brinquedos e Hobbies"
     }
   }
 ]

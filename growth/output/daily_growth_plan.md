@@ -1,12 +1,12 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 13/09/2026 14:21
+Gerado em: 13/09/2026 15:19
 
 ## Categorias prioritárias
 
 - 🐶 **Pet**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
-- 📱 **Celulares**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
-- 💻 **Informática**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 📱 **Celulares**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 💻 **Informática**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 🍼 **Mãe e Bebê**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 📦 **Outros**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
@@ -52,40 +52,40 @@ Gerado em: 13/09/2026 14:21
    - Desconto: 49% OFF
    - Link: https://s.shopee.com.br/1ALFgXjrQ
 
-6. **Suporte Notebook Ergonômico Portátil**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 17,97
-   - Desconto: 40% OFF
-   - Link: https://s.shopee.com.br/112rmKIoRE
-
-7. **Leitor De Cartão Usb 3.0 Adaptador Micro Sd/sdxc 5gbps Envio Imediato**
+6. **Leitor De Cartão Usb 3.0 Adaptador Micro Sd/sdxc 5gbps Envio Imediato**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 18,99
    - Desconto: 72% OFF
    - Link: https://s.shopee.com.br/9V1RMaditS
 
-8. **Webcam Câmera Computador Full HD 1080x1920p 2MP USB Plug Play Microfo…**
+7. **Webcam Câmera Computador Full HD 1080x1920p 2MP USB Plug Play Microfo…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 28,00
    - Desconto: 59% OFF
    - Link: https://s.shopee.com.br/6VNoOYDjDG
 
-9. **Porta USB Hub 8 Em 1 Leitor SD Type C Áudio 3.5mm, HDMI 4K, RJ45 Rede…**
+8. **Porta USB Hub 8 Em 1 Leitor SD Type C Áudio 3.5mm, HDMI 4K, RJ45 Rede…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 39,90
    - Desconto: 69% OFF
    - Link: https://s.shopee.com.br/BTkquXRGy
 
-10. **Kit Teclado e Mouse branco Gamer RGB LED USB ABNT2 Profissional com L…**
+9. **Kit Teclado e Mouse branco Gamer RGB LED USB ABNT2 Profissional com L…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 51,90
    - Desconto: 60% OFF
    - Link: https://s.shopee.com.br/1Vz9pszW2m
+
+10. **Aplique Finalizador de Laço e Agenda KIT 100 UN (5 Modelos) Passante…**
+   - Categoria: Pet
+   - Loja: Shopee
+   - Preço: R$ 19,90
+   - Desconto: 53% OFF
+   - Link: https://s.shopee.com.br/80CdViGaNF
 
 ## Ações gratuitas recomendadas
 

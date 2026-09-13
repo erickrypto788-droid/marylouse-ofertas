@@ -1,15 +1,15 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 13/09/2026 09:23
+Gerado em: 13/09/2026 10:18
 
 ## Categorias prioritárias
 
 - 🍼 **Mãe e Bebê**: 17 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 📱 **Celulares**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 🐶 **Pet**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
+- 💻 **Informática**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 👟 **Calçados**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 💻 **Informática**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 🧸 **Brinquedos**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
+- 🧸 **Brinquedos**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 🏋️ **Esportes**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 💄 **Beleza**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
@@ -52,40 +52,40 @@ Gerado em: 13/09/2026 09:23
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/112rmKIoRE
 
-6. **Ninho Redutor de Berço + Trocador**
+6. **ROMANTIC CROWN Mochla de Viagem MascuIino e Feminina ImpermeaveI Refo…**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 119,98
+   - Desconto: 83% OFF
+   - Link: https://s.shopee.com.br/5VVIOsYX52
+
+7. **Ninho Redutor de Berço + Trocador**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 45,90
    - Desconto: 67% OFF
    - Link: https://s.shopee.com.br/qjRNeTxJ4
 
-7. **Balança Smart Bioimpedância**
+8. **Balança Smart Bioimpedância**
    - Categoria: Saúde
    - Loja: Shopee
    - Preço: R$ 35,98
    - Desconto: 64% OFF
    - Link: https://s.shopee.com.br/6fhFenBieE
 
-8. **Nebulizador Portátil AIQUE**
+9. **Nebulizador Portátil AIQUE**
    - Categoria: Saúde
    - Loja: Shopee
    - Preço: R$ 25,98
    - Desconto: 62% OFF
    - Link: https://s.shopee.com.br/1qbztuLJt7
 
-9. **Boneca Reborn Unicórnio Realista**
+10. **Boneca Reborn Unicórnio Realista**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 79,90
    - Desconto: 58% OFF
    - Link: https://s.shopee.com.br/1qbyRF8Jl3
-
-10. **Creatina Dark Lab Pura**
-   - Categoria: Pet
-   - Loja: Shopee
-   - Preço: R$ 32,90
-   - Desconto: 54% OFF
-   - Link: https://s.shopee.com.br/3qN3HlqnOa
 
 ## Ações gratuitas recomendadas
 

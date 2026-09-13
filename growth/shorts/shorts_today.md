@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 13/09/2026 00:19
+Gerado em: 13/09/2026 01:21
 
 ## Como usar
 
@@ -98,9 +98,9 @@ Gerado em: 13/09/2026 00:19
 
 **Produtos usados:**
 
+- Carregador Portátil MagSafe para iPhone
 - Gamesir T4 Nova Lite Controlador De Jogo Sem Fio Multiplataforma Efei…
 - Carregador iPhone Turbo Tipo-C 20W + Cabo Lightining para IPhone Carg…
-- Adaptador Tipo-C USB-C e Leitor de Cartão OTG
 
 ---
 

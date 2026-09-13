@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 13/09/2026 01:07
+Gerado em: 13/09/2026 01:21
 
 ## Como usar
 
@@ -72,7 +72,37 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 3 — Moda Feminina
+## Post 3 — Ofertas Pet
+
+**Canal recomendado:** Ofertas Pet
+
+**Horário sugerido:** 17:00 - 20:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
+
+**Texto pronto:**
+
+```txt
+🐶 Oferta para Ofertas Pet
+
+Fone de Ouvido Bluetooth 5.0 Sem Fio Headset Bateria de Longa Duração…
+
+💸 De: R$ 80,37
+🔥 Por: R$ 40,99
+🏷️ 49% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/1ALFgXjrQ
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 4 — Moda Feminina
 
 **Canal recomendado:** Moda Feminina
 
@@ -102,7 +132,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Casa e Cozinha
+## Post 5 — Casa e Cozinha
 
 **Canal recomendado:** Casa e Cozinha
 
@@ -132,7 +162,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 5 — Celulares e Tecnologia
+## Post 6 — Celulares e Tecnologia
 
 **Canal recomendado:** Celulares e Tecnologia
 
@@ -147,44 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
 ```txt
 📱 Oferta para Celulares e Tecnologia
 
-Gamesir T4 Nova Lite Controlador De Jogo Sem Fio Multiplataforma Efei…
+Carregador Portátil MagSafe para iPhone
 
-💸 De: R$ 314,29
-🔥 Por: R$ 110,00
-🏷️ 65% OFF
+💸 De: R$ 99,63
+🔥 Por: R$ 26,90
+🏷️ 73% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/80CcNfB2h5
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 6 — Ofertas Pet
-
-**Canal recomendado:** Ofertas Pet
-
-**Horário sugerido:** 17:00 - 20:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
-
-**Texto pronto:**
-
-```txt
-🐶 Oferta para Ofertas Pet
-
-Repetidor de Sinal Wi-Fi Roteador Wireless 2.4G Sem Fio 4 Antenas Lon…
-
-💸 De: R$ 90,14
-🔥 Por: R$ 64,90
-🏷️ 28% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/2VrfdCSkZc
+Ver oferta: https://s.shopee.com.br/9fKpR2sq2R
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

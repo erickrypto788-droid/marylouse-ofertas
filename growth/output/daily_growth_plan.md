@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 13/09/2026 08:04
+Gerado em: 13/09/2026 08:20
 
 ## Categorias prioritárias
 
-- 🍼 **Mãe e Bebê**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 🍼 **Mãe e Bebê**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🏋️ **Esportes**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 📱 **Celulares**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 🐶 **Pet**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
-- 👟 **Calçados**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 👟 **Calçados**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 💻 **Informática**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 🧸 **Brinquedos**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 💄 **Beleza**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
-- 📦 **Outros**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- ❤️ **Saúde**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 
 ## Top ofertas para destacar
 
@@ -45,47 +45,47 @@ Gerado em: 13/09/2026 08:04
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/112rmKIoRE
 
-5. **Boneca Reborn Unicórnio Realista**
+5. **Balança Smart Bioimpedância**
+   - Categoria: Saúde
+   - Loja: Shopee
+   - Preço: R$ 35,98
+   - Desconto: 64% OFF
+   - Link: https://s.shopee.com.br/6fhFenBieE
+
+6. **Nebulizador Portátil AIQUE**
+   - Categoria: Saúde
+   - Loja: Shopee
+   - Preço: R$ 25,98
+   - Desconto: 62% OFF
+   - Link: https://s.shopee.com.br/1qbztuLJt7
+
+7. **Boneca Reborn Unicórnio Realista**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 79,90
    - Desconto: 58% OFF
    - Link: https://s.shopee.com.br/1qbyRF8Jl3
 
-6. **Creatina Dark Lab Pura**
+8. **Creatina Dark Lab Pura**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 32,90
    - Desconto: 54% OFF
    - Link: https://s.shopee.com.br/3qN3HlqnOa
 
-7. **Whey Protein 900g**
+9. **Whey Protein 900g**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 47,89
    - Desconto: 65% OFF
    - Link: https://s.shopee.com.br/4VcksRUTeD
 
-8. **Kit 5 Camisetas Regata Bebê Menino Menina**
+10. **Kit 5 Camisetas Regata Bebê Menino Menina**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 29,99
    - Desconto: 63% OFF
    - Link: https://s.shopee.com.br/7fZma8cEmd
-
-9. **Prancha Triondas Ondulador Formador Triplo 22mm Modelador de Cachos O…**
-   - Categoria: Beleza
-   - Loja: Shopee
-   - Preço: R$ 40,99
-   - Desconto: 66% OFF
-   - Link: https://s.shopee.com.br/30nwxRMgeL
-
-10. **Kit Body Splash Masculino**
-   - Categoria: Pet
-   - Loja: Shopee
-   - Preço: R$ 33,89
-   - Desconto: 66% OFF
-   - Link: https://s.shopee.com.br/905A6SqqAR
 
 ## Ações gratuitas recomendadas
 

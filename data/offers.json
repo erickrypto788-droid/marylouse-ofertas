@@ -1,5 +1,22 @@
 [
   {
+    "id": "0a5d9209ca6a7aac4c",
+    "title": "Comedouro Automático 8L para Cães e Gatos",
+    "raw_title": "Comedouro Dispenser De Ração Automático 8l Para Cães Gatos Cor Comedouro Automatico Vermelho",
+    "description": "🐾 Chega de preocupação com a ração do seu pet! Garanta já o Comedouro Dispenser Automático de 8L! Perfeito para cães e gatos, ele garante alimentação na...",
+    "marketplace": "Mercado Livre",
+    "category": "Pet",
+    "old_price": "R$ 59,99",
+    "price": "R$ 43,25",
+    "discount_percent": 28.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_878296-MLA114080133726_072026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB76168566?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "13/09/2026 12:01",
+    "created_at_iso": "2026-09-13T12:01:34",
+    "created_ts": 1789300894
+  },
+  {
     "id": "055e6230426ddc5638",
     "title": "Mochila Escolar USB Impermeável",
     "raw_title": "Mochila para Escola Reforçada com Entrada USB Impermeável",
@@ -2137,27 +2154,6 @@
     "niche": {
       "key": "shopee_mae_bebe",
       "name": "Mãe e Bebê"
-    }
-  },
-  {
-    "id": "1c944699ce298259b9",
-    "title": "Tiras Glicose G-Tech Vita C/50",
-    "raw_title": "TIRAS DE TESTE GLICOSE G-TECH PARA MEDIDOR MODELO VITA C/50",
-    "description": "🚨 Desconto IMPERDÍVEL para sua saúde! Garanta já suas TIRAS DE TESTE GLICOSE G-TECH PARA MEDIDOR MODELO VITA C/50 e mantenha seu controle em dia! É a qu...",
-    "marketplace": "Shopee",
-    "category": "Saúde",
-    "old_price": "R$ 104,42",
-    "price": "R$ 44,90",
-    "discount_percent": 57.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7rdwt-lycqtiaqw4jfd3",
-    "affiliate_url": "https://s.shopee.com.br/9KhyArXdWI",
-    "created_at": "12/09/2026 11:19",
-    "created_at_iso": "2026-09-12T11:19:05",
-    "created_ts": 1789211945,
-    "niche": {
-      "key": "shopee_saude",
-      "name": "Saúde"
     }
   }
 ]

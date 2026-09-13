@@ -1,91 +1,91 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 13/09/2026 02:20
+Gerado em: 13/09/2026 03:22
 
 ## Categorias prioritárias
 
-- 👟 **Calçados**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 💄 **Beleza**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 📱 **Celulares**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 🍼 **Mãe e Bebê**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 🐶 **Pet**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 🏋️ **Esportes**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 🐶 **Pet**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
-- 💻 **Informática**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 💻 **Informática**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
-- 💄 **Beleza**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🔌 **Eletrodomésticos**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-eletrodomesticos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_eletrodomesticos
 
 ## Top ofertas para destacar
 
-1. **Escova Rotativa Secadora 2 em 1**
+1. **Escova Secadora Alisador 3 em 1**
+   - Categoria: Beleza
+   - Loja: Shopee
+   - Preço: R$ 37,99
+   - Desconto: 87% OFF
+   - Link: https://s.shopee.com.br/6VNnnSW8P3
+
+2. **Escova Rotativa Secadora 2 em 1**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 99,99
    - Desconto: 67% OFF
    - Link: https://s.shopee.com.br/6fhDzlVV4I
 
-2. **Panela de Pressão Panelux 4,5L**
+3. **Panela de Pressão Panelux 4,5L**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 58,90
    - Desconto: 49% OFF
    - Link: https://s.shopee.com.br/6fhFG3SXoy
 
-3. **Fone de Ouvido Bluetooth 5.0 Sem Fio Headset Bateria de Longa Duração…**
+4. **Fone de Ouvido Bluetooth 5.0 Sem Fio Headset Bateria de Longa Duração…**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 40,99
    - Desconto: 49% OFF
    - Link: https://s.shopee.com.br/1ALFgXjrQ
 
-4. **Suporte Notebook Ergonômico Portátil**
+5. **Suporte Notebook Ergonômico Portátil**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 17,97
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/112rmKIoRE
 
-5. **Kit 3 Perfumes Malbec Masculino**
+6. **Kit 3 Perfumes Malbec Masculino**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 33,90
    - Desconto: 43% OFF
    - Link: https://s.shopee.com.br/7fZlBbRYTS
 
-6. **Fone Bluetooth Air Pods Pro 3**
+7. **Prancha Triondas Ondulador Formador Triplo 22mm Modelador de Cachos O…**
+   - Categoria: Beleza
+   - Loja: Shopee
+   - Preço: R$ 40,99
+   - Desconto: 66% OFF
+   - Link: https://s.shopee.com.br/30nwxRMgeL
+
+8. **Kit Body Splash Masculino**
+   - Categoria: Pet
+   - Loja: Shopee
+   - Preço: R$ 33,89
+   - Desconto: 66% OFF
+   - Link: https://s.shopee.com.br/905A6SqqAR
+
+9. **Fone Bluetooth Air Pods Pro 3**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 26,99
    - Desconto: 50% OFF
    - Link: https://s.shopee.com.br/1BMIdpTIUd
 
-7. **Carregador Portátil MagSafe para iPhone**
+10. **Carregador Portátil MagSafe para iPhone**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 26,90
    - Desconto: 73% OFF
    - Link: https://s.shopee.com.br/9fKpR2sq2R
-
-8. **Gamesir T4 Nova Lite Controlador De Jogo Sem Fio Multiplataforma Efei…**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 110,00
-   - Desconto: 65% OFF
-   - Link: https://s.shopee.com.br/80CcNfB2h5
-
-9. **Azul escova limpeza mamadeira kit para limpeza de mamadeira kit limpe…**
-   - Categoria: Mãe e Bebê
-   - Loja: Mercado Livre
-   - Preço: R$ 53,20
-   - Desconto: 72% OFF
-   - Link: https://www.mercadolivre.com.br/p/MLB75043054?matt_word=marylouse&matt_tool=50459180&forceInApp=true
-
-10. **Adaptador Tipo-C USB-C e Leitor de Cartão OTG**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 17,90
-   - Desconto: 52% OFF
-   - Link: https://s.shopee.com.br/1LfiF3SzuL
 
 ## Ações gratuitas recomendadas
 

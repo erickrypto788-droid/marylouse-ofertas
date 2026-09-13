@@ -1,91 +1,91 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 13/09/2026 22:28
+Gerado em: 13/09/2026 23:22
 
 ## Categorias prioritárias
 
-- 👟 **Calçados**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 🐶 **Pet**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
+- 👟 **Calçados**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 💄 **Beleza**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🍳 **Casa e Cozinha**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
-- 🏋️ **Esportes**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 👗 **Moda Feminina**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
+- 🐶 **Pet**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 🍼 **Mãe e Bebê**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 🏋️ **Esportes**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
+- 👗 **Moda Feminina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 💻 **Informática**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 🔌 **Eletrodomésticos**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-eletrodomesticos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_eletrodomesticos
 
 ## Top ofertas para destacar
 
-1. **Fones Xiaomi Redmi Airdots**
+1. **Perfume Attracione Feminino by Attracione Woman Mulher**
+   - Categoria: Beleza
+   - Loja: Shopee
+   - Preço: R$ 44,00
+   - Desconto: 75% OFF
+   - Link: https://s.shopee.com.br/W6byqNTQ8
+
+2. **Attracione Men (Perfume Masculino com Feromônios Ativados)**
+   - Categoria: Beleza
+   - Loja: Shopee
+   - Preço: R$ 57,22
+   - Desconto: 80% OFF
+   - Link: https://s.shopee.com.br/7fZmW0vus3
+
+3. **Fones Xiaomi Redmi Airdots**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 19,79
    - Desconto: 61% OFF
    - Link: https://s.shopee.com.br/20vQxmC0zW
 
-2. **Mochila CHL Notebook Impermeável Premium**
+4. **Mochila CHL Notebook Impermeável Premium**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 39,99
    - Desconto: 55% OFF
    - Link: https://s.shopee.com.br/6VNpepSm79
 
-3. **Fraldas SUMIKKO Calça Infantil**
+5. **Fraldas SUMIKKO Calça Infantil**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 69,00
    - Desconto: 65% OFF
    - Link: https://s.shopee.com.br/1gIYNB9SVr
 
-4. **Escova Secadora Alisador 3 em 1**
+6. **Escova Secadora Alisador 3 em 1**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 37,99
    - Desconto: 87% OFF
    - Link: https://s.shopee.com.br/6VNnnSW8P3
 
-5. **Panela de Pressão Panelux 4,5L**
+7. **Panela de Pressão Panelux 4,5L**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 58,90
    - Desconto: 49% OFF
    - Link: https://s.shopee.com.br/6fhFG3SXoy
 
-6. **Fone de Ouvido Bluetooth 5.0 Sem Fio Headset Bateria de Longa Duração…**
+8. **Fone de Ouvido Bluetooth 5.0 Sem Fio Headset Bateria de Longa Duração…**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 40,99
    - Desconto: 49% OFF
    - Link: https://s.shopee.com.br/1ALFgXjrQ
 
-7. **Espremedor Elétrico Laranja Limão Frutas Fazer Sucos Recarregável Usb…**
+9. **Kit Body Splash Dolce + Florata Red**
+   - Categoria: Beleza
+   - Loja: Shopee
+   - Preço: R$ 42,90
+   - Desconto: 57% OFF
+   - Link: https://s.shopee.com.br/2qUWl8EagM
+
+10. **Espremedor Elétrico Laranja Limão Frutas Fazer Sucos Recarregável Usb…**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 61,69
    - Desconto: 56% OFF
    - Link: https://s.shopee.com.br/4AzvbrtQhr
-
-8. **Fone Bluetooth Pro5 Premium**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 66,88
-   - Desconto: 77% OFF
-   - Link: https://s.shopee.com.br/8V8uhinGnZ
-
-9. **Sandália Papete Feminina Ortopédica com Elástico Confortável Moderna…**
-   - Categoria: Pet
-   - Loja: Shopee
-   - Preço: R$ 36,99
-   - Desconto: 59% OFF
-   - Link: https://s.shopee.com.br/BTmiIygD9
-
-10. **Cadeira Presidente com Massagem**
-   - Categoria: Casa e Cozinha
-   - Loja: Mercado Livre
-   - Preço: R$ 926,00
-   - Desconto: 50% OFF
-   - Link: https://www.mercadolivre.com.br/p/MLB59413555?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ## Ações gratuitas recomendadas
 

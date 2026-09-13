@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 13/09/2026 05:03
+Gerado em: 13/09/2026 05:21
 
 ## Categorias prioritárias
 
+- 🏋️ **Esportes**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
+- 🐶 **Pet**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 🍼 **Mãe e Bebê**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 👟 **Calçados**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 💄 **Beleza**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 📱 **Celulares**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
-- 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 🐶 **Pet**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
-- 🏋️ **Esportes**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 💻 **Informática**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 🔌 **Eletrodomésticos**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-eletrodomesticos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_eletrodomesticos
+- 📦 **Outros**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 
 ## Top ofertas para destacar
 
@@ -59,33 +59,33 @@ Gerado em: 13/09/2026 05:03
    - Desconto: 43% OFF
    - Link: https://s.shopee.com.br/7fZlBbRYTS
 
-7. **Kit 5 Camisetas Regata Bebê Menino Menina**
+7. **Creatina Dark Lab Pura**
+   - Categoria: Pet
+   - Loja: Shopee
+   - Preço: R$ 32,90
+   - Desconto: 54% OFF
+   - Link: https://s.shopee.com.br/3qN3HlqnOa
+
+8. **Whey Protein 900g**
+   - Categoria: Pet
+   - Loja: Shopee
+   - Preço: R$ 47,89
+   - Desconto: 65% OFF
+   - Link: https://s.shopee.com.br/4VcksRUTeD
+
+9. **Kit 5 Camisetas Regata Bebê Menino Menina**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 29,99
    - Desconto: 63% OFF
    - Link: https://s.shopee.com.br/7fZma8cEmd
 
-8. **Prancha Triondas Ondulador Formador Triplo 22mm Modelador de Cachos O…**
+10. **Prancha Triondas Ondulador Formador Triplo 22mm Modelador de Cachos O…**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 40,99
    - Desconto: 66% OFF
    - Link: https://s.shopee.com.br/30nwxRMgeL
-
-9. **Kit Body Splash Masculino**
-   - Categoria: Pet
-   - Loja: Shopee
-   - Preço: R$ 33,89
-   - Desconto: 66% OFF
-   - Link: https://s.shopee.com.br/905A6SqqAR
-
-10. **Fone Bluetooth Air Pods Pro 3**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 26,99
-   - Desconto: 50% OFF
-   - Link: https://s.shopee.com.br/1BMIdpTIUd
 
 ## Ações gratuitas recomendadas
 

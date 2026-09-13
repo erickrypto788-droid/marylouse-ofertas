@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 13/09/2026 16:58
+Gerado em: 13/09/2026 17:09
 
 ## Como usar
 
@@ -147,14 +147,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Calça Pantalona Feminina Cintura Alta Com Bolso Tecido Duna
+Calça Legging Feminina Ausare de Compressão Média com UV50+ e Cós Alt…
 
-💸 De: R$ 110,74
-🔥 Por: R$ 29,90
-🏷️ 73% OFF
-🛒 Loja: Shopee
+💸 De: R$ 296,00
+🔥 Por: R$ 99,90
+🏷️ 66% OFF
+🛒 Loja: Mercado Livre
 
-Ver oferta: https://s.shopee.com.br/2qUXchfFwH
+Ver oferta: https://www.mercadolivre.com.br/p/MLB69276350?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

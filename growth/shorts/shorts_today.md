@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 13/09/2026 02:05
+Gerado em: 13/09/2026 02:20
 
 ## Como usar
 
@@ -48,11 +48,15 @@ Gerado em: 13/09/2026 02:05
 
 - growth/shorts/slides/casa_cozinha/01_intro.png
 - growth/shorts/slides/casa_cozinha/02_produto_1.png
+- growth/shorts/slides/casa_cozinha/03_produto_2.png
+- growth/shorts/slides/casa_cozinha/04_produto_3.png
 - growth/shorts/slides/casa_cozinha/05_cta.png
 
 **Produtos usados:**
 
+- Panela de Pressão Panelux 4,5L
 - Panela de Pressão Antiaderente 4,5L
+- Kit 6 Potes Giotto 2,2L
 
 ---
 

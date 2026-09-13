@@ -1,5 +1,68 @@
 [
   {
+    "id": "45a7d34cfae6cc4e9c",
+    "title": "Termômetro Digital Ultra Rápido Infantil e Adulto",
+    "raw_title": "Termômetro Digital Ultra Rápido Infantil Para Bebês Clínico Flexível Ponta Macia Silicone Adulto Rosa e Azul",
+    "description": "🚨 Não perca essa! Termômetro Digital Ultra Rápido e Flexível para toda a família! 🌡️ Perfeito para bebês e adultos, com ponta macia de silicone para máx...",
+    "marketplace": "Shopee",
+    "category": "Saúde",
+    "old_price": "R$ 48,32",
+    "price": "R$ 28,99",
+    "discount_percent": 40.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhbxhrlw6bk76e",
+    "affiliate_url": "https://s.shopee.com.br/20vOhfnw5j",
+    "created_at": "13/09/2026 08:18",
+    "created_at_iso": "2026-09-13T08:18:19",
+    "created_ts": 1789287499,
+    "niche": {
+      "key": "shopee_saude",
+      "name": "Saúde"
+    }
+  },
+  {
+    "id": "44fd93bbe076498f5e",
+    "title": "Balança Smart Bioimpedância",
+    "raw_title": "Balança Digital Inteligente: Medidor Corporal por Bioimpedância - Analisa Gordura, Massa Muscular, Peso até 180kg",
+    "description": "Sua saúde em suas mãos! 🚀 Monitore seu corpo de forma inteligente com a Balança Digital com Bioimpedância! 💪 Ela não só mede seu peso, mas também analis...",
+    "marketplace": "Shopee",
+    "category": "Saúde",
+    "old_price": "R$ 99,94",
+    "price": "R$ 35,98",
+    "discount_percent": 64.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7ra2q-mb9ua7mhd30625",
+    "affiliate_url": "https://s.shopee.com.br/6fhFenBieE",
+    "created_at": "13/09/2026 08:17",
+    "created_at_iso": "2026-09-13T08:17:09",
+    "created_ts": 1789287429,
+    "niche": {
+      "key": "shopee_saude",
+      "name": "Saúde"
+    }
+  },
+  {
+    "id": "ccd0468615957399ac",
+    "title": "Nebulizador Portátil AIQUE",
+    "raw_title": "AIQUE Nebulizador Portátil Mini Inalador Silencioso Ultra-sônico Automático para Adultos e Crianças",
+    "description": "🌬️ ALÍVIO INSTANTÂNEO EM QUALQUER LUGAR! Não deixe problemas respiratórios atrapalharem seu dia! O Nebulizador Portátil AIQUE é a solução perfeita: mini...",
+    "marketplace": "Shopee",
+    "category": "Saúde",
+    "old_price": "R$ 68,37",
+    "price": "R$ 25,98",
+    "discount_percent": 62.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7rfgf-m9cb96j6vkgp38",
+    "affiliate_url": "https://s.shopee.com.br/1qbztuLJt7",
+    "created_at": "13/09/2026 08:16",
+    "created_at_iso": "2026-09-13T08:16:00",
+    "created_ts": 1789287360,
+    "niche": {
+      "key": "shopee_saude",
+      "name": "Saúde"
+    }
+  },
+  {
     "id": "e84f223803e37a1811",
     "title": "Xiaomi 15T 5G Dourado",
     "raw_title": "Smartphone Xiaomi 15t 5g 12+12gb Ram + 512gb, Dourado",
@@ -2159,69 +2222,6 @@
     "created_at": "12/09/2026 08:19",
     "created_at_iso": "2026-09-12T08:19:14",
     "created_ts": 1789201154,
-    "niche": {
-      "key": "shopee_moda_infantil",
-      "name": "Moda Infantil"
-    }
-  },
-  {
-    "id": "88baafef831bb8cb06",
-    "title": "Sandália Infantil Antiderrapante",
-    "raw_title": "Sandália Infantil Chinelo Eva Anti-Derrapante",
-    "description": "👣 Conforto e segurança para os pés dos pequenos! Chegou a Sandália Infantil Chinelo Eva Anti-Derrapante perfeita para a criançada brincar sem preocupaçõ...",
-    "marketplace": "Shopee",
-    "category": "Moda Infantil",
-    "old_price": "R$ 87,32",
-    "price": "R$ 49,77",
-    "discount_percent": 43.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7rdwu-mctk448n09xwda",
-    "affiliate_url": "https://s.shopee.com.br/60RXGf9XyB",
-    "created_at": "12/09/2026 08:18",
-    "created_at_iso": "2026-09-12T08:18:02",
-    "created_ts": 1789201082,
-    "niche": {
-      "key": "shopee_moda_infantil",
-      "name": "Moda Infantil"
-    }
-  },
-  {
-    "id": "2195e363ecd48fa572",
-    "title": "Boneca Cesta de Piquenique",
-    "raw_title": "Boneca Vestido Cesta de Piquenique Infantil 10 Acessórios",
-    "description": "🎉 Diversão garantida! Boneca Cesta de Piquenique com 58% OFF! 👧🧺 Sua pequena vai amar essa boneca com vestido e cesta de piquenique, cheia de acessórios...",
-    "marketplace": "Shopee",
-    "category": "Moda Infantil",
-    "old_price": "R$ 64,05",
-    "price": "R$ 26,90",
-    "discount_percent": 58.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lm-mpxqazhnb75u8f",
-    "affiliate_url": "https://s.shopee.com.br/5q874M63a0",
-    "created_at": "12/09/2026 08:16",
-    "created_at_iso": "2026-09-12T08:16:55",
-    "created_ts": 1789201015,
-    "niche": {
-      "key": "shopee_moda_infantil",
-      "name": "Moda Infantil"
-    }
-  },
-  {
-    "id": "ea5ce3e043a5b1aab6",
-    "title": "Tênis Infantil Calce Fácil Feminino",
-    "raw_title": "Tênis Infantil Calce Facil Feminino Bevolo Calçados",
-    "description": "✨ Sua pequena merece conforto e estilo! ✨ O Tênis Infantil Calce Fácil Feminino Bevolo é perfeito para o dia a dia das crianças! Prático, confortável e...",
-    "marketplace": "Shopee",
-    "category": "Moda Infantil",
-    "old_price": "R$ 69,17",
-    "price": "R$ 24,90",
-    "discount_percent": 64.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m5ociw1h09qo2f",
-    "affiliate_url": "https://s.shopee.com.br/AAH6EJyMLK",
-    "created_at": "12/09/2026 08:15",
-    "created_at_iso": "2026-09-12T08:15:46",
-    "created_ts": 1789200946,
     "niche": {
       "key": "shopee_moda_infantil",
       "name": "Moda Infantil"

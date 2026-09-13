@@ -1,5 +1,39 @@
 [
   {
+    "id": "009b8584c32fc69379",
+    "title": "Whey Protein Concentrado + Whey Protein Isolado + Cafeína",
+    "raw_title": "Whey Protein Concentrado + Whey Protein Isolado + Cafeína",
+    "description": "🔥 Oferta encontrada! 📌 Whey Protein Concentrado + Whey Protein Isolado + Cafeína Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Esportes e Lazer",
+    "old_price": "",
+    "price": "R$ 658,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_647505-MLB31230837165_062019-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20818317?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "13/09/2026 20:04",
+    "created_at_iso": "2026-09-13T20:04:07",
+    "created_ts": 1789329847
+  },
+  {
+    "id": "02906701e6fbb33e6c",
+    "title": "Esteira Kikos E600ix",
+    "raw_title": "Prancha Esteira Ergometrica Kikos E600ix Preto",
+    "description": "🚨 SUPER OFERTA KIKOS! Leve seu treino para outro nível com a Prancha Esteira Ergométrica Kikos E600ix Preto! Ideal para performance e conforto em casa....",
+    "marketplace": "Mercado Livre",
+    "category": "Esportes e Lazer",
+    "old_price": "R$ 222,43",
+    "price": "R$ 191,28",
+    "discount_percent": 14.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_784123-MLA112064877793_052026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70114350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "13/09/2026 20:03",
+    "created_at_iso": "2026-09-13T20:03:03",
+    "created_ts": 1789329783
+  },
+  {
     "id": "b4aa86544d09639e20",
     "title": "Babuche Adulto Personalizado",
     "raw_title": "Babuche Adulto Masculino E Feminino Personalizado",
@@ -2336,22 +2370,5 @@
       "key": "shopee_roupas_femininas",
       "name": "Roupas Femininas"
     }
-  },
-  {
-    "id": "1c60efe852fad20f0a",
-    "title": "Mini Impressora Niimbot B1 etiqueta Bluetooth Cor Prateado impressora…",
-    "raw_title": "Mini Impressora Niimbot B1 etiqueta Bluetooth Cor Prateado impressora etiquetas adesivas",
-    "description": "🔥 Oferta encontrada! 📌 Mini Impressora Niimbot B1 etiqueta Bluetooth Cor Prateado impressora etiquetas adesivas Confira os detalhes e aproveite enquanto...",
-    "marketplace": "Mercado Livre",
-    "category": "Informática",
-    "old_price": "",
-    "price": "R$ 209,99",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_656520-MLA93232832197_092025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "12/09/2026 20:03",
-    "created_at_iso": "2026-09-12T20:03:39",
-    "created_ts": 1789243419
   }
 ]

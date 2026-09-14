@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 14/09/2026 19:27
+Gerado em: 14/09/2026 20:22
 
 ## Como usar
 
@@ -102,37 +102,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Ofertas Pet
-
-**Canal recomendado:** Ofertas Pet
-
-**Horário sugerido:** 17:00 - 20:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
-
-**Texto pronto:**
-
-```txt
-🐶 Oferta para Ofertas Pet
-
-Sandália Papete Feminina Ortopédica com Elástico Confortável Moderna…
-
-💸 De: R$ 90,22
-🔥 Por: R$ 36,99
-🏷️ 59% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/BTmiIygD9
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 5 — Moda Feminina
+## Post 4 — Moda Feminina
 
 **Canal recomendado:** Moda Feminina
 
@@ -147,14 +117,44 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Conjunto Feminino cropped e short Verão Linho Duna Premium
+Blusa Regata Feminina Halter Efeito Silicone Modeladora Frente Unica…
 
-💸 De: R$ 100,00
-🔥 Por: R$ 39,00
-🏷️ 61% OFF
+💸 De: R$ 99,97
+🔥 Por: R$ 34,99
+🏷️ 65% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/40gWH8kzRT
+Ver oferta: https://s.shopee.com.br/8KpUlspBXn
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 5 — Ofertas Pet
+
+**Canal recomendado:** Ofertas Pet
+
+**Horário sugerido:** 17:00 - 20:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
+
+**Texto pronto:**
+
+```txt
+🐶 Oferta para Ofertas Pet
+
+Tênis Casual Feminino Coração
+
+💸 De: R$ 60,16
+🔥 Por: R$ 37,90
+🏷️ 37% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/1ANmGJEcx
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

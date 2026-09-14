@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 14/09/2026 20:22
+Gerado em: 14/09/2026 21:22
 
 ## Categorias prioritárias
 
+- 🍼 **Mãe e Bebê**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 💻 **Informática**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 🏋️ **Esportes**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 💄 **Beleza**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 🍼 **Mãe e Bebê**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 💄 **Beleza**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 👟 **Calçados**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 📱 **Celulares**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 🍳 **Casa e Cozinha**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
-- 📦 **Outros**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
-- 🧒 **Moda Infantil**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-infantil.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-infantil
-- 🐶 **Pet**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
+- 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 🧸 **Brinquedos**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
+- 🐶 **Pet**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
+- 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 
 ## Top ofertas para destacar
 
@@ -59,33 +59,33 @@ Gerado em: 14/09/2026 20:22
    - Desconto: 80% OFF
    - Link: https://s.shopee.com.br/7fZmW0vus3
 
-7. **Fones Xiaomi Redmi Airdots**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 19,79
-   - Desconto: 61% OFF
-   - Link: https://s.shopee.com.br/20vQxmC0zW
-
-8. **Tela Magnética Monitor Para Celular Sem Fio Smartphone Selfie Vlog Gr…**
+7. **Tela Magnética Monitor Para Celular Sem Fio Smartphone Selfie Vlog Gr…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 91,00
    - Desconto: 30% OFF
    - Link: https://s.shopee.com.br/5AsTzsb4gO
 
-9. **Tênis Casual Feminino Coração**
+8. **Tênis Casual Feminino Coração**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 37,90
    - Desconto: 37% OFF
    - Link: https://s.shopee.com.br/1ANmGJEcx
 
-10. **Fralda Huggies Jumbinho M**
+9. **Fralda Huggies Jumbinho M**
    - Categoria: Mãe e Bebê
    - Loja: Mercado Livre
    - Preço: R$ 42,90
    - Desconto: 35% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB25251850?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+10. **Toalha de Banho Fralda Soft Bebê**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 31,99
+   - Desconto: 47% OFF
+   - Link: https://s.shopee.com.br/2LYFAP6v9v
 
 ## Ações gratuitas recomendadas
 

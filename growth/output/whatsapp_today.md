@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 14/09/2026 14:12
+Gerado em: 14/09/2026 14:18
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
 ```txt
 👟 Oferta para Moda e Calçados
 
-Tênis O2x Feminino Esportivo Confortável Leve Treino Caminhada Corrid…
+Bota Botina Segurança Couro Legítimo CA Aprovado Bota EPI Antiderrapa…
 
-💸 De: R$ 99,75
-🔥 Por: R$ 39,90
+💸 De: R$ 99,90
+🔥 Por: R$ 39,96
 🏷️ 60% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/5q89nI7Mgq
+Ver oferta: https://s.shopee.com.br/9AObMhkV3Y
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

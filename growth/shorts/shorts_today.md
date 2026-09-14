@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 14/09/2026 14:18
+Gerado em: 14/09/2026 15:19
 
 ## Como usar
 
@@ -56,7 +56,7 @@ Gerado em: 14/09/2026 14:18
 
 - Espremedor Elétrico Laranja Limão Frutas Fazer Sucos Recarregável Usb…
 - Cadeira Presidente com Massagem
-- Spray de Óleo para Cozinha Vidro 200ml Borrifador Azeite Vinagre Air…
+- Conjunto Panelas Antiaderente Panelux
 
 ---
 
@@ -121,13 +121,11 @@ Gerado em: 14/09/2026 14:18
 - growth/shorts/slides/supermercados/01_intro.png
 - growth/shorts/slides/supermercados/02_produto_1.png
 - growth/shorts/slides/supermercados/03_produto_2.png
-- growth/shorts/slides/supermercados/04_produto_3.png
 - growth/shorts/slides/supermercados/05_cta.png
 
 **Produtos usados:**
 
 - Papel higiênico INDAIAL CAICAI PAPEL HIGIENICO folha dupla 22.5 m de…
-- Substrato Pronto 10L | Turfa + Perlita + Casca de Arroz Carbonizada |…
 - Amaciante Vinagreen Lavanda 1L
 
 ---

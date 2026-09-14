@@ -1,18 +1,18 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 14/09/2026 14:18
+Gerado em: 14/09/2026 15:19
 
 ## Categorias prioritárias
 
+- 👟 **Calçados**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 👗 **Moda Feminina**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 🍼 **Mãe e Bebê**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 🍳 **Casa e Cozinha**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
-- 👟 **Calçados**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 🍳 **Casa e Cozinha**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 💻 **Informática**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 🏋️ **Esportes**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 👕 **Moda Masculina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 - 💄 **Beleza**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 📦 **Outros**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 🐶 **Pet**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 
 ## Top ofertas para destacar
@@ -59,33 +59,33 @@ Gerado em: 14/09/2026 14:18
    - Desconto: 61% OFF
    - Link: https://s.shopee.com.br/20vQxmC0zW
 
-7. **Fralda Huggies Jumbinho M**
+7. **Tênis Casual Feminino Coração**
+   - Categoria: Pet
+   - Loja: Shopee
+   - Preço: R$ 37,90
+   - Desconto: 37% OFF
+   - Link: https://s.shopee.com.br/1ANmGJEcx
+
+8. **Fralda Huggies Jumbinho M**
    - Categoria: Mãe e Bebê
    - Loja: Mercado Livre
    - Preço: R$ 42,90
    - Desconto: 35% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB25251850?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-8. **Toalha de Banho Fralda Soft Bebê**
+9. **Toalha de Banho Fralda Soft Bebê**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 31,99
    - Desconto: 47% OFF
    - Link: https://s.shopee.com.br/2LYFAP6v9v
 
-9. **KIT 03 - Baby Tee Feminina - Blusa Slim Fit Manga Curta - Blusa Compr…**
+10. **KIT 03 - Baby Tee Feminina - Blusa Slim Fit Manga Curta - Blusa Compr…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 40,99
    - Desconto: 54% OFF
    - Link: https://s.shopee.com.br/2qUXcho7mw
-
-10. **Cartão de Memória SD Ultra A1 Classe 10**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 20,99
-   - Desconto: 59% OFF
-   - Link: https://s.shopee.com.br/50Z20JuiSZ
 
 ## Ações gratuitas recomendadas
 

@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 14/09/2026 16:03
+Gerado em: 14/09/2026 16:21
 
 ## Como usar
 
@@ -103,29 +103,7 @@ Gerado em: 14/09/2026 16:03
 **Produtos usados:**
 
 - Fones Xiaomi Redmi Airdots
+- Fone de Ouvido entrada lightning para Iphone Microfone Bluetooth
 - Fone Bluetooth Pro5 Premium
-- Cartão de Memória SD Ultra A1 Classe 10
-
----
-
-## Supermercados
-
-**Título sugerido:** 🛒 Ofertas de Supermercados atualizadas hoje
-
-**Descrição sugerida:** Ofertas de Supermercados selecionadas pela MaryLouse. Preços podem mudar. Veja no site. #MaryLouseOfertas #Ofertas #Achadinhos
-
-**Link/CTA:** https://marylouse-ofertas.vercel.app/ofertas-supermercados.html
-
-**Slides:**
-
-- growth/shorts/slides/supermercados/01_intro.png
-- growth/shorts/slides/supermercados/02_produto_1.png
-- growth/shorts/slides/supermercados/03_produto_2.png
-- growth/shorts/slides/supermercados/05_cta.png
-
-**Produtos usados:**
-
-- Papel higiênico INDAIAL CAICAI PAPEL HIGIENICO folha dupla 22.5 m de…
-- Amaciante Vinagreen Lavanda 1L
 
 ---

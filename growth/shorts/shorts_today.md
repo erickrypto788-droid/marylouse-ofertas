@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 14/09/2026 17:18
+Gerado em: 14/09/2026 18:22
 
 ## Como usar
 
@@ -55,8 +55,8 @@ Gerado em: 14/09/2026 17:18
 **Produtos usados:**
 
 - Espremedor Elétrico Laranja Limão Frutas Fazer Sucos Recarregável Usb…
-- Cadeira Presidente com Massagem
 - Conjunto Panelas Antiaderente Panelux
+- Liquidificador Mondial L-99 Turbo
 
 ---
 
@@ -78,9 +78,9 @@ Gerado em: 14/09/2026 17:18
 
 **Produtos usados:**
 
+- Chapinha Nano Titanium Profissional
 - Perfume Attracione Feminino by Attracione Woman Mulher
 - Attracione Men (Perfume Masculino com Feromônios Ativados)
-- Kit Maquiagem Infantil 32 Peças
 
 ---
 
@@ -105,5 +105,25 @@ Gerado em: 14/09/2026 17:18
 - Fones Xiaomi Redmi Airdots
 - Fone de Ouvido entrada lightning para Iphone Microfone Bluetooth
 - Fone Bluetooth Pro5 Premium
+
+---
+
+## Supermercados
+
+**Título sugerido:** 🛒 Ofertas de Supermercados atualizadas hoje
+
+**Descrição sugerida:** Ofertas de Supermercados selecionadas pela MaryLouse. Preços podem mudar. Veja no site. #MaryLouseOfertas #Ofertas #Achadinhos
+
+**Link/CTA:** https://marylouse-ofertas.vercel.app/ofertas-supermercados.html
+
+**Slides:**
+
+- growth/shorts/slides/supermercados/01_intro.png
+- growth/shorts/slides/supermercados/02_produto_1.png
+- growth/shorts/slides/supermercados/05_cta.png
+
+**Produtos usados:**
+
+- Kit Clareador Facial Completo
 
 ---

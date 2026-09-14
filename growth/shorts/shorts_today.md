@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 14/09/2026 09:10
+Gerado em: 14/09/2026 09:22
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 14/09/2026 09:10
 
 **Produtos usados:**
 
-- Fraldas SUMIKKO Calça Infantil
 - Toalha de Banho Fralda Soft Bebê
 - NINHO REDUTOR DE BERÇO | COM ZIPER E LAÇO | TROCADOR PORTÁTIL |…
+- Berço Portátil Moises Co-bed Com Balanço Mosquiteiro e Cesto Regulage…
 
 ---
 

@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 14/09/2026 02:23
+Gerado em: 14/09/2026 03:22
 
 ## Categorias prioritárias
 
@@ -8,11 +8,11 @@ Gerado em: 14/09/2026 02:23
 - 🧸 **Brinquedos**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 🏋️ **Esportes**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 🍼 **Mãe e Bebê**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 💄 **Beleza**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 💻 **Informática**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- ❤️ **Saúde**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
-- 🐶 **Pet**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 👗 **Moda Feminina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
+- 💄 **Beleza**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🍳 **Casa e Cozinha**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 
 ## Top ofertas para destacar
@@ -52,40 +52,40 @@ Gerado em: 14/09/2026 02:23
    - Desconto: 65% OFF
    - Link: https://s.shopee.com.br/1gIYNB9SVr
 
-6. **Escova Secadora Alisador 3 em 1**
-   - Categoria: Beleza
+6. **Medidor de Pressão Digital de Braço Automático Monitor Cardíaco LCD c…**
+   - Categoria: Saúde
    - Loja: Shopee
-   - Preço: R$ 37,99
-   - Desconto: 87% OFF
-   - Link: https://s.shopee.com.br/6VNnnSW8P3
+   - Preço: R$ 38,99
+   - Desconto: 61% OFF
+   - Link: https://s.shopee.com.br/9Ki25yh576
 
-7. **Kit Body Splash Dolce + Florata Red**
-   - Categoria: Beleza
+7. **Medidor Pressão Digital De Pulso Com Voz Monitor Inteligente Aparelho…**
+   - Categoria: Saúde
    - Loja: Shopee
-   - Preço: R$ 42,90
-   - Desconto: 57% OFF
-   - Link: https://s.shopee.com.br/2qUWl8EagM
-
-8. **Espremedor Elétrico Laranja Limão Frutas Fazer Sucos Recarregável Usb…**
-   - Categoria: Casa e Cozinha
-   - Loja: Shopee
-   - Preço: R$ 61,69
-   - Desconto: 56% OFF
-   - Link: https://s.shopee.com.br/4AzvbrtQhr
-
-9. **Fone Bluetooth Pro5 Premium**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 66,88
-   - Desconto: 77% OFF
-   - Link: https://s.shopee.com.br/8V8uhinGnZ
-
-10. **Sandália Papete Feminina Ortopédica com Elástico Confortável Moderna…**
-   - Categoria: Pet
-   - Loja: Shopee
-   - Preço: R$ 36,99
+   - Preço: R$ 40,98
    - Desconto: 59% OFF
-   - Link: https://s.shopee.com.br/BTmiIygD9
+   - Link: https://s.shopee.com.br/60Ra7qtlsG
+
+8. **Balança Digital OliverHome**
+   - Categoria: Saúde
+   - Loja: Shopee
+   - Preço: R$ 29,90
+   - Desconto: 65% OFF
+   - Link: https://s.shopee.com.br/7fZo6v0Ya2
+
+9. **Termômetro De Testa Infravermelha Digital**
+   - Categoria: Saúde
+   - Loja: Shopee
+   - Preço: R$ 26,89
+   - Desconto: 78% OFF
+   - Link: https://s.shopee.com.br/7VGNubnmng
+
+10. **Monitor de Pressão de Pulso Recarregável**
+   - Categoria: Saúde
+   - Loja: Shopee
+   - Preço: R$ 39,89
+   - Desconto: 80% OFF
+   - Link: https://s.shopee.com.br/8V8sRcKn6P
 
 ## Ações gratuitas recomendadas
 

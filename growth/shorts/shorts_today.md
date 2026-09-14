@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 14/09/2026 22:22
+Gerado em: 14/09/2026 23:21
 
 ## Como usar
 
@@ -79,8 +79,8 @@ Gerado em: 14/09/2026 22:22
 **Produtos usados:**
 
 - Chapinha Nano Titanium Profissional
-- Perfume Attracione Feminino by Attracione Woman Mulher
-- Attracione Men (Perfume Masculino com Feromônios Ativados)
+- Kit Maquiagem Infantil 32 Peças
+- Protetor Solar Facial Sunless FPS 60
 
 ---
 

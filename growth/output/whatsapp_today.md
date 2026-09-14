@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 14/09/2026 19:03
+Gerado em: 14/09/2026 19:23
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
 ```txt
 👟 Oferta para Moda e Calçados
 
-Bota Botina Segurança Couro Legítimo CA Aprovado Bota EPI Antiderrapa…
+Tênis Branco Infantil Leve e Confortável
 
-💸 De: R$ 99,90
-🔥 Por: R$ 39,96
+💸 De: R$ 99,72
+🔥 Por: R$ 39,89
 🏷️ 60% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/9AObMhkV3Y
+Ver oferta: https://s.shopee.com.br/7fZpAqCeF5
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

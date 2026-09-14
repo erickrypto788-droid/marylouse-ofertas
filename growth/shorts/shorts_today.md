@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 14/09/2026 03:22
+Gerado em: 14/09/2026 04:22
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 14/09/2026 03:22
 **Produtos usados:**
 
 - Fraldas SUMIKKO Calça Infantil
-- Ninho Redutor de Berço + Trocador
-- Kit 5 Camisetas Regata Bebê Menino Menina
+- Toalha de Banho Fralda Soft Bebê
+- NINHO REDUTOR DE BERÇO | COM ZIPER E LAÇO | TROCADOR PORTÁTIL |…
 
 ---
 

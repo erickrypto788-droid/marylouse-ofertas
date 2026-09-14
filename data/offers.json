@@ -1,5 +1,22 @@
 [
   {
+    "id": "67be3426bce05ce7ed",
+    "title": "Ração Gato Estimacat Premium Adulto Sabor Carne 15kg",
+    "raw_title": "Ração Gato Estimacat Premium Adulto Sabor Carne 15kg",
+    "description": "🔥 25% OFF — Oferta encontrada! 📌 Ração Gato Estimacat Premium Adulto Sabor Carne 15kg Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Pet",
+    "old_price": "R$ 356,33",
+    "price": "R$ 267,24",
+    "discount_percent": 25.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_978315-MLA108642652989_032026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66541712?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "14/09/2026 05:01",
+    "created_at_iso": "2026-09-14T05:01:28",
+    "created_ts": 1789362088
+  },
+  {
     "id": "5d93a0aed6360df54b",
     "title": "Kit 3 Lençóis Percal 400 Fios para Cercado/Berço Portátil",
     "raw_title": "Kit de 3 Lençol Cercado De Bebê Chiqueirinho com elástico Percal 400 fios berço portátil",
@@ -2428,22 +2445,5 @@
       "key": "shopee_esportes_lazer",
       "name": "Esportes e Lazer"
     }
-  },
-  {
-    "id": "ab7cafae5f8437badb",
-    "title": "Kit Ferramentas Informatica Cor Preto",
-    "raw_title": "Kit Ferramentas Informatica Cor Preto",
-    "description": "🔥 Oferta encontrada! 📌 Kit Ferramentas Informatica Cor Preto Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Mercado Livre",
-    "category": "Informática",
-    "old_price": "",
-    "price": "R$ 127,50",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_837553-MLA99455899792_112025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43810473?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "13/09/2026 05:01",
-    "created_at_iso": "2026-09-13T05:01:23",
-    "created_ts": 1789275683
   }
 ]

@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 14/09/2026 07:05
+Gerado em: 14/09/2026 07:22
 
 ## Como usar
 
@@ -80,7 +80,7 @@ Gerado em: 14/09/2026 07:05
 
 - Perfume Attracione Feminino by Attracione Woman Mulher
 - Attracione Men (Perfume Masculino com Feromônios Ativados)
-- Kit Body Splash Dolce + Florata Red
+- Kit Maquiagem Infantil 32 Peças
 
 ---
 

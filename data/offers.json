@@ -1,5 +1,26 @@
 [
   {
+    "id": "83829a350bae046a1f",
+    "title": "Calça Jeans Plus Size Com Elastano Super Conforto 44 ao 54",
+    "raw_title": "Calça Jeans Plus Size Com Elastano Super Conforto 44 ao 54",
+    "description": "🔥 50% OFF — Oferta encontrada! 📌 Calça Jeans Plus Size Com Elastano Super Conforto 44 ao 54 Confira os detalhes e aproveite enquanto a oferta estiver di...",
+    "marketplace": "Shopee",
+    "category": "Roupas Plus Size",
+    "old_price": "R$ 99,60",
+    "price": "R$ 49,80",
+    "discount_percent": 50.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-maiosq4lapvze8",
+    "affiliate_url": "https://s.shopee.com.br/3LQoLrM7hG",
+    "created_at": "14/09/2026 13:15",
+    "created_at_iso": "2026-09-14T13:15:50",
+    "created_ts": 1789391750,
+    "niche": {
+      "key": "shopee_roupas_plus_size",
+      "name": "Roupas Plus Size"
+    }
+  },
+  {
     "id": "ebfc2b6e57465a82ad",
     "title": "Bike Spinning Kikos Max-ks5 Preto",
     "raw_title": "Bike Spinning Kikos Max-ks5 Preto",
@@ -2704,22 +2725,5 @@
     "created_at": "13/09/2026 13:16",
     "created_at_iso": "2026-09-13T13:16:50",
     "created_ts": 1789305410
-  },
-  {
-    "id": "6ae28c3ab0b39cdb88",
-    "title": "Kit Teclado e Mouse branco Gamer RGB LED USB ABNT2 Profissional com L…",
-    "raw_title": "Kit Teclado e Mouse branco Gamer RGB LED USB ABNT2 Profissional com Luz para PC Notebook Promoção",
-    "description": "🔥 60% OFF — Oferta encontrada! 📌 Kit Teclado e Mouse branco Gamer RGB LED USB ABNT2 Profissional com Luz para PC Notebook Promoção Confira os detalhes e...",
-    "marketplace": "Shopee",
-    "category": "Informática",
-    "old_price": "R$ 129,75",
-    "price": "R$ 51,90",
-    "discount_percent": 60.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m4-mrbmz3bfev4539",
-    "affiliate_url": "https://s.shopee.com.br/1Vz9pszW2m",
-    "created_at": "13/09/2026 13:15",
-    "created_at_iso": "2026-09-13T13:15:45",
-    "created_ts": 1789305345
   }
 ]

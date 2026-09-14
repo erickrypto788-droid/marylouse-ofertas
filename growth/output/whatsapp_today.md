@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 14/09/2026 11:07
+Gerado em: 14/09/2026 11:22
 
 ## Como usar
 
@@ -147,14 +147,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Calça Legging Feminina Ausare de Compressão Média com UV50+ e Cós Alt…
+Conjunto Feminino cropped e short Verão Linho Duna Premium
 
-💸 De: R$ 296,00
-🔥 Por: R$ 99,90
-🏷️ 66% OFF
-🛒 Loja: Mercado Livre
+💸 De: R$ 100,00
+🔥 Por: R$ 39,00
+🏷️ 61% OFF
+🛒 Loja: Shopee
 
-Ver oferta: https://www.mercadolivre.com.br/p/MLB69276350?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+Ver oferta: https://s.shopee.com.br/40gWH8kzRT
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
 ```txt
 👟 Oferta para Moda e Calçados
 
-Tênis Infantil LED Homem-Aranha
+Tênis O2x Feminino Esportivo Confortável Leve Treino Caminhada Corrid…
 
-💸 De: R$ 199,75
-🔥 Por: R$ 79,90
+💸 De: R$ 99,75
+🔥 Por: R$ 39,90
 🏷️ 60% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/6L4OzglmZ3
+Ver oferta: https://s.shopee.com.br/5q89nI7Mgq
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

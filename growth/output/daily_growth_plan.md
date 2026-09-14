@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 14/09/2026 04:22
+Gerado em: 14/09/2026 05:03
 
 ## Categorias prioritárias
 
 - 🍼 **Mãe e Bebê**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🧸 **Brinquedos**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 🏋️ **Esportes**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 💻 **Informática**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 🐶 **Pet**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - ❤️ **Saúde**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 💻 **Informática**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 👗 **Moda Feminina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 🍳 **Casa e Cozinha**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
-- 🐶 **Pet**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 
 ## Top ofertas para destacar
 
@@ -59,33 +59,33 @@ Gerado em: 14/09/2026 04:22
    - Desconto: 47% OFF
    - Link: https://s.shopee.com.br/2LYFAP6v9v
 
-7. **Kit 3 Lençóis Percal 400 Fios para Cercado/Berço Portátil**
+7. **Ração Gato Estimacat Premium Adulto Sabor Carne 15kg**
+   - Categoria: Pet
+   - Loja: Mercado Livre
+   - Preço: R$ 267,24
+   - Desconto: 25% OFF
+   - Link: https://www.mercadolivre.com.br/p/MLB66541712?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+8. **Kit 3 Lençóis Percal 400 Fios para Cercado/Berço Portátil**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 29,97
    - Desconto: 55% OFF
    - Link: https://s.shopee.com.br/8pllZAlVEY
 
-8. **NINHO REDUTOR DE BERÇO | COM ZIPER E LAÇO | TROCADOR PORTÁTIL |…**
+9. **NINHO REDUTOR DE BERÇO | COM ZIPER E LAÇO | TROCADOR PORTÁTIL |…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 43,90
    - Desconto: 69% OFF
    - Link: https://s.shopee.com.br/8fSLMrm8ZX
 
-9. **Berço Portátil Moises Co-bed Com Balanço Mosquiteiro e Cesto Regulage…**
+10. **Berço Portátil Moises Co-bed Com Balanço Mosquiteiro e Cesto Regulage…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 519,49
    - Desconto: 71% OFF
    - Link: https://s.shopee.com.br/8KpUyFnPFV
-
-10. **Medidor de Pressão Digital de Braço Automático Monitor Cardíaco LCD c…**
-   - Categoria: Saúde
-   - Loja: Shopee
-   - Preço: R$ 38,99
-   - Desconto: 61% OFF
-   - Link: https://s.shopee.com.br/9Ki25yh576
 
 ## Ações gratuitas recomendadas
 

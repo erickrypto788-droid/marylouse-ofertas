@@ -1,14 +1,14 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 14/09/2026 08:22
+Gerado em: 14/09/2026 09:10
 
 ## Categorias prioritárias
 
+- 🍼 **Mãe e Bebê**: 16 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 💻 **Informática**: 16 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 🍼 **Mãe e Bebê**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 🍳 **Casa e Cozinha**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 📚 **Papelaria**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 - 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 🍳 **Casa e Cozinha**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 🏋️ **Esportes**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 👗 **Moda Feminina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
@@ -73,19 +73,19 @@ Gerado em: 14/09/2026 08:22
    - Desconto: 65% OFF
    - Link: https://s.shopee.com.br/1gIYNB9SVr
 
-9. **Toalha de Banho Fralda Soft Bebê**
+9. **Fralda Huggies Jumbinho M**
+   - Categoria: Mãe e Bebê
+   - Loja: Mercado Livre
+   - Preço: R$ 42,90
+   - Desconto: 35% OFF
+   - Link: https://www.mercadolivre.com.br/p/MLB25251850?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+10. **Toalha de Banho Fralda Soft Bebê**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 31,99
    - Desconto: 47% OFF
    - Link: https://s.shopee.com.br/2LYFAP6v9v
-
-10. **Cartão de Memória SD Ultra A1 Classe 10**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 20,99
-   - Desconto: 59% OFF
-   - Link: https://s.shopee.com.br/50Z20JuiSZ
 
 ## Ações gratuitas recomendadas
 

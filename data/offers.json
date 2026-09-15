@@ -1,5 +1,22 @@
 [
   {
+    "id": "8e257487615e9a7fd8",
+    "title": "Carregador iPhone USB-C Branco",
+    "raw_title": "Carregador iPhone Tipo USB-C Cor Branco",
+    "description": "⚡️ Carga Rápida para seu iPhone! Garanta já o Carregador iPhone Tipo USB-C Cor Branco! Perfeito para manter seu aparelho sempre com energia e pronto par...",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "",
+    "price": "R$ 349,99",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_934400-MLA99958222607_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20643765?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "15/09/2026 12:02",
+    "created_at_iso": "2026-09-15T12:02:06",
+    "created_ts": 1789473726
+  },
+  {
     "id": "aea6611f8fd81cf32b",
     "title": "Capa Anti Impacto + Película 3D MT G06",
     "raw_title": "Capa Capinha Anti Impacto + Pelicula 3d Para mt G06",
@@ -2227,26 +2244,5 @@
     "created_at": "14/09/2026 12:02",
     "created_at_iso": "2026-09-14T12:02:59",
     "created_ts": 1789387379
-  },
-  {
-    "id": "cfb402b6efa9a8f14b",
-    "title": "kit 03 short dool pijaminhas coloridos roupa de dormir",
-    "raw_title": "kit 03 short dool pijaminhas coloridos roupa de dormir",
-    "description": "🔥 40% OFF — Oferta encontrada! 📌 kit 03 short dool pijaminhas coloridos roupa de dormir Confira os detalhes e aproveite enquanto a oferta estiver dispon...",
-    "marketplace": "Shopee",
-    "category": "Roupas Femininas",
-    "old_price": "R$ 49,83",
-    "price": "R$ 29,90",
-    "discount_percent": 40.0,
-    "rating": 4.6,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m4-mm36iv754552e1",
-    "affiliate_url": "https://s.shopee.com.br/qjTF28jOS",
-    "created_at": "14/09/2026 11:20",
-    "created_at_iso": "2026-09-14T11:20:15",
-    "created_ts": 1789384815,
-    "niche": {
-      "key": "shopee_roupas_femininas",
-      "name": "Roupas Femininas"
-    }
   }
 ]

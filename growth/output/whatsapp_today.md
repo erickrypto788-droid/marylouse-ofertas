@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 15/09/2026 10:17
+Gerado em: 15/09/2026 11:21
 
 ## Como usar
 
@@ -72,7 +72,37 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 3 — Moda Feminina
+## Post 3 — Celulares e Tecnologia
+
+**Canal recomendado:** Celulares e Tecnologia
+
+**Horário sugerido:** 19:00 - 21:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
+
+**Texto pronto:**
+
+```txt
+📱 Oferta para Celulares e Tecnologia
+
+Suporte Celular Carro Anti Queda
+
+💸 De: R$ 49,96
+🔥 Por: R$ 23,98
+🏷️ 52% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/905DpDB0CW
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 4 — Moda Feminina
 
 **Canal recomendado:** Moda Feminina
 
@@ -95,36 +125,6 @@ Kit 2 Calça Alfaiataria PREMIUM Cintura Alta Com Bolso PROMOÇÃO
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/6VNsW3gqug
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 4 — Celulares e Tecnologia
-
-**Canal recomendado:** Celulares e Tecnologia
-
-**Horário sugerido:** 19:00 - 21:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
-
-**Texto pronto:**
-
-```txt
-📱 Oferta para Celulares e Tecnologia
-
-Tela Magnética Monitor Para Celular Sem Fio Smartphone Selfie Vlog Gr…
-
-💸 De: R$ 130,00
-🔥 Por: R$ 91,00
-🏷️ 30% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/5AsTzsb4gO
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

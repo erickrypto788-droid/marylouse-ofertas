@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 15/09/2026 16:22
+Gerado em: 15/09/2026 17:23
 
 ## Categorias prioritárias
 
+- ❤️ **Saúde**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 🏋️ **Esportes**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 🍼 **Mãe e Bebê**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 💄 **Beleza**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 💻 **Informática**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 👗 **Moda Feminina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 🧸 **Brinquedos**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 📦 **Outros**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 💻 **Informática**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 🐶 **Pet**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
-- 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 
 ## Top ofertas para destacar
 
@@ -59,33 +59,33 @@ Gerado em: 15/09/2026 16:22
    - Desconto: 49% OFF
    - Link: https://s.shopee.com.br/AUu0wngEWU
 
-7. **Vestido Feminino Curto Duna com Amarração Caimento Soltinho Gola Halt…**
+7. **Kit Oxímetro de Dedo + Termômetro Infravermelho + Inalador Portátil**
+   - Categoria: Saúde
+   - Loja: Shopee
+   - Preço: R$ 77,99
+   - Desconto: 59% OFF
+   - Link: https://s.shopee.com.br/2gBAgIioXX
+
+8. **Nebulizador Portátil para Crianças e Adultos**
+   - Categoria: Saúde
+   - Loja: Shopee
+   - Preço: R$ 27,99
+   - Desconto: 69% OFF
+   - Link: https://s.shopee.com.br/6VNtFLQ60D
+
+9. **Vestido Feminino Curto Duna com Amarração Caimento Soltinho Gola Halt…**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 46,80
    - Desconto: 22% OFF
    - Link: https://s.shopee.com.br/AKabg8xvyy
 
-8. **Kit 4 Peças 2 Conjunto Infantil Bebê Menino Verão Algodão Promoção 2…**
+10. **Kit 4 Peças 2 Conjunto Infantil Bebê Menino Verão Algodão Promoção 2…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 51,00
    - Desconto: 61% OFF
    - Link: https://s.shopee.com.br/9Ki4QBqDay
-
-9. **Sandália Cartago Baby Masculino**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 23,90
-   - Desconto: 60% OFF
-   - Link: https://s.shopee.com.br/qjV2HYOqp
-
-10. **Teclado Gamer/ Escritório Com Fio RGB LED Iluminado Com 68 Teclados…**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 89,88
-   - Desconto: 70% OFF
-   - Link: https://s.shopee.com.br/8pln5wf1bB
 
 ## Ações gratuitas recomendadas
 

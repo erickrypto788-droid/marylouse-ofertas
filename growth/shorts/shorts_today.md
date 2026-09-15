@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 15/09/2026 04:06
+Gerado em: 15/09/2026 04:22
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 15/09/2026 04:06
 
 **Produtos usados:**
 
-- Toalha de Banho Fralda Soft Bebê
-- NINHO REDUTOR DE BERÇO | COM ZIPER E LAÇO | TROCADOR PORTÁTIL |…
-- Berço Portátil Moises Co-bed Com Balanço Mosquiteiro e Cesto Regulage…
+- Huggies Fralda Descartável Máxima Proteção XG - 112 Un
+- Fralda Huggies Jumbinho M
+- Brinquedo espiral centopéia com chocalho, macio, ideal para carrinhos…
 
 ---
 
@@ -126,8 +126,8 @@ Gerado em: 15/09/2026 04:06
 
 **Produtos usados:**
 
+- Kit 4 Potes Herméticos 2L Com Copo Medidor Organizador Mantimentos Ar…
 - Kit Clareador Facial Completo
 - Condicionador Infantil 250ml Buba Care
-- 35 Escova Dental + 35 Porta Escova Dental + 35 Creme Dental Sortidas
 
 ---

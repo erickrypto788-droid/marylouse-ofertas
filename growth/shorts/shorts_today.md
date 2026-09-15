@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 15/09/2026 09:04
+Gerado em: 15/09/2026 09:18
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 15/09/2026 09:04
 **Produtos usados:**
 
 - Huggies Fralda Descartável Máxima Proteção XG - 112 Un
-- Fralda Huggies Jumbinho M
 - Brinquedo espiral centopéia com chocalho, macio, ideal para carrinhos…
+- Trocador Plastificado Impermeável Anatômico Americano de Cômoda Para…
 
 ---
 

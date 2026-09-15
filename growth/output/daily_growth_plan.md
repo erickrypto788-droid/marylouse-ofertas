@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 15/09/2026 14:22
+Gerado em: 15/09/2026 15:04
 
 ## Categorias prioritárias
 
@@ -11,9 +11,9 @@ Gerado em: 15/09/2026 14:22
 - 💻 **Informática**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 👗 **Moda Feminina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
+- 🐶 **Pet**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 🏋️ **Esportes**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 🍳 **Casa e Cozinha**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
-- ❤️ **Saúde**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 
 ## Top ofertas para destacar
 
@@ -38,54 +38,54 @@ Gerado em: 15/09/2026 14:22
    - Desconto: 67% OFF
    - Link: https://s.shopee.com.br/30nyHt3Zmr
 
-4. **Perfume Deo Colônia Lescent N2 DELICATE LONDRES Feminino**
+4. **Alimento Royal Canin Hair & Skin 3kg Ração Gato**
+   - Categoria: Pet
+   - Loja: Mercado Livre
+   - Preço: R$ 257,00
+   - Desconto: 36% OFF
+   - Link: https://www.mercadolivre.com.br/p/MLB28523781?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+5. **Perfume Deo Colônia Lescent N2 DELICATE LONDRES Feminino**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 33,92
    - Desconto: 41% OFF
    - Link: https://s.shopee.com.br/1qc3QHY32h
 
-5. **Mochila Couro Masculina Reforçada Para Notebook Escolar Excecultivo S…**
+6. **Mochila Couro Masculina Reforçada Para Notebook Escolar Excecultivo S…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 45,69
    - Desconto: 49% OFF
    - Link: https://s.shopee.com.br/AUu0wngEWU
 
-6. **Tela Magnética Monitor Para Celular Sem Fio Smartphone Selfie Vlog Gr…**
+7. **Tela Magnética Monitor Para Celular Sem Fio Smartphone Selfie Vlog Gr…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 91,00
    - Desconto: 30% OFF
    - Link: https://s.shopee.com.br/5AsTzsb4gO
 
-7. **Tênis Casual Feminino Coração**
+8. **Tênis Casual Feminino Coração**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 37,90
    - Desconto: 37% OFF
    - Link: https://s.shopee.com.br/1ANmGJEcx
 
-8. **Kit 4 Peças 2 Conjunto Infantil Bebê Menino Verão Algodão Promoção 2…**
+9. **Kit 4 Peças 2 Conjunto Infantil Bebê Menino Verão Algodão Promoção 2…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 51,00
    - Desconto: 61% OFF
    - Link: https://s.shopee.com.br/9Ki4QBqDay
 
-9. **Sandália Cartago Baby Masculino**
+10. **Sandália Cartago Baby Masculino**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 23,90
    - Desconto: 60% OFF
    - Link: https://s.shopee.com.br/qjV2HYOqp
-
-10. **Teclado Gamer/ Escritório Com Fio RGB LED Iluminado Com 68 Teclados…**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 89,88
-   - Desconto: 70% OFF
-   - Link: https://s.shopee.com.br/8pln5wf1bB
 
 ## Ações gratuitas recomendadas
 

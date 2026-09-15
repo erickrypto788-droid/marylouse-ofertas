@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 15/09/2026 13:21
+Gerado em: 15/09/2026 14:22
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 15/09/2026 13:21
 
 **Produtos usados:**
 
+- Kit 4 Peças 2 Conjunto Infantil Bebê Menino Verão Algodão Promoção 2…
+- Sandália Cartago Baby Masculino
 - Huggies Fralda Descartável Máxima Proteção XG - 112 Un
-- Brinquedo espiral centopéia com chocalho, macio, ideal para carrinhos…
-- Trocador Plastificado Impermeável Anatômico Americano de Cômoda Para…
 
 ---
 

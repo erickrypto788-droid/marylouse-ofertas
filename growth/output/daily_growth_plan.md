@@ -1,91 +1,91 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 15/09/2026 22:21
+Gerado em: 15/09/2026 23:21
 
 ## Categorias prioritárias
 
-- 🍼 **Mãe e Bebê**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 💻 **Informática**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 👗 **Moda Feminina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
+- 🍼 **Mãe e Bebê**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 📚 **Papelaria**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
-- 💻 **Informática**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 👜 **Bolsas**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 - 📦 **Outros**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
-- 👟 **Calçados**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- ❤️ **Saúde**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
+- 🐶 **Pet**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
+- 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 💄 **Beleza**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 🍳 **Casa e Cozinha**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 
 ## Top ofertas para destacar
 
-1. **Mochila Couro PU Grande Executiva Para Notebook Trabalho Faculdade Re…**
+1. **Teclado e mouse sem fio—Compatível com tablet，Notebook e celular, Rec…**
+   - Categoria: Celulares
+   - Loja: Shopee
+   - Preço: R$ 39,69
+   - Desconto: 60% OFF
+   - Link: https://s.shopee.com.br/6VNte3W0dD
+
+2. **Mochila Couro PU Grande Executiva Para Notebook Trabalho Faculdade Re…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 38,98
    - Desconto: 64% OFF
    - Link: https://s.shopee.com.br/7ptH6GvMSJ
 
-2. **Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…**
+3. **Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 26,99
    - Desconto: 55% OFF
    - Link: https://s.shopee.com.br/905EMB3kV1
 
-3. **Suporte Celular Carro Anti Queda**
+4. **Suporte Celular Carro Anti Queda**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 23,98
    - Desconto: 52% OFF
    - Link: https://s.shopee.com.br/905DpDB0CW
 
-4. **Mochila Bolsa Reforçada Notebook Resistente Trabalho Faculdade Coreana**
+5. **Mochila Bolsa Reforçada Notebook Resistente Trabalho Faculdade Coreana**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 29,90
    - Desconto: 59% OFF
    - Link: https://s.shopee.com.br/8AW6AVkmih
 
-5. **Mala Case Capa Bolsa Porta Case Notebook Slim 14,6/15,6 Alça Dupla Re…**
+6. **Mala Case Capa Bolsa Porta Case Notebook Slim 14,6/15,6 Alça Dupla Re…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 29,00
    - Desconto: 37% OFF
    - Link: https://s.shopee.com.br/4LJNXJ6fJU
 
-6. **Alimento Royal Canin Hair & Skin 3kg Ração Gato**
+7. **Alimento Royal Canin Hair & Skin 3kg Ração Gato**
    - Categoria: Pet
    - Loja: Mercado Livre
    - Preço: R$ 257,00
    - Desconto: 36% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB28523781?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-7. **Perfume Deo Colônia Lescent N2 DELICATE LONDRES Feminino**
+8. **Perfume Deo Colônia Lescent N2 DELICATE LONDRES Feminino**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 33,92
    - Desconto: 41% OFF
    - Link: https://s.shopee.com.br/1qc3QHY32h
 
-8. **Mochila Couro Masculina Reforçada Para Notebook Escolar Excecultivo S…**
+9. **Mochila Couro Masculina Reforçada Para Notebook Escolar Excecultivo S…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 45,69
    - Desconto: 49% OFF
    - Link: https://s.shopee.com.br/AUu0wngEWU
 
-9. **Fralda Infantil Huggies Meguinha Tamanho G 30 Unidades**
-   - Categoria: Mãe e Bebê
+10. **Repetidor Wifi 2800m 6 Antenas Roteador Amplificador De Sinal Modem 1…**
+   - Categoria: Pet
    - Loja: Shopee
-   - Preço: R$ 37,89
-   - Desconto: 25% OFF
-   - Link: https://s.shopee.com.br/2VrkY7UAd6
-
-10. **Kit Oxímetro de Dedo + Termômetro Infravermelho + Inalador Portátil**
-   - Categoria: Saúde
-   - Loja: Shopee
-   - Preço: R$ 77,99
-   - Desconto: 59% OFF
-   - Link: https://s.shopee.com.br/2gBAgIioXX
+   - Preço: R$ 52,98
+   - Desconto: 56% OFF
+   - Link: https://s.shopee.com.br/7VGQptsbGB
 
 ## Ações gratuitas recomendadas
 

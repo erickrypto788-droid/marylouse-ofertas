@@ -1,5 +1,39 @@
 [
   {
+    "id": "e11c9b759e75d19e1b",
+    "title": "Molde Legging Digital PP-GG",
+    "raw_title": "Molde Calça Legging Feminina Digital Pp-p-m-g-gg",
+    "description": "🧵 Crie leggings incríveis com este molde digital! Perfeito para costureiras e quem ama DIY. Tenha todos os tamanhos (PP ao GG) em suas mãos para produzi...",
+    "marketplace": "Mercado Livre",
+    "category": "Roupas Femininas",
+    "old_price": "",
+    "price": "R$ 88,90",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_675267-MLA112312038154_062026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74011420?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "15/09/2026 20:06",
+    "created_at_iso": "2026-09-15T20:06:34",
+    "created_ts": 1789502794
+  },
+  {
+    "id": "9b5a597a99f5e24037",
+    "title": "Molde Calça Moletom Feminina",
+    "raw_title": "Molde Calça Feminina Moletom Impresso P/m/g/gg/xg",
+    "description": "✂️ Crie sua própria moda com facilidade! Tenha o Molde de Calça Feminina Moletom Impresso nos tamanhos P ao XG. Perfeito para quem ama costurar e quer p...",
+    "marketplace": "Mercado Livre",
+    "category": "Roupas Femininas",
+    "old_price": "",
+    "price": "R$ 129,90",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_654072-MLA114055150897_072026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74893563?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "15/09/2026 20:05",
+    "created_at_iso": "2026-09-15T20:05:23",
+    "created_ts": 1789502723
+  },
+  {
     "id": "0308265627effc23f6",
     "title": "Escova de Limpeza Multifuncional Flexível Para Garrafas Mamadeiras Li…",
     "raw_title": "Escova de Limpeza Multifuncional Flexível Para Garrafas Mamadeiras Liquidificador De Silicone",
@@ -2313,48 +2347,6 @@
     "niche": {
       "key": "shopee_esportes_lazer",
       "name": "Esportes e Lazer"
-    }
-  },
-  {
-    "id": "5c763d1bd4a8f514aa",
-    "title": "10 Calcinhas Infantil Menina Moça Confortáveis Forro de Algodão Dia a…",
-    "raw_title": "10 Calcinhas Infantil Menina Moça Confortáveis Forro de Algodão Dia a Dia Promoção",
-    "description": "🔥 46% OFF — Oferta encontrada! 📌 10 Calcinhas Infantil Menina Moça Confortáveis Forro de Algodão Dia a Dia Promoção Confira os detalhes e aproveite enqu...",
-    "marketplace": "Shopee",
-    "category": "Moda Infantil",
-    "old_price": "R$ 49,81",
-    "price": "R$ 26,90",
-    "discount_percent": 46.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820le-mnkkbbtiq8lgfd",
-    "affiliate_url": "https://s.shopee.com.br/9zxigqB3GG",
-    "created_at": "14/09/2026 19:22",
-    "created_at_iso": "2026-09-14T19:22:08",
-    "created_ts": 1789413728,
-    "niche": {
-      "key": "shopee_moda_infantil",
-      "name": "Moda Infantil"
-    }
-  },
-  {
-    "id": "9d535330e1900da4d3",
-    "title": "Conjunto Infantil Menino Verão – Camiseta + Bermuda Confortável | 1 a…",
-    "raw_title": "Conjunto Infantil Menino Verão – Camiseta + Bermuda Confortável | 1 a 12 Anos",
-    "description": "🔥 40% OFF — Oferta encontrada! 📌 Conjunto Infantil Menino Verão – Camiseta + Bermuda Confortável | 1 a 12 Anos Confira os detalhes e aproveite enquanto...",
-    "marketplace": "Shopee",
-    "category": "Moda Infantil",
-    "old_price": "R$ 49,82",
-    "price": "R$ 29,89",
-    "discount_percent": 40.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjr3k7hfczya39",
-    "affiliate_url": "https://s.shopee.com.br/1gIalWtpzS",
-    "created_at": "14/09/2026 19:21",
-    "created_at_iso": "2026-09-14T19:21:04",
-    "created_ts": 1789413664,
-    "niche": {
-      "key": "shopee_moda_infantil",
-      "name": "Moda Infantil"
     }
   }
 ]

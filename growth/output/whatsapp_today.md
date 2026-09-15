@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 15/09/2026 19:13
+Gerado em: 15/09/2026 19:22
 
 ## Como usar
 
@@ -27,14 +27,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
 ```txt
 🍼 Oferta para Mamãe e Bebê
 
-Boneca Lola Baby com Chupeta Rosa
+Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…
 
-💸 De: R$ 70,00
-🔥 Por: R$ 32,90
-🏷️ 53% OFF
+💸 De: R$ 59,98
+🔥 Por: R$ 26,99
+🏷️ 55% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/AKaZLvbOPF
+Ver oferta: https://s.shopee.com.br/905EMB3kV1
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
@@ -162,29 +162,29 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 6 — Moda e Calçados
+## Post 6 — Saúde
 
-**Canal recomendado:** Moda e Calçados
+**Canal recomendado:** Saúde e Bem-estar
 
-**Horário sugerido:** 12:00 - 15:00
+**Horário sugerido:** 09:00 - 11:00
 
 **Imagem/card:**
 
-https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
+https://marylouse-ofertas.vercel.app/growth/pinterest/saude.png
 
 **Texto pronto:**
 
 ```txt
-👟 Oferta para Moda e Calçados
+❤️ Oferta para Saúde
 
-Tênis Branco Infantil Leve e Confortável
+Nebulizador Portátil para Crianças e Adultos
 
-💸 De: R$ 99,72
-🔥 Por: R$ 39,89
-🏷️ 60% OFF
+💸 De: R$ 90,29
+🔥 Por: R$ 27,99
+🏷️ 69% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/7fZpAqCeF5
+Ver oferta: https://s.shopee.com.br/6VNtFLQ60D
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

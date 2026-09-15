@@ -1,6 +1,6 @@
 # Pinterest Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 15/09/2026 19:13
+Gerado em: 15/09/2026 19:22
 
 ## Como usar
 
@@ -30,7 +30,7 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
 
 **Descrição:**
 
-Veja ofertas de Mãe e Bebê selecionadas pela MaryLouse Ofertas. Destaque de hoje: Kit 4 Peças 2 Conjunto Infantil Bebê Menino Verão Algodão Promoção 2…. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Veja ofertas de Mãe e Bebê selecionadas pela MaryLouse Ofertas. Destaque de hoje: Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
@@ -38,7 +38,7 @@ https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=pinterest&
 
 **Por que postar:**
 
-Categoria com 11 oferta(s) e boa intenção de compra.
+Categoria com 16 oferta(s) e boa intenção de compra.
 
 ---
 
@@ -126,27 +126,27 @@ Categoria com 5 oferta(s) e boa intenção de compra.
 
 ---
 
-## Pin 5 — Beleza
+## Pin 5 — Mãe e Bebê
 
 **Tipo:** produto_direto
 
-**Board sugerido:** Beleza e Cuidados
+**Board sugerido:** Ofertas para Bebê
 
 **Imagem para upload no Pinterest:**
 
-https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
+https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
 
 **Título:**
 
-41% OFF: Perfume Deo Colônia Lescent N2 DELICATE LONDRES Feminino
+55% OFF: Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…
 
 **Descrição:**
 
-Oferta destaque em Beleza encontrada pela MaryLouse Ofertas. Preço: R$ 33,92. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Oferta destaque em Mãe e Bebê encontrada pela MaryLouse Ofertas. Preço: R$ 26,99. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
-https://s.shopee.com.br/1qc3QHY32h
+https://s.shopee.com.br/905EMB3kV1
 
 **Por que postar:**
 

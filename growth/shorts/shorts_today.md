@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 15/09/2026 15:21
+Gerado em: 15/09/2026 16:22
 
 ## Como usar
 
@@ -103,8 +103,8 @@ Gerado em: 15/09/2026 15:21
 **Produtos usados:**
 
 - Suporte Celular Carro Anti Queda
-- Fone de Ouvido entrada lightning para Iphone Microfone Bluetooth
-- Tela Magnética Monitor Para Celular Sem Fio Smartphone Selfie Vlog Gr…
+- Capa Anti Impacto + Película 3D MT G06
+- Power Bank Basike 20000mAh
 
 ---
 

@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 15/09/2026 12:20
+Gerado em: 15/09/2026 13:21
 
 ## Como usar
 
@@ -79,8 +79,8 @@ Gerado em: 15/09/2026 12:20
 **Produtos usados:**
 
 - Chapinha Nano Titanium Profissional
-- ANA1108 Kit 10 mini pincéis para Maquiagem com estojo bolsa para viag…
-- Protetor Solar Facial Sunless FPS 60
+- Perfume Deo Colônia Lescent N2 DELICATE LONDRES Feminino
+- Body Splash Masculino Barbarius Primacial
 
 ---
 

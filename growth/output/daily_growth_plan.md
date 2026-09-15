@@ -1,18 +1,18 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 15/09/2026 05:20
+Gerado em: 15/09/2026 06:22
 
 ## Categorias prioritárias
 
-- 💻 **Informática**: 16 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 🍼 **Mãe e Bebê**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 💻 **Informática**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 👗 **Moda Feminina**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 📦 **Outros**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 🍼 **Mãe e Bebê**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🍳 **Casa e Cozinha**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 🏋️ **Esportes**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 📚 **Papelaria**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 - 💄 **Beleza**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 👟 **Calçados**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 👗 **Moda Feminina**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 🐶 **Pet**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 
 ## Top ofertas para destacar
@@ -38,54 +38,54 @@ Gerado em: 15/09/2026 05:20
    - Desconto: 57% OFF
    - Link: https://s.shopee.com.br/4LJLHDDFKU
 
-4. **Mochila Faculdade Reforçada Compartimento Para Notebook Escolar Uniss…**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 32,90
-   - Desconto: 56% OFF
-   - Link: https://s.shopee.com.br/2gB8M9h00y
-
-5. **Mochila Masculina Esportiva Impermeável para Notebook, Mochila Escola…**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 39,99
-   - Desconto: 52% OFF
-   - Link: https://s.shopee.com.br/1ALusrWNU
-
-6. **Mochila Couro Masculina Reforçada Para Notebook Escolar Excecultivo S…**
+4. **Mochila Couro Masculina Reforçada Para Notebook Escolar Excecultivo S…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 45,69
    - Desconto: 49% OFF
    - Link: https://s.shopee.com.br/AUu0wngEWU
 
-7. **Tela Magnética Monitor Para Celular Sem Fio Smartphone Selfie Vlog Gr…**
+5. **Tela Magnética Monitor Para Celular Sem Fio Smartphone Selfie Vlog Gr…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 91,00
    - Desconto: 30% OFF
    - Link: https://s.shopee.com.br/5AsTzsb4gO
 
-8. **Tênis Casual Feminino Coração**
+6. **Tênis Casual Feminino Coração**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 37,90
    - Desconto: 37% OFF
    - Link: https://s.shopee.com.br/1ANmGJEcx
 
-9. **Fralda Huggies Jumbinho M**
+7. **Fralda Huggies Jumbinho M**
    - Categoria: Mãe e Bebê
    - Loja: Mercado Livre
    - Preço: R$ 42,90
    - Desconto: 35% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB25251850?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-10. **Teclado Gamer/ Escritório Com Fio RGB LED Iluminado Com 68 Teclados…**
+8. **Teclado Gamer/ Escritório Com Fio RGB LED Iluminado Com 68 Teclados…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 89,88
    - Desconto: 70% OFF
    - Link: https://s.shopee.com.br/8pln5wf1bB
+
+9. **Hub USB Type C 8 Em 1 Com Leitor De Cartão Divisor 3.0 2.0 SD TF Dock…**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 27,99
+   - Desconto: 60% OFF
+   - Link: https://s.shopee.com.br/4Vcnvz4BQu
+
+10. **Monitor Gamer ARZOPA M1RC, 27" 2K QHD 180Hz IPS, 1ms, 115% sRGB, USB-…**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 999,99
+   - Desconto: 86% OFF
+   - Link: https://s.shopee.com.br/905DIFiilL
 
 ## Ações gratuitas recomendadas
 

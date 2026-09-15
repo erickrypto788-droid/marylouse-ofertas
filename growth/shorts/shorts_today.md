@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 15/09/2026 17:23
+Gerado em: 15/09/2026 19:13
 
 ## Como usar
 
@@ -78,9 +78,9 @@ Gerado em: 15/09/2026 17:23
 
 **Produtos usados:**
 
-- Chapinha Nano Titanium Profissional
 - Perfume Deo Colônia Lescent N2 DELICATE LONDRES Feminino
 - Body Splash Masculino Barbarius Primacial
+- ANA1108 Kit 10 mini pincéis para Maquiagem com estojo bolsa para viag…
 
 ---
 
@@ -127,7 +127,7 @@ Gerado em: 15/09/2026 17:23
 **Produtos usados:**
 
 - Kit 4 Potes Herméticos 2L Com Copo Medidor Organizador Mantimentos Ar…
-- Kit Clareador Facial Completo
-- Condicionador Infantil 250ml Buba Care
+- Azeite Oliva Extra Virgem Italiano Mercatto
+- Condicionador Infantil Lowell Mirtilinho 240ml
 
 ---

@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 15/09/2026 18:16
+Gerado em: 15/09/2026 19:13
 
 ## Como usar
 
@@ -12,37 +12,7 @@ Gerado em: 15/09/2026 18:16
 
 ---
 
-## Post 1 — Beleza e Cuidados
-
-**Canal recomendado:** Beleza e Cuidados
-
-**Horário sugerido:** 12:00 - 15:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
-
-**Texto pronto:**
-
-```txt
-💄 Oferta para Beleza e Cuidados
-
-Chapinha Nano Titanium Profissional
-
-💸 De: R$ 90,88
-🔥 Por: R$ 29,99
-🏷️ 67% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/30nyHt3Zmr
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 2 — Mamãe e Bebê
+## Post 1 — Mamãe e Bebê
 
 **Canal recomendado:** Mamãe e Bebê
 
@@ -72,7 +42,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 3 — Celulares e Tecnologia
+## Post 2 — Celulares e Tecnologia
 
 **Canal recomendado:** Celulares e Tecnologia
 
@@ -95,6 +65,36 @@ Suporte Celular Carro Anti Queda
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/905DpDB0CW
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 3 — Beleza e Cuidados
+
+**Canal recomendado:** Beleza e Cuidados
+
+**Horário sugerido:** 12:00 - 15:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
+
+**Texto pronto:**
+
+```txt
+💄 Oferta para Beleza e Cuidados
+
+Perfume Deo Colônia Lescent N2 DELICATE LONDRES Feminino
+
+💸 De: R$ 57,49
+🔥 Por: R$ 33,92
+🏷️ 41% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/1qc3QHY32h
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

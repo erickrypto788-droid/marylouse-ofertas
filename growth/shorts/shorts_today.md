@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 15/09/2026 01:20
+Gerado em: 15/09/2026 02:11
 
 ## Como usar
 
@@ -120,10 +120,14 @@ Gerado em: 15/09/2026 01:20
 
 - growth/shorts/slides/supermercados/01_intro.png
 - growth/shorts/slides/supermercados/02_produto_1.png
+- growth/shorts/slides/supermercados/03_produto_2.png
+- growth/shorts/slides/supermercados/04_produto_3.png
 - growth/shorts/slides/supermercados/05_cta.png
 
 **Produtos usados:**
 
 - Kit Clareador Facial Completo
+- Condicionador Infantil 250ml Buba Care
+- 35 Escova Dental + 35 Porta Escova Dental + 35 Creme Dental Sortidas
 
 ---

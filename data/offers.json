@@ -1,5 +1,22 @@
 [
   {
+    "id": "00f929094d1cbc23df",
+    "title": "Tecido Paetê Tribal Africano 1,30x1,50m Vestido Feminino Cor Preto",
+    "raw_title": "Tecido Paetê Tribal Africano 1,30x1,50m Vestido Feminino Cor Preto",
+    "description": "🔥 Oferta encontrada! 📌 Tecido Paetê Tribal Africano 1,30x1,50m Vestido Feminino Cor Preto Confira os detalhes e aproveite enquanto a oferta estiver disp...",
+    "marketplace": "Mercado Livre",
+    "category": "Roupas Femininas",
+    "old_price": "",
+    "price": "R$ 305,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_787019-MLA116543064625_082026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77976379?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "15/09/2026 05:01",
+    "created_at_iso": "2026-09-15T05:01:56",
+    "created_ts": 1789448516
+  },
+  {
     "id": "eef42d6d29342f44b0",
     "title": "Café Torrado E Moído Extraforte 1kg Kit 2",
     "raw_title": "Café Torrado E Moído Extraforte 1kg Kit 2",
@@ -2522,44 +2539,6 @@
     "niche": {
       "key": "shopee_bolsas_femininas",
       "name": "Bolsas Femininas"
-    }
-  },
-  {
-    "id": "67be3426bce05ce7ed",
-    "title": "Ração Gato Estimacat Premium Adulto Sabor Carne 15kg",
-    "raw_title": "Ração Gato Estimacat Premium Adulto Sabor Carne 15kg",
-    "description": "🔥 25% OFF — Oferta encontrada! 📌 Ração Gato Estimacat Premium Adulto Sabor Carne 15kg Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Mercado Livre",
-    "category": "Pet",
-    "old_price": "R$ 356,33",
-    "price": "R$ 267,24",
-    "discount_percent": 25.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_978315-MLA108642652989_032026-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66541712?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "14/09/2026 05:01",
-    "created_at_iso": "2026-09-14T05:01:28",
-    "created_ts": 1789362088
-  },
-  {
-    "id": "5d93a0aed6360df54b",
-    "title": "Kit 3 Lençóis Percal 400 Fios para Cercado/Berço Portátil",
-    "raw_title": "Kit de 3 Lençol Cercado De Bebê Chiqueirinho com elástico Percal 400 fios berço portátil",
-    "description": "👶✨ CONFORTO E ECONOMIA PARA SEU BEBÊ! Garanta noites tranquilas com o Kit de 3 Lençóis de Percal 400 fios para Cercado de Bebê e Berço Portátil! Com elá...",
-    "marketplace": "Shopee",
-    "category": "Mãe e Bebê",
-    "old_price": "R$ 66,60",
-    "price": "R$ 29,97",
-    "discount_percent": 55.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgs1rc6f4jr899",
-    "affiliate_url": "https://s.shopee.com.br/8pllZAlVEY",
-    "created_at": "14/09/2026 04:20",
-    "created_at_iso": "2026-09-14T04:20:22",
-    "created_ts": 1789359622,
-    "niche": {
-      "key": "shopee_mae_bebe",
-      "name": "Mãe e Bebê"
     }
   }
 ]

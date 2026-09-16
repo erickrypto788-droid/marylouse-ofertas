@@ -1,15 +1,15 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 16/09/2026 00:27
+Gerado em: 16/09/2026 02:04
 
 ## Categorias prioritárias
 
 - 📦 **Outros**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 👗 **Moda Feminina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
-- 💻 **Informática**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 📚 **Papelaria**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 - 🍼 **Mãe e Bebê**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 💻 **Informática**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 🍳 **Casa e Cozinha**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 🐶 **Pet**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
@@ -52,40 +52,40 @@ Gerado em: 16/09/2026 00:27
    - Desconto: 52% OFF
    - Link: https://s.shopee.com.br/905DpDB0CW
 
-6. **Mochila Bolsa Reforçada Notebook Resistente Trabalho Faculdade Coreana**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 29,90
-   - Desconto: 59% OFF
-   - Link: https://s.shopee.com.br/8AW6AVkmih
-
-7. **Mala Case Capa Bolsa Porta Case Notebook Slim 14,6/15,6 Alça Dupla Re…**
+6. **Mala Case Capa Bolsa Porta Case Notebook Slim 14,6/15,6 Alça Dupla Re…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 29,00
    - Desconto: 37% OFF
    - Link: https://s.shopee.com.br/4LJNXJ6fJU
 
-8. **Alimento Royal Canin Hair & Skin 3kg Ração Gato**
+7. **Alimento Royal Canin Hair & Skin 3kg Ração Gato**
    - Categoria: Pet
    - Loja: Mercado Livre
    - Preço: R$ 257,00
    - Desconto: 36% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB28523781?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-9. **Perfume Deo Colônia Lescent N2 DELICATE LONDRES Feminino**
+8. **Perfume Deo Colônia Lescent N2 DELICATE LONDRES Feminino**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 33,92
    - Desconto: 41% OFF
    - Link: https://s.shopee.com.br/1qc3QHY32h
 
-10. **Mochila Couro Masculina Reforçada Para Notebook Escolar Excecultivo S…**
-   - Categoria: Informática
+9. **Repetidor Wifi 2800m 6 Antenas Roteador Amplificador De Sinal Modem 1…**
+   - Categoria: Pet
    - Loja: Shopee
-   - Preço: R$ 45,69
-   - Desconto: 49% OFF
-   - Link: https://s.shopee.com.br/AUu0wngEWU
+   - Preço: R$ 52,98
+   - Desconto: 56% OFF
+   - Link: https://s.shopee.com.br/7VGQptsbGB
+
+10. **Fralda Infantil Huggies Meguinha Tamanho G 30 Unidades**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 37,89
+   - Desconto: 25% OFF
+   - Link: https://s.shopee.com.br/2VrkY7UAd6
 
 ## Ações gratuitas recomendadas
 

@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 16/09/2026 04:03
+Gerado em: 16/09/2026 04:20
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Tomara que Caia Peplum Elegante
+Blazer Feminino Plus Size Elegante
 
-💸 De: R$ 99,75
-🔥 Por: R$ 39,90
-🏷️ 60% OFF
+💸 De: R$ 157,58
+🔥 Por: R$ 52,00
+🏷️ 67% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/20vUUABgsS
+Ver oferta: https://s.shopee.com.br/1qc4Q5D6B7
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

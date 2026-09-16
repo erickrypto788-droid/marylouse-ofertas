@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 15/09/2026 23:21
+Gerado em: 16/09/2026 00:21
 
 ## Como usar
 
@@ -54,9 +54,9 @@ Gerado em: 15/09/2026 23:21
 
 **Produtos usados:**
 
+- 1.8L Panela De Arroz Elétrica Multi-Camadas/De Dupla Camada Dormitóri…
 - Mixer 3 em 1 Elgin Chef MIX-20
 - 36 Etiquetas Adesivas Temperos Condimentos Mantimentos Resistente à Á…
-- Jogo Panelas Vermelho Alumínio Fundido Usinado Javaliam16a24
 
 ---
 
@@ -127,7 +127,7 @@ Gerado em: 15/09/2026 23:21
 **Produtos usados:**
 
 - Kit 4 Potes Herméticos 2L Com Copo Medidor Organizador Mantimentos Ar…
+- Hidratante Creme Facial Pele De Porcelana Kokeshi 30g Milagre do Arroz
 - Azeite Oliva Extra Virgem Italiano Mercatto
-- Condicionador Infantil Lowell Mirtilinho 240ml
 
 ---

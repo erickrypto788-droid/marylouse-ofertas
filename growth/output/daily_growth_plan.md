@@ -1,16 +1,16 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 16/09/2026 07:21
+Gerado em: 16/09/2026 08:06
 
 ## Categorias prioritárias
 
 - 👟 **Calçados**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 📱 **Celulares**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 🍼 **Mãe e Bebê**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 🐶 **Pet**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 📦 **Outros**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - ✨ **Moda Plus Size**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
 - 👗 **Moda Feminina**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
-- 🐶 **Pet**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 💻 **Informática**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 📚 **Papelaria**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 - ❤️ **Saúde**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
@@ -73,19 +73,19 @@ Gerado em: 16/09/2026 07:21
    - Desconto: 41% OFF
    - Link: https://s.shopee.com.br/1qc3QHY32h
 
-9. **Repetidor Wifi 2800m 6 Antenas Roteador Amplificador De Sinal Modem 1…**
+9. **Ração Estimacat Filhote Frango 10kg**
+   - Categoria: Pet
+   - Loja: Mercado Livre
+   - Preço: R$ 253,07
+   - Desconto: 25% OFF
+   - Link: https://www.mercadolivre.com.br/p/MLB66844874?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+10. **Repetidor Wifi 2800m 6 Antenas Roteador Amplificador De Sinal Modem 1…**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 52,98
    - Desconto: 56% OFF
    - Link: https://s.shopee.com.br/7VGQptsbGB
-
-10. **Fralda Infantil Huggies Meguinha Tamanho G 30 Unidades**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 37,89
-   - Desconto: 25% OFF
-   - Link: https://s.shopee.com.br/2VrkY7UAd6
 
 ## Ações gratuitas recomendadas
 

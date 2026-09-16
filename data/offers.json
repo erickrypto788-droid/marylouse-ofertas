@@ -1,5 +1,39 @@
 [
   {
+    "id": "45f26fb400f5160da6",
+    "title": "Ração Gato Vittamax Premium Especial 10,1kg - Peixe",
+    "raw_title": "Ração Gato Alimento Vittamax Premium Especial 10,1kg - Peixe",
+    "description": "😻 OFERTA RELÂMPAGO para seu gato! 😻 Ração Gato Alimento Vittamax Premium Especial 10,1kg - Peixe 📦 Frete grátis!",
+    "marketplace": "Mercado Livre",
+    "category": "Pet",
+    "old_price": "R$ 139,90",
+    "price": "R$ 135,70",
+    "discount_percent": 3.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_777637-MLA99875523923_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24839034?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "16/09/2026 08:05",
+    "created_at_iso": "2026-09-16T08:05:05",
+    "created_ts": 1789545905
+  },
+  {
+    "id": "fcd13e1dadb6abf8ed",
+    "title": "Ração Estimacat Filhote Frango 10kg",
+    "raw_title": "Ração Gato Estimacat Premium Filhote Sabor Frango 10kg",
+    "description": "🚨 OFERTA IMPERDÍVEL! 🚨 Garanta a melhor nutrição para seu filhote! 🐾 Ração Gato Estimacat Premium Filhote Sabor Frango 10kg",
+    "marketplace": "Mercado Livre",
+    "category": "Pet",
+    "old_price": "R$ 337,43",
+    "price": "R$ 253,07",
+    "discount_percent": 25.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_921645-MLA109036799255_032026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66844874?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "16/09/2026 08:03",
+    "created_at_iso": "2026-09-16T08:03:42",
+    "created_ts": 1789545822
+  },
+  {
     "id": "03c7526f205d00ca25",
     "title": "Adaptador Universal para Viagem",
     "raw_title": "Adaptadores Tomada Universal Para Viagem Internacional Compatível Em +150 Países",
@@ -2078,27 +2112,6 @@
     "niche": {
       "key": "shopee_roupas_plus_size",
       "name": "Roupas Plus Size"
-    }
-  },
-  {
-    "id": "3e2404c21496a0e079",
-    "title": "Kit 3 Camisetas Streetwear",
-    "raw_title": "Kit 3 Camisetas Básicas Streetwear Camisa T-Shirt premium Promoção Algodão Varias Cores",
-    "description": "🔥 KIT 3 CAMISETAS BÁSICAS STREETWEAR! Conforto e estilo garantidos com este kit de 3 camisetas premium em algodão. Várias cores para você combinar! Perf...",
-    "marketplace": "Shopee",
-    "category": "Roupas Masculinas",
-    "old_price": "R$ 44,90",
-    "price": "R$ 42,21",
-    "discount_percent": 6.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-823q2-mora8q0jsow02c",
-    "affiliate_url": "https://s.shopee.com.br/5LBvBz6ccx",
-    "created_at": "15/09/2026 07:20",
-    "created_at_iso": "2026-09-15T07:20:17",
-    "created_ts": 1789456817,
-    "niche": {
-      "key": "shopee_roupas_masculinas",
-      "name": "Roupas Masculinas"
     }
   }
 ]

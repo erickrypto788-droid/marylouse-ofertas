@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 16/09/2026 13:22
+Gerado em: 16/09/2026 14:05
 
 ## Categorias prioritárias
 
@@ -12,8 +12,8 @@ Gerado em: 16/09/2026 13:22
 - 👗 **Moda Feminina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 🧸 **Brinquedos**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 📦 **Outros**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 🍳 **Casa e Cozinha**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 💄 **Beleza**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 📱 **Celulares**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 
 ## Top ofertas para destacar
 
@@ -59,33 +59,33 @@ Gerado em: 16/09/2026 13:22
    - Desconto: 36% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB28523781?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-7. **Monitor digital de pressão arterial de braço totalmente automático an…**
+7. **Conjunto Panelas Antiaderente Tramontina 5peças Vermelho**
+   - Categoria: Casa e Cozinha
+   - Loja: Mercado Livre
+   - Preço: R$ 299,00
+   - Desconto: 18% OFF
+   - Link: https://www.mercadolivre.com.br/p/MLB32947723?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+8. **Monitor digital de pressão arterial de braço totalmente automático an…**
    - Categoria: Saúde
    - Loja: Shopee
    - Preço: R$ 38,99
    - Desconto: 68% OFF
    - Link: https://s.shopee.com.br/1APVOflbn
 
-8. **Carrinho De Boneca Bebe Brinquedo Infantil Passeio**
+9. **Carrinho De Boneca Bebe Brinquedo Infantil Passeio**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 20,99
    - Desconto: 58% OFF
    - Link: https://s.shopee.com.br/7fZrtmE5rr
 
-9. **Escova 5 em 1 Profissional**
+10. **Escova 5 em 1 Profissional**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 55,99
    - Desconto: 63% OFF
    - Link: https://s.shopee.com.br/5VVLn1OlSR
-
-10. **Air Fryer Itatiaia 3,5L**
-   - Categoria: Casa e Cozinha
-   - Loja: Shopee
-   - Preço: R$ 181,75
-   - Desconto: 21% OFF
-   - Link: https://s.shopee.com.br/qjXUj8qSP
 
 ## Ações gratuitas recomendadas
 

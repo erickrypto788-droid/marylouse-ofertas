@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 16/09/2026 18:21
+Gerado em: 16/09/2026 19:22
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 16/09/2026 18:21
 
 **Produtos usados:**
 
-- Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…
 - Kit 3 Fraldas Descartáveis Pampers Supersequinha Mega P - 126 Tiras
-- Fralda Infantil Huggies Meguinha Tamanho G 30 Unidades
+- Kit Porta Leite em Pó Bebê
+- Mini Berço Portátil Mosqueteiro
 
 ---
 
@@ -55,8 +55,8 @@ Gerado em: 16/09/2026 18:21
 **Produtos usados:**
 
 - 1.8L Panela De Arroz Elétrica Multi-Camadas/De Dupla Camada Dormitóri…
+- Panela Elétrica Britânia 2L 5 Temperaturas 650W BPE02A
 - Air Fryer Itatiaia 3,5L
-- Conjunto Panelas Antiaderente Tramontina 5peças Vermelho
 
 ---
 
@@ -121,13 +121,11 @@ Gerado em: 16/09/2026 18:21
 - growth/shorts/slides/supermercados/01_intro.png
 - growth/shorts/slides/supermercados/02_produto_1.png
 - growth/shorts/slides/supermercados/03_produto_2.png
-- growth/shorts/slides/supermercados/04_produto_3.png
 - growth/shorts/slides/supermercados/05_cta.png
 
 **Produtos usados:**
 
 - Azeite Português Vila Oliva (3 Un)
 - Hidratante Creme Facial Pele De Porcelana Kokeshi 30g Milagre do Arroz
-- Azeite Oliva Extra Virgem Italiano Mercatto
 
 ---

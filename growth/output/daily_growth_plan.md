@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 16/09/2026 18:21
+Gerado em: 16/09/2026 19:22
 
 ## Categorias prioritárias
 
-- 🍼 **Mãe e Bebê**: 15 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 📦 **Outros**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 🍼 **Mãe e Bebê**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 📚 **Papelaria**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 - 👟 **Calçados**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 💻 **Informática**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 📦 **Outros**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 💄 **Beleza**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 👜 **Bolsas**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 - 👗 **Moda Feminina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
-- 💄 **Beleza**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
-- 🍳 **Casa e Cozinha**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
+- 🍳 **Casa e Cozinha**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
+- 📱 **Celulares**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 
 ## Top ofertas para destacar
 
@@ -52,12 +52,12 @@ Gerado em: 16/09/2026 18:21
    - Desconto: 64% OFF
    - Link: https://s.shopee.com.br/7ptH6GvMSJ
 
-6. **Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…**
-   - Categoria: Mãe e Bebê
+6. **Panela Elétrica Britânia 2L 5 Temperaturas 650W BPE02A**
+   - Categoria: Casa e Cozinha
    - Loja: Shopee
-   - Preço: R$ 26,99
-   - Desconto: 55% OFF
-   - Link: https://s.shopee.com.br/905EMB3kV1
+   - Preço: R$ 129,90
+   - Desconto: 35% OFF
+   - Link: https://s.shopee.com.br/20vULuc3Q9
 
 7. **Leitor Cartão USB C 3 Em 1 OTG SD Micro SD Adaptador Para Celular Not…**
    - Categoria: Celulares
@@ -73,19 +73,19 @@ Gerado em: 16/09/2026 18:21
    - Desconto: 37% OFF
    - Link: https://s.shopee.com.br/4LJNXJ6fJU
 
-9. **Webcam Full HD 1080p com Microfone**
+9. **Kit Porta Leite em Pó Bebê**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 26,88
+   - Desconto: 55% OFF
+   - Link: https://s.shopee.com.br/8fSOI9zTa3
+
+10. **Webcam Full HD 1080p com Microfone**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 32,49
    - Desconto: 54% OFF
    - Link: https://s.shopee.com.br/5VVMSDvXW1
-
-10. **Capa Case Pasta Notebook de 14 ate 17 polegadas Super Reforçada Alça…**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 46,90
-   - Desconto: 21% OFF
-   - Link: https://s.shopee.com.br/1qc59PdX3T
 
 ## Ações gratuitas recomendadas
 

@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 16/09/2026 20:18
+Gerado em: 16/09/2026 21:22
 
 ## Categorias prioritárias
 
-- 💻 **Informática**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 👗 **Moda Feminina**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 📦 **Outros**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 🍼 **Mãe e Bebê**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 📚 **Papelaria**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
-- 👟 **Calçados**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 💻 **Informática**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 💄 **Beleza**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 🍳 **Casa e Cozinha**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
-- 👜 **Bolsas**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
-- 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
+- 🍳 **Casa e Cozinha**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 📱 **Celulares**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- ❤️ **Saúde**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 
 ## Top ofertas para destacar
 
@@ -45,47 +45,47 @@ Gerado em: 16/09/2026 20:18
    - Desconto: 60% OFF
    - Link: https://s.shopee.com.br/6VNte3W0dD
 
-5. **Mochila Couro PU Grande Executiva Para Notebook Trabalho Faculdade Re…**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 38,98
-   - Desconto: 64% OFF
-   - Link: https://s.shopee.com.br/7ptH6GvMSJ
-
-6. **Panela Elétrica Britânia 2L 5 Temperaturas 650W BPE02A**
+5. **Panela Elétrica Britânia 2L 5 Temperaturas 650W BPE02A**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 129,90
    - Desconto: 35% OFF
    - Link: https://s.shopee.com.br/20vULuc3Q9
 
-7. **Leitor Cartão USB C 3 Em 1 OTG SD Micro SD Adaptador Para Celular Not…**
+6. **Leitor Cartão USB C 3 Em 1 OTG SD Micro SD Adaptador Para Celular Not…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 17,99
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/6L4TRkoF4x
 
-8. **Mala Case Capa Bolsa Porta Case Notebook Slim 14,6/15,6 Alça Dupla Re…**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 29,00
-   - Desconto: 37% OFF
-   - Link: https://s.shopee.com.br/4LJNXJ6fJU
-
-9. **Kit Porta Leite em Pó Bebê**
+7. **Kit Porta Leite em Pó Bebê**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 26,88
    - Desconto: 55% OFF
    - Link: https://s.shopee.com.br/8fSOI9zTa3
 
-10. **Webcam Full HD 1080p com Microfone**
+8. **Webcam Full HD 1080p com Microfone**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 32,49
    - Desconto: 54% OFF
    - Link: https://s.shopee.com.br/5VVMSDvXW1
+
+9. **Capa Case Pasta Notebook de 14 ate 17 polegadas Super Reforçada Alça…**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 46,90
+   - Desconto: 21% OFF
+   - Link: https://s.shopee.com.br/1qc59PdX3T
+
+10. **Kit 3 Fraldas Descartáveis Pampers Supersequinha Mega P - 126 Tiras**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 137,97
+   - Desconto: 26% OFF
+   - Link: https://s.shopee.com.br/7Kx1dOyL5G
 
 ## Ações gratuitas recomendadas
 

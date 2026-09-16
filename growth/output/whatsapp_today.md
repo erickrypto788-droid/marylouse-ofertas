@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 16/09/2026 20:18
+Gerado em: 16/09/2026 21:22
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Kit 6 Peças Roupa Infantil Menina Verão
+Conjunto Mercy Feminino Cropped e Calça Dunas
 
-💸 De: R$ 131,32
-🔥 Por: R$ 49,90
-🏷️ 62% OFF
+💸 De: R$ 81,05
+🔥 Por: R$ 29,99
+🏷️ 63% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/4qFgOK2eJA
+Ver oferta: https://s.shopee.com.br/1AQ6U1Qkf
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

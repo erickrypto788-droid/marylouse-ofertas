@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 16/09/2026 08:23
+Gerado em: 16/09/2026 09:21
 
 ## Categorias prioritárias
 
-- 👟 **Calçados**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 📱 **Celulares**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 🍼 **Mãe e Bebê**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 💄 **Beleza**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🐶 **Pet**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 📦 **Outros**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 👗 **Moda Feminina**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 🔌 **Eletrodomésticos**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-eletrodomesticos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_eletrodomesticos
 - 🍳 **Casa e Cozinha**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 💻 **Informática**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 📚 **Papelaria**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 
 ## Top ofertas para destacar
 
@@ -73,19 +73,19 @@ Gerado em: 16/09/2026 08:23
    - Desconto: 41% OFF
    - Link: https://s.shopee.com.br/1qc3QHY32h
 
-9. **Air Fryer Itatiaia 3,5L**
+9. **Escova 5 em 1 Profissional**
+   - Categoria: Beleza
+   - Loja: Shopee
+   - Preço: R$ 55,99
+   - Desconto: 63% OFF
+   - Link: https://s.shopee.com.br/5VVLn1OlSR
+
+10. **Air Fryer Itatiaia 3,5L**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 181,75
    - Desconto: 21% OFF
    - Link: https://s.shopee.com.br/qjXUj8qSP
-
-10. **Ração Estimacat Filhote Frango 10kg**
-   - Categoria: Pet
-   - Loja: Mercado Livre
-   - Preço: R$ 253,07
-   - Desconto: 25% OFF
-   - Link: https://www.mercadolivre.com.br/p/MLB66844874?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ## Ações gratuitas recomendadas
 

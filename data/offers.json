@@ -1,5 +1,56 @@
 [
   {
+    "id": "f14072c4562e2208d5",
+    "title": "Fralda Pampers Confort Sec G 38 Unidades",
+    "raw_title": "Fralda Pampers Confort Sec G 38 Unidades",
+    "description": "🔥 Oferta encontrada! 📌 Fralda Pampers Confort Sec G 38 Unidades Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Mãe e Bebê",
+    "old_price": "",
+    "price": "R$ 120,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_855023-MLA99290408438_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB33581064?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "16/09/2026 12:07",
+    "created_at_iso": "2026-09-16T12:07:38",
+    "created_ts": 1789560458
+  },
+  {
+    "id": "97ba9d4a84a1ee3e3c",
+    "title": "Condicionador Senscience True Hue Violet Condicionador 1000ml",
+    "raw_title": "Condicionador Senscience True Hue Violet Condicionador 1000ml",
+    "description": "🔥 28% OFF — Oferta encontrada! 📌 Condicionador Senscience True Hue Violet Condicionador 1000ml Confira os detalhes e aproveite enquanto a oferta estiver...",
+    "marketplace": "Mercado Livre",
+    "category": "Beleza",
+    "old_price": "R$ 388,40",
+    "price": "R$ 277,89",
+    "discount_percent": 28.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_675305-MLA99360124338_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB25330354?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "16/09/2026 12:06",
+    "created_at_iso": "2026-09-16T12:06:34",
+    "created_ts": 1789560394
+  },
+  {
+    "id": "7faaf80e53d147d571",
+    "title": "Azeite Português Vila Oliva (3 Un)",
+    "raw_title": "Azeite Oliva Extra Virgem Português Vila Oliva 500ml (3 Un)",
+    "description": "🤤 Sabor de Portugal na sua mesa! Garanta já seu kit com 3 unidades do Azeite Oliva Extra Virgem Português Vila Oliva 500ml. Qualidade e economia em um s...",
+    "marketplace": "Mercado Livre",
+    "category": "Supermercados",
+    "old_price": "R$ 200,00",
+    "price": "R$ 129,90",
+    "discount_percent": 35.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_646362-MLA99361615322_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB34684493?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "16/09/2026 12:05",
+    "created_at_iso": "2026-09-16T12:05:29",
+    "created_ts": 1789560329
+  },
+  {
     "id": "84922606eb920ce18b",
     "title": "Kit 2 Regata Top Halter Blusinha Halter Neck Moda Gringa Frente Únic…",
     "raw_title": "Kit 2 Regata Top Halter Blusinha Halter Neck Moda Gringa Frente Única Costas Nuas Cropped",
@@ -2267,22 +2318,5 @@
       "key": "shopee_eletrodomesticos",
       "name": "Eletrodomésticos"
     }
-  },
-  {
-    "id": "8e257487615e9a7fd8",
-    "title": "Carregador iPhone USB-C Branco",
-    "raw_title": "Carregador iPhone Tipo USB-C Cor Branco",
-    "description": "⚡️ Carga Rápida para seu iPhone! Garanta já o Carregador iPhone Tipo USB-C Cor Branco! Perfeito para manter seu aparelho sempre com energia e pronto par...",
-    "marketplace": "Mercado Livre",
-    "category": "Informática",
-    "old_price": "",
-    "price": "R$ 349,99",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_934400-MLA99958222607_112025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20643765?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "15/09/2026 12:02",
-    "created_at_iso": "2026-09-15T12:02:06",
-    "created_ts": 1789473726
   }
 ]

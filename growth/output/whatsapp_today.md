@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 16/09/2026 02:04
+Gerado em: 16/09/2026 02:22
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Kit 2 Calça Alfaiataria PREMIUM Cintura Alta Com Bolso PROMOÇÃO
+Tomara que Caia Peplum Elegante
 
-💸 De: R$ 151,60
-🔥 Por: R$ 37,90
-🏷️ 75% OFF
+💸 De: R$ 99,75
+🔥 Por: R$ 39,90
+🏷️ 60% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/6VNsW3gqug
+Ver oferta: https://s.shopee.com.br/20vUUABgsS
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 16/09/2026 02:04
+Gerado em: 16/09/2026 02:22
 
 ## Como usar
 
@@ -80,7 +80,7 @@ Gerado em: 16/09/2026 02:04
 
 - Perfume Deo Colônia Lescent N2 DELICATE LONDRES Feminino
 - Body Splash Masculino Barbarius Primacial
-- ANA1108 Kit 10 mini pincéis para Maquiagem com estojo bolsa para viag…
+- Base Matte Payot Boca Rosa
 
 ---
 

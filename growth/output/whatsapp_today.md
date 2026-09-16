@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 16/09/2026 23:01
+Gerado em: 16/09/2026 23:21
 
 ## Como usar
 
@@ -57,14 +57,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
 ```txt
 📱 Oferta para Celulares e Tecnologia
 
-Teclado e mouse sem fio—Compatível com tablet，Notebook e celular, Rec…
+Leitor Cartão USB C 3 Em 1 OTG SD Micro SD Adaptador Para Celular Not…
 
-💸 De: R$ 99,22
-🔥 Por: R$ 39,69
-🏷️ 60% OFF
+💸 De: R$ 29,98
+🔥 Por: R$ 17,99
+🏷️ 40% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/6VNte3W0dD
+Ver oferta: https://s.shopee.com.br/6L4TRkoF4x
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
@@ -102,37 +102,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Ofertas Pet
-
-**Canal recomendado:** Ofertas Pet
-
-**Horário sugerido:** 17:00 - 20:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
-
-**Texto pronto:**
-
-```txt
-🐶 Oferta para Ofertas Pet
-
-Repetidor Wifi 2800m 6 Antenas Roteador Amplificador De Sinal Modem 1…
-
-💸 De: R$ 120,41
-🔥 Por: R$ 52,98
-🏷️ 56% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/7VGQptsbGB
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 5 — Mamãe e Bebê
+## Post 4 — Mamãe e Bebê
 
 **Canal recomendado:** Mamãe e Bebê
 
@@ -162,7 +132,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 6 — Moda Feminina
+## Post 5 — Moda Feminina
 
 **Canal recomendado:** Moda Feminina
 
@@ -185,6 +155,36 @@ Conjunto Mercy Feminino Cropped e Calça Dunas
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/1AQ6U1Qkf
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 6 — Ofertas Pet
+
+**Canal recomendado:** Ofertas Pet
+
+**Horário sugerido:** 17:00 - 20:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
+
+**Texto pronto:**
+
+```txt
+🐶 Oferta para Ofertas Pet
+
+Ração Estimacat Filhote Frango 10kg
+
+💸 De: R$ 337,43
+🔥 Por: R$ 253,07
+🏷️ 25% OFF
+🛒 Loja: Mercado Livre
+
+Ver oferta: https://www.mercadolivre.com.br/p/MLB66844874?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

@@ -1,5 +1,110 @@
 [
   {
+    "id": "010656268dce9aa152",
+    "title": "Ventilador Prime Air Maxx Force",
+    "raw_title": "Ventilador de Mesa Prime Air Maxx Force 6 pás 60W AVTE01",
+    "description": "🌬️ Vento forte para refrescar de verdade! Chega de sofrer com o calor! O Ventilador de Mesa Prime Air Maxx Force 6 pás 60W da Britânia Oficial traz potê...",
+    "marketplace": "Shopee",
+    "category": "Eletrodomésticos",
+    "old_price": "R$ 149,88",
+    "price": "R$ 119,90",
+    "discount_percent": 20.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-8258z-mt5nvg3ec0ll70",
+    "affiliate_url": "https://s.shopee.com.br/2BEv5BCIFs",
+    "created_at": "16/09/2026 08:21",
+    "created_at_iso": "2026-09-16T08:21:21",
+    "created_ts": 1789546881,
+    "niche": {
+      "key": "shopee_eletrodomesticos",
+      "name": "Eletrodomésticos"
+    }
+  },
+  {
+    "id": "2c42fba0c2676a4fde",
+    "title": "Air Fryer Itatiaia 3,5L",
+    "raw_title": "Fritadeira Air Fryer Itatiaia 3,5 Litros 127V Sem Óleo",
+    "description": "✨ Cozinhe mais saudável com essa oferta IMPERDÍVEL! Prepare suas refeições favoritas de forma muito mais prática e sem usar uma gota de óleo com a Frita...",
+    "marketplace": "Shopee",
+    "category": "Eletrodomésticos",
+    "old_price": "R$ 230,06",
+    "price": "R$ 181,75",
+    "discount_percent": 21.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk41p3nwui9tca",
+    "affiliate_url": "https://s.shopee.com.br/qjXUj8qSP",
+    "created_at": "16/09/2026 08:20",
+    "created_at_iso": "2026-09-16T08:20:13",
+    "created_ts": 1789546813,
+    "niche": {
+      "key": "shopee_eletrodomesticos",
+      "name": "Eletrodomésticos"
+    }
+  },
+  {
+    "id": "81aa309b83d45b608e",
+    "title": "Ventilador Mondial 30cm",
+    "raw_title": "Ventilador Mondial 30cm Vsp 30 B 60hz Loi",
+    "description": "☀️ Não sofra mais com o calor! O Ventilador Mondial 30cm Vsp 30 B 60hz Loi é a solução para refrescar seus dias! Aproveite essa oferta para ter mais con...",
+    "marketplace": "Shopee",
+    "category": "Eletrodomésticos",
+    "old_price": "R$ 280,37",
+    "price": "R$ 142,99",
+    "discount_percent": 49.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lg-mralqrfevhfp9f",
+    "affiliate_url": "https://s.shopee.com.br/4LJPfA42r9",
+    "created_at": "16/09/2026 08:19",
+    "created_at_iso": "2026-09-16T08:19:04",
+    "created_ts": 1789546744,
+    "niche": {
+      "key": "shopee_eletrodomesticos",
+      "name": "Eletrodomésticos"
+    }
+  },
+  {
+    "id": "9e45dc2d722c519ffc",
+    "title": "Liquidificador Britânia BLQE01 2 Copos 900W",
+    "raw_title": "Liquidificador Britânia BLQE01 2 copos 2,6L 900W",
+    "description": "OFERTA RELÂMPAGO! ⚡ Prepare suas receitas favoritas com o Liquidificador Britânia BLQE01! Com 2 copos e 900W de potência, ele é perfeito para o dia a di...",
+    "marketplace": "Shopee",
+    "category": "Eletrodomésticos",
+    "old_price": "R$ 178,96",
+    "price": "R$ 119,90",
+    "discount_percent": 33.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-8259y-mt5nuxi6qx3cfa",
+    "affiliate_url": "https://s.shopee.com.br/3LQsTK3acv",
+    "created_at": "16/09/2026 08:16",
+    "created_at_iso": "2026-09-16T08:16:55",
+    "created_ts": 1789546615,
+    "niche": {
+      "key": "shopee_eletrodomesticos",
+      "name": "Eletrodomésticos"
+    }
+  },
+  {
+    "id": "07879c7deadd159b28",
+    "title": "Mini Climatizador RGB",
+    "raw_title": "MINI Refrigerador De Ar Ventilador Umidificador Dupla Giratório+rgb Camada Ventilador Climatizador Ar C/ Reservatório",
+    "description": "🔥 Adeus, calorão! Tenha um verão mais fresco com este MINI Refrigerador de Ar! 🌬️ Ele é ventilador, umidificador e climatizador, tudo em um! Com dupla r...",
+    "marketplace": "Shopee",
+    "category": "Eletrodomésticos",
+    "old_price": "R$ 187,41",
+    "price": "R$ 59,97",
+    "discount_percent": 68.0,
+    "rating": 4.6,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-81zue-mizz3df604cj39",
+    "affiliate_url": "https://s.shopee.com.br/3g3irw6aD5",
+    "created_at": "16/09/2026 08:15",
+    "created_at_iso": "2026-09-16T08:15:46",
+    "created_ts": 1789546546,
+    "niche": {
+      "key": "shopee_eletrodomesticos",
+      "name": "Eletrodomésticos"
+    }
+  },
+  {
     "id": "45f26fb400f5160da6",
     "title": "Ração Gato Vittamax Premium Especial 10,1kg - Peixe",
     "raw_title": "Ração Gato Alimento Vittamax Premium Especial 10,1kg - Peixe",
@@ -2050,68 +2155,5 @@
     "created_at": "15/09/2026 09:01",
     "created_at_iso": "2026-09-15T09:01:26",
     "created_ts": 1789462886
-  },
-  {
-    "id": "dc87f86a2181c12803",
-    "title": "Blusa Manga Princesa Curta",
-    "raw_title": "Blusa Manga Princesa Curta Elegante Tendência Moda Maior Plus Size Botão Moda Casual Tecido Dunas",
-    "description": "✨ Tendência e elegância para você arrasar! A Blusa Manga Princesa Curta é perfeita para quem busca estilo e conforto. Com design elegante, botões charmo...",
-    "marketplace": "Shopee",
-    "category": "Roupas Plus Size",
-    "old_price": "R$ 40,12",
-    "price": "R$ 32,90",
-    "discount_percent": 18.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfr02ub7mqrk40",
-    "affiliate_url": "https://s.shopee.com.br/gQ5hXqy9n",
-    "created_at": "15/09/2026 08:18",
-    "created_at_iso": "2026-09-15T08:18:17",
-    "created_ts": 1789460297,
-    "niche": {
-      "key": "shopee_roupas_plus_size",
-      "name": "Roupas Plus Size"
-    }
-  },
-  {
-    "id": "1245e1168feefbf4a6",
-    "title": "Vestido Plus Size Elegante Festa",
-    "raw_title": "Vestido Plus Size Elegante/ Festa Tecido Duna",
-    "description": "💃 Look PERFEITO para arrasar na festa! Vestido Plus Size Elegante em Tecido Duna, ideal para festas e eventos especiais. Conforto e estilo em uma só peç...",
-    "marketplace": "Shopee",
-    "category": "Roupas Plus Size",
-    "old_price": "R$ 99,16",
-    "price": "R$ 48,59",
-    "discount_percent": 51.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820md-mn7tafrjy6f67b",
-    "affiliate_url": "https://s.shopee.com.br/8V8x1wRTlr",
-    "created_at": "15/09/2026 08:17",
-    "created_at_iso": "2026-09-15T08:17:10",
-    "created_ts": 1789460230,
-    "niche": {
-      "key": "shopee_roupas_plus_size",
-      "name": "Roupas Plus Size"
-    }
-  },
-  {
-    "id": "1c0c1ccf213c9a04f9",
-    "title": "Calça Legging Bolha PLUS SIZE",
-    "raw_title": "Calça Legging Bolha PLUS SIZE disfarça celulite",
-    "description": "🔥 A Legging Bolha PLUS SIZE que disfarça celulite chegou! Conforto e estilo para você se sentir incrível.",
-    "marketplace": "Shopee",
-    "category": "Roupas Plus Size",
-    "old_price": "R$ 79,39",
-    "price": "R$ 38,90",
-    "discount_percent": 51.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-82590-mfu3pi3rvymi68",
-    "affiliate_url": "https://s.shopee.com.br/3g3hH3skNf",
-    "created_at": "15/09/2026 08:16",
-    "created_at_iso": "2026-09-15T08:16:03",
-    "created_ts": 1789460163,
-    "niche": {
-      "key": "shopee_roupas_plus_size",
-      "name": "Roupas Plus Size"
-    }
   }
 ]

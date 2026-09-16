@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 16/09/2026 16:19
+Gerado em: 16/09/2026 17:04
 
 ## Como usar
 
@@ -78,9 +78,9 @@ Gerado em: 16/09/2026 16:19
 
 **Produtos usados:**
 
+- Perfume Feminino Olympia
 - Escova 5 em 1 Profissional
-- Condicionador Senscience True Hue Violet Condicionador 1000ml
-- Principia Kit Duo FPS 60
+- Chapinha Profissional Titanium
 
 ---
 

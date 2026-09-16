@@ -1,16 +1,16 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 16/09/2026 14:05
+Gerado em: 16/09/2026 14:22
 
 ## Categorias prioritárias
 
-- 🍼 **Mãe e Bebê**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 🍼 **Mãe e Bebê**: 15 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - ❤️ **Saúde**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
-- 👟 **Calçados**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 🏋️ **Esportes**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 🐶 **Pet**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
+- 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 👗 **Moda Feminina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 🧸 **Brinquedos**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
+- 🐶 **Pet**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 📦 **Outros**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 🍳 **Casa e Cozinha**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 💄 **Beleza**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
@@ -59,33 +59,33 @@ Gerado em: 16/09/2026 14:05
    - Desconto: 36% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB28523781?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-7. **Conjunto Panelas Antiaderente Tramontina 5peças Vermelho**
+7. **Kit 3 Fraldas Descartáveis Pampers Supersequinha Mega P - 126 Tiras**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 137,97
+   - Desconto: 26% OFF
+   - Link: https://s.shopee.com.br/7Kx1dOyL5G
+
+8. **Conjunto Panelas Antiaderente Tramontina 5peças Vermelho**
    - Categoria: Casa e Cozinha
    - Loja: Mercado Livre
    - Preço: R$ 299,00
    - Desconto: 18% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB32947723?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-8. **Monitor digital de pressão arterial de braço totalmente automático an…**
+9. **Monitor digital de pressão arterial de braço totalmente automático an…**
    - Categoria: Saúde
    - Loja: Shopee
    - Preço: R$ 38,99
    - Desconto: 68% OFF
    - Link: https://s.shopee.com.br/1APVOflbn
 
-9. **Carrinho De Boneca Bebe Brinquedo Infantil Passeio**
+10. **Carrinho De Boneca Bebe Brinquedo Infantil Passeio**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 20,99
    - Desconto: 58% OFF
    - Link: https://s.shopee.com.br/7fZrtmE5rr
-
-10. **Escova 5 em 1 Profissional**
-   - Categoria: Beleza
-   - Loja: Shopee
-   - Preço: R$ 55,99
-   - Desconto: 63% OFF
-   - Link: https://s.shopee.com.br/5VVLn1OlSR
 
 ## Ações gratuitas recomendadas
 

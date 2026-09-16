@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 16/09/2026 13:05
+Gerado em: 16/09/2026 13:22
 
 ## Como usar
 
@@ -78,9 +78,9 @@ Gerado em: 16/09/2026 13:05
 
 **Produtos usados:**
 
-- Perfume Deo Colônia Lescent N2 DELICATE LONDRES Feminino
 - Escova 5 em 1 Profissional
-- Body Splash Masculino Barbarius Primacial
+- Condicionador Senscience True Hue Violet Condicionador 1000ml
+- Principia Kit Duo FPS 60
 
 ---
 

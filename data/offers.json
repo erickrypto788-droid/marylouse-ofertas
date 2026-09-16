@@ -1,5 +1,110 @@
 [
   {
+    "id": "9fe3e8c76b8fa25001",
+    "title": "Kit 6 Peças Roupa Infantil Menina Verão",
+    "raw_title": "Kit 6 Peças de Roupa Infantil Menina Verão Feminino",
+    "description": "Mães, ATENÇÃO! 👧 Prepare sua pequena para o verão com este Kit 6 Peças de Roupa Infantil Feminina! Conforto e estilo garantidos para ela arrasar. ✨ Mais...",
+    "marketplace": "Shopee",
+    "category": "Moda Infantil",
+    "old_price": "R$ 131,32",
+    "price": "R$ 49,90",
+    "discount_percent": 62.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lz-mqbx9jyaolc0c9",
+    "affiliate_url": "https://s.shopee.com.br/4qFgOK2eJA",
+    "created_at": "16/09/2026 10:20",
+    "created_at_iso": "2026-09-16T10:20:28",
+    "created_ts": 1789554028,
+    "niche": {
+      "key": "shopee_moda_infantil",
+      "name": "Moda Infantil"
+    }
+  },
+  {
+    "id": "8ea4574a5c883b495e",
+    "title": "Kit 10 Cuecas Boxer Infantil",
+    "raw_title": "Kit 10 Cuecas Boxer Box Infantil Juvenil Menino Estampada",
+    "description": "🚨 O kit de cuecas que seu filho vai AMAR! Chega de gastar muito! Garanta conforto e estilo com este Kit 10 Cuecas Boxer Box Infantil Juvenil Menino Esta...",
+    "marketplace": "Shopee",
+    "category": "Moda Infantil",
+    "old_price": "R$ 89,72",
+    "price": "R$ 34,99",
+    "discount_percent": 61.0,
+    "rating": 4.6,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9u79k2kc6d5a4",
+    "affiliate_url": "https://s.shopee.com.br/qjXcyHsQG",
+    "created_at": "16/09/2026 10:19",
+    "created_at_iso": "2026-09-16T10:19:18",
+    "created_ts": 1789553958,
+    "niche": {
+      "key": "shopee_moda_infantil",
+      "name": "Moda Infantil"
+    }
+  },
+  {
+    "id": "ac83bea64ae8fc422d",
+    "title": "Tênis Infantil Preto Anatômico",
+    "raw_title": "Tênis Baby Infantil Preto Casual Menino Anatômico Respirável Dia a Dia 20 ao 33 Envio Imediato",
+    "description": "CONFORTO E ESTILO PARA SEU PEQUENO! 🏃‍♂️ Seu filho merece o melhor! Este tênis infantil preto é perfeito para o dia a dia, com design anatômico e respir...",
+    "marketplace": "Shopee",
+    "category": "Moda Infantil",
+    "old_price": "R$ 98,17",
+    "price": "R$ 58,90",
+    "discount_percent": 40.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-meucw7y5aqyq0a",
+    "affiliate_url": "https://s.shopee.com.br/8AW8MS7Q9b",
+    "created_at": "16/09/2026 10:18",
+    "created_at_iso": "2026-09-16T10:18:08",
+    "created_ts": 1789553888,
+    "niche": {
+      "key": "shopee_moda_infantil",
+      "name": "Moda Infantil"
+    }
+  },
+  {
+    "id": "0c57bd91aee97be044",
+    "title": "Sandália Babuche Infantil Menina",
+    "raw_title": "Sandália Babuche Infantil Menina Enfeite de Jardim. Linda, leve e Macia Ideal para todas meninas",
+    "description": "✨ Conforto e fofura para as pequenas! ✨ Sua princesa vai amar a Sandália Babuche Infantil com Enfeite de Jardim! 🌸 Linda, leve e super macia, perfeita p...",
+    "marketplace": "Shopee",
+    "category": "Moda Infantil",
+    "old_price": "R$ 59,75",
+    "price": "R$ 23,90",
+    "discount_percent": 60.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/br-11134201-820m1-mqyrxich8sn80e",
+    "affiliate_url": "https://s.shopee.com.br/3g3j0BBYiV",
+    "created_at": "16/09/2026 10:16",
+    "created_at_iso": "2026-09-16T10:16:57",
+    "created_ts": 1789553817,
+    "niche": {
+      "key": "shopee_moda_infantil",
+      "name": "Moda Infantil"
+    }
+  },
+  {
+    "id": "d390a4041b07a065b3",
+    "title": "Kit 10 Calcinhas Infantis",
+    "raw_title": "kit com 10 Calcinha infantil Kids",
+    "description": "✨ Conforto e economia para as pequenas! ✨ Garanta o kit essencial com 10 calcinhas infantis para suas princesas! Qualidade e bem-estar para o dia a dia. 💖",
+    "marketplace": "Shopee",
+    "category": "Moda Infantil",
+    "old_price": "R$ 40,19",
+    "price": "R$ 20,90",
+    "discount_percent": 48.0,
+    "rating": 4.6,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lyv86epysgb9de",
+    "affiliate_url": "https://s.shopee.com.br/4LJPnP4YK3",
+    "created_at": "16/09/2026 10:15",
+    "created_at_iso": "2026-09-16T10:15:49",
+    "created_ts": 1789553749,
+    "niche": {
+      "key": "shopee_moda_infantil",
+      "name": "Moda Infantil"
+    }
+  },
+  {
     "id": "43df90f2e04b2242d1",
     "title": "Principia kit com 2 Protetores solares com cor PS-05-escolha seu tom",
     "raw_title": "Principia kit com 2 Protetores solares com cor PS-05-escolha seu tom",
@@ -2142,26 +2247,5 @@
     "created_at": "15/09/2026 11:15",
     "created_at_iso": "2026-09-15T11:15:51",
     "created_ts": 1789470951
-  },
-  {
-    "id": "03cb06934cb576b387",
-    "title": "Sandália Saltinho com Strass",
-    "raw_title": "pronta entrega envio imediato Sandália Saltinho 4 cm Tira de Strass Brilho Calce Fácil Confortável elegante dia a dia",
-    "description": "BRILHO e CONFORTO para seus pés! ✨ Sandália com Strass e 54% OFF! Chegou a sandália perfeita para o seu dia a dia: elegante, confortável e com aquele to...",
-    "marketplace": "Shopee",
-    "category": "Sapatos Femininos",
-    "old_price": "R$ 79,93",
-    "price": "R$ 36,77",
-    "discount_percent": 54.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjj7whhr045f82",
-    "affiliate_url": "https://s.shopee.com.br/30o0c4rBcB",
-    "created_at": "15/09/2026 10:16",
-    "created_at_iso": "2026-09-15T10:16:03",
-    "created_ts": 1789467363,
-    "niche": {
-      "key": "shopee_sapatos_femininos",
-      "name": "Sapatos Femininos"
-    }
   }
 ]

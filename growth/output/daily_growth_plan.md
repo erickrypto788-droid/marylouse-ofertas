@@ -1,18 +1,18 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 16/09/2026 17:21
+Gerado em: 16/09/2026 18:21
 
 ## Categorias prioritárias
 
 - 🍼 **Mãe e Bebê**: 15 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 📚 **Papelaria**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 - 👟 **Calçados**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 💻 **Informática**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 📦 **Outros**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 👜 **Bolsas**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 - 👗 **Moda Feminina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 💄 **Beleza**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 💻 **Informática**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- ❤️ **Saúde**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
-- 📦 **Outros**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 🍳 **Casa e Cozinha**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 
 ## Top ofertas para destacar
@@ -59,33 +59,33 @@ Gerado em: 16/09/2026 17:21
    - Desconto: 55% OFF
    - Link: https://s.shopee.com.br/905EMB3kV1
 
-7. **Mala Case Capa Bolsa Porta Case Notebook Slim 14,6/15,6 Alça Dupla Re…**
+7. **Leitor Cartão USB C 3 Em 1 OTG SD Micro SD Adaptador Para Celular Not…**
+   - Categoria: Celulares
+   - Loja: Shopee
+   - Preço: R$ 17,99
+   - Desconto: 40% OFF
+   - Link: https://s.shopee.com.br/6L4TRkoF4x
+
+8. **Mala Case Capa Bolsa Porta Case Notebook Slim 14,6/15,6 Alça Dupla Re…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 29,00
    - Desconto: 37% OFF
    - Link: https://s.shopee.com.br/4LJNXJ6fJU
 
-8. **Capa Case Pasta Notebook de 14 ate 17 polegadas Super Reforçada Alça…**
+9. **Webcam Full HD 1080p com Microfone**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 32,49
+   - Desconto: 54% OFF
+   - Link: https://s.shopee.com.br/5VVMSDvXW1
+
+10. **Capa Case Pasta Notebook de 14 ate 17 polegadas Super Reforçada Alça…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 46,90
    - Desconto: 21% OFF
    - Link: https://s.shopee.com.br/1qc59PdX3T
-
-9. **Kit 3 Fraldas Descartáveis Pampers Supersequinha Mega P - 126 Tiras**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 137,97
-   - Desconto: 26% OFF
-   - Link: https://s.shopee.com.br/7Kx1dOyL5G
-
-10. **Conjunto Panelas Antiaderente Tramontina 5peças Vermelho**
-   - Categoria: Casa e Cozinha
-   - Loja: Mercado Livre
-   - Preço: R$ 299,00
-   - Desconto: 18% OFF
-   - Link: https://www.mercadolivre.com.br/p/MLB32947723?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ## Ações gratuitas recomendadas
 

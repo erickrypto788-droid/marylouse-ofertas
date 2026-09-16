@@ -1,5 +1,110 @@
 [
   {
+    "id": "5614459e4ad32a933b",
+    "title": "Kit Medidor de Glicose Bioland G425-3 + 25 Tiras + 25 Lancetas + Bols…",
+    "raw_title": "Kit Medidor de Glicose Bioland G425-3 + 25 Tiras + 25 Lancetas + Bolsa CAIXA",
+    "description": "🔥 Oferta encontrada! 📌 Kit Medidor de Glicose Bioland G425-3 + 25 Tiras + 25 Lancetas + Bolsa CAIXA Confira os detalhes e aproveite enquanto a oferta es...",
+    "marketplace": "Shopee",
+    "category": "Saúde",
+    "old_price": "",
+    "price": "R$ 38,49",
+    "discount_percent": 0.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbmy10gfie3mfb",
+    "affiliate_url": "https://s.shopee.com.br/1gIeos8SPi",
+    "created_at": "16/09/2026 13:21",
+    "created_at_iso": "2026-09-16T13:21:14",
+    "created_ts": 1789564874,
+    "niche": {
+      "key": "shopee_saude",
+      "name": "Saúde"
+    }
+  },
+  {
+    "id": "c8459d50da866b5940",
+    "title": "Medidor de Glicose G-Tech Free (Somente o Medidor + Bateria)",
+    "raw_title": "Medidor de Glicose G-Tech Free (Somente o Medidor + Bateria)",
+    "description": "🔥 10% OFF — Oferta encontrada! 📌 Medidor de Glicose G-Tech Free (Somente o Medidor + Bateria) Confira os detalhes e aproveite enquanto a oferta estiver...",
+    "marketplace": "Shopee",
+    "category": "Saúde",
+    "old_price": "R$ 34,90",
+    "price": "R$ 31,41",
+    "discount_percent": 10.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lvbas1i7z5co94",
+    "affiliate_url": "https://s.shopee.com.br/4fwGONx2Ka",
+    "created_at": "16/09/2026 13:20",
+    "created_at_iso": "2026-09-16T13:20:10",
+    "created_ts": 1789564810,
+    "niche": {
+      "key": "shopee_saude",
+      "name": "Saúde"
+    }
+  },
+  {
+    "id": "f25c65db96798f32bc",
+    "title": "TIRAS MEDIDOR GLICEMIA ACCU CHEK GUIDE 50 UNIDADES",
+    "raw_title": "TIRAS MEDIDOR GLICEMIA ACCU CHEK GUIDE 50 UNIDADES",
+    "description": "🔥 Oferta encontrada! 📌 TIRAS MEDIDOR GLICEMIA ACCU CHEK GUIDE 50 UNIDADES Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Shopee",
+    "category": "Saúde",
+    "old_price": "",
+    "price": "R$ 72,00",
+    "discount_percent": 0.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjk6nqt2ayo35e",
+    "affiliate_url": "https://s.shopee.com.br/4VcqC4xffX",
+    "created_at": "16/09/2026 13:19",
+    "created_at_iso": "2026-09-16T13:19:04",
+    "created_ts": 1789564744,
+    "niche": {
+      "key": "shopee_saude",
+      "name": "Saúde"
+    }
+  },
+  {
+    "id": "92b38fca6d5b4ae99e",
+    "title": "Monitor digital de pressão arterial de braço totalmente automático an…",
+    "raw_title": "Monitor digital de pressão arterial de braço totalmente automático anjgg",
+    "description": "🔥 68% OFF — Oferta encontrada! 📌 Monitor digital de pressão arterial de braço totalmente automático anjgg Confira os detalhes e aproveite enquanto a ofe...",
+    "marketplace": "Shopee",
+    "category": "Saúde",
+    "old_price": "R$ 121,84",
+    "price": "R$ 38,99",
+    "discount_percent": 68.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-81zte-mmiy7u0wlgqw8c",
+    "affiliate_url": "https://s.shopee.com.br/1APVOflbn",
+    "created_at": "16/09/2026 13:18",
+    "created_at_iso": "2026-09-16T13:18:00",
+    "created_ts": 1789564680,
+    "niche": {
+      "key": "shopee_saude",
+      "name": "Saúde"
+    }
+  },
+  {
+    "id": "9df18ff8da519ffe6c",
+    "title": "Inalador Ultrassônico Portátil",
+    "raw_title": "Inalador Ultrassônico Portátil Nebulizador USB Pilha Sem Fio - Pronta Entrega",
+    "description": "🌬️ Respire melhor com essa oferta imperdível! Tenha o Inalador Ultrassônico Portátil sempre à mão. Leve, sem fio (USB/Pilha) e pronto para te dar alívio...",
+    "marketplace": "Shopee",
+    "category": "Saúde",
+    "old_price": "R$ 60,59",
+    "price": "R$ 30,90",
+    "discount_percent": 49.0,
+    "rating": 4.7,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7ra3z-m4xrzcm184foe6",
+    "affiliate_url": "https://s.shopee.com.br/3B7SbcpY0i",
+    "created_at": "16/09/2026 13:16",
+    "created_at_iso": "2026-09-16T13:16:56",
+    "created_ts": 1789564616,
+    "niche": {
+      "key": "shopee_saude",
+      "name": "Saúde"
+    }
+  },
+  {
     "id": "1e8b175187667f4b97",
     "title": "Calça Feminina Tamanho M Texx Impermeável Com Proteção Conforto Viage…",
     "raw_title": "Calça Feminina Tamanho M Texx Impermeável Com Proteção Conforto Viagem Moto Motociclista",
@@ -2309,90 +2414,6 @@
     "niche": {
       "key": "shopee_moda_infantil",
       "name": "Moda Infantil"
-    }
-  },
-  {
-    "id": "a988b56317a086c167",
-    "title": "Principia Protetor Solar PS-05 Cor 3.0 c/ 14,5% Mix de Filtros UV + 5…",
-    "raw_title": "Principia Protetor Solar PS-05 Cor 3.0 c/ 14,5% Mix de Filtros UV + 5% Niacinamida FPS 70 - 30ml",
-    "description": "🔥 9% OFF — Oferta encontrada! 📌 Principia Protetor Solar PS-05 Cor 3.0 c/ 14,5% Mix de Filtros UV + 5% Niacinamida FPS 70 - 30ml Confira os detalhes e a...",
-    "marketplace": "Shopee",
-    "category": "Beleza",
-    "old_price": "R$ 53,85",
-    "price": "R$ 49,00",
-    "discount_percent": 9.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj22axqzhyip3d",
-    "affiliate_url": "https://s.shopee.com.br/80CglcWqTs",
-    "created_at": "15/09/2026 13:19",
-    "created_at_iso": "2026-09-15T13:19:12",
-    "created_ts": 1789478352,
-    "niche": {
-      "key": "shopee_beleza",
-      "name": "Beleza"
-    }
-  },
-  {
-    "id": "bb90a422a72c83ac1c",
-    "title": "Base Matte Payot Boca Rosa",
-    "raw_title": "Base Matte Payot Alta Cobertura 30ml Cherrie Nova Boca Rosa",
-    "description": "🔥 MEGA OFERTA! Base Matte Payot Alta Cobertura 30ml Cherrie Nova Boca Rosa! ✨ Tenha uma pele impecável com a base queridinha que entrega alta cobertura...",
-    "marketplace": "Shopee",
-    "category": "Beleza",
-    "old_price": "R$ 49,99",
-    "price": "R$ 39,99",
-    "discount_percent": 20.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7rd63-lwzxd0qojoga8f",
-    "affiliate_url": "https://s.shopee.com.br/2VrkDViupL",
-    "created_at": "15/09/2026 13:18",
-    "created_at_iso": "2026-09-15T13:18:08",
-    "created_ts": 1789478288,
-    "niche": {
-      "key": "shopee_beleza",
-      "name": "Beleza"
-    }
-  },
-  {
-    "id": "6f66cf95101c8061c7",
-    "title": "Body Splash Masculino Barbarius Primacial",
-    "raw_title": "BODY SPLASH MASCULINO BARBARIUS 200ML - PRIMACIAL PERFUME AMADEIRADO",
-    "description": "🔥 IMPERDÍVEL! 🔥 Body Splash Masculino Barbarius 200ml Primacial. Um perfume amadeirado marcante que exala sofisticação e presença. Ideal para o homem mo...",
-    "marketplace": "Shopee",
-    "category": "Beleza",
-    "old_price": "R$ 70,13",
-    "price": "R$ 36,47",
-    "discount_percent": 48.0,
-    "rating": 4.7,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820l8-mr0al1uy9z47a0",
-    "affiliate_url": "https://s.shopee.com.br/1APEufEZ3",
-    "created_at": "15/09/2026 13:16",
-    "created_at_iso": "2026-09-15T13:16:59",
-    "created_ts": 1789478219,
-    "niche": {
-      "key": "shopee_beleza",
-      "name": "Beleza"
-    }
-  },
-  {
-    "id": "9473d9227db1a6870e",
-    "title": "Perfume Deo Colônia Lescent N2 DELICATE LONDRES Feminino",
-    "raw_title": "Perfume Deo Colônia Lescent N2 DELICATE LONDRES Feminino",
-    "description": "🔥 41% OFF — Oferta encontrada! 📌 Perfume Deo Colônia Lescent N2 DELICATE LONDRES Feminino Confira os detalhes e aproveite enquanto a oferta estiver disp...",
-    "marketplace": "Shopee",
-    "category": "Beleza",
-    "old_price": "R$ 57,49",
-    "price": "R$ 33,92",
-    "discount_percent": 41.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134201-820ln-mr7eqciov3lz66",
-    "affiliate_url": "https://s.shopee.com.br/1qc3QHY32h",
-    "created_at": "15/09/2026 13:15",
-    "created_at_iso": "2026-09-15T13:15:48",
-    "created_ts": 1789478148,
-    "niche": {
-      "key": "shopee_beleza",
-      "name": "Beleza"
     }
   }
 ]

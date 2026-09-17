@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 17/09/2026 03:20
+Gerado em: 17/09/2026 04:19
 
 ## Como usar
 
@@ -57,14 +57,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
 ```txt
 💄 Oferta para Beleza e Cuidados
 
-Perfume Feminino Olympia
+Escova Secadora GOKOCO 5 em 1
 
-💸 De: R$ 368,00
-🔥 Por: R$ 184,00
-🏷️ 50% OFF
-🛒 Loja: Mercado Livre
+💸 De: R$ 988,37
+🔥 Por: R$ 425,00
+🏷️ 57% OFF
+🛒 Loja: Shopee
 
-Ver oferta: https://www.mercadolivre.com.br/p/MLB77039877?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+Ver oferta: https://s.shopee.com.br/2gBD0VHrIB
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

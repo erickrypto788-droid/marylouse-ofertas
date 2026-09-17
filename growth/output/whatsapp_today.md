@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 17/09/2026 20:18
+Gerado em: 17/09/2026 21:18
 
 ## Como usar
 
@@ -147,14 +147,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
 ```txt
 👟 Oferta para Moda e Calçados
 
-Tênis Masculino Academia Casual Esportivo Para Treino Crossfit Caminh…
+Tênis Feminino Caminhada e Academia
 
-💸 De: R$ 119,75
-🔥 Por: R$ 47,90
-🏷️ 60% OFF
+💸 De: R$ 157,32
+🔥 Por: R$ 53,49
+🏷️ 66% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/3B7UfMEa5D
+Ver oferta: https://s.shopee.com.br/2gBE8YNOyl
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 17/09/2026 21:18
+Gerado em: 17/09/2026 22:11
 
 ## Como usar
 
@@ -72,37 +72,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 3 — Moda Feminina
-
-**Canal recomendado:** Moda Feminina
-
-**Horário sugerido:** 12:00 - 14:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
-
-**Texto pronto:**
-
-```txt
-👗 Oferta para Moda Feminina
-
-Conjunto Mercy Feminino Cropped e Calça Dunas
-
-💸 De: R$ 81,05
-🔥 Por: R$ 29,99
-🏷️ 63% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/1AQ6U1Qkf
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 4 — Celulares e Tecnologia
+## Post 3 — Celulares e Tecnologia
 
 **Canal recomendado:** Celulares e Tecnologia
 
@@ -132,7 +102,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 5 — Moda e Calçados
+## Post 4 — Moda e Calçados
 
 **Canal recomendado:** Moda e Calçados
 
@@ -162,7 +132,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 6 — Saúde
+## Post 5 — Saúde
 
 **Canal recomendado:** Saúde e Bem-estar
 
@@ -185,6 +155,36 @@ Monitor de Pressão Digital de Pulso AUXOM
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/80CjcnXM0j
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 6 — Moda Feminina
+
+**Canal recomendado:** Moda Feminina
+
+**Horário sugerido:** 12:00 - 14:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
+
+**Texto pronto:**
+
+```txt
+👗 Oferta para Moda Feminina
+
+Vestido Feminino Viscolycra Estampado Com Transpassado Casual Confort…
+
+💸 De: R$ 121,55
+🔥 Por: R$ 61,99
+🏷️ 49% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/40gbWe2Esd
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

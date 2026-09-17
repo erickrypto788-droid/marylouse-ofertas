@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 17/09/2026 23:06
+Gerado em: 17/09/2026 23:22
 
 ## Como usar
 
@@ -12,7 +12,37 @@ Gerado em: 17/09/2026 23:06
 
 ---
 
-## Post 1 — Beleza e Cuidados
+## Post 1 — Celulares e Tecnologia
+
+**Canal recomendado:** Celulares e Tecnologia
+
+**Horário sugerido:** 19:00 - 21:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
+
+**Texto pronto:**
+
+```txt
+📱 Oferta para Celulares e Tecnologia
+
+Carregador 168w Para Celular Com Type C Tipo C
+
+💸 De: R$ 43,13
+🔥 Por: R$ 25,88
+🏷️ 40% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/LnJQOU8VD
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 2 — Beleza e Cuidados
 
 **Canal recomendado:** Beleza e Cuidados
 
@@ -42,7 +72,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 2 — Mamãe e Bebê
+## Post 3 — Mamãe e Bebê
 
 **Canal recomendado:** Mamãe e Bebê
 
@@ -65,36 +95,6 @@ Fralda Pampers Supersequinha Mega P
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/7Kx2tgToiT
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 3 — Celulares e Tecnologia
-
-**Canal recomendado:** Celulares e Tecnologia
-
-**Horário sugerido:** 19:00 - 21:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
-
-**Texto pronto:**
-
-```txt
-📱 Oferta para Celulares e Tecnologia
-
-Cabo 4 em 1 Carregamento Rápido PD 65W USB Tipo C Lightning Duplo Nyl…
-
-💸 De: R$ 59,22
-🔥 Por: R$ 15,99
-🏷️ 73% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/4qFhSFo4j7
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

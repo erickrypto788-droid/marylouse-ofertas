@@ -1,5 +1,22 @@
 [
   {
+    "id": "9e16ae5e606ca24964",
+    "title": "Fone Bluetooth Redmi",
+    "raw_title": "Fone Bluetooth Redmi",
+    "description": "🔥 19% OFF — Oferta encontrada! 📌 Fone Bluetooth Redmi Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "R$ 43,00",
+    "price": "R$ 35,00",
+    "discount_percent": 19.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_918309-MLA97869219589_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62010143?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "17/09/2026 14:01",
+    "created_at_iso": "2026-09-17T14:01:40",
+    "created_ts": 1789653700
+  },
+  {
     "id": "cae1c456405820480d",
     "title": "Webcam Câmera Full Hd 1080p 360 Graus Videoconferência Streamcam Web…",
     "raw_title": "Webcam Câmera Full Hd 1080p 360 Graus Videoconferência Streamcam Web Cam Entrada Usb Com Microfone",
@@ -2340,47 +2357,5 @@
     "created_at": "16/09/2026 14:03",
     "created_at_iso": "2026-09-16T14:03:24",
     "created_ts": 1789567404
-  },
-  {
-    "id": "5614459e4ad32a933b",
-    "title": "Kit Medidor de Glicose Bioland G425-3 + 25 Tiras + 25 Lancetas + Bols…",
-    "raw_title": "Kit Medidor de Glicose Bioland G425-3 + 25 Tiras + 25 Lancetas + Bolsa CAIXA",
-    "description": "🔥 Oferta encontrada! 📌 Kit Medidor de Glicose Bioland G425-3 + 25 Tiras + 25 Lancetas + Bolsa CAIXA Confira os detalhes e aproveite enquanto a oferta es...",
-    "marketplace": "Shopee",
-    "category": "Saúde",
-    "old_price": "",
-    "price": "R$ 38,49",
-    "discount_percent": 0.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbmy10gfie3mfb",
-    "affiliate_url": "https://s.shopee.com.br/1gIeos8SPi",
-    "created_at": "16/09/2026 13:21",
-    "created_at_iso": "2026-09-16T13:21:14",
-    "created_ts": 1789564874,
-    "niche": {
-      "key": "shopee_saude",
-      "name": "Saúde"
-    }
-  },
-  {
-    "id": "c8459d50da866b5940",
-    "title": "Medidor de Glicose G-Tech Free (Somente o Medidor + Bateria)",
-    "raw_title": "Medidor de Glicose G-Tech Free (Somente o Medidor + Bateria)",
-    "description": "🔥 10% OFF — Oferta encontrada! 📌 Medidor de Glicose G-Tech Free (Somente o Medidor + Bateria) Confira os detalhes e aproveite enquanto a oferta estiver...",
-    "marketplace": "Shopee",
-    "category": "Saúde",
-    "old_price": "R$ 34,90",
-    "price": "R$ 31,41",
-    "discount_percent": 10.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lvbas1i7z5co94",
-    "affiliate_url": "https://s.shopee.com.br/4fwGONx2Ka",
-    "created_at": "16/09/2026 13:20",
-    "created_at_iso": "2026-09-16T13:20:10",
-    "created_ts": 1789564810,
-    "niche": {
-      "key": "shopee_saude",
-      "name": "Saúde"
-    }
   }
 ]

@@ -1,5 +1,68 @@
 [
   {
+    "id": "d0fa9accdd9c845dc7",
+    "title": "Mochila Resistente para Notebook",
+    "raw_title": "Mochila Masculina Bolsa Feminina Notebook Escolar Resistente Oferta",
+    "description": "🚨 OFERTA IMPERDÍVEL! Mochila Multifuncional com precinho! 🎒 Leve, resistente e perfeita para notebook, escola ou dia a dia. Unissex e super versátil! 💼",
+    "marketplace": "Shopee",
+    "category": "Bolsas Femininas",
+    "old_price": "R$ 39,87",
+    "price": "R$ 29,90",
+    "discount_percent": 25.0,
+    "rating": 4.5,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-ln8ohnuajf0kd3",
+    "affiliate_url": "https://s.shopee.com.br/3g3kb4fcwP",
+    "created_at": "17/09/2026 10:18",
+    "created_at_iso": "2026-09-17T10:18:01",
+    "created_ts": 1789640281,
+    "niche": {
+      "key": "shopee_bolsas_femininas",
+      "name": "Bolsas Femininas"
+    }
+  },
+  {
+    "id": "6b0999fc84f8c4c7c8",
+    "title": "Bolsa de Praia Feminina Alça de Corda Elegante Grande e Resistente",
+    "raw_title": "Bolsa de Praia Feminina Alça de Corda Elegante Grande e Resistente",
+    "description": "🔥 52% OFF — Oferta encontrada! 📌 Bolsa de Praia Feminina Alça de Corda Elegante Grande e Resistente Confira os detalhes e aproveite enquanto a oferta es...",
+    "marketplace": "Shopee",
+    "category": "Bolsas Femininas",
+    "old_price": "R$ 59,40",
+    "price": "R$ 28,51",
+    "discount_percent": 52.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-me8bszdf5pmoee",
+    "affiliate_url": "https://s.shopee.com.br/1VzG15jL2l",
+    "created_at": "17/09/2026 10:16",
+    "created_at_iso": "2026-09-17T10:16:51",
+    "created_ts": 1789640211,
+    "niche": {
+      "key": "shopee_bolsas_femininas",
+      "name": "Bolsas Femininas"
+    }
+  },
+  {
+    "id": "8cc745916338b22813",
+    "title": "Bolsa Feminina Crossbody Transversal Pequena Necessaire Tecido Imperm…",
+    "raw_title": "Bolsa Feminina Crossbody Transversal Pequena Necessaire Tecido Impermeável",
+    "description": "🔥 75% OFF — Oferta encontrada! 📌 Bolsa Feminina Crossbody Transversal Pequena Necessaire Tecido Impermeável Confira os detalhes e aproveite enquanto a o...",
+    "marketplace": "Shopee",
+    "category": "Bolsas Femininas",
+    "old_price": "R$ 101,56",
+    "price": "R$ 25,39",
+    "discount_percent": 75.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdvbrbg2e58g42",
+    "affiliate_url": "https://s.shopee.com.br/W6ipFw0tt",
+    "created_at": "17/09/2026 10:15",
+    "created_at_iso": "2026-09-17T10:15:47",
+    "created_ts": 1789640147,
+    "niche": {
+      "key": "shopee_bolsas_femininas",
+      "name": "Bolsas Femininas"
+    }
+  },
+  {
     "id": "cfdb1c432ba1a6f578",
     "title": "Barbeador elétrico profissional WAIKIL, barbeador elétrico recarregáv…",
     "raw_title": "Barbeador elétrico profissional WAIKIL, barbeador elétrico recarregável, adequado para barba, recarregável Ipx7 sem fio, cabelo e cabelo corporal",
@@ -2491,48 +2554,6 @@
     "created_at": "16/09/2026 10:18",
     "created_at_iso": "2026-09-16T10:18:08",
     "created_ts": 1789553888,
-    "niche": {
-      "key": "shopee_moda_infantil",
-      "name": "Moda Infantil"
-    }
-  },
-  {
-    "id": "0c57bd91aee97be044",
-    "title": "Sandália Babuche Infantil Menina",
-    "raw_title": "Sandália Babuche Infantil Menina Enfeite de Jardim. Linda, leve e Macia Ideal para todas meninas",
-    "description": "✨ Conforto e fofura para as pequenas! ✨ Sua princesa vai amar a Sandália Babuche Infantil com Enfeite de Jardim! 🌸 Linda, leve e super macia, perfeita p...",
-    "marketplace": "Shopee",
-    "category": "Moda Infantil",
-    "old_price": "R$ 59,75",
-    "price": "R$ 23,90",
-    "discount_percent": 60.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134201-820m1-mqyrxich8sn80e",
-    "affiliate_url": "https://s.shopee.com.br/3g3j0BBYiV",
-    "created_at": "16/09/2026 10:16",
-    "created_at_iso": "2026-09-16T10:16:57",
-    "created_ts": 1789553817,
-    "niche": {
-      "key": "shopee_moda_infantil",
-      "name": "Moda Infantil"
-    }
-  },
-  {
-    "id": "d390a4041b07a065b3",
-    "title": "Kit 10 Calcinhas Infantis",
-    "raw_title": "kit com 10 Calcinha infantil Kids",
-    "description": "✨ Conforto e economia para as pequenas! ✨ Garanta o kit essencial com 10 calcinhas infantis para suas princesas! Qualidade e bem-estar para o dia a dia. 💖",
-    "marketplace": "Shopee",
-    "category": "Moda Infantil",
-    "old_price": "R$ 40,19",
-    "price": "R$ 20,90",
-    "discount_percent": 48.0,
-    "rating": 4.6,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lyv86epysgb9de",
-    "affiliate_url": "https://s.shopee.com.br/4LJPnP4YK3",
-    "created_at": "16/09/2026 10:15",
-    "created_at_iso": "2026-09-16T10:15:49",
-    "created_ts": 1789553749,
     "niche": {
       "key": "shopee_moda_infantil",
       "name": "Moda Infantil"

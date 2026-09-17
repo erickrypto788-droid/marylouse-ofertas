@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 17/09/2026 08:22
+Gerado em: 17/09/2026 09:22
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 17/09/2026 08:22
 
 **Produtos usados:**
 
-- Kit 3 Fraldas Descartáveis Pampers Supersequinha Mega P - 126 Tiras
-- Tênis Infantil Baby Confortável Casual Leve Para Menino e Menina Sapa…
-- Kit Porta Leite em Pó Bebê
+- Kit Pano de Boca 12un 100% Algodão
+- Troninho Infantil JOYA KID com Escada
+- Fralda Pampers Supersequinha Mega P
 
 ---
 

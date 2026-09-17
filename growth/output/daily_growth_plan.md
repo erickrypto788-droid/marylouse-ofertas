@@ -1,15 +1,15 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 17/09/2026 08:22
+Gerado em: 17/09/2026 09:22
 
 ## Categorias prioritárias
 
-- 💄 **Beleza**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 🍼 **Mãe e Bebê**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 🍼 **Mãe e Bebê**: 16 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - ❤️ **Saúde**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 🏋️ **Esportes**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 🧸 **Brinquedos**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 👟 **Calçados**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 💄 **Beleza**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 👗 **Moda Feminina**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 📚 **Papelaria**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
@@ -45,47 +45,47 @@ Gerado em: 17/09/2026 08:22
    - Desconto: 58% OFF
    - Link: https://s.shopee.com.br/6Al4NUu93f
 
-5. **Panela Elétrica Britânia 2L 5 Temperaturas 650W BPE02A**
+5. **Fralda Pampers Supersequinha Mega P**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 45,99
+   - Desconto: 32% OFF
+   - Link: https://s.shopee.com.br/7Kx2tgToiT
+
+6. **Panela Elétrica Britânia 2L 5 Temperaturas 650W BPE02A**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 129,90
    - Desconto: 35% OFF
    - Link: https://s.shopee.com.br/20vULuc3Q9
 
-6. **Leitor Cartão USB C 3 Em 1 OTG SD Micro SD Adaptador Para Celular Not…**
+7. **Leitor Cartão USB C 3 Em 1 OTG SD Micro SD Adaptador Para Celular Not…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 17,99
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/6L4TRkoF4x
 
-7. **Monitor de Pressão Digital de Pulso AUXOM**
+8. **Kit Pano de Boca 12un 100% Algodão**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 28,99
+   - Desconto: 64% OFF
+   - Link: https://s.shopee.com.br/30o3jikJVT
+
+9. **Troninho Infantil JOYA KID com Escada**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 73,90
+   - Desconto: 63% OFF
+   - Link: https://s.shopee.com.br/4fwHimdy7h
+
+10. **Monitor de Pressão Digital de Pulso AUXOM**
    - Categoria: Saúde
    - Loja: Shopee
    - Preço: R$ 38,99
    - Desconto: 66% OFF
    - Link: https://s.shopee.com.br/80CjcnXM0j
-
-8. **Garrafa Térmica 1L OMINI com Termômetro LED**
-   - Categoria: Saúde
-   - Loja: Shopee
-   - Preço: R$ 44,95
-   - Desconto: 59% OFF
-   - Link: https://s.shopee.com.br/9AOh0wXWE7
-
-9. **Tênis Infantil Baby Confortável Casual Leve Para Menino e Menina Sapa…**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 34,80
-   - Desconto: 54% OFF
-   - Link: https://s.shopee.com.br/8fSQDgNGKn
-
-10. **Cabo 4 em 1 Carregamento Rápido PD 65W USB Tipo C Lightning Duplo Nyl…**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 15,99
-   - Desconto: 73% OFF
-   - Link: https://s.shopee.com.br/4qFhSFo4j7
 
 ## Ações gratuitas recomendadas
 

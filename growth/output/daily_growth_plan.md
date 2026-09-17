@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 17/09/2026 10:04
+Gerado em: 17/09/2026 10:19
 
 ## Categorias prioritárias
 
@@ -9,11 +9,11 @@ Gerado em: 17/09/2026 10:04
 - ❤️ **Saúde**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 🏋️ **Esportes**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 🧸 **Brinquedos**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
-- 👟 **Calçados**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 💻 **Informática**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 👗 **Moda Feminina**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
+- 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 📚 **Papelaria**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
-- 🧒 **Moda Infantil**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-infantil.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-infantil
 
 ## Top ofertas para destacar
 
@@ -73,19 +73,19 @@ Gerado em: 17/09/2026 10:04
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/6L4TRkoF4x
 
-9. **Kit Pano de Boca 12un 100% Algodão**
+9. **Mochila Resistente para Notebook**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 29,90
+   - Desconto: 25% OFF
+   - Link: https://s.shopee.com.br/3g3kb4fcwP
+
+10. **Kit Pano de Boca 12un 100% Algodão**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 28,99
    - Desconto: 64% OFF
    - Link: https://s.shopee.com.br/30o3jikJVT
-
-10. **Troninho Infantil JOYA KID com Escada**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 73,90
-   - Desconto: 63% OFF
-   - Link: https://s.shopee.com.br/4fwHimdy7h
 
 ## Ações gratuitas recomendadas
 

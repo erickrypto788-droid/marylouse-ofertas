@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 17/09/2026 13:04
+Gerado em: 17/09/2026 13:22
 
 ## Como usar
 
@@ -104,7 +104,7 @@ Gerado em: 17/09/2026 13:04
 
 - Leitor Cartão USB C 3 Em 1 OTG SD Micro SD Adaptador Para Celular Not…
 - Cabo 4 em 1 Carregamento Rápido PD 65W USB Tipo C Lightning Duplo Nyl…
-- Barra de Proteína Snacks Protein Bar Flash 35g 10 Unids Bodyaction
+- Kit com 3/6/12/20 Unidades Protetor Tampa Câmera Webcam Anti-espião N…
 
 ---
 

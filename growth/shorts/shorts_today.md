@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 17/09/2026 09:22
+Gerado em: 17/09/2026 10:04
 
 ## Como usar
 
@@ -78,9 +78,9 @@ Gerado em: 17/09/2026 09:22
 
 **Produtos usados:**
 
+- Perfume Millions Masculino
 - Escova Secadora GOKOCO 5 em 1
 - Perfume Masculino 100ml Fragrância Amadeirada Marcante Sofisticada Lo…
-- Perfume Feminino Olympia
 
 ---
 

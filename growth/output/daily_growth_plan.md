@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 17/09/2026 18:19
+Gerado em: 17/09/2026 19:23
 
 ## Categorias prioritárias
 
 - 👗 **Moda Feminina**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
-- 📱 **Celulares**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
-- 📦 **Outros**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 👕 **Moda Masculina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
-- 💻 **Informática**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 📱 **Celulares**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 🍼 **Mãe e Bebê**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- ✨ **Moda Plus Size**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
+- 💻 **Informática**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 📦 **Outros**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 📚 **Papelaria**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
-- 💄 **Beleza**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - ❤️ **Saúde**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
-- 🧸 **Brinquedos**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
+- 💄 **Beleza**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 
 ## Top ofertas para destacar
 
@@ -52,40 +52,40 @@ Gerado em: 17/09/2026 18:19
    - Desconto: 32% OFF
    - Link: https://s.shopee.com.br/7Kx2tgToiT
 
-6. **Panela Elétrica Britânia 2L 5 Temperaturas 650W BPE02A**
-   - Categoria: Casa e Cozinha
-   - Loja: Shopee
-   - Preço: R$ 129,90
-   - Desconto: 35% OFF
-   - Link: https://s.shopee.com.br/20vULuc3Q9
-
-7. **Leitor Cartão USB C 3 Em 1 OTG SD Micro SD Adaptador Para Celular Not…**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 17,99
-   - Desconto: 40% OFF
-   - Link: https://s.shopee.com.br/6L4TRkoF4x
-
-8. **Monitor Gamer Acer KG243Y 23.8" Full HD 144Hz IPS HDMI P1bip - Preto…**
+6. **Monitor Gamer Acer KG243Y 23.8" Full HD 144Hz IPS HDMI P1bip - Preto…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 657,90
    - Desconto: 59% OFF
    - Link: https://s.shopee.com.br/6L4VyL7QJW
 
-9. **Mochila Resistente para Notebook**
+7. **Mochila Resistente para Notebook**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 29,90
    - Desconto: 25% OFF
    - Link: https://s.shopee.com.br/3g3kb4fcwP
 
-10. **Kit Pano de Boca 12un 100% Algodão**
+8. **Kit Pano de Boca 12un 100% Algodão**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 28,99
    - Desconto: 64% OFF
    - Link: https://s.shopee.com.br/30o3jikJVT
+
+9. **Troninho Infantil JOYA KID com Escada**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 73,90
+   - Desconto: 63% OFF
+   - Link: https://s.shopee.com.br/4fwHimdy7h
+
+10. **Monitor de Pressão Digital de Pulso AUXOM**
+   - Categoria: Saúde
+   - Loja: Shopee
+   - Preço: R$ 38,99
+   - Desconto: 66% OFF
+   - Link: https://s.shopee.com.br/80CjcnXM0j
 
 ## Ações gratuitas recomendadas
 

@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 17/09/2026 18:19
+Gerado em: 17/09/2026 19:23
 
 ## Como usar
 
@@ -12,37 +12,7 @@ Gerado em: 17/09/2026 18:19
 
 ---
 
-## Post 1 — Celulares e Tecnologia
-
-**Canal recomendado:** Celulares e Tecnologia
-
-**Horário sugerido:** 19:00 - 21:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
-
-**Texto pronto:**
-
-```txt
-📱 Oferta para Celulares e Tecnologia
-
-Leitor Cartão USB C 3 Em 1 OTG SD Micro SD Adaptador Para Celular Not…
-
-💸 De: R$ 29,98
-🔥 Por: R$ 17,99
-🏷️ 40% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/6L4TRkoF4x
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 2 — Beleza e Cuidados
+## Post 1 — Beleza e Cuidados
 
 **Canal recomendado:** Beleza e Cuidados
 
@@ -72,7 +42,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 3 — Mamãe e Bebê
+## Post 2 — Mamãe e Bebê
 
 **Canal recomendado:** Mamãe e Bebê
 
@@ -102,7 +72,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Moda Feminina
+## Post 3 — Moda Feminina
 
 **Canal recomendado:** Moda Feminina
 
@@ -132,29 +102,29 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 5 — Casa e Cozinha
+## Post 4 — Celulares e Tecnologia
 
-**Canal recomendado:** Casa e Cozinha
+**Canal recomendado:** Celulares e Tecnologia
 
-**Horário sugerido:** 18:00 - 20:00
+**Horário sugerido:** 19:00 - 21:00
 
 **Imagem/card:**
 
-https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
+https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
 
 **Texto pronto:**
 
 ```txt
-🍳 Oferta para Casa e Cozinha
+📱 Oferta para Celulares e Tecnologia
 
-Panela Elétrica Britânia 2L 5 Temperaturas 650W BPE02A
+Cabo 4 em 1 Carregamento Rápido PD 65W USB Tipo C Lightning Duplo Nyl…
 
-💸 De: R$ 199,85
-🔥 Por: R$ 129,90
-🏷️ 35% OFF
+💸 De: R$ 59,22
+🔥 Por: R$ 15,99
+🏷️ 73% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/20vULuc3Q9
+Ver oferta: https://s.shopee.com.br/4qFhSFo4j7
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
@@ -162,7 +132,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 6 — Moda e Calçados
+## Post 5 — Moda e Calçados
 
 **Canal recomendado:** Moda e Calçados
 
@@ -185,6 +155,36 @@ Tênis Feminino KNW Premium
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/112yp5MU8C
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 6 — Saúde
+
+**Canal recomendado:** Saúde e Bem-estar
+
+**Horário sugerido:** 09:00 - 11:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/saude.png
+
+**Texto pronto:**
+
+```txt
+❤️ Oferta para Saúde
+
+Monitor de Pressão Digital de Pulso AUXOM
+
+💸 De: R$ 114,68
+🔥 Por: R$ 38,99
+🏷️ 66% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/80CjcnXM0j
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

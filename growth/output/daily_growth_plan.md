@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 17/09/2026 17:03
+Gerado em: 17/09/2026 17:21
 
 ## Categorias prioritárias
 
-- 📚 **Papelaria**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 - 👗 **Moda Feminina**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 📱 **Celulares**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 📦 **Outros**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 👕 **Moda Masculina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 - 💻 **Informática**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 💄 **Beleza**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 📚 **Papelaria**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 - 🍼 **Mãe e Bebê**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 💄 **Beleza**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - ❤️ **Saúde**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 🧸 **Brinquedos**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
-- 👟 **Calçados**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 
 ## Top ofertas para destacar
 
@@ -45,47 +45,47 @@ Gerado em: 17/09/2026 17:03
    - Desconto: 53% OFF
    - Link: https://s.shopee.com.br/BTs1uMuIt
 
-5. **Perfume Feminino Olympia**
-   - Categoria: Beleza
-   - Loja: Mercado Livre
-   - Preço: R$ 184,00
-   - Desconto: 50% OFF
-   - Link: https://www.mercadolivre.com.br/p/MLB77039877?matt_word=marylouse&matt_tool=50459180&forceInApp=true
-
-6. **Fralda Pampers Supersequinha Mega P**
+5. **Fralda Pampers Supersequinha Mega P**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 45,99
    - Desconto: 32% OFF
    - Link: https://s.shopee.com.br/7Kx2tgToiT
 
-7. **Panela Elétrica Britânia 2L 5 Temperaturas 650W BPE02A**
+6. **Panela Elétrica Britânia 2L 5 Temperaturas 650W BPE02A**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 129,90
    - Desconto: 35% OFF
    - Link: https://s.shopee.com.br/20vULuc3Q9
 
-8. **Leitor Cartão USB C 3 Em 1 OTG SD Micro SD Adaptador Para Celular Not…**
+7. **Leitor Cartão USB C 3 Em 1 OTG SD Micro SD Adaptador Para Celular Not…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 17,99
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/6L4TRkoF4x
 
-9. **Monitor Gamer Acer KG243Y 23.8" Full HD 144Hz IPS HDMI P1bip - Preto…**
+8. **Monitor Gamer Acer KG243Y 23.8" Full HD 144Hz IPS HDMI P1bip - Preto…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 657,90
    - Desconto: 59% OFF
    - Link: https://s.shopee.com.br/6L4VyL7QJW
 
-10. **Mochila Resistente para Notebook**
+9. **Mochila Resistente para Notebook**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 29,90
    - Desconto: 25% OFF
    - Link: https://s.shopee.com.br/3g3kb4fcwP
+
+10. **Kit Pano de Boca 12un 100% Algodão**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 28,99
+   - Desconto: 64% OFF
+   - Link: https://s.shopee.com.br/30o3jikJVT
 
 ## Ações gratuitas recomendadas
 

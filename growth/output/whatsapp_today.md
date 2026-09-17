@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 17/09/2026 20:04
+Gerado em: 17/09/2026 20:18
 
 ## Como usar
 
@@ -147,14 +147,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
 ```txt
 👟 Oferta para Moda e Calçados
 
-Tênis Feminino KNW Premium
+Tênis Masculino Academia Casual Esportivo Para Treino Crossfit Caminh…
 
-💸 De: R$ 128,71
-🔥 Por: R$ 39,90
-🏷️ 69% OFF
+💸 De: R$ 119,75
+🔥 Por: R$ 47,90
+🏷️ 60% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/112yp5MU8C
+Ver oferta: https://s.shopee.com.br/3B7UfMEa5D
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

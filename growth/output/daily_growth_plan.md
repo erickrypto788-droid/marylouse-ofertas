@@ -1,15 +1,15 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 17/09/2026 07:47
+Gerado em: 17/09/2026 08:22
 
 ## Categorias prioritárias
 
 - 💄 **Beleza**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🍼 **Mãe e Bebê**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- ❤️ **Saúde**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 🏋️ **Esportes**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 🧸 **Brinquedos**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 👟 **Calçados**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 🍳 **Casa e Cozinha**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 👗 **Moda Feminina**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 📚 **Papelaria**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
@@ -59,33 +59,33 @@ Gerado em: 17/09/2026 07:47
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/6L4TRkoF4x
 
-7. **Tênis Infantil Baby Confortável Casual Leve Para Menino e Menina Sapa…**
+7. **Monitor de Pressão Digital de Pulso AUXOM**
+   - Categoria: Saúde
+   - Loja: Shopee
+   - Preço: R$ 38,99
+   - Desconto: 66% OFF
+   - Link: https://s.shopee.com.br/80CjcnXM0j
+
+8. **Garrafa Térmica 1L OMINI com Termômetro LED**
+   - Categoria: Saúde
+   - Loja: Shopee
+   - Preço: R$ 44,95
+   - Desconto: 59% OFF
+   - Link: https://s.shopee.com.br/9AOh0wXWE7
+
+9. **Tênis Infantil Baby Confortável Casual Leve Para Menino e Menina Sapa…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 34,80
    - Desconto: 54% OFF
    - Link: https://s.shopee.com.br/8fSQDgNGKn
 
-8. **Cabo 4 em 1 Carregamento Rápido PD 65W USB Tipo C Lightning Duplo Nyl…**
+10. **Cabo 4 em 1 Carregamento Rápido PD 65W USB Tipo C Lightning Duplo Nyl…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 15,99
    - Desconto: 73% OFF
    - Link: https://s.shopee.com.br/4qFhSFo4j7
-
-9. **Microfone de lapela duplo redondo magnético A’Gold 2 em 1 iphone tipo…**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 69,99
-   - Desconto: 50% OFF
-   - Link: https://s.shopee.com.br/1gIfgR4Sgd
-
-10. **Power Bank 10000mAh para iPhone: Turbo Carregamento Sem Fio Magnético…**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 49,99
-   - Desconto: 54% OFF
-   - Link: https://s.shopee.com.br/3B7TTBykdm
 
 ## Ações gratuitas recomendadas
 

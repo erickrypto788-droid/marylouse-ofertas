@@ -1,5 +1,26 @@
 [
   {
+    "id": "3c5474ce220337def3",
+    "title": "Mochila Masculina Reforçada",
+    "raw_title": "Mochila Reforçada Masculina Faculdade Impermeável Resistente Grande Trabalho Escolar",
+    "description": "🚨 OFERTA RELÂMPAGO! 🚨 Mochila Masculina Reforçada, perfeita para faculdade, trabalho ou escola! 💪 Super resistente e impermeável, seus pertences protegi...",
+    "marketplace": "Shopee",
+    "category": "Bolsas Masculinas",
+    "old_price": "R$ 98,34",
+    "price": "R$ 59,99",
+    "discount_percent": 39.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfea12iap14w0d",
+    "affiliate_url": "https://s.shopee.com.br/9peO0WTT8G",
+    "created_at": "17/09/2026 11:15",
+    "created_at_iso": "2026-09-17T11:15:53",
+    "created_ts": 1789643753,
+    "niche": {
+      "key": "shopee_bolsas_masculinas",
+      "name": "Bolsas Masculinas"
+    }
+  },
+  {
     "id": "d0fa9accdd9c845dc7",
     "title": "Mochila Resistente para Notebook",
     "raw_title": "Mochila Masculina Bolsa Feminina Notebook Escolar Resistente Oferta",
@@ -2494,69 +2515,6 @@
     "niche": {
       "key": "shopee_esportes_lazer",
       "name": "Esportes e Lazer"
-    }
-  },
-  {
-    "id": "9fe3e8c76b8fa25001",
-    "title": "Kit 6 Peças Roupa Infantil Menina Verão",
-    "raw_title": "Kit 6 Peças de Roupa Infantil Menina Verão Feminino",
-    "description": "Mães, ATENÇÃO! 👧 Prepare sua pequena para o verão com este Kit 6 Peças de Roupa Infantil Feminina! Conforto e estilo garantidos para ela arrasar. ✨ Mais...",
-    "marketplace": "Shopee",
-    "category": "Moda Infantil",
-    "old_price": "R$ 131,32",
-    "price": "R$ 49,90",
-    "discount_percent": 62.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lz-mqbx9jyaolc0c9",
-    "affiliate_url": "https://s.shopee.com.br/4qFgOK2eJA",
-    "created_at": "16/09/2026 10:20",
-    "created_at_iso": "2026-09-16T10:20:28",
-    "created_ts": 1789554028,
-    "niche": {
-      "key": "shopee_moda_infantil",
-      "name": "Moda Infantil"
-    }
-  },
-  {
-    "id": "8ea4574a5c883b495e",
-    "title": "Kit 10 Cuecas Boxer Infantil",
-    "raw_title": "Kit 10 Cuecas Boxer Box Infantil Juvenil Menino Estampada",
-    "description": "🚨 O kit de cuecas que seu filho vai AMAR! Chega de gastar muito! Garanta conforto e estilo com este Kit 10 Cuecas Boxer Box Infantil Juvenil Menino Esta...",
-    "marketplace": "Shopee",
-    "category": "Moda Infantil",
-    "old_price": "R$ 89,72",
-    "price": "R$ 34,99",
-    "discount_percent": 61.0,
-    "rating": 4.6,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9u79k2kc6d5a4",
-    "affiliate_url": "https://s.shopee.com.br/qjXcyHsQG",
-    "created_at": "16/09/2026 10:19",
-    "created_at_iso": "2026-09-16T10:19:18",
-    "created_ts": 1789553958,
-    "niche": {
-      "key": "shopee_moda_infantil",
-      "name": "Moda Infantil"
-    }
-  },
-  {
-    "id": "ac83bea64ae8fc422d",
-    "title": "Tênis Infantil Preto Anatômico",
-    "raw_title": "Tênis Baby Infantil Preto Casual Menino Anatômico Respirável Dia a Dia 20 ao 33 Envio Imediato",
-    "description": "CONFORTO E ESTILO PARA SEU PEQUENO! 🏃‍♂️ Seu filho merece o melhor! Este tênis infantil preto é perfeito para o dia a dia, com design anatômico e respir...",
-    "marketplace": "Shopee",
-    "category": "Moda Infantil",
-    "old_price": "R$ 98,17",
-    "price": "R$ 58,90",
-    "discount_percent": 40.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-meucw7y5aqyq0a",
-    "affiliate_url": "https://s.shopee.com.br/8AW8MS7Q9b",
-    "created_at": "16/09/2026 10:18",
-    "created_at_iso": "2026-09-16T10:18:08",
-    "created_ts": 1789553888,
-    "niche": {
-      "key": "shopee_moda_infantil",
-      "name": "Moda Infantil"
     }
   }
 ]

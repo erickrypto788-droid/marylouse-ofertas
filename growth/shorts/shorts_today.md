@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 17/09/2026 14:03
+Gerado em: 17/09/2026 14:22
 
 ## Como usar
 
@@ -55,8 +55,8 @@ Gerado em: 17/09/2026 14:03
 **Produtos usados:**
 
 - Panela Elétrica Britânia 2L 5 Temperaturas 650W BPE02A
-- Conjunto Panelas Antiaderente Tramontina 5peças Vermelho
 - Liquidificador Britânia 2,6L 4 Velocidades Diamante 1100
+- Cafeteira Elétrica Com Jarra Moderna 600ML15 Xícaras 550w
 
 ---
 
@@ -121,11 +121,13 @@ Gerado em: 17/09/2026 14:03
 - growth/shorts/slides/supermercados/01_intro.png
 - growth/shorts/slides/supermercados/02_produto_1.png
 - growth/shorts/slides/supermercados/03_produto_2.png
+- growth/shorts/slides/supermercados/04_produto_3.png
 - growth/shorts/slides/supermercados/05_cta.png
 
 **Produtos usados:**
 
+- Kit 2 Borrifadores de Azeite Vinagre Líquidos Pulverizador Culinário…
+- Kit 5 Potes Mantimentos Arroz Feijão Café Açúcar Sal Mickey e Minnie
 - Papel Higiênico Fofopel 16 Rolos
-- 100 Sacos de Lixo 60L Pretos Reforçados
 
 ---

@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 17/09/2026 01:18
+Gerado em: 17/09/2026 02:21
 
 ## Como usar
 
@@ -103,8 +103,8 @@ Gerado em: 17/09/2026 01:18
 **Produtos usados:**
 
 - Leitor Cartão USB C 3 Em 1 OTG SD Micro SD Adaptador Para Celular Not…
-- Carregador Portatil Mini Power Bank 1.0000mAh Sem Fio 2em1 Carregado…
-- Xiaomi POCO X6 5G Branco
+- Cabo 4 em 1 Carregamento Rápido PD 65W USB Tipo C Lightning Duplo Nyl…
+- Microfone de lapela duplo redondo magnético A’Gold 2 em 1 iphone tipo…
 
 ---
 

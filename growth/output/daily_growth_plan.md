@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 17/09/2026 01:30
+Gerado em: 17/09/2026 02:21
 
 ## Categorias prioritárias
 
 - 👟 **Calçados**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 👗 **Moda Feminina**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 🍼 **Mãe e Bebê**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 📱 **Celulares**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 📦 **Outros**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - ✨ **Moda Plus Size**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
 - 👕 **Moda Masculina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 - 💄 **Beleza**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 👗 **Moda Feminina**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 💻 **Informática**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 📦 **Outros**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 🐶 **Pet**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
-- 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 
 ## Top ofertas para destacar
 
@@ -45,47 +45,47 @@ Gerado em: 17/09/2026 01:30
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/6L4TRkoF4x
 
-5. **Pijama Plus Size Amamentação/Pós-Cirúrgico**
+5. **Cabo 4 em 1 Carregamento Rápido PD 65W USB Tipo C Lightning Duplo Nyl…**
+   - Categoria: Celulares
+   - Loja: Shopee
+   - Preço: R$ 15,99
+   - Desconto: 73% OFF
+   - Link: https://s.shopee.com.br/4qFhSFo4j7
+
+6. **Microfone de lapela duplo redondo magnético A’Gold 2 em 1 iphone tipo…**
+   - Categoria: Celulares
+   - Loja: Shopee
+   - Preço: R$ 69,99
+   - Desconto: 50% OFF
+   - Link: https://s.shopee.com.br/1gIfgR4Sgd
+
+7. **Power Bank 10000mAh para iPhone: Turbo Carregamento Sem Fio Magnético…**
+   - Categoria: Celulares
+   - Loja: Shopee
+   - Preço: R$ 49,99
+   - Desconto: 54% OFF
+   - Link: https://s.shopee.com.br/3B7TTBykdm
+
+8. **Pijama Plus Size Amamentação/Pós-Cirúrgico**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 39,56
    - Desconto: 56% OFF
    - Link: https://s.shopee.com.br/AKadnzvJZv
 
-6. **Kit Porta Leite em Pó Bebê**
+9. **Kit Porta Leite em Pó Bebê**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 26,88
    - Desconto: 55% OFF
    - Link: https://s.shopee.com.br/8fSOI9zTa3
 
-7. **Webcam Full HD 1080p com Microfone**
+10. **Webcam Full HD 1080p com Microfone**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 32,49
    - Desconto: 54% OFF
    - Link: https://s.shopee.com.br/5VVMSDvXW1
-
-8. **Capa Case Pasta Notebook de 14 ate 17 polegadas Super Reforçada Alça…**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 46,90
-   - Desconto: 21% OFF
-   - Link: https://s.shopee.com.br/1qc59PdX3T
-
-9. **Kit 3 Fraldas Descartáveis Pampers Supersequinha Mega P - 126 Tiras**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 137,97
-   - Desconto: 26% OFF
-   - Link: https://s.shopee.com.br/7Kx1dOyL5G
-
-10. **Conjunto Panelas Antiaderente Tramontina 5peças Vermelho**
-   - Categoria: Casa e Cozinha
-   - Loja: Mercado Livre
-   - Preço: R$ 299,00
-   - Desconto: 18% OFF
-   - Link: https://www.mercadolivre.com.br/p/MLB32947723?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ## Ações gratuitas recomendadas
 

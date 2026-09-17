@@ -1,5 +1,22 @@
 [
   {
+    "id": "d772ab7034bbd8f518",
+    "title": "Ração Premier Pet Vitta Natural Ração Cachorro Adulto 15k",
+    "raw_title": "Ração Premier Pet Vitta Natural Ração Cachorro Adulto 15k",
+    "description": "🔥 Oferta encontrada! 📌 Ração Premier Pet Vitta Natural Ração Cachorro Adulto 15k Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Pet",
+    "old_price": "",
+    "price": "R$ 149,98",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_694880-MLA99934866983_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB32106098?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "17/09/2026 18:01",
+    "created_at_iso": "2026-09-17T18:01:58",
+    "created_ts": 1789668118
+  },
+  {
     "id": "4bbb555594e9c2cd06",
     "title": "Kit 3 calça masculina Dry Fit Esportiva Treino Com Ziper no Bolso",
     "raw_title": "Kit 3 calça masculina Dry Fit Esportiva Treino Com Ziper no Bolso",
@@ -2336,26 +2353,5 @@
     "created_at": "16/09/2026 18:15",
     "created_at_iso": "2026-09-16T18:15:49",
     "created_ts": 1789582549
-  },
-  {
-    "id": "864704a92c250eaa43",
-    "title": "Caneta Marcadora acrílica Glitter Metalizada Ponta Dupla para Colorir…",
-    "raw_title": "Caneta Marcadora acrílica Glitter Metalizada Ponta Dupla para Colorir Brilhante 24/48/72/96/ 120Cores",
-    "description": "🔥 Oferta encontrada! 📌 Caneta Marcadora acrílica Glitter Metalizada Ponta Dupla para Colorir Brilhante 24/48/72/96/ 120Cores Confira os detalhes e aprov...",
-    "marketplace": "Shopee",
-    "category": "Papelaria",
-    "old_price": "",
-    "price": "R$ 15,80",
-    "discount_percent": 0.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgwep9jsu39g2e",
-    "affiliate_url": "https://s.shopee.com.br/112yI7Y8WA",
-    "created_at": "16/09/2026 17:20",
-    "created_at_iso": "2026-09-16T17:20:07",
-    "created_ts": 1789579207,
-    "niche": {
-      "key": "shopee_papelaria",
-      "name": "Papelaria"
-    }
   }
 ]

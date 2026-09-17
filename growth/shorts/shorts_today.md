@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 17/09/2026 00:18
+Gerado em: 17/09/2026 01:03
 
 ## Como usar
 
@@ -120,12 +120,10 @@ Gerado em: 17/09/2026 00:18
 
 - growth/shorts/slides/supermercados/01_intro.png
 - growth/shorts/slides/supermercados/02_produto_1.png
-- growth/shorts/slides/supermercados/03_produto_2.png
 - growth/shorts/slides/supermercados/05_cta.png
 
 **Produtos usados:**
 
 - Azeite Português Vila Oliva (3 Un)
-- Hidratante Creme Facial Pele De Porcelana Kokeshi 30g Milagre do Arroz
 
 ---

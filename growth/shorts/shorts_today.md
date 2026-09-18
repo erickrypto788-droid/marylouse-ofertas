@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 18/09/2026 03:22
+Gerado em: 18/09/2026 04:22
 
 ## Como usar
 
@@ -122,8 +122,8 @@ Gerado em: 18/09/2026 03:22
 
 **Produtos usados:**
 
+- Kit Banheiro Infantil Lego | Porta Escova + Porta Papel Higiênico + P…
 - Kit 2 Borrifadores de Azeite Vinagre Líquidos Pulverizador Culinário…
 - Kit 5 Potes Mantimentos Arroz Feijão Café Açúcar Sal Mickey e Minnie
-- Papel Higiênico Fofopel 16 Rolos
 
 ---

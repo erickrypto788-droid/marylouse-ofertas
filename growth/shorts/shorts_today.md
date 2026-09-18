@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 18/09/2026 07:04
+Gerado em: 18/09/2026 07:18
 
 ## Como usar
 
@@ -33,26 +33,6 @@ Gerado em: 18/09/2026 07:04
 - Kit Pano de Boca 12un 100% Algodão
 - Troninho Infantil JOYA KID com Escada
 - Fralda Pampers G 80 Unidades
-
----
-
-## Casa e Cozinha
-
-**Título sugerido:** 🍳 Ofertas de Casa e Cozinha atualizadas hoje
-
-**Descrição sugerida:** Ofertas de Casa e Cozinha selecionadas pela MaryLouse. Preços podem mudar. Veja no site. #MaryLouseOfertas #Ofertas #Achadinhos
-
-**Link/CTA:** https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html
-
-**Slides:**
-
-- growth/shorts/slides/casa_cozinha/01_intro.png
-- growth/shorts/slides/casa_cozinha/02_produto_1.png
-- growth/shorts/slides/casa_cozinha/05_cta.png
-
-**Produtos usados:**
-
-- Rack Yescasa Rack para TV até 70" jatoba terroso de mdp
 
 ---
 

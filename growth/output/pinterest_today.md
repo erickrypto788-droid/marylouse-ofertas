@@ -1,6 +1,6 @@
 # Pinterest Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 18/09/2026 07:04
+Gerado em: 18/09/2026 07:18
 
 ## Como usar
 
@@ -42,35 +42,7 @@ Categoria com 12 oferta(s) e boa intenção de compra.
 
 ---
 
-## Pin 2 — Casa e Cozinha
-
-**Tipo:** categoria
-
-**Board sugerido:** Achadinhos de Casa
-
-**Imagem para upload no Pinterest:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
-
-**Título:**
-
-🍳 Ofertas de Casa e Cozinha atualizadas hoje
-
-**Descrição:**
-
-Veja ofertas de Casa e Cozinha selecionadas pela MaryLouse Ofertas. Destaque de hoje: Rack Yescasa Rack para TV até 70" jatoba terroso de mdp. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
-
-**Link de destino do Pin:**
-
-https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=pinterest&utm_medium=organic&utm_campaign=pin_casa-cozinha
-
-**Por que postar:**
-
-Categoria com 1 oferta(s) e boa intenção de compra.
-
----
-
-## Pin 3 — Beleza
+## Pin 2 — Beleza
 
 **Tipo:** categoria
 
@@ -98,7 +70,7 @@ Categoria com 8 oferta(s) e boa intenção de compra.
 
 ---
 
-## Pin 4 — Celulares
+## Pin 3 — Celulares
 
 **Tipo:** categoria
 
@@ -123,6 +95,34 @@ https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=pinterest
 **Por que postar:**
 
 Categoria com 6 oferta(s) e boa intenção de compra.
+
+---
+
+## Pin 4 — Supermercados
+
+**Tipo:** categoria
+
+**Board sugerido:** Cupons e Promoções
+
+**Imagem para upload no Pinterest:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/supermercados.png
+
+**Título:**
+
+🛒 Ofertas de Supermercados atualizadas hoje
+
+**Descrição:**
+
+Veja ofertas de Supermercados selecionadas pela MaryLouse Ofertas. Destaque de hoje: Arroz Motigome 1kg. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+
+**Link de destino do Pin:**
+
+https://marylouse-ofertas.vercel.app/ofertas-supermercados.html?utm_source=pinterest&utm_medium=organic&utm_campaign=pin_supermercados
+
+**Por que postar:**
+
+Categoria com 2 oferta(s) e boa intenção de compra.
 
 ---
 

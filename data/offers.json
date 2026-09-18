@@ -1,5 +1,47 @@
 [
   {
+    "id": "7d595a68852bb7e7f8",
+    "title": "Bolsa Feminina TOMI MITO",
+    "raw_title": "TOMI MITO Bolsa Feminina com Alça Lateral Transversal Faixa de Mão de Couro B736",
+    "description": "✨ ARRASE COM ESTILO E ECONOMIA! ✨ A Bolsa Feminina TOMI MITO com Alça Transversal de Couro é perfeita para você! Leve seus itens essenciais com elegânci...",
+    "marketplace": "Shopee",
+    "category": "Bolsas Femininas",
+    "old_price": "R$ 130,41",
+    "price": "R$ 59,99",
+    "discount_percent": 54.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-824hz-mpj8tt3gjlkx51",
+    "affiliate_url": "https://s.shopee.com.br/9V1XwX2JtQ",
+    "created_at": "18/09/2026 07:17",
+    "created_at_iso": "2026-09-18T07:17:04",
+    "created_ts": 1789715824,
+    "niche": {
+      "key": "shopee_bolsas_femininas",
+      "name": "Bolsas Femininas"
+    }
+  },
+  {
+    "id": "cc1ab666b9d4f86d47",
+    "title": "Bolsa Feminina Baú Transversal Média",
+    "raw_title": "Bolsa Feminina Baú Transversal Média com Lenço Alça Tiracolo Estruturada e Espaçosa",
+    "description": "🚨 IMPERDÍVEL! Sua nova bolsa favorita chegou! Bolsa Feminina Baú Transversal Média com Lenço ✨ Perfeita para qualquer ocasião, espaçosa e super estilosa!",
+    "marketplace": "Shopee",
+    "category": "Bolsas Femininas",
+    "old_price": "R$ 121,15",
+    "price": "R$ 39,98",
+    "discount_percent": 67.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-825av-mrgkchcezqpu43",
+    "affiliate_url": "https://s.shopee.com.br/50Z9a3TZ8U",
+    "created_at": "18/09/2026 07:15",
+    "created_at_iso": "2026-09-18T07:15:52",
+    "created_ts": 1789715752,
+    "niche": {
+      "key": "shopee_bolsas_femininas",
+      "name": "Bolsas Femininas"
+    }
+  },
+  {
     "id": "5a6920ee7772076ab2",
     "title": "SSD NVMe 128GB Walram W2000",
     "raw_title": "SSD NVMe 128GB Walram W2000 M.2 2280",
@@ -2104,64 +2146,5 @@
       "key": "shopee_brinquedos_hobbies",
       "name": "Brinquedos e Hobbies"
     }
-  },
-  {
-    "id": "9c68a85f7a314df02b",
-    "title": "Boneca Reborn Girafinha",
-    "raw_title": "Boneca Reborn Girafinha 48cm Kit Completo com Roupinhas e Acessórios",
-    "description": "✨ Oferta IMPERDÍVEL para o presente dos sonhos! Sua pequena vai amar a Boneca Reborn Girafinha 48cm! 🦒 Kit Completo com Roupinhas e Acessórios, perfeita...",
-    "marketplace": "Shopee",
-    "category": "Brinquedos e Hobbies",
-    "old_price": "R$ 199,76",
-    "price": "R$ 83,90",
-    "discount_percent": 58.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820mh-mowusqnz7xfq8e",
-    "affiliate_url": "https://s.shopee.com.br/8V909agfof",
-    "created_at": "17/09/2026 07:16",
-    "created_at_iso": "2026-09-17T07:16:57",
-    "created_ts": 1789629417,
-    "niche": {
-      "key": "shopee_brinquedos_hobbies",
-      "name": "Brinquedos e Hobbies"
-    }
-  },
-  {
-    "id": "c91751c058e3f67819",
-    "title": "Bicicleta Infantil Aro 12 Nathor Menina",
-    "raw_title": "Bicicleta Infantil Aro 12 Freio Tambor 1 Marcha Cestinha Nathor C/ Rodinha Menina de 90cm a 1m",
-    "description": "🎁 Sua pequena merece essa alegria! Bicicleta Infantil Aro 12 Freio Tambor 1 Marcha Cestinha Nathor C/ Rodinha Menina de 90cm a 1m. Perfeita para as prim...",
-    "marketplace": "Shopee",
-    "category": "Brinquedos e Hobbies",
-    "old_price": "R$ 359,80",
-    "price": "R$ 179,90",
-    "discount_percent": 50.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134201-820lg-mqyemhwtko3o9e",
-    "affiliate_url": "https://s.shopee.com.br/9V1XLQTvgR",
-    "created_at": "17/09/2026 07:15",
-    "created_at_iso": "2026-09-17T07:15:46",
-    "created_ts": 1789629346,
-    "niche": {
-      "key": "shopee_brinquedos_hobbies",
-      "name": "Brinquedos e Hobbies"
-    }
-  },
-  {
-    "id": "3af0ccc50d756d4138",
-    "title": "Rack Yescasa Rack para TV até 70\" jatoba terroso de mdp",
-    "raw_title": "Rack Yescasa Rack para TV até 70\" jatoba terroso de mdp",
-    "description": "🔥 14% OFF — Oferta encontrada! 📌 Rack Yescasa Rack para TV até 70\" jatoba terroso de mdp Confira os detalhes e aproveite enquanto a oferta estiver dispo...",
-    "marketplace": "Mercado Livre",
-    "category": "Casa e Decoração",
-    "old_price": "R$ 999,98",
-    "price": "R$ 855,87",
-    "discount_percent": 14.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_984270-MLA111480956924_052026-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70627275?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "17/09/2026 07:03",
-    "created_at_iso": "2026-09-17T07:03:16",
-    "created_ts": 1789628596
   }
 ]

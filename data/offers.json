@@ -1,5 +1,22 @@
 [
   {
+    "id": "33f892f0c1ab55a429",
+    "title": "Luva Academia Musculação Fitness Tamanho P",
+    "raw_title": "Luva Academia Musculação Fitness Tamanho P",
+    "description": "🔥 33% OFF — Oferta encontrada! 📌 Luva Academia Musculação Fitness Tamanho P Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Esportes e Lazer",
+    "old_price": "R$ 40,00",
+    "price": "R$ 26,83",
+    "discount_percent": 33.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_826055-MLA110587103658_052026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB69134972?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "18/09/2026 20:02",
+    "created_at_iso": "2026-09-18T20:02:13",
+    "created_ts": 1789761733
+  },
+  {
     "id": "d6d88307986d6bee7d",
     "title": "Ventilador de Coluna Britânia Maxx Force 6 Pás 75W BVC31A",
     "raw_title": "Ventilador de Coluna Britânia Maxx Force 6 Pás 75W BVC31A",
@@ -2105,68 +2122,5 @@
     "created_at": "17/09/2026 20:02",
     "created_at_iso": "2026-09-17T20:02:27",
     "created_ts": 1789675347
-  },
-  {
-    "id": "2c5091c4c8b64772ba",
-    "title": "Kit 3 Pijama Verão Baby Doll PLUS SIZEl Short Doll MICRO ESTAMPADO E…",
-    "raw_title": "Kit 3 Pijama Verão Baby Doll PLUS SIZEl Short Doll MICRO ESTAMPADO E LISO Feminino Noite Fresquinho",
-    "description": "🔥 38% OFF — Oferta encontrada! 📌 Kit 3 Pijama Verão Baby Doll PLUS SIZEl Short Doll MICRO ESTAMPADO E LISO Feminino Noite Fresquinho Confira os detalhes...",
-    "marketplace": "Shopee",
-    "category": "Roupas Plus Size",
-    "old_price": "R$ 59,65",
-    "price": "R$ 36,98",
-    "discount_percent": 38.0,
-    "rating": 4.5,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-82271-mhjcc86h9ts36c",
-    "affiliate_url": "https://s.shopee.com.br/1qc6wfNcNt",
-    "created_at": "17/09/2026 19:21",
-    "created_at_iso": "2026-09-17T19:21:12",
-    "created_ts": 1789672872,
-    "niche": {
-      "key": "shopee_roupas_plus_size",
-      "name": "Roupas Plus Size"
-    }
-  },
-  {
-    "id": "6bf9c65e050a49db73",
-    "title": "Body Plus Size Decote V Tule",
-    "raw_title": "Body Feminino Plus Size Decote V Manga tule Elegante Festa",
-    "description": "ARRASO garantido! ✨ Body Feminino Plus Size Decote V Manga tule Elegante Festa. Ideal para qualquer ocasião especial, um toque de sofisticação que você...",
-    "marketplace": "Shopee",
-    "category": "Roupas Plus Size",
-    "old_price": "R$ 37,51",
-    "price": "R$ 30,01",
-    "discount_percent": 20.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m7-mlbivtb1kr9gd3",
-    "affiliate_url": "https://s.shopee.com.br/8AWAUIqhwI",
-    "created_at": "17/09/2026 19:20",
-    "created_at_iso": "2026-09-17T19:20:07",
-    "created_ts": 1789672807,
-    "niche": {
-      "key": "shopee_roupas_plus_size",
-      "name": "Roupas Plus Size"
-    }
-  },
-  {
-    "id": "75ecc6bd46aa4ccdf6",
-    "title": "Sutiã Plus Size Base Cruzada Reforçado, efeito Up, com bojo.",
-    "raw_title": "Sutiã Plus Size Base Cruzada Reforçado, efeito Up, com bojo.",
-    "description": "🔥 Oferta encontrada! 📌 Sutiã Plus Size Base Cruzada Reforçado, efeito Up, com bojo. Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Shopee",
-    "category": "Roupas Plus Size",
-    "old_price": "",
-    "price": "R$ 37,37",
-    "discount_percent": 0.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820l5-mnlzsl8mujghd9",
-    "affiliate_url": "https://s.shopee.com.br/4fwIJsCpdG",
-    "created_at": "17/09/2026 19:18",
-    "created_at_iso": "2026-09-17T19:18:57",
-    "created_ts": 1789672737,
-    "niche": {
-      "key": "shopee_roupas_plus_size",
-      "name": "Roupas Plus Size"
-    }
   }
 ]

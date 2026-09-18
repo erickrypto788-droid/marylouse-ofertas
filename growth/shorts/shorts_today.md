@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 18/09/2026 13:21
+Gerado em: 18/09/2026 14:21
 
 ## Como usar
 
@@ -123,7 +123,7 @@ Gerado em: 18/09/2026 13:21
 **Produtos usados:**
 
 - Kit Banheiro Infantil Lego | Porta Escova + Porta Papel Higiênico + P…
-- Kit 2 Borrifadores de Azeite Vinagre Líquidos Pulverizador Culinário…
 - Puff Orgânico Curvo - 1 Metro Elegância e Conforto Moderno Feijao mod…
+- Arroz Motigome 1kg
 
 ---

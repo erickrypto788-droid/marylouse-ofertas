@@ -1,5 +1,47 @@
 [
   {
+    "id": "7bc2140373fd78ebd3",
+    "title": "Nintendo Switch OLED + Mario + NSO",
+    "raw_title": "Console Nintendo Switch OLED + Super Mario Bros + 3 Meses NSO",
+    "description": "🎮 IMPERDÍVEL! Leve a diversão para outro nível! Console Nintendo Switch OLED + Super Mario Bros + 3 Meses NSO! Aproveite o melhor dos jogos com tela vib...",
+    "marketplace": "Shopee",
+    "category": "Jogos e Consoles",
+    "old_price": "R$ 2.726,26",
+    "price": "R$ 2.699,00",
+    "discount_percent": 1.0,
+    "rating": 5.0,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820ld-mrhncjeix1jae6",
+    "affiliate_url": "https://s.shopee.com.br/5q8GuCOz7Y",
+    "created_at": "18/09/2026 12:17",
+    "created_at_iso": "2026-09-18T12:17:10",
+    "created_ts": 1789733830,
+    "niche": {
+      "key": "shopee_jogos_consoles",
+      "name": "Jogos e Consoles"
+    }
+  },
+  {
+    "id": "417e9896f79defb281",
+    "title": "Console Nintendo Switch 2 – Modelo Nacional",
+    "raw_title": "Console Nintendo Switch 2 – Modelo Nacional",
+    "description": "🔥 28% OFF — Oferta encontrada! 📌 Console Nintendo Switch 2 – Modelo Nacional Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Shopee",
+    "category": "Jogos e Consoles",
+    "old_price": "R$ 5.970,83",
+    "price": "R$ 4.299,00",
+    "discount_percent": 28.0,
+    "rating": 4.7,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820la-mqm71s2ir9q819",
+    "affiliate_url": "https://s.shopee.com.br/7ptLHsHN3s",
+    "created_at": "18/09/2026 12:15",
+    "created_at_iso": "2026-09-18T12:15:58",
+    "created_ts": 1789733758,
+    "niche": {
+      "key": "shopee_jogos_consoles",
+      "name": "Jogos e Consoles"
+    }
+  },
+  {
     "id": "f4c5d59245d52ff318",
     "title": "Ração Harmony Adultos Pequenos 10,1kg",
     "raw_title": "Ração Cachorro Selection Adultos Pequenos 10,1kg Harmony",
@@ -2118,48 +2160,6 @@
     "created_at": "17/09/2026 12:18",
     "created_at_iso": "2026-09-17T12:18:03",
     "created_ts": 1789647483,
-    "niche": {
-      "key": "shopee_papelaria",
-      "name": "Papelaria"
-    }
-  },
-  {
-    "id": "72414accbee9d5183e",
-    "title": "Kit 6 Canetas Marca Texto em Gel Masterprint Não Mancha Ideal para Bí…",
-    "raw_title": "Kit 6 Canetas Marca Texto em Gel Masterprint Não Mancha Ideal para Bíblia Vade Mecum e Estudos",
-    "description": "🔥 55% OFF — Oferta encontrada! 📌 Kit 6 Canetas Marca Texto em Gel Masterprint Não Mancha Ideal para Bíblia Vade Mecum e Estudos Confira os detalhes e ap...",
-    "marketplace": "Shopee",
-    "category": "Papelaria",
-    "old_price": "R$ 39,98",
-    "price": "R$ 17,99",
-    "discount_percent": 55.0,
-    "rating": 5.0,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820la-mr369qrrp3baea",
-    "affiliate_url": "https://s.shopee.com.br/2VrnLAXEsL",
-    "created_at": "17/09/2026 12:16",
-    "created_at_iso": "2026-09-17T12:16:54",
-    "created_ts": 1789647414,
-    "niche": {
-      "key": "shopee_papelaria",
-      "name": "Papelaria"
-    }
-  },
-  {
-    "id": "6e25b09f6d254abf94",
-    "title": "Kit 4 Canetas Permanentes Dupla Ponta",
-    "raw_title": "Kit 4 Caneta permanente de acrílico com ponta dupla em metal para resina, artesanato e artigos de papelaria.",
-    "description": "🎨 Crie sem limites! Kit 4 Canetas permanentes de acrílico com ponta dupla em metal, perfeito para resina, artesanato e papelaria. ✍️ Um desconto de 77%...",
-    "marketplace": "Shopee",
-    "category": "Papelaria",
-    "old_price": "R$ 80,39",
-    "price": "R$ 18,49",
-    "discount_percent": 77.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-82287-mhuirr3v4glcba",
-    "affiliate_url": "https://s.shopee.com.br/1ASMZgkwo",
-    "created_at": "17/09/2026 12:15",
-    "created_at_iso": "2026-09-17T12:15:50",
-    "created_ts": 1789647350,
     "niche": {
       "key": "shopee_papelaria",
       "name": "Papelaria"

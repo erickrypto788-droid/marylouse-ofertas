@@ -1,5 +1,22 @@
 [
   {
+    "id": "b7f70a90e916909efe",
+    "title": "Livro Tchauzinho, Fralda",
+    "raw_title": "Livro Tchauzinho, Fralda",
+    "description": "🔥 Oferta encontrada! 📌 Livro Tchauzinho, Fralda Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Papelaria",
+    "old_price": "",
+    "price": "R$ 196,88",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_760437-MLA112057174990_062026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB73518090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "18/09/2026 13:01",
+    "created_at_iso": "2026-09-18T13:01:47",
+    "created_ts": 1789736507
+  },
+  {
     "id": "7bc2140373fd78ebd3",
     "title": "Nintendo Switch OLED + Mario + NSO",
     "raw_title": "Console Nintendo Switch OLED + Super Mario Bros + 3 Meses NSO",
@@ -2101,68 +2118,5 @@
     "created_at": "17/09/2026 13:01",
     "created_at_iso": "2026-09-17T13:01:51",
     "created_ts": 1789650111
-  },
-  {
-    "id": "7f34497296f520b692",
-    "title": "Adesivos Personalizados 4x4 cm - 1000 unidades, 500, 300 ou 200 unida…",
-    "raw_title": "Adesivos Personalizados 4x4 cm - 1000 unidades, 500, 300 ou 200 unidades - Com sua logo ou arte",
-    "description": "🔥 44% OFF — Oferta encontrada! 📌 Adesivos Personalizados 4x4 cm - 1000 unidades, 500, 300 ou 200 unidades - Com sua logo ou arte Confira os detalhes e a...",
-    "marketplace": "Shopee",
-    "category": "Papelaria",
-    "old_price": "R$ 32,70",
-    "price": "R$ 18,31",
-    "discount_percent": 44.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lt-mo34wuhsuebo5f",
-    "affiliate_url": "https://s.shopee.com.br/70KChR2lvn",
-    "created_at": "17/09/2026 12:20",
-    "created_at_iso": "2026-09-17T12:20:11",
-    "created_ts": 1789647611,
-    "niche": {
-      "key": "shopee_papelaria",
-      "name": "Papelaria"
-    }
-  },
-  {
-    "id": "7f6699a8a575fd52bc",
-    "title": "Caderneta Tipo Moleskine SKETCHBOOK Agenda Pauta Liso Wire-o Espiral…",
-    "raw_title": "Caderneta Tipo Moleskine SKETCHBOOK Agenda Pauta Liso Wire-o Espiral Caderno Bloco Anotação Desenho",
-    "description": "🔥 33% OFF — Oferta encontrada! 📌 Caderneta Tipo Moleskine SKETCHBOOK Agenda Pauta Liso Wire-o Espiral Caderno Bloco Anotação Desenho Confira os detalhes...",
-    "marketplace": "Shopee",
-    "category": "Papelaria",
-    "old_price": "R$ 37,16",
-    "price": "R$ 24,90",
-    "discount_percent": 33.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-8227t-mhj4xm9a7h1ie5",
-    "affiliate_url": "https://s.shopee.com.br/4VcriqPQ6m",
-    "created_at": "17/09/2026 12:19",
-    "created_at_iso": "2026-09-17T12:19:07",
-    "created_ts": 1789647547,
-    "niche": {
-      "key": "shopee_papelaria",
-      "name": "Papelaria"
-    }
-  },
-  {
-    "id": "b3af75f127f984130d",
-    "title": "Caderno Inteligente A5/B5/A4",
-    "raw_title": "Caderno Inteligente A5/B5/A4 Capa Dura Pautado 80 Folhas Caderno Diário Agenda Planner",
-    "description": "📚 Organize suas ideias e tarefas com o Caderno Inteligente! Perfeito para estudos, trabalho ou para o seu dia a dia, ele se adapta às suas necessidades....",
-    "marketplace": "Shopee",
-    "category": "Papelaria",
-    "old_price": "R$ 68,54",
-    "price": "R$ 23,99",
-    "discount_percent": 65.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbuiwiywqont04",
-    "affiliate_url": "https://s.shopee.com.br/5AsYW4Mskq",
-    "created_at": "17/09/2026 12:18",
-    "created_at_iso": "2026-09-17T12:18:03",
-    "created_ts": 1789647483,
-    "niche": {
-      "key": "shopee_papelaria",
-      "name": "Papelaria"
-    }
   }
 ]

@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 18/09/2026 10:21
+Gerado em: 18/09/2026 11:21
 
 ## Como usar
 
@@ -33,6 +33,26 @@ Gerado em: 18/09/2026 10:21
 - Fralda Pampers G 80 Unidades
 - Berço Portátil Infantil Cercado Desmontável Com Mosquiteiro pocket Ci…
 - Bebê Reborn 100% Silicone Realista
+
+---
+
+## Casa e Cozinha
+
+**Título sugerido:** 🍳 Ofertas de Casa e Cozinha atualizadas hoje
+
+**Descrição sugerida:** Ofertas de Casa e Cozinha selecionadas pela MaryLouse. Preços podem mudar. Veja no site. #MaryLouseOfertas #Ofertas #Achadinhos
+
+**Link/CTA:** https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html
+
+**Slides:**
+
+- growth/shorts/slides/casa_cozinha/01_intro.png
+- growth/shorts/slides/casa_cozinha/02_produto_1.png
+- growth/shorts/slides/casa_cozinha/05_cta.png
+
+**Produtos usados:**
+
+- Chaleira Elétrica Inox 1,8L 1000W ou 1200W Desligamento Automático -…
 
 ---
 
@@ -104,6 +124,6 @@ Gerado em: 18/09/2026 10:21
 
 - Kit Banheiro Infantil Lego | Porta Escova + Porta Papel Higiênico + P…
 - Kit 2 Borrifadores de Azeite Vinagre Líquidos Pulverizador Culinário…
-- Kit 5 Potes Mantimentos Arroz Feijão Café Açúcar Sal Mickey e Minnie
+- Puff Orgânico Curvo - 1 Metro Elegância e Conforto Moderno Feijao mod…
 
 ---

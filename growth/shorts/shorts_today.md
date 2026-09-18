@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 18/09/2026 20:20
+Gerado em: 18/09/2026 21:22
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 18/09/2026 20:20
 **Produtos usados:**
 
 - Fralda Pampers G 80 Unidades
+- Tênis Branco Unissex Infantil e Baby, Conforto e Elegância para Crian…
 - Kit 3 T-Shirt Algodão 30.1 Comfort Confortavel Estilosa Baby Look Cas…
-- Berço Portátil Infantil Cercado Desmontável Com Mosquiteiro pocket Ci…
 
 ---
 

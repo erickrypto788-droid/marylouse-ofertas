@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 18/09/2026 04:22
+Gerado em: 18/09/2026 05:18
 
 ## Como usar
 
@@ -147,14 +147,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/saude.png
 ```txt
 ❤️ Oferta para Saúde
 
-Monitor de Pressão Digital de Pulso AUXOM
+Oxímetro Infantil Neonatal Pediátrico De Dedo Digital Crianças Medido…
 
-💸 De: R$ 114,68
-🔥 Por: R$ 38,99
-🏷️ 66% OFF
+💸 De: R$ 66,36
+🔥 Por: R$ 25,88
+🏷️ 61% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/80CjcnXM0j
+Ver oferta: https://s.shopee.com.br/8Kpa1Pf5jM
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

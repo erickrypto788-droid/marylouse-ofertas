@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 18/09/2026 07:18
+Gerado em: 18/09/2026 08:22
 
 ## Categorias prioritárias
 
 - 🍼 **Mãe e Bebê**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 💻 **Informática**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 📦 **Outros**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
-- 💻 **Informática**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- ❤️ **Saúde**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 💄 **Beleza**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 🧸 **Brinquedos**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 👗 **Moda Feminina**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
+- 👜 **Bolsas**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 - 🏋️ **Esportes**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 👟 **Calçados**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 👕 **Moda Masculina**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 
 ## Top ofertas para destacar
 
@@ -45,47 +45,47 @@ Gerado em: 18/09/2026 07:18
    - Desconto: 50% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB77141871?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-5. **Carregador 168w Para Celular Com Type C Tipo C**
+5. **Mochila Escolar Reforçada Notebook Impermeável**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 29,90
+   - Desconto: 41% OFF
+   - Link: https://s.shopee.com.br/2BEyGxyOr8
+
+6. **Carregador 168w Para Celular Com Type C Tipo C**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 25,88
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/LnJQOU8VD
 
-6. **Fralda Pampers Supersequinha Mega P**
+7. **Fralda Pampers Supersequinha Mega P**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 45,99
    - Desconto: 32% OFF
    - Link: https://s.shopee.com.br/7Kx2tgToiT
 
-7. **Fralda Pampers G 80 Unidades**
+8. **Fralda Pampers G 80 Unidades**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 99,99
    - Desconto: 29% OFF
    - Link: https://s.shopee.com.br/3LQvWryC8o
 
-8. **Oxímetro Infantil Neonatal Pediátrico De Dedo Digital Crianças Medido…**
+9. **Oxímetro Infantil Neonatal Pediátrico De Dedo Digital Crianças Medido…**
    - Categoria: Saúde
    - Loja: Shopee
    - Preço: R$ 25,88
    - Desconto: 61% OFF
    - Link: https://s.shopee.com.br/8Kpa1Pf5jM
 
-9. **Pendrive HP USB 2.0 Metal 2TB Giratório De Alta Velocidade Para Smart…**
+10. **Pendrive HP USB 2.0 Metal 2TB Giratório De Alta Velocidade Para Smart…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 33,99
    - Desconto: 64% OFF
    - Link: https://s.shopee.com.br/5VVPZssf7S
-
-10. **Monitor Gamer Acer KG243Y 23.8" Full HD 144Hz IPS HDMI P1bip - Preto…**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 657,90
-   - Desconto: 59% OFF
-   - Link: https://s.shopee.com.br/6L4VyL7QJW
 
 ## Ações gratuitas recomendadas
 

@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 18/09/2026 13:03
+Gerado em: 18/09/2026 13:21
 
 ## Como usar
 
@@ -102,7 +102,37 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Moda e Calçados
+## Post 4 — Moda Feminina
+
+**Canal recomendado:** Moda Feminina
+
+**Horário sugerido:** 12:00 - 14:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
+
+**Texto pronto:**
+
+```txt
+👗 Oferta para Moda Feminina
+
+Calça Lanzinha Inverno
+
+💸 De: R$ 99,90
+🔥 Por: R$ 29,97
+🏷️ 70% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/3LQvzi69W9
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 5 — Moda e Calçados
 
 **Canal recomendado:** Moda e Calçados
 
@@ -132,7 +162,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 5 — Saúde
+## Post 6 — Saúde
 
 **Canal recomendado:** Saúde e Bem-estar
 
@@ -155,36 +185,6 @@ Oxímetro Infantil Neonatal Pediátrico De Dedo Digital Crianças Medido…
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/8Kpa1Pf5jM
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 6 — Moda Feminina
-
-**Canal recomendado:** Moda Feminina
-
-**Horário sugerido:** 12:00 - 14:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
-
-**Texto pronto:**
-
-```txt
-👗 Oferta para Moda Feminina
-
-Vestido Feminino Viscolycra Estampado Com Transpassado Casual Confort…
-
-💸 De: R$ 121,55
-🔥 Por: R$ 61,99
-🏷️ 49% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/40gbWe2Esd
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

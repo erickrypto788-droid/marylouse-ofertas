@@ -1,14 +1,14 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 18/09/2026 13:03
+Gerado em: 18/09/2026 13:21
 
 ## Categorias prioritárias
 
-- 📦 **Outros**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
-- 💻 **Informática**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 📱 **Celulares**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
-- 🍼 **Mãe e Bebê**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 👗 **Moda Feminina**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
+- 📦 **Outros**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 👗 **Moda Feminina**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
+- 🍼 **Mãe e Bebê**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 💻 **Informática**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 🏋️ **Esportes**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 💄 **Beleza**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 👟 **Calçados**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
@@ -38,54 +38,54 @@ Gerado em: 18/09/2026 13:03
    - Desconto: 51% OFF
    - Link: https://s.shopee.com.br/4LJSO6QSRv
 
-4. **Unidade De Estado Sólido Portátil SSD Externa E61 4TB 128TB 1TB 2TB T…**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 57,46
-   - Desconto: 74% OFF
-   - Link: https://s.shopee.com.br/2gBDbbPzID
-
-5. **Mochila Escolar Reforçada Notebook Impermeável**
+4. **Mochila Escolar Reforçada Notebook Impermeável**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 29,90
    - Desconto: 41% OFF
    - Link: https://s.shopee.com.br/2BEyGxyOr8
 
-6. **Carregador 168w Para Celular Com Type C Tipo C**
+5. **Carregador 168w Para Celular Com Type C Tipo C**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 25,88
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/LnJQOU8VD
 
-7. **Mouse Gamer TGT GM50**
+6. **Mouse Gamer TGT GM50**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 27,90
    - Desconto: 64% OFF
    - Link: https://s.shopee.com.br/70KClZ0UEL
 
-8. **Fralda Pampers G 80 Unidades**
+7. **Fralda Pampers G 80 Unidades**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 99,99
    - Desconto: 29% OFF
    - Link: https://s.shopee.com.br/3LQvWryC8o
 
-9. **Oxímetro Infantil Neonatal Pediátrico De Dedo Digital Crianças Medido…**
+8. **Oxímetro Infantil Neonatal Pediátrico De Dedo Digital Crianças Medido…**
    - Categoria: Saúde
    - Loja: Shopee
    - Preço: R$ 25,88
    - Desconto: 61% OFF
    - Link: https://s.shopee.com.br/8Kpa1Pf5jM
 
-10. **Pendrive HP USB 2.0 Metal 2TB Giratório De Alta Velocidade Para Smart…**
+9. **Pendrive HP USB 2.0 Metal 2TB Giratório De Alta Velocidade Para Smart…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 33,99
    - Desconto: 64% OFF
    - Link: https://s.shopee.com.br/5VVPZssf7S
+
+10. **Kit 3 T-Shirt Algodão 30.1 Comfort Confortavel Estilosa Baby Look Cas…**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 49,99
+   - Desconto: 44% OFF
+   - Link: https://s.shopee.com.br/5AsaB4qRUY
 
 ## Ações gratuitas recomendadas
 

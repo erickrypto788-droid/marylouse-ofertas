@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 18/09/2026 13:03
+Gerado em: 18/09/2026 13:21
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 18/09/2026 13:03
 **Produtos usados:**
 
 - Fralda Pampers G 80 Unidades
+- Kit 3 T-Shirt Algodão 30.1 Comfort Confortavel Estilosa Baby Look Cas…
 - Berço Portátil Infantil Cercado Desmontável Com Mosquiteiro pocket Ci…
-- Bebê Reborn 100% Silicone Realista
 
 ---
 
@@ -100,7 +100,7 @@ Gerado em: 18/09/2026 13:03
 
 - Carregador 168w Para Celular Com Type C Tipo C
 - Pendrive HP USB 2.0 Metal 2TB Giratório De Alta Velocidade Para Smart…
-- Kit com 3/6/12/20 Unidades Protetor Tampa Câmera Webcam Anti-espião N…
+- Samsung Galaxy A06 5G
 
 ---
 

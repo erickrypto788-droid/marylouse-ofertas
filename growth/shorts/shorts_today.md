@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 18/09/2026 02:03
+Gerado em: 18/09/2026 02:24
 
 ## Como usar
 
@@ -104,7 +104,7 @@ Gerado em: 18/09/2026 02:03
 
 - Carregador 168w Para Celular Com Type C Tipo C
 - Pendrive HP USB 2.0 Metal 2TB Giratório De Alta Velocidade Para Smart…
-- Cabo 4 em 1 Carregamento Rápido PD 65W USB Tipo C Lightning Duplo Nyl…
+- Kit com 3/6/12/20 Unidades Protetor Tampa Câmera Webcam Anti-espião N…
 
 ---
 

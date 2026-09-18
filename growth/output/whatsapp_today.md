@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 18/09/2026 02:03
+Gerado em: 18/09/2026 02:24
 
 ## Como usar
 
@@ -117,14 +117,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
 ```txt
 👟 Oferta para Moda e Calçados
 
-Tênis Feminino Caminhada e Academia
+Kit 3 Pares Chinelo Infantil Menina Sortido Confortável Leve Macio
 
-💸 De: R$ 157,32
-🔥 Por: R$ 53,49
-🏷️ 66% OFF
+💸 De: R$ 69,75
+🔥 Por: R$ 27,90
+🏷️ 60% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/2gBE8YNOyl
+Ver oferta: https://s.shopee.com.br/6Al6davTAG
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

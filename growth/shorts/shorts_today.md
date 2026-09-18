@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 18/09/2026 09:27
+Gerado em: 18/09/2026 10:21
 
 ## Como usar
 
@@ -56,7 +56,7 @@ Gerado em: 18/09/2026 09:27
 
 - Perfumes Brand Collection 25ml
 - Secador Profissional LONYAN 8020
-- Perfume Millions Masculino
+- Kit Maquina Cortar Cabelo + Maquina Barbeador Recarregavel
 
 ---
 

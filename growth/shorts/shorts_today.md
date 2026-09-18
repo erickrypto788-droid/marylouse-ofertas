@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 18/09/2026 09:06
+Gerado em: 18/09/2026 09:27
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 18/09/2026 09:06
 
 **Produtos usados:**
 
-- Kit Pano de Boca 12un 100% Algodão
-- Troninho Infantil JOYA KID com Escada
 - Fralda Pampers G 80 Unidades
+- Berço Portátil Infantil Cercado Desmontável Com Mosquiteiro pocket Ci…
+- Bebê Reborn 100% Silicone Realista
 
 ---
 

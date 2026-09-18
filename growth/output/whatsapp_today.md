@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 18/09/2026 17:18
+Gerado em: 18/09/2026 18:06
 
 ## Como usar
 
@@ -132,7 +132,37 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 5 — Moda e Calçados
+## Post 5 — Casa e Cozinha
+
+**Canal recomendado:** Casa e Cozinha
+
+**Horário sugerido:** 18:00 - 20:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
+
+**Texto pronto:**
+
+```txt
+🍳 Oferta para Casa e Cozinha
+
+Jogo Panelas 5 Peças Tradicional Preto Nacional
+
+💸 De: R$ 233,90
+🔥 Por: R$ 164,80
+🏷️ 30% OFF
+🛒 Loja: Mercado Livre
+
+Ver oferta: https://www.mercadolivre.com.br/p/MLB50984468?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 6 — Moda e Calçados
 
 **Canal recomendado:** Moda e Calçados
 
@@ -155,36 +185,6 @@ Kit 3 Pares Chinelo Infantil Menina Sortido Confortável Leve Macio
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/6Al6davTAG
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 6 — Saúde
-
-**Canal recomendado:** Saúde e Bem-estar
-
-**Horário sugerido:** 09:00 - 11:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/saude.png
-
-**Texto pronto:**
-
-```txt
-❤️ Oferta para Saúde
-
-Oxímetro Infantil Neonatal Pediátrico De Dedo Digital Crianças Medido…
-
-💸 De: R$ 66,36
-🔥 Por: R$ 25,88
-🏷️ 61% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/8Kpa1Pf5jM
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 18/09/2026 22:39
+Gerado em: 18/09/2026 23:22
 
 ## Como usar
 
@@ -147,14 +147,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
 ```txt
 🍼 Oferta para Mamãe e Bebê
 
-Fralda Pampers G 80 Unidades
+Baby Doll FB Alcinha Personagens Malha Premium Fresquinho Short Doll…
 
-💸 De: R$ 140,83
-🔥 Por: R$ 99,99
-🏷️ 29% OFF
+💸 De: R$ 88,93
+🔥 Por: R$ 24,90
+🏷️ 72% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/3LQvWryC8o
+Ver oferta: https://s.shopee.com.br/8AWCPncOzA
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

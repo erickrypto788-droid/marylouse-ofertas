@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 18/09/2026 22:21
+Gerado em: 18/09/2026 23:22
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 18/09/2026 22:21
 
 **Produtos usados:**
 
+- Baby Doll FB Alcinha Personagens Malha Premium Fresquinho Short Doll…
 - Fralda Pampers G 80 Unidades
 - Tênis Branco Unissex Infantil e Baby, Conforto e Elegância para Crian…
-- Kit 3 T-Shirt Algodão 30.1 Comfort Confortavel Estilosa Baby Look Cas…
 
 ---
 
@@ -103,8 +103,8 @@ Gerado em: 18/09/2026 22:21
 **Produtos usados:**
 
 - Suporte De Celular Para Moto Bike Á Prova Dágua 360° Articulado Serve…
-- Carregador 168w Para Celular Com Type C Tipo C
 - Kit 2 Cartões de Memória 128GB Ultra
+- Mini Carregador Portátil Power Bank
 
 ---
 

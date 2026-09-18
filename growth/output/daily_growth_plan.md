@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 18/09/2026 22:39
+Gerado em: 18/09/2026 23:22
 
 ## Categorias prioritárias
 
+- 🍼 **Mãe e Bebê**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🏋️ **Esportes**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 📦 **Outros**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
-- 🍼 **Mãe e Bebê**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 💄 **Beleza**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
-- 👗 **Moda Feminina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
+- 🧸 **Brinquedos**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
+- 📦 **Outros**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 💻 **Informática**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 🧒 **Moda Infantil**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-infantil.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-infantil
-- 🔌 **Eletrodomésticos**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-eletrodomesticos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_eletrodomesticos
 
 ## Top ofertas para destacar
 
@@ -73,12 +73,12 @@ Gerado em: 18/09/2026 22:39
    - Desconto: 41% OFF
    - Link: https://s.shopee.com.br/2BEyGxyOr8
 
-9. **Carregador 168w Para Celular Com Type C Tipo C**
-   - Categoria: Celulares
+9. **Baby Doll FB Alcinha Personagens Malha Premium Fresquinho Short Doll…**
+   - Categoria: Mãe e Bebê
    - Loja: Shopee
-   - Preço: R$ 25,88
-   - Desconto: 40% OFF
-   - Link: https://s.shopee.com.br/LnJQOU8VD
+   - Preço: R$ 24,90
+   - Desconto: 72% OFF
+   - Link: https://s.shopee.com.br/8AWCPncOzA
 
 10. **Papete Infantil Confortável**
    - Categoria: Pet

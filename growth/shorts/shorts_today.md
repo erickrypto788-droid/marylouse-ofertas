@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 18/09/2026 18:06
+Gerado em: 18/09/2026 18:21
 
 ## Como usar
 
@@ -103,8 +103,8 @@ Gerado em: 18/09/2026 18:06
 **Produtos usados:**
 
 - Carregador 168w Para Celular Com Type C Tipo C
-- Pendrive HP USB 2.0 Metal 2TB Giratório De Alta Velocidade Para Smart…
-- Samsung Galaxy A06 5G
+- Kit 2 Cartões de Memória 128GB Ultra
+- Mini Carregador Portátil Power Bank
 
 ---
 

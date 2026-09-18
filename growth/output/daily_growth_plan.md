@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 18/09/2026 18:06
+Gerado em: 18/09/2026 18:21
 
 ## Categorias prioritárias
 
+- 📦 **Outros**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 👟 **Calçados**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 🍼 **Mãe e Bebê**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - ✨ **Moda Plus Size**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
 - 👗 **Moda Feminina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
-- 📦 **Outros**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 💻 **Informática**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 🏋️ **Esportes**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 💄 **Beleza**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 👕 **Moda Masculina**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
-- 📱 **Celulares**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 
 ## Top ofertas para destacar
 
@@ -59,33 +59,33 @@ Gerado em: 18/09/2026 18:06
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/LnJQOU8VD
 
-7. **Fralda Pampers Pants XXG**
+7. **Kit 2 Cartões de Memória 128GB Ultra**
+   - Categoria: Celulares
+   - Loja: Shopee
+   - Preço: R$ 32,98
+   - Desconto: 77% OFF
+   - Link: https://s.shopee.com.br/6Al7hWGQcj
+
+8. **Mini Carregador Portátil Power Bank**
+   - Categoria: Celulares
+   - Loja: Shopee
+   - Preço: R$ 26,99
+   - Desconto: 70% OFF
+   - Link: https://s.shopee.com.br/8KpcHV7yUb
+
+9. **Fralda Pampers Pants XXG**
    - Categoria: Mãe e Bebê
    - Loja: Mercado Livre
    - Preço: R$ 143,64
    - Desconto: 15% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB18715385?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-8. **Mouse Gamer TGT GM50**
+10. **Mouse Gamer TGT GM50**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 27,90
    - Desconto: 64% OFF
    - Link: https://s.shopee.com.br/70KClZ0UEL
-
-9. **Fralda Pampers G 80 Unidades**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 99,99
-   - Desconto: 29% OFF
-   - Link: https://s.shopee.com.br/3LQvWryC8o
-
-10. **Oxímetro Infantil Neonatal Pediátrico De Dedo Digital Crianças Medido…**
-   - Categoria: Saúde
-   - Loja: Shopee
-   - Preço: R$ 25,88
-   - Desconto: 61% OFF
-   - Link: https://s.shopee.com.br/8Kpa1Pf5jM
 
 ## Ações gratuitas recomendadas
 

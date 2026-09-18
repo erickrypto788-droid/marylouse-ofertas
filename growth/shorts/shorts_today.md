@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 18/09/2026 21:22
+Gerado em: 18/09/2026 22:21
 
 ## Como usar
 
@@ -102,9 +102,9 @@ Gerado em: 18/09/2026 21:22
 
 **Produtos usados:**
 
+- Suporte De Celular Para Moto Bike Á Prova Dágua 360° Articulado Serve…
 - Carregador 168w Para Celular Com Type C Tipo C
 - Kit 2 Cartões de Memória 128GB Ultra
-- Mini Carregador Portátil Power Bank
 
 ---
 
@@ -121,13 +121,11 @@ Gerado em: 18/09/2026 21:22
 - growth/shorts/slides/supermercados/01_intro.png
 - growth/shorts/slides/supermercados/02_produto_1.png
 - growth/shorts/slides/supermercados/03_produto_2.png
-- growth/shorts/slides/supermercados/04_produto_3.png
 - growth/shorts/slides/supermercados/05_cta.png
 
 **Produtos usados:**
 
 - Kit Banheiro Infantil Lego | Porta Escova + Porta Papel Higiênico + P…
 - Puff Orgânico Curvo - 1 Metro Elegância e Conforto Moderno Feijao mod…
-- Arroz Motigome 1kg
 
 ---

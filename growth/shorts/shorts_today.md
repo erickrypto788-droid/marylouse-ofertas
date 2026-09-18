@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 18/09/2026 05:18
+Gerado em: 18/09/2026 06:22
 
 ## Como usar
 
@@ -32,7 +32,7 @@ Gerado em: 18/09/2026 05:18
 
 - Kit Pano de Boca 12un 100% Algodão
 - Troninho Infantil JOYA KID com Escada
-- Fralda Pampers Supersequinha Mega P
+- Fralda Pampers G 80 Unidades
 
 ---
 

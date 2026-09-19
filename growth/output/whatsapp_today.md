@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 19/09/2026 16:03
+Gerado em: 19/09/2026 16:22
 
 ## Como usar
 
@@ -12,7 +12,37 @@ Gerado em: 19/09/2026 16:03
 
 ---
 
-## Post 1 — Casa e Cozinha
+## Post 1 — Beleza e Cuidados
+
+**Canal recomendado:** Beleza e Cuidados
+
+**Horário sugerido:** 12:00 - 15:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
+
+**Texto pronto:**
+
+```txt
+💄 Oferta para Beleza e Cuidados
+
+Escova Secadora 3 em 1 Profissional
+
+💸 De: R$ 199,97
+🔥 Por: R$ 77,99
+🏷️ 61% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/6q0pxOVQDC
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 2 — Casa e Cozinha
 
 **Canal recomendado:** Casa e Cozinha
 
@@ -42,7 +72,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 2 — Celulares e Tecnologia
+## Post 3 — Celulares e Tecnologia
 
 **Canal recomendado:** Celulares e Tecnologia
 
@@ -65,36 +95,6 @@ Suporte De Celular Para Moto Bike Á Prova Dágua 360° Articulado Serve…
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/6Al7y0Py0Q
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 3 — Beleza e Cuidados
-
-**Canal recomendado:** Beleza e Cuidados
-
-**Horário sugerido:** 12:00 - 15:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
-
-**Texto pronto:**
-
-```txt
-💄 Oferta para Beleza e Cuidados
-
-Chapinha 2 em 1 Profissional | Modelador Cachos Barril 30mm | Para Ca…
-
-💸 De: R$ 60,20
-🔥 Por: R$ 26,49
-🏷️ 56% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/3LQvCGYjVc
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

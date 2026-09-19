@@ -1,5 +1,22 @@
 [
   {
+    "id": "351d80a56ee6ed7698",
+    "title": "Impressora de Etiquetas Adesivas + 1.000 Etiquetas",
+    "raw_title": "Impressora Etiquetas Adesivas + 1.000 Etiquetas 10x15cm Branco",
+    "description": "🚀 AGILIZE SEU NEGÓCIO! Chega de complicação! A Impressora de Etiquetas Adesivas + 1.000 Etiquetas 10x15cm Branco é a solução perfeita para organizar seu...",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "R$ 699,00",
+    "price": "R$ 565,00",
+    "discount_percent": 19.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_894798-MLA115475668290_082026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB78672090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "19/09/2026 07:02",
+    "created_at_iso": "2026-09-19T07:02:04",
+    "created_ts": 1789801324
+  },
+  {
     "id": "895fc1225920259ec2",
     "title": "20/30/50 Etiqueta Personalizada em Acrílico Espelhado croche lembranc…",
     "raw_title": "20/30/50 Etiqueta Personalizada em Acrílico Espelhado croche lembrancinha presente",
@@ -2104,26 +2121,5 @@
     "created_at": "18/09/2026 07:02",
     "created_at_iso": "2026-09-18T07:02:22",
     "created_ts": 1789714942
-  },
-  {
-    "id": "b33f6cedb7e09c6ea8",
-    "title": "Berço Portatil Moises Americano Acoplado Bebe Com Balanço e Mosquetei…",
-    "raw_title": "Berço Portatil Moises Americano Acoplado Bebe Com Balanço e Mosqueteiro",
-    "description": "🔥 27% OFF — Oferta encontrada! 📌 Berço Portatil Moises Americano Acoplado Bebe Com Balanço e Mosqueteiro Confira os detalhes e aproveite enquanto a ofer...",
-    "marketplace": "Shopee",
-    "category": "Mãe e Bebê",
-    "old_price": "R$ 602,60",
-    "price": "R$ 439,90",
-    "discount_percent": 27.0,
-    "rating": 5.0,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m6-msr8w3rizev88f",
-    "affiliate_url": "https://s.shopee.com.br/W6k9fM2jY",
-    "created_at": "18/09/2026 06:20",
-    "created_at_iso": "2026-09-18T06:20:56",
-    "created_ts": 1789712456,
-    "niche": {
-      "key": "shopee_mae_bebe",
-      "name": "Mãe e Bebê"
-    }
   }
 ]

@@ -1,14 +1,14 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 19/09/2026 07:22
+Gerado em: 19/09/2026 08:17
 
 ## Categorias prioritárias
 
 - 📦 **Outros**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 📚 **Papelaria**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
-- 💻 **Informática**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 🍼 **Mãe e Bebê**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 💻 **Informática**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 👟 **Calçados**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 🐶 **Pet**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
@@ -59,33 +59,33 @@ Gerado em: 19/09/2026 07:22
    - Desconto: 30% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB50984468?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-7. **Mochila Escolar Reforçada Notebook Impermeável**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 29,90
-   - Desconto: 41% OFF
-   - Link: https://s.shopee.com.br/2BEyGxyOr8
-
-8. **Monitor Gamer Mancer Valak Z186**
+7. **Monitor Gamer Mancer Valak Z186**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 561,95
    - Desconto: 59% OFF
    - Link: https://s.shopee.com.br/8fSTTZ07g3
 
-9. **Berço Portátil Com Mosquiteiro Cama De Duas Camas 0-3 Anos Fecho De S…**
+8. **Berço Portátil Com Mosquiteiro Cama De Duas Camas 0-3 Anos Fecho De S…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 538,79
    - Desconto: 68% OFF
    - Link: https://s.shopee.com.br/30o58GCWen
 
-10. **Oxímetro de Dedo Digital Portátil com Tela LED, Leitura Rápida de SpO…**
+9. **Oxímetro de Dedo Digital Portátil com Tela LED, Leitura Rápida de SpO…**
    - Categoria: Saúde
    - Loja: Shopee
    - Preço: R$ 31,99
    - Desconto: 57% OFF
    - Link: https://s.shopee.com.br/6L4YIXzAP0
+
+10. **Baby Doll FB Alcinha Personagens Malha Premium Fresquinho Short Doll…**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 24,90
+   - Desconto: 72% OFF
+   - Link: https://s.shopee.com.br/8AWCPncOzA
 
 ## Ações gratuitas recomendadas
 

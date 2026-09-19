@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 19/09/2026 02:22
+Gerado em: 19/09/2026 03:19
 
 ## Como usar
 
@@ -80,7 +80,7 @@ Gerado em: 19/09/2026 02:22
 
 - Chapinha 2 em 1 Profissional | Modelador Cachos Barril 30mm | Para Ca…
 - Kit Body Splash Floratta Red e Lily
-- Kit Maquina Cortar Cabelo + Maquina Barbeador Recarregavel
+- Principia Kit Protetor Solar PS-01 FPS 60 + PS-05 FPS 70- escolha seu…
 
 ---
 

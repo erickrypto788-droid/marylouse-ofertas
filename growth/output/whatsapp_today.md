@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 19/09/2026 02:04
+Gerado em: 19/09/2026 02:22
 
 ## Como usar
 
@@ -147,14 +147,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
 ```txt
 🍼 Oferta para Mamãe e Bebê
 
-Baby Doll FB Alcinha Personagens Malha Premium Fresquinho Short Doll…
+Berço Portátil Com Mosquiteiro Cama De Duas Camas 0-3 Anos Fecho De S…
 
-💸 De: R$ 88,93
-🔥 Por: R$ 24,90
-🏷️ 72% OFF
+💸 De: R$ 1.683,72
+🔥 Por: R$ 538,79
+🏷️ 68% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/8AWCPncOzA
+Ver oferta: https://s.shopee.com.br/30o58GCWen
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

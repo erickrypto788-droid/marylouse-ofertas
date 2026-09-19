@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 19/09/2026 02:04
+Gerado em: 19/09/2026 02:22
 
 ## Categorias prioritárias
 
-- 🍼 **Mãe e Bebê**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 🍼 **Mãe e Bebê**: 16 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🏋️ **Esportes**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 🧸 **Brinquedos**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 📦 **Outros**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 💻 **Informática**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 💄 **Beleza**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - ❤️ **Saúde**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
+- 👟 **Calçados**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 
 ## Top ofertas para destacar
 
@@ -59,33 +59,33 @@ Gerado em: 19/09/2026 02:04
    - Desconto: 41% OFF
    - Link: https://s.shopee.com.br/2BEyGxyOr8
 
-7. **Oxímetro de Dedo Digital Portátil com Tela LED, Leitura Rápida de SpO…**
+7. **Berço Portátil Com Mosquiteiro Cama De Duas Camas 0-3 Anos Fecho De S…**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 538,79
+   - Desconto: 68% OFF
+   - Link: https://s.shopee.com.br/30o58GCWen
+
+8. **Oxímetro de Dedo Digital Portátil com Tela LED, Leitura Rápida de SpO…**
    - Categoria: Saúde
    - Loja: Shopee
    - Preço: R$ 31,99
    - Desconto: 57% OFF
    - Link: https://s.shopee.com.br/6L4YIXzAP0
 
-8. **Baby Doll FB Alcinha Personagens Malha Premium Fresquinho Short Doll…**
+9. **Baby Doll FB Alcinha Personagens Malha Premium Fresquinho Short Doll…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 24,90
    - Desconto: 72% OFF
    - Link: https://s.shopee.com.br/8AWCPncOzA
 
-9. **Papete Infantil Confortável**
+10. **Papete Infantil Confortável**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 21,88
    - Desconto: 51% OFF
    - Link: https://s.shopee.com.br/6VNyIUrFE3
-
-10. **Liquidificador Triturador Compacto para suco com Led - suco e frutas…**
-   - Categoria: Casa e Cozinha
-   - Loja: Shopee
-   - Preço: R$ 78,68
-   - Desconto: 50% OFF
-   - Link: https://s.shopee.com.br/5fopuQb0LT
 
 ## Ações gratuitas recomendadas
 

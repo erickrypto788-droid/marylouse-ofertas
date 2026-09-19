@@ -1,5 +1,22 @@
 [
   {
+    "id": "f8c1f98a23a406a2c4",
+    "title": "Kit Ferramentas Infantil Lider",
+    "raw_title": "Brinquedo Lider Kit Ferramentas - 2381",
+    "description": "🚨 OFERTA IMPERDÍVEL! 🚨 Transforme a brincadeira em aprendizado com o Brinquedo Lider Kit Ferramentas - 2381! 🛠️ Perfeito para estimular a criatividade e...",
+    "marketplace": "Mercado Livre",
+    "category": "Ferramentas",
+    "old_price": "",
+    "price": "R$ 119,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_735715-MLA99504869284_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45785598?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "19/09/2026 16:01",
+    "created_at_iso": "2026-09-19T16:01:40",
+    "created_ts": 1789833700
+  },
+  {
     "id": "334470eac648c16d95",
     "title": "Micro-ondas Electrolux 20L cor Inox Espelhado com Função Tira Odor (M…",
     "raw_title": "Micro-ondas Electrolux 20L cor Inox Espelhado com Função Tira Odor (MT30S)",
@@ -1991,68 +2008,5 @@
     "created_at": "18/09/2026 16:07",
     "created_at_iso": "2026-09-18T16:07:25",
     "created_ts": 1789747645
-  },
-  {
-    "id": "2c7157ba0ce9359ad9",
-    "title": "Calça Wid Leg Cargo Modeladora Blogueira Moda",
-    "raw_title": "Calça Wid Leg Cargo Modeladora Blogueira Moda",
-    "description": "🔥 1% OFF — Oferta encontrada! 📌 Calça Wid Leg Cargo Modeladora Blogueira Moda Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Shopee",
-    "category": "Roupas Plus Size",
-    "old_price": "R$ 89,90",
-    "price": "R$ 89,00",
-    "discount_percent": 1.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi6t8mc0ntab1e",
-    "affiliate_url": "https://s.shopee.com.br/2Vrp8QEEQi",
-    "created_at": "18/09/2026 15:22",
-    "created_at_iso": "2026-09-18T15:22:12",
-    "created_ts": 1789744932,
-    "niche": {
-      "key": "shopee_roupas_plus_size",
-      "name": "Roupas Plus Size"
-    }
-  },
-  {
-    "id": "e9deb5309ae3f55878",
-    "title": "Vestido rodado Plus Size manga fler com a faixa Suplex Digital 44/4…",
-    "raw_title": "Vestido rodado Plus Size manga fler com a faixa Suplex Digital 44/46/48/50/52 g gg g1 g2",
-    "description": "🔥 10% OFF — Oferta encontrada! 📌 Vestido rodado Plus Size manga fler com a faixa Suplex Digital 44/46/48/50/52 g gg g1 g2 Confira os detalhes e aproveit...",
-    "marketplace": "Shopee",
-    "category": "Roupas Plus Size",
-    "old_price": "R$ 38,76",
-    "price": "R$ 34,88",
-    "discount_percent": 10.0,
-    "rating": 4.7,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lg-mpt4jxd5rpqbe4",
-    "affiliate_url": "https://s.shopee.com.br/5q8Fi0vG9o",
-    "created_at": "18/09/2026 15:21",
-    "created_at_iso": "2026-09-18T15:21:07",
-    "created_ts": 1789744867,
-    "niche": {
-      "key": "shopee_roupas_plus_size",
-      "name": "Roupas Plus Size"
-    }
-  },
-  {
-    "id": "6ae84e024e03941db4",
-    "title": "Kit Cuecas Boxer Polo Wear",
-    "raw_title": "Kit 5 ou 10 Cuecas Boxer Masculinas Polo Wear Microfibra Leve e Elástico Confortável",
-    "description": "🔥 Conforto e Estilo garantidos! Kit Cuecas Boxer Polo Wear com 39% OFF! 🚀 Garanta já o seu Kit de 5 ou 10 Cuecas Boxer Masculinas Polo Wear. Feitas em m...",
-    "marketplace": "Shopee",
-    "category": "Roupas Plus Size",
-    "old_price": "R$ 90,00",
-    "price": "R$ 54,90",
-    "discount_percent": 39.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820l7-mogqop0wbp4z84",
-    "affiliate_url": "https://s.shopee.com.br/9V1ZPApG6o",
-    "created_at": "18/09/2026 15:19",
-    "created_at_iso": "2026-09-18T15:19:03",
-    "created_ts": 1789744743,
-    "niche": {
-      "key": "shopee_roupas_plus_size",
-      "name": "Roupas Plus Size"
-    }
   }
 ]

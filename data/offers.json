@@ -1,5 +1,22 @@
 [
   {
+    "id": "9421ac6364b14b7812",
+    "title": "Body Modelador Nayane Short",
+    "raw_title": "Body Modelador Nayane Short Feminino Cor Cristal Tamanho EG",
+    "description": "✨ Sinta-se poderosa e confortável! O Body Modelador Nayane Short Feminino Cor Cristal Tamanho EG é perfeito para realçar suas curvas com discrição e ele...",
+    "marketplace": "Mercado Livre",
+    "category": "Roupas Femininas",
+    "old_price": "",
+    "price": "R$ 151,70",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_723789-MLA95555705961_102025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB56081727?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "19/09/2026 10:03",
+    "created_at_iso": "2026-09-19T10:03:10",
+    "created_ts": 1789812190
+  },
+  {
     "id": "8e508b31b87aea8303",
     "title": "Calça Jeans Feminina Flare Marmorizada",
     "raw_title": "Calça Jeans Feminina Flare Marmorizada Lycra Modelagem Empina Bumbum Barra Desfiada",
@@ -2142,68 +2159,5 @@
     "created_at": "18/09/2026 10:16",
     "created_at_iso": "2026-09-18T10:16:00",
     "created_ts": 1789726560
-  },
-  {
-    "id": "532ea66aae54b58512",
-    "title": "Kit 36 Canetas Marca Texto Neon Fluorescente Vighs – Cores Vivas Seca…",
-    "raw_title": "Kit 36 Canetas Marca Texto Neon Fluorescente Vighs – Cores Vivas Secagem Rápida Escolar Escritório",
-    "description": "🔥 16% OFF — Oferta encontrada! 📌 Kit 36 Canetas Marca Texto Neon Fluorescente Vighs – Cores Vivas Secagem Rápida Escolar Escritório Confira os detalhes...",
-    "marketplace": "Shopee",
-    "category": "Papelaria",
-    "old_price": "R$ 21,19",
-    "price": "R$ 17,80",
-    "discount_percent": 16.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfyg7kfl337k88",
-    "affiliate_url": "https://s.shopee.com.br/gQAYLO69Y",
-    "created_at": "18/09/2026 09:25",
-    "created_at_iso": "2026-09-18T09:25:55",
-    "created_ts": 1789723555,
-    "niche": {
-      "key": "shopee_papelaria",
-      "name": "Papelaria"
-    }
-  },
-  {
-    "id": "22ea570c6a21f1f2ec",
-    "title": "Conjunto de 4 peças 10 ml de gel sólido antiderrapante com caneta de…",
-    "raw_title": "Conjunto de 4 peças 10 ml de gel sólido antiderrapante com caneta de ponta dupla, kit 3D para unhas em relevo e",
-    "description": "🔥 32% OFF — Oferta encontrada! 📌 Conjunto de 4 peças 10 ml de gel sólido antiderrapante com caneta de ponta dupla, kit 3D para unhas em relevo e Confira...",
-    "marketplace": "Shopee",
-    "category": "Papelaria",
-    "old_price": "R$ 28,19",
-    "price": "R$ 19,17",
-    "discount_percent": 32.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-825a5-msdusamnuosk9a",
-    "affiliate_url": "https://s.shopee.com.br/2LYOXP4Lco",
-    "created_at": "18/09/2026 09:24",
-    "created_at_iso": "2026-09-18T09:24:51",
-    "created_ts": 1789723491,
-    "niche": {
-      "key": "shopee_papelaria",
-      "name": "Papelaria"
-    }
-  },
-  {
-    "id": "feddb449585365dd15",
-    "title": "Embalagem para Fatia de Torta/Bolo e Docinhos",
-    "raw_title": "Embalagem Delícias de Festa para Fatia de Torta/Bolo e 3 Docinhos",
-    "description": "🎉 Destaque suas delícias de festa! Embalagem profissional para fatia de torta/bolo e 3 docinhos. ✨ Perfeita para impressionar clientes e valorizar seus...",
-    "marketplace": "Shopee",
-    "category": "Papelaria",
-    "old_price": "R$ 30,74",
-    "price": "R$ 24,90",
-    "discount_percent": 19.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfb5n7xep4as2c",
-    "affiliate_url": "https://s.shopee.com.br/9AOifxnCcI",
-    "created_at": "18/09/2026 09:22",
-    "created_at_iso": "2026-09-18T09:22:47",
-    "created_ts": 1789723367,
-    "niche": {
-      "key": "shopee_papelaria",
-      "name": "Papelaria"
-    }
   }
 ]

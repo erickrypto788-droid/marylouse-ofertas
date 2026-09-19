@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 19/09/2026 19:21
+Gerado em: 19/09/2026 20:20
 
 ## Como usar
 
@@ -79,8 +79,8 @@ Gerado em: 19/09/2026 19:21
 **Produtos usados:**
 
 - Escova Secadora 3 em 1 Profissional
-- Chapinha 2 em 1 Profissional | Modelador Cachos Barril 30mm | Para Ca…
 - Escova Rotativa Elétrica 2 em 1
+- Kit 2 Body Splash Feminino Perfumado Encanto Lily + Florata Rose Pres…
 
 ---
 

@@ -1,5 +1,22 @@
 [
   {
+    "id": "a522d6b247d4a2b48f",
+    "title": "Escova Secadora",
+    "raw_title": "Escova Secadora",
+    "description": "Cabelos impecáveis em minutos! ✨ Diga adeus ao secador e chapinha e transforme seu visual com a Escova Secadora! Seca, alisa e modela com praticidade e...",
+    "marketplace": "Mercado Livre",
+    "category": "Beleza",
+    "old_price": "",
+    "price": "R$ 209,90",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_668180-MLA116547700623_082026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77998394?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "19/09/2026 14:01",
+    "created_at_iso": "2026-09-19T14:01:45",
+    "created_ts": 1789826505
+  },
+  {
     "id": "677a489c006341f54d",
     "title": "Sandália Feminina Shekinah Salto Bloco Quadrado Tiras Cruzadas Super…",
     "raw_title": "Sandália Feminina Shekinah Salto Bloco Quadrado Tiras Cruzadas Super Leve Confortável Moderna",
@@ -2031,90 +2048,6 @@
     "niche": {
       "key": "shopee_roupas_masculinas",
       "name": "Roupas Masculinas"
-    }
-  },
-  {
-    "id": "10203f444dfb05beb4",
-    "title": "Kit 4 Top Sutiã Com Alça E Fecho Ajustável Leve e liso confortável to…",
-    "raw_title": "Kit 4 Top Sutiã Com Alça E Fecho Ajustável Leve e liso confortável top com bojo top feminino",
-    "description": "🔥 48% OFF — Oferta encontrada! 📌 Kit 4 Top Sutiã Com Alça E Fecho Ajustável Leve e liso confortável top com bojo top feminino Confira os detalhes e apro...",
-    "marketplace": "Shopee",
-    "category": "Roupas Femininas",
-    "old_price": "R$ 116,81",
-    "price": "R$ 60,74",
-    "discount_percent": 48.0,
-    "rating": 4.7,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-824j0-mf15ru26bor251",
-    "affiliate_url": "https://s.shopee.com.br/8fSSLVueGL",
-    "created_at": "18/09/2026 13:20",
-    "created_at_iso": "2026-09-18T13:20:13",
-    "created_ts": 1789737613,
-    "niche": {
-      "key": "shopee_roupas_femininas",
-      "name": "Roupas Femininas"
-    }
-  },
-  {
-    "id": "bc700abf21ec4dedcf",
-    "title": "kit 3 Blusa Regata Alcinha Básica Com Forro Confortável Casual Verão…",
-    "raw_title": "kit 3 Blusa Regata Alcinha Básica Com Forro Confortável Casual Verão Suplex Poliamida Com Forro",
-    "description": "🔥 55% OFF — Oferta encontrada! 📌 kit 3 Blusa Regata Alcinha Básica Com Forro Confortável Casual Verão Suplex Poliamida Com Forro Confira os detalhes e a...",
-    "marketplace": "Shopee",
-    "category": "Roupas Femininas",
-    "old_price": "R$ 99,89",
-    "price": "R$ 44,95",
-    "discount_percent": 55.0,
-    "rating": 4.6,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820mg-mn8n4mhy64uc40",
-    "affiliate_url": "https://s.shopee.com.br/7fZtlAI6B5",
-    "created_at": "18/09/2026 13:19",
-    "created_at_iso": "2026-09-18T13:19:09",
-    "created_ts": 1789737549,
-    "niche": {
-      "key": "shopee_roupas_femininas",
-      "name": "Roupas Femininas"
-    }
-  },
-  {
-    "id": "e705cad98b14aa67bc",
-    "title": "Kit 3 T-Shirt Algodão 30.1 Comfort Confortavel Estilosa Baby Look Cas…",
-    "raw_title": "Kit 3 T-Shirt Algodão 30.1 Comfort Confortavel Estilosa Baby Look Casual Básica Urbana",
-    "description": "🔥 44% OFF — Oferta encontrada! 📌 Kit 3 T-Shirt Algodão 30.1 Comfort Confortavel Estilosa Baby Look Casual Básica Urbana Confira os detalhes e aproveite...",
-    "marketplace": "Shopee",
-    "category": "Roupas Femininas",
-    "old_price": "R$ 89,27",
-    "price": "R$ 49,99",
-    "discount_percent": 44.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81zup-mksih9pltgxsed",
-    "affiliate_url": "https://s.shopee.com.br/5AsaB4qRUY",
-    "created_at": "18/09/2026 13:18",
-    "created_at_iso": "2026-09-18T13:18:05",
-    "created_ts": 1789737485,
-    "niche": {
-      "key": "shopee_roupas_femininas",
-      "name": "Roupas Femininas"
-    }
-  },
-  {
-    "id": "558f1e120eadc88255",
-    "title": "Calça Lanzinha Inverno",
-    "raw_title": "Calça Feminina Lanzinha Cintura Alta com Bolso Inverno",
-    "description": "🚨 OFERTA RELÂMPAGO! Calça Lanzinha para o Inverno! ❄️ Conforto e estilo garantidos com a Calça Feminina Lanzinha Cintura Alta com Bolso! Perfeita para o...",
-    "marketplace": "Shopee",
-    "category": "Roupas Femininas",
-    "old_price": "R$ 99,90",
-    "price": "R$ 29,97",
-    "discount_percent": 70.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820l7-mqs1lh3sxybm0d",
-    "affiliate_url": "https://s.shopee.com.br/3LQvzi69W9",
-    "created_at": "18/09/2026 13:17",
-    "created_at_iso": "2026-09-18T13:17:00",
-    "created_ts": 1789737420,
-    "niche": {
-      "key": "shopee_roupas_femininas",
-      "name": "Roupas Femininas"
     }
   }
 ]

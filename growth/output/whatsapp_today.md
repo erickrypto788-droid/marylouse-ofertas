@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 19/09/2026 15:03
+Gerado em: 19/09/2026 15:20
 
 ## Como usar
 
@@ -27,14 +27,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
 ```txt
 🍳 Oferta para Casa e Cozinha
 
-Mini Panela Elétrica Portátil
+Panela Pressão 4,5 Litros Fechamento Externo Antiaderente Teflon Vari…
 
-💸 De: R$ 99,80
-🔥 Por: R$ 58,88
-🏷️ 41% OFF
+💸 De: R$ 230,86
+🔥 Por: R$ 133,90
+🏷️ 42% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/70KDUsj817
+Ver oferta: https://s.shopee.com.br/1VzJXTnHD9
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

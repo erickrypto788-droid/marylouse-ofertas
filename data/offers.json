@@ -1,5 +1,26 @@
 [
   {
+    "id": "07df793a60fdce5898",
+    "title": "PS5 Slim Digital 825GB",
+    "raw_title": "Console PlayStation 5 Slim Digital 825GB",
+    "description": "OPORTUNIDADE ÚNICA! 🚀 Console PlayStation 5 Slim Digital 825GB com um preço que você não vai acreditar! Prepare-se para uma nova geração de jogos com es...",
+    "marketplace": "Shopee",
+    "category": "Jogos e Consoles",
+    "old_price": "R$ 5.175,29",
+    "price": "R$ 4.399,00",
+    "discount_percent": 15.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfmltid9j6dj4f",
+    "affiliate_url": "https://s.shopee.com.br/3LQxG0CCd0",
+    "created_at": "19/09/2026 08:15",
+    "created_at_iso": "2026-09-19T08:15:51",
+    "created_ts": 1789805751,
+    "niche": {
+      "key": "shopee_jogos_consoles",
+      "name": "Jogos e Consoles"
+    }
+  },
+  {
     "id": "2f4dbd9e05d951cb1d",
     "title": "Chocolate Gotas Zero Açúcar Ki-Kakau 400g",
     "raw_title": "Chocolate Gotas Premium Zero Açúcar 400g Ki-Kakau Para Brownies Cookies Ganache Trufas Coberturas Sem Glúten",
@@ -2142,27 +2163,6 @@
     "created_at": "18/09/2026 08:19",
     "created_at_iso": "2026-09-18T08:19:53",
     "created_ts": 1789719593,
-    "niche": {
-      "key": "shopee_bolsas_masculinas",
-      "name": "Bolsas Masculinas"
-    }
-  },
-  {
-    "id": "45243b497c58a98069",
-    "title": "Mochila Escolar Reforçada Notebook Impermeável",
-    "raw_title": "Mochila Escolar Reforçada Notebook Impermeável Cabo De Aço",
-    "description": "🎒 Proteção total para seu notebook e materiais! A Mochila Escolar Reforçada Notebook Impermeável Cabo De Aço é ideal para quem busca durabilidade e segu...",
-    "marketplace": "Shopee",
-    "category": "Bolsas Masculinas",
-    "old_price": "R$ 50,68",
-    "price": "R$ 29,90",
-    "discount_percent": 41.0,
-    "rating": 4.6,
-    "image": "https://cf.shopee.com.br/file/92e894139b206ffe034d923c570d2a81",
-    "affiliate_url": "https://s.shopee.com.br/2BEyGxyOr8",
-    "created_at": "18/09/2026 08:15",
-    "created_at_iso": "2026-09-18T08:15:49",
-    "created_ts": 1789719349,
     "niche": {
       "key": "shopee_bolsas_masculinas",
       "name": "Bolsas Masculinas"

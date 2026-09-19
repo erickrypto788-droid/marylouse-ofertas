@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 19/09/2026 19:04
+Gerado em: 19/09/2026 19:21
 
 ## Como usar
 
@@ -117,14 +117,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
 ```txt
 🐶 Oferta para Ofertas Pet
 
-Papete Infantil Confortável
+Carrinho de Controle Remoto Esportivo Competição Ferrari Lamborghini…
 
-💸 De: R$ 44,65
-🔥 Por: R$ 21,88
-🏷️ 51% OFF
+💸 De: R$ 50,10
+🔥 Por: R$ 20,54
+🏷️ 59% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/6VNyIUrFE3
+Ver oferta: https://s.shopee.com.br/60Rhy3XkdX
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 19/09/2026 22:18
+Gerado em: 19/09/2026 23:04
 
 ## Como usar
 
@@ -72,37 +72,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 3 — Celulares e Tecnologia
-
-**Canal recomendado:** Celulares e Tecnologia
-
-**Horário sugerido:** 19:00 - 21:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
-
-**Texto pronto:**
-
-```txt
-📱 Oferta para Celulares e Tecnologia
-
-Suporte De Celular Para Moto Bike Á Prova Dágua 360° Articulado Serve…
-
-💸 De: R$ 58,67
-🔥 Por: R$ 26,40
-🏷️ 55% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/6Al7y0Py0Q
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 4 — Ofertas Pet
+## Post 3 — Ofertas Pet
 
 **Canal recomendado:** Ofertas Pet
 
@@ -132,7 +102,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 5 — Mamãe e Bebê
+## Post 4 — Mamãe e Bebê
 
 **Canal recomendado:** Mamãe e Bebê
 
@@ -147,14 +117,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
 ```txt
 🍼 Oferta para Mamãe e Bebê
 
-Ninho Redutor de Berço Mosquiteiro Portátil
+Kit Limpeza Mamadeira Portátil Azul
 
-💸 De: R$ 209,65
-🔥 Por: R$ 64,99
-🏷️ 69% OFF
-🛒 Loja: Shopee
+💸 De: R$ 190,00
+🔥 Por: R$ 53,20
+🏷️ 72% OFF
+🛒 Loja: Mercado Livre
 
-Ver oferta: https://s.shopee.com.br/3VkMzSlo0U
+Ver oferta: https://www.mercadolivre.com.br/p/MLB75043054?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
@@ -162,7 +132,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 6 — Moda Feminina
+## Post 5 — Moda Feminina
 
 **Canal recomendado:** Moda Feminina
 
@@ -185,6 +155,36 @@ Macacão Luxo Pantalona
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/AAHHSgNyOc
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 6 — Celulares e Tecnologia
+
+**Canal recomendado:** Celulares e Tecnologia
+
+**Horário sugerido:** 19:00 - 21:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
+
+**Texto pronto:**
+
+```txt
+📱 Oferta para Celulares e Tecnologia
+
+Kit de ferramentas + Cola + Elástico Para troca reparos manutenção de…
+
+💸 De: R$ 59,34
+🔥 Por: R$ 18,99
+🏷️ 68% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/5Asbq5Jw5e
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

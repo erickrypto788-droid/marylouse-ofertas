@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 19/09/2026 00:19
+Gerado em: 19/09/2026 02:04
 
 ## Como usar
 
@@ -78,9 +78,9 @@ Gerado em: 19/09/2026 00:19
 
 **Produtos usados:**
 
-- Perfumes Brand Collection 25ml
 - Chapinha 2 em 1 Profissional | Modelador Cachos Barril 30mm | Para Ca…
-- Secador Profissional LONYAN 8020
+- Kit Body Splash Floratta Red e Lily
+- Kit Maquina Cortar Cabelo + Maquina Barbeador Recarregavel
 
 ---
 

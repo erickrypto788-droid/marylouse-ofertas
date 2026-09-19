@@ -1,5 +1,110 @@
 [
   {
+    "id": "2f4dbd9e05d951cb1d",
+    "title": "Chocolate Gotas Zero Açúcar Ki-Kakau 400g",
+    "raw_title": "Chocolate Gotas Premium Zero Açúcar 400g Ki-Kakau Para Brownies Cookies Ganache Trufas Coberturas Sem Glúten",
+    "description": "🚨 IMPERDÍVEL! Chocolate Premium Zero Açúcar! 🤤 Gotas Ki-Kakau 400g para suas receitas favoritas! Perfeito para brownies, cookies, ganaches e trufas. Sem...",
+    "marketplace": "Shopee",
+    "category": "Bebidas e Alimentos",
+    "old_price": "R$ 40,28",
+    "price": "R$ 26,99",
+    "discount_percent": 33.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820mb-mq5mpyv389aba7",
+    "affiliate_url": "https://s.shopee.com.br/5LC1ZYJnag",
+    "created_at": "19/09/2026 07:20",
+    "created_at_iso": "2026-09-19T07:20:23",
+    "created_ts": 1789802423,
+    "niche": {
+      "key": "shopee_bebidas_alimentos",
+      "name": "Bebidas e Alimentos"
+    }
+  },
+  {
+    "id": "9e40cb9bb43e2a0e07",
+    "title": "Quinoa Branca 1Kg - P&P",
+    "raw_title": "Quinoa Branca em Grãos 1Kg - P&P",
+    "description": "🚨 Superfood em oferta! 🌱 A Quinoa Branca em Grãos 1Kg da P&P é o superalimento que faltava na sua dieta! Rica em nutrientes e versátil para todas as sua...",
+    "marketplace": "Shopee",
+    "category": "Bebidas e Alimentos",
+    "old_price": "R$ 55,37",
+    "price": "R$ 29,90",
+    "discount_percent": 46.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7qvfp-lhqcc25ak7tf92",
+    "affiliate_url": "https://s.shopee.com.br/8fSTXgFuOQ",
+    "created_at": "19/09/2026 07:19",
+    "created_at_iso": "2026-09-19T07:19:14",
+    "created_ts": 1789802354,
+    "niche": {
+      "key": "shopee_bebidas_alimentos",
+      "name": "Bebidas e Alimentos"
+    }
+  },
+  {
+    "id": "37651e2732edb79508",
+    "title": "Kit Pele de Porcelana Kokeshi",
+    "raw_title": "Kit Pele de Porcelana com Sérum de Arroz e Olhos de Gueixa Kokeshi",
+    "description": "✨ Pele de Porcelana dos sonhos ao seu alcance! ✨ O Kit Pele de Porcelana com Sérum de Arroz e Olhos de Gueixa Kokeshi é o segredo para uma pele impecáve...",
+    "marketplace": "Shopee",
+    "category": "Bebidas e Alimentos",
+    "old_price": "R$ 74,71",
+    "price": "R$ 49,31",
+    "discount_percent": 34.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lm-mq7yufbjj2tec9",
+    "affiliate_url": "https://s.shopee.com.br/2LYQ02ZcU9",
+    "created_at": "19/09/2026 07:18",
+    "created_at_iso": "2026-09-19T07:18:07",
+    "created_ts": 1789802287,
+    "niche": {
+      "key": "shopee_bebidas_alimentos",
+      "name": "Bebidas e Alimentos"
+    }
+  },
+  {
+    "id": "4f2485a59a2c70c2c7",
+    "title": "Chocolate Sicao 1kg",
+    "raw_title": "Chocolate Ao Leite Gold 1,01kg Sicao Nobre Barry Callebaut Barra",
+    "description": "🍫 MEGA OFERTA! Chocolate Sicao 1kg com 55% OFF! Prepare suas receitas ou apenas se delicie com o sabor inconfundível do Chocolate Ao Leite Gold Sicao No...",
+    "marketplace": "Shopee",
+    "category": "Bebidas e Alimentos",
+    "old_price": "R$ 168,89",
+    "price": "R$ 76,00",
+    "discount_percent": 55.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m3-msx13z0jif461f",
+    "affiliate_url": "https://s.shopee.com.br/9fL0jW3Inc",
+    "created_at": "19/09/2026 07:16",
+    "created_at_iso": "2026-09-19T07:16:59",
+    "created_ts": 1789802219,
+    "niche": {
+      "key": "shopee_bebidas_alimentos",
+      "name": "Bebidas e Alimentos"
+    }
+  },
+  {
+    "id": "3ce3501ceb2e3fa7fa",
+    "title": "Creatina Ultra FTW 300g",
+    "raw_title": "Creatina Ultra Pote 300g - FTW",
+    "description": "⚡️ IMPERDÍVEL! Sua Creatina FTW com super desconto! Potencialize seus treinos com a Creatina Ultra Pote 300g - FTW! 💪 Energia e performance no seu dia a...",
+    "marketplace": "Shopee",
+    "category": "Bebidas e Alimentos",
+    "old_price": "R$ 71,19",
+    "price": "R$ 29,90",
+    "discount_percent": 58.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-meourptjpj4194",
+    "affiliate_url": "https://s.shopee.com.br/3g3naUZ54a",
+    "created_at": "19/09/2026 07:15",
+    "created_at_iso": "2026-09-19T07:15:48",
+    "created_ts": 1789802148,
+    "niche": {
+      "key": "shopee_bebidas_alimentos",
+      "name": "Bebidas e Alimentos"
+    }
+  },
+  {
     "id": "351d80a56ee6ed7698",
     "title": "Impressora de Etiquetas Adesivas + 1.000 Etiquetas",
     "raw_title": "Impressora Etiquetas Adesivas + 1.000 Etiquetas 10x15cm Branco",
@@ -2062,64 +2167,5 @@
       "key": "shopee_bolsas_masculinas",
       "name": "Bolsas Masculinas"
     }
-  },
-  {
-    "id": "7d595a68852bb7e7f8",
-    "title": "Bolsa Feminina TOMI MITO",
-    "raw_title": "TOMI MITO Bolsa Feminina com Alça Lateral Transversal Faixa de Mão de Couro B736",
-    "description": "✨ ARRASE COM ESTILO E ECONOMIA! ✨ A Bolsa Feminina TOMI MITO com Alça Transversal de Couro é perfeita para você! Leve seus itens essenciais com elegânci...",
-    "marketplace": "Shopee",
-    "category": "Bolsas Femininas",
-    "old_price": "R$ 130,41",
-    "price": "R$ 59,99",
-    "discount_percent": 54.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-824hz-mpj8tt3gjlkx51",
-    "affiliate_url": "https://s.shopee.com.br/9V1XwX2JtQ",
-    "created_at": "18/09/2026 07:17",
-    "created_at_iso": "2026-09-18T07:17:04",
-    "created_ts": 1789715824,
-    "niche": {
-      "key": "shopee_bolsas_femininas",
-      "name": "Bolsas Femininas"
-    }
-  },
-  {
-    "id": "cc1ab666b9d4f86d47",
-    "title": "Bolsa Feminina Baú Transversal Média",
-    "raw_title": "Bolsa Feminina Baú Transversal Média com Lenço Alça Tiracolo Estruturada e Espaçosa",
-    "description": "🚨 IMPERDÍVEL! Sua nova bolsa favorita chegou! Bolsa Feminina Baú Transversal Média com Lenço ✨ Perfeita para qualquer ocasião, espaçosa e super estilosa!",
-    "marketplace": "Shopee",
-    "category": "Bolsas Femininas",
-    "old_price": "R$ 121,15",
-    "price": "R$ 39,98",
-    "discount_percent": 67.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-825av-mrgkchcezqpu43",
-    "affiliate_url": "https://s.shopee.com.br/50Z9a3TZ8U",
-    "created_at": "18/09/2026 07:15",
-    "created_at_iso": "2026-09-18T07:15:52",
-    "created_ts": 1789715752,
-    "niche": {
-      "key": "shopee_bolsas_femininas",
-      "name": "Bolsas Femininas"
-    }
-  },
-  {
-    "id": "5a6920ee7772076ab2",
-    "title": "SSD NVMe 128GB Walram W2000",
-    "raw_title": "SSD NVMe 128GB Walram W2000 M.2 2280",
-    "description": "🚀 ACELERE SEU PC AGORA! Chega de lentidão! Faça um upgrade para o SSD NVMe 128GB Walram W2000 M.2 2280 e sinta a diferença na velocidade. Perfeito para...",
-    "marketplace": "Mercado Livre",
-    "category": "Informática",
-    "old_price": "R$ 230,20",
-    "price": "R$ 218,69",
-    "discount_percent": 5.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_750613-MLA117836223073_092026-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB27345327?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "18/09/2026 07:02",
-    "created_at_iso": "2026-09-18T07:02:22",
-    "created_ts": 1789714942
   }
 ]

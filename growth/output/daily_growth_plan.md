@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 19/09/2026 00:03
+Gerado em: 19/09/2026 00:19
 
 ## Categorias prioritárias
 
@@ -13,7 +13,7 @@ Gerado em: 19/09/2026 00:03
 - 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
-- 🧒 **Moda Infantil**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-infantil.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-infantil
+- ❤️ **Saúde**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 
 ## Top ofertas para destacar
 
@@ -73,19 +73,19 @@ Gerado em: 19/09/2026 00:03
    - Desconto: 41% OFF
    - Link: https://s.shopee.com.br/2BEyGxyOr8
 
-9. **Baby Doll FB Alcinha Personagens Malha Premium Fresquinho Short Doll…**
+9. **Oxímetro de Dedo Digital Portátil com Tela LED, Leitura Rápida de SpO…**
+   - Categoria: Saúde
+   - Loja: Shopee
+   - Preço: R$ 31,99
+   - Desconto: 57% OFF
+   - Link: https://s.shopee.com.br/6L4YIXzAP0
+
+10. **Baby Doll FB Alcinha Personagens Malha Premium Fresquinho Short Doll…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 24,90
    - Desconto: 72% OFF
    - Link: https://s.shopee.com.br/8AWCPncOzA
-
-10. **Papete Infantil Confortável**
-   - Categoria: Pet
-   - Loja: Shopee
-   - Preço: R$ 21,88
-   - Desconto: 51% OFF
-   - Link: https://s.shopee.com.br/6VNyIUrFE3
 
 ## Ações gratuitas recomendadas
 

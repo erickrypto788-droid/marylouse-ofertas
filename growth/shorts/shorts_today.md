@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 19/09/2026 17:03
+Gerado em: 19/09/2026 17:21
 
 ## Como usar
 
@@ -32,7 +32,7 @@ Gerado em: 19/09/2026 17:03
 
 - Berço Portátil Com Mosquiteiro Cama De Duas Camas 0-3 Anos Fecho De S…
 - Baby Doll FB Alcinha Personagens Malha Premium Fresquinho Short Doll…
-- Tênis Branco Unissex Infantil e Baby, Conforto e Elegância para Crian…
+- Kit 6 Peças Roupa De Bebê Body Menina Animado Estampado Algodão
 
 ---
 

@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 19/09/2026 10:04
+Gerado em: 19/09/2026 10:23
 
 ## Categorias prioritárias
 
-- 📦 **Outros**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 📦 **Outros**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 🍼 **Mãe e Bebê**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 👗 **Moda Feminina**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
-- 🍼 **Mãe e Bebê**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 💻 **Informática**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 👕 **Moda Masculina**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 - 🐶 **Pet**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
-- 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 📚 **Papelaria**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 - 👟 **Calçados**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 📱 **Celulares**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 💻 **Informática**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 🏋️ **Esportes**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 🍳 **Casa e Cozinha**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 
 ## Top ofertas para destacar
 
@@ -38,54 +38,54 @@ Gerado em: 19/09/2026 10:04
    - Desconto: 56% OFF
    - Link: https://s.shopee.com.br/3LQvCGYjVc
 
-4. **Adaptador Bluetooth 5.0 USB Transmissor Áudio Sem Fio para Notebook e…**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 12,69
-   - Desconto: 62% OFF
-   - Link: https://s.shopee.com.br/8fSS99eUdQ
-
-5. **Mini Panela Elétrica Portátil**
+4. **Mini Panela Elétrica Portátil**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 58,88
    - Desconto: 41% OFF
    - Link: https://s.shopee.com.br/70KDUsj817
 
-6. **Jogo Panelas 5 Peças Tradicional Preto Nacional**
+5. **Jogo Panelas 5 Peças Tradicional Preto Nacional**
    - Categoria: Casa e Cozinha
    - Loja: Mercado Livre
    - Preço: R$ 164,80
    - Desconto: 30% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB50984468?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-7. **Monitor Gamer Mancer Valak Z186**
+6. **Monitor Gamer Mancer Valak Z186**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 561,95
    - Desconto: 59% OFF
    - Link: https://s.shopee.com.br/8fSTTZ07g3
 
-8. **Berço Portátil Com Mosquiteiro Cama De Duas Camas 0-3 Anos Fecho De S…**
+7. **Berço Portátil Com Mosquiteiro Cama De Duas Camas 0-3 Anos Fecho De S…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 538,79
    - Desconto: 68% OFF
    - Link: https://s.shopee.com.br/30o58GCWen
 
-9. **Oxímetro de Dedo Digital Portátil com Tela LED, Leitura Rápida de SpO…**
+8. **Oxímetro de Dedo Digital Portátil com Tela LED, Leitura Rápida de SpO…**
    - Categoria: Saúde
    - Loja: Shopee
    - Preço: R$ 31,99
    - Desconto: 57% OFF
    - Link: https://s.shopee.com.br/6L4YIXzAP0
 
-10. **Baby Doll FB Alcinha Personagens Malha Premium Fresquinho Short Doll…**
+9. **Baby Doll FB Alcinha Personagens Malha Premium Fresquinho Short Doll…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 24,90
    - Desconto: 72% OFF
    - Link: https://s.shopee.com.br/8AWCPncOzA
+
+10. **Papete Infantil Confortável**
+   - Categoria: Pet
+   - Loja: Shopee
+   - Preço: R$ 21,88
+   - Desconto: 51% OFF
+   - Link: https://s.shopee.com.br/6VNyIUrFE3
 
 ## Ações gratuitas recomendadas
 

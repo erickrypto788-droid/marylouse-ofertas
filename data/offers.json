@@ -1,5 +1,39 @@
 [
   {
+    "id": "0a251b5c4f403d9091",
+    "title": "Ulefone Note 18 Ultra 256GB 6GB RAM 5G",
+    "raw_title": "Ulefone Note 18 Ultra 256GB 6GB RAM Celular 5G 5450mAh Câmera 50MP Preto",
+    "description": "🚀 Celular 5G Poderoso com Desconto! Chegou o Ulefone Note 18 Ultra! 📱 Com 256GB de armazenamento e 6GB de RAM, ele é perfeito para quem busca desempenho...",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "R$ 1.965,43",
+    "price": "R$ 1.867,15",
+    "discount_percent": 5.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_877792-MLA114872115222_082026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77446524?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "19/09/2026 19:03",
+    "created_at_iso": "2026-09-19T19:03:12",
+    "created_ts": 1789844592
+  },
+  {
+    "id": "cdb839af8b326be089",
+    "title": "Xiaomi Redmi 12 + Fone",
+    "raw_title": "Smartphone Xiaomí Redmi 12 Preto 128/4gb + E Fone",
+    "description": "📱 OFERTA IMPERDÍVEL! Garanta já o seu Smartphone Xiaomí Redmi 12 Preto 128/4gb + Fone. Performance e estilo no seu bolso! 🚀 🚚 Frete grátis!",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "",
+    "price": "R$ 1.399,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_619784-MLA99378986216_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47306212?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "19/09/2026 19:02",
+    "created_at_iso": "2026-09-19T19:02:02",
+    "created_ts": 1789844522
+  },
+  {
     "id": "13bacd3248fb0b83df",
     "title": "Bola De Futebol Elétrica Flutuante Para Crianças Jogos Esportivos Ind…",
     "raw_title": "Bola De Futebol Elétrica Flutuante Para Crianças Jogos Esportivos Indoor LED Kid Brinquedo Menino",
@@ -2086,22 +2120,5 @@
       "key": "shopee_eletrodomesticos",
       "name": "Eletrodomésticos"
     }
-  },
-  {
-    "id": "45997535a71f2c2e8a",
-    "title": "Cabo Turbo Tipo-C Compativel com Samsung USB-C carregamento Rápido",
-    "raw_title": "Cabo Turbo Tipo-C Compativel com Samsung USB-C carregamento Rápido",
-    "description": "🔥 1% OFF — Oferta encontrada! 📌 Cabo Turbo Tipo-C Compativel com Samsung USB-C carregamento Rápido Confira os detalhes e aproveite enquanto a oferta est...",
-    "marketplace": "Shopee",
-    "category": "Turttle Acessorios",
-    "old_price": "R$ 16,00",
-    "price": "R$ 15,84",
-    "discount_percent": 1.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7rdwu-ly017l5fzjvk58",
-    "affiliate_url": "https://s.shopee.com.br/1qc8XYb7QE",
-    "created_at": "18/09/2026 18:20",
-    "created_at_iso": "2026-09-18T18:20:11",
-    "created_ts": 1789755611
   }
 ]

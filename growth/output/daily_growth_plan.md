@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 19/09/2026 20:48
+Gerado em: 19/09/2026 21:22
 
 ## Categorias prioritárias
 
-- 🍼 **Mãe e Bebê**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 🐶 **Pet**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
+- 🍼 **Mãe e Bebê**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🧸 **Brinquedos**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
+- 🐶 **Pet**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 🏋️ **Esportes**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 👟 **Calçados**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - ❤️ **Saúde**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 📦 **Outros**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 💻 **Informática**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 💄 **Beleza**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 📚 **Papelaria**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 
 ## Top ofertas para destacar
 
@@ -45,47 +45,47 @@ Gerado em: 19/09/2026 20:48
    - Desconto: 42% OFF
    - Link: https://s.shopee.com.br/1VzJXTnHD9
 
-5. **TIRAS DE TESTE GLICOSE G-TECH PARA MEDIDOR MODELO VITA C/50**
+5. **Ninho Redutor de Berço Mosquiteiro Portátil**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 64,99
+   - Desconto: 69% OFF
+   - Link: https://s.shopee.com.br/3VkMzSlo0U
+
+6. **TIRAS DE TESTE GLICOSE G-TECH PARA MEDIDOR MODELO VITA C/50**
    - Categoria: Saúde
    - Loja: Shopee
    - Preço: R$ 44,90
    - Desconto: 57% OFF
    - Link: https://s.shopee.com.br/8V92sWzeGj
 
-6. **Medidor de Pressão Digital de Braço**
+7. **Medidor de Pressão Digital de Braço**
    - Categoria: Saúde
    - Loja: Shopee
    - Preço: R$ 37,99
    - Desconto: 62% OFF
    - Link: https://s.shopee.com.br/7VGX16GM5t
 
-7. **Carrinho de Controle Remoto Esportivo Competição Ferrari Lamborghini…**
+8. **Carrinho de Controle Remoto Esportivo Competição Ferrari Lamborghini…**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 20,54
    - Desconto: 59% OFF
    - Link: https://s.shopee.com.br/60Rhy3XkdX
 
-8. **Kit 6 Peças Roupa De Bebê Body Menina Animado Estampado Algodão**
+9. **Kit 6 Peças Roupa De Bebê Body Menina Animado Estampado Algodão**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 47,89
    - Desconto: 56% OFF
    - Link: https://s.shopee.com.br/qjcsUPiSn
 
-9. **Escova Rotativa Elétrica 2 em 1**
+10. **Escova Rotativa Elétrica 2 em 1**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 99,99
    - Desconto: 67% OFF
    - Link: https://s.shopee.com.br/3LQxmxePnA
-
-10. **Kit 2 Body Splash Feminino Perfumado Encanto Lily + Florata Rose Pres…**
-   - Categoria: Pet
-   - Loja: Shopee
-   - Preço: R$ 28,90
-   - Desconto: 64% OFF
-   - Link: https://s.shopee.com.br/3g3mrAD7ID
 
 ## Ações gratuitas recomendadas
 

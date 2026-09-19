@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 19/09/2026 20:20
+Gerado em: 19/09/2026 21:22
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 19/09/2026 20:20
 
 **Produtos usados:**
 
+- Ninho Redutor de Berço Mosquiteiro Portátil
 - Berço Portátil Com Mosquiteiro Cama De Duas Camas 0-3 Anos Fecho De S…
 - Baby Doll FB Alcinha Personagens Malha Premium Fresquinho Short Doll…
-- Kit 6 Peças Roupa De Bebê Body Menina Animado Estampado Algodão
 
 ---
 

@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 19/09/2026 09:09
+Gerado em: 19/09/2026 09:23
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Kit 4 Blusa Plus Size Camiseta Dry Fit Roupa de Academia Feminina Lon…
+Macacão Luxo Pantalona
 
-💸 De: R$ 239,66
-🔥 Por: R$ 69,50
-🏷️ 71% OFF
+💸 De: R$ 197,11
+🔥 Por: R$ 68,99
+🏷️ 65% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/9fKyH3kztR
+Ver oferta: https://s.shopee.com.br/AAHHSgNyOc
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

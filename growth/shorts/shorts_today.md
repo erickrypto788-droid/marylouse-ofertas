@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 19/09/2026 11:17
+Gerado em: 19/09/2026 12:18
 
 ## Como usar
 
@@ -127,7 +127,7 @@ Gerado em: 19/09/2026 11:17
 **Produtos usados:**
 
 - Creme Dental Bioxtra em Oferta
-- Puff Orgânico Curvo - 1 Metro Elegância e Conforto Moderno Feijao mod…
 - Kit Pele de Porcelana Kokeshi
+- Amaciante Comfort Lavanda 2x 1,5L
 
 ---

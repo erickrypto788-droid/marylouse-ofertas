@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 20/09/2026 19:31
+Gerado em: 20/09/2026 20:10
 
 ## Como usar
 
@@ -72,37 +72,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 3 — Ofertas Pet
-
-**Canal recomendado:** Ofertas Pet
-
-**Horário sugerido:** 17:00 - 20:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
-
-**Texto pronto:**
-
-```txt
-🐶 Oferta para Ofertas Pet
-
-Carrinho de Controle Remoto Esportivo Competição Ferrari Lamborghini…
-
-💸 De: R$ 50,10
-🔥 Por: R$ 20,54
-🏷️ 59% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/60Rhy3XkdX
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 4 — Mamãe e Bebê
+## Post 3 — Mamãe e Bebê
 
 **Canal recomendado:** Mamãe e Bebê
 
@@ -132,7 +102,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 5 — Moda Feminina
+## Post 4 — Moda Feminina
 
 **Canal recomendado:** Moda Feminina
 
@@ -147,14 +117,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Conjunto Plus Size Pantalona e Blusa
+Calça Legging Ausare UV50+ Cós Alto
 
-💸 De: R$ 148,62
-🔥 Por: R$ 54,99
-🏷️ 63% OFF
-🛒 Loja: Shopee
+💸 De: R$ 296,00
+🔥 Por: R$ 99,90
+🏷️ 66% OFF
+🛒 Loja: Mercado Livre
 
-Ver oferta: https://s.shopee.com.br/7fZxwjK9fi
+Ver oferta: https://www.mercadolivre.com.br/p/MLB69276350?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
@@ -162,7 +132,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 6 — Celulares e Tecnologia
+## Post 5 — Celulares e Tecnologia
 
 **Canal recomendado:** Celulares e Tecnologia
 
@@ -185,6 +155,36 @@ Carregador Portátil MagSafe
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/3LQxeiiRd5
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 6 — Ofertas Pet
+
+**Canal recomendado:** Ofertas Pet
+
+**Horário sugerido:** 17:00 - 20:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
+
+**Texto pronto:**
+
+```txt
+🐶 Oferta para Ofertas Pet
+
+Comedouro Dispenser De Ração Automático 8l Para Cães Gatos Cor Comedo…
+
+💸 De: R$ 59,99
+🔥 Por: R$ 43,25
+🏷️ 28% OFF
+🛒 Loja: Mercado Livre
+
+Ver oferta: https://www.mercadolivre.com.br/p/MLB76168566?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

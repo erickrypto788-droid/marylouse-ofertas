@@ -1,5 +1,47 @@
 [
   {
+    "id": "3dedcd8f86f5742982",
+    "title": "Controlador sem fio para console Nintendo Switch/NS Lite/NS OLED, Joy…",
+    "raw_title": "Controlador sem fio para console Nintendo Switch/NS Lite/NS OLED, Joycon Gamepad, Controle, Joystick, Joypad, Turbo,",
+    "description": "🔥 38% OFF — Oferta encontrada! 📌 Controlador sem fio para console Nintendo Switch/NS Lite/NS OLED, Joycon Gamepad, Controle, Joystick, Joypad, Turbo, Co...",
+    "marketplace": "Shopee",
+    "category": "Jogos e Consoles",
+    "old_price": "R$ 168,98",
+    "price": "R$ 104,77",
+    "discount_percent": 38.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-823rp-mp4moe0tfaiq74",
+    "affiliate_url": "https://s.shopee.com.br/9KiBjQp3sw",
+    "created_at": "20/09/2026 23:16",
+    "created_at_iso": "2026-09-20T23:16:48",
+    "created_ts": 1789946208,
+    "niche": {
+      "key": "shopee_jogos_consoles",
+      "name": "Jogos e Consoles"
+    }
+  },
+  {
+    "id": "6fe2b438527d4c9ac6",
+    "title": "Video game Stick 4K",
+    "raw_title": "Video game Stick 4K Com 20000 Jogos 2 Controles Sem Fio Console Portatil Jogos Retro Video Game",
+    "description": "💥 VOLTE NO TEMPO! Reviva a nostalgia dos games! O Video game Stick 4K chegou com 20.000 jogos e 2 controles sem fio! 🎮 Transforme qualquer TV em um cent...",
+    "marketplace": "Shopee",
+    "category": "Jogos e Consoles",
+    "old_price": "R$ 199,98",
+    "price": "R$ 109,99",
+    "discount_percent": 45.0,
+    "rating": 4.7,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7rd6n-m6qak63wsx3m75",
+    "affiliate_url": "https://s.shopee.com.br/1VzLfK2jD9",
+    "created_at": "20/09/2026 23:15",
+    "created_at_iso": "2026-09-20T23:15:44",
+    "created_ts": 1789946144,
+    "niche": {
+      "key": "shopee_jogos_consoles",
+      "name": "Jogos e Consoles"
+    }
+  },
+  {
     "id": "009b8584c32fc69379",
     "title": "Whey Protein Concentrado + Whey Protein Isolado + Cafeína",
     "raw_title": "Whey Protein Concentrado + Whey Protein Isolado + Cafeína",
@@ -2291,26 +2333,5 @@
     "created_at": "20/09/2026 00:01",
     "created_at_iso": "2026-09-20T00:01:43",
     "created_ts": 1789862503
-  },
-  {
-    "id": "cbcc1fc05b5f4ba62c",
-    "title": "Mochila Tática Versátil",
-    "raw_title": "Mochila tática leve e versátil para atividades ao ar livre - bolsa de peito masculina esportiva",
-    "description": "🎒 Liberdade para suas aventuras! Mochila tática leve e super versátil, perfeita para atividades ao ar livre e para o dia a dia. Leve tudo que precisa co...",
-    "marketplace": "Shopee",
-    "category": "Bolsas Masculinas",
-    "old_price": "",
-    "price": "R$ 37,50",
-    "discount_percent": 0.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7renl-m210z6l6vu1p04",
-    "affiliate_url": "https://s.shopee.com.br/8KpeCzpP9v",
-    "created_at": "19/09/2026 23:16",
-    "created_at_iso": "2026-09-19T23:16:34",
-    "created_ts": 1789859794,
-    "niche": {
-      "key": "shopee_bolsas_masculinas",
-      "name": "Bolsas Masculinas"
-    }
   }
 ]

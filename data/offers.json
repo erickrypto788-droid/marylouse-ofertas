@@ -1,5 +1,56 @@
 [
   {
+    "id": "65bfe529a9aec8fead",
+    "title": "Bike Spinning Ergométrica",
+    "raw_title": "Bike Spinning Ergométrica Cor Preto",
+    "description": "💪🔥 Treine no conforto da sua casa! Chegou a hora de ter a sua Bike Spinning Ergométrica Cor Preto! Perfeita para um treino intenso e eficaz. 📦 Frete Grá...",
+    "marketplace": "Mercado Livre",
+    "category": "Esportes e Lazer",
+    "old_price": "",
+    "price": "R$ 1.789,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_685682-MLU78981825033_092024-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36405300?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "20/09/2026 06:04",
+    "created_at_iso": "2026-09-20T06:04:17",
+    "created_ts": 1789884257
+  },
+  {
+    "id": "09bb46317541a28ff6",
+    "title": "Bike Spinning Bicicleta 6kg Wct Fitness Preta",
+    "raw_title": "Bike Spinning Bicicleta 6kg Wct Fitness Preta",
+    "description": "🔥 44% OFF — Oferta encontrada! 📌 Bike Spinning Bicicleta 6kg Wct Fitness Preta Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Esportes e Lazer",
+    "old_price": "R$ 1.132,90",
+    "price": "R$ 636,00",
+    "discount_percent": 44.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_648848-MLA113038268844_072026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75107533?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "20/09/2026 06:03",
+    "created_at_iso": "2026-09-20T06:03:06",
+    "created_ts": 1789884186
+  },
+  {
+    "id": "0dde161d860154b73e",
+    "title": "Esteira Ergométrica Dobrável Bluetooth",
+    "raw_title": "Esteira Ergométrica Elétrica Dobrável Residencial Com Bluetooth Tela Led 14km/h Jmjn Esteira Ergometrica 120kg",
+    "description": "🏃‍♀️💨 Sua academia em casa com um precinho IMPERDÍVEL! Chegou a Esteira Ergométrica Elétrica perfeita para você! Dobrável, com Bluetooth e Tela LED, ela...",
+    "marketplace": "Mercado Livre",
+    "category": "Esportes e Lazer",
+    "old_price": "R$ 3.399,00",
+    "price": "R$ 1.409,80",
+    "discount_percent": 59.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_904000-MLA117408351115_092026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB73080390?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "20/09/2026 06:02",
+    "created_at_iso": "2026-09-20T06:02:02",
+    "created_ts": 1789884122
+  },
+  {
     "id": "257e83d84e7f83812e",
     "title": "CONJUNTO PATY FEMININO LUXO - SAIA COM CROPPED DE AMARRAÇÃO (PAULA)",
     "raw_title": "CONJUNTO PATY FEMININO LUXO - SAIA COM CROPPED DE AMARRAÇÃO (PAULA)",
@@ -2206,26 +2257,5 @@
     "created_at": "19/09/2026 06:15",
     "created_at_iso": "2026-09-19T06:15:54",
     "created_ts": 1789798554
-  },
-  {
-    "id": "d49c3ef3933cb16c25",
-    "title": "36/48/60/80/100/120/168 peças conjunto de canetas hidrográficas dupla…",
-    "raw_title": "36/48/60/80/100/120/168 peças conjunto de canetas hidrográficas duplas especializadas para pintura",
-    "description": "🔥 93% OFF — Oferta encontrada! 📌 36/48/60/80/100/120/168 peças conjunto de canetas hidrográficas duplas especializadas para pintura Confira os detalhes...",
-    "marketplace": "Shopee",
-    "category": "Papelaria",
-    "old_price": "R$ 299,86",
-    "price": "R$ 20,99",
-    "discount_percent": 93.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7ra2w-mbeww236bjhy31",
-    "affiliate_url": "https://s.shopee.com.br/LnLU7ybGF",
-    "created_at": "19/09/2026 05:21",
-    "created_at_iso": "2026-09-19T05:21:01",
-    "created_ts": 1789795261,
-    "niche": {
-      "key": "shopee_papelaria",
-      "name": "Papelaria"
-    }
   }
 ]

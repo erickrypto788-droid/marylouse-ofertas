@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 20/09/2026 00:22
+Gerado em: 20/09/2026 02:09
 
 ## Como usar
 
@@ -128,6 +128,6 @@ Gerado em: 20/09/2026 00:22
 
 - Creme Dental Bioxtra em Oferta
 - Kit Pele de Porcelana Kokeshi
-- Amaciante Comfort Lavanda 2x 1,5L
+- Absorvente Mulher Ativa Com Abas Kit 80 Pacotes Gel Super Absorvente
 
 ---

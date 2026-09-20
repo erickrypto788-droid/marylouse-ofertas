@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 20/09/2026 09:18
+Gerado em: 20/09/2026 10:22
 
 ## Como usar
 
@@ -102,9 +102,9 @@ Gerado em: 20/09/2026 09:18
 
 **Produtos usados:**
 
+- Carregador Portátil MagSafe
 - Kit de ferramentas + Cola + Elástico Para troca reparos manutenção de…
-- Adaptador Tipo-C USBC e Leitor de Cartão de Memória SD, TF E USB OTG…
-- Amplificador de Tela Lupa 3D
+- Fone Bluetooth Air Pods Pro 3
 
 ---
 

@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 20/09/2026 12:06
+Gerado em: 20/09/2026 12:20
 
 ## Como usar
 
@@ -27,14 +27,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
 ```txt
 💄 Oferta para Beleza e Cuidados
 
-Escova Secadora 3 em 1 Profissional
+Escova Secadora 3 em 1
 
-💸 De: R$ 199,97
-🔥 Por: R$ 77,99
-🏷️ 61% OFF
+💸 De: R$ 292,23
+🔥 Por: R$ 37,99
+🏷️ 87% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/6q0pxOVQDC
+Ver oferta: https://s.shopee.com.br/9zxt3cf8Mx
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

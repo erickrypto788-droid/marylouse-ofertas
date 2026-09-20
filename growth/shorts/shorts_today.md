@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 20/09/2026 12:06
+Gerado em: 20/09/2026 12:20
 
 ## Como usar
 
@@ -78,9 +78,9 @@ Gerado em: 20/09/2026 12:06
 
 **Produtos usados:**
 
+- Escova Secadora 3 em 1
 - Escova Secadora 3 em 1 Profissional
-- Escova Rotativa Elétrica 2 em 1
-- Kit 2 Body Splash Feminino Perfumado Encanto Lily + Florata Rose Pres…
+- Kit Body Splash Masculino Malbeck Essencialle
 
 ---
 

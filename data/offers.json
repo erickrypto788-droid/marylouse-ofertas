@@ -1,5 +1,68 @@
 [
   {
+    "id": "0b1bbefc51f0cc8fc2",
+    "title": "Kit Kokeshi Pele Porcelana",
+    "raw_title": "Kit Dupla Renovadores Faciais Kokeshi Pele Porcelana Olhos Gueixa",
+    "description": "✨ Pele de porcelana e olhos de gueixa? SIM! ✨ O Kit Dupla Renovadores Faciais Kokeshi traz o segredo da beleza oriental para você! Tenha uma pele renova...",
+    "marketplace": "Shopee",
+    "category": "Beleza",
+    "old_price": "R$ 55,57",
+    "price": "R$ 38,90",
+    "discount_percent": 30.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820l6-mq3nf4vg8k5f75",
+    "affiliate_url": "https://s.shopee.com.br/4qFlZilyKq",
+    "created_at": "20/09/2026 12:18",
+    "created_at_iso": "2026-09-20T12:18:08",
+    "created_ts": 1789906688,
+    "niche": {
+      "key": "shopee_beleza",
+      "name": "Beleza"
+    }
+  },
+  {
+    "id": "616a1f8ff2f27dc6f8",
+    "title": "Kit Body Splash Masculino Malbeck Essencialle",
+    "raw_title": "Kit de 2 Até 3 Body Splash Masculino Malbeck Essencialle Magnata Árabe 200ml Longa Duração Cheiroso",
+    "description": "🔥 OFERTA RELÂMPAGO! Body Splash Masculino com 66% OFF! 🔥 O Kit de 2 Até 3 Body Splash Masculino Malbeck Essencialle Magnata Árabe 200ml é a sua chance d...",
+    "marketplace": "Shopee",
+    "category": "Beleza",
+    "old_price": "R$ 99,68",
+    "price": "R$ 33,89",
+    "discount_percent": 66.0,
+    "rating": 4.5,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820mf-mp6zuij832md2c",
+    "affiliate_url": "https://s.shopee.com.br/BTxLYGZHk",
+    "created_at": "20/09/2026 12:17",
+    "created_at_iso": "2026-09-20T12:17:00",
+    "created_ts": 1789906620,
+    "niche": {
+      "key": "shopee_beleza",
+      "name": "Beleza"
+    }
+  },
+  {
+    "id": "7b99bed6707aa2765e",
+    "title": "Escova Secadora 3 em 1",
+    "raw_title": "Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler APENAS 110V Jimmystore",
+    "description": "✨ Cabelo perfeito em minutos! A Escova Secadora Alisadora 3 em 1 que vai revolucionar seu visual! Tenha fios secos, lisos e modelados com uma única ferr...",
+    "marketplace": "Shopee",
+    "category": "Beleza",
+    "old_price": "R$ 292,23",
+    "price": "R$ 37,99",
+    "discount_percent": 87.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7ra3j-mblwmvx5pq1o34",
+    "affiliate_url": "https://s.shopee.com.br/9zxt3cf8Mx",
+    "created_at": "20/09/2026 12:15",
+    "created_at_iso": "2026-09-20T12:15:51",
+    "created_ts": 1789906551,
+    "niche": {
+      "key": "shopee_beleza",
+      "name": "Beleza"
+    }
+  },
+  {
     "id": "10ddc81de15cf86306",
     "title": "Xiaomi 15T 5G - Potência e Espaço",
     "raw_title": "Smartphone Xiaomi 15t 5g 12+12gb Ram + 512gb, Cinza",
@@ -2108,48 +2171,6 @@
     "niche": {
       "key": "shopee_sapatos_femininos",
       "name": "Sapatos Femininos"
-    }
-  },
-  {
-    "id": "bcd7cf330b9e966204",
-    "title": "Bota PVC Chuva Motociclista Moto Impermeável Forrado",
-    "raw_title": "Bota PVC Chuva Motociclista Moto Impermeável Forrado",
-    "description": "🔥 43% OFF — Oferta encontrada! 📌 Bota PVC Chuva Motociclista Moto Impermeável Forrado Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Shopee",
-    "category": "Sapatos Masculinos",
-    "old_price": "R$ 70,00",
-    "price": "R$ 39,90",
-    "discount_percent": 43.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lx1awltl1aynb2",
-    "affiliate_url": "https://s.shopee.com.br/4B04W0jN5Y",
-    "created_at": "19/09/2026 12:16",
-    "created_at_iso": "2026-09-19T12:16:49",
-    "created_ts": 1789820209,
-    "niche": {
-      "key": "shopee_sapatos_masculinos",
-      "name": "Sapatos Masculinos"
-    }
-  },
-  {
-    "id": "d964a046f5cb21f1f0",
-    "title": "Tênis Infantil Casual",
-    "raw_title": "Tênis Infantil Menino Masculino Casual Sapatenis Infantil",
-    "description": "Seu filho merece esse estilo! 👟✨ Garanta agora o Tênis Infantil Menino Masculino Casual Sapatenis! Conforto e visual moderno para os pequenos, com um su...",
-    "marketplace": "Shopee",
-    "category": "Sapatos Masculinos",
-    "old_price": "R$ 105,18",
-    "price": "R$ 59,95",
-    "discount_percent": 43.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98q-lm6hytak80mjaf",
-    "affiliate_url": "https://s.shopee.com.br/AUu83eGiv9",
-    "created_at": "19/09/2026 12:15",
-    "created_at_iso": "2026-09-19T12:15:45",
-    "created_ts": 1789820145,
-    "niche": {
-      "key": "shopee_sapatos_masculinos",
-      "name": "Sapatos Masculinos"
     }
   }
 ]

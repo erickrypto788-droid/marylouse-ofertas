@@ -1,5 +1,47 @@
 [
   {
+    "id": "1d6a73e4ff3674824e",
+    "title": "Bota Feminina GiGiL Cano Longo Elegante",
+    "raw_title": "Bota Feminina GiGiL Cano Longo Enrugado Slouch Bico Fino Salto Bloco Médio Elegante Clássica Casual",
+    "description": "✨ Bota Feminina GiGiL: Elegância e Conforto com Preço IMPERDÍVEL! A bota cano longo enrugado slouch, com bico fino e salto bloco médio, é a peça perfeit...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Femininos",
+    "old_price": "R$ 297,85",
+    "price": "R$ 139,99",
+    "discount_percent": 53.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8luys2i8oep28",
+    "affiliate_url": "https://s.shopee.com.br/80Cn9Axh94",
+    "created_at": "20/09/2026 09:17",
+    "created_at_iso": "2026-09-20T09:17:01",
+    "created_ts": 1789895821,
+    "niche": {
+      "key": "shopee_sapatos_femininos",
+      "name": "Sapatos Femininos"
+    }
+  },
+  {
+    "id": "978828a98b430b67df",
+    "title": "Tênis SNEEKS Feminino",
+    "raw_title": "Tênis SNEEKS Feminino para Uso Diário Prático e Estiloso Super Promoção",
+    "description": "Estilo e conforto para o seu dia a dia! 👟 O Tênis SNEEKS Feminino que você ama, agora com um super desconto. Mais de 4 mil vendas e avaliação 4.9/5! ✨",
+    "marketplace": "Shopee",
+    "category": "Sapatos Femininos",
+    "old_price": "R$ 99,97",
+    "price": "R$ 39,99",
+    "discount_percent": 60.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk3wepd0ly4g52",
+    "affiliate_url": "https://s.shopee.com.br/2BF1WrjrWG",
+    "created_at": "20/09/2026 09:15",
+    "created_at_iso": "2026-09-20T09:15:53",
+    "created_ts": 1789895753,
+    "niche": {
+      "key": "shopee_sapatos_femininos",
+      "name": "Sapatos Femininos"
+    }
+  },
+  {
     "id": "ab7cafae5f8437badb",
     "title": "Kit Ferramentas Informática",
     "raw_title": "Kit Ferramentas Informatica Cor Preto",
@@ -2205,77 +2247,5 @@
       "key": "shopee_roupas_femininas",
       "name": "Roupas Femininas"
     }
-  },
-  {
-    "id": "0e4ff2490679292119",
-    "title": "Macacão Luxo Pantalona",
-    "raw_title": "Macacão Feminino Longo Regata Pantalona Com Bolsos Social Luxo",
-    "description": "Sinta-se poderosa! ✨ Macacão Feminino Longo Regata Pantalona com Bolsos, perfeito para qualquer ocasião. Conforto e luxo que você merece! 💖",
-    "marketplace": "Shopee",
-    "category": "Roupas Femininas",
-    "old_price": "R$ 197,11",
-    "price": "R$ 68,99",
-    "discount_percent": 65.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lr-mn04hnv8ag3odb",
-    "affiliate_url": "https://s.shopee.com.br/AAHHSgNyOc",
-    "created_at": "19/09/2026 09:15",
-    "created_at_iso": "2026-09-19T09:15:55",
-    "created_ts": 1789809355,
-    "niche": {
-      "key": "shopee_roupas_femininas",
-      "name": "Roupas Femininas"
-    }
-  },
-  {
-    "id": "9a425d873b3e99254f",
-    "title": "Amaciante Comfort Lavanda 2x 1,5L",
-    "raw_title": "2 Amaciante Roupas Concentrado Lavanda Frasco Comfort 1,5l",
-    "description": "✨ Roupas macias e perfumadas por muito mais tempo! ✨ Garanta já seu kit com 2 Amaciantes Comfort Concentrado Lavanda 1,5L. 🚚 Frete grátis!",
-    "marketplace": "Mercado Livre",
-    "category": "Supermercados",
-    "old_price": "",
-    "price": "R$ 84,90",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_615666-MLA109283386397_032026-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67005264?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "19/09/2026 09:08",
-    "created_at_iso": "2026-09-19T09:08:11",
-    "created_ts": 1789808891
-  },
-  {
-    "id": "22fde62b74bc32bfaa",
-    "title": "Kit 6 Amaciante Intense Comfort",
-    "raw_title": "Kit 6 Amaciante Roupas Concentrado Intense Comfort 500ml",
-    "description": "✨ Roupas macias e perfumadas como nunca! ✨ Garanta já seu Kit 6 Amaciante Concentrado Intense Comfort 500ml e transforme suas lavagens! 🚚 Frete grátis p...",
-    "marketplace": "Mercado Livre",
-    "category": "Supermercados",
-    "old_price": "",
-    "price": "R$ 122,99",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_953918-MLA99879963737_112025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB32842039?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "19/09/2026 09:07",
-    "created_at_iso": "2026-09-19T09:07:01",
-    "created_ts": 1789808821
-  },
-  {
-    "id": "28dfae15c413b532bf",
-    "title": "Creme Dental Bioxtra em Oferta",
-    "raw_title": "Creme Dental 50 Gr - Bioxtra",
-    "description": "🦷 Sorriso impecável com essa oferta! Garanta já o seu Creme Dental Bioxtra 50g e cuide da sua saúde bucal com um super desconto! ✨ 🚚 Frete grátis para t...",
-    "marketplace": "Mercado Livre",
-    "category": "Supermercados",
-    "old_price": "R$ 187,00",
-    "price": "R$ 105,91",
-    "discount_percent": 43.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_983828-MLA99834196017_112025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20572035?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "19/09/2026 09:05",
-    "created_at_iso": "2026-09-19T09:05:53",
-    "created_ts": 1789808753
   }
 ]

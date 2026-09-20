@@ -1,15 +1,15 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 20/09/2026 12:28
+Gerado em: 20/09/2026 13:22
 
 ## Categorias prioritárias
 
 - 📱 **Celulares**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 🍼 **Mãe e Bebê**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 💄 **Beleza**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 🍼 **Mãe e Bebê**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 👟 **Calçados**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 🏋️ **Esportes**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 🐶 **Pet**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
+- 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 💻 **Informática**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 👕 **Moda Masculina**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
@@ -59,33 +59,33 @@ Gerado em: 20/09/2026 12:28
    - Desconto: 42% OFF
    - Link: https://s.shopee.com.br/1VzJXTnHD9
 
-7. **Kit Body Splash Masculino Malbeck Essencialle**
+7. **Kit 5 Regatas Bebê**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 29,99
+   - Desconto: 63% OFF
+   - Link: https://s.shopee.com.br/2gBIOGREiR
+
+8. **Kit Body Splash Masculino Malbeck Essencialle**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 33,89
    - Desconto: 66% OFF
    - Link: https://s.shopee.com.br/BTxLYGZHk
 
-8. **Fone Bluetooth Air Pods Pro 3**
+9. **Fone Bluetooth Air Pods Pro 3**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 26,99
    - Desconto: 50% OFF
    - Link: https://s.shopee.com.br/4fwMZagzo7
 
-9. **Carregador Portátil MagSafe**
+10. **Carregador Portátil MagSafe**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 26,90
    - Desconto: 73% OFF
    - Link: https://s.shopee.com.br/3LQxeiiRd5
-
-10. **Adaptador Tipo-C USBC e Leitor de Cartão de Memória SD, TF E USB OTG…**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 17,90
-   - Desconto: 52% OFF
-   - Link: https://s.shopee.com.br/9AOlKmv4Ay
 
 ## Ações gratuitas recomendadas
 

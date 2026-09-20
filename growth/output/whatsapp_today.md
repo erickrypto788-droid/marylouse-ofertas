@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 20/09/2026 10:22
+Gerado em: 20/09/2026 11:20
 
 ## Como usar
 
@@ -57,14 +57,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
 ```txt
 🍳 Oferta para Casa e Cozinha
 
-Panela Pressão 4,5 Litros Fechamento Externo Antiaderente Teflon Vari…
+Panela de Pressão Panelux 4,5L
 
-💸 De: R$ 230,86
-🔥 Por: R$ 133,90
-🏷️ 42% OFF
+💸 De: R$ 115,49
+🔥 Por: R$ 58,90
+🏷️ 49% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/1VzJXTnHD9
+Ver oferta: https://s.shopee.com.br/BTvx1sLul
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

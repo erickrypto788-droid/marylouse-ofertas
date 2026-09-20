@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 20/09/2026 15:22
+Gerado em: 20/09/2026 16:19
 
 ## Como usar
 
@@ -77,8 +77,8 @@ Gerado em: 20/09/2026 15:22
 **Produtos usados:**
 
 - Escova Secadora 3 em 1
-- Escova Secadora 3 em 1 Profissional
 - Kit Body Splash Masculino Malbeck Essencialle
+- Amaciante Concentrado Perfume
 
 ---
 

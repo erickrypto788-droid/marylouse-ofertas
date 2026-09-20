@@ -1,18 +1,18 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 20/09/2026 15:22
+Gerado em: 20/09/2026 16:19
 
 ## Categorias prioritárias
 
+- 🍼 **Mãe e Bebê**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🏋️ **Esportes**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 🍼 **Mãe e Bebê**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 🐶 **Pet**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
-- 💄 **Beleza**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 📱 **Celulares**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 🧸 **Brinquedos**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
+- 🐶 **Pet**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 👟 **Calçados**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- ❤️ **Saúde**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
+- 💄 **Beleza**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 💻 **Informática**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- ❤️ **Saúde**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 📦 **Outros**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 
 ## Top ofertas para destacar
@@ -24,68 +24,68 @@ Gerado em: 20/09/2026 15:22
    - Desconto: 87% OFF
    - Link: https://s.shopee.com.br/9zxt3cf8Mx
 
-2. **Escova Secadora 3 em 1 Profissional**
-   - Categoria: Beleza
-   - Loja: Shopee
-   - Preço: R$ 77,99
-   - Desconto: 61% OFF
-   - Link: https://s.shopee.com.br/6q0pxOVQDC
-
-3. **Panela de Pressão Panelux 4,5L**
+2. **Panela de Pressão Panelux 4,5L**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 58,90
    - Desconto: 49% OFF
    - Link: https://s.shopee.com.br/BTvx1sLul
 
-4. **SSD SATA III de 2,5 polegadas 120GB 128GB 240GB 256GB notebook deskto…**
+3. **SSD SATA III de 2,5 polegadas 120GB 128GB 240GB 256GB notebook deskto…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 71,24
    - Desconto: 38% OFF
    - Link: https://s.shopee.com.br/7ptNkKvfpg
 
-5. **Estojo Maquiagem Infantil Coração**
+4. **Estojo Maquiagem Infantil Coração**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 19,25
    - Desconto: 36% OFF
    - Link: https://s.shopee.com.br/3qNEuqdv9g
 
-6. **Boneca Bebê Reborn Unicórnio Realista**
+5. **Balança Digital Inteligente: Medidor Corporal por Bioimpedância - Ana…**
+   - Categoria: Saúde
+   - Loja: Shopee
+   - Preço: R$ 35,98
+   - Desconto: 64% OFF
+   - Link: https://s.shopee.com.br/5AsdZE74Wy
+
+6. **Nebulizador Portátil AIQUE**
+   - Categoria: Saúde
+   - Loja: Shopee
+   - Preço: R$ 25,98
+   - Desconto: 62% OFF
+   - Link: https://s.shopee.com.br/6VO19ft81J
+
+7. **Boneca Bebê Reborn Unicórnio Realista**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 79,90
    - Desconto: 56% OFF
    - Link: https://s.shopee.com.br/70KF1eca45
 
-7. **Comedouro Dispenser De Ração Automático 8l Para Cães Gatos Cor Comedo…**
+8. **Comedouro Dispenser De Ração Automático 8l Para Cães Gatos Cor Comedo…**
    - Categoria: Pet
    - Loja: Mercado Livre
    - Preço: R$ 43,25
    - Desconto: 28% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB76168566?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-8. **Kit 5 Regatas Bebê**
+9. **Kit 5 Regatas Bebê**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 29,99
    - Desconto: 63% OFF
    - Link: https://s.shopee.com.br/2gBIOGREiR
 
-9. **Kit Body Splash Masculino Malbeck Essencialle**
+10. **Kit Body Splash Masculino Malbeck Essencialle**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 33,89
    - Desconto: 66% OFF
    - Link: https://s.shopee.com.br/BTxLYGZHk
-
-10. **Fone Bluetooth Air Pods Pro 3**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 26,99
-   - Desconto: 50% OFF
-   - Link: https://s.shopee.com.br/4fwMZagzo7
 
 ## Ações gratuitas recomendadas
 

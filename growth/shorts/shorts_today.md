@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 20/09/2026 22:21
+Gerado em: 20/09/2026 23:05
 
 ## Como usar
 
@@ -32,7 +32,7 @@ Gerado em: 20/09/2026 22:21
 
 - Ninho Redutor de Berço + Trocador Portátil
 - Kit 5 Regatas Bebê
-- Kit Limpeza Mamadeira Portátil Azul
+- Termômetro Digital Bebê e Adulto
 
 ---
 

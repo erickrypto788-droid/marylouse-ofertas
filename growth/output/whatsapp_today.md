@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 20/09/2026 06:27
+Gerado em: 20/09/2026 07:20
 
 ## Como usar
 
@@ -147,14 +147,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Vestido Longo Feminino Costa Nua Midi Inverno Elegante de Festa Plus…
+Conjunto Plus Size Pantalona e Blusa
 
-💸 De: R$ 80,81
-🔥 Por: R$ 29,90
+💸 De: R$ 148,62
+🔥 Por: R$ 54,99
 🏷️ 63% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/4fwMEyiPAI
+Ver oferta: https://s.shopee.com.br/7fZxwjK9fi
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

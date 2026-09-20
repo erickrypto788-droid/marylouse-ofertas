@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 20/09/2026 02:09
+Gerado em: 20/09/2026 02:22
 
 ## Como usar
 
@@ -32,7 +32,7 @@ Gerado em: 20/09/2026 02:09
 
 - Kit Limpeza Mamadeira Portátil Azul
 - Ninho Redutor de Berço Mosquiteiro Portátil
-- Berço Portátil Com Mosquiteiro Cama De Duas Camas 0-3 Anos Fecho De S…
+- Calcinha Incontinência com Bolsa Coletora
 
 ---
 
@@ -103,8 +103,8 @@ Gerado em: 20/09/2026 02:09
 **Produtos usados:**
 
 - Kit de ferramentas + Cola + Elástico Para troca reparos manutenção de…
+- Adaptador Tipo-C USBC e Leitor de Cartão de Memória SD, TF E USB OTG…
 - Amplificador de Tela Lupa 3D
-- Xiaomi Redmi 12 + Fone
 
 ---
 

@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 20/09/2026 16:52
+Gerado em: 20/09/2026 17:22
 
 ## Como usar
 
@@ -117,14 +117,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
 ```txt
 🍼 Oferta para Mamãe e Bebê
 
-Kit 5 Regatas Bebê
+Ninho Redutor de Berço + Trocador Portátil
 
-💸 De: R$ 81,05
-🔥 Por: R$ 29,99
-🏷️ 63% OFF
+💸 De: R$ 141,61
+🔥 Por: R$ 43,90
+🏷️ 69% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/2gBIOGREiR
+Ver oferta: https://s.shopee.com.br/1134fh2ysC
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

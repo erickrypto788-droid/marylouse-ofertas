@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 20/09/2026 21:06
+Gerado em: 20/09/2026 21:22
 
 ## Como usar
 
@@ -147,14 +147,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
 ```txt
 📱 Oferta para Celulares e Tecnologia
 
-Carregador Portátil MagSafe
+Leitor De Cartão Usb 3.0 Adaptador Micro Sd/sdxc 5gbps Envio Imediato
 
-💸 De: R$ 99,63
-🔥 Por: R$ 26,90
-🏷️ 73% OFF
+💸 De: R$ 67,82
+🔥 Por: R$ 18,99
+🏷️ 72% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/3LQxeiiRd5
+Ver oferta: https://s.shopee.com.br/30o9JqMuOm
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

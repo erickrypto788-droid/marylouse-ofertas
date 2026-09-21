@@ -1,5 +1,26 @@
 [
   {
+    "id": "f384a38639cb218ba5",
+    "title": "Calça Jeans Plus Size Super Conforto",
+    "raw_title": "Calça Jeans Plus Size Com Elastano Super Conforto 44 ao 54",
+    "description": "🔥 IMPERDÍVEL! Conforto e estilo com 50% OFF! ✨ A Calça Jeans Plus Size com Elastano que oferece Super Conforto do 44 ao 54 chegou com um precinho incrív...",
+    "marketplace": "Shopee",
+    "category": "Roupas Plus Size",
+    "old_price": "R$ 99,60",
+    "price": "R$ 49,80",
+    "discount_percent": 50.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-maiosq4lapvze8",
+    "affiliate_url": "https://s.shopee.com.br/1VzLrhIPVv",
+    "created_at": "21/09/2026 22:15",
+    "created_at_iso": "2026-09-21T22:15:58",
+    "created_ts": 1790028958,
+    "niche": {
+      "key": "shopee_roupas_plus_size",
+      "name": "Roupas Plus Size"
+    }
+  },
+  {
     "id": "4daa5e4229e9643966",
     "title": "Camiseta UV50+ Brasil Manga Longa Masculina/Feminina Dry Fit Proteção…",
     "raw_title": "Camiseta UV50+ Brasil Manga Longa Masculina/Feminina Dry Fit Proteção Solar Camisa Patriota Estampada",
@@ -2420,27 +2441,6 @@
     "created_at": "20/09/2026 22:16",
     "created_at_iso": "2026-09-20T22:16:54",
     "created_ts": 1789942614,
-    "niche": {
-      "key": "shopee_bebidas_alimentos",
-      "name": "Bebidas e Alimentos"
-    }
-  },
-  {
-    "id": "b1f90b3436420beeec",
-    "title": "Creatina Monohidratada 100% Pura - Soldiers Nutrition",
-    "raw_title": "Creatina Suplemento Monohidratada em Pó 100% Pura Importada - Soldiers Nutrition",
-    "description": "⚡️ IMPERDÍVEL! Creatina Soldiers Nutrition com SUPER DESCONTO! 💪 Turbine seus treinos com a Creatina Suplemento Monohidratada em Pó 100% Pura Importada...",
-    "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
-    "old_price": "R$ 121,07",
-    "price": "R$ 33,90",
-    "discount_percent": 72.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m9-mpwm1rqctatfc5",
-    "affiliate_url": "https://s.shopee.com.br/AKajaTVVJ6",
-    "created_at": "20/09/2026 22:15",
-    "created_at_iso": "2026-09-20T22:15:50",
-    "created_ts": 1789942550,
     "niche": {
       "key": "shopee_bebidas_alimentos",
       "name": "Bebidas e Alimentos"

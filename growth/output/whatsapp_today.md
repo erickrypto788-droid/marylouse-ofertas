@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 21/09/2026 00:03
+Gerado em: 21/09/2026 00:22
 
 ## Como usar
 
@@ -117,14 +117,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Calça Legging Ausare UV50+ Cós Alto
+Calça Pantalona Feminina Cintura Alta Com Bolso Tecido Duna
 
-💸 De: R$ 296,00
-🔥 Por: R$ 99,90
-🏷️ 66% OFF
-🛒 Loja: Mercado Livre
+💸 De: R$ 110,74
+🔥 Por: R$ 29,90
+🏷️ 73% OFF
+🛒 Loja: Shopee
 
-Ver oferta: https://www.mercadolivre.com.br/p/MLB69276350?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+Ver oferta: https://s.shopee.com.br/6VO1gdlsOZ
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

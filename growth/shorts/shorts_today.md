@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 21/09/2026 22:17
+Gerado em: 21/09/2026 23:20
 
 ## Como usar
 
@@ -56,7 +56,7 @@ Gerado em: 21/09/2026 22:17
 
 - Cafeteira Electrolux ECM10
 - Espremedor Elétrico Laranja Limão Frutas Fazer Sucos Recarregável Usb…
-- Spray de Óleo para Cozinha Vidro 200ml Borrifador Azeite Vinagre Air…
+- Painel D'Rossi Painel Para TV para TV até 60" cumaru de mdf/mdp
 
 ---
 
@@ -127,7 +127,7 @@ Gerado em: 21/09/2026 22:17
 **Produtos usados:**
 
 - Bola Feijão ioga yoga com bomba Amendoim pilates ginastica exercicio…
-- Puff Feijão Banqueta Grande Curvada Divã Estofado de Veludo e Pés de…
 - Papel higiênico INDAIAL CAICAI PAPEL HIGIENICO folha dupla de 1 un
+- Substrato Pronto 10L | Turfa + Perlita + Casca de Arroz Carbonizada |…
 
 ---

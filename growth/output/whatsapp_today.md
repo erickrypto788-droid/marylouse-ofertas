@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 21/09/2026 07:22
+Gerado em: 21/09/2026 08:03
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
 ```txt
 🐶 Oferta para Ofertas Pet
 
-Comedouro Dispenser De Ração Automático 8l Para Cães Gatos Cor Comedo…
+Ração Gato Estimacat Premium Adulto Sabor Carne 15kg
 
-💸 De: R$ 59,99
-🔥 Por: R$ 43,25
-🏷️ 28% OFF
+💸 De: R$ 356,33
+🔥 Por: R$ 267,25
+🏷️ 25% OFF
 🛒 Loja: Mercado Livre
 
-Ver oferta: https://www.mercadolivre.com.br/p/MLB76168566?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+Ver oferta: https://www.mercadolivre.com.br/p/MLB66541712?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

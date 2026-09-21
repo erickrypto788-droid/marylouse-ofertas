@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 21/09/2026 01:22
+Gerado em: 21/09/2026 02:19
 
 ## Categorias prioritárias
 
 - 👗 **Moda Feminina**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 🏋️ **Esportes**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 👕 **Moda Masculina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
-- 💻 **Informática**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 📦 **Outros**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 🍼 **Mãe e Bebê**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- ✨ **Moda Plus Size**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
+- 💻 **Informática**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 🐶 **Pet**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 🍳 **Casa e Cozinha**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 
 ## Top ofertas para destacar
 
@@ -38,54 +38,54 @@ Gerado em: 21/09/2026 01:22
    - Desconto: 49% OFF
    - Link: https://s.shopee.com.br/BTvx1sLul
 
-4. **SSD SATA III de 2,5 polegadas 120GB 128GB 240GB 256GB notebook deskto…**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 71,24
-   - Desconto: 38% OFF
-   - Link: https://s.shopee.com.br/7ptNkKvfpg
-
-5. **Spray de Óleo para Cozinha Vidro 200ml Borrifador Azeite Vinagre Air…**
+4. **Spray de Óleo para Cozinha Vidro 200ml Borrifador Azeite Vinagre Air…**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 16,79
    - Desconto: 57% OFF
    - Link: https://s.shopee.com.br/AKak7RFJd2
 
-6. **Leitor De Cartão Usb 3.0 Adaptador Micro Sd/sdxc 5gbps Envio Imediato**
+5. **Leitor De Cartão Usb 3.0 Adaptador Micro Sd/sdxc 5gbps Envio Imediato**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 18,99
    - Desconto: 72% OFF
    - Link: https://s.shopee.com.br/30o9JqMuOm
 
-7. **Webcam Câmera Computador Full HD 1080x1920p 2MP USB Plug Play Microfo…**
+6. **Webcam Câmera Computador Full HD 1080x1920p 2MP USB Plug Play Microfo…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 28,00
    - Desconto: 59% OFF
    - Link: https://s.shopee.com.br/5q8Kh3Gagi
 
-8. **Kit Gamer Teclado e Mouse RGB Branco**
+7. **Kit Gamer Teclado e Mouse RGB Branco**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 51,90
    - Desconto: 60% OFF
    - Link: https://s.shopee.com.br/2LYRCE7wxs
 
-9. **Porta USB Hub 8 Em 1 Leitor SD Type C Áudio 3.5mm, HDMI 4K, RJ45 Rede…**
+8. **Porta USB Hub 8 Em 1 Leitor SD Type C Áudio 3.5mm, HDMI 4K, RJ45 Rede…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 39,90
    - Desconto: 69% OFF
    - Link: https://s.shopee.com.br/1gIljORz6O
 
-10. **Cadeira Massagem Escritorio Cadeira Escritorio Presidente Cor Âmbar**
+9. **Cadeira Massagem Escritorio Cadeira Escritorio Presidente Cor Âmbar**
    - Categoria: Pet
    - Loja: Mercado Livre
    - Preço: R$ 829,00
    - Desconto: 56% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB59413555?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+10. **Aplique Finalizador de Laço e Agenda KIT 100 UN (5 Modelos) Passante…**
+   - Categoria: Pet
+   - Loja: Shopee
+   - Preço: R$ 19,40
+   - Desconto: 54% OFF
+   - Link: https://s.shopee.com.br/1134s3fGwU
 
 ## Ações gratuitas recomendadas
 

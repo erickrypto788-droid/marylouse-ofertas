@@ -1,12 +1,12 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 21/09/2026 11:21
+Gerado em: 21/09/2026 12:09
 
 ## Categorias prioritárias
 
+- 🍼 **Mãe e Bebê**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🏋️ **Esportes**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 💻 **Informática**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 🍼 **Mãe e Bebê**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 👟 **Calçados**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 🧸 **Brinquedos**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 💄 **Beleza**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
@@ -38,54 +38,54 @@ Gerado em: 21/09/2026 11:21
    - Desconto: 87% OFF
    - Link: https://s.shopee.com.br/9zxt3cf8Mx
 
-4. **Medidor Pressão Digital De Pulso Com Voz Monitor Inteligente,Aparelho…**
+4. **Fralda Huggies Jumbinho M**
+   - Categoria: Mãe e Bebê
+   - Loja: Mercado Livre
+   - Preço: R$ 42,90
+   - Desconto: 35% OFF
+   - Link: https://www.mercadolivre.com.br/p/MLB25251850?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+5. **Medidor Pressão Digital De Pulso Com Voz Monitor Inteligente,Aparelho…**
    - Categoria: Saúde
    - Loja: Shopee
    - Preço: R$ 38,89
    - Desconto: 51% OFF
    - Link: https://s.shopee.com.br/8fSVjec9K2
 
-5. **Medidor de Pressão Digital de Braço Automático Monitor Cardíaco LCD c…**
+6. **Medidor de Pressão Digital de Braço Automático Monitor Cardíaco LCD c…**
    - Categoria: Saúde
    - Loja: Shopee
    - Preço: R$ 38,99
    - Desconto: 61% OFF
    - Link: https://s.shopee.com.br/5fouA8nZPc
 
-6. **Balança Corporal Transparente Quadrada Digital Até 180kg Com Vidro Te…**
+7. **Balança Corporal Transparente Quadrada Digital Até 180kg Com Vidro Te…**
    - Categoria: Saúde
    - Loja: Shopee
    - Preço: R$ 29,90
    - Desconto: 65% OFF
    - Link: https://s.shopee.com.br/3B7ZBYEgae
 
-7. **Termômetro De Testa Infravermelha Digital**
+8. **Termômetro De Testa Infravermelha Digital**
    - Categoria: Saúde
    - Loja: Shopee
    - Preço: R$ 26,89
    - Desconto: 78% OFF
    - Link: https://s.shopee.com.br/1gImf5HN8Y
 
-8. **Monitor De Pressão Arterial De Pulso Recarregável Alta XYY-2551**
+9. **Monitor De Pressão Arterial De Pulso Recarregável Alta XYY-2551**
    - Categoria: Saúde
    - Loja: Shopee
    - Preço: R$ 39,89
    - Desconto: 80% OFF
    - Link: https://s.shopee.com.br/80CowQegfq
 
-9. **Tapete Termico Infantil Bebe Estampas Atividades Educativo Tapetinho…**
+10. **Tapete Termico Infantil Bebe Estampas Atividades Educativo Tapetinho…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 20,99
    - Desconto: 58% OFF
    - Link: https://s.shopee.com.br/3LR0a1Uysy
-
-10. **Ração Gato Estimacat Premium Adulto Sabor Carne 15kg**
-   - Categoria: Pet
-   - Loja: Mercado Livre
-   - Preço: R$ 267,25
-   - Desconto: 25% OFF
-   - Link: https://www.mercadolivre.com.br/p/MLB66541712?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ## Ações gratuitas recomendadas
 

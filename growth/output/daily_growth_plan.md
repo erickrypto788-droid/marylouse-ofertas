@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 21/09/2026 11:04
+Gerado em: 21/09/2026 11:21
 
 ## Categorias prioritárias
 
@@ -10,10 +10,10 @@ Gerado em: 21/09/2026 11:04
 - 👟 **Calçados**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 🧸 **Brinquedos**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 💄 **Beleza**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 🍳 **Casa e Cozinha**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
+- ❤️ **Saúde**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 👗 **Moda Feminina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 🐶 **Pet**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
-- 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 🍳 **Casa e Cozinha**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 
 ## Top ofertas para destacar
 
@@ -38,54 +38,54 @@ Gerado em: 21/09/2026 11:04
    - Desconto: 87% OFF
    - Link: https://s.shopee.com.br/9zxt3cf8Mx
 
-4. **Panela de Pressão Panelux 4,5L**
-   - Categoria: Casa e Cozinha
+4. **Medidor Pressão Digital De Pulso Com Voz Monitor Inteligente,Aparelho…**
+   - Categoria: Saúde
    - Loja: Shopee
-   - Preço: R$ 58,90
-   - Desconto: 49% OFF
-   - Link: https://s.shopee.com.br/BTvx1sLul
+   - Preço: R$ 38,89
+   - Desconto: 51% OFF
+   - Link: https://s.shopee.com.br/8fSVjec9K2
 
-5. **Tapete Termico Infantil Bebe Estampas Atividades Educativo Tapetinho…**
+5. **Medidor de Pressão Digital de Braço Automático Monitor Cardíaco LCD c…**
+   - Categoria: Saúde
+   - Loja: Shopee
+   - Preço: R$ 38,99
+   - Desconto: 61% OFF
+   - Link: https://s.shopee.com.br/5fouA8nZPc
+
+6. **Balança Corporal Transparente Quadrada Digital Até 180kg Com Vidro Te…**
+   - Categoria: Saúde
+   - Loja: Shopee
+   - Preço: R$ 29,90
+   - Desconto: 65% OFF
+   - Link: https://s.shopee.com.br/3B7ZBYEgae
+
+7. **Termômetro De Testa Infravermelha Digital**
+   - Categoria: Saúde
+   - Loja: Shopee
+   - Preço: R$ 26,89
+   - Desconto: 78% OFF
+   - Link: https://s.shopee.com.br/1gImf5HN8Y
+
+8. **Monitor De Pressão Arterial De Pulso Recarregável Alta XYY-2551**
+   - Categoria: Saúde
+   - Loja: Shopee
+   - Preço: R$ 39,89
+   - Desconto: 80% OFF
+   - Link: https://s.shopee.com.br/80CowQegfq
+
+9. **Tapete Termico Infantil Bebe Estampas Atividades Educativo Tapetinho…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 20,99
    - Desconto: 58% OFF
    - Link: https://s.shopee.com.br/3LR0a1Uysy
 
-6. **Ração Gato Estimacat Premium Adulto Sabor Carne 15kg**
+10. **Ração Gato Estimacat Premium Adulto Sabor Carne 15kg**
    - Categoria: Pet
    - Loja: Mercado Livre
    - Preço: R$ 267,25
    - Desconto: 25% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB66541712?matt_word=marylouse&matt_tool=50459180&forceInApp=true
-
-7. **Kit Body Splash Dolce + Florata Red**
-   - Categoria: Beleza
-   - Loja: Shopee
-   - Preço: R$ 42,90
-   - Desconto: 57% OFF
-   - Link: https://s.shopee.com.br/9V1dizicQV
-
-8. **Attracione Men (Feromônios)**
-   - Categoria: Beleza
-   - Loja: Shopee
-   - Preço: R$ 57,22
-   - Desconto: 80% OFF
-   - Link: https://s.shopee.com.br/3VkPJg3sWC
-
-9. **Espremedor Elétrico Laranja Limão Frutas Fazer Sucos Recarregável Usb…**
-   - Categoria: Casa e Cozinha
-   - Loja: Shopee
-   - Preço: R$ 61,69
-   - Desconto: 56% OFF
-   - Link: https://s.shopee.com.br/8AWG4Q7Vhq
-
-10. **Carregador iPhone Turbo 20W + Cabo Lightning**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 16,99
-   - Desconto: 66% OFF
-   - Link: https://s.shopee.com.br/gQF4WK4Rx
 
 ## Ações gratuitas recomendadas
 

@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 21/09/2026 08:03
+Gerado em: 21/09/2026 08:22
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
 ```txt
 🐶 Oferta para Ofertas Pet
 
-Ração Gato Estimacat Premium Adulto Sabor Carne 15kg
+Sandália Papete Infantil Glady Strass
 
-💸 De: R$ 356,33
-🔥 Por: R$ 267,25
-🏷️ 25% OFF
-🛒 Loja: Mercado Livre
+💸 De: R$ 99,84
+🔥 Por: R$ 62,90
+🏷️ 37% OFF
+🛒 Loja: Shopee
 
-Ver oferta: https://www.mercadolivre.com.br/p/MLB66541712?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+Ver oferta: https://s.shopee.com.br/6q0rLvFdY4
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

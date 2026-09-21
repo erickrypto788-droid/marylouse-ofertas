@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 21/09/2026 12:09
+Gerado em: 21/09/2026 12:21
 
 ## Como usar
 
@@ -57,14 +57,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
 ```txt
 🍼 Oferta para Mamãe e Bebê
 
-Tapete Termico Infantil Bebe Estampas Atividades Educativo Tapetinho…
+Toalha de Banho Fralda Soft com Capuz para Bebê OU Kit com 2, 3 ou…
 
-💸 De: R$ 49,98
-🔥 Por: R$ 20,99
-🏷️ 58% OFF
+💸 De: R$ 60,36
+🔥 Por: R$ 31,99
+🏷️ 47% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/3LR0a1Uysy
+Ver oferta: https://s.shopee.com.br/AKal37eANR
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

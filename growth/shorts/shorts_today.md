@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 21/09/2026 12:09
+Gerado em: 21/09/2026 12:21
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 21/09/2026 12:09
 
 **Produtos usados:**
 
-- Ninho Redutor de Berço + Trocador Portátil
-- Kit 5 Regatas Bebê
-- Fralda Huggies Jumbinho M
+- Toalha de Banho Fralda Soft com Capuz para Bebê OU Kit com 2, 3 ou…
+- NINHO REDUTOR DE BERÇO | COM ZIPER E LAÇO | TROCADOR PORTÁTIL |…
+- Berço Portátil Moisés Co-bed
 
 ---
 
@@ -79,8 +79,8 @@ Gerado em: 21/09/2026 12:09
 **Produtos usados:**
 
 - Perfume Attracione Feminino
-- Escova Secadora 3 em 1
 - Attracione Men (Feromônios)
+- Kit Body Splash Dolce + Florata Red
 
 ---
 

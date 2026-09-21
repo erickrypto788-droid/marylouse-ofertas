@@ -1,5 +1,47 @@
 [
   {
+    "id": "36475e52fe6d3f1023",
+    "title": "Sandália GABI Conforto Premium",
+    "raw_title": "Sandália Feminina Conforto Premium Com Detalhe Dourado Elegante | Casual E Sofisticada GABI",
+    "description": "Elegância e Conforto com DESCONTO IMPERDÍVEL! ✨ A Sandália GABI é pura sofisticação e bem-estar para seus pés. Com detalhe dourado elegante, perfeita pa...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Femininos",
+    "old_price": "R$ 121,32",
+    "price": "R$ 44,89",
+    "discount_percent": 63.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mibvkye9k16q87",
+    "affiliate_url": "https://s.shopee.com.br/5q8L9ty1O2",
+    "created_at": "21/09/2026 04:17",
+    "created_at_iso": "2026-09-21T04:17:02",
+    "created_ts": 1789964222,
+    "niche": {
+      "key": "shopee_sapatos_femininos",
+      "name": "Sapatos Femininos"
+    }
+  },
+  {
+    "id": "904ac95eae26624c27",
+    "title": "Sandália Rasteira Conforto Medalhas",
+    "raw_title": "Sandália Feminina Asa Delta Rasteira Conforto Medalhas Douradas com Fivela Reveillon",
+    "description": "✨ Conforto e estilo aos seus pés! A Sandália Feminina Asa Delta Rasteira com Medalhas Douradas é perfeita para qualquer ocasião, unindo elegância e bem-...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Femininos",
+    "old_price": "R$ 110,00",
+    "price": "R$ 42,90",
+    "discount_percent": 61.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mefxl407v282c1",
+    "affiliate_url": "https://s.shopee.com.br/60RlMCxO2z",
+    "created_at": "21/09/2026 04:15",
+    "created_at_iso": "2026-09-21T04:15:54",
+    "created_ts": 1789964154,
+    "niche": {
+      "key": "shopee_sapatos_femininos",
+      "name": "Sapatos Femininos"
+    }
+  },
+  {
     "id": "aae8413b48fd67e677",
     "title": "Soundbar Samsung Hw-b400f + Soundbar Hw-b400f Preto",
     "raw_title": "Soundbar Samsung Hw-b400f + Soundbar Hw-b400f Preto",
@@ -2294,48 +2336,6 @@
     "created_at": "20/09/2026 04:18",
     "created_at_iso": "2026-09-20T04:18:01",
     "created_ts": 1789877881,
-    "niche": {
-      "key": "shopee_jogos_consoles",
-      "name": "Jogos e Consoles"
-    }
-  },
-  {
-    "id": "a55502f918b812da25",
-    "title": "Headset Gamer Pichau Vega",
-    "raw_title": "Headset Gamer Pichau Vega, Drivers 50mm, Preto, PCH-VGA-BL01",
-    "description": "🎮🔥 Headset Gamer Pichau Vega com 50% OFF! Prepare-se para uma imersão total nos seus jogos com áudio de alta qualidade e drivers de 50mm. Preto, design...",
-    "marketplace": "Shopee",
-    "category": "Jogos e Consoles",
-    "old_price": "R$ 224,02",
-    "price": "R$ 112,01",
-    "discount_percent": 50.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7rdvp-mcapznlrlndd39",
-    "affiliate_url": "https://s.shopee.com.br/60RjlJALPt",
-    "created_at": "20/09/2026 04:16",
-    "created_at_iso": "2026-09-20T04:16:57",
-    "created_ts": 1789877817,
-    "niche": {
-      "key": "shopee_jogos_consoles",
-      "name": "Jogos e Consoles"
-    }
-  },
-  {
-    "id": "4a2703e425535f939f",
-    "title": "Console Portátil R36S",
-    "raw_title": "Console Portátil R36S + de 15.000 Jogos Vídeo Game 64g Linux Tela IPS 3.5 Polegadas",
-    "description": "🎮 VOLTE NO TEMPO COM ESTA OFERTA INCRÍVEL! 🚀 Reviva a infância com o Console Portátil R36S! São mais de 15.000 jogos clássicos em um só lugar, com tela...",
-    "marketplace": "Shopee",
-    "category": "Jogos e Consoles",
-    "old_price": "R$ 502,83",
-    "price": "R$ 175,99",
-    "discount_percent": 65.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7ra3y-m56askdr4w0n04",
-    "affiliate_url": "https://s.shopee.com.br/3g3nec6KPy",
-    "created_at": "20/09/2026 04:15",
-    "created_at_iso": "2026-09-20T04:15:47",
-    "created_ts": 1789877747,
     "niche": {
       "key": "shopee_jogos_consoles",
       "name": "Jogos e Consoles"

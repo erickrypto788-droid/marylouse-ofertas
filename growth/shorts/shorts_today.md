@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 21/09/2026 10:06
+Gerado em: 21/09/2026 10:25
 
 ## Como usar
 
@@ -32,7 +32,7 @@ Gerado em: 21/09/2026 10:06
 
 - Ninho Redutor de Berço + Trocador Portátil
 - Kit 5 Regatas Bebê
-- Termômetro Digital Bebê e Adulto
+- Tapete Termico Infantil Bebe Estampas Atividades Educativo Tapetinho…
 
 ---
 
@@ -104,7 +104,7 @@ Gerado em: 21/09/2026 10:06
 
 - Carregador iPhone Turbo 20W + Cabo Lightning
 - Leitor De Cartão Usb 3.0 Adaptador Micro Sd/sdxc 5gbps Envio Imediato
-- Carregador Portátil MagSafe
+- Smartphone Xiaomi Redmi 15c 256gb Global Azul
 
 ---
 

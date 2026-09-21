@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 21/09/2026 10:06
+Gerado em: 21/09/2026 10:25
 
 ## Como usar
 
@@ -42,7 +42,37 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 2 — Casa e Cozinha
+## Post 2 — Mamãe e Bebê
+
+**Canal recomendado:** Mamãe e Bebê
+
+**Horário sugerido:** 09:00 - 11:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
+
+**Texto pronto:**
+
+```txt
+🍼 Oferta para Mamãe e Bebê
+
+Tapete Termico Infantil Bebe Estampas Atividades Educativo Tapetinho…
+
+💸 De: R$ 49,98
+🔥 Por: R$ 20,99
+🏷️ 58% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/3LR0a1Uysy
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 3 — Casa e Cozinha
 
 **Canal recomendado:** Casa e Cozinha
 
@@ -65,36 +95,6 @@ Panela de Pressão Panelux 4,5L
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/BTvx1sLul
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 3 — Mamãe e Bebê
-
-**Canal recomendado:** Mamãe e Bebê
-
-**Horário sugerido:** 09:00 - 11:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
-
-**Texto pronto:**
-
-```txt
-🍼 Oferta para Mamãe e Bebê
-
-Ninho Redutor de Berço + Trocador Portátil
-
-💸 De: R$ 141,61
-🔥 Por: R$ 43,90
-🏷️ 69% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/1134fh2ysC
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

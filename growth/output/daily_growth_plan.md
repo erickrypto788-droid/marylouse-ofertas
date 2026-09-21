@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 21/09/2026 10:06
+Gerado em: 21/09/2026 10:25
 
 ## Categorias prioritárias
 
 - 🏋️ **Esportes**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 💻 **Informática**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 🍼 **Mãe e Bebê**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 🍼 **Mãe e Bebê**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 👟 **Calçados**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 🧸 **Brinquedos**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 💄 **Beleza**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🍳 **Casa e Cozinha**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
-- 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 👗 **Moda Feminina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
+- 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 🧒 **Moda Infantil**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-infantil.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-infantil
-- 🐶 **Pet**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 
 ## Top ofertas para destacar
 
@@ -45,47 +45,47 @@ Gerado em: 21/09/2026 10:06
    - Desconto: 49% OFF
    - Link: https://s.shopee.com.br/BTvx1sLul
 
-5. **Ração Gato Estimacat Premium Adulto Sabor Carne 15kg**
+5. **Tapete Termico Infantil Bebe Estampas Atividades Educativo Tapetinho…**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 20,99
+   - Desconto: 58% OFF
+   - Link: https://s.shopee.com.br/3LR0a1Uysy
+
+6. **Ração Gato Estimacat Premium Adulto Sabor Carne 15kg**
    - Categoria: Pet
    - Loja: Mercado Livre
    - Preço: R$ 267,25
    - Desconto: 25% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB66541712?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-6. **Kit Body Splash Dolce + Florata Red**
+7. **Kit Body Splash Dolce + Florata Red**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 42,90
    - Desconto: 57% OFF
    - Link: https://s.shopee.com.br/9V1dizicQV
 
-7. **Attracione Men (Feromônios)**
+8. **Attracione Men (Feromônios)**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 57,22
    - Desconto: 80% OFF
    - Link: https://s.shopee.com.br/3VkPJg3sWC
 
-8. **Espremedor Elétrico Laranja Limão Frutas Fazer Sucos Recarregável Usb…**
+9. **Espremedor Elétrico Laranja Limão Frutas Fazer Sucos Recarregável Usb…**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 61,69
    - Desconto: 56% OFF
    - Link: https://s.shopee.com.br/8AWG4Q7Vhq
 
-9. **Carregador iPhone Turbo 20W + Cabo Lightning**
+10. **Carregador iPhone Turbo 20W + Cabo Lightning**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 16,99
    - Desconto: 66% OFF
    - Link: https://s.shopee.com.br/gQF4WK4Rx
-
-10. **Spray de Óleo para Cozinha Vidro 200ml Borrifador Azeite Vinagre Air…**
-   - Categoria: Casa e Cozinha
-   - Loja: Shopee
-   - Preço: R$ 16,79
-   - Desconto: 57% OFF
-   - Link: https://s.shopee.com.br/AKak7RFJd2
 
 ## Ações gratuitas recomendadas
 

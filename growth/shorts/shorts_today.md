@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 21/09/2026 16:03
+Gerado em: 21/09/2026 16:22
 
 ## Como usar
 
@@ -79,8 +79,8 @@ Gerado em: 21/09/2026 16:03
 **Produtos usados:**
 
 - Perfume Attracione Feminino
+- 32 Peças Kit De Maquiagem Para Crianças Lavável/Conjunto Portátil Men…
 - Attracione Men (Feromônios)
-- Kit Body Splash Dolce + Florata Red
 
 ---
 
@@ -102,9 +102,9 @@ Gerado em: 21/09/2026 16:03
 
 **Produtos usados:**
 
+- Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com…
 - Carregador iPhone Turbo 20W + Cabo Lightning
 - Leitor De Cartão Usb 3.0 Adaptador Micro Sd/sdxc 5gbps Envio Imediato
-- Smartphone Xiaomi Redmi 15c 256gb Global Azul
 
 ---
 

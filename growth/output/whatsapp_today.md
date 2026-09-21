@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 21/09/2026 16:03
+Gerado em: 21/09/2026 16:22
 
 ## Como usar
 
@@ -12,7 +12,37 @@ Gerado em: 21/09/2026 16:03
 
 ---
 
-## Post 1 — Beleza e Cuidados
+## Post 1 — Celulares e Tecnologia
+
+**Canal recomendado:** Celulares e Tecnologia
+
+**Horário sugerido:** 19:00 - 21:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
+
+**Texto pronto:**
+
+```txt
+📱 Oferta para Celulares e Tecnologia
+
+Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com…
+
+💸 De: R$ 50,74
+🔥 Por: R$ 19,79
+🏷️ 61% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/6L4ZtRUP4u
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 2 — Beleza e Cuidados
 
 **Canal recomendado:** Beleza e Cuidados
 
@@ -42,7 +72,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 2 — Mamãe e Bebê
+## Post 3 — Mamãe e Bebê
 
 **Canal recomendado:** Mamãe e Bebê
 
@@ -72,7 +102,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 3 — Moda Feminina
+## Post 4 — Moda Feminina
 
 **Canal recomendado:** Moda Feminina
 
@@ -95,36 +125,6 @@ Calça Pantalona Feminina Cintura Alta Com Bolso Tecido Duna
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/6VO1gdlsOZ
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 4 — Celulares e Tecnologia
-
-**Canal recomendado:** Celulares e Tecnologia
-
-**Horário sugerido:** 19:00 - 21:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
-
-**Texto pronto:**
-
-```txt
-📱 Oferta para Celulares e Tecnologia
-
-Carregador iPhone Turbo 20W + Cabo Lightning
-
-💸 De: R$ 49,97
-🔥 Por: R$ 16,99
-🏷️ 66% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/gQF4WK4Rx
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

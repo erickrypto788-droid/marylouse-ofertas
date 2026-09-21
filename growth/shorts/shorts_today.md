@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 21/09/2026 05:04
+Gerado em: 21/09/2026 05:18
 
 ## Como usar
 
@@ -102,9 +102,9 @@ Gerado em: 21/09/2026 05:04
 
 **Produtos usados:**
 
+- Carregador iPhone Turbo 20W + Cabo Lightning
 - Leitor De Cartão Usb 3.0 Adaptador Micro Sd/sdxc 5gbps Envio Imediato
 - Carregador Portátil MagSafe
-- Fone Bluetooth Air Pods Pro 3
 
 ---
 

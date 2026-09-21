@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 21/09/2026 05:04
+Gerado em: 21/09/2026 05:18
 
 ## Como usar
 
@@ -147,14 +147,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
 ```txt
 📱 Oferta para Celulares e Tecnologia
 
-Leitor De Cartão Usb 3.0 Adaptador Micro Sd/sdxc 5gbps Envio Imediato
+Carregador iPhone Turbo 20W + Cabo Lightning
 
-💸 De: R$ 67,82
-🔥 Por: R$ 18,99
-🏷️ 72% OFF
+💸 De: R$ 49,97
+🔥 Por: R$ 16,99
+🏷️ 66% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/30o9JqMuOm
+Ver oferta: https://s.shopee.com.br/gQF4WK4Rx
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

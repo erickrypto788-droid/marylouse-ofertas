@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 21/09/2026 20:01
+Gerado em: 21/09/2026 20:22
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
 ```txt
 👟 Oferta para Moda e Calçados
 
-Tênis Infantil LED Homem-Aranha
+Tênis O2x Feminino Esportivo Confortável Leve Treino Caminhada Corrid…
 
-💸 De: R$ 199,75
-🔥 Por: R$ 79,90
+💸 De: R$ 99,90
+🔥 Por: R$ 39,96
 🏷️ 60% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/50ZEQqJnWs
+Ver oferta: https://s.shopee.com.br/2LYSizS4Ee
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

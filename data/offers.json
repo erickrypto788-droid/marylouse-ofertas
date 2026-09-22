@@ -1,5 +1,26 @@
 [
   {
+    "id": "c495c0a54d2bc940cb",
+    "title": "Sandália Saltinho Strass Brilho",
+    "raw_title": "pronta entrega envio imediato Sandália Saltinho 4 cm Tira de Strass Brilho Calce Fácil Confortável elegante dia a dia",
+    "description": "BRILHE com estilo e conforto! ✨ Essa Sandália Saltinho 4cm com Tira de Strass é perfeita para você que busca elegância e calce fácil no dia a dia. Confo...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Femininos",
+    "old_price": "R$ 79,93",
+    "price": "R$ 35,97",
+    "discount_percent": 55.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjj7whhr045f82",
+    "affiliate_url": "https://s.shopee.com.br/3LR2lzzkMc",
+    "created_at": "22/09/2026 19:15",
+    "created_at_iso": "2026-09-22T19:15:51",
+    "created_ts": 1790104551,
+    "niche": {
+      "key": "shopee_sapatos_femininos",
+      "name": "Sapatos Femininos"
+    }
+  },
+  {
     "id": "c071edcb86a768180f",
     "title": "Tênis Sapatênis Masculino Knit Confortável Respirável Estilso Fácil d…",
     "raw_title": "Tênis Sapatênis Masculino Knit Confortável Respirável Estilso Fácil de Calçar Resistente para o Dia a Dia",
@@ -2119,107 +2140,6 @@
     "niche": {
       "key": "shopee_roupas_femininas",
       "name": "Roupas Femininas"
-    }
-  },
-  {
-    "id": "3927d6d81b229e60c0",
-    "title": "Nintendo Switch 2 lcd 256gb novo",
-    "raw_title": "Nintendo Switch 2 lcd 256gb novo",
-    "description": "🔥 Oferta encontrada! 📌 Nintendo Switch 2 lcd 256gb novo Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Shopee",
-    "category": "Jogos e Consoles",
-    "old_price": "",
-    "price": "R$ 4.149,00",
-    "discount_percent": 0.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m3-mqrmdakdjuv584",
-    "affiliate_url": "https://s.shopee.com.br/1BMU0QK9SI",
-    "created_at": "21/09/2026 19:15",
-    "created_at_iso": "2026-09-21T19:15:45",
-    "created_ts": 1790018145,
-    "niche": {
-      "key": "shopee_jogos_consoles",
-      "name": "Jogos e Consoles"
-    }
-  },
-  {
-    "id": "6670fcb0dd80e49872",
-    "title": "Combo Parafusadeira DEWALT DCK276D2",
-    "raw_title": "Combo Parafusadeira Furadeira de Impacto 13mm + Parafusadeira de Impacto 6,3mm DEWALT DCK276D2",
-    "description": "🛠️ Potência DEWALT para seus projetos! 🚀 Combo Parafusadeira Furadeira de Impacto 13mm + Parafusadeira de Impacto 6,3mm DEWALT DCK276D2. Tenha o dobro d...",
-    "marketplace": "Mercado Livre",
-    "category": "Ferramentas",
-    "old_price": "",
-    "price": "R$ 1.599,00",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_941219-MLU77146464530_062024-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21865416?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "21/09/2026 19:02",
-    "created_at_iso": "2026-09-21T19:02:09",
-    "created_ts": 1790017329
-  },
-  {
-    "id": "ef5999431f3138a550",
-    "title": "Chocolate Em Pó 50% Cacau 1,01kg Sicao",
-    "raw_title": "Chocolate Em Pó 50% Cacau 1,01kg Sicao",
-    "description": "🔥 38% OFF — Oferta encontrada! 📌 Chocolate Em Pó 50% Cacau 1,01kg Sicao Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
-    "old_price": "R$ 94,53",
-    "price": "R$ 58,61",
-    "discount_percent": 38.0,
-    "rating": 5.0,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7rfgn-m9hrvzc42m681f",
-    "affiliate_url": "https://s.shopee.com.br/7VGa4e3KU1",
-    "created_at": "21/09/2026 18:20",
-    "created_at_iso": "2026-09-21T18:20:07",
-    "created_ts": 1790014807,
-    "niche": {
-      "key": "shopee_bebidas_alimentos",
-      "name": "Bebidas e Alimentos"
-    }
-  },
-  {
-    "id": "432796620dc45e30bd",
-    "title": "Substrato Pronto 10L | Turfa + Perlita + Casca de Arroz Carbonizada |…",
-    "raw_title": "Substrato Pronto 10L | Turfa + Perlita + Casca de Arroz Carbonizada | FERTBAC",
-    "description": "🔥 20% OFF — Oferta encontrada! 📌 Substrato Pronto 10L | Turfa + Perlita + Casca de Arroz Carbonizada | FERTBAC Confira os detalhes e aproveite enquanto...",
-    "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
-    "old_price": "R$ 34,89",
-    "price": "R$ 27,91",
-    "discount_percent": 20.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjyhig9lx2ipbb",
-    "affiliate_url": "https://s.shopee.com.br/6q0rx0Wtu0",
-    "created_at": "21/09/2026 18:19",
-    "created_at_iso": "2026-09-21T18:19:02",
-    "created_ts": 1790014742,
-    "niche": {
-      "key": "shopee_bebidas_alimentos",
-      "name": "Bebidas e Alimentos"
-    }
-  },
-  {
-    "id": "24560c464c9742d367",
-    "title": "Bola Feijão ioga yoga com bomba Amendoim pilates ginastica exercicio…",
-    "raw_title": "Bola Feijão ioga yoga com bomba Amendoim pilates ginastica exercicio peanut ball fisioterapia - Escolha a cor!",
-    "description": "🔥 56% OFF — Oferta encontrada! 📌 Bola Feijão ioga yoga com bomba Amendoim pilates ginastica exercicio peanut ball fisioterapia - Escolha a cor! Confira...",
-    "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
-    "old_price": "R$ 90,68",
-    "price": "R$ 39,90",
-    "discount_percent": 56.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf8gfgjf0xdz88",
-    "affiliate_url": "https://s.shopee.com.br/6q0tHQEnyW",
-    "created_at": "21/09/2026 18:17",
-    "created_at_iso": "2026-09-21T18:17:58",
-    "created_ts": 1790014678,
-    "niche": {
-      "key": "shopee_bebidas_alimentos",
-      "name": "Bebidas e Alimentos"
     }
   }
 ]

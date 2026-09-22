@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 22/09/2026 02:18
+Gerado em: 22/09/2026 03:24
 
 ## Como usar
 
@@ -57,14 +57,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
 ```txt
 💄 Oferta para Beleza e Cuidados
 
-Perfume Attracione Feminino
+Chapinha Profissional Nano Titanium
 
-💸 De: R$ 176,00
-🔥 Por: R$ 44,00
-🏷️ 75% OFF
+💸 De: R$ 90,88
+🔥 Por: R$ 29,99
+🏷️ 67% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/9AOnKNjt6b
+Ver oferta: https://s.shopee.com.br/20ve7csrs6
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

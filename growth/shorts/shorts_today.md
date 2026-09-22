@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 22/09/2026 02:18
+Gerado em: 22/09/2026 03:24
 
 ## Como usar
 
@@ -78,9 +78,9 @@ Gerado em: 22/09/2026 02:18
 
 **Produtos usados:**
 
+- Chapinha Profissional Nano Titanium
 - Perfume Attracione Feminino
 - 32 Peças Kit De Maquiagem Para Crianças Lavável/Conjunto Portátil Men…
-- Attracione Men (Feromônios)
 
 ---
 
@@ -126,8 +126,8 @@ Gerado em: 22/09/2026 02:18
 
 **Produtos usados:**
 
+- Kit Clareador Facial - Sabonete Líquido + Protetor Solar Clareador 70…
 - Bola Feijão ioga yoga com bomba Amendoim pilates ginastica exercicio…
 - Papel higiênico INDAIAL CAICAI PAPEL HIGIENICO folha dupla de 1 un
-- Substrato Pronto 10L | Turfa + Perlita + Casca de Arroz Carbonizada |…
 
 ---

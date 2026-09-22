@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 22/09/2026 08:05
+Gerado em: 22/09/2026 08:22
 
 ## Como usar
 
@@ -87,14 +87,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
 ```txt
 🍼 Oferta para Mamãe e Bebê
 
-Toalha de Banho Fralda Soft com Capuz para Bebê OU Kit com 2, 3 ou…
+Boneca Lola Baby com Chupeta Rosa
 
-💸 De: R$ 60,36
-🔥 Por: R$ 31,99
-🏷️ 47% OFF
+💸 De: R$ 70,00
+🔥 Por: R$ 32,90
+🏷️ 53% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/AKal37eANR
+Ver oferta: https://s.shopee.com.br/6L4dcBSMOt
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

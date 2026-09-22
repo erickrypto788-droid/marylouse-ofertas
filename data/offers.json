@@ -1,5 +1,110 @@
 [
   {
+    "id": "4d77f158589a05607b",
+    "title": "Tiras de Glicemia Bioland (50 un.)",
+    "raw_title": "Tira/Fita de Glicemia C/50 Unidades de Tiras - medidor de glicose - Bioland",
+    "description": "🚨 Sua saúde em primeiro lugar! Mantenha o controle da sua glicose com as Tiras Bioland! Pack com 50 unidades para medições precisas e diárias. 🩺 Garanta...",
+    "marketplace": "Shopee",
+    "category": "Saúde",
+    "old_price": "R$ 62,89",
+    "price": "R$ 38,99",
+    "discount_percent": 38.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj8xhsd5alfq5d",
+    "affiliate_url": "https://s.shopee.com.br/7fa18WcEBK",
+    "created_at": "22/09/2026 07:20",
+    "created_at_iso": "2026-09-22T07:20:31",
+    "created_ts": 1790061631,
+    "niche": {
+      "key": "shopee_saude",
+      "name": "Saúde"
+    }
+  },
+  {
+    "id": "9282d0382edaf0b359",
+    "title": "Medidor de Glicose G-tech Vita",
+    "raw_title": "Aparelho Medidor De Glicose G-tech Vita Kit 10tiras+10lancet",
+    "description": "🚨 Imperdível para sua saúde! Monitore sua glicose com facilidade e precisão! O Aparelho Medidor De Glicose G-tech Vita Kit completo (10 tiras + 10 lance...",
+    "marketplace": "Shopee",
+    "category": "Saúde",
+    "old_price": "R$ 131,14",
+    "price": "R$ 45,90",
+    "discount_percent": 65.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m5-mmvq7zqi054y85",
+    "affiliate_url": "https://s.shopee.com.br/7KxAjudUrE",
+    "created_at": "22/09/2026 07:19",
+    "created_at_iso": "2026-09-22T07:19:22",
+    "created_ts": 1790061562,
+    "niche": {
+      "key": "shopee_saude",
+      "name": "Saúde"
+    }
+  },
+  {
+    "id": "a4a3b807deb65ed66a",
+    "title": "Medidor Glicose G-Tech Completo",
+    "raw_title": "Medidor Glicose Diabete Gtech Vita / Ultra Kit Com 1 Aparelho 1 Caneta 10 Tiras 10 Lancetas Completo",
+    "description": "🩸 Controle sua saúde com facilidade! 🩸 Tenha o Kit Medidor de Glicose G-Tech Vita/Ultra completo para monitorar sua glicose com precisão e praticidade....",
+    "marketplace": "Shopee",
+    "category": "Saúde",
+    "old_price": "R$ 151,45",
+    "price": "R$ 46,95",
+    "discount_percent": 69.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-824gr-mfchnakx2w3vc6",
+    "affiliate_url": "https://s.shopee.com.br/7AdkXbe8CB",
+    "created_at": "22/09/2026 07:18",
+    "created_at_iso": "2026-09-22T07:18:14",
+    "created_ts": 1790061494,
+    "niche": {
+      "key": "shopee_saude",
+      "name": "Saúde"
+    }
+  },
+  {
+    "id": "5ecb2ab304e7b5835e",
+    "title": "Inalador Nebulizador Portátil",
+    "raw_title": "Inalador Nebulizador Portátil Ultrassônico Atomizador De Baixo Nó Para Crianças E Adultos",
+    "description": "🌬️ Alívio Imediato para sua respiração! Diga adeus ao desconforto! O Inalador Nebulizador Portátil Ultrassônico é a solução perfeita para crianças e adu...",
+    "marketplace": "Shopee",
+    "category": "Saúde",
+    "old_price": "R$ 139,95",
+    "price": "R$ 27,99",
+    "discount_percent": 80.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7rdyg-lxl8kiksah6u8e",
+    "affiliate_url": "https://s.shopee.com.br/9zxvuoKgPE",
+    "created_at": "22/09/2026 07:17",
+    "created_at_iso": "2026-09-22T07:17:06",
+    "created_ts": 1790061426,
+    "niche": {
+      "key": "shopee_saude",
+      "name": "Saúde"
+    }
+  },
+  {
+    "id": "02b9717562a7ba0ba2",
+    "title": "Kit Saúde Completo 4 em 1",
+    "raw_title": "Medidor de pressão arterial digital + tensiômetros +Termômetro infravermelho + oxímetro de dedo",
+    "description": "🚨 KIT ESSENCIAL PARA SUA SAÚDE! 🚨 Tenha tudo que você precisa para monitorar sua saúde e da sua família no conforto de casa! 🏡 Este super kit inclui:",
+    "marketplace": "Shopee",
+    "category": "Saúde",
+    "old_price": "R$ 199,68",
+    "price": "R$ 75,88",
+    "discount_percent": 62.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-81zvb-mn36o785y4g0a4",
+    "affiliate_url": "https://s.shopee.com.br/8KphvkIIUA",
+    "created_at": "22/09/2026 07:15",
+    "created_at_iso": "2026-09-22T07:15:57",
+    "created_ts": 1790061357,
+    "niche": {
+      "key": "shopee_saude",
+      "name": "Saúde"
+    }
+  },
+  {
     "id": "00f929094d1cbc23df",
     "title": "Tecido Paetê Tribal Africano Preto",
     "raw_title": "Tecido Paetê Tribal Africano 1,30x1,50m Vestido Feminino Cor Preto",
@@ -2311,90 +2416,6 @@
     "created_at": "21/09/2026 07:20",
     "created_at_iso": "2026-09-21T07:20:32",
     "created_ts": 1789975232,
-    "niche": {
-      "key": "shopee_beleza",
-      "name": "Beleza"
-    }
-  },
-  {
-    "id": "b95f8e1c7c9b10813e",
-    "title": "Celimax Retinal Booster",
-    "raw_title": "Celimax The Vita A Retinal Shot Tightening Booster 15ml",
-    "description": "✨ Pele firme e renovada? O Celimax The Vita A Retinal Shot Tightening Booster 15ml é o segredo para uma pele mais jovem e revitalizada! Com Retinal, um...",
-    "marketplace": "Shopee",
-    "category": "Beleza",
-    "old_price": "R$ 219,39",
-    "price": "R$ 146,99",
-    "discount_percent": 33.0,
-    "rating": 5.0,
-    "image": "https://cf.shopee.com.br/file/sg-11134207-825ai-mr9pynhmd43k22",
-    "affiliate_url": "https://s.shopee.com.br/6AlBksChYg",
-    "created_at": "21/09/2026 07:19",
-    "created_at_iso": "2026-09-21T07:19:23",
-    "created_ts": 1789975163,
-    "niche": {
-      "key": "shopee_beleza",
-      "name": "Beleza"
-    }
-  },
-  {
-    "id": "38929e6e0046b8b9f9",
-    "title": "Kit Body Splash Dolce + Florata Red",
-    "raw_title": "Kit Body Splash Dolce + Florata Red 200ml Feminino.",
-    "description": "Perfume irresistível com super desconto! ✨ Garanta agora o seu Kit Body Splash Dolce + Florata Red 200ml Feminino. Sinta-se poderosa e cheirosa o dia to...",
-    "marketplace": "Shopee",
-    "category": "Beleza",
-    "old_price": "R$ 99,77",
-    "price": "R$ 42,90",
-    "discount_percent": 57.0,
-    "rating": 4.6,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-md4na59oiqsy8c",
-    "affiliate_url": "https://s.shopee.com.br/9V1dizicQV",
-    "created_at": "21/09/2026 07:18",
-    "created_at_iso": "2026-09-21T07:18:16",
-    "created_ts": 1789975096,
-    "niche": {
-      "key": "shopee_beleza",
-      "name": "Beleza"
-    }
-  },
-  {
-    "id": "99cb1f71877de05b4d",
-    "title": "Perfume Attracione Feminino",
-    "raw_title": "Perfume Attracione Feminino by Attracione Woman Mulher",
-    "description": "💖 Poder Feminino com 75% OFF! O Perfume Attracione Feminino é a sua essência para brilhar! ✨ Mais de 1600 mulheres já se encantaram e deixaram sua marca...",
-    "marketplace": "Shopee",
-    "category": "Beleza",
-    "old_price": "R$ 176,00",
-    "price": "R$ 44,00",
-    "discount_percent": 75.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9g8de45a3w911",
-    "affiliate_url": "https://s.shopee.com.br/9AOnKNjt6b",
-    "created_at": "21/09/2026 07:17",
-    "created_at_iso": "2026-09-21T07:17:06",
-    "created_ts": 1789975026,
-    "niche": {
-      "key": "shopee_beleza",
-      "name": "Beleza"
-    }
-  },
-  {
-    "id": "be0162091319ad383f",
-    "title": "Attracione Men (Feromônios)",
-    "raw_title": "Attracione Men (Perfume Masculino com Feromônios Ativados)",
-    "description": "🚨 Desperte seu poder de atração com Attracione Men! ✨ Este perfume masculino com feromônios ativados é a chave para você se destacar. Sinta a confiança...",
-    "marketplace": "Shopee",
-    "category": "Beleza",
-    "old_price": "R$ 286,10",
-    "price": "R$ 57,22",
-    "discount_percent": 80.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7repr-m2v3wdwedwcb1f",
-    "affiliate_url": "https://s.shopee.com.br/3VkPJg3sWC",
-    "created_at": "21/09/2026 07:15",
-    "created_at_iso": "2026-09-21T07:15:58",
-    "created_ts": 1789974958,
     "niche": {
       "key": "shopee_beleza",
       "name": "Beleza"

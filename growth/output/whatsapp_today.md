@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 22/09/2026 17:20
+Gerado em: 22/09/2026 18:18
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
 ```txt
 👟 Oferta para Moda e Calçados
 
-Tênis Infantil Branco
+Chinelo Masculino Original Reserva Casual Moderno Confortável Macio P…
 
-💸 De: R$ 99,72
-🔥 Por: R$ 39,89
+💸 De: R$ 99,75
+🔥 Por: R$ 39,90
 🏷️ 60% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/40giZR0ZDy
+Ver oferta: https://s.shopee.com.br/5VVXHrkiWa
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

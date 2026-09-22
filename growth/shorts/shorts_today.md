@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 22/09/2026 21:03
+Gerado em: 22/09/2026 21:19
 
 ## Como usar
 
@@ -49,10 +49,12 @@ Gerado em: 22/09/2026 21:03
 - growth/shorts/slides/casa_cozinha/01_intro.png
 - growth/shorts/slides/casa_cozinha/02_produto_1.png
 - growth/shorts/slides/casa_cozinha/03_produto_2.png
+- growth/shorts/slides/casa_cozinha/04_produto_3.png
 - growth/shorts/slides/casa_cozinha/05_cta.png
 
 **Produtos usados:**
 
+- Mixer Elétrico 3 em 1 Elgin
 - Liquidificador Mondial L‑99 Turbo 550 W 3 Velocidades
 - Elgin Air Fryer Fritadeira Air Fryer
 

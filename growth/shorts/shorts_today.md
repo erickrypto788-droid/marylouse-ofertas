@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 22/09/2026 12:22
+Gerado em: 22/09/2026 13:21
 
 ## Como usar
 
@@ -126,8 +126,8 @@ Gerado em: 22/09/2026 12:22
 
 **Produtos usados:**
 
+- Kit 4 Potes Herméticos 2L Com Copo Medidor Organizador Mantimentos Ar…
 - Kit Clareador Facial - Sabonete Líquido + Protetor Solar Clareador 70…
 - Bola Feijão ioga yoga com bomba Amendoim pilates ginastica exercicio…
-- Substrato Pronto 10L | Turfa + Perlita + Casca de Arroz Carbonizada |…
 
 ---

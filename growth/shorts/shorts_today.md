@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 22/09/2026 07:08
+Gerado em: 22/09/2026 07:22
 
 ## Como usar
 
@@ -77,8 +77,8 @@ Gerado em: 22/09/2026 07:08
 **Produtos usados:**
 
 - Chapinha Profissional Nano Titanium
-- Perfume Attracione Feminino
 - 32 Peças Kit De Maquiagem Para Crianças Lavável/Conjunto Portátil Men…
+- Protetor Solar Facial FPS 60 Antioleosidade com Base Efeito Matte Sun…
 
 ---
 

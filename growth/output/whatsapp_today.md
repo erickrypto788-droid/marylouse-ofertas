@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 22/09/2026 07:08
+Gerado em: 22/09/2026 07:22
 
 ## Como usar
 
@@ -147,14 +147,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
 ```txt
 🐶 Oferta para Ofertas Pet
 
-Sandália Papete Infantil Glady Strass
+Inalador Nebulizador Portátil
 
-💸 De: R$ 99,84
-🔥 Por: R$ 62,90
-🏷️ 37% OFF
+💸 De: R$ 139,95
+🔥 Por: R$ 27,99
+🏷️ 80% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/6q0rLvFdY4
+Ver oferta: https://s.shopee.com.br/9zxvuoKgPE
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

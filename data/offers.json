@@ -1,5 +1,47 @@
 [
   {
+    "id": "6b84c8e1ddf86da8b9",
+    "title": "Chinelo Nuvem Plataforma Decorado",
+    "raw_title": "Chinelo BABUCHE PLATAFORMA ALTA NUVEM MACIA 100 % DECORADA COM BÓTONS PINGENTES EM ABS CONFORTÁVELSandália Confortável",
+    "description": "Pés nas nuvens com estilo! ☁️✨ O Chinelo Babuche Plataforma Alta Nuvem Macia, 100% decorado com pingentes, é o conforto que seus pés merecem! Perfeito p...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Femininos",
+    "old_price": "R$ 79,98",
+    "price": "R$ 38,39",
+    "discount_percent": 52.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81zu9-mkpc3fgyf0u9e5",
+    "affiliate_url": "https://s.shopee.com.br/60Rmgbjt5E",
+    "created_at": "22/09/2026 00:17",
+    "created_at_iso": "2026-09-22T00:17:30",
+    "created_ts": 1790036250,
+    "niche": {
+      "key": "shopee_sapatos_femininos",
+      "name": "Sapatos Femininos"
+    }
+  },
+  {
+    "id": "5fca793096dd32ab36",
+    "title": "Bota Feminina Cano Curto Preta Salto Grosso Tratorada Confortável Mod…",
+    "raw_title": "Bota Feminina Cano Curto Preta Salto Grosso Tratorada Confortável Moda Inverno",
+    "description": "🔥 47% OFF — Oferta encontrada! 📌 Bota Feminina Cano Curto Preta Salto Grosso Tratorada Confortável Moda Inverno Confira os detalhes e aproveite enquanto...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Femininos",
+    "old_price": "R$ 90,38",
+    "price": "R$ 47,90",
+    "discount_percent": 47.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjis59nbonib20",
+    "affiliate_url": "https://s.shopee.com.br/6AlCsuwS4y",
+    "created_at": "22/09/2026 00:16",
+    "created_at_iso": "2026-09-22T00:16:22",
+    "created_ts": 1790036182,
+    "niche": {
+      "key": "shopee_sapatos_femininos",
+      "name": "Sapatos Femininos"
+    }
+  },
+  {
     "id": "8fd57f0aa3a05070b8",
     "title": "Bota CAT Coturno Masculino Couro Ortopédica",
     "raw_title": "Bota CAT Coturno Preto Palmilha Gel Ortopédica Couro Masculino Promoção Envio Rápido",
@@ -2272,43 +2314,5 @@
       "key": "shopee_roupas_femininas",
       "name": "Roupas Femininas"
     }
-  },
-  {
-    "id": "cc2be1d5a345c8372c",
-    "title": "Kit 3 Blusas Cacharrel Gola Alta",
-    "raw_title": "KIT 3 Blusas Feminina Manga Longa Cacharrel Confortável Básico Gola Alta",
-    "description": "IMPERDÍVEL! ✨ Kit 3 Blusas Femininas Cacharrel! Renove seu guarda-roupa com o conforto e estilo que você merece! Este kit essencial de blusas de gola al...",
-    "marketplace": "Shopee",
-    "category": "Roupas Femininas",
-    "old_price": "R$ 148,53",
-    "price": "R$ 44,56",
-    "discount_percent": 70.0,
-    "rating": 4.7,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfes7idiiy9wa2",
-    "affiliate_url": "https://s.shopee.com.br/8AWD50R7PG",
-    "created_at": "21/09/2026 00:16",
-    "created_at_iso": "2026-09-21T00:16:33",
-    "created_ts": 1789949793,
-    "niche": {
-      "key": "shopee_roupas_femininas",
-      "name": "Roupas Femininas"
-    }
-  },
-  {
-    "id": "aebc601ec02d2efd6b",
-    "title": "Barbeador de Costas Dobrável",
-    "raw_title": "Barbeador Costas Masculino Traseiro Dobrável Aparador Pelos",
-    "description": "✨ Diga adeus aos pelos nas costas sem esforço! ✨ Conheça o Barbeador Costas Masculino Traseiro Dobrável, a solução perfeita para uma pele lisa e impecáv...",
-    "marketplace": "Mercado Livre",
-    "category": "Beleza",
-    "old_price": "",
-    "price": "R$ 380,10",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_962334-MLA95523966556_102025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51434487?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "21/09/2026 00:01",
-    "created_at_iso": "2026-09-21T00:01:44",
-    "created_ts": 1789948904
   }
 ]

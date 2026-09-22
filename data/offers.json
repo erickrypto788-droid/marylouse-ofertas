@@ -1,5 +1,39 @@
 [
   {
+    "id": "fe65f8fa5d38fb65d1",
+    "title": "Cama Box Solteiro Orthoflex",
+    "raw_title": "Cama Box Solteiro: Colchão Molas Ensacadas Orthoflex Memor",
+    "description": "😴 Conforto e qualidade para suas noites! Aproveite a Cama Box Solteiro com Colchão de Molas Ensacadas Orthoflex Memor e tenha o descanso que você merece. ✨",
+    "marketplace": "Mercado Livre",
+    "category": "Casa e Decoração",
+    "old_price": "R$ 1.280,95",
+    "price": "R$ 1.216,90",
+    "discount_percent": 5.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_758365-MLA99458220674_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB48409016?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "22/09/2026 08:03",
+    "created_at_iso": "2026-09-22T08:03:57",
+    "created_ts": 1790064237
+  },
+  {
+    "id": "c2e793502d3d02961e",
+    "title": "Elgin Air Fryer Fritadeira Air Fryer",
+    "raw_title": "Elgin Air Fryer Fritadeira Air Fryer",
+    "description": "🔥 Oferta encontrada! 📌 Elgin Air Fryer Fritadeira Air Fryer Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Casa e Cozinha",
+    "old_price": "",
+    "price": "R$ 211,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_963725-MLA113034359792_072026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50493068?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "22/09/2026 08:02",
+    "created_at_iso": "2026-09-22T08:02:48",
+    "created_ts": 1790064168
+  },
+  {
     "id": "4d77f158589a05607b",
     "title": "Tiras de Glicemia Bioland (50 un.)",
     "raw_title": "Tira/Fita de Glicemia C/50 Unidades de Tiras - medidor de glicose - Bioland",
@@ -2381,44 +2415,6 @@
     "niche": {
       "key": "shopee_moda_infantil",
       "name": "Moda Infantil"
-    }
-  },
-  {
-    "id": "06cb89084eb85a7b64",
-    "title": "Ração Gato Estimacat Premium Adulto Sabor Carne 15kg",
-    "raw_title": "Ração Gato Estimacat Premium Adulto Sabor Carne 15kg",
-    "description": "🔥 25% OFF — Oferta encontrada! 📌 Ração Gato Estimacat Premium Adulto Sabor Carne 15kg Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Mercado Livre",
-    "category": "Pet",
-    "old_price": "R$ 356,33",
-    "price": "R$ 267,25",
-    "discount_percent": 25.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_978315-MLA108642652989_032026-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66541712?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "21/09/2026 08:01",
-    "created_at_iso": "2026-09-21T08:01:36",
-    "created_ts": 1789977696
-  },
-  {
-    "id": "7b968381e12a29bd3a",
-    "title": "Protetor Solar Facial Principia FPS 40",
-    "raw_title": "Protetor Solar Facial PS-01 FPS 40 Principia - 40ml",
-    "description": "✨ IMPERDÍVEL! Seu Protetor Solar Principia com DESCONTO! ✨ Garanta já o Protetor Solar Facial PS-01 FPS 40 Principia - 40ml para uma pele protegida e sa...",
-    "marketplace": "Shopee",
-    "category": "Beleza",
-    "old_price": "R$ 48,89",
-    "price": "R$ 44,00",
-    "discount_percent": 10.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mibo3qlzcw02a6",
-    "affiliate_url": "https://s.shopee.com.br/AKakiX1Eqt",
-    "created_at": "21/09/2026 07:20",
-    "created_at_iso": "2026-09-21T07:20:32",
-    "created_ts": 1789975232,
-    "niche": {
-      "key": "shopee_beleza",
-      "name": "Beleza"
     }
   }
 ]

@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 22/09/2026 07:22
+Gerado em: 22/09/2026 08:05
 
 ## Como usar
 
@@ -49,11 +49,13 @@ Gerado em: 22/09/2026 07:22
 - growth/shorts/slides/casa_cozinha/01_intro.png
 - growth/shorts/slides/casa_cozinha/02_produto_1.png
 - growth/shorts/slides/casa_cozinha/03_produto_2.png
+- growth/shorts/slides/casa_cozinha/04_produto_3.png
 - growth/shorts/slides/casa_cozinha/05_cta.png
 
 **Produtos usados:**
 
 - Liquidificador Mondial L‑99 Turbo 550 W 3 Velocidades
+- Elgin Air Fryer Fritadeira Air Fryer
 - Painel D'Rossi Painel Para TV para TV até 60" cumaru de mdf/mdp
 
 ---

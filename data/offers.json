@@ -1,5 +1,47 @@
 [
   {
+    "id": "7f5c257a178b5c8330",
+    "title": "GTA VI PS5 Edição Standard",
+    "raw_title": "Jogo Grand Theft Auto VI Edição Standard - PS5",
+    "description": "🚨 GTA VI CHEGOU! 🚨 Prepare-se para dominar Vice City no seu PS5! A edição Standard de Grand Theft Auto VI já está disponível. Garanta já o seu e mergulh...",
+    "marketplace": "Shopee",
+    "category": "Jogos e Consoles",
+    "old_price": "",
+    "price": "R$ 449,90",
+    "discount_percent": 0.0,
+    "rating": 0.0,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820ma-mpxxrh0ud43kb3",
+    "affiliate_url": "https://s.shopee.com.br/4qFqE9ZFSf",
+    "created_at": "22/09/2026 14:16",
+    "created_at_iso": "2026-09-22T14:16:57",
+    "created_ts": 1790086617,
+    "niche": {
+      "key": "shopee_jogos_consoles",
+      "name": "Jogos e Consoles"
+    }
+  },
+  {
+    "id": "06d434543ed77904a2",
+    "title": "Controle PS5 Dualsense Midnight Black",
+    "raw_title": "Controle PS5 Sony Dualsense sem fio JoyStick - Midnight Black",
+    "description": "🎮 A hora de turbinar seu PS5 chegou! Controle PS5 Sony Dualsense sem fio JoyStick - Midnight Black. Sinta a imersão com o controle original e melhore su...",
+    "marketplace": "Shopee",
+    "category": "Jogos e Consoles",
+    "old_price": "R$ 671,72",
+    "price": "R$ 429,90",
+    "discount_percent": 36.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820ls-mo65ro6coem92c",
+    "affiliate_url": "https://s.shopee.com.br/gQHGUXa4B",
+    "created_at": "22/09/2026 14:15",
+    "created_at_iso": "2026-09-22T14:15:47",
+    "created_ts": 1790086547,
+    "niche": {
+      "key": "shopee_jogos_consoles",
+      "name": "Jogos e Consoles"
+    }
+  },
+  {
     "id": "a0a3f63b79d1519b80",
     "title": "Furadeira Parafusadeira Imp. Dlx2336syx",
     "raw_title": "Furadeira Parafusadeira Imp C/ Parafusadeira Imp Dlx2336syx",
@@ -2180,39 +2222,5 @@
       "key": "shopee_bolsas_masculinas",
       "name": "Bolsas Masculinas"
     }
-  },
-  {
-    "id": "c0ea4a382c1b6b5fa3",
-    "title": "Painel D'Rossi Painel Para TV para TV até 60\" cumaru de mdf/mdp",
-    "raw_title": "Painel D'Rossi Painel Para TV para TV até 60\" cumaru de mdf/mdp",
-    "description": "🔥 21% OFF — Oferta encontrada! 📌 Painel D'Rossi Painel Para TV para TV até 60\" cumaru de mdf/mdp Confira os detalhes e aproveite enquanto a oferta estiv...",
-    "marketplace": "Mercado Livre",
-    "category": "Casa e Cozinha",
-    "old_price": "R$ 798,90",
-    "price": "R$ 632,50",
-    "discount_percent": 21.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_815339-MLA113527420537_062026-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74184723?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "21/09/2026 14:04",
-    "created_at_iso": "2026-09-21T14:04:46",
-    "created_ts": 1789999486
-  },
-  {
-    "id": "4e85b1c2443da51490",
-    "title": "Miniatura Aspirador Pó Infantil Bw165",
-    "raw_title": "Miniatura Aspirador Pó Infantil Bw165",
-    "description": "🔥 Oferta encontrada! 📌 Miniatura Aspirador Pó Infantil Bw165 Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Mercado Livre",
-    "category": "Eletrodomésticos",
-    "old_price": "",
-    "price": "R$ 70,54",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_918994-MLA95645873915_102025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB28353455?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "21/09/2026 14:03",
-    "created_at_iso": "2026-09-21T14:03:42",
-    "created_ts": 1789999422
   }
 ]

@@ -1,5 +1,22 @@
 [
   {
+    "id": "b1445ec23ed7281dd3",
+    "title": "Owlet Dream Sock | Monitor Bebê",
+    "raw_title": "Owlet Dream Sock | Meia Inteligente Monitor Bebê - Rosa",
+    "description": "✨ Durma em paz sabendo que seu bebê está seguro! ✨ Conheça a Owlet Dream Sock, a meia inteligente que monitora seu pequeno com tecnologia e carinho. Per...",
+    "marketplace": "Mercado Livre",
+    "category": "Mãe e Bebê",
+    "old_price": "",
+    "price": "R$ 3.600,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_609292-MLU71415889747_082023-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB26685042?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "23/09/2026 14:02",
+    "created_at_iso": "2026-09-23T14:02:04",
+    "created_ts": 1790172124
+  },
+  {
     "id": "fb199bda1bfa20b8d2",
     "title": "Kit 3 Blusas Feminina Plus Size Gola V Básica Casual - H00",
     "raw_title": "Kit 3 Blusas Feminina Plus Size Gola V Básica Casual - H00",
@@ -2189,47 +2206,5 @@
     "created_at": "22/09/2026 14:02",
     "created_at_iso": "2026-09-22T14:02:11",
     "created_ts": 1790085731
-  },
-  {
-    "id": "35586eec4b8cd7fc43",
-    "title": "Leite de Coco em Pó - Delicioso e Saudável",
-    "raw_title": "Leite de Coco em Pó - Delicioso e Saudável",
-    "description": "🔥 53% OFF — Oferta encontrada! 📌 Leite de Coco em Pó - Delicioso e Saudável Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
-    "old_price": "R$ 40,36",
-    "price": "R$ 18,97",
-    "discount_percent": 53.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lp-mo18mi2a86bl8b",
-    "affiliate_url": "https://s.shopee.com.br/20vempPmQk",
-    "created_at": "22/09/2026 13:20",
-    "created_at_iso": "2026-09-22T13:20:12",
-    "created_ts": 1790083212,
-    "niche": {
-      "key": "shopee_bebidas_alimentos",
-      "name": "Bebidas e Alimentos"
-    }
-  },
-  {
-    "id": "f3d9a649f48ed16928",
-    "title": "Kit 4 Potes Herméticos 2L Com Copo Medidor Organizador Mantimentos Ar…",
-    "raw_title": "Kit 4 Potes Herméticos 2L Com Copo Medidor Organizador Mantimentos Arroz Feijão Sabão Em Pó Amaciante Produtos Limpeza",
-    "description": "🔥 40% OFF — Oferta encontrada! 📌 Kit 4 Potes Herméticos 2L Com Copo Medidor Organizador Mantimentos Arroz Feijão Sabão Em Pó Amaciante Produtos Limpeza...",
-    "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
-    "old_price": "R$ 99,35",
-    "price": "R$ 59,61",
-    "discount_percent": 40.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lp-mpol3c90f3lu86",
-    "affiliate_url": "https://s.shopee.com.br/60RnYBJHdz",
-    "created_at": "22/09/2026 13:19",
-    "created_at_iso": "2026-09-22T13:19:08",
-    "created_ts": 1790083148,
-    "niche": {
-      "key": "shopee_bebidas_alimentos",
-      "name": "Bebidas e Alimentos"
-    }
   }
 ]

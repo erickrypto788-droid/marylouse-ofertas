@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 23/09/2026 03:19
+Gerado em: 23/09/2026 04:22
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 23/09/2026 03:19
 
 **Produtos usados:**
 
+- Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…
 - Kit 4 Peças Conjunto Infantil Bebê Menino Verão
 - Sandália Cartago Baby Masculina
-- Boneca Lola Baby com Chupeta Rosa
 
 ---
 
@@ -80,7 +80,7 @@ Gerado em: 23/09/2026 03:19
 
 - Body Splash Barbarus Amadeirado Primacial
 - Kit 10 Mini Pincéis Maquiagem Viagem
-- Protetor Solar Facial FPS 60 Antioleosidade com Base Efeito Matte Sun…
+- Kaisasa Shampoo Tonalizante Para Cobrir Cabelo Cinzento，shampoo cabel…
 
 ---
 
@@ -127,7 +127,7 @@ Gerado em: 23/09/2026 03:19
 **Produtos usados:**
 
 - Kit 4 Potes Herméticos 2L Com Copo Medidor Organizador Mantimentos Ar…
-- Kit Clareador Facial - Sabonete Líquido + Protetor Solar Clareador 70…
 - Azeite Oliva Italiano Mercatto
+- Creme Dental Ozonizado Philozon 90g
 
 ---

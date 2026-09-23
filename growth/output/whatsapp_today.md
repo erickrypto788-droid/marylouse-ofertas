@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 23/09/2026 14:18
+Gerado em: 23/09/2026 15:18
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
 ```txt
 👟 Oferta para Moda e Calçados
 
-Sapatenis Masculino Sola Alta Estiloso
+Sandália Rasteira Feminina Gladiadora Tachas Douradas e Prateadas Tir…
 
-💸 De: R$ 147,11
-🔥 Por: R$ 55,90
-🏷️ 62% OFF
+💸 De: R$ 99,97
+🔥 Por: R$ 39,99
+🏷️ 60% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/5LC8PxyBLS
+Ver oferta: https://s.shopee.com.br/4LJbIFUuDK
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

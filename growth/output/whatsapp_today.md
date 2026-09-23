@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 23/09/2026 07:21
+Gerado em: 23/09/2026 08:04
 
 ## Como usar
 
@@ -162,29 +162,29 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 6 — Saúde
+## Post 6 — Casa e Cozinha
 
-**Canal recomendado:** Saúde e Bem-estar
+**Canal recomendado:** Casa e Cozinha
 
-**Horário sugerido:** 09:00 - 11:00
+**Horário sugerido:** 18:00 - 20:00
 
 **Imagem/card:**
 
-https://marylouse-ofertas.vercel.app/growth/pinterest/saude.png
+https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
 
 **Texto pronto:**
 
 ```txt
-❤️ Oferta para Saúde
+🍳 Oferta para Casa e Cozinha
 
-Medidor de Glicose G-tech Vita
+Mixer Elétrico 3 em 1 Elgin
 
-💸 De: R$ 131,14
-🔥 Por: R$ 45,90
-🏷️ 65% OFF
+💸 De: R$ 209,09
+🔥 Por: R$ 115,00
+🏷️ 45% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/7KxAjudUrE
+Ver oferta: https://s.shopee.com.br/8plzSLJJfh
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

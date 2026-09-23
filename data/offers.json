@@ -1,5 +1,39 @@
 [
   {
+    "id": "da614afb98d828d41a",
+    "title": "Kit Furadeira e Parafusadeira com Parafusadeira Dewalt Modelo DCK200M…",
+    "raw_title": "Kit Furadeira e Parafusadeira com Parafusadeira Dewalt Modelo DCK200ME2GT 2 Baterias 20V",
+    "description": "🔥 Oferta encontrada! 📌 Kit Furadeira e Parafusadeira com Parafusadeira Dewalt Modelo DCK200ME2GT 2 Baterias 20V Confira os detalhes e aproveite enquanto...",
+    "marketplace": "Mercado Livre",
+    "category": "Ferramentas",
+    "old_price": "",
+    "price": "R$ 2.999,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_784742-MLA100042438679_122025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB37180897?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "23/09/2026 07:03",
+    "created_at_iso": "2026-09-23T07:03:16",
+    "created_ts": 1790146996
+  },
+  {
+    "id": "3353788c8d47f4d5f3",
+    "title": "Kit Ferramentas Completo",
+    "raw_title": "Kit Ferramentas Furadeira Esmerilhadeira Parafusadeira",
+    "description": "🚨 MEGA OFERTA para seu projeto! Tenha o Kit Ferramentas Furadeira Esmerilhadeira Parafusadeira completo e transforme suas tarefas! 💪 Versatilidade e pot...",
+    "marketplace": "Mercado Livre",
+    "category": "Ferramentas",
+    "old_price": "R$ 1.005,79",
+    "price": "R$ 905,22",
+    "discount_percent": 10.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_801272-MLA112060022853_052026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70110890?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "23/09/2026 07:02",
+    "created_at_iso": "2026-09-23T07:02:07",
+    "created_ts": 1790146927
+  },
+  {
     "id": "0e153efc14fb6abca2",
     "title": "Mochila Unissex para Viagem Cabo de Aço Reforçado Resistente Elegante…",
     "raw_title": "Mochila Unissex para Viagem Cabo de Aço Reforçado Resistente Elegantes Moderno RC9801",
@@ -2218,43 +2252,5 @@
     "created_at": "22/09/2026 07:03",
     "created_at_iso": "2026-09-22T07:03:47",
     "created_ts": 1790060627
-  },
-  {
-    "id": "da9e5f0b9b743099e1",
-    "title": "Camiseta Modeladora Feminina",
-    "raw_title": "Camiseta feminina modeladora",
-    "description": "Sinta-se poderosa e confiante! 💖 Realce suas curvas com a Camiseta Feminina Modeladora! Perfeita para qualquer ocasião, ela oferece o conforto e o ajust...",
-    "marketplace": "Mercado Livre",
-    "category": "Roupas Femininas",
-    "old_price": "",
-    "price": "R$ 280,00",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_929215-MLA94366026896_102025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59779508?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "22/09/2026 07:02",
-    "created_at_iso": "2026-09-22T07:02:38",
-    "created_ts": 1790060558
-  },
-  {
-    "id": "48eb7aa96b78434a03",
-    "title": "Bebe Menino Barato Reborn Silicone Original Envio Imediato",
-    "raw_title": "Bebe Menino Barato Reborn Silicone Original Envio Imediato",
-    "description": "🔥 56% OFF — Oferta encontrada! 📌 Bebe Menino Barato Reborn Silicone Original Envio Imediato Confira os detalhes e aproveite enquanto a oferta estiver di...",
-    "marketplace": "Shopee",
-    "category": "Brinquedos e Hobbies",
-    "old_price": "R$ 170,23",
-    "price": "R$ 74,90",
-    "discount_percent": 56.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-825am-mg5h8qtircwf81",
-    "affiliate_url": "https://s.shopee.com.br/70KKHAlNnB",
-    "created_at": "22/09/2026 06:20",
-    "created_at_iso": "2026-09-22T06:20:07",
-    "created_ts": 1790058007,
-    "niche": {
-      "key": "shopee_brinquedos_hobbies",
-      "name": "Brinquedos e Hobbies"
-    }
   }
 ]

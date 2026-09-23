@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 23/09/2026 10:03
+Gerado em: 23/09/2026 11:22
 
 ## Como usar
 
@@ -79,8 +79,8 @@ Gerado em: 23/09/2026 10:03
 **Produtos usados:**
 
 - Body Splash Barbarus Amadeirado Primacial
-- Kit 10 Mini Pincéis Maquiagem Viagem
 - Perfume Grace Gourmand
+- Perfume Feminino Ragazza 100ml
 
 ---
 

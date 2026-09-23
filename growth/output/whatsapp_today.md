@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 23/09/2026 10:03
+Gerado em: 23/09/2026 11:22
 
 ## Como usar
 
@@ -147,14 +147,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Kit 2 Calça Alfaiataria PREMIUM
+Tomara que Caia Peplum Elegante
 
-💸 De: R$ 151,20
-🔥 Por: R$ 37,80
-🏷️ 75% OFF
+💸 De: R$ 99,75
+🔥 Por: R$ 39,90
+🏷️ 60% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/60RmQ8QwLL
+Ver oferta: https://s.shopee.com.br/60Rp0pWgno
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

@@ -1,5 +1,39 @@
 [
   {
+    "id": "38da0c347542a7e194",
+    "title": "Perfume Grace Gourmand",
+    "raw_title": "Perfume Feminino Grace Gourmand",
+    "description": "Sinta-se ÚNICA e irresistível! ✨ O Perfume Feminino Grace Gourmand é a essência da sofisticação para você brilhar em qualquer ocasião. ✨ Com notas que e...",
+    "marketplace": "Mercado Livre",
+    "category": "Beleza",
+    "old_price": "",
+    "price": "R$ 139,90",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_712833-MLU75003548479_032024-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23181287?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "23/09/2026 05:02",
+    "created_at_iso": "2026-09-23T05:02:55",
+    "created_ts": 1790139775
+  },
+  {
+    "id": "5fc55fd89e7e32754e",
+    "title": "Perfume Feminino Ragazza 100ml",
+    "raw_title": "Perfume Feminino Ragazza 100ml",
+    "description": "🔥 8% OFF — Oferta encontrada! 📌 Perfume Feminino Ragazza 100ml Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Beleza",
+    "old_price": "R$ 143,90",
+    "price": "R$ 132,60",
+    "discount_percent": 8.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_963467-MLA115262971927_072026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75851983?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "23/09/2026 05:01",
+    "created_at_iso": "2026-09-23T05:01:45",
+    "created_ts": 1790139705
+  },
+  {
     "id": "6eef902d990865cf1f",
     "title": "Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…",
     "raw_title": "Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Bebê Babete Toalinha Babita Paninho Estampado",
@@ -2331,27 +2365,6 @@
     "niche": {
       "key": "shopee_esportes_lazer",
       "name": "Esportes e Lazer"
-    }
-  },
-  {
-    "id": "644fb5724a05757106",
-    "title": "10 Calcinhas Infantil Menina Moça Confortáveis Forro de Algodão Dia a…",
-    "raw_title": "10 Calcinhas Infantil Menina Moça Confortáveis Forro de Algodão Dia a Dia Promoção",
-    "description": "🔥 48% OFF — Oferta encontrada! 📌 10 Calcinhas Infantil Menina Moça Confortáveis Forro de Algodão Dia a Dia Promoção Confira os detalhes e aproveite enqu...",
-    "marketplace": "Shopee",
-    "category": "Moda Infantil",
-    "old_price": "R$ 49,79",
-    "price": "R$ 25,89",
-    "discount_percent": 48.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820le-mnkkbbtiq8lgfd",
-    "affiliate_url": "https://s.shopee.com.br/AAHLulPtLr",
-    "created_at": "22/09/2026 04:20",
-    "created_at_iso": "2026-09-22T04:20:37",
-    "created_ts": 1790050837,
-    "niche": {
-      "key": "shopee_moda_infantil",
-      "name": "Moda Infantil"
     }
   }
 ]

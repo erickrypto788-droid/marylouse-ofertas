@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 23/09/2026 18:05
+Gerado em: 23/09/2026 18:22
 
 ## Como usar
 
@@ -78,9 +78,9 @@ Gerado em: 23/09/2026 18:05
 
 **Produtos usados:**
 
+- Escova Pet Secadora Elétrica
+- Escova Profissional 5 em 1
 - Body Splash Barbarus Amadeirado Primacial
-- Perfume Grace Gourmand
-- Perfume Feminino Ragazza 100ml
 
 ---
 

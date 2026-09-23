@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 23/09/2026 18:05
+Gerado em: 23/09/2026 18:22
 
 ## Como usar
 
@@ -42,7 +42,37 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 2 — Mamãe e Bebê
+## Post 2 — Beleza e Cuidados
+
+**Canal recomendado:** Beleza e Cuidados
+
+**Horário sugerido:** 12:00 - 15:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
+
+**Texto pronto:**
+
+```txt
+💄 Oferta para Beleza e Cuidados
+
+Escova Pet Secadora Elétrica
+
+💸 De: R$ 199,95
+🔥 Por: R$ 43,99
+🏷️ 78% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/9V1he6aGAO
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 3 — Mamãe e Bebê
 
 **Canal recomendado:** Mamãe e Bebê
 
@@ -72,7 +102,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 3 — Celulares e Tecnologia
+## Post 4 — Celulares e Tecnologia
 
 **Canal recomendado:** Celulares e Tecnologia
 
@@ -102,7 +132,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Ofertas Pet
+## Post 5 — Ofertas Pet
 
 **Canal recomendado:** Ofertas Pet
 
@@ -132,7 +162,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 5 — Moda Feminina
+## Post 6 — Moda Feminina
 
 **Canal recomendado:** Moda Feminina
 
@@ -155,36 +185,6 @@ Blazer Feminino Plus Size Alfaiataria
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/qjizZZ3qV
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 6 — Moda e Calçados
-
-**Canal recomendado:** Moda e Calçados
-
-**Horário sugerido:** 12:00 - 15:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
-
-**Texto pronto:**
-
-```txt
-👟 Oferta para Moda e Calçados
-
-Sandália Rasteira Feminina Gladiadora Tachas Douradas e Prateadas Tir…
-
-💸 De: R$ 99,97
-🔥 Por: R$ 39,99
-🏷️ 60% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/4LJbIFUuDK
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

@@ -1,91 +1,91 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 23/09/2026 18:05
+Gerado em: 23/09/2026 18:22
 
 ## Categorias prioritárias
 
+- 💄 **Beleza**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🍼 **Mãe e Bebê**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 👟 **Calçados**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 👗 **Moda Feminina**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 🐶 **Pet**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 📦 **Outros**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 👟 **Calçados**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 🍳 **Casa e Cozinha**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
-- 💄 **Beleza**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 💻 **Informática**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 🏋️ **Esportes**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 
 ## Top ofertas para destacar
 
-1. **Panela Elétrica 1.8L Multi-Funções**
+1. **Escova Pet Secadora Elétrica**
+   - Categoria: Beleza
+   - Loja: Shopee
+   - Preço: R$ 43,99
+   - Desconto: 78% OFF
+   - Link: https://s.shopee.com.br/9V1he6aGAO
+
+2. **Panela Elétrica 1.8L Multi-Funções**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 58,87
    - Desconto: 70% OFF
    - Link: https://s.shopee.com.br/70KM4Ss2CK
 
-2. **Case Gaveta HD SSD 2.5 Transparente**
+3. **Case Gaveta HD SSD 2.5 Transparente**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 30,99
    - Desconto: 69% OFF
    - Link: https://s.shopee.com.br/9fL7BCXdjc
 
-3. **Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…**
+4. **Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 26,99
    - Desconto: 55% OFF
    - Link: https://s.shopee.com.br/6q0vXW3kpd
 
-4. **LANCAMENTO CELULAR XIAOMI POCO X8 PRO MAX 5G NFC 256GB OU 512GB VERSÃ…**
+5. **LANCAMENTO CELULAR XIAOMI POCO X8 PRO MAX 5G NFC 256GB OU 512GB VERSÃ…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 3.399,00
    - Desconto: 50% OFF
    - Link: https://s.shopee.com.br/3LR2q7SwBq
 
-5. **Mala Case Capa Bolsa Porta Case Notebook Slim 14,6/15,6 Alça Dupla Re…**
+6. **Mala Case Capa Bolsa Porta Case Notebook Slim 14,6/15,6 Alça Dupla Re…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 29,00
    - Desconto: 37% OFF
    - Link: https://s.shopee.com.br/3g3tpoZvU7
 
-6. **Kit Fraldas Geriátricas ConfortMaster**
+7. **Kit Fraldas Geriátricas ConfortMaster**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 77,98
    - Desconto: 38% OFF
    - Link: https://s.shopee.com.br/7VGcKk1DTp
 
-7. **Fritadeira Air Fryer Itatiaia 3,5 Litros 127V Sem Óleo**
+8. **Escova Profissional 5 em 1**
+   - Categoria: Beleza
+   - Loja: Shopee
+   - Preço: R$ 54,99
+   - Desconto: 63% OFF
+   - Link: https://s.shopee.com.br/1135bNNhxo
+
+9. **Fritadeira Air Fryer Itatiaia 3,5 Litros 127V Sem Óleo**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 171,75
    - Desconto: 25% OFF
    - Link: https://s.shopee.com.br/qjjG3I8IO
 
-8. **Fone Lightning para iPhone**
+10. **Fone Lightning para iPhone**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 10,00
    - Desconto: 67% OFF
    - Link: https://s.shopee.com.br/8V9AK1dYmt
-
-9. **Ração Gato Estimacat Premium Filhote Sabor Frango 10kg**
-   - Categoria: Pet
-   - Loja: Mercado Livre
-   - Preço: R$ 253,07
-   - Desconto: 25% OFF
-   - Link: https://www.mercadolivre.com.br/p/MLB66844874?matt_word=marylouse&matt_tool=50459180&forceInApp=true
-
-10. **Escorredor De Arroz Inox Legumes Frutas Multiuso Cozinha Alça Coador…**
-   - Categoria: Casa e Cozinha
-   - Loja: Shopee
-   - Preço: R$ 19,99
-   - Desconto: 60% OFF
-   - Link: https://s.shopee.com.br/4LJatZ2Bc4
 
 ## Ações gratuitas recomendadas
 

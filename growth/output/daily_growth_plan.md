@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 23/09/2026 06:04
+Gerado em: 23/09/2026 06:20
 
 ## Categorias prioritárias
 
-- 🍼 **Mãe e Bebê**: 15 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 🍼 **Mãe e Bebê**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 👗 **Moda Feminina**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
-- 🐶 **Pet**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 📦 **Outros**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
-- 🧸 **Brinquedos**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
+- 🐶 **Pet**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
+- 👜 **Bolsas**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
+- 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 💻 **Informática**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 💄 **Beleza**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 🏋️ **Esportes**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 💻 **Informática**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - ❤️ **Saúde**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
-- 👟 **Calçados**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 🧸 **Brinquedos**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 
 ## Top ofertas para destacar
 
@@ -59,33 +59,33 @@ Gerado em: 23/09/2026 06:04
    - Desconto: 38% OFF
    - Link: https://s.shopee.com.br/7VGcKk1DTp
 
-7. **Kit Escova Higiene Lavar 4 em 1 para Copo, Garrafa,Mamadeira e Canudo…**
+7. **Mochila de Couro Executiva Impermeável Reforçada com Porta USB e Fone…**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 49,99
+   - Desconto: 64% OFF
+   - Link: https://s.shopee.com.br/AAHNdsidRN
+
+8. **Kit Escova Higiene Lavar 4 em 1 para Copo, Garrafa,Mamadeira e Canudo…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 25,99
    - Desconto: 54% OFF
    - Link: https://s.shopee.com.br/1AbOxh6Ym
 
-8. **Kit Saúde Essencial 3 em 1**
+9. **Kit Saúde Essencial 3 em 1**
    - Categoria: Saúde
    - Loja: Shopee
    - Preço: R$ 77,99
    - Desconto: 59% OFF
    - Link: https://s.shopee.com.br/3B7d6ebb7k
 
-9. **Vestido Feminino Curto Duna com Amarração Caimento Soltinho Gola Halt…**
+10. **Vestido Feminino Curto Duna com Amarração Caimento Soltinho Gola Halt…**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 46,80
    - Desconto: 22% OFF
    - Link: https://s.shopee.com.br/7fa2KgOZ7g
-
-10. **Kit 4 Peças Conjunto Infantil Bebê Menino Verão**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 47,00
-   - Desconto: 64% OFF
-   - Link: https://s.shopee.com.br/1LfyivNsxb
 
 ## Ações gratuitas recomendadas
 

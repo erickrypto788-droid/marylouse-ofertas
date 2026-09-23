@@ -1,6 +1,6 @@
 # Pinterest Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 23/09/2026 08:04
+Gerado em: 23/09/2026 08:22
 
 ## Como usar
 
@@ -38,7 +38,7 @@ https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=pinterest&
 
 **Por que postar:**
 
-Categoria com 13 oferta(s) e boa intenção de compra.
+Categoria com 8 oferta(s) e boa intenção de compra.
 
 ---
 
@@ -66,7 +66,7 @@ https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=pinter
 
 **Por que postar:**
 
-Categoria com 4 oferta(s) e boa intenção de compra.
+Categoria com 3 oferta(s) e boa intenção de compra.
 
 ---
 
@@ -126,30 +126,30 @@ Categoria com 5 oferta(s) e boa intenção de compra.
 
 ---
 
-## Pin 5 — Mãe e Bebê
+## Pin 5 — Informática
 
 **Tipo:** produto_direto
 
-**Board sugerido:** Ofertas para Bebê
+**Board sugerido:** Celulares e Tecnologia
 
 **Imagem para upload no Pinterest:**
 
-https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
+https://marylouse-ofertas.vercel.app/growth/pinterest/informatica.png
 
 **Título:**
 
-55% OFF: Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…
+69% OFF: Case Gaveta HD SSD 2.5 Transparente
 
 **Descrição:**
 
-Oferta destaque em Mãe e Bebê encontrada pela MaryLouse Ofertas. Preço: R$ 26,99. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Oferta destaque em Informática encontrada pela MaryLouse Ofertas. Preço: R$ 30,99. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
-https://s.shopee.com.br/6q0vXW3kpd
+https://s.shopee.com.br/9fL7BCXdjc
 
 **Por que postar:**
 
-Produto com bom score orgânico (90) e link direto afiliado.
+Produto com bom score orgânico (100) e link direto afiliado.
 
 ---

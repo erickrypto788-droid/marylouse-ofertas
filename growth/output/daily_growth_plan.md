@@ -1,17 +1,17 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 23/09/2026 01:07
+Gerado em: 23/09/2026 01:22
 
 ## Categorias prioritárias
 
 - 👗 **Moda Feminina**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
+- 🏋️ **Esportes**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 🍼 **Mãe e Bebê**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 📦 **Outros**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 🐶 **Pet**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 💄 **Beleza**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 🐶 **Pet**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
+- 📦 **Outros**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 👟 **Calçados**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
-- 🏋️ **Esportes**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
+- 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 🛒 **Supermercados**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-supermercados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_supermercados
 - 💻 **Informática**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 
@@ -45,47 +45,47 @@ Gerado em: 23/09/2026 01:07
    - Desconto: 67% OFF
    - Link: https://s.shopee.com.br/20ve7csrs6
 
-5. **Lente Grande Angular + Macro para Celular**
-   - Categoria: Celulares
+5. **Vestido Feminino Curto Duna com Amarração Caimento Soltinho Gola Halt…**
+   - Categoria: Pet
    - Loja: Shopee
-   - Preço: R$ 19,99
-   - Desconto: 50% OFF
-   - Link: https://s.shopee.com.br/70KJwZMCES
+   - Preço: R$ 46,80
+   - Desconto: 22% OFF
+   - Link: https://s.shopee.com.br/7fa2KgOZ7g
 
-6. **Tela Magnética Monitor Para Celular Sem Fio Smartphone Selfie Vlog Gr…**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 91,00
-   - Desconto: 30% OFF
-   - Link: https://s.shopee.com.br/AAHLiOA8nv
-
-7. **Kit 4 Peças Conjunto Infantil Bebê Menino Verão**
+6. **Kit 4 Peças Conjunto Infantil Bebê Menino Verão**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 47,00
    - Desconto: 64% OFF
    - Link: https://s.shopee.com.br/1LfyivNsxb
 
-8. **Sandália Cartago Baby Masculina**
+7. **Sandália Cartago Baby Masculina**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 23,90
    - Desconto: 60% OFF
    - Link: https://s.shopee.com.br/8plzeiD054
 
-9. **Novos Fones De Ouvido i12 TWS Sem Fio Bluetooth HiFi Estéreo Com Redu…**
+8. **Novos Fones De Ouvido i12 TWS Sem Fio Bluetooth HiFi Estéreo Com Redu…**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 11,56
    - Desconto: 57% OFF
    - Link: https://s.shopee.com.br/8ply7wbDNu
 
-10. **Teclado Gamer Semi-mecânico RGB**
+9. **Teclado Gamer Semi-mecânico RGB**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 38,88
    - Desconto: 74% OFF
    - Link: https://s.shopee.com.br/5q8NHkZXY0
+
+10. **Monitor Gamer ARZOPA M1RC 27" 2K 180Hz**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 999,99
+   - Desconto: 86% OFF
+   - Link: https://s.shopee.com.br/4VcyR0z25N
 
 ## Ações gratuitas recomendadas
 

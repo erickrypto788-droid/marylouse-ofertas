@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 23/09/2026 14:03
+Gerado em: 23/09/2026 14:18
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
 ```txt
 👟 Oferta para Moda e Calçados
 
-Chinelo Masculino Original Reserva Casual Moderno Confortável Macio P…
+Sapatenis Masculino Sola Alta Estiloso
 
-💸 De: R$ 99,75
-🔥 Por: R$ 39,90
-🏷️ 60% OFF
+💸 De: R$ 147,11
+🔥 Por: R$ 55,90
+🏷️ 62% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/5VVXHrkiWa
+Ver oferta: https://s.shopee.com.br/5LC8PxyBLS
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

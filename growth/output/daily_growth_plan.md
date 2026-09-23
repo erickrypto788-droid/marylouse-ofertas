@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 23/09/2026 22:04
+Gerado em: 23/09/2026 22:22
 
 ## Categorias prioritárias
 
@@ -9,11 +9,11 @@ Gerado em: 23/09/2026 22:04
 - 🏋️ **Esportes**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 👗 **Moda Feminina**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 👟 **Calçados**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- ❤️ **Saúde**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 🧸 **Brinquedos**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 🍳 **Casa e Cozinha**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 🐶 **Pet**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
-- 💻 **Informática**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 
 ## Top ofertas para destacar
 
@@ -66,26 +66,26 @@ Gerado em: 23/09/2026 22:04
    - Desconto: 38% OFF
    - Link: https://s.shopee.com.br/7VGcKk1DTp
 
-8. **Carrinho De Boneca Bebe Brinquedo Infantil Passeio**
+8. **Monitor de Pressão Arterial Automático**
+   - Categoria: Saúde
+   - Loja: Shopee
+   - Preço: R$ 38,99
+   - Desconto: 68% OFF
+   - Link: https://s.shopee.com.br/8pm17MdXKh
+
+9. **Carrinho De Boneca Bebe Brinquedo Infantil Passeio**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 20,99
    - Desconto: 58% OFF
    - Link: https://s.shopee.com.br/70KMrsQKYe
 
-9. **Jogo de Panelas Cereja 5 Pçs**
+10. **Jogo de Panelas Cereja 5 Pçs**
    - Categoria: Casa e Cozinha
    - Loja: Mercado Livre
    - Preço: R$ 205,40
    - Desconto: 21% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB33652298?matt_word=marylouse&matt_tool=50459180&forceInApp=true
-
-10. **Escova Profissional 5 em 1**
-   - Categoria: Beleza
-   - Loja: Shopee
-   - Preço: R$ 54,99
-   - Desconto: 63% OFF
-   - Link: https://s.shopee.com.br/1135bNNhxo
 
 ## Ações gratuitas recomendadas
 

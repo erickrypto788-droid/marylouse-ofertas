@@ -1,5 +1,22 @@
 [
   {
+    "id": "1ec28937207982c361",
+    "title": "SSD NVMe Kingston 1TB NV3 M.2 PCIe 4.0",
+    "raw_title": "Ssd Nvme Kingston 1tb Nv3 M.2 2280 Pcie 4.0 Nf-e Cor Ssd Nvme M.2 2280 Kingston 1tb",
+    "description": "🚀 ACELERE SEU PC! Upgrade definitivo com o SSD NVMe Kingston 1TB NV3 M.2 PCIe 4.0! ⚡️ Mais velocidade e performance para seus jogos e programas. 🚚 Frete...",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "",
+    "price": "R$ 1.019,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_763811-MLA100010597069_122025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50957106?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "23/09/2026 08:02",
+    "created_at_iso": "2026-09-23T08:02:29",
+    "created_ts": 1790150549
+  },
+  {
     "id": "f68e9f1709e3cbf574",
     "title": "Kit Material Escolar Fofo",
     "raw_title": "Kit Bloco Adesivo 400 Folhas Canetas Coloridas Marca Texto Ponta Fina Material Escolar Adesivo Fofo",
@@ -2180,47 +2197,5 @@
     "created_at": "22/09/2026 08:02",
     "created_at_iso": "2026-09-22T08:02:48",
     "created_ts": 1790064168
-  },
-  {
-    "id": "4d77f158589a05607b",
-    "title": "Tiras de Glicemia Bioland (50 un.)",
-    "raw_title": "Tira/Fita de Glicemia C/50 Unidades de Tiras - medidor de glicose - Bioland",
-    "description": "🚨 Sua saúde em primeiro lugar! Mantenha o controle da sua glicose com as Tiras Bioland! Pack com 50 unidades para medições precisas e diárias. 🩺 Garanta...",
-    "marketplace": "Shopee",
-    "category": "Saúde",
-    "old_price": "R$ 62,89",
-    "price": "R$ 38,99",
-    "discount_percent": 38.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj8xhsd5alfq5d",
-    "affiliate_url": "https://s.shopee.com.br/7fa18WcEBK",
-    "created_at": "22/09/2026 07:20",
-    "created_at_iso": "2026-09-22T07:20:31",
-    "created_ts": 1790061631,
-    "niche": {
-      "key": "shopee_saude",
-      "name": "Saúde"
-    }
-  },
-  {
-    "id": "9282d0382edaf0b359",
-    "title": "Medidor de Glicose G-tech Vita",
-    "raw_title": "Aparelho Medidor De Glicose G-tech Vita Kit 10tiras+10lancet",
-    "description": "🚨 Imperdível para sua saúde! Monitore sua glicose com facilidade e precisão! O Aparelho Medidor De Glicose G-tech Vita Kit completo (10 tiras + 10 lance...",
-    "marketplace": "Shopee",
-    "category": "Saúde",
-    "old_price": "R$ 131,14",
-    "price": "R$ 45,90",
-    "discount_percent": 65.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m5-mmvq7zqi054y85",
-    "affiliate_url": "https://s.shopee.com.br/7KxAjudUrE",
-    "created_at": "22/09/2026 07:19",
-    "created_at_iso": "2026-09-22T07:19:22",
-    "created_ts": 1790061562,
-    "niche": {
-      "key": "shopee_saude",
-      "name": "Saúde"
-    }
   }
 ]

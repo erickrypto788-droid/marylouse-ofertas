@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 23/09/2026 00:11
+Gerado em: 23/09/2026 00:22
 
 ## Como usar
 
@@ -102,7 +102,37 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Moda Feminina
+## Post 4 — Ofertas Pet
+
+**Canal recomendado:** Ofertas Pet
+
+**Horário sugerido:** 17:00 - 20:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
+
+**Texto pronto:**
+
+```txt
+🐶 Oferta para Ofertas Pet
+
+Sandália Babuche Infantil Papete Menina ADULTO
+
+💸 De: R$ 40,18
+🔥 Por: R$ 22,90
+🏷️ 43% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/9AOq3KBjP6
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 5 — Moda Feminina
 
 **Canal recomendado:** Moda Feminina
 
@@ -125,36 +155,6 @@ Kit 2 Calça Alfaiataria PREMIUM
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/60RmQ8QwLL
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 5 — Ofertas Pet
-
-**Canal recomendado:** Ofertas Pet
-
-**Horário sugerido:** 17:00 - 20:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
-
-**Texto pronto:**
-
-```txt
-🐶 Oferta para Ofertas Pet
-
-Inalador Nebulizador Portátil
-
-💸 De: R$ 139,95
-🔥 Por: R$ 27,99
-🏷️ 80% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/9zxvuoKgPE
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

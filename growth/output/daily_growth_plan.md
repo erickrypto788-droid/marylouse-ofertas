@@ -1,16 +1,16 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 23/09/2026 00:11
+Gerado em: 23/09/2026 00:22
 
 ## Categorias prioritárias
 
+- 🍼 **Mãe e Bebê**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 📦 **Outros**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 💄 **Beleza**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 🐶 **Pet**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
+- 👟 **Calçados**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
-- 🍼 **Mãe e Bebê**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 👗 **Moda Feminina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
-- 🐶 **Pet**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 🏋️ **Esportes**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 🛒 **Supermercados**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-supermercados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_supermercados
 - 💻 **Informática**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
@@ -59,33 +59,33 @@ Gerado em: 23/09/2026 00:11
    - Desconto: 30% OFF
    - Link: https://s.shopee.com.br/AAHLiOA8nv
 
-7. **Novos Fones De Ouvido i12 TWS Sem Fio Bluetooth HiFi Estéreo Com Redu…**
+7. **Kit 4 Peças Conjunto Infantil Bebê Menino Verão**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 47,00
+   - Desconto: 64% OFF
+   - Link: https://s.shopee.com.br/1LfyivNsxb
+
+8. **Sandália Cartago Baby Masculina**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 23,90
+   - Desconto: 60% OFF
+   - Link: https://s.shopee.com.br/8plzeiD054
+
+9. **Novos Fones De Ouvido i12 TWS Sem Fio Bluetooth HiFi Estéreo Com Redu…**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 11,56
    - Desconto: 57% OFF
    - Link: https://s.shopee.com.br/8ply7wbDNu
 
-8. **Teclado Gamer Semi-mecânico RGB**
+10. **Teclado Gamer Semi-mecânico RGB**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 38,88
    - Desconto: 74% OFF
    - Link: https://s.shopee.com.br/5q8NHkZXY0
-
-9. **Monitor Gamer ARZOPA M1RC 27" 2K 180Hz**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 999,99
-   - Desconto: 86% OFF
-   - Link: https://s.shopee.com.br/4VcyR0z25N
-
-10. **Kit 10 Mini Pincéis Maquiagem Viagem**
-   - Categoria: Beleza
-   - Loja: Shopee
-   - Preço: R$ 16,98
-   - Desconto: 58% OFF
-   - Link: https://s.shopee.com.br/9AOpBky7y2
 
 ## Ações gratuitas recomendadas
 

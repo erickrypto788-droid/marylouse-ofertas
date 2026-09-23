@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 23/09/2026 00:11
+Gerado em: 23/09/2026 00:22
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 23/09/2026 00:11
 
 **Produtos usados:**
 
+- Kit 4 Peças Conjunto Infantil Bebê Menino Verão
+- Sandália Cartago Baby Masculina
 - Boneca Lola Baby com Chupeta Rosa
-- Trocador Anatômico Impermeável
-- Bebe Menino Barato Reborn Silicone Original Envio Imediato
 
 ---
 

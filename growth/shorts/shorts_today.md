@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 23/09/2026 02:22
+Gerado em: 23/09/2026 03:19
 
 ## Como usar
 
@@ -78,9 +78,9 @@ Gerado em: 23/09/2026 02:22
 
 **Produtos usados:**
 
-- Chapinha Profissional Nano Titanium
 - Body Splash Barbarus Amadeirado Primacial
 - Kit 10 Mini Pincéis Maquiagem Viagem
+- Protetor Solar Facial FPS 60 Antioleosidade com Base Efeito Matte Sun…
 
 ---
 

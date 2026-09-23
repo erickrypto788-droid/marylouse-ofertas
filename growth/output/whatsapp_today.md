@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 23/09/2026 09:03
+Gerado em: 23/09/2026 09:23
 
 ## Como usar
 
@@ -12,7 +12,37 @@ Gerado em: 23/09/2026 09:03
 
 ---
 
-## Post 1 — Mamãe e Bebê
+## Post 1 — Casa e Cozinha
+
+**Canal recomendado:** Casa e Cozinha
+
+**Horário sugerido:** 18:00 - 20:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
+
+**Texto pronto:**
+
+```txt
+🍳 Oferta para Casa e Cozinha
+
+Panela Elétrica 1.8L Multi-Funções
+
+💸 De: R$ 196,23
+🔥 Por: R$ 58,87
+🏷️ 70% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/70KM4Ss2CK
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 2 — Mamãe e Bebê
 
 **Canal recomendado:** Mamãe e Bebê
 
@@ -42,7 +72,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 2 — Celulares e Tecnologia
+## Post 3 — Celulares e Tecnologia
 
 **Canal recomendado:** Celulares e Tecnologia
 
@@ -72,7 +102,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 3 — Ofertas Pet
+## Post 4 — Ofertas Pet
 
 **Canal recomendado:** Ofertas Pet
 
@@ -102,7 +132,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Moda Feminina
+## Post 5 — Moda Feminina
 
 **Canal recomendado:** Moda Feminina
 
@@ -132,7 +162,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 5 — Moda e Calçados
+## Post 6 — Moda e Calçados
 
 **Canal recomendado:** Moda e Calçados
 
@@ -155,36 +185,6 @@ Chinelo Masculino Original Reserva Casual Moderno Confortável Macio P…
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/5VVXHrkiWa
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 6 — Casa e Cozinha
-
-**Canal recomendado:** Casa e Cozinha
-
-**Horário sugerido:** 18:00 - 20:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
-
-**Texto pronto:**
-
-```txt
-🍳 Oferta para Casa e Cozinha
-
-Mixer Elétrico 3 em 1 Elgin
-
-💸 De: R$ 209,09
-🔥 Por: R$ 115,00
-🏷️ 45% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/8plzSLJJfh
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 23/09/2026 09:03
+Gerado em: 23/09/2026 09:23
 
 ## Como usar
 
@@ -54,9 +54,9 @@ Gerado em: 23/09/2026 09:03
 
 **Produtos usados:**
 
+- Panela Elétrica 1.8L Multi-Funções
+- Escorredor De Arroz Inox Legumes Frutas Multiuso Cozinha Alça Coador…
 - Mixer Elétrico 3 em 1 Elgin
-- Jogo Panelas Vermelho Alumínio Fundido
-- Jogo Panelas Grandes Conjunto Caçarolas 40cm - 2 Un Alumínio
 
 ---
 
@@ -126,8 +126,8 @@ Gerado em: 23/09/2026 09:03
 
 **Produtos usados:**
 
+- Hidratante Creme Facial Pele De Porcelana Kokeshi 30g Milagre do Arroz
 - Kit 4 Potes Herméticos 2L Com Copo Medidor Organizador Mantimentos Ar…
 - Azeite Oliva Italiano Mercatto
-- Creme Dental Ozonizado Philozon 90g
 
 ---

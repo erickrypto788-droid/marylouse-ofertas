@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 23/09/2026 13:19
+Gerado em: 23/09/2026 14:03
 
 ## Como usar
 
@@ -127,7 +127,7 @@ Gerado em: 23/09/2026 13:19
 **Produtos usados:**
 
 - Hidratante Creme Facial Pele De Porcelana Kokeshi 30g Milagre do Arroz
-- Kit 4 Potes Herméticos 2L Com Copo Medidor Organizador Mantimentos Ar…
 - Azeite Oliva Italiano Mercatto
+- Creme Dental Ozonizado Philozon 90g
 
 ---

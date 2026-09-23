@@ -1,18 +1,18 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 23/09/2026 16:22
+Gerado em: 23/09/2026 17:10
 
 ## Categorias prioritárias
 
+- 🍼 **Mãe e Bebê**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 👟 **Calçados**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 🍼 **Mãe e Bebê**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🐶 **Pet**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 📦 **Outros**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
-- 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 👗 **Moda Feminina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
+- 💄 **Beleza**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - ✨ **Moda Plus Size**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
 - 💻 **Informática**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 💄 **Beleza**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🍳 **Casa e Cozinha**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 
 ## Top ofertas para destacar
@@ -45,47 +45,47 @@ Gerado em: 23/09/2026 16:22
    - Desconto: 50% OFF
    - Link: https://s.shopee.com.br/3LR2q7SwBq
 
-5. **celulares smartphones 6.78 Polegadas celular 5g 16GB+512GB Câmera HD…**
-   - Categoria: Celulares
-   - Loja: Mercado Livre
-   - Preço: R$ 1.660,00
-   - Desconto: 50% OFF
-   - Link: https://www.mercadolivre.com.br/p/MLB78262248?matt_word=marylouse&matt_tool=50459180&forceInApp=true
-
-6. **Mala Case Capa Bolsa Porta Case Notebook Slim 14,6/15,6 Alça Dupla Re…**
+5. **Mala Case Capa Bolsa Porta Case Notebook Slim 14,6/15,6 Alça Dupla Re…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 29,00
    - Desconto: 37% OFF
    - Link: https://s.shopee.com.br/3g3tpoZvU7
 
-7. **Kit Fraldas Geriátricas ConfortMaster**
+6. **Kit Fraldas Geriátricas ConfortMaster**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 77,98
    - Desconto: 38% OFF
    - Link: https://s.shopee.com.br/7VGcKk1DTp
 
-8. **Fone Lightning para iPhone**
+7. **Fone Lightning para iPhone**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 10,00
    - Desconto: 67% OFF
    - Link: https://s.shopee.com.br/8V9AK1dYmt
 
-9. **Ração Gato Estimacat Premium Filhote Sabor Frango 10kg**
+8. **Ração Gato Estimacat Premium Filhote Sabor Frango 10kg**
    - Categoria: Pet
    - Loja: Mercado Livre
    - Preço: R$ 253,07
    - Desconto: 25% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB66844874?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-10. **Escorredor De Arroz Inox Legumes Frutas Multiuso Cozinha Alça Coador…**
+9. **Escorredor De Arroz Inox Legumes Frutas Multiuso Cozinha Alça Coador…**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 19,99
    - Desconto: 60% OFF
    - Link: https://s.shopee.com.br/4LJatZ2Bc4
+
+10. **Hub USB com 4/7 Entradas**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 14,99
+   - Desconto: 50% OFF
+   - Link: https://s.shopee.com.br/AAHMRiW2JD
 
 ## Ações gratuitas recomendadas
 

@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 23/09/2026 16:22
+Gerado em: 23/09/2026 17:10
 
 ## Como usar
 
@@ -103,8 +103,8 @@ Gerado em: 23/09/2026 16:22
 **Produtos usados:**
 
 - LANCAMENTO CELULAR XIAOMI POCO X8 PRO MAX 5G NFC 256GB OU 512GB VERSÃ…
-- celulares smartphones 6.78 Polegadas celular 5g 16GB+512GB Câmera HD…
 - Fone Lightning para iPhone
+- Motorola Moto G06 4G 256GB
 
 ---
 
@@ -127,7 +127,7 @@ Gerado em: 23/09/2026 16:22
 **Produtos usados:**
 
 - Hidratante Creme Facial Pele De Porcelana Kokeshi 30g Milagre do Arroz
+- Azeite Oliva Extra Virgem Português Vila Oliva 500ml (3 Un)
 - Azeite Oliva Italiano Mercatto
-- Creme Dental Ozonizado Philozon 90g
 
 ---

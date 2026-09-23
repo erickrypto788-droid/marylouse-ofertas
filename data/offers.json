@@ -1,5 +1,47 @@
 [
   {
+    "id": "07f65ba90df29c8bed",
+    "title": "Sapatenis Masculino Sola Alta Estiloso",
+    "raw_title": "Sapatenis Casual Masculino Sneaker Sola Alta Macio Chunky Confortável Estiloso Sola Oversize Lanç",
+    "description": "🚀 ESTILO E CONFORTO com PREÇO IMPERDÍVEL! 🚀 Aproveite o Sapatenis Casual Masculino com sola alta, macio e super estiloso! O design chunky é a tendência...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Masculinos",
+    "old_price": "R$ 147,11",
+    "price": "R$ 55,90",
+    "discount_percent": 62.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9650td3b8l544",
+    "affiliate_url": "https://s.shopee.com.br/5LC8PxyBLS",
+    "created_at": "23/09/2026 14:17",
+    "created_at_iso": "2026-09-23T14:17:00",
+    "created_ts": 1790173020,
+    "niche": {
+      "key": "shopee_sapatos_masculinos",
+      "name": "Sapatos Masculinos"
+    }
+  },
+  {
+    "id": "b4ccc943888e2632d4",
+    "title": "Tênis Masculino Cadarço Elástico Sapatênis Meia Knit Couro Sintético…",
+    "raw_title": "Tênis Masculino Cadarço Elástico Sapatênis Meia Knit Couro Sintético Tecido",
+    "description": "🔥 55% OFF — Oferta encontrada! 📌 Tênis Masculino Cadarço Elástico Sapatênis Meia Knit Couro Sintético Tecido Confira os detalhes e aproveite enquanto a...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Masculinos",
+    "old_price": "R$ 199,98",
+    "price": "R$ 89,99",
+    "discount_percent": 55.0,
+    "rating": 4.7,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lf-mnowkr27c54w02",
+    "affiliate_url": "https://s.shopee.com.br/6AlFPUv0eZ",
+    "created_at": "23/09/2026 14:15",
+    "created_at_iso": "2026-09-23T14:15:50",
+    "created_ts": 1790172950,
+    "niche": {
+      "key": "shopee_sapatos_masculinos",
+      "name": "Sapatos Masculinos"
+    }
+  },
+  {
     "id": "b1445ec23ed7281dd3",
     "title": "Owlet Dream Sock | Monitor Bebê",
     "raw_title": "Owlet Dream Sock | Meia Inteligente Monitor Bebê - Rosa",
@@ -2130,81 +2172,5 @@
       "key": "shopee_roupas_femininas",
       "name": "Roupas Femininas"
     }
-  },
-  {
-    "id": "7f5c257a178b5c8330",
-    "title": "GTA VI PS5 Edição Standard",
-    "raw_title": "Jogo Grand Theft Auto VI Edição Standard - PS5",
-    "description": "🚨 GTA VI CHEGOU! 🚨 Prepare-se para dominar Vice City no seu PS5! A edição Standard de Grand Theft Auto VI já está disponível. Garanta já o seu e mergulh...",
-    "marketplace": "Shopee",
-    "category": "Jogos e Consoles",
-    "old_price": "",
-    "price": "R$ 449,90",
-    "discount_percent": 0.0,
-    "rating": 0.0,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ma-mpxxrh0ud43kb3",
-    "affiliate_url": "https://s.shopee.com.br/4qFqE9ZFSf",
-    "created_at": "22/09/2026 14:16",
-    "created_at_iso": "2026-09-22T14:16:57",
-    "created_ts": 1790086617,
-    "niche": {
-      "key": "shopee_jogos_consoles",
-      "name": "Jogos e Consoles"
-    }
-  },
-  {
-    "id": "06d434543ed77904a2",
-    "title": "Controle PS5 Dualsense Midnight Black",
-    "raw_title": "Controle PS5 Sony Dualsense sem fio JoyStick - Midnight Black",
-    "description": "🎮 A hora de turbinar seu PS5 chegou! Controle PS5 Sony Dualsense sem fio JoyStick - Midnight Black. Sinta a imersão com o controle original e melhore su...",
-    "marketplace": "Shopee",
-    "category": "Jogos e Consoles",
-    "old_price": "R$ 671,72",
-    "price": "R$ 429,90",
-    "discount_percent": 36.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ls-mo65ro6coem92c",
-    "affiliate_url": "https://s.shopee.com.br/gQHGUXa4B",
-    "created_at": "22/09/2026 14:15",
-    "created_at_iso": "2026-09-22T14:15:47",
-    "created_ts": 1790086547,
-    "niche": {
-      "key": "shopee_jogos_consoles",
-      "name": "Jogos e Consoles"
-    }
-  },
-  {
-    "id": "a0a3f63b79d1519b80",
-    "title": "Furadeira Parafusadeira Imp. Dlx2336syx",
-    "raw_title": "Furadeira Parafusadeira Imp C/ Parafusadeira Imp Dlx2336syx",
-    "description": "🛠️ OFERTA IMPERDÍVEL! Potência e precisão para seus projetos! Chegou a Furadeira Parafusadeira Imp C/ Parafusadeira Imp Dlx2336syx. 💪 Garanta já a ferra...",
-    "marketplace": "Mercado Livre",
-    "category": "Ferramentas",
-    "old_price": "",
-    "price": "R$ 1.659,50",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_720035-MLA99981479295_112025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23649057?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "22/09/2026 14:03",
-    "created_at_iso": "2026-09-22T14:03:21",
-    "created_ts": 1790085801
-  },
-  {
-    "id": "f0e06934f99d34edf1",
-    "title": "Combo Furadeira Parafusadeira DF333D + Parafusadeira de Impacto TD110…",
-    "raw_title": "Combo Furadeira Parafusadeira DF333D + Parafusadeira de Impacto TD110D 12V - CLX224SAX",
-    "description": "🔥 Oferta encontrada! 📌 Combo Furadeira Parafusadeira DF333D + Parafusadeira de Impacto TD110D 12V - CLX224SAX Confira os detalhes e aproveite enquanto a...",
-    "marketplace": "Mercado Livre",
-    "category": "Ferramentas",
-    "old_price": "",
-    "price": "R$ 1.213,00",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_760221-MLA99494941634_112025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB19765397?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "22/09/2026 14:02",
-    "created_at_iso": "2026-09-22T14:02:11",
-    "created_ts": 1790085731
   }
 ]

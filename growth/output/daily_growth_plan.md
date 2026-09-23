@@ -1,11 +1,11 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 23/09/2026 21:21
+Gerado em: 23/09/2026 22:04
 
 ## Categorias prioritárias
 
 - 🍼 **Mãe e Bebê**: 15 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 💄 **Beleza**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 💄 **Beleza**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🏋️ **Esportes**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 👗 **Moda Feminina**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 👟 **Calçados**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
@@ -17,75 +17,75 @@ Gerado em: 23/09/2026 21:21
 
 ## Top ofertas para destacar
 
-1. **Escova Pet Secadora Elétrica**
+1. **Perfume Feminino Olympia**
+   - Categoria: Beleza
+   - Loja: Mercado Livre
+   - Preço: R$ 184,00
+   - Desconto: 50% OFF
+   - Link: https://www.mercadolivre.com.br/p/MLB77039877?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+2. **Escova Pet Secadora Elétrica**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 43,99
    - Desconto: 78% OFF
    - Link: https://s.shopee.com.br/9V1he6aGAO
 
-2. **Panela Elétrica 1.8L Multi-Funções**
+3. **Panela Elétrica 1.8L Multi-Funções**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 58,87
    - Desconto: 70% OFF
    - Link: https://s.shopee.com.br/70KM4Ss2CK
 
-3. **Case Gaveta HD SSD 2.5 Transparente**
+4. **Case Gaveta HD SSD 2.5 Transparente**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 30,99
    - Desconto: 69% OFF
    - Link: https://s.shopee.com.br/9fL7BCXdjc
 
-4. **Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…**
+5. **Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 26,99
    - Desconto: 55% OFF
    - Link: https://s.shopee.com.br/6q0vXW3kpd
 
-5. **Mala Case Capa Bolsa Porta Case Notebook Slim 14,6/15,6 Alça Dupla Re…**
+6. **Mala Case Capa Bolsa Porta Case Notebook Slim 14,6/15,6 Alça Dupla Re…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 29,00
    - Desconto: 37% OFF
    - Link: https://s.shopee.com.br/3g3tpoZvU7
 
-6. **Kit Fraldas Geriátricas ConfortMaster**
+7. **Kit Fraldas Geriátricas ConfortMaster**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 77,98
    - Desconto: 38% OFF
    - Link: https://s.shopee.com.br/7VGcKk1DTp
 
-7. **Carrinho De Boneca Bebe Brinquedo Infantil Passeio**
+8. **Carrinho De Boneca Bebe Brinquedo Infantil Passeio**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 20,99
    - Desconto: 58% OFF
    - Link: https://s.shopee.com.br/70KMrsQKYe
 
-8. **Jogo de Panelas Cereja 5 Pçs**
+9. **Jogo de Panelas Cereja 5 Pçs**
    - Categoria: Casa e Cozinha
    - Loja: Mercado Livre
    - Preço: R$ 205,40
    - Desconto: 21% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB33652298?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-9. **Escova Profissional 5 em 1**
+10. **Escova Profissional 5 em 1**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 54,99
    - Desconto: 63% OFF
    - Link: https://s.shopee.com.br/1135bNNhxo
-
-10. **Fritadeira Air Fryer Itatiaia 3,5 Litros 127V Sem Óleo**
-   - Categoria: Casa e Cozinha
-   - Loja: Shopee
-   - Preço: R$ 171,75
-   - Desconto: 25% OFF
-   - Link: https://s.shopee.com.br/qjjG3I8IO
 
 ## Ações gratuitas recomendadas
 

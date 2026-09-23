@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 23/09/2026 04:22
+Gerado em: 23/09/2026 05:04
 
 ## Como usar
 
@@ -80,7 +80,7 @@ Gerado em: 23/09/2026 04:22
 
 - Body Splash Barbarus Amadeirado Primacial
 - Kit 10 Mini Pincéis Maquiagem Viagem
-- Kaisasa Shampoo Tonalizante Para Cobrir Cabelo Cinzento，shampoo cabel…
+- Perfume Grace Gourmand
 
 ---
 

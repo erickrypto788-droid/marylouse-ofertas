@@ -1,5 +1,89 @@
 [
   {
+    "id": "f68e9f1709e3cbf574",
+    "title": "Kit Material Escolar Fofo",
+    "raw_title": "Kit Bloco Adesivo 400 Folhas Canetas Coloridas Marca Texto Ponta Fina Material Escolar Adesivo Fofo",
+    "description": "✨ NOVIDADE FOFURA! ✨ Seus estudos nunca mais serão os mesmos! 🤩 Garanta já o Kit Bloco Adesivo + Canetas Coloridas + Marca Texto Ponta Fina e deixe seu...",
+    "marketplace": "Shopee",
+    "category": "Papelaria",
+    "old_price": "R$ 44,89",
+    "price": "R$ 29,63",
+    "discount_percent": 34.0,
+    "rating": 5.0,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgmxmt1acbno60",
+    "affiliate_url": "https://s.shopee.com.br/2VrwZuRbgB",
+    "created_at": "23/09/2026 07:19",
+    "created_at_iso": "2026-09-23T07:19:15",
+    "created_ts": 1790147955,
+    "niche": {
+      "key": "shopee_papelaria",
+      "name": "Papelaria"
+    }
+  },
+  {
+    "id": "7ca2248f66b5c5467c",
+    "title": "Cartão Horlle 1.9mm para Artesanato",
+    "raw_title": "Cartão Cinza Horlle 1.9 mm (Papelão Holler 1,9mm) para Encadernação e Cartonagem A4 A5 A6 15,5x21,5 16x22 19x27 40x50",
+    "description": "✂️ Transforme suas ideias em realidade com o Cartão Cinza Horlle 1.9mm! Ideal para encadernação e cartonagem, ele oferece a estrutura e resistência que...",
+    "marketplace": "Shopee",
+    "category": "Papelaria",
+    "old_price": "",
+    "price": "R$ 46,50",
+    "discount_percent": 0.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820l9-msk5l0mbyrr8b1",
+    "affiliate_url": "https://s.shopee.com.br/4qFrMCRf29",
+    "created_at": "23/09/2026 07:18",
+    "created_at_iso": "2026-09-23T07:18:09",
+    "created_ts": 1790147889,
+    "niche": {
+      "key": "shopee_papelaria",
+      "name": "Papelaria"
+    }
+  },
+  {
+    "id": "7b358d92c9eaec282c",
+    "title": "Carimbo de Proteção de Privacidade",
+    "raw_title": "Carimbo Marca Texto De Proteção De Privacidade /Cobertura Privada/Prosy Code De Dados/Utensílio De Segurança",
+    "description": "Proteja sua privacidade AGORA! 🛡️ Cansado de expor seus dados em documentos e correspondências? Com o Carimbo de Proteção de Privacidade, você oculta in...",
+    "marketplace": "Shopee",
+    "category": "Papelaria",
+    "old_price": "R$ 24,99",
+    "price": "R$ 19,99",
+    "discount_percent": 20.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7rceh-ls7otqienlmg81",
+    "affiliate_url": "https://s.shopee.com.br/1qcFmgcwb1",
+    "created_at": "23/09/2026 07:16",
+    "created_at_iso": "2026-09-23T07:16:59",
+    "created_ts": 1790147819,
+    "niche": {
+      "key": "shopee_papelaria",
+      "name": "Papelaria"
+    }
+  },
+  {
+    "id": "883a50a7c5686bfb13",
+    "title": "Mini Guarda-Chuva Portátil UPF50+",
+    "raw_title": "Mini Guarda-Chuva Portátil Dobravel UPF50+ Cápsula Ultra Leve com Estojo – Proteção UV",
+    "description": "☔️ Não seja pego de surpresa! Tenha sempre à mão o Mini Guarda-Chuva Portátil Dobrável UPF50+ Cápsula. Ultra leve, com estojo e proteção UV, ele é seu m...",
+    "marketplace": "Shopee",
+    "category": "Papelaria",
+    "old_price": "R$ 34,61",
+    "price": "R$ 23,88",
+    "discount_percent": 31.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-824g4-mdyoqtw0scub39",
+    "affiliate_url": "https://s.shopee.com.br/3VkTlkNwAb",
+    "created_at": "23/09/2026 07:15",
+    "created_at_iso": "2026-09-23T07:15:51",
+    "created_ts": 1790147751,
+    "niche": {
+      "key": "shopee_papelaria",
+      "name": "Papelaria"
+    }
+  },
+  {
     "id": "da614afb98d828d41a",
     "title": "Kit Furadeira e Parafusadeira com Parafusadeira Dewalt Modelo DCK200M…",
     "raw_title": "Kit Furadeira e Parafusadeira com Parafusadeira Dewalt Modelo DCK200ME2GT 2 Baterias 20V",
@@ -2138,119 +2222,5 @@
       "key": "shopee_saude",
       "name": "Saúde"
     }
-  },
-  {
-    "id": "a4a3b807deb65ed66a",
-    "title": "Medidor Glicose G-Tech Completo",
-    "raw_title": "Medidor Glicose Diabete Gtech Vita / Ultra Kit Com 1 Aparelho 1 Caneta 10 Tiras 10 Lancetas Completo",
-    "description": "🩸 Controle sua saúde com facilidade! 🩸 Tenha o Kit Medidor de Glicose G-Tech Vita/Ultra completo para monitorar sua glicose com precisão e praticidade....",
-    "marketplace": "Shopee",
-    "category": "Saúde",
-    "old_price": "R$ 151,45",
-    "price": "R$ 46,95",
-    "discount_percent": 69.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-824gr-mfchnakx2w3vc6",
-    "affiliate_url": "https://s.shopee.com.br/7AdkXbe8CB",
-    "created_at": "22/09/2026 07:18",
-    "created_at_iso": "2026-09-22T07:18:14",
-    "created_ts": 1790061494,
-    "niche": {
-      "key": "shopee_saude",
-      "name": "Saúde"
-    }
-  },
-  {
-    "id": "5ecb2ab304e7b5835e",
-    "title": "Inalador Nebulizador Portátil",
-    "raw_title": "Inalador Nebulizador Portátil Ultrassônico Atomizador De Baixo Nó Para Crianças E Adultos",
-    "description": "🌬️ Alívio Imediato para sua respiração! Diga adeus ao desconforto! O Inalador Nebulizador Portátil Ultrassônico é a solução perfeita para crianças e adu...",
-    "marketplace": "Shopee",
-    "category": "Saúde",
-    "old_price": "R$ 139,95",
-    "price": "R$ 27,99",
-    "discount_percent": 80.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7rdyg-lxl8kiksah6u8e",
-    "affiliate_url": "https://s.shopee.com.br/9zxvuoKgPE",
-    "created_at": "22/09/2026 07:17",
-    "created_at_iso": "2026-09-22T07:17:06",
-    "created_ts": 1790061426,
-    "niche": {
-      "key": "shopee_saude",
-      "name": "Saúde"
-    }
-  },
-  {
-    "id": "02b9717562a7ba0ba2",
-    "title": "Kit Saúde Completo 4 em 1",
-    "raw_title": "Medidor de pressão arterial digital + tensiômetros +Termômetro infravermelho + oxímetro de dedo",
-    "description": "🚨 KIT ESSENCIAL PARA SUA SAÚDE! 🚨 Tenha tudo que você precisa para monitorar sua saúde e da sua família no conforto de casa! 🏡 Este super kit inclui:",
-    "marketplace": "Shopee",
-    "category": "Saúde",
-    "old_price": "R$ 199,68",
-    "price": "R$ 75,88",
-    "discount_percent": 62.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-81zvb-mn36o785y4g0a4",
-    "affiliate_url": "https://s.shopee.com.br/8KphvkIIUA",
-    "created_at": "22/09/2026 07:15",
-    "created_at_iso": "2026-09-22T07:15:57",
-    "created_ts": 1790061357,
-    "niche": {
-      "key": "shopee_saude",
-      "name": "Saúde"
-    }
-  },
-  {
-    "id": "00f929094d1cbc23df",
-    "title": "Tecido Paetê Tribal Africano Preto",
-    "raw_title": "Tecido Paetê Tribal Africano 1,30x1,50m Vestido Feminino Cor Preto",
-    "description": "✨ Brilhe com estilo e cultura! O Tecido Paetê Tribal Africano Preto (1,30x1,50m) é perfeito para criar aquele vestido feminino exclusivo que vai te dest...",
-    "marketplace": "Mercado Livre",
-    "category": "Roupas Femininas",
-    "old_price": "",
-    "price": "R$ 305,00",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_787019-MLA116543064625_082026-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77976379?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "22/09/2026 07:06",
-    "created_at_iso": "2026-09-22T07:06:39",
-    "created_ts": 1790060799
-  },
-  {
-    "id": "b81de97bb961602c37",
-    "title": "Tecido Suplex Amarelo 5 Metros",
-    "raw_title": "Tecido Suplex Liso Amarelo de 5 Metros para Moda Fitness",
-    "description": "✨ BRILHE na Moda Fitness! ✨ Garanta já 5 metros do vibrante Tecido Suplex Liso Amarelo, perfeito para suas criações! Conforto e estilo para você arrasar...",
-    "marketplace": "Mercado Livre",
-    "category": "Esportes e Lazer",
-    "old_price": "",
-    "price": "R$ 157,79",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_890793-MLA99936956093_112025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45621460?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "22/09/2026 07:04",
-    "created_at_iso": "2026-09-22T07:04:57",
-    "created_ts": 1790060697
-  },
-  {
-    "id": "efff9d096b67bf9ddb",
-    "title": "Meia Calça Térmica Plus Size",
-    "raw_title": "Meia Calça Feminina Térmica Plus Size",
-    "description": "❄️ Fique quentinha e estilosa neste inverno! Apresentamos a Meia Calça Feminina Térmica Plus Size, perfeita para você! Garanta conforto e liberdade nos...",
-    "marketplace": "Mercado Livre",
-    "category": "Roupas Femininas",
-    "old_price": "",
-    "price": "R$ 79,90",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_661264-MLA109368688623_032026-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66992733?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "22/09/2026 07:03",
-    "created_at_iso": "2026-09-22T07:03:47",
-    "created_ts": 1790060627
   }
 ]

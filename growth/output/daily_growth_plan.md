@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 23/09/2026 05:04
+Gerado em: 23/09/2026 05:19
 
 ## Categorias prioritárias
 
 - 🍼 **Mãe e Bebê**: 15 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 👗 **Moda Feminina**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
-- 🏋️ **Esportes**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 🐶 **Pet**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 📦 **Outros**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 🧸 **Brinquedos**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 💄 **Beleza**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 🏋️ **Esportes**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
+- 💻 **Informática**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - ❤️ **Saúde**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 👟 **Calçados**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 🛒 **Supermercados**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-supermercados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_supermercados
 
 ## Top ofertas para destacar
 
@@ -45,47 +45,47 @@ Gerado em: 23/09/2026 05:04
    - Desconto: 59% OFF
    - Link: https://s.shopee.com.br/6AlAxQscOS
 
-5. **Kit Fraldas Geriátricas ConfortMaster**
+5. **Mala Case Capa Bolsa Porta Case Notebook Slim 14,6/15,6 Alça Dupla Re…**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 29,00
+   - Desconto: 37% OFF
+   - Link: https://s.shopee.com.br/3g3tpoZvU7
+
+6. **Kit Fraldas Geriátricas ConfortMaster**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 77,98
    - Desconto: 38% OFF
    - Link: https://s.shopee.com.br/7VGcKk1DTp
 
-6. **Kit Escova Higiene Lavar 4 em 1 para Copo, Garrafa,Mamadeira e Canudo…**
+7. **Kit Escova Higiene Lavar 4 em 1 para Copo, Garrafa,Mamadeira e Canudo…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 25,99
    - Desconto: 54% OFF
    - Link: https://s.shopee.com.br/1AbOxh6Ym
 
-7. **Kit Saúde Essencial 3 em 1**
+8. **Kit Saúde Essencial 3 em 1**
    - Categoria: Saúde
    - Loja: Shopee
    - Preço: R$ 77,99
    - Desconto: 59% OFF
    - Link: https://s.shopee.com.br/3B7d6ebb7k
 
-8. **Vestido Feminino Curto Duna com Amarração Caimento Soltinho Gola Halt…**
+9. **Vestido Feminino Curto Duna com Amarração Caimento Soltinho Gola Halt…**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 46,80
    - Desconto: 22% OFF
    - Link: https://s.shopee.com.br/7fa2KgOZ7g
 
-9. **Kit 4 Peças Conjunto Infantil Bebê Menino Verão**
+10. **Kit 4 Peças Conjunto Infantil Bebê Menino Verão**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 47,00
    - Desconto: 64% OFF
    - Link: https://s.shopee.com.br/1LfyivNsxb
-
-10. **Sandália Cartago Baby Masculina**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 23,90
-   - Desconto: 60% OFF
-   - Link: https://s.shopee.com.br/8plzeiD054
 
 ## Ações gratuitas recomendadas
 

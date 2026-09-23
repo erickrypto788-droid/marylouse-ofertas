@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 23/09/2026 19:21
+Gerado em: 23/09/2026 20:22
 
 ## Categorias prioritárias
 
 - 🍼 **Mãe e Bebê**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 💄 **Beleza**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 🏋️ **Esportes**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 👗 **Moda Feminina**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
-- 🐶 **Pet**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 👟 **Calçados**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 🍳 **Casa e Cozinha**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
-- 📦 **Outros**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
-- 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 📦 **Outros**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 🐶 **Pet**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 💻 **Informática**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 🏋️ **Esportes**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
+- 🧸 **Brinquedos**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 
 ## Top ofertas para destacar
 
@@ -45,47 +45,47 @@ Gerado em: 23/09/2026 19:21
    - Desconto: 55% OFF
    - Link: https://s.shopee.com.br/6q0vXW3kpd
 
-5. **LANCAMENTO CELULAR XIAOMI POCO X8 PRO MAX 5G NFC 256GB OU 512GB VERSÃ…**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 3.399,00
-   - Desconto: 50% OFF
-   - Link: https://s.shopee.com.br/3LR2q7SwBq
-
-6. **Mala Case Capa Bolsa Porta Case Notebook Slim 14,6/15,6 Alça Dupla Re…**
+5. **Mala Case Capa Bolsa Porta Case Notebook Slim 14,6/15,6 Alça Dupla Re…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 29,00
    - Desconto: 37% OFF
    - Link: https://s.shopee.com.br/3g3tpoZvU7
 
-7. **Kit Fraldas Geriátricas ConfortMaster**
+6. **Kit Fraldas Geriátricas ConfortMaster**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 77,98
    - Desconto: 38% OFF
    - Link: https://s.shopee.com.br/7VGcKk1DTp
 
-8. **Jogo de Panelas Cereja 5 Pçs**
+7. **Jogo de Panelas Cereja 5 Pçs**
    - Categoria: Casa e Cozinha
    - Loja: Mercado Livre
    - Preço: R$ 205,40
    - Desconto: 21% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB33652298?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-9. **Escova Profissional 5 em 1**
+8. **Escova Profissional 5 em 1**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 54,99
    - Desconto: 63% OFF
    - Link: https://s.shopee.com.br/1135bNNhxo
 
-10. **Fritadeira Air Fryer Itatiaia 3,5 Litros 127V Sem Óleo**
+9. **Fritadeira Air Fryer Itatiaia 3,5 Litros 127V Sem Óleo**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 171,75
    - Desconto: 25% OFF
    - Link: https://s.shopee.com.br/qjjG3I8IO
+
+10. **Fone Lightning para iPhone**
+   - Categoria: Celulares
+   - Loja: Shopee
+   - Preço: R$ 10,00
+   - Desconto: 67% OFF
+   - Link: https://s.shopee.com.br/8V9AK1dYmt
 
 ## Ações gratuitas recomendadas
 

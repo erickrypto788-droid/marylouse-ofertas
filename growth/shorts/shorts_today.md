@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 23/09/2026 19:21
+Gerado em: 23/09/2026 20:22
 
 ## Como usar
 
@@ -102,9 +102,9 @@ Gerado em: 23/09/2026 19:21
 
 **Produtos usados:**
 
-- LANCAMENTO CELULAR XIAOMI POCO X8 PRO MAX 5G NFC 256GB OU 512GB VERSÃ…
 - Fone Lightning para iPhone
 - Motorola Moto G06 4G 256GB
+- Redmi Note 14s Cor Preto
 
 ---
 

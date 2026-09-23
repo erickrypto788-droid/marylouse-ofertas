@@ -1,5 +1,39 @@
 [
   {
+    "id": "9c9d985a2e59c8611b",
+    "title": "Jogo Panelas Vermelho Alumínio Fundido",
+    "raw_title": "Jogo Panelas Vermelho Alumínio Fundido Usinado Javaliam16a24",
+    "description": "🍳 Transforme sua cozinha com estilo! ✨ Prepare suas melhores receitas com este incrível Jogo de Panelas Vermelho de Alumínio Fundido Usinado Javali. Des...",
+    "marketplace": "Mercado Livre",
+    "category": "Casa e Cozinha",
+    "old_price": "",
+    "price": "R$ 519,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_604611-MLU77175667212_072024-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB32583536?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "23/09/2026 02:03",
+    "created_at_iso": "2026-09-23T02:03:45",
+    "created_ts": 1790129025
+  },
+  {
+    "id": "1ee9568832b9014d91",
+    "title": "Jogo Panelas Grandes Conjunto Caçarolas 40cm - 2 Un Alumínio",
+    "raw_title": "Jogo Panelas Grandes Conjunto Caçarolas 40cm - 2 Un Alumínio",
+    "description": "🔥 Oferta encontrada! 📌 Jogo Panelas Grandes Conjunto Caçarolas 40cm - 2 Un Alumínio Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Casa e Cozinha",
+    "old_price": "",
+    "price": "R$ 397,61",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_798020-MLA110128132977_042026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67685128?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "23/09/2026 02:02",
+    "created_at_iso": "2026-09-23T02:02:35",
+    "created_ts": 1790128955
+  },
+  {
     "id": "fd3b194b54c06361bf",
     "title": "Banco de Bicicleta Confortável com Molas Adesivo Refletivo de Seguran…",
     "raw_title": "Banco de Bicicleta Confortável com Molas Adesivo Refletivo de Segurança Confortável Banco de Bike Selim",
@@ -2277,39 +2311,5 @@
       "key": "shopee_eletrodomesticos",
       "name": "Eletrodomésticos"
     }
-  },
-  {
-    "id": "e80ae7f981b093753a",
-    "title": "Ração Premier Gato Castrado +12 Anos",
-    "raw_title": "Ração Gato Castrado Frango +12 Anos 500g Premier",
-    "description": "🐾 Seu gato castrado +12 anos merece essa nutrição! Garanta a saúde e vitalidade do seu felino com a Ração Premier para Gatos Castrados sabor Frango, ide...",
-    "marketplace": "Mercado Livre",
-    "category": "Pet",
-    "old_price": "",
-    "price": "R$ 41,36",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_777146-MLA99854888751_112025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB22588098?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "22/09/2026 02:01",
-    "created_at_iso": "2026-09-22T02:01:41",
-    "created_ts": 1790042501
-  },
-  {
-    "id": "a54db372e58f77ba83",
-    "title": "Fone de ouvido Bluetooth Sem Fio Headphone Bluetooth Recarregável P9…",
-    "raw_title": "Fone de ouvido Bluetooth Sem Fio Headphone Bluetooth Recarregável P9 Air Top Casual Esportivo",
-    "description": "🔥 47% OFF — Oferta encontrada! 📌 Fone de ouvido Bluetooth Sem Fio Headphone Bluetooth Recarregável P9 Air Top Casual Esportivo Confira os detalhes e apr...",
-    "marketplace": "Shopee",
-    "category": "Eletrônicos",
-    "old_price": "R$ 46,92",
-    "price": "R$ 24,87",
-    "discount_percent": 47.0,
-    "rating": 4.7,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-824gf-mf8cvs3kgwela4",
-    "affiliate_url": "https://s.shopee.com.br/6q0tkGipRK",
-    "created_at": "22/09/2026 01:20",
-    "created_at_iso": "2026-09-22T01:20:40",
-    "created_ts": 1790040040
   }
 ]

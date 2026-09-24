@@ -1,91 +1,91 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 24/09/2026 01:05
+Gerado em: 24/09/2026 01:20
 
 ## Categorias prioritárias
 
 - 🍼 **Mãe e Bebê**: 18 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 💻 **Informática**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 💄 **Beleza**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 🏋️ **Esportes**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 💻 **Informática**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 👜 **Bolsas**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 - 👟 **Calçados**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 👗 **Moda Feminina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - ❤️ **Saúde**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 🧸 **Brinquedos**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
+- 🏋️ **Esportes**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 🍳 **Casa e Cozinha**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
-- 👜 **Bolsas**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
+- 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 
 ## Top ofertas para destacar
 
-1. **Perfume Feminino Olympia**
+1. **Capa Case De Notebook Com Alça E Bolso Externo Para 15,6 / 13 / 14 /…**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 29,00
+   - Desconto: 54% OFF
+   - Link: https://s.shopee.com.br/7AdnKedyDb
+
+2. **Perfume Feminino Olympia**
    - Categoria: Beleza
    - Loja: Mercado Livre
    - Preço: R$ 184,00
    - Desconto: 50% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB77039877?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-2. **Escova Pet Secadora Elétrica**
+3. **Escova Pet Secadora Elétrica**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 43,99
    - Desconto: 78% OFF
    - Link: https://s.shopee.com.br/9V1he6aGAO
 
-3. **Panela Elétrica 1.8L Multi-Funções**
+4. **Panela Elétrica 1.8L Multi-Funções**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 58,87
    - Desconto: 70% OFF
    - Link: https://s.shopee.com.br/70KM4Ss2CK
 
-4. **Case Gaveta HD SSD 2.5 Transparente**
+5. **Case Gaveta HD SSD 2.5 Transparente**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 30,99
    - Desconto: 69% OFF
    - Link: https://s.shopee.com.br/9fL7BCXdjc
 
-5. **Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…**
+6. **Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 26,99
    - Desconto: 55% OFF
    - Link: https://s.shopee.com.br/6q0vXW3kpd
 
-6. **Mala Case Capa Bolsa Porta Case Notebook Slim 14,6/15,6 Alça Dupla Re…**
+7. **Mala Case Capa Bolsa Porta Case Notebook Slim 14,6/15,6 Alça Dupla Re…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 29,00
    - Desconto: 37% OFF
    - Link: https://s.shopee.com.br/3g3tpoZvU7
 
-7. **Kit Fraldas Geriátricas ConfortMaster**
+8. **Kit Fraldas Geriátricas ConfortMaster**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 77,98
    - Desconto: 38% OFF
    - Link: https://s.shopee.com.br/7VGcKk1DTp
 
-8. **Capa Case Pasta Notebook de 14 ate 17 polegadas Super Reforçada Alça…**
+9. **Capa Case Pasta Notebook de 14 ate 17 polegadas Super Reforçada Alça…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 46,90
    - Desconto: 21% OFF
    - Link: https://s.shopee.com.br/1qcGujZcSi
 
-9. **Monitor de Pressão Arterial Automático**
+10. **Monitor de Pressão Arterial Automático**
    - Categoria: Saúde
    - Loja: Shopee
    - Preço: R$ 38,99
    - Desconto: 68% OFF
    - Link: https://s.shopee.com.br/8pm17MdXKh
-
-10. **Carrinho De Boneca Bebe Brinquedo Infantil Passeio**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 20,99
-   - Desconto: 58% OFF
-   - Link: https://s.shopee.com.br/70KMrsQKYe
 
 ## Ações gratuitas recomendadas
 

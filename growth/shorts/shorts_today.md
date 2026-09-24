@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 24/09/2026 13:20
+Gerado em: 24/09/2026 14:22
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 24/09/2026 13:20
 
 **Produtos usados:**
 
+- Tênis Infantil Baby Confortável
 - Kit 2 Porta Leite em Pó Para Bebê + Colher de Silicone
 - Cadeira Alimentacao Alta e Baixa 12x1 e Mesa de Atividades LEGO BEBE…
-- Carrinho De Boneca Bebe Brinquedo Infantil Passeio
 
 ---
 

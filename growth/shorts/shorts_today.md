@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 24/09/2026 02:20
+Gerado em: 24/09/2026 03:05
 
 ## Como usar
 
@@ -104,7 +104,7 @@ Gerado em: 24/09/2026 02:20
 
 - Fone Lightning para iPhone
 - Motorola Moto G06 4G 256GB
-- Redmi Note 14s Cor Preto
+- Xiaomi POCO X6 5G
 
 ---
 

@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 24/09/2026 16:22
+Gerado em: 24/09/2026 17:21
 
 ## Como usar
 
@@ -56,7 +56,7 @@ Gerado em: 24/09/2026 16:22
 
 - Panela Elétrica Britânia 2L 5 Temperaturas 650W BPE02A
 - Jogo de Panelas Cereja 5 Pçs
-- Fritadeira Air Fryer Itatiaia 3,5 Litros 127V Sem Óleo
+- Dispensador de Sabão Lego
 
 ---
 
@@ -128,6 +128,6 @@ Gerado em: 24/09/2026 16:22
 
 - Papel Higiênico Fofopel 16 Rolos
 - Kit S.O.S Hidratação Azeite de Oliva Litrão Salon Line
-- Azeite Oliva Extra Virgem Português Vila Oliva 500ml (3 Un)
+- Vinagreen Amaciante Roupas Campos De Lavanda Concentrado 1l
 
 ---

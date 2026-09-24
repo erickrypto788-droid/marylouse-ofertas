@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 24/09/2026 13:05
+Gerado em: 24/09/2026 13:20
 
 ## Como usar
 
@@ -27,14 +27,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
 ```txt
 💄 Oferta para Beleza e Cuidados
 
-Escova Pet Secadora Elétrica
+Escova Secadora GOKOCO 5 Em 1
 
-💸 De: R$ 199,95
-🔥 Por: R$ 43,99
-🏷️ 78% OFF
+💸 De: R$ 1.013,16
+🔥 Por: R$ 385,00
+🏷️ 62% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/9V1he6aGAO
+Ver oferta: https://s.shopee.com.br/60RqjxblDn
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
@@ -132,37 +132,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 5 — Moda Feminina
-
-**Canal recomendado:** Moda Feminina
-
-**Horário sugerido:** 12:00 - 14:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
-
-**Texto pronto:**
-
-```txt
-👗 Oferta para Moda Feminina
-
-Blazer Feminino Plus Size Alfaiataria
-
-💸 De: R$ 156,86
-🔥 Por: R$ 54,90
-🏷️ 65% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/qjizZZ3qV
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 6 — Casa e Cozinha
+## Post 5 — Casa e Cozinha
 
 **Canal recomendado:** Casa e Cozinha
 
@@ -185,6 +155,36 @@ Panela Elétrica Britânia 2L 5 Temperaturas 650W BPE02A
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/7KxDjK6gq1
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 6 — Moda e Calçados
+
+**Canal recomendado:** Moda e Calçados
+
+**Horário sugerido:** 12:00 - 15:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
+
+**Texto pronto:**
+
+```txt
+👟 Oferta para Moda e Calçados
+
+Sandália Rasteira Feminina Gladiadora Tachas Douradas e Prateadas Tir…
+
+💸 De: R$ 99,97
+🔥 Por: R$ 39,99
+🏷️ 60% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/4LJbIFUuDK
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

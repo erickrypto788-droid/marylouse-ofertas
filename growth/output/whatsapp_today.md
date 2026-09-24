@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 24/09/2026 10:09
+Gerado em: 24/09/2026 10:18
 
 ## Como usar
 
@@ -12,37 +12,7 @@ Gerado em: 24/09/2026 10:09
 
 ---
 
-## Post 1 — Casa e Cozinha
-
-**Canal recomendado:** Casa e Cozinha
-
-**Horário sugerido:** 18:00 - 20:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
-
-**Texto pronto:**
-
-```txt
-🍳 Oferta para Casa e Cozinha
-
-Panela Elétrica 1.8L Multi-Funções
-
-💸 De: R$ 196,23
-🔥 Por: R$ 58,87
-🏷️ 70% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/70KM4Ss2CK
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 2 — Beleza e Cuidados
+## Post 1 — Beleza e Cuidados
 
 **Canal recomendado:** Beleza e Cuidados
 
@@ -72,7 +42,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 3 — Celulares e Tecnologia
+## Post 2 — Celulares e Tecnologia
 
 **Canal recomendado:** Celulares e Tecnologia
 
@@ -102,7 +72,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Ofertas Pet
+## Post 3 — Ofertas Pet
 
 **Canal recomendado:** Ofertas Pet
 
@@ -132,7 +102,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 5 — Mamãe e Bebê
+## Post 4 — Mamãe e Bebê
 
 **Canal recomendado:** Mamãe e Bebê
 
@@ -162,7 +132,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 6 — Moda Feminina
+## Post 5 — Moda Feminina
 
 **Canal recomendado:** Moda Feminina
 
@@ -185,6 +155,36 @@ Blazer Feminino Plus Size Alfaiataria
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/qjizZZ3qV
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 6 — Casa e Cozinha
+
+**Canal recomendado:** Casa e Cozinha
+
+**Horário sugerido:** 18:00 - 20:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
+
+**Texto pronto:**
+
+```txt
+🍳 Oferta para Casa e Cozinha
+
+Panela Elétrica Britânia 2L 5 Temperaturas 650W BPE02A
+
+💸 De: R$ 199,85
+🔥 Por: R$ 129,90
+🏷️ 35% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/7KxDjK6gq1
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

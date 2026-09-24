@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 24/09/2026 10:09
+Gerado em: 24/09/2026 10:18
 
 ## Categorias prioritárias
 
 - 🍼 **Mãe e Bebê**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 👟 **Calçados**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 👟 **Calçados**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 👗 **Moda Feminina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
-- 📦 **Outros**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 👕 **Moda Masculina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 - 💄 **Beleza**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 💻 **Informática**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 📦 **Outros**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - ✨ **Moda Plus Size**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
 - 🐶 **Pet**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
-- 🍳 **Casa e Cozinha**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
+- 🏋️ **Esportes**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 
 ## Top ofertas para destacar
 
@@ -38,54 +38,54 @@ Gerado em: 24/09/2026 10:09
    - Desconto: 78% OFF
    - Link: https://s.shopee.com.br/9V1he6aGAO
 
-4. **Panela Elétrica 1.8L Multi-Funções**
-   - Categoria: Casa e Cozinha
-   - Loja: Shopee
-   - Preço: R$ 58,87
-   - Desconto: 70% OFF
-   - Link: https://s.shopee.com.br/70KM4Ss2CK
-
-5. **Alimento Royal Canin Hair & Skin 3kg Ração Gato**
+4. **Alimento Royal Canin Hair & Skin 3kg Ração Gato**
    - Categoria: Pet
    - Loja: Mercado Livre
    - Preço: R$ 257,00
    - Desconto: 36% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB28523781?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-6. **Panela Elétrica Britânia 2L 5 Temperaturas 650W BPE02A**
+5. **Panela Elétrica Britânia 2L 5 Temperaturas 650W BPE02A**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 129,90
    - Desconto: 35% OFF
    - Link: https://s.shopee.com.br/7KxDjK6gq1
 
-7. **Pó Perolado para Decoração de Doces**
+6. **Pó Perolado para Decoração de Doces**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 15,90
    - Desconto: 47% OFF
    - Link: https://s.shopee.com.br/5q8PwZ88bb
 
-8. **Leitor Cartão USB C 3 Em 1 OTG SD Micro SD Adaptador Para Celular Not…**
+7. **Leitor Cartão USB C 3 Em 1 OTG SD Micro SD Adaptador Para Celular Not…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 17,99
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/5VVZTpkp3l
 
-9. **Pijama Plus Size Amamentação**
+8. **Pijama Plus Size Amamentação**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 42,26
    - Desconto: 53% OFF
    - Link: https://s.shopee.com.br/6q0xOteCQx
 
-10. **Kit 2 Porta Leite em Pó Para Bebê + Colher de Silicone**
+9. **Kit 2 Porta Leite em Pó Para Bebê + Colher de Silicone**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 26,88
    - Desconto: 55% OFF
    - Link: https://s.shopee.com.br/8fSbJlskJ3
+
+10. **Webcam com Microfone Full HD 1080p Giratória 360° Ajuste de Ângulo Li…**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 32,49
+   - Desconto: 54% OFF
+   - Link: https://s.shopee.com.br/4LJc5gtSNP
 
 ## Ações gratuitas recomendadas
 

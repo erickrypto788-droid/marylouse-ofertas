@@ -1,5 +1,39 @@
 [
   {
+    "id": "157db4b56342f90674",
+    "title": "Tecido Suplex Liso Bege 1.65m Poliéster Elastano Moda Fitness Brás Te…",
+    "raw_title": "Tecido Suplex Liso Bege 1.65m Poliéster Elastano Moda Fitness Brás Tecidos",
+    "description": "🔥 Oferta encontrada! 📌 Tecido Suplex Liso Bege 1.65m Poliéster Elastano Moda Fitness Brás Tecidos Confira os detalhes e aproveite enquanto a oferta esti...",
+    "marketplace": "Mercado Livre",
+    "category": "Esportes e Lazer",
+    "old_price": "",
+    "price": "R$ 500,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_987286-MLA96205156490_102025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51007372?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "24/09/2026 12:04",
+    "created_at_iso": "2026-09-24T12:04:15",
+    "created_ts": 1790251455
+  },
+  {
+    "id": "69f334dbb866c603fd",
+    "title": "Calça Legging Redutora Miracle Belt Cor Preto Tamanho Pp",
+    "raw_title": "Calça Legging Redutora Miracle Belt Cor Preto Tamanho Pp",
+    "description": "🔥 Oferta encontrada! 📌 Calça Legging Redutora Miracle Belt Cor Preto Tamanho Pp Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Roupas Femininas",
+    "old_price": "",
+    "price": "R$ 289,90",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_707797-MLA99461761142_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB58174814?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "24/09/2026 12:03",
+    "created_at_iso": "2026-09-24T12:03:11",
+    "created_ts": 1790251391
+  },
+  {
     "id": "acefbfbca8c10bb869",
     "title": "Cabo 4 em 1 Carregamento Rápido PD 65W USB Tipo C Lightning Duplo Nyl…",
     "raw_title": "Cabo 4 em 1 Carregamento Rápido PD 65W USB Tipo C Lightning Duplo Nylon Trançado para Android e iOS",
@@ -2348,48 +2382,6 @@
     "niche": {
       "key": "shopee_roupas_masculinas",
       "name": "Roupas Masculinas"
-    }
-  },
-  {
-    "id": "3f52ae67a5c738f30c",
-    "title": "Conjunto Feminino Calça Pantalona com Blusa feminina Manga Curta",
-    "raw_title": "Conjunto Feminino Calça Pantalona com Blusa feminina Manga Curta",
-    "description": "🔥 25% OFF — Oferta encontrada! 📌 Conjunto Feminino Calça Pantalona com Blusa feminina Manga Curta Confira os detalhes e aproveite enquanto a oferta esti...",
-    "marketplace": "Shopee",
-    "category": "Roupas Femininas",
-    "old_price": "R$ 79,91",
-    "price": "R$ 59,93",
-    "discount_percent": 25.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfl7ey8h27lw3b",
-    "affiliate_url": "https://s.shopee.com.br/9V1hBG1lcw",
-    "created_at": "23/09/2026 11:20",
-    "created_at_iso": "2026-09-23T11:20:29",
-    "created_ts": 1790162429,
-    "niche": {
-      "key": "shopee_roupas_femininas",
-      "name": "Roupas Femininas"
-    }
-  },
-  {
-    "id": "84f09f08a71b59d9aa",
-    "title": "Conjunto Feminino Body Quadrado+Short Alfaiataria Com Bolso e Cinto…",
-    "raw_title": "Conjunto Feminino Body Quadrado+Short Alfaiataria Com Bolso e Cinto Moda Casual",
-    "description": "🔥 53% OFF — Oferta encontrada! 📌 Conjunto Feminino Body Quadrado+Short Alfaiataria Com Bolso e Cinto Moda Casual Confira os detalhes e aproveite enquant...",
-    "marketplace": "Shopee",
-    "category": "Roupas Femininas",
-    "old_price": "R$ 119,09",
-    "price": "R$ 55,97",
-    "discount_percent": 53.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820mh-mps0r02u2z2846",
-    "affiliate_url": "https://s.shopee.com.br/1qcG3Ai5GZ",
-    "created_at": "23/09/2026 11:19",
-    "created_at_iso": "2026-09-23T11:19:25",
-    "created_ts": 1790162365,
-    "niche": {
-      "key": "shopee_roupas_femininas",
-      "name": "Roupas Femininas"
     }
   }
 ]

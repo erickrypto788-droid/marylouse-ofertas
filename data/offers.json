@@ -1,5 +1,22 @@
 [
   {
+    "id": "9a32273272637d9b97",
+    "title": "Alimento Royal Canin Hair & Skin 3kg Ração Gato",
+    "raw_title": "Alimento Royal Canin Hair & Skin 3kg Ração Gato",
+    "description": "🔥 36% OFF — Oferta encontrada! 📌 Alimento Royal Canin Hair & Skin 3kg Ração Gato Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Pet",
+    "old_price": "R$ 399,90",
+    "price": "R$ 257,00",
+    "discount_percent": 36.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_943508-MLA99921474703_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB28523781?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "24/09/2026 06:01",
+    "created_at_iso": "2026-09-24T06:01:54",
+    "created_ts": 1790229714
+  },
+  {
     "id": "61a3391629c1ce4c52",
     "title": "Vídeo Game Retrô Portátil 10000 Jogos",
     "raw_title": "Vídeo Game portátil 10000 jogos retrô tipo P-s.Eony 6.5 Polegadas Anjgg",
@@ -2331,48 +2348,6 @@
     "niche": {
       "key": "shopee_bolsas_masculinas",
       "name": "Bolsas Masculinas"
-    }
-  },
-  {
-    "id": "500da946f6b6ff6c26",
-    "title": "Mala Case Capa Bolsa Porta Case Notebook Slim 14,6/15,6 Alça Dupla Re…",
-    "raw_title": "Mala Case Capa Bolsa Porta Case Notebook Slim 14,6/15,6 Alça Dupla Reforçada",
-    "description": "🔥 37% OFF — Oferta encontrada! 📌 Mala Case Capa Bolsa Porta Case Notebook Slim 14,6/15,6 Alça Dupla Reforçada Confira os detalhes e aproveite enquanto a...",
-    "marketplace": "Shopee",
-    "category": "Bolsas Femininas",
-    "old_price": "R$ 46,03",
-    "price": "R$ 29,00",
-    "discount_percent": 37.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820l6-mptidr2raz9d76",
-    "affiliate_url": "https://s.shopee.com.br/3g3tpoZvU7",
-    "created_at": "23/09/2026 05:17",
-    "created_at_iso": "2026-09-23T05:17:54",
-    "created_ts": 1790140674,
-    "niche": {
-      "key": "shopee_bolsas_femininas",
-      "name": "Bolsas Femininas"
-    }
-  },
-  {
-    "id": "d3bcd6a6888b297cf9",
-    "title": "Bolsa Feminina Pequena De Lado Transversal Alça Corrente Lançamento",
-    "raw_title": "Bolsa Feminina Pequena De Lado Transversal Alça Corrente Lançamento",
-    "description": "🔥 43% OFF — Oferta encontrada! 📌 Bolsa Feminina Pequena De Lado Transversal Alça Corrente Lançamento Confira os detalhes e aproveite enquanto a oferta e...",
-    "marketplace": "Shopee",
-    "category": "Bolsas Femininas",
-    "old_price": "R$ 70,00",
-    "price": "R$ 39,90",
-    "discount_percent": 43.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbih4ivndgbm2a",
-    "affiliate_url": "https://s.shopee.com.br/9peXB98Fzv",
-    "created_at": "23/09/2026 05:16",
-    "created_at_iso": "2026-09-23T05:16:50",
-    "created_ts": 1790140610,
-    "niche": {
-      "key": "shopee_bolsas_femininas",
-      "name": "Bolsas Femininas"
     }
   }
 ]

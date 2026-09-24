@@ -1,5 +1,47 @@
 [
   {
+    "id": "a6ccb6f3980ea16524",
+    "title": "Botina de Segurança EPI em Couro",
+    "raw_title": "Botina Bota de Segurança Em Couro EPI Trabalho Obra CA Aprovado Biqueira PVC Unissex Profissional",
+    "description": "🚨 Proteção e Economia! Botina de Segurança EPI em Couro com 47% OFF! 👷‍♂️ Garanta sua segurança e conforto no trabalho com esta botina profissional CA A...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Masculinos",
+    "old_price": "R$ 69,77",
+    "price": "R$ 36,98",
+    "discount_percent": 47.0,
+    "rating": 4.7,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m7-moahrql3ha11e5",
+    "affiliate_url": "https://s.shopee.com.br/AUuFpkK1ln",
+    "created_at": "24/09/2026 09:17",
+    "created_at_iso": "2026-09-24T09:17:01",
+    "created_ts": 1790241421,
+    "niche": {
+      "key": "shopee_sapatos_masculinos",
+      "name": "Sapatos Masculinos"
+    }
+  },
+  {
+    "id": "d847b15c57fea2f2e4",
+    "title": "Tênis Sapatilha Aquático Masculino",
+    "raw_title": "Tenis Sapatilha Masculino Casual Aquatico de Trilha Impermeável Com Solado Costurado E Elastico Ajustável",
+    "description": "🚀 **AVENTURA COM CONFORTO E ECONOMIA!** Tênis Sapatilha Masculino Aquático e Impermeável! 🌧️👟 Ideal para trilhas, esportes aquáticos ou uso casual. Tenh...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Masculinos",
+    "old_price": "R$ 109,83",
+    "price": "R$ 65,90",
+    "discount_percent": 40.0,
+    "rating": 4.6,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lv25ejj4lz1958",
+    "affiliate_url": "https://s.shopee.com.br/50ZJHdRlaV",
+    "created_at": "24/09/2026 09:15",
+    "created_at_iso": "2026-09-24T09:15:50",
+    "created_ts": 1790241350,
+    "niche": {
+      "key": "shopee_sapatos_masculinos",
+      "name": "Sapatos Masculinos"
+    }
+  },
+  {
     "id": "be28f5f3b812379534",
     "title": "Kit 2 Camisas Fitness Plus Size",
     "raw_title": "Kit 2 Camisas Fitness Plus Size Alongadas Tapa Bumbum em Premium",
@@ -2339,39 +2381,5 @@
       "key": "shopee_bebidas_alimentos",
       "name": "Bebidas e Alimentos"
     }
-  },
-  {
-    "id": "26428ff5a9d119bd8e",
-    "title": "Fone Bluetooth Esportivo",
-    "raw_title": "Fone Bluetooth Esportivo 320mah Fone Sem Fio Fone Academia Preto",
-    "description": "💥 OFERTA IMPERDÍVEL! 💥 Chega de fios atrapalhando seu treino! Com o Fone Bluetooth Esportivo, você tem liberdade total e som potente para arrasar na aca...",
-    "marketplace": "Mercado Livre",
-    "category": "Eletrônicos",
-    "old_price": "R$ 78,99",
-    "price": "R$ 59,00",
-    "discount_percent": 25.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_745206-MLA109600264562_042026-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68059006?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "23/09/2026 09:01",
-    "created_at_iso": "2026-09-23T09:01:34",
-    "created_ts": 1790154094
-  },
-  {
-    "id": "024e54e4e051322896",
-    "title": "Hub USB com 4/7 Entradas",
-    "raw_title": "Hub USB com 4/7 Entradas USB 2.0 de Alta Velocidade com Botão Liga/Desliga",
-    "description": "⚡️ Diga adeus à falta de portas USB! Aumente a conectividade do seu PC ou notebook com este Hub USB 2.0 de alta velocidade. Com 4 ou 7 entradas e botão...",
-    "marketplace": "Shopee",
-    "category": "Sapatos",
-    "old_price": "R$ 29,98",
-    "price": "R$ 14,99",
-    "discount_percent": 50.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/699e8e716d41ba772a4e8e4192d0dae2",
-    "affiliate_url": "https://s.shopee.com.br/AAHMRiW2JD",
-    "created_at": "23/09/2026 08:20",
-    "created_at_iso": "2026-09-23T08:20:33",
-    "created_ts": 1790151633
   }
 ]

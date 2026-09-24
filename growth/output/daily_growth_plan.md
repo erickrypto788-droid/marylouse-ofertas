@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 24/09/2026 21:17
+Gerado em: 24/09/2026 22:22
 
 ## Categorias prioritárias
 
-- 🍼 **Mãe e Bebê**: 16 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 🍼 **Mãe e Bebê**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 📚 **Papelaria**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 - 💻 **Informática**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- ❤️ **Saúde**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 👜 **Bolsas**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
-- 💄 **Beleza**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 🐶 **Pet**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 🏋️ **Esportes**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 📚 **Papelaria**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
+- ❤️ **Saúde**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
+- 💄 **Beleza**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 
 ## Top ofertas para destacar
 
@@ -59,33 +59,33 @@ Gerado em: 24/09/2026 21:17
    - Desconto: 54% OFF
    - Link: https://s.shopee.com.br/7AdnKedyDb
 
-7. **Perfume Feminino Olympia**
-   - Categoria: Beleza
-   - Loja: Mercado Livre
-   - Preço: R$ 184,00
-   - Desconto: 50% OFF
-   - Link: https://www.mercadolivre.com.br/p/MLB77039877?matt_word=marylouse&matt_tool=50459180&forceInApp=true
-
-8. **Fralda Descartável Pampers Supersequinha Mega M 40 Unidades**
+7. **Fralda Descartável Pampers Supersequinha Mega M 40 Unidades**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 45,99
    - Desconto: 32% OFF
    - Link: https://s.shopee.com.br/3g3wIH5dX3
 
-9. **Alimento Royal Canin Hair & Skin 3kg Ração Gato**
+8. **Alimento Royal Canin Hair & Skin 3kg Ração Gato**
    - Categoria: Pet
    - Loja: Mercado Livre
    - Preço: R$ 257,00
    - Desconto: 36% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB28523781?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-10. **Panela Elétrica Britânia 2L 5 Temperaturas 650W BPE02A**
+9. **Panela Elétrica Britânia 2L 5 Temperaturas 650W BPE02A**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 129,90
    - Desconto: 35% OFF
    - Link: https://s.shopee.com.br/7KxDjK6gq1
+
+10. **Pó Perolado para Decoração de Doces**
+   - Categoria: Pet
+   - Loja: Shopee
+   - Preço: R$ 15,90
+   - Desconto: 47% OFF
+   - Link: https://s.shopee.com.br/5q8PwZ88bb
 
 ## Ações gratuitas recomendadas
 

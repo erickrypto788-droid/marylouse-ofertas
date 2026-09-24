@@ -1,5 +1,39 @@
 [
   {
+    "id": "eb7fe40c29ea34d5ec",
+    "title": "Xiaomi POCO X6 5G",
+    "raw_title": "Xiaomi POCO Poco X6 5G Dual SIM 256GB/12GB Branco",
+    "description": "🚀 NOVO POCO X6 5G! Performance e estilo no seu bolso! ✨ Leve para casa o Xiaomi POCO X6 5G Dual SIM com 256GB de armazenamento e 12GB de RAM, na cor bra...",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "",
+    "price": "R$ 3.500,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_743110-MLA99558118934_122025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29728116?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "24/09/2026 03:03",
+    "created_at_iso": "2026-09-24T03:03:00",
+    "created_ts": 1790218980
+  },
+  {
+    "id": "97242affa2f943f316",
+    "title": "Samsung Galaxy S23 256GB Preto",
+    "raw_title": "Smartphone Samsung Galaxy S23 256gb Preto",
+    "description": "🚀 SUPER OFERTA! Samsung Galaxy S23 256GB Preto! ✨ Chegou a hora de ter um dos melhores smartphones do mercado! Performance e elegância na palma da sua m...",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "",
+    "price": "R$ 3.702,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_987904-MLU78762941213_082024-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39957733?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "24/09/2026 03:01",
+    "created_at_iso": "2026-09-24T03:01:50",
+    "created_ts": 1790218910
+  },
+  {
     "id": "23699cb0098c727e55",
     "title": "Agenda para agendamento de clientes com páginas não datada",
     "raw_title": "Agenda para agendamento de clientes com páginas não datada",
@@ -2351,27 +2385,6 @@
     "niche": {
       "key": "shopee_saude",
       "name": "Saúde"
-    }
-  },
-  {
-    "id": "080cb01606100fb584",
-    "title": "Carrinho Metal Brinquedo Muda de Cor na Água Vários Modelos Colecioná…",
-    "raw_title": "Carrinho Metal Brinquedo Muda de Cor na Água Vários Modelos Colecionável Estilo Hot Wheels Infantil",
-    "description": "🔥 48% OFF — Oferta encontrada! 📌 Carrinho Metal Brinquedo Muda de Cor na Água Vários Modelos Colecionável Estilo Hot Wheels Infantil Confira os detalhes...",
-    "marketplace": "Shopee",
-    "category": "Brinquedos e Hobbies",
-    "old_price": "R$ 42,12",
-    "price": "R$ 21,90",
-    "discount_percent": 48.0,
-    "rating": 4.7,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9t6nram7i0ycc",
-    "affiliate_url": "https://s.shopee.com.br/W6rrdnYw2",
-    "created_at": "23/09/2026 02:20",
-    "created_at_iso": "2026-09-23T02:20:17",
-    "created_ts": 1790130017,
-    "niche": {
-      "key": "shopee_brinquedos_hobbies",
-      "name": "Brinquedos e Hobbies"
     }
   }
 ]

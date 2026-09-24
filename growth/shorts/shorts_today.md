@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 24/09/2026 03:21
+Gerado em: 24/09/2026 04:22
 
 ## Como usar
 
@@ -31,7 +31,7 @@ Gerado em: 24/09/2026 03:21
 **Produtos usados:**
 
 - Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…
-- Kit Fraldas Geriátricas ConfortMaster
+- Kit 2 Porta Leite em Pó Para Bebê + Colher de Silicone
 - Cadeira Alimentacao Alta e Baixa 12x1 e Mesa de Atividades LEGO BEBE…
 
 ---
@@ -56,7 +56,7 @@ Gerado em: 24/09/2026 03:21
 
 - Panela Elétrica 1.8L Multi-Funções
 - Escorredor De Arroz Inox Legumes Frutas Multiuso Cozinha Alça Coador…
-- Jogo de Panelas Cereja 5 Pçs
+- Panela Elétrica Britânia 2L 5 Temperaturas 650W BPE02A
 
 ---
 
@@ -121,11 +121,13 @@ Gerado em: 24/09/2026 03:21
 - growth/shorts/slides/supermercados/01_intro.png
 - growth/shorts/slides/supermercados/02_produto_1.png
 - growth/shorts/slides/supermercados/03_produto_2.png
+- growth/shorts/slides/supermercados/04_produto_3.png
 - growth/shorts/slides/supermercados/05_cta.png
 
 **Produtos usados:**
 
 - Hidratante Creme Facial Pele De Porcelana Kokeshi 30g Milagre do Arroz
+- Kit S.O.S Hidratação Azeite de Oliva Litrão Salon Line
 - Azeite Oliva Extra Virgem Português Vila Oliva 500ml (3 Un)
 
 ---

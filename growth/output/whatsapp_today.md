@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 24/09/2026 03:21
+Gerado em: 24/09/2026 04:22
 
 ## Como usar
 
@@ -147,14 +147,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
 ```txt
 🐶 Oferta para Ofertas Pet
 
-Repetidor WiFi 6 Antenas 1200MBPS
+Pó Perolado para Decoração de Doces
 
-💸 De: R$ 120,41
-🔥 Por: R$ 52,98
-🏷️ 56% OFF
+💸 De: R$ 30,00
+🔥 Por: R$ 15,90
+🏷️ 47% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/6q0vnzrQow
+Ver oferta: https://s.shopee.com.br/5q8PwZ88bb
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

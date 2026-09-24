@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 24/09/2026 11:13
+Gerado em: 24/09/2026 11:21
 
 ## Categorias prioritárias
 
 - 🍼 **Mãe e Bebê**: 15 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 👟 **Calçados**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 👗 **Moda Feminina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 💄 **Beleza**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 👕 **Moda Masculina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
+- 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 💻 **Informática**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 👗 **Moda Feminina**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 📦 **Outros**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 📚 **Papelaria**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 - ✨ **Moda Plus Size**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
-- 🐶 **Pet**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 
 ## Top ofertas para destacar
 
@@ -66,26 +66,26 @@ Gerado em: 24/09/2026 11:13
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/5VVZTpkp3l
 
-8. **Pijama Plus Size Amamentação**
+8. **Cabo 4 em 1 Carregamento Rápido PD 65W USB Tipo C Lightning Duplo Nyl…**
+   - Categoria: Celulares
+   - Loja: Shopee
+   - Preço: R$ 15,99
+   - Desconto: 73% OFF
+   - Link: https://s.shopee.com.br/3VkVd7XupQ
+
+9. **Power Bank Magnético 10000mAh p/ iPhone**
+   - Categoria: Celulares
+   - Loja: Shopee
+   - Preço: R$ 49,99
+   - Desconto: 54% OFF
+   - Link: https://s.shopee.com.br/5LC9oUVCMI
+
+10. **Pijama Plus Size Amamentação**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 42,26
    - Desconto: 53% OFF
    - Link: https://s.shopee.com.br/6q0xOteCQx
-
-9. **Kit 2 Porta Leite em Pó Para Bebê + Colher de Silicone**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 26,88
-   - Desconto: 55% OFF
-   - Link: https://s.shopee.com.br/8fSbJlskJ3
-
-10. **Webcam com Microfone Full HD 1080p Giratória 360° Ajuste de Ângulo Li…**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 32,49
-   - Desconto: 54% OFF
-   - Link: https://s.shopee.com.br/4LJc5gtSNP
 
 ## Ações gratuitas recomendadas
 

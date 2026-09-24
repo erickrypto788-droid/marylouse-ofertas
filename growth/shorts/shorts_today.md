@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 24/09/2026 17:21
+Gerado em: 24/09/2026 18:22
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 24/09/2026 17:21
 
 **Produtos usados:**
 
-- Tênis Infantil Baby Confortável
-- Kit 2 Porta Leite em Pó Para Bebê + Colher de Silicone
-- Cadeira Alimentacao Alta e Baixa 12x1 e Mesa de Atividades LEGO BEBE…
+- Kit 11 Peças - 5 Fraldas 60x60cm + 6 Paninho de Boca 30x30cm 100% Alg…
+- Kit Pano de Boca 12 unidades 30x30cm 100%algodao
+- Troninho Infantil com Escada JOYA KID
 
 ---
 
@@ -79,8 +79,8 @@ Gerado em: 24/09/2026 17:21
 **Produtos usados:**
 
 - Escova Secadora GOKOCO 5 Em 1
-- Escova Pet Secadora Elétrica
 - Perfume Masculino Millions
+- Perfume Masculino Amadeirado
 
 ---
 

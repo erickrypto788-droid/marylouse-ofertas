@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 24/09/2026 00:03
+Gerado em: 24/09/2026 00:20
 
 ## Categorias prioritárias
 
-- 🍼 **Mãe e Bebê**: 20 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 💄 **Beleza**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 🍼 **Mãe e Bebê**: 18 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 💄 **Beleza**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🏋️ **Esportes**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
+- 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 👗 **Moda Feminina**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
-- 👟 **Calçados**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 💻 **Informática**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - ❤️ **Saúde**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 🧸 **Brinquedos**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 🍳 **Casa e Cozinha**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
-- 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
-- 🐶 **Pet**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
+- 👜 **Bolsas**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 
 ## Top ofertas para destacar
 
@@ -66,26 +66,26 @@ Gerado em: 24/09/2026 00:03
    - Desconto: 38% OFF
    - Link: https://s.shopee.com.br/7VGcKk1DTp
 
-8. **Monitor de Pressão Arterial Automático**
+8. **Capa Case Pasta Notebook de 14 ate 17 polegadas Super Reforçada Alça…**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 46,90
+   - Desconto: 21% OFF
+   - Link: https://s.shopee.com.br/1qcGujZcSi
+
+9. **Monitor de Pressão Arterial Automático**
    - Categoria: Saúde
    - Loja: Shopee
    - Preço: R$ 38,99
    - Desconto: 68% OFF
    - Link: https://s.shopee.com.br/8pm17MdXKh
 
-9. **Carrinho De Boneca Bebe Brinquedo Infantil Passeio**
+10. **Carrinho De Boneca Bebe Brinquedo Infantil Passeio**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 20,99
    - Desconto: 58% OFF
    - Link: https://s.shopee.com.br/70KMrsQKYe
-
-10. **Jogo de Panelas Cereja 5 Pçs**
-   - Categoria: Casa e Cozinha
-   - Loja: Mercado Livre
-   - Preço: R$ 205,40
-   - Desconto: 21% OFF
-   - Link: https://www.mercadolivre.com.br/p/MLB33652298?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ## Ações gratuitas recomendadas
 

@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 24/09/2026 15:21
+Gerado em: 24/09/2026 16:03
 
 ## Como usar
 
@@ -80,7 +80,7 @@ Gerado em: 24/09/2026 15:21
 
 - Escova Secadora GOKOCO 5 Em 1
 - Escova Pet Secadora Elétrica
-- Perfume Masculino Amadeirado
+- Perfume Masculino Millions
 
 ---
 

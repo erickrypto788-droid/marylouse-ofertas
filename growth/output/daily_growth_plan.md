@@ -1,91 +1,91 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 25/09/2026 09:22
+Gerado em: 25/09/2026 10:24
 
 ## Categorias prioritárias
 
+- 💄 **Beleza**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 🍼 **Mãe e Bebê**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 📦 **Outros**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 🏋️ **Esportes**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 👗 **Moda Feminina**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 📚 **Papelaria**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 - 🔌 **Eletrodomésticos**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-eletrodomesticos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_eletrodomesticos
-- 💄 **Beleza**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 💻 **Informática**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 👟 **Calçados**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 
 ## Top ofertas para destacar
 
-1. **Celular 5G 16GB/512GB c/ Desconto**
+1. **Secador Profissional LONYAN 8020**
+   - Categoria: Beleza
+   - Loja: Shopee
+   - Preço: R$ 78,00
+   - Desconto: 51% OFF
+   - Link: https://s.shopee.com.br/4B0Dx7bxdx
+
+2. **Celular 5G 16GB/512GB c/ Desconto**
    - Categoria: Celulares
    - Loja: Mercado Livre
    - Preço: R$ 1.380,00
    - Desconto: 66% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB75208845?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-2. **Kit 11 Peças - 5 Fraldas 60x60cm + 6 Paninho de Boca 30x30cm 100% Alg…**
+3. **Kit 11 Peças - 5 Fraldas 60x60cm + 6 Paninho de Boca 30x30cm 100% Alg…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 27,99
    - Desconto: 53% OFF
    - Link: https://s.shopee.com.br/9peZdbdtmp
 
-3. **Perfume Masculino Millions**
+4. **Perfume Masculino Millions**
    - Categoria: Beleza
    - Loja: Mercado Livre
    - Preço: R$ 184,00
    - Desconto: 50% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB77141871?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-4. **Perfume Masculino Amadeirado**
+5. **Perfume Masculino Amadeirado**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 28,98
    - Desconto: 52% OFF
    - Link: https://s.shopee.com.br/6AlGwGWvtx
 
-5. **Escova Secadora GOKOCO 5 Em 1**
+6. **Escova Secadora GOKOCO 5 Em 1**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 385,00
    - Desconto: 62% OFF
    - Link: https://s.shopee.com.br/60RqjxblDn
 
-6. **Fralda Descartável Pampers Supersequinha Mega M 40 Unidades**
+7. **Fralda Descartável Pampers Supersequinha Mega M 40 Unidades**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 45,99
    - Desconto: 32% OFF
    - Link: https://s.shopee.com.br/3g3wIH5dX3
 
-7. **Carregador Rápido 120W**
+8. **Carregador Rápido 120W**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 19,90
    - Desconto: 60% OFF
    - Link: https://s.shopee.com.br/50ZKoRy4rC
 
-8. **Luminária Foguete Lava Bolha Todas As Cores Decoração Retrô**
+9. **Luminária Foguete Lava Bolha Todas As Cores Decoração Retrô**
    - Categoria: Pet
    - Loja: Mercado Livre
    - Preço: R$ 125,91
    - Desconto: 25% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB75541518?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-9. **Kit 5 Potes Mantimentos Mickey e Minnie**
+10. **Kit 5 Potes Mantimentos Mickey e Minnie**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 19,99
    - Desconto: 50% OFF
    - Link: https://s.shopee.com.br/LnUmzvHvM
-
-10. **Kit 2 Borrifadores Azeite/Vinagre**
-   - Categoria: Casa e Cozinha
-   - Loja: Shopee
-   - Preço: R$ 18,89
-   - Desconto: 73% OFF
-   - Link: https://s.shopee.com.br/9AOtJEJ7gX
 
 ## Ações gratuitas recomendadas
 

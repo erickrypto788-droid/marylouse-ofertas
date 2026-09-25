@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 25/09/2026 09:22
+Gerado em: 25/09/2026 10:24
 
 ## Como usar
 
@@ -79,8 +79,8 @@ Gerado em: 25/09/2026 09:22
 **Produtos usados:**
 
 - Escova Secadora GOKOCO 5 Em 1
+- Secador Profissional LONYAN 8020
 - Perfume Masculino Millions
-- Perfume Masculino Amadeirado
 
 ---
 

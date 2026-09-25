@@ -1,6 +1,6 @@
 # Pinterest Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 25/09/2026 15:22
+Gerado em: 25/09/2026 16:20
 
 ## Como usar
 
@@ -66,7 +66,7 @@ https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=pinter
 
 **Por que postar:**
 
-Categoria com 4 oferta(s) e boa intenção de compra.
+Categoria com 3 oferta(s) e boa intenção de compra.
 
 ---
 
@@ -94,7 +94,7 @@ https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=pinterest&ut
 
 **Por que postar:**
 
-Categoria com 5 oferta(s) e boa intenção de compra.
+Categoria com 4 oferta(s) e boa intenção de compra.
 
 ---
 
@@ -126,27 +126,27 @@ Categoria com 7 oferta(s) e boa intenção de compra.
 
 ---
 
-## Pin 5 — Mãe e Bebê
+## Pin 5 — Informática
 
 **Tipo:** produto_direto
 
-**Board sugerido:** Ofertas para Bebê
+**Board sugerido:** Celulares e Tecnologia
 
 **Imagem para upload no Pinterest:**
 
-https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
+https://marylouse-ofertas.vercel.app/growth/pinterest/informatica.png
 
 **Título:**
 
-76% OFF: Kit 10 Fraldas de Pano Estampadas
+76% OFF: Mochila Feminina para Notebook 15.6"
 
 **Descrição:**
 
-Oferta destaque em Mãe e Bebê encontrada pela MaryLouse Ofertas. Preço: R$ 28,98. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Oferta destaque em Informática encontrada pela MaryLouse Ofertas. Preço: R$ 39,90. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
-https://s.shopee.com.br/9peb28bJQW
+https://s.shopee.com.br/AKarhApCA3
 
 **Por que postar:**
 

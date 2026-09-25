@@ -1,56 +1,56 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 25/09/2026 15:22
+Gerado em: 25/09/2026 16:20
 
 ## Categorias prioritárias
 
 - 🍼 **Mãe e Bebê**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 💻 **Informática**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
-- 💻 **Informática**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 📦 **Outros**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 🧸 **Brinquedos**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 👟 **Calçados**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 💄 **Beleza**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
+- 👜 **Bolsas**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 - ❤️ **Saúde**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
-- 🐶 **Pet**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
+- 🏋️ **Esportes**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 
 ## Top ofertas para destacar
 
-1. **Kit 10 Fraldas de Pano Estampadas**
+1. **Mochila Feminina para Notebook 15.6"**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 39,90
+   - Desconto: 76% OFF
+   - Link: https://s.shopee.com.br/AKarhApCA3
+
+2. **Kit 10 Fraldas de Pano Estampadas**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 28,98
    - Desconto: 76% OFF
    - Link: https://s.shopee.com.br/9peb28bJQW
 
-2. **Secador Profissional LONYAN 8020**
+3. **Secador Profissional LONYAN 8020**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 78,00
    - Desconto: 51% OFF
    - Link: https://s.shopee.com.br/4B0Dx7bxdx
 
-3. **Celular 5G 16GB/512GB c/ Desconto**
+4. **Celular 5G 16GB/512GB c/ Desconto**
    - Categoria: Celulares
    - Loja: Mercado Livre
    - Preço: R$ 1.380,00
    - Desconto: 66% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB75208845?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-4. **Kit 11 Peças - 5 Fraldas 60x60cm + 6 Paninho de Boca 30x30cm 100% Alg…**
+5. **Kit 11 Peças - 5 Fraldas 60x60cm + 6 Paninho de Boca 30x30cm 100% Alg…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 27,99
    - Desconto: 53% OFF
    - Link: https://s.shopee.com.br/9peZdbdtmp
-
-5. **Perfume Masculino Millions**
-   - Categoria: Beleza
-   - Loja: Mercado Livre
-   - Preço: R$ 184,00
-   - Desconto: 50% OFF
-   - Link: https://www.mercadolivre.com.br/p/MLB77141871?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 6. **Fralda Descartável Pampers Supersequinha Mega M 40 Unidades**
    - Categoria: Mãe e Bebê

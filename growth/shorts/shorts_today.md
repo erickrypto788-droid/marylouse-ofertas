@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 25/09/2026 15:22
+Gerado em: 25/09/2026 16:20
 
 ## Como usar
 
@@ -56,7 +56,7 @@ Gerado em: 25/09/2026 15:22
 
 - Kit 2 Borrifadores Azeite/Vinagre
 - Kit 5 Potes Mantimentos Mickey e Minnie
-- Dispensador de Sabão Lego
+- Termômetro Industrial Digital Infravermelho Cozinha Laser Medição Tem…
 
 ---
 
@@ -79,8 +79,8 @@ Gerado em: 25/09/2026 15:22
 **Produtos usados:**
 
 - Secador Profissional LONYAN 8020
-- Perfume Masculino Millions
 - Principia kit com 2 Protetores solares com cor PS-05-escolha seu tom
+- Body Splash Shine Agapis Beauty
 
 ---
 

@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 25/09/2026 04:11
+Gerado em: 25/09/2026 04:22
 
 ## Categorias prioritárias
 
+- 👕 **Moda Masculina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 - 👗 **Moda Feminina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
-- 🐶 **Pet**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 🍼 **Mãe e Bebê**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 🐶 **Pet**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 💻 **Informática**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 📚 **Papelaria**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
-- 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
-- 🍳 **Casa e Cozinha**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 🏋️ **Esportes**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 👟 **Calçados**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 🍳 **Casa e Cozinha**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 
 ## Top ofertas para destacar
 
@@ -66,26 +66,26 @@ Gerado em: 25/09/2026 04:11
    - Desconto: 36% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB28523781?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-8. **Panela Elétrica Britânia 2L 5 Temperaturas 650W BPE02A**
-   - Categoria: Casa e Cozinha
-   - Loja: Shopee
-   - Preço: R$ 129,90
-   - Desconto: 35% OFF
-   - Link: https://s.shopee.com.br/7KxDjK6gq1
-
-9. **Pó Perolado para Decoração de Doces**
-   - Categoria: Pet
-   - Loja: Shopee
-   - Preço: R$ 15,90
-   - Desconto: 47% OFF
-   - Link: https://s.shopee.com.br/5q8PwZ88bb
-
-10. **Luminária Foguete Lava Bolha Todas As Cores Decoração Retrô**
+8. **Luminária Foguete Lava Bolha Todas As Cores Decoração Retrô**
    - Categoria: Pet
    - Loja: Mercado Livre
    - Preço: R$ 125,91
    - Desconto: 25% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB75541518?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+9. **Kit 5 Potes Mantimentos Mickey e Minnie**
+   - Categoria: Casa e Cozinha
+   - Loja: Shopee
+   - Preço: R$ 19,99
+   - Desconto: 50% OFF
+   - Link: https://s.shopee.com.br/LnUmzvHvM
+
+10. **Kit 2 Borrifadores Azeite/Vinagre**
+   - Categoria: Casa e Cozinha
+   - Loja: Shopee
+   - Preço: R$ 18,89
+   - Desconto: 73% OFF
+   - Link: https://s.shopee.com.br/9AOtJEJ7gX
 
 ## Ações gratuitas recomendadas
 

@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 25/09/2026 04:11
+Gerado em: 25/09/2026 04:22
 
 ## Como usar
 
@@ -55,8 +55,8 @@ Gerado em: 25/09/2026 04:11
 **Produtos usados:**
 
 - Kit 2 Borrifadores Azeite/Vinagre
-- Panela Elétrica Britânia 2L 5 Temperaturas 650W BPE02A
 - Kit 5 Potes Mantimentos Mickey e Minnie
+- Dispensador de Sabão Lego
 
 ---
 
@@ -127,7 +127,7 @@ Gerado em: 25/09/2026 04:11
 **Produtos usados:**
 
 - Papel Higiênico Fofopel 16 Rolos
-- Kit S.O.S Hidratação Azeite de Oliva Litrão Salon Line
 - 100 Saco De Lixo 60l Preto Saco Lixo Resistente Reforçado
+- Arroz Motigome 1kg
 
 ---

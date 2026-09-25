@@ -1,5 +1,89 @@
 [
   {
+    "id": "1c82ed3636e70ef565",
+    "title": "Micro-ondas Britânia 20L Limpa Fácil",
+    "raw_title": "Micro-ondas Britânia 20L Pintura Limpa Fácil BMO23",
+    "description": "🚨 IMPERDÍVEL! Micro-ondas Britânia 20L Pintura Limpa Fácil BMO23! 🚨 Prepare suas refeições com praticidade e estilo! ✨ Este micro-ondas Britânia tem a e...",
+    "marketplace": "Shopee",
+    "category": "Eletrodomésticos",
+    "old_price": "R$ 714,13",
+    "price": "R$ 449,90",
+    "discount_percent": 37.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-825a7-mt89ovmvdcli1e",
+    "affiliate_url": "https://s.shopee.com.br/5fp1flGKKX",
+    "created_at": "25/09/2026 09:20",
+    "created_at_iso": "2026-09-25T09:20:28",
+    "created_ts": 1790328028,
+    "niche": {
+      "key": "shopee_eletrodomesticos",
+      "name": "Eletrodomésticos"
+    }
+  },
+  {
+    "id": "964175f4ffd29b56d3",
+    "title": "Aspirador Britânia 2 em 1",
+    "raw_title": "Aspirador de Pó Vertical Britânia 2 em 1 BAS1295P 1250W",
+    "description": "⚡️ Super Oferta Britânia! ⚡️ Tenha uma limpeza prática e eficiente com o Aspirador de Pó Vertical Britânia 2 em 1 BAS1295P 1250W. 💪 Potência e versatili...",
+    "marketplace": "Shopee",
+    "category": "Eletrodomésticos",
+    "old_price": "R$ 199,86",
+    "price": "R$ 139,90",
+    "discount_percent": 30.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-825a3-mt89p5m5bk74c9",
+    "affiliate_url": "https://s.shopee.com.br/gQLiZUxhb",
+    "created_at": "25/09/2026 09:19",
+    "created_at_iso": "2026-09-25T09:19:19",
+    "created_ts": 1790327959,
+    "niche": {
+      "key": "shopee_eletrodomesticos",
+      "name": "Eletrodomésticos"
+    }
+  },
+  {
+    "id": "58a20dfec524468417",
+    "title": "Pipoqueira Elétrica Popcorn Maker",
+    "raw_title": "Pipoqueira Elétrica Popcorn Maker 110V Pipoca Sem Óleo",
+    "description": "🍿 NOVIDADE PARA SUA NOITE DE FILMES! Pipoqueira Elétrica Popcorn Maker 110V Faça pipoca deliciosa e saudável, sem usar óleo! Super prática e rápida para...",
+    "marketplace": "Shopee",
+    "category": "Eletrodomésticos",
+    "old_price": "R$ 148,49",
+    "price": "R$ 66,82",
+    "discount_percent": 55.0,
+    "rating": 4.7,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-me7iswtkw3yb2f",
+    "affiliate_url": "https://s.shopee.com.br/60Rs4NJfCg",
+    "created_at": "25/09/2026 09:18",
+    "created_at_iso": "2026-09-25T09:18:07",
+    "created_ts": 1790327887,
+    "niche": {
+      "key": "shopee_eletrodomesticos",
+      "name": "Eletrodomésticos"
+    }
+  },
+  {
+    "id": "3c018a6fd52b2a2778",
+    "title": "Aspirador Gaabor 650w",
+    "raw_title": "Aspirador De Pó Vertical 2 Em 1 Portátil Gaabor 650w",
+    "description": "⚡️ Potência e praticidade na sua mão! ⚡️ O Aspirador De Pó Vertical 2 Em 1 Portátil Gaabor 650w é a solução perfeita para uma casa sempre limpa. Versáti...",
+    "marketplace": "Shopee",
+    "category": "Eletrodomésticos",
+    "old_price": "R$ 220,57",
+    "price": "R$ 149,99",
+    "discount_percent": 32.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m8-mo5vncqk1ssi68",
+    "affiliate_url": "https://s.shopee.com.br/1VzSi6Rn0g",
+    "created_at": "25/09/2026 09:16",
+    "created_at_iso": "2026-09-25T09:16:57",
+    "created_ts": 1790327817,
+    "niche": {
+      "key": "shopee_eletrodomesticos",
+      "name": "Eletrodomésticos"
+    }
+  },
+  {
     "id": "513ef37f5af5076840",
     "title": "Aparador Elétrico Lizz Profissional",
     "raw_title": "Lizz Aparelho Aparador Pelos Elétrico Navalhete Profissional",
@@ -2054,48 +2138,6 @@
     "niche": {
       "key": "shopee_sapatos_femininos",
       "name": "Sapatos Femininos"
-    }
-  },
-  {
-    "id": "a6ccb6f3980ea16524",
-    "title": "Botina de Segurança EPI em Couro",
-    "raw_title": "Botina Bota de Segurança Em Couro EPI Trabalho Obra CA Aprovado Biqueira PVC Unissex Profissional",
-    "description": "🚨 Proteção e Economia! Botina de Segurança EPI em Couro com 47% OFF! 👷‍♂️ Garanta sua segurança e conforto no trabalho com esta botina profissional CA A...",
-    "marketplace": "Shopee",
-    "category": "Sapatos Masculinos",
-    "old_price": "R$ 69,77",
-    "price": "R$ 36,98",
-    "discount_percent": 47.0,
-    "rating": 4.7,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m7-moahrql3ha11e5",
-    "affiliate_url": "https://s.shopee.com.br/AUuFpkK1ln",
-    "created_at": "24/09/2026 09:17",
-    "created_at_iso": "2026-09-24T09:17:01",
-    "created_ts": 1790241421,
-    "niche": {
-      "key": "shopee_sapatos_masculinos",
-      "name": "Sapatos Masculinos"
-    }
-  },
-  {
-    "id": "d847b15c57fea2f2e4",
-    "title": "Tênis Sapatilha Aquático Masculino",
-    "raw_title": "Tenis Sapatilha Masculino Casual Aquatico de Trilha Impermeável Com Solado Costurado E Elastico Ajustável",
-    "description": "🚀 **AVENTURA COM CONFORTO E ECONOMIA!** Tênis Sapatilha Masculino Aquático e Impermeável! 🌧️👟 Ideal para trilhas, esportes aquáticos ou uso casual. Tenh...",
-    "marketplace": "Shopee",
-    "category": "Sapatos Masculinos",
-    "old_price": "R$ 109,83",
-    "price": "R$ 65,90",
-    "discount_percent": 40.0,
-    "rating": 4.6,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lv25ejj4lz1958",
-    "affiliate_url": "https://s.shopee.com.br/50ZJHdRlaV",
-    "created_at": "24/09/2026 09:15",
-    "created_at_iso": "2026-09-24T09:15:50",
-    "created_ts": 1790241350,
-    "niche": {
-      "key": "shopee_sapatos_masculinos",
-      "name": "Sapatos Masculinos"
     }
   }
 ]

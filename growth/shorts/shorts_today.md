@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 25/09/2026 14:05
+Gerado em: 25/09/2026 14:20
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 25/09/2026 14:05
 **Produtos usados:**
 
 - Kit 11 Peças - 5 Fraldas 60x60cm + 6 Paninho de Boca 30x30cm 100% Alg…
+- Oxímetro Infantil
 - Kit Pano de Boca 12 unidades 30x30cm 100%algodao
-- Troninho Infantil com Escada JOYA KID
 
 ---
 

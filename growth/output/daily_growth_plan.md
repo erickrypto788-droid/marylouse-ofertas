@@ -1,16 +1,16 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 25/09/2026 20:21
+Gerado em: 25/09/2026 21:07
 
 ## Categorias prioritárias
 
 - 📦 **Outros**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 🍼 **Mãe e Bebê**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 💻 **Informática**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 📚 **Papelaria**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
-- 🍼 **Mãe e Bebê**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 👟 **Calçados**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
+- 📱 **Celulares**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 🐶 **Pet**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 🏋️ **Esportes**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 💄 **Beleza**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
@@ -38,54 +38,54 @@ Gerado em: 25/09/2026 20:21
    - Desconto: 51% OFF
    - Link: https://s.shopee.com.br/4B0Dx7bxdx
 
-4. **Celular 5G 16GB/512GB c/ Desconto**
-   - Categoria: Celulares
-   - Loja: Mercado Livre
-   - Preço: R$ 1.380,00
-   - Desconto: 66% OFF
-   - Link: https://www.mercadolivre.com.br/p/MLB75208845?matt_word=marylouse&matt_tool=50459180&forceInApp=true
-
-5. **Mouse gamer para jogo computador 3200dpi com LED laser X7 USB Botões…**
+4. **Mouse gamer para jogo computador 3200dpi com LED laser X7 USB Botões…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 22,88
    - Desconto: 62% OFF
    - Link: https://s.shopee.com.br/5AskPdKv4s
 
-6. **Mouse Pad Desk Pad Couro Borda Costurada Gigante Antiderrapante Tapet…**
+5. **Mouse Pad Desk Pad Couro Borda Costurada Gigante Antiderrapante Tapet…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 17,89
    - Desconto: 56% OFF
    - Link: https://s.shopee.com.br/5LC9HWcaXG
 
-7. **Fralda Pampers Supersequinha G 80 Unidades**
+6. **Fralda Pampers Supersequinha G 80 Unidades**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 99,99
    - Desconto: 29% OFF
    - Link: https://s.shopee.com.br/3VkW5y6Gs2
 
-8. **Oxímetro Infantil**
+7. **Oxímetro Infantil**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 25,88
    - Desconto: 61% OFF
    - Link: https://s.shopee.com.br/70KOCI3USz
 
-9. **Carregador Rápido 120W**
+8. **Carregador Rápido 120W**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 19,90
    - Desconto: 60% OFF
    - Link: https://s.shopee.com.br/50ZKoRy4rC
 
-10. **Luminária Foguete Lava Bolha Todas As Cores Decoração Retrô**
+9. **Luminária Foguete Lava Bolha Todas As Cores Decoração Retrô**
    - Categoria: Pet
    - Loja: Mercado Livre
    - Preço: R$ 125,91
    - Desconto: 25% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB75541518?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+10. **Kit 5 Potes Mantimentos Mickey e Minnie**
+   - Categoria: Casa e Cozinha
+   - Loja: Shopee
+   - Preço: R$ 19,99
+   - Desconto: 50% OFF
+   - Link: https://s.shopee.com.br/LnUmzvHvM
 
 ## Ações gratuitas recomendadas
 

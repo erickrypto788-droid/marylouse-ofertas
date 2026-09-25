@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 25/09/2026 20:21
+Gerado em: 25/09/2026 21:07
 
 ## Como usar
 
@@ -102,9 +102,9 @@ Gerado em: 25/09/2026 20:21
 
 **Produtos usados:**
 
-- Celular 5G 16GB/512GB c/ Desconto
 - Carregador Rápido 120W
 - Carregador 168W Tipo C
+- Kit com 3/6/12/20 Unidades Protetor Tampa Câmera Webcam Anti-espião N…
 
 ---
 

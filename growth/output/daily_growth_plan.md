@@ -1,11 +1,12 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 25/09/2026 17:19
+Gerado em: 25/09/2026 18:22
 
 ## Categorias prioritárias
 
-- 🍼 **Mãe e Bebê**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 📚 **Papelaria**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 - 💻 **Informática**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 🍼 **Mãe e Bebê**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 📦 **Outros**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 👜 **Bolsas**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
@@ -13,7 +14,6 @@ Gerado em: 25/09/2026 17:19
 - 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 🐶 **Pet**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 🏋️ **Esportes**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 💄 **Beleza**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 
 ## Top ofertas para destacar
 
@@ -45,47 +45,47 @@ Gerado em: 25/09/2026 17:19
    - Desconto: 66% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB75208845?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-5. **Kit 11 Peças - 5 Fraldas 60x60cm + 6 Paninho de Boca 30x30cm 100% Alg…**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 27,99
-   - Desconto: 53% OFF
-   - Link: https://s.shopee.com.br/9peZdbdtmp
-
-6. **Fralda Descartável Pampers Supersequinha Mega M 40 Unidades**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 45,99
-   - Desconto: 32% OFF
-   - Link: https://s.shopee.com.br/3g3wIH5dX3
-
-7. **Fralda Pampers Supersequinha G 80 Unidades**
+5. **Fralda Pampers Supersequinha G 80 Unidades**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 99,99
    - Desconto: 29% OFF
    - Link: https://s.shopee.com.br/3VkW5y6Gs2
 
-8. **Oxímetro Infantil**
+6. **Oxímetro Infantil**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 25,88
    - Desconto: 61% OFF
    - Link: https://s.shopee.com.br/70KOCI3USz
 
-9. **Carregador Rápido 120W**
+7. **Carregador Rápido 120W**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 19,90
    - Desconto: 60% OFF
    - Link: https://s.shopee.com.br/50ZKoRy4rC
 
-10. **Luminária Foguete Lava Bolha Todas As Cores Decoração Retrô**
+8. **Luminária Foguete Lava Bolha Todas As Cores Decoração Retrô**
    - Categoria: Pet
    - Loja: Mercado Livre
    - Preço: R$ 125,91
    - Desconto: 25% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB75541518?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+9. **Kit 5 Potes Mantimentos Mickey e Minnie**
+   - Categoria: Casa e Cozinha
+   - Loja: Shopee
+   - Preço: R$ 19,99
+   - Desconto: 50% OFF
+   - Link: https://s.shopee.com.br/LnUmzvHvM
+
+10. **Kit 2 Borrifadores Azeite/Vinagre**
+   - Categoria: Casa e Cozinha
+   - Loja: Shopee
+   - Preço: R$ 18,89
+   - Desconto: 73% OFF
+   - Link: https://s.shopee.com.br/9AOtJEJ7gX
 
 ## Ações gratuitas recomendadas
 

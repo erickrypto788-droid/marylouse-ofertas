@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 25/09/2026 17:19
+Gerado em: 25/09/2026 18:22
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 25/09/2026 17:19
 **Produtos usados:**
 
 - Kit 10 Fraldas de Pano Estampadas
-- Kit 11 Peças - 5 Fraldas 60x60cm + 6 Paninho de Boca 30x30cm 100% Alg…
 - Oxímetro Infantil
+- Fralda Pampers Supersequinha G 80 Unidades
 
 ---
 

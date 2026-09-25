@@ -1,5 +1,22 @@
 [
   {
+    "id": "8cc612696c3833f5b5",
+    "title": "Conjunto Alfaiataria Peplum Bege",
+    "raw_title": "Conjunto Feminino Alfaiataria Bermuda Blusa Elegante Peplum Conjunto Feminino Bege",
+    "description": "✨ Elegância que impressiona! ✨ O Conjunto Feminino Alfaiataria Bermuda Blusa Peplum Bege é a escolha perfeita para um visual sofisticado e moderno. Conf...",
+    "marketplace": "Mercado Livre",
+    "category": "Roupas Femininas",
+    "old_price": "",
+    "price": "R$ 219,90",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_895747-MLA117877799289_092026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74851412?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "25/09/2026 05:03",
+    "created_at_iso": "2026-09-25T05:03:13",
+    "created_ts": 1790312593
+  },
+  {
     "id": "cf50942f4a4de77616",
     "title": "Kit 10 Cuecas Boxer Microfibra Adulto + 12 Pares Meias Algodão",
     "raw_title": "Kit 10 Cuecas Boxer Microfibra Adulto + 12 Pares Meias Algodão",
@@ -2120,27 +2137,6 @@
     "niche": {
       "key": "shopee_jogos_consoles",
       "name": "Jogos e Consoles"
-    }
-  },
-  {
-    "id": "07b4b3ec10c03af75a",
-    "title": "Kit 2 Porta Leite em Pó Para Bebê + Colher de Silicone",
-    "raw_title": "Kit 2 Porta Leite em Pó Para Bebê + Colher de Silicone",
-    "description": "🔥 55% OFF — Oferta encontrada! 📌 Kit 2 Porta Leite em Pó Para Bebê + Colher de Silicone Confira os detalhes e aproveite enquanto a oferta estiver dispon...",
-    "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
-    "old_price": "R$ 59,73",
-    "price": "R$ 26,88",
-    "discount_percent": 55.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mdw3sefbaozla9",
-    "affiliate_url": "https://s.shopee.com.br/8fSbJlskJ3",
-    "created_at": "24/09/2026 04:20",
-    "created_at_iso": "2026-09-24T04:20:13",
-    "created_ts": 1790223613,
-    "niche": {
-      "key": "shopee_bebidas_alimentos",
-      "name": "Bebidas e Alimentos"
     }
   }
 ]

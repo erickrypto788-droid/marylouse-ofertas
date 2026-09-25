@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 25/09/2026 00:22
+Gerado em: 25/09/2026 01:23
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
 ```txt
 🍳 Oferta para Casa e Cozinha
 
-Panela Elétrica Britânia 2L 5 Temperaturas 650W BPE02A
+Kit 2 Borrifadores Azeite/Vinagre
 
-💸 De: R$ 199,85
-🔥 Por: R$ 129,90
-🏷️ 35% OFF
+💸 De: R$ 69,96
+🔥 Por: R$ 18,89
+🏷️ 73% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/7KxDjK6gq1
+Ver oferta: https://s.shopee.com.br/9AOtJEJ7gX
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

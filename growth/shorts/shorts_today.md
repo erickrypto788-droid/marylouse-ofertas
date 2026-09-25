@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 25/09/2026 00:22
+Gerado em: 25/09/2026 01:23
 
 ## Como usar
 
@@ -54,9 +54,9 @@ Gerado em: 25/09/2026 00:22
 
 **Produtos usados:**
 
+- Kit 2 Borrifadores Azeite/Vinagre
 - Panela Elétrica Britânia 2L 5 Temperaturas 650W BPE02A
-- Dispensador de Sabão Lego
-- Cafeteira Elétrica Com Jarra Moderna 600ML15 Xícaras 550w
+- Kit 5 Potes Mantimentos Mickey e Minnie
 
 ---
 

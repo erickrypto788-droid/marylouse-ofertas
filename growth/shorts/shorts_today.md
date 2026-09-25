@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 25/09/2026 10:24
+Gerado em: 25/09/2026 11:22
 
 ## Como usar
 
@@ -104,7 +104,7 @@ Gerado em: 25/09/2026 10:24
 
 - Celular 5G 16GB/512GB c/ Desconto
 - Carregador Rápido 120W
-- Cabo 4 em 1 Carregamento Rápido PD 65W USB Tipo C Lightning Duplo Nyl…
+- Carregador 168W Tipo C
 
 ---
 
@@ -126,8 +126,8 @@ Gerado em: 25/09/2026 10:24
 
 **Produtos usados:**
 
-- Papel Higiênico Fofopel 16 Rolos
 - 100 Saco De Lixo 60l Preto Saco Lixo Resistente Reforçado
 - Arroz Motigome 1kg
+- Amaciante Roupas Macias Sensiv Titila 5l
 
 ---

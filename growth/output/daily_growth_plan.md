@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 25/09/2026 10:24
+Gerado em: 25/09/2026 11:22
 
 ## Categorias prioritárias
 
-- 💄 **Beleza**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
-- 🍼 **Mãe e Bebê**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 💄 **Beleza**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 📦 **Outros**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 🏋️ **Esportes**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
+- 🍼 **Mãe e Bebê**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 👗 **Moda Feminina**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
-- 📚 **Papelaria**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
+- 🧒 **Moda Infantil**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-infantil.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-infantil
 - 🔌 **Eletrodomésticos**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-eletrodomesticos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_eletrodomesticos
+- 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 💻 **Informática**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 👟 **Calçados**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 
 ## Top ofertas para destacar
 

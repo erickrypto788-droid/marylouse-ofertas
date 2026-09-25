@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 25/09/2026 05:21
+Gerado em: 25/09/2026 06:18
 
 ## Categorias prioritárias
 
-- 👗 **Moda Feminina**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
+- 👗 **Moda Feminina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 👕 **Moda Masculina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
+- 👟 **Calçados**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 🍼 **Mãe e Bebê**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - ✨ **Moda Plus Size**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
-- 🐶 **Pet**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 💻 **Informática**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 📚 **Papelaria**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
+- 🐶 **Pet**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 🏋️ **Esportes**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 👟 **Calçados**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 
 ## Top ofertas para destacar
 
@@ -59,33 +59,33 @@ Gerado em: 25/09/2026 05:21
    - Desconto: 32% OFF
    - Link: https://s.shopee.com.br/3g3wIH5dX3
 
-7. **Alimento Royal Canin Hair & Skin 3kg Ração Gato**
-   - Categoria: Pet
-   - Loja: Mercado Livre
-   - Preço: R$ 257,00
-   - Desconto: 36% OFF
-   - Link: https://www.mercadolivre.com.br/p/MLB28523781?matt_word=marylouse&matt_tool=50459180&forceInApp=true
-
-8. **Luminária Foguete Lava Bolha Todas As Cores Decoração Retrô**
+7. **Luminária Foguete Lava Bolha Todas As Cores Decoração Retrô**
    - Categoria: Pet
    - Loja: Mercado Livre
    - Preço: R$ 125,91
    - Desconto: 25% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB75541518?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-9. **Kit 5 Potes Mantimentos Mickey e Minnie**
+8. **Kit 5 Potes Mantimentos Mickey e Minnie**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 19,99
    - Desconto: 50% OFF
    - Link: https://s.shopee.com.br/LnUmzvHvM
 
-10. **Kit 2 Borrifadores Azeite/Vinagre**
+9. **Kit 2 Borrifadores Azeite/Vinagre**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 18,89
    - Desconto: 73% OFF
    - Link: https://s.shopee.com.br/9AOtJEJ7gX
+
+10. **Monitor Gamer Acer 23.8" 144Hz IPS**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 657,90
+   - Desconto: 59% OFF
+   - Link: https://s.shopee.com.br/30oFpeT6JR
 
 ## Ações gratuitas recomendadas
 

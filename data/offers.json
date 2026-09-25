@@ -1,5 +1,68 @@
 [
   {
+    "id": "181aa5f046e3060ee8",
+    "title": "Console Nintendo Switch OLED + Super Mario Bros + 3 Meses NSO",
+    "raw_title": "Console Nintendo Switch OLED + Super Mario Bros + 3 Meses NSO",
+    "description": "🔥 1% OFF — Oferta encontrada! 📌 Console Nintendo Switch OLED + Super Mario Bros + 3 Meses NSO Confira os detalhes e aproveite enquanto a oferta estiver...",
+    "marketplace": "Shopee",
+    "category": "Jogos e Consoles",
+    "old_price": "R$ 2.726,26",
+    "price": "R$ 2.699,00",
+    "discount_percent": 1.0,
+    "rating": 5.0,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820ld-mrhncjeix1jae6",
+    "affiliate_url": "https://s.shopee.com.br/80CvzCQMD1",
+    "created_at": "25/09/2026 21:17",
+    "created_at_iso": "2026-09-25T21:17:58",
+    "created_ts": 1790371078,
+    "niche": {
+      "key": "shopee_jogos_consoles",
+      "name": "Jogos e Consoles"
+    }
+  },
+  {
+    "id": "f49834b7d02e4b9596",
+    "title": "Nintendo Switch 2 - 256gb - Versão NACIONAL sem jogos",
+    "raw_title": "Nintendo Switch 2 - 256gb - Versão NACIONAL sem jogos",
+    "description": "🔥 12% OFF — Oferta encontrada! 📌 Nintendo Switch 2 - 256gb - Versão NACIONAL sem jogos Confira os detalhes e aproveite enquanto a oferta estiver disponí...",
+    "marketplace": "Shopee",
+    "category": "Jogos e Consoles",
+    "old_price": "R$ 4.998,86",
+    "price": "R$ 4.399,00",
+    "discount_percent": 12.0,
+    "rating": 5.0,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg6vo410qv47d8",
+    "affiliate_url": "https://s.shopee.com.br/60RsrodkMM",
+    "created_at": "25/09/2026 21:16",
+    "created_at_iso": "2026-09-25T21:16:54",
+    "created_ts": 1790371014,
+    "niche": {
+      "key": "shopee_jogos_consoles",
+      "name": "Jogos e Consoles"
+    }
+  },
+  {
+    "id": "bcf7c0a510508d9c84",
+    "title": "Elden Ring PS5 Midia Fisica",
+    "raw_title": "Elden Ring PS5 Midia Fisica",
+    "description": "🔥 10% OFF — Oferta encontrada! 📌 Elden Ring PS5 Midia Fisica Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Shopee",
+    "category": "Jogos e Consoles",
+    "old_price": "R$ 218,99",
+    "price": "R$ 197,09",
+    "discount_percent": 10.0,
+    "rating": 5.0,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7rfg5-m9j82iujfsyhb1",
+    "affiliate_url": "https://s.shopee.com.br/4Vd553nzgm",
+    "created_at": "25/09/2026 21:15",
+    "created_at_iso": "2026-09-25T21:15:50",
+    "created_ts": 1790370950,
+    "niche": {
+      "key": "shopee_jogos_consoles",
+      "name": "Jogos e Consoles"
+    }
+  },
+  {
     "id": "55c6a2f7129a673b9e",
     "title": "Fralda Pampers Pants Ajuste Total Xxg Com 120un",
     "raw_title": "Fralda Pampers Pants Ajuste Total Xxg Com 120un",
@@ -2107,27 +2170,6 @@
     "niche": {
       "key": "shopee_papelaria",
       "name": "Papelaria"
-    }
-  },
-  {
-    "id": "4f90260f3e905c8aba",
-    "title": "Mochila Reforçada Masculina Faculdade Impermeável Resistente Grande T…",
-    "raw_title": "Mochila Reforçada Masculina Faculdade Impermeável Resistente Grande Trabalho Escolar",
-    "description": "🔥 39% OFF — Oferta encontrada! 📌 Mochila Reforçada Masculina Faculdade Impermeável Resistente Grande Trabalho Escolar Confira os detalhes e aproveite en...",
-    "marketplace": "Shopee",
-    "category": "Bolsas Masculinas",
-    "old_price": "R$ 98,34",
-    "price": "R$ 59,99",
-    "discount_percent": 39.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfea12iap14w0d",
-    "affiliate_url": "https://s.shopee.com.br/9zy02Gxka7",
-    "created_at": "24/09/2026 21:15",
-    "created_at_iso": "2026-09-24T21:15:48",
-    "created_ts": 1790284548,
-    "niche": {
-      "key": "shopee_bolsas_masculinas",
-      "name": "Bolsas Masculinas"
     }
   }
 ]

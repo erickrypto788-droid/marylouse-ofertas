@@ -1,5 +1,22 @@
 [
   {
+    "id": "05b13ab3638d9fd9d8",
+    "title": "Prancha Esteira Ergométrica T3000",
+    "raw_title": "Prancha Esteira Ergométrica Deck Múltipla T3000 Preto",
+    "description": "🏃‍♀️💨 OFERTA RELÂMPAGO! Prancha Esteira Ergométrica Deck Múltipla T3000 Preto: sua academia em casa! ✅ 13% de desconto + Frete Grátis!",
+    "marketplace": "Mercado Livre",
+    "category": "Esportes e Lazer",
+    "old_price": "R$ 311,00",
+    "price": "R$ 270,57",
+    "discount_percent": 13.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_706043-MLA115224941943_072026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75817587?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "25/09/2026 08:02",
+    "created_at_iso": "2026-09-25T08:02:03",
+    "created_ts": 1790323323
+  },
+  {
     "id": "de13cb60bec93ffe45",
     "title": "Tênis Infantil Feminino Escolar",
     "raw_title": "Tenis Infantil Feminino Menina Escolar Pronta Entrega",
@@ -2061,107 +2078,6 @@
     "niche": {
       "key": "shopee_roupas_plus_size",
       "name": "Roupas Plus Size"
-    }
-  },
-  {
-    "id": "befe53bd8991b8c3ba",
-    "title": "Impressora Etiquetas Niimbot D11",
-    "raw_title": "Impressora Etiquetas Portátil Niimbot D11 + 1 Rolo Azul",
-    "description": "⚡️ Sua organização nunca mais será a mesma! ⚡️ A Impressora Etiquetas Portátil Niimbot D11 + 1 Rolo Azul é a solução perfeita para etiquetar e organizar...",
-    "marketplace": "Mercado Livre",
-    "category": "Informática",
-    "old_price": "R$ 299,80",
-    "price": "R$ 169,36",
-    "discount_percent": 44.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_912356-MLA116986084137_082026-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB78736073?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "24/09/2026 08:01",
-    "created_at_iso": "2026-09-24T08:01:52",
-    "created_ts": 1790236912
-  },
-  {
-    "id": "26f1d1b5b27bd9ba1e",
-    "title": "Kit 2 Camisas Polo Algodão",
-    "raw_title": "KIT 2 Camisa Gola Polo Alta Qualidade 100% Algodão Camiseta Básica Masculina Diversas Cores",
-    "description": "✨ ESTILO E CONFORTO! 👕 Garanta já o seu KIT com 2 Camisas Gola Polo de alta qualidade! Feitas 100% em algodão, são perfeitas para qualquer ocasião e vêm...",
-    "marketplace": "Shopee",
-    "category": "Roupas Masculinas",
-    "old_price": "R$ 99,67",
-    "price": "R$ 59,80",
-    "discount_percent": 40.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81zty-mkjyqctdl34035",
-    "affiliate_url": "https://s.shopee.com.br/BU3OVo3mF",
-    "created_at": "24/09/2026 07:20",
-    "created_at_iso": "2026-09-24T07:20:26",
-    "created_ts": 1790234426,
-    "niche": {
-      "key": "shopee_roupas_masculinas",
-      "name": "Roupas Masculinas"
-    }
-  },
-  {
-    "id": "c1cd8c624b3dd8e9f8",
-    "title": "Kit Camiseta e Bermuda Infantil/Juvenil Masculino",
-    "raw_title": "KIT Infantil Camiseta e Bermuda Elastano E Juvenil Masculino Com Elástico e BOLSOS 04 á 16",
-    "description": "🔥 IMPERDÍVEL! Kit Camiseta e Bermuda Infantil/Juvenil Masculino! 👕👖 Seu filho vai amar o conforto e o estilo desse kit perfeito para o dia a dia e brinc...",
-    "marketplace": "Shopee",
-    "category": "Roupas Masculinas",
-    "old_price": "R$ 49,90",
-    "price": "R$ 29,94",
-    "discount_percent": 40.0,
-    "rating": 4.6,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-824ht-mfgvhfwziolr28",
-    "affiliate_url": "https://s.shopee.com.br/9AOs73FnWH",
-    "created_at": "24/09/2026 07:19",
-    "created_at_iso": "2026-09-24T07:19:16",
-    "created_ts": 1790234356,
-    "niche": {
-      "key": "shopee_roupas_masculinas",
-      "name": "Roupas Masculinas"
-    }
-  },
-  {
-    "id": "7e50a6e40db26b207e",
-    "title": "Calça Cargo Militar Impermeável",
-    "raw_title": "Calça Cargo Militar Masculino Preto Impermeável Ideal para Trilhas Longas e Esportes ao Ar Livre",
-    "description": "⛰️ AVENTUREIRO, ATENÇÃO! Essa Calça Cargo Militar Masculina Preta é IMPERMEÁVEL e perfeita para suas trilhas longas e esportes ao ar livre! 💪 Tenha conf...",
-    "marketplace": "Shopee",
-    "category": "Roupas Masculinas",
-    "old_price": "R$ 299,97",
-    "price": "R$ 89,99",
-    "discount_percent": 70.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mp3ft0l7mbrhc4",
-    "affiliate_url": "https://s.shopee.com.br/AKapVCKDvv",
-    "created_at": "24/09/2026 07:18",
-    "created_at_iso": "2026-09-24T07:18:06",
-    "created_ts": 1790234286,
-    "niche": {
-      "key": "shopee_roupas_masculinas",
-      "name": "Roupas Masculinas"
-    }
-  },
-  {
-    "id": "5e9b463444f3369616",
-    "title": "Kit Bermuda + Camiseta Paris",
-    "raw_title": "Kit Bermuda Short Mole + Camiseta PRETA PARIS MINIMALIST kit Basico Algodão Malha Premium",
-    "description": "🚨 MEGA OFERTA! Kit completo para seu estilo! Garanta seu Kit Bermuda Short Mole + Camiseta PRETA PARIS MINIMALIST! Conforto e estilo com malha premium d...",
-    "marketplace": "Shopee",
-    "category": "Roupas Masculinas",
-    "old_price": "R$ 99,90",
-    "price": "R$ 39,96",
-    "discount_percent": 60.0,
-    "rating": 4.6,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-81zus-mid4uu60xeki52",
-    "affiliate_url": "https://s.shopee.com.br/AKapVCBM9M",
-    "created_at": "24/09/2026 07:16",
-    "created_at_iso": "2026-09-24T07:16:58",
-    "created_ts": 1790234218,
-    "niche": {
-      "key": "shopee_roupas_masculinas",
-      "name": "Roupas Masculinas"
     }
   }
 ]

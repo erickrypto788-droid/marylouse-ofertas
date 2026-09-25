@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 25/09/2026 12:22
+Gerado em: 25/09/2026 13:22
 
 ## Como usar
 
@@ -78,9 +78,9 @@ Gerado em: 25/09/2026 12:22
 
 **Produtos usados:**
 
-- Escova Secadora GOKOCO 5 Em 1
 - Secador Profissional LONYAN 8020
 - Perfume Masculino Millions
+- Principia kit com 2 Protetores solares com cor PS-05-escolha seu tom
 
 ---
 
@@ -126,8 +126,8 @@ Gerado em: 25/09/2026 12:22
 
 **Produtos usados:**
 
+- Kit Banheiro Infantil Lego | Porta Escova + Porta Papel Higiênico + P…
 - 100 Saco De Lixo 60l Preto Saco Lixo Resistente Reforçado
 - Arroz Motigome 1kg
-- Amaciante Roupas Macias Sensiv Titila 5l
 
 ---

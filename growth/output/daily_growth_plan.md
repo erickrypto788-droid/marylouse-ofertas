@@ -1,16 +1,16 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 25/09/2026 12:22
+Gerado em: 25/09/2026 13:22
 
 ## Categorias prioritárias
 
 - 🏋️ **Esportes**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 💄 **Beleza**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 🍼 **Mãe e Bebê**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 📦 **Outros**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
-- 🍼 **Mãe e Bebê**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 🐶 **Pet**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
+- 🧸 **Brinquedos**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 🧒 **Moda Infantil**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-infantil.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-infantil
+- 💄 **Beleza**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 💻 **Informática**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
@@ -45,47 +45,47 @@ Gerado em: 25/09/2026 12:22
    - Desconto: 50% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB77141871?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-5. **Perfume Masculino Amadeirado**
-   - Categoria: Beleza
-   - Loja: Shopee
-   - Preço: R$ 28,98
-   - Desconto: 52% OFF
-   - Link: https://s.shopee.com.br/6AlGwGWvtx
-
-6. **Escova Secadora GOKOCO 5 Em 1**
-   - Categoria: Beleza
-   - Loja: Shopee
-   - Preço: R$ 385,00
-   - Desconto: 62% OFF
-   - Link: https://s.shopee.com.br/60RqjxblDn
-
-7. **Fralda Descartável Pampers Supersequinha Mega M 40 Unidades**
+5. **Fralda Descartável Pampers Supersequinha Mega M 40 Unidades**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 45,99
    - Desconto: 32% OFF
    - Link: https://s.shopee.com.br/3g3wIH5dX3
 
-8. **Carregador Rápido 120W**
+6. **Carregador Rápido 120W**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 19,90
    - Desconto: 60% OFF
    - Link: https://s.shopee.com.br/50ZKoRy4rC
 
-9. **Luminária Foguete Lava Bolha Todas As Cores Decoração Retrô**
+7. **Luminária Foguete Lava Bolha Todas As Cores Decoração Retrô**
    - Categoria: Pet
    - Loja: Mercado Livre
    - Preço: R$ 125,91
    - Desconto: 25% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB75541518?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-10. **Kit 5 Potes Mantimentos Mickey e Minnie**
+8. **Kit 5 Potes Mantimentos Mickey e Minnie**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 19,99
    - Desconto: 50% OFF
    - Link: https://s.shopee.com.br/LnUmzvHvM
+
+9. **Kit 2 Borrifadores Azeite/Vinagre**
+   - Categoria: Casa e Cozinha
+   - Loja: Shopee
+   - Preço: R$ 18,89
+   - Desconto: 73% OFF
+   - Link: https://s.shopee.com.br/9AOtJEJ7gX
+
+10. **Monitor Gamer Acer 23.8" 144Hz IPS**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 657,90
+   - Desconto: 59% OFF
+   - Link: https://s.shopee.com.br/30oFpeT6JR
 
 ## Ações gratuitas recomendadas
 

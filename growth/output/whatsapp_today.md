@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 26/09/2026 00:21
+Gerado em: 26/09/2026 01:19
 
 ## Como usar
 
@@ -102,37 +102,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Casa e Cozinha
-
-**Canal recomendado:** Casa e Cozinha
-
-**Horário sugerido:** 18:00 - 20:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
-
-**Texto pronto:**
-
-```txt
-🍳 Oferta para Casa e Cozinha
-
-Kit 2 Borrifadores Azeite/Vinagre
-
-💸 De: R$ 69,96
-🔥 Por: R$ 18,89
-🏷️ 73% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/9AOtJEJ7gX
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 5 — Celulares e Tecnologia
+## Post 4 — Celulares e Tecnologia
 
 **Canal recomendado:** Celulares e Tecnologia
 
@@ -162,7 +132,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 6 — Ofertas Pet
+## Post 5 — Ofertas Pet
 
 **Canal recomendado:** Ofertas Pet
 
@@ -185,6 +155,36 @@ Luminária Foguete Lava Bolha Todas As Cores Decoração Retrô
 🛒 Loja: Mercado Livre
 
 Ver oferta: https://www.mercadolivre.com.br/p/MLB75541518?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 6 — Moda e Calçados
+
+**Canal recomendado:** Moda e Calçados
+
+**Horário sugerido:** 12:00 - 15:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
+
+**Texto pronto:**
+
+```txt
+👟 Oferta para Moda e Calçados
+
+Kit 3 Chinelos Infantil Menina
+
+💸 De: R$ 69,75
+🔥 Por: R$ 27,90
+🏷️ 60% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/5fp1o1GMTY
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

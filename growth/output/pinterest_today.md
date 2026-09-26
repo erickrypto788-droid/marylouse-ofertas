@@ -1,6 +1,6 @@
 # Pinterest Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 26/09/2026 00:21
+Gerado em: 26/09/2026 01:19
 
 ## Como usar
 
@@ -58,7 +58,7 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
 
 **Descrição:**
 
-Veja ofertas de Casa e Cozinha selecionadas pela MaryLouse Ofertas. Destaque de hoje: Kit 2 Borrifadores Azeite/Vinagre. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Veja ofertas de Casa e Cozinha selecionadas pela MaryLouse Ofertas. Destaque de hoje: Chaleira Elétrica Inox 1,8L 1000W ou 1200W Desligamento Automático -…. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
@@ -66,7 +66,7 @@ https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=pinter
 
 **Por que postar:**
 
-Categoria com 4 oferta(s) e boa intenção de compra.
+Categoria com 3 oferta(s) e boa intenção de compra.
 
 ---
 

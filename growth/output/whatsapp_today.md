@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 26/09/2026 22:58
+Gerado em: 26/09/2026 23:19
 
 ## Como usar
 
@@ -12,7 +12,37 @@ Gerado em: 26/09/2026 22:58
 
 ---
 
-## Post 1 — Casa e Cozinha
+## Post 1 — Celulares e Tecnologia
+
+**Canal recomendado:** Celulares e Tecnologia
+
+**Horário sugerido:** 19:00 - 21:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
+
+**Texto pronto:**
+
+```txt
+📱 Oferta para Celulares e Tecnologia
+
+Kit 2 cartões de memória 128gb ultra muito mais memória smartphone
+
+💸 De: R$ 143,39
+🔥 Por: R$ 32,98
+🏷️ 77% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/4qFvsOA1vE
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 2 — Casa e Cozinha
 
 **Canal recomendado:** Casa e Cozinha
 
@@ -35,36 +65,6 @@ Mini Panela elétrica （110V / 220V）
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/5LCCXQxFPz
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 2 — Celulares e Tecnologia
-
-**Canal recomendado:** Celulares e Tecnologia
-
-**Horário sugerido:** 19:00 - 21:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
-
-**Texto pronto:**
-
-```txt
-📱 Oferta para Celulares e Tecnologia
-
-Suporte de Celular para Moto/Bike À Prova D'água 360°
-
-💸 De: R$ 58,67
-🔥 Por: R$ 26,40
-🏷️ 55% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/AUuHczjUSR
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

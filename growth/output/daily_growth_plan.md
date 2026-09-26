@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 26/09/2026 08:22
+Gerado em: 26/09/2026 09:04
 
 ## Categorias prioritárias
 
@@ -10,8 +10,8 @@ Gerado em: 26/09/2026 08:22
 - 🧸 **Brinquedos**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 💻 **Informática**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 📦 **Outros**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 📚 **Papelaria**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 - 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 
@@ -66,26 +66,26 @@ Gerado em: 26/09/2026 08:22
    - Desconto: 41% OFF
    - Link: https://s.shopee.com.br/5LCCXQxFPz
 
-8. **Baby Doll Malha Premium**
+8. **Umidificador e Difusor de Ar Ultrassônico 1.5L**
+   - Categoria: Pet
+   - Loja: Mercado Livre
+   - Preço: R$ 98,80
+   - Desconto: 62% OFF
+   - Link: https://www.mercadolivre.com.br/p/MLB77579661?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+9. **Baby Doll Malha Premium**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 24,90
    - Desconto: 72% OFF
    - Link: https://s.shopee.com.br/5fp3CWRmaq
 
-9. **Sandália Papete Infantil Meninos**
+10. **Sandália Papete Infantil Meninos**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 21,88
    - Desconto: 51% OFF
    - Link: https://s.shopee.com.br/6AlIOwESSl
-
-10. **Liquidificador Triturador Compacto para suco com Led - suco e frutas…**
-   - Categoria: Casa e Cozinha
-   - Loja: Shopee
-   - Preço: R$ 78,68
-   - Desconto: 50% OFF
-   - Link: https://s.shopee.com.br/8Kpo6wYhEi
 
 ## Ações gratuitas recomendadas
 

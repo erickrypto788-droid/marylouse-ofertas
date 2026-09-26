@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 26/09/2026 17:15
+Gerado em: 26/09/2026 18:22
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Calça Feminina Lanzinha Cintura Alta com Bolso Inverno
+Conjunto Feminino cropped e short Verão Linho Duna Premium
 
-💸 De: R$ 99,90
-🔥 Por: R$ 29,97
-🏷️ 70% OFF
+💸 De: R$ 100,00
+🔥 Por: R$ 39,00
+🏷️ 61% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/7VGfSP3uMA
+Ver oferta: https://s.shopee.com.br/9fLCYxL5XT
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

@@ -1,5 +1,22 @@
 [
   {
+    "id": "351d80a56ee6ed7698",
+    "title": "Impressora de Etiquetas + 1.000 Etiquetas",
+    "raw_title": "Impressora Etiquetas Adesivas + 1.000 Etiquetas 10x15cm Branco",
+    "description": "🚀 Etiquete TUDO com essa oferta! Impressora de Etiquetas Adesivas + 1.000 Etiquetas 10x15cm Branco! Perfeita para seu negócio ou organização. ✨ Com 15%...",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "R$ 699,00",
+    "price": "R$ 589,10",
+    "discount_percent": 16.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_894798-MLA115475668290_082026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB78672090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "26/09/2026 12:02",
+    "created_at_iso": "2026-09-26T12:02:05",
+    "created_ts": 1790424125
+  },
+  {
     "id": "29fc12ec31ac45750a",
     "title": "Bolsa Feminina TOMI MITO",
     "raw_title": "TOMI MITO Bolsa Feminina com Alça Lateral Transversal Faixa de Mão de Couro B736",
@@ -2130,90 +2147,6 @@
     "niche": {
       "key": "shopee_esportes_lazer",
       "name": "Esportes e Lazer"
-    }
-  },
-  {
-    "id": "82a2162deddea9b50c",
-    "title": "Escolha Seu Vestido 3 Marias Roupas de Menina Infantil 100% Algodão V…",
-    "raw_title": "Escolha Seu Vestido 3 Marias Roupas de Menina Infantil 100% Algodão Vestido de Criança Confortável l02",
-    "description": "🔥 54% OFF — Oferta encontrada! 📌 Escolha Seu Vestido 3 Marias Roupas de Menina Infantil 100% Algodão Vestido de Criança Confortável l02 Confira os detal...",
-    "marketplace": "Shopee",
-    "category": "Moda Infantil",
-    "old_price": "R$ 49,78",
-    "price": "R$ 22,90",
-    "discount_percent": 54.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mieptagf0n414e",
-    "affiliate_url": "https://s.shopee.com.br/2Vs02CJY4A",
-    "created_at": "25/09/2026 11:21",
-    "created_at_iso": "2026-09-25T11:21:10",
-    "created_ts": 1790335270,
-    "niche": {
-      "key": "shopee_moda_infantil",
-      "name": "Moda Infantil"
-    }
-  },
-  {
-    "id": "70c10a350833f2f483",
-    "title": "Conjunto Camiseta e Bermuda Infantil",
-    "raw_title": "Camiseta E Bermuda Infantil Com Bolsos 04 á 16 Moda Infantil Roupa De Criança Para Ir para escola",
-    "description": "🚀 Seu filho estiloso e confortável com este Conjunto de Camiseta e Bermuda Infantil! Perfeito para a escola e o dia a dia, com bolsos práticos e disponí...",
-    "marketplace": "Shopee",
-    "category": "Moda Infantil",
-    "old_price": "R$ 49,90",
-    "price": "R$ 29,94",
-    "discount_percent": 40.0,
-    "rating": 4.7,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk8rweh88qgyc3",
-    "affiliate_url": "https://s.shopee.com.br/6q0xncWVbe",
-    "created_at": "25/09/2026 11:20",
-    "created_at_iso": "2026-09-25T11:20:06",
-    "created_ts": 1790335206,
-    "niche": {
-      "key": "shopee_moda_infantil",
-      "name": "Moda Infantil"
-    }
-  },
-  {
-    "id": "2b385c81bae885c0bd",
-    "title": "Tênis Infantil Casual",
-    "raw_title": "Tênis infantil casual moderno e confortável modinha",
-    "description": "Seu pequeno merece estilo e conforto! ✨ Olha que achado para a garotada! 👟 O Tênis infantil casual moderno e confortável modinha que vai deixar os pezin...",
-    "marketplace": "Shopee",
-    "category": "Moda Infantil",
-    "old_price": "R$ 108,78",
-    "price": "R$ 48,95",
-    "discount_percent": 55.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m4-mt98kmgxdjb4fe",
-    "affiliate_url": "https://s.shopee.com.br/9pealg4y2s",
-    "created_at": "25/09/2026 11:18",
-    "created_at_iso": "2026-09-25T11:18:35",
-    "created_ts": 1790335115,
-    "niche": {
-      "key": "shopee_moda_infantil",
-      "name": "Moda Infantil"
-    }
-  },
-  {
-    "id": "e2cb5d83f6224d7335",
-    "title": "Conjunto Infantil Verão Menino",
-    "raw_title": "Conjunto Infantil Menino Verão – Camisa com Botões e Gola + Shorts com Elástico",
-    "description": "🚨 OFERTA RELÂMPAGO! Conjunto Infantil de Verão para seu pequeno! ☀️ Deixe seu menino super estiloso e confortável para brincar muito neste verão! 👕👖 Con...",
-    "marketplace": "Shopee",
-    "category": "Moda Infantil",
-    "old_price": "R$ 79,90",
-    "price": "R$ 39,95",
-    "discount_percent": 50.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ma-mqlundmr65fl30",
-    "affiliate_url": "https://s.shopee.com.br/9fLAZMo0FX",
-    "created_at": "25/09/2026 11:17",
-    "created_at_iso": "2026-09-25T11:17:28",
-    "created_ts": 1790335048,
-    "niche": {
-      "key": "shopee_moda_infantil",
-      "name": "Moda Infantil"
     }
   }
 ]

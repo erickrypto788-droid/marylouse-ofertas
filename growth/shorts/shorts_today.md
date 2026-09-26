@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 26/09/2026 13:22
+Gerado em: 26/09/2026 14:08
 
 ## Como usar
 
@@ -105,5 +105,27 @@ Gerado em: 26/09/2026 13:22
 - Suporte de Celular para Moto/Bike À Prova D'água 360°
 - Mini Carregador Portátil Power Bank
 - Xiaomi Redmi 14C 128GB
+
+---
+
+## Supermercados
+
+**Título sugerido:** 🛒 Ofertas de Supermercados atualizadas hoje
+
+**Descrição sugerida:** Ofertas de Supermercados selecionadas pela MaryLouse. Preços podem mudar. Veja no site. #MaryLouseOfertas #Ofertas #Achadinhos
+
+**Link/CTA:** https://marylouse-ofertas.vercel.app/ofertas-supermercados.html
+
+**Slides:**
+
+- growth/shorts/slides/supermercados/01_intro.png
+- growth/shorts/slides/supermercados/02_produto_1.png
+- growth/shorts/slides/supermercados/03_produto_2.png
+- growth/shorts/slides/supermercados/05_cta.png
+
+**Produtos usados:**
+
+- Kit 6 Amaciante Concentrado Intense Comfort
+- Amaciante Comfort Lavanda 2x 1,5L
 
 ---

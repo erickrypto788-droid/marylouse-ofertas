@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 26/09/2026 14:21
+Gerado em: 26/09/2026 15:21
 
 ## Categorias prioritárias
 
-- 🍼 **Mãe e Bebê**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 📚 **Papelaria**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
+- 📦 **Outros**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 💻 **Informática**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 📦 **Outros**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 🍼 **Mãe e Bebê**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 💄 **Beleza**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 👟 **Calçados**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 👜 **Bolsas**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 - 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 🐶 **Pet**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
-- 📱 **Celulares**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 
 ## Top ofertas para destacar
 
@@ -45,47 +45,47 @@ Gerado em: 26/09/2026 14:21
    - Desconto: 76% OFF
    - Link: https://s.shopee.com.br/AKarhApCA3
 
-5. **Kit 10 Fraldas de Pano Estampadas**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 28,98
-   - Desconto: 76% OFF
-   - Link: https://s.shopee.com.br/9peb28bJQW
-
-6. **Kit 3 Perfumes Malbec Masculino Importado Aroma Marcante Essência Al…**
+5. **Kit 3 Perfumes Malbec Masculino Importado Aroma Marcante Essência Al…**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 35,90
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/1BMddtFYhz
 
-7. **Mini Panela elétrica （110V / 220V）**
+6. **Mini Panela elétrica （110V / 220V）**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 58,88
    - Desconto: 41% OFF
    - Link: https://s.shopee.com.br/5LCCXQxFPz
 
-8. **Monitor Gamer Mancer Horizon Z Pro, 23.8 Pol, IPS, FHD, 1ms, 144Hz, H…**
+7. **Monitor Gamer Mancer Horizon Z Pro, 23.8 Pol, IPS, FHD, 1ms, 144Hz, H…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 572,60
    - Desconto: 58% OFF
    - Link: https://s.shopee.com.br/3qNPPsifdL
 
-9. **Berço Portátil 3 em 1 com Mosquiteiro**
+8. **Berço Portátil 3 em 1 com Mosquiteiro**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 541,79
    - Desconto: 68% OFF
    - Link: https://s.shopee.com.br/1qcI6uUDNI
 
-10. **Oxímetro de Dedo Digital Portátil**
+9. **Oxímetro de Dedo Digital Portátil**
    - Categoria: Saúde
    - Loja: Shopee
    - Preço: R$ 31,99
    - Desconto: 57% OFF
    - Link: https://s.shopee.com.br/6VOAGB0Slh
+
+10. **Umidificador e Difusor de Ar Ultrassônico 1.5L**
+   - Categoria: Pet
+   - Loja: Mercado Livre
+   - Preço: R$ 98,80
+   - Desconto: 62% OFF
+   - Link: https://www.mercadolivre.com.br/p/MLB77579661?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ## Ações gratuitas recomendadas
 

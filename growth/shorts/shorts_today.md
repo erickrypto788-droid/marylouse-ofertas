@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 26/09/2026 14:21
+Gerado em: 26/09/2026 15:21
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 26/09/2026 14:21
 
 **Produtos usados:**
 
-- Kit 10 Fraldas de Pano Estampadas
 - Berço Portátil 3 em 1 com Mosquiteiro
 - Baby Doll Malha Premium
+- Berço Moisés 5 em 1 Portátil
 
 ---
 
@@ -104,7 +104,7 @@ Gerado em: 26/09/2026 14:21
 
 - Suporte de Celular para Moto/Bike À Prova D'água 360°
 - Mini Carregador Portátil Power Bank
-- Xiaomi Redmi 14C 128GB
+- Chocolate Trento Massimo Chocolate 38% Com 15 Unidades De 25g
 
 ---
 

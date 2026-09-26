@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 26/09/2026 14:21
+Gerado em: 26/09/2026 15:21
 
 ## Como usar
 
@@ -12,37 +12,7 @@ Gerado em: 26/09/2026 14:21
 
 ---
 
-## Post 1 — Mamãe e Bebê
-
-**Canal recomendado:** Mamãe e Bebê
-
-**Horário sugerido:** 09:00 - 11:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
-
-**Texto pronto:**
-
-```txt
-🍼 Oferta para Mamãe e Bebê
-
-Kit 10 Fraldas de Pano Estampadas
-
-💸 De: R$ 120,75
-🔥 Por: R$ 28,98
-🏷️ 76% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/9peb28bJQW
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 2 — Casa e Cozinha
+## Post 1 — Casa e Cozinha
 
 **Canal recomendado:** Casa e Cozinha
 
@@ -72,7 +42,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 3 — Celulares e Tecnologia
+## Post 2 — Celulares e Tecnologia
 
 **Canal recomendado:** Celulares e Tecnologia
 
@@ -102,7 +72,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Beleza e Cuidados
+## Post 3 — Beleza e Cuidados
 
 **Canal recomendado:** Beleza e Cuidados
 
@@ -132,7 +102,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 5 — Ofertas Pet
+## Post 4 — Ofertas Pet
 
 **Canal recomendado:** Ofertas Pet
 
@@ -155,6 +125,36 @@ Sandália Papete Infantil Meninos
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/6AlIOwESSl
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 5 — Mamãe e Bebê
+
+**Canal recomendado:** Mamãe e Bebê
+
+**Horário sugerido:** 09:00 - 11:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
+
+**Texto pronto:**
+
+```txt
+🍼 Oferta para Mamãe e Bebê
+
+Berço Portátil 3 em 1 com Mosquiteiro
+
+💸 De: R$ 1.693,09
+🔥 Por: R$ 541,79
+🏷️ 68% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/1qcI6uUDNI
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

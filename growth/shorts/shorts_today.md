@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 26/09/2026 09:18
+Gerado em: 26/09/2026 10:22
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 26/09/2026 09:18
 **Produtos usados:**
 
 - Kit 10 Fraldas de Pano Estampadas
+- Berço Portátil 3 em 1 com Mosquiteiro
 - Baby Doll Malha Premium
-- Oxímetro Infantil
 
 ---
 
@@ -80,7 +80,7 @@ Gerado em: 26/09/2026 09:18
 
 - Perfume Árabe Masculino Asad/Sara Bourbon Eau De Parfum 100ML
 - Kit 3 Perfumes Malbec Masculino Importado Aroma Marcante Essência Al…
-- Secador Profissional LONYAN 8020
+- Principia Kit Protetor Solar PS-01 FPS 60 + PS-05 FPS 70- escolha seu…
 
 ---
 

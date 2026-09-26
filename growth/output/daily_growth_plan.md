@@ -1,16 +1,16 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 26/09/2026 09:18
+Gerado em: 26/09/2026 10:22
 
 ## Categorias prioritárias
 
-- 🍼 **Mãe e Bebê**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 💄 **Beleza**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 🍼 **Mãe e Bebê**: 16 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🏋️ **Esportes**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 🧸 **Brinquedos**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 💻 **Informática**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 💄 **Beleza**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 📚 **Papelaria**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 - 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
@@ -45,26 +45,26 @@ Gerado em: 26/09/2026 09:18
    - Desconto: 76% OFF
    - Link: https://s.shopee.com.br/9peb28bJQW
 
-5. **Secador Profissional LONYAN 8020**
-   - Categoria: Beleza
-   - Loja: Shopee
-   - Preço: R$ 78,00
-   - Desconto: 51% OFF
-   - Link: https://s.shopee.com.br/4B0Dx7bxdx
-
-6. **Kit 3 Perfumes Malbec Masculino Importado Aroma Marcante Essência Al…**
+5. **Kit 3 Perfumes Malbec Masculino Importado Aroma Marcante Essência Al…**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 35,90
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/1BMddtFYhz
 
-7. **Mini Panela elétrica （110V / 220V）**
+6. **Mini Panela elétrica （110V / 220V）**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 58,88
    - Desconto: 41% OFF
    - Link: https://s.shopee.com.br/5LCCXQxFPz
+
+7. **Berço Portátil 3 em 1 com Mosquiteiro**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 541,79
+   - Desconto: 68% OFF
+   - Link: https://s.shopee.com.br/1qcI6uUDNI
 
 8. **Oxímetro de Dedo Digital Portátil**
    - Categoria: Saúde

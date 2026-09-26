@@ -1,17 +1,17 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 26/09/2026 05:22
+Gerado em: 26/09/2026 06:22
 
 ## Categorias prioritárias
 
 - 💄 **Beleza**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 👟 **Calçados**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 🍼 **Mãe e Bebê**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 📦 **Outros**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 💻 **Informática**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 📚 **Papelaria**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
-- ✨ **Moda Plus Size**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
 - 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
+- 🧒 **Moda Infantil**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-infantil.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-infantil
 - 🔌 **Eletrodomésticos**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-eletrodomesticos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_eletrodomesticos
 - 📱 **Celulares**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 
@@ -59,33 +59,33 @@ Gerado em: 26/09/2026 05:22
    - Desconto: 41% OFF
    - Link: https://s.shopee.com.br/5LCCXQxFPz
 
-7. **Liquidificador Triturador Compacto para suco com Led - suco e frutas…**
+7. **Sandália Papete Infantil Meninos**
+   - Categoria: Pet
+   - Loja: Shopee
+   - Preço: R$ 21,88
+   - Desconto: 51% OFF
+   - Link: https://s.shopee.com.br/6AlIOwESSl
+
+8. **Liquidificador Triturador Compacto para suco com Led - suco e frutas…**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 78,68
    - Desconto: 50% OFF
    - Link: https://s.shopee.com.br/8Kpo6wYhEi
 
-8. **Mini Carregador Portátil Power Bank**
+9. **Mini Carregador Portátil Power Bank**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 26,99
    - Desconto: 70% OFF
    - Link: https://s.shopee.com.br/4fwVg5FCZ3
 
-9. **Mouse gamer para jogo computador 3200dpi com LED laser X7 USB Botões…**
+10. **Mouse gamer para jogo computador 3200dpi com LED laser X7 USB Botões…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 22,88
    - Desconto: 62% OFF
    - Link: https://s.shopee.com.br/5AskPdKv4s
-
-10. **Mouse Pad Desk Pad Couro Borda Costurada Gigante Antiderrapante Tapet…**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 17,89
-   - Desconto: 56% OFF
-   - Link: https://s.shopee.com.br/5LC9HWcaXG
 
 ## Ações gratuitas recomendadas
 

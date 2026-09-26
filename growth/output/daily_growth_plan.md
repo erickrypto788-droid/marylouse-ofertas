@@ -1,11 +1,11 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 26/09/2026 09:04
+Gerado em: 26/09/2026 09:18
 
 ## Categorias prioritárias
 
 - 🍼 **Mãe e Bebê**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 💄 **Beleza**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 💄 **Beleza**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🏋️ **Esportes**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 🧸 **Brinquedos**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
@@ -66,26 +66,26 @@ Gerado em: 26/09/2026 09:04
    - Desconto: 41% OFF
    - Link: https://s.shopee.com.br/5LCCXQxFPz
 
-8. **Umidificador e Difusor de Ar Ultrassônico 1.5L**
+8. **Oxímetro de Dedo Digital Portátil**
+   - Categoria: Saúde
+   - Loja: Shopee
+   - Preço: R$ 31,99
+   - Desconto: 57% OFF
+   - Link: https://s.shopee.com.br/6VOAGB0Slh
+
+9. **Umidificador e Difusor de Ar Ultrassônico 1.5L**
    - Categoria: Pet
    - Loja: Mercado Livre
    - Preço: R$ 98,80
    - Desconto: 62% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB77579661?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-9. **Baby Doll Malha Premium**
+10. **Baby Doll Malha Premium**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 24,90
    - Desconto: 72% OFF
    - Link: https://s.shopee.com.br/5fp3CWRmaq
-
-10. **Sandália Papete Infantil Meninos**
-   - Categoria: Pet
-   - Loja: Shopee
-   - Preço: R$ 21,88
-   - Desconto: 51% OFF
-   - Link: https://s.shopee.com.br/6AlIOwESSl
 
 ## Ações gratuitas recomendadas
 

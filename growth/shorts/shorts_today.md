@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 26/09/2026 07:22
+Gerado em: 26/09/2026 08:22
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 26/09/2026 07:22
 **Produtos usados:**
 
 - Kit 10 Fraldas de Pano Estampadas
+- Baby Doll Malha Premium
 - Oxímetro Infantil
-- Fralda Pampers Supersequinha G 80 Unidades
 
 ---
 
@@ -104,7 +104,7 @@ Gerado em: 26/09/2026 07:22
 
 - Suporte de Celular para Moto/Bike À Prova D'água 360°
 - Mini Carregador Portátil Power Bank
-- Carregador Rápido 120W
+- Xiaomi Redmi 14C 128GB
 
 ---
 

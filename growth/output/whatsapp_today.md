@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 26/09/2026 05:03
+Gerado em: 26/09/2026 05:22
 
 ## Como usar
 
@@ -87,14 +87,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
 ```txt
 💄 Oferta para Beleza e Cuidados
 
-Secador Profissional LONYAN 8020
+Perfume Árabe Masculino Asad/Sara Bourbon Eau De Parfum 100ML
 
-💸 De: R$ 159,18
-🔥 Por: R$ 78,00
-🏷️ 51% OFF
+💸 De: R$ 199,96
+🔥 Por: R$ 99,98
+🏷️ 50% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/4B0Dx7bxdx
+Ver oferta: https://s.shopee.com.br/1VzU2VEI25
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

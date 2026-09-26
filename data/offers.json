@@ -1,5 +1,47 @@
 [
   {
+    "id": "1d2278efad8b95d413",
+    "title": "Tênis Sapatênis Masculino Jaca",
+    "raw_title": "Tênis Sapatênis Masculino Casual Trabalho Social Dia a Dia Jaca Qualidade",
+    "description": "✨ SEU NOVO TÊNIS COM DESCONTO IMPERDÍVEL! Conforto e estilo para todas as ocasiões! 👟 Este Tênis Sapatênis Masculino de Qualidade é perfeito para o trab...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Masculinos",
+    "old_price": "R$ 89,56",
+    "price": "R$ 60,90",
+    "discount_percent": 32.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7rfg5-m94otf58x4wl55",
+    "affiliate_url": "https://s.shopee.com.br/30oHYmpq1B",
+    "created_at": "26/09/2026 01:17",
+    "created_at_iso": "2026-09-26T01:17:08",
+    "created_ts": 1790385428,
+    "niche": {
+      "key": "shopee_sapatos_masculinos",
+      "name": "Sapatos Masculinos"
+    }
+  },
+  {
+    "id": "950860d005240027d8",
+    "title": "Bota Galocha Impermeável EPI",
+    "raw_title": "Bota Galocha Impermeável EPI com C.A. Original Proteção Chuva Motoboy Limpeza ENVIO IMEDIATO",
+    "description": "🚨 OFERTA RELÂMPAGO! Proteção total para seus pés! 🌧️ Garanta já sua Bota Galocha Impermeável EPI com C.A. Original! Perfeita para chuva, motoboys e limp...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Masculinos",
+    "old_price": "R$ 84,42",
+    "price": "R$ 37,99",
+    "discount_percent": 55.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-825a2-mg4fy6b59qmi08",
+    "affiliate_url": "https://s.shopee.com.br/3VkY9hwwLJ",
+    "created_at": "26/09/2026 01:15",
+    "created_at_iso": "2026-09-26T01:15:57",
+    "created_ts": 1790385357,
+    "niche": {
+      "key": "shopee_sapatos_masculinos",
+      "name": "Sapatos Masculinos"
+    }
+  },
+  {
     "id": "d1f81ba40874ff2ed6",
     "title": "Calça Wid Leg Cargo Modeladora Blogueira Moda",
     "raw_title": "Calça Wid Leg Cargo Modeladora Blogueira Moda",
@@ -2275,43 +2317,5 @@
       "key": "shopee_bebidas_alimentos",
       "name": "Bebidas e Alimentos"
     }
-  },
-  {
-    "id": "f46902be8a5ead85e8",
-    "title": "Kit 2 Borrifadores Azeite/Vinagre",
-    "raw_title": "Kit 2 Borrifadores de Azeite Vinagre Líquidos Pulverizador Culinário 200ml",
-    "description": "🚨 OFERTA RELÂMPAGO! 🚨 Dê um toque de chef na sua cozinha com este Kit 2 Borrifadores de Azeite e Vinagre! Perfeito para temperar saladas, untar formas e...",
-    "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
-    "old_price": "R$ 69,96",
-    "price": "R$ 18,89",
-    "discount_percent": 73.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mipusv9cf4eaac",
-    "affiliate_url": "https://s.shopee.com.br/9AOtJEJ7gX",
-    "created_at": "25/09/2026 01:16",
-    "created_at_iso": "2026-09-25T01:16:09",
-    "created_ts": 1790298969,
-    "niche": {
-      "key": "shopee_bebidas_alimentos",
-      "name": "Bebidas e Alimentos"
-    }
-  },
-  {
-    "id": "948eaab40be0749224",
-    "title": "Webcam Câmera Full Hd 1080p 360 Graus Videoconferência Streamcam Web…",
-    "raw_title": "Webcam Câmera Full Hd 1080p 360 Graus Videoconferência Streamcam Web Cam Entrada Usb Com Microfone",
-    "description": "🔥 29% OFF — Oferta encontrada! 📌 Webcam Câmera Full Hd 1080p 360 Graus Videoconferência Streamcam Web Cam Entrada Usb Com Microfone Confira os detalhes...",
-    "marketplace": "Shopee",
-    "category": "Informática",
-    "old_price": "R$ 70,41",
-    "price": "R$ 49,99",
-    "discount_percent": 29.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7ratl-mabme1oxej7i39",
-    "affiliate_url": "https://s.shopee.com.br/6VO805SuBA",
-    "created_at": "25/09/2026 00:20",
-    "created_at_iso": "2026-09-25T00:20:21",
-    "created_ts": 1790295621
   }
 ]

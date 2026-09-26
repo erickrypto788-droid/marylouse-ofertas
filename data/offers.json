@@ -1,5 +1,22 @@
 [
   {
+    "id": "3ca1eec774fa6259c3",
+    "title": "Mesa Gamer AJL Branca",
+    "raw_title": "Mesa Computador Escrivaninha Notebook Gamer cor branco AJL",
+    "description": "🚀 Chegou a hora de turbinar seu espaço! Mesa Computador Escrivaninha Gamer AJL na cor branca. Perfeita para seu setup de estudos, trabalho ou jogos! 🎮💻...",
+    "marketplace": "Mercado Livre",
+    "category": "Casa e Decoração",
+    "old_price": "",
+    "price": "R$ 267,20",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_883611-MLU78942001945_092024-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29479675?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "26/09/2026 22:01",
+    "created_at_iso": "2026-09-26T22:01:50",
+    "created_ts": 1790460110
+  },
+  {
     "id": "8ee6c70ed9fe6171f8",
     "title": "Tênis Infantil Masculino Casual",
     "raw_title": "Tênis Infantil Menino Masculino Casual Sapatenis Infantil",
@@ -1980,26 +1997,5 @@
     "created_at": "25/09/2026 22:02",
     "created_at_iso": "2026-09-25T22:02:20",
     "created_ts": 1790373740
-  },
-  {
-    "id": "181aa5f046e3060ee8",
-    "title": "Console Nintendo Switch OLED + Super Mario Bros + 3 Meses NSO",
-    "raw_title": "Console Nintendo Switch OLED + Super Mario Bros + 3 Meses NSO",
-    "description": "🔥 1% OFF — Oferta encontrada! 📌 Console Nintendo Switch OLED + Super Mario Bros + 3 Meses NSO Confira os detalhes e aproveite enquanto a oferta estiver...",
-    "marketplace": "Shopee",
-    "category": "Jogos e Consoles",
-    "old_price": "R$ 2.726,26",
-    "price": "R$ 2.699,00",
-    "discount_percent": 1.0,
-    "rating": 5.0,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ld-mrhncjeix1jae6",
-    "affiliate_url": "https://s.shopee.com.br/80CvzCQMD1",
-    "created_at": "25/09/2026 21:17",
-    "created_at_iso": "2026-09-25T21:17:58",
-    "created_ts": 1790371078,
-    "niche": {
-      "key": "shopee_jogos_consoles",
-      "name": "Jogos e Consoles"
-    }
   }
 ]

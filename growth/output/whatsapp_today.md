@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 26/09/2026 02:19
+Gerado em: 26/09/2026 03:19
 
 ## Como usar
 
@@ -117,14 +117,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
 ```txt
 📱 Oferta para Celulares e Tecnologia
 
-Carregador Rápido 120W
+Mini Carregador Portátil Power Bank
 
-💸 De: R$ 49,75
-🔥 Por: R$ 19,90
-🏷️ 60% OFF
+💸 De: R$ 89,97
+🔥 Por: R$ 26,99
+🏷️ 70% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/50ZKoRy4rC
+Ver oferta: https://s.shopee.com.br/4fwVg5FCZ3
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

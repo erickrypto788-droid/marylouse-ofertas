@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 26/09/2026 02:19
+Gerado em: 26/09/2026 03:19
 
 ## Como usar
 
@@ -100,9 +100,9 @@ Gerado em: 26/09/2026 02:19
 
 **Produtos usados:**
 
+- Mini Carregador Portátil Power Bank
 - Carregador Rápido 120W
 - Carregador 168W Tipo C
-- Celular Samsung Galaxy A06 5g Preto
 
 ---
 

@@ -1,5 +1,22 @@
 [
   {
+    "id": "593fbbeb69a79244b6",
+    "title": "Cadeira Escritório Secretaria Rcp Preto",
+    "raw_title": "Cadeira Escritório Secretaria Rcp Preto",
+    "description": "✨ Conforto e produtividade no seu dia a dia! A Cadeira Escritório Secretaria Rcp Preto é ideal para o seu espaço de trabalho. Design moderno e funcional...",
+    "marketplace": "Mercado Livre",
+    "category": "Casa e Decoração",
+    "old_price": "",
+    "price": "R$ 261,89",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_830361-MLA95524555493_102025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB22813112?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "26/09/2026 16:02",
+    "created_at_iso": "2026-09-26T16:02:34",
+    "created_ts": 1790438554
+  },
+  {
     "id": "5e2a461e16ca6c4f2b",
     "title": "Chocolate Moranguete 468g C/36 Unidades 13g Bel",
     "raw_title": "Chocolate Moranguete 468g C/36 Unidades 13g Bel",
@@ -2144,27 +2161,6 @@
     "niche": {
       "key": "shopee_bolsas_femininas",
       "name": "Bolsas Femininas"
-    }
-  },
-  {
-    "id": "f12751e1b3b8eef3f6",
-    "title": "140 Blocos De Montar Super Coloridos Carrinho + Rodinhas - educacional",
-    "raw_title": "140 Blocos De Montar Super Coloridos Carrinho + Rodinhas - educacional",
-    "description": "🔥 29% OFF — Oferta encontrada! 📌 140 Blocos De Montar Super Coloridos Carrinho + Rodinhas - educacional Confira os detalhes e aproveite enquanto a ofert...",
-    "marketplace": "Shopee",
-    "category": "Mãe e Bebê",
-    "old_price": "R$ 40,21",
-    "price": "R$ 28,55",
-    "discount_percent": 29.0,
-    "rating": 4.7,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m2tuxpumqwb714",
-    "affiliate_url": "https://s.shopee.com.br/6q0xvrFHLt",
-    "created_at": "25/09/2026 15:20",
-    "created_at_iso": "2026-09-25T15:20:20",
-    "created_ts": 1790349620,
-    "niche": {
-      "key": "shopee_mae_bebe",
-      "name": "Mãe e Bebê"
     }
   }
 ]

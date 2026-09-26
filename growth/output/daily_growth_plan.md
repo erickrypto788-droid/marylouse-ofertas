@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 26/09/2026 03:19
+Gerado em: 26/09/2026 04:19
 
 ## Categorias prioritárias
 
 - 🍼 **Mãe e Bebê**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 👟 **Calçados**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 👕 **Moda Masculina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
-- 👗 **Moda Feminina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 📦 **Outros**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - ✨ **Moda Plus Size**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
+- 👕 **Moda Masculina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
+- 👗 **Moda Feminina**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 📚 **Papelaria**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 - 💻 **Informática**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 🔌 **Eletrodomésticos**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-eletrodomesticos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_eletrodomesticos
 - 📱 **Celulares**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
-- 🏋️ **Esportes**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 
 ## Top ofertas para destacar
 
@@ -38,54 +38,54 @@ Gerado em: 26/09/2026 03:19
    - Desconto: 51% OFF
    - Link: https://s.shopee.com.br/4B0Dx7bxdx
 
-4. **Mini Carregador Portátil Power Bank**
+4. **Mini Panela elétrica （110V / 220V）**
+   - Categoria: Casa e Cozinha
+   - Loja: Shopee
+   - Preço: R$ 58,88
+   - Desconto: 41% OFF
+   - Link: https://s.shopee.com.br/5LCCXQxFPz
+
+5. **Liquidificador Triturador Compacto para suco com Led - suco e frutas…**
+   - Categoria: Casa e Cozinha
+   - Loja: Shopee
+   - Preço: R$ 78,68
+   - Desconto: 50% OFF
+   - Link: https://s.shopee.com.br/8Kpo6wYhEi
+
+6. **Mini Carregador Portátil Power Bank**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 26,99
    - Desconto: 70% OFF
    - Link: https://s.shopee.com.br/4fwVg5FCZ3
 
-5. **Mouse gamer para jogo computador 3200dpi com LED laser X7 USB Botões…**
+7. **Mouse gamer para jogo computador 3200dpi com LED laser X7 USB Botões…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 22,88
    - Desconto: 62% OFF
    - Link: https://s.shopee.com.br/5AskPdKv4s
 
-6. **Mouse Pad Desk Pad Couro Borda Costurada Gigante Antiderrapante Tapet…**
+8. **Mouse Pad Desk Pad Couro Borda Costurada Gigante Antiderrapante Tapet…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 17,89
    - Desconto: 56% OFF
    - Link: https://s.shopee.com.br/5LC9HWcaXG
 
-7. **Fralda Pampers Supersequinha G 80 Unidades**
+9. **Fralda Pampers Supersequinha G 80 Unidades**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 99,99
    - Desconto: 29% OFF
    - Link: https://s.shopee.com.br/3VkW5y6Gs2
 
-8. **Oxímetro Infantil**
+10. **Oxímetro Infantil**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 25,88
    - Desconto: 61% OFF
    - Link: https://s.shopee.com.br/70KOCI3USz
-
-9. **Carregador Rápido 120W**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 19,90
-   - Desconto: 60% OFF
-   - Link: https://s.shopee.com.br/50ZKoRy4rC
-
-10. **Luminária Foguete Lava Bolha Todas As Cores Decoração Retrô**
-   - Categoria: Pet
-   - Loja: Mercado Livre
-   - Preço: R$ 125,91
-   - Desconto: 25% OFF
-   - Link: https://www.mercadolivre.com.br/p/MLB75541518?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ## Ações gratuitas recomendadas
 

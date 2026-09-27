@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 27/09/2026 09:22
+Gerado em: 27/09/2026 10:22
 
 ## Categorias prioritárias
 
-- 🍼 **Mãe e Bebê**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 📚 **Papelaria**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
+- 🐶 **Pet**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
+- 🍼 **Mãe e Bebê**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 💄 **Beleza**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 🐶 **Pet**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
+- 📦 **Outros**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 💻 **Informática**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 👜 **Bolsas**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 - 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
-- 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
-- ❤️ **Saúde**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
-- 💻 **Informática**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 
 ## Top ofertas para destacar
 
@@ -45,47 +45,47 @@ Gerado em: 27/09/2026 09:22
    - Desconto: 65% OFF
    - Link: https://s.shopee.com.br/gQNVocpE7
 
-5. **Estojo Maquiagem Infantil Coração My Life**
+5. **SSD SATA III de Alta Velocidade**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 68,49
+   - Desconto: 39% OFF
+   - Link: https://s.shopee.com.br/2LYcxXIsYN
+
+6. **Estojo Maquiagem Infantil Coração My Life**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 19,25
    - Desconto: 36% OFF
    - Link: https://s.shopee.com.br/AUuJI0luF2
 
-6. **Lenços Pampers Carícia de Bebê 576 unid.**
+7. **Lenços Pampers Carícia de Bebê 576 unid.**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 99,90
    - Desconto: 35% OFF
    - Link: https://s.shopee.com.br/6L4lSOlRxT
 
-7. **Panela de Pressão 4,5L Antiaderente**
+8. **Panela de Pressão 4,5L Antiaderente**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 133,90
    - Desconto: 42% OFF
    - Link: https://s.shopee.com.br/60Ruf6bWxk
 
-8. **Amplificador De Imagem Da Tela Do Celular Lupa 3D 21,6CM*16,6CM*2,7CM…**
+9. **Amplificador De Imagem Da Tela Do Celular Lupa 3D 21,6CM*16,6CM*2,7CM…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 17,99
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/60RqbibSYF
 
-9. **Ninho Redutor de Berço c/ Mosquiteiro**
-   - Categoria: Mãe e Bebê
+10. **Adaptador USB-C Hub Leitor Cartão**
+   - Categoria: Celulares
    - Loja: Shopee
-   - Preço: R$ 64,99
-   - Desconto: 69% OFF
-   - Link: https://s.shopee.com.br/2BFCUk9ySW
-
-10. **Aparelho Medidor De Pressão Arterial Digital De Braço Alta Precisão C…**
-   - Categoria: Saúde
-   - Loja: Shopee
-   - Preço: R$ 38,99
-   - Desconto: 61% OFF
-   - Link: https://s.shopee.com.br/7AdsNoFDyN
+   - Preço: R$ 17,90
+   - Desconto: 52% OFF
+   - Link: https://s.shopee.com.br/4LJg0nphfo
 
 ## Ações gratuitas recomendadas
 

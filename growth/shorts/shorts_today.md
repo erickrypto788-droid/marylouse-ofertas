@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 27/09/2026 09:22
+Gerado em: 27/09/2026 10:22
 
 ## Como usar
 
@@ -32,7 +32,7 @@ Gerado em: 27/09/2026 09:22
 
 - Ninho Redutor de Berço c/ Mosquiteiro
 - Azul escova limpeza mamadeira kit para limpeza de mamadeira kit limpe…
-- Berço Portátil 3 em 1 com Mosquiteiro
+- Lenços Pampers Carícia de Bebê 576 unid.
 
 ---
 
@@ -104,7 +104,7 @@ Gerado em: 27/09/2026 09:22
 
 - Kit 2 cartões de memória 128gb ultra muito mais memória smartphone
 - Amplificador De Imagem Da Tela Do Celular Lupa 3D 21,6CM*16,6CM*2,7CM…
-- Chocolate Trento Massimo Chocolate 38% Com 15 Unidades De 25g
+- Adaptador USB-C Hub Leitor Cartão
 
 ---
 

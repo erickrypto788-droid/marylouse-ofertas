@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 27/09/2026 11:06
+Gerado em: 27/09/2026 11:22
 
 ## Como usar
 
@@ -55,8 +55,8 @@ Gerado em: 27/09/2026 11:06
 **Produtos usados:**
 
 - Panela de Pressão 4,5L Antiaderente
+- Kit 2 Galheteiro Vidro 500ml Bico Dosador Porta Azeite Vinagre Molho…
 - Cafeteira Philco 15 Cafezinhos 550W 600ml PCFE01
-- Micro-ondas Electrolux 20L Inox MT30S
 
 ---
 
@@ -126,8 +126,8 @@ Gerado em: 27/09/2026 11:06
 
 **Produtos usados:**
 
+- Kit Pele de Porcelana com Sérum de Arroz e Olhos de Gueixa Kokeshi
 - Absorvente Mulher Ativa Kit 80 Pacotes
 - Kit 6 Amaciante Concentrado Intense Comfort
-- Amaciante Comfort Lavanda 2x 1,5L
 
 ---

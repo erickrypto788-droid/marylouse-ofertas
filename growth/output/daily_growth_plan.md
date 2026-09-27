@@ -1,12 +1,11 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 27/09/2026 19:01
+Gerado em: 27/09/2026 19:19
 
 ## Categorias prioritárias
 
 - 👟 **Calçados**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 📱 **Celulares**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
-- 👕 **Moda Masculina**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 - 🍼 **Mãe e Bebê**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 💄 **Beleza**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🐶 **Pet**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
@@ -14,6 +13,7 @@ Gerado em: 27/09/2026 19:01
 - ✨ **Moda Plus Size**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
 - 👗 **Moda Feminina**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 🏋️ **Esportes**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
+- 🍳 **Casa e Cozinha**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 
 ## Top ofertas para destacar
 
@@ -45,47 +45,47 @@ Gerado em: 27/09/2026 19:01
    - Desconto: 77% OFF
    - Link: https://s.shopee.com.br/4qFvsOA1vE
 
-5. **Fone de Ouvido Bluetooth 5.0 Sem Fio Headset Bateria de Longa Duração…**
+5. **Panela de Pressão Panelux 4,5L**
+   - Categoria: Casa e Cozinha
+   - Loja: Shopee
+   - Preço: R$ 58,90
+   - Desconto: 49% OFF
+   - Link: https://s.shopee.com.br/8KppROSeE2
+
+6. **Fone de Ouvido Bluetooth 5.0 Sem Fio Headset Bateria de Longa Duração…**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 40,99
    - Desconto: 49% OFF
    - Link: https://s.shopee.com.br/7fa9qIQr5R
 
-6. **SSD SATA III de Alta Velocidade**
+7. **SSD SATA III de Alta Velocidade**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 68,49
    - Desconto: 39% OFF
    - Link: https://s.shopee.com.br/2LYcxXIsYN
 
-7. **Estojo Maquiagem Infantil Coração My Life**
+8. **Estojo Maquiagem Infantil Coração My Life**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 19,25
    - Desconto: 36% OFF
    - Link: https://s.shopee.com.br/AUuJI0luF2
 
-8. **Lenços Pampers Carícia de Bebê 576 unid.**
+9. **Lenços Pampers Carícia de Bebê 576 unid.**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 99,90
    - Desconto: 35% OFF
    - Link: https://s.shopee.com.br/6L4lSOlRxT
 
-9. **Panela de Pressão 4,5L Antiaderente**
+10. **Panela de Pressão 4,5L Antiaderente**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 133,90
    - Desconto: 42% OFF
    - Link: https://s.shopee.com.br/60Ruf6bWxk
-
-10. **Amplificador De Imagem Da Tela Do Celular Lupa 3D 21,6CM*16,6CM*2,7CM…**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 17,99
-   - Desconto: 40% OFF
-   - Link: https://s.shopee.com.br/60RqbibSYF
 
 ## Ações gratuitas recomendadas
 

@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 27/09/2026 18:22
+Gerado em: 27/09/2026 19:19
 
 ## Como usar
 
@@ -54,9 +54,9 @@ Gerado em: 27/09/2026 18:22
 
 **Produtos usados:**
 
+- Panela de Pressão Panelux 4,5L
 - Panela de Pressão 4,5L Antiaderente
 - Kit 2 Galheteiro Vidro 500ml Bico Dosador Porta Azeite Vinagre Molho…
-- Cafeteira Philco 15 Cafezinhos 550W 600ml PCFE01
 
 ---
 

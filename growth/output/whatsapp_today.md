@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 27/09/2026 03:22
+Gerado em: 27/09/2026 04:04
 
 ## Como usar
 
@@ -147,14 +147,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
 ```txt
 🍼 Oferta para Mamãe e Bebê
 
-Berço Portátil 3 em 1 com Mosquiteiro
+Azul escova limpeza mamadeira kit para limpeza de mamadeira kit limpe…
 
-💸 De: R$ 1.693,09
-🔥 Por: R$ 541,79
-🏷️ 68% OFF
-🛒 Loja: Shopee
+💸 De: R$ 190,00
+🔥 Por: R$ 53,20
+🏷️ 72% OFF
+🛒 Loja: Mercado Livre
 
-Ver oferta: https://s.shopee.com.br/1qcI6uUDNI
+Ver oferta: https://www.mercadolivre.com.br/p/MLB75043054?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

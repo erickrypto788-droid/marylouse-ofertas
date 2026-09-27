@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 27/09/2026 03:22
+Gerado em: 27/09/2026 04:04
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 27/09/2026 03:22
 
 **Produtos usados:**
 
+- Azul escova limpeza mamadeira kit para limpeza de mamadeira kit limpe…
 - Berço Portátil 3 em 1 com Mosquiteiro
 - Baby Doll Malha Premium
-- Kit 6 Peças Roupa De Bebê Body Menina Animado Estampado Algodão
 
 ---
 

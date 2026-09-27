@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 27/09/2026 05:03
+Gerado em: 27/09/2026 05:20
 
 ## Categorias prioritárias
 
 - 🍼 **Mãe e Bebê**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🐶 **Pet**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
-- 💄 **Beleza**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🧸 **Brinquedos**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 🏋️ **Esportes**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 👟 **Calçados**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- ❤️ **Saúde**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
+- 💄 **Beleza**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 📚 **Papelaria**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
-- 💻 **Informática**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 
 ## Top ofertas para destacar
 
@@ -52,40 +52,40 @@ Gerado em: 27/09/2026 05:03
    - Desconto: 55% OFF
    - Link: https://s.shopee.com.br/AUuHczjUSR
 
-6. **Perfume Árabe Masculino Asad/Sara Bourbon Eau De Parfum 100ML**
-   - Categoria: Beleza
-   - Loja: Shopee
-   - Preço: R$ 99,98
-   - Desconto: 50% OFF
-   - Link: https://s.shopee.com.br/1VzU2VEI25
-
-7. **Panela de Pressão 4,5L Antiaderente**
+6. **Panela de Pressão 4,5L Antiaderente**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 133,90
    - Desconto: 42% OFF
    - Link: https://s.shopee.com.br/60Ruf6bWxk
 
-8. **Amplificador De Imagem Da Tela Do Celular Lupa 3D 21,6CM*16,6CM*2,7CM…**
+7. **Amplificador De Imagem Da Tela Do Celular Lupa 3D 21,6CM*16,6CM*2,7CM…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 17,99
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/60RqbibSYF
 
-9. **Kit 3 Perfumes Malbec Masculino Importado Aroma Marcante Essência Al…**
-   - Categoria: Beleza
+8. **Aparelho Medidor De Pressão Arterial Digital De Braço Alta Precisão C…**
+   - Categoria: Saúde
    - Loja: Shopee
-   - Preço: R$ 35,90
-   - Desconto: 40% OFF
-   - Link: https://s.shopee.com.br/1BMddtFYhz
+   - Preço: R$ 38,99
+   - Desconto: 61% OFF
+   - Link: https://s.shopee.com.br/7AdsNoFDyN
 
-10. **Azul escova limpeza mamadeira kit para limpeza de mamadeira kit limpe…**
+9. **Azul escova limpeza mamadeira kit para limpeza de mamadeira kit limpe…**
    - Categoria: Mãe e Bebê
    - Loja: Mercado Livre
    - Preço: R$ 53,20
    - Desconto: 72% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB75043054?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+10. **Kit 6 Peças Roupa De Bebê Body Menina Animado Estampado Algodão**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 47,90
+   - Desconto: 56% OFF
+   - Link: https://s.shopee.com.br/3B7i5hRj6f
 
 ## Ações gratuitas recomendadas
 

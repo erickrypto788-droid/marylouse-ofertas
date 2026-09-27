@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 27/09/2026 05:03
+Gerado em: 27/09/2026 05:20
 
 ## Como usar
 
@@ -80,7 +80,7 @@ Gerado em: 27/09/2026 05:03
 
 - Escova Secadora 3 em 1 Profissional
 - GOKOCO Secador de Cabelo de Alta Velocidade Secador de Cabelo Profiss…
-- Perfume Árabe Masculino Asad/Sara Bourbon Eau De Parfum 100ML
+- Kit 2 Body Splash Feminino Perfumado Encanto Lily + Florata Rose Pres…
 
 ---
 

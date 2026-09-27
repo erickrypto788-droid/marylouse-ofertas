@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 27/09/2026 17:19
+Gerado em: 27/09/2026 18:22
 
 ## Como usar
 
@@ -27,14 +27,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
 ```txt
 📱 Oferta para Celulares e Tecnologia
 
-Kit 2 cartões de memória 128gb ultra muito mais memória smartphone
+Kit Reparo Tela Smartphone
 
-💸 De: R$ 143,39
-🔥 Por: R$ 32,98
-🏷️ 77% OFF
+💸 De: R$ 59,34
+🔥 Por: R$ 18,99
+🏷️ 68% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/4qFvsOA1vE
+Ver oferta: https://s.shopee.com.br/9KiNpLyiaw
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
@@ -102,7 +102,37 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Mamãe e Bebê
+## Post 4 — Ofertas Pet
+
+**Canal recomendado:** Ofertas Pet
+
+**Horário sugerido:** 17:00 - 20:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
+
+**Texto pronto:**
+
+```txt
+🐶 Oferta para Ofertas Pet
+
+Fone de Ouvido Bluetooth 5.0 Sem Fio Headset Bateria de Longa Duração…
+
+💸 De: R$ 80,37
+🔥 Por: R$ 40,99
+🏷️ 49% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/7fa9qIQr5R
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 5 — Mamãe e Bebê
 
 **Canal recomendado:** Mamãe e Bebê
 
@@ -132,7 +162,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 5 — Moda Feminina
+## Post 6 — Moda Feminina
 
 **Canal recomendado:** Moda Feminina
 
@@ -155,36 +185,6 @@ Conjunto Feminino Plus Size Elegante Fresquinho Calça Pantalona e Blu…
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/AAHTMEiD0T
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 6 — Ofertas Pet
-
-**Canal recomendado:** Ofertas Pet
-
-**Horário sugerido:** 17:00 - 20:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
-
-**Texto pronto:**
-
-```txt
-🐶 Oferta para Ofertas Pet
-
-Repetidor Wi-Fi Potente 4 Antenas
-
-💸 De: R$ 90,14
-🔥 Por: R$ 64,90
-🏷️ 28% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/4fwXjpIrbz
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

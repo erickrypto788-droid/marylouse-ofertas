@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 27/09/2026 12:03
+Gerado em: 27/09/2026 12:19
 
 ## Categorias prioritárias
 
@@ -9,10 +9,10 @@ Gerado em: 27/09/2026 12:03
 - 💄 **Beleza**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🐶 **Pet**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 🍼 **Mãe e Bebê**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 💻 **Informática**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 🏋️ **Esportes**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 💻 **Informática**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 
 ## Top ofertas para destacar
@@ -38,54 +38,54 @@ Gerado em: 27/09/2026 12:03
    - Desconto: 77% OFF
    - Link: https://s.shopee.com.br/4qFvsOA1vE
 
-4. **Mochila Notebook Resistente à Água**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 27,99
-   - Desconto: 65% OFF
-   - Link: https://s.shopee.com.br/gQNVocpE7
-
-5. **SSD SATA III de Alta Velocidade**
+4. **SSD SATA III de Alta Velocidade**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 68,49
    - Desconto: 39% OFF
    - Link: https://s.shopee.com.br/2LYcxXIsYN
 
-6. **Estojo Maquiagem Infantil Coração My Life**
+5. **Estojo Maquiagem Infantil Coração My Life**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 19,25
    - Desconto: 36% OFF
    - Link: https://s.shopee.com.br/AUuJI0luF2
 
-7. **Lenços Pampers Carícia de Bebê 576 unid.**
+6. **Lenços Pampers Carícia de Bebê 576 unid.**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 99,90
    - Desconto: 35% OFF
    - Link: https://s.shopee.com.br/6L4lSOlRxT
 
-8. **Panela de Pressão 4,5L Antiaderente**
+7. **Panela de Pressão 4,5L Antiaderente**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 133,90
    - Desconto: 42% OFF
    - Link: https://s.shopee.com.br/60Ruf6bWxk
 
-9. **Amplificador De Imagem Da Tela Do Celular Lupa 3D 21,6CM*16,6CM*2,7CM…**
+8. **Amplificador De Imagem Da Tela Do Celular Lupa 3D 21,6CM*16,6CM*2,7CM…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 17,99
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/60RqbibSYF
 
-10. **Adaptador USB-C Hub Leitor Cartão**
+9. **Adaptador USB-C Hub Leitor Cartão**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 17,90
    - Desconto: 52% OFF
    - Link: https://s.shopee.com.br/4LJg0nphfo
+
+10. **MousePad Rosa Gamer/Office**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 20,90
+   - Desconto: 50% OFF
+   - Link: https://s.shopee.com.br/30oIQLha2r
 
 ## Ações gratuitas recomendadas
 

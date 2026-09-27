@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 27/09/2026 00:21
+Gerado em: 27/09/2026 01:21
 
 ## Como usar
 
@@ -42,7 +42,37 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 2 — Casa e Cozinha
+## Post 2 — Beleza e Cuidados
+
+**Canal recomendado:** Beleza e Cuidados
+
+**Horário sugerido:** 12:00 - 15:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
+
+**Texto pronto:**
+
+```txt
+💄 Oferta para Beleza e Cuidados
+
+Escova Secadora 3 em 1 Profissional
+
+💸 De: R$ 199,97
+🔥 Por: R$ 77,99
+🏷️ 61% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/5q8UWsFA34
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 3 — Casa e Cozinha
 
 **Canal recomendado:** Casa e Cozinha
 
@@ -65,36 +95,6 @@ Panela de Pressão 4,5L Antiaderente
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/60Ruf6bWxk
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 3 — Beleza e Cuidados
-
-**Canal recomendado:** Beleza e Cuidados
-
-**Horário sugerido:** 12:00 - 15:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
-
-**Texto pronto:**
-
-```txt
-💄 Oferta para Beleza e Cuidados
-
-Perfume Árabe Masculino Asad/Sara Bourbon Eau De Parfum 100ML
-
-💸 De: R$ 199,96
-🔥 Por: R$ 99,98
-🏷️ 50% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/1VzU2VEI25
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

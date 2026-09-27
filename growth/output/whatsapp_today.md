@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 27/09/2026 20:22
+Gerado em: 27/09/2026 21:21
 
 ## Como usar
 
@@ -147,14 +147,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
 ```txt
 🍼 Oferta para Mamãe e Bebê
 
-Ninho Redutor de Berço c/ Mosquiteiro
+Kit 5 Regatas Bebê
 
-💸 De: R$ 209,65
-🔥 Por: R$ 64,99
-🏷️ 69% OFF
+💸 De: R$ 81,05
+🔥 Por: R$ 29,99
+🏷️ 63% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/2BFCUk9ySW
+Ver oferta: https://s.shopee.com.br/4B0HsDq8ou
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

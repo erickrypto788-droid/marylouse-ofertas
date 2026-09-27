@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 27/09/2026 20:22
+Gerado em: 27/09/2026 21:21
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 27/09/2026 20:22
 
 **Produtos usados:**
 
+- Kit 5 Regatas Bebê
 - Ninho Redutor de Berço c/ Mosquiteiro
 - Azul escova limpeza mamadeira kit para limpeza de mamadeira kit limpe…
-- Lenços Pampers Carícia de Bebê 576 unid.
 
 ---
 

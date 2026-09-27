@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 27/09/2026 00:05
+Gerado em: 27/09/2026 00:21
 
 ## Como usar
 
@@ -57,14 +57,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
 ```txt
 🍳 Oferta para Casa e Cozinha
 
-Mini Panela elétrica （110V / 220V）
+Panela de Pressão 4,5L Antiaderente
 
-💸 De: R$ 99,80
-🔥 Por: R$ 58,88
-🏷️ 41% OFF
+💸 De: R$ 230,86
+🔥 Por: R$ 133,90
+🏷️ 42% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/5LCCXQxFPz
+Ver oferta: https://s.shopee.com.br/60Ruf6bWxk
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

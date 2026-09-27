@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 27/09/2026 00:05
+Gerado em: 27/09/2026 00:21
 
 ## Categorias prioritárias
 
 - 👟 **Calçados**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 📱 **Celulares**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
-- ✨ **Moda Plus Size**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
 - 📦 **Outros**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 🐶 **Pet**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 🍼 **Mãe e Bebê**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 📚 **Papelaria**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 - 💄 **Beleza**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 🍳 **Casa e Cozinha**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 💻 **Informática**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 👕 **Moda Masculina**: 4 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
+- ✨ **Moda Plus Size**: 4 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
 
 ## Top ofertas para destacar
 
@@ -45,47 +45,47 @@ Gerado em: 27/09/2026 00:05
    - Desconto: 50% OFF
    - Link: https://s.shopee.com.br/1VzU2VEI25
 
-5. **Amplificador De Imagem Da Tela Do Celular Lupa 3D 21,6CM*16,6CM*2,7CM…**
+5. **Panela de Pressão 4,5L Antiaderente**
+   - Categoria: Casa e Cozinha
+   - Loja: Shopee
+   - Preço: R$ 133,90
+   - Desconto: 42% OFF
+   - Link: https://s.shopee.com.br/60Ruf6bWxk
+
+6. **Amplificador De Imagem Da Tela Do Celular Lupa 3D 21,6CM*16,6CM*2,7CM…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 17,99
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/60RqbibSYF
 
-6. **Kit 3 Perfumes Malbec Masculino Importado Aroma Marcante Essência Al…**
+7. **Kit 3 Perfumes Malbec Masculino Importado Aroma Marcante Essência Al…**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 35,90
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/1BMddtFYhz
 
-7. **Mini Panela elétrica （110V / 220V）**
+8. **Mini Panela elétrica （110V / 220V）**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 58,88
    - Desconto: 41% OFF
    - Link: https://s.shopee.com.br/5LCCXQxFPz
 
-8. **Monitor Gamer Mancer Horizon Z Pro, 23.8 Pol, IPS, FHD, 1ms, 144Hz, H…**
+9. **Monitor Gamer Mancer Horizon Z Pro, 23.8 Pol, IPS, FHD, 1ms, 144Hz, H…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 572,60
    - Desconto: 58% OFF
    - Link: https://s.shopee.com.br/3qNPPsifdL
 
-9. **Berço Portátil 3 em 1 com Mosquiteiro**
+10. **Berço Portátil 3 em 1 com Mosquiteiro**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 541,79
    - Desconto: 68% OFF
    - Link: https://s.shopee.com.br/1qcI6uUDNI
-
-10. **Oxímetro de Dedo Digital Portátil**
-   - Categoria: Saúde
-   - Loja: Shopee
-   - Preço: R$ 31,99
-   - Desconto: 57% OFF
-   - Link: https://s.shopee.com.br/6VOAGB0Slh
 
 ## Ações gratuitas recomendadas
 

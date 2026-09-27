@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 27/09/2026 02:03
+Gerado em: 27/09/2026 02:21
 
 ## Como usar
 
@@ -32,7 +32,7 @@ Gerado em: 27/09/2026 02:03
 
 - Berço Portátil 3 em 1 com Mosquiteiro
 - Baby Doll Malha Premium
-- Berço Moisés 5 em 1 Portátil
+- Kit 6 Peças Roupa De Bebê Body Menina Animado Estampado Algodão
 
 ---
 

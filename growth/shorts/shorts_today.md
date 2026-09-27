@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 27/09/2026 05:20
+Gerado em: 27/09/2026 06:22
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 27/09/2026 05:20
 
 **Produtos usados:**
 
+- Ninho Redutor de Berço c/ Mosquiteiro
 - Azul escova limpeza mamadeira kit para limpeza de mamadeira kit limpe…
 - Berço Portátil 3 em 1 com Mosquiteiro
-- Baby Doll Malha Premium
 
 ---
 

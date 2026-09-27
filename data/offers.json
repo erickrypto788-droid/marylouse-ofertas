@@ -1,5 +1,89 @@
 [
   {
+    "id": "f5fff87c825d2ec5b3",
+    "title": "Micro-ondas Electrolux 20L Inox MT30S",
+    "raw_title": "Micro-ondas Electrolux 20L cor Inox Espelhado com Função Tira Odor (MT30S)",
+    "description": "🚨 OFERTA IMPERDÍVEL! 🚨 Micro-ondas Electrolux 20L Inox Espelhado com Função Tira Odor (MT30S)! ✨ Modernidade e eficiência para sua cozinha. Diga adeus a...",
+    "marketplace": "Shopee",
+    "category": "Eletrodomésticos",
+    "old_price": "R$ 629,76",
+    "price": "R$ 529,00",
+    "discount_percent": 16.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-81zv2-mimr97xprbi923",
+    "affiliate_url": "https://s.shopee.com.br/8fSfq0RJFm",
+    "created_at": "27/09/2026 00:19",
+    "created_at_iso": "2026-09-27T00:19:46",
+    "created_ts": 1790468386,
+    "niche": {
+      "key": "shopee_eletrodomesticos",
+      "name": "Eletrodomésticos"
+    }
+  },
+  {
+    "id": "c35f6e36b893fa8c94",
+    "title": "Cafeteira Philco 15 Cafezinhos 550W 600ml PCFE01",
+    "raw_title": "Cafeteira Philco 15 Cafezinhos 550W 600ml PCFE01",
+    "description": "🔥 29% OFF — Oferta encontrada! 📌 Cafeteira Philco 15 Cafezinhos 550W 600ml PCFE01 Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Shopee",
+    "category": "Eletrodomésticos",
+    "old_price": "R$ 140,70",
+    "price": "R$ 99,90",
+    "discount_percent": 29.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-825ar-mt8f99v8fv9k8b",
+    "affiliate_url": "https://s.shopee.com.br/8KppROFNd9",
+    "created_at": "27/09/2026 00:18",
+    "created_at_iso": "2026-09-27T00:18:38",
+    "created_ts": 1790468318,
+    "niche": {
+      "key": "shopee_eletrodomesticos",
+      "name": "Eletrodomésticos"
+    }
+  },
+  {
+    "id": "30b96668f989d81a7b",
+    "title": "Espremedor Elétrico Industrial Inox p/ Suco de Laranja, Limão e Fruta…",
+    "raw_title": "Espremedor Elétrico Industrial Inox p/ Suco de Laranja, Limão e Frutas com Copo Incluso",
+    "description": "🔥 63% OFF — Oferta encontrada! 📌 Espremedor Elétrico Industrial Inox p/ Suco de Laranja, Limão e Frutas com Copo Incluso Confira os detalhes e aproveite...",
+    "marketplace": "Shopee",
+    "category": "Eletrodomésticos",
+    "old_price": "R$ 148,62",
+    "price": "R$ 54,99",
+    "discount_percent": 63.0,
+    "rating": 4.5,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7qukw-lj60650831dc5a",
+    "affiliate_url": "https://s.shopee.com.br/9AOwQv80wU",
+    "created_at": "27/09/2026 00:17",
+    "created_at_iso": "2026-09-27T00:17:34",
+    "created_ts": 1790468254,
+    "niche": {
+      "key": "shopee_eletrodomesticos",
+      "name": "Eletrodomésticos"
+    }
+  },
+  {
+    "id": "03733206d0c21c5f81",
+    "title": "Panela de Pressão 4,5L Antiaderente",
+    "raw_title": "Panela Pressão 4,5 Litros Fechamento Externo Antiaderente Teflon Varias Cores Cozimento Rapido",
+    "description": "⚡️ Cozinhe com PRATICIDADE e RAPIDEZ! Chega de perder tempo na cozinha! Com a Panela de Pressão de 4,5 Litros com fechamento externo, seu preparo fica m...",
+    "marketplace": "Shopee",
+    "category": "Eletrodomésticos",
+    "old_price": "R$ 230,86",
+    "price": "R$ 133,90",
+    "discount_percent": 42.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m94ddtqpdgci3b",
+    "affiliate_url": "https://s.shopee.com.br/60Ruf6bWxk",
+    "created_at": "27/09/2026 00:16",
+    "created_at_iso": "2026-09-27T00:16:30",
+    "created_ts": 1790468190,
+    "niche": {
+      "key": "shopee_eletrodomesticos",
+      "name": "Eletrodomésticos"
+    }
+  },
+  {
     "id": "9f7067ec89c25c5e97",
     "title": "Ulefone Note 18 Ultra 256GB 6GB RAM Celular 5G 5450mAh Câmera 50MP Br…",
     "raw_title": "Ulefone Note 18 Ultra 256GB 6GB RAM Celular 5G 5450mAh Câmera 50MP Branco",
@@ -1792,90 +1876,6 @@
     "created_at": "26/09/2026 00:20",
     "created_at_iso": "2026-09-26T00:20:13",
     "created_ts": 1790382013,
-    "niche": {
-      "key": "shopee_roupas_plus_size",
-      "name": "Roupas Plus Size"
-    }
-  },
-  {
-    "id": "7ab4fedc090a2d6d83",
-    "title": "Vestido rodado Plus Size manga fler com a faixa Suplex Digital 44/4…",
-    "raw_title": "Vestido rodado Plus Size manga fler com a faixa Suplex Digital 44/46/48/50/52 g gg g1 g2",
-    "description": "🔥 10% OFF — Oferta encontrada! 📌 Vestido rodado Plus Size manga fler com a faixa Suplex Digital 44/46/48/50/52 g gg g1 g2 Confira os detalhes e aproveit...",
-    "marketplace": "Shopee",
-    "category": "Roupas Plus Size",
-    "old_price": "R$ 38,76",
-    "price": "R$ 34,88",
-    "discount_percent": 10.0,
-    "rating": 4.7,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lg-mpt4jxd5rpqbe4",
-    "affiliate_url": "https://s.shopee.com.br/7fa73EaUmx",
-    "created_at": "26/09/2026 00:19",
-    "created_at_iso": "2026-09-26T00:19:09",
-    "created_ts": 1790381949,
-    "niche": {
-      "key": "shopee_roupas_plus_size",
-      "name": "Roupas Plus Size"
-    }
-  },
-  {
-    "id": "294237635bf0833aa5",
-    "title": "Kit Cuecas Boxer Polo Wear",
-    "raw_title": "Kit 5 ou 10 Cuecas Boxer Masculinas Polo Wear Microfibra Leve e Elástico Confortável",
-    "description": "🚨 OFERTA IMPERDÍVEL! Conforto e qualidade para o seu dia a dia! ✨ Garanta já o seu Kit de Cuecas Boxer Polo Wear em microfibra leve e elástico confortáv...",
-    "marketplace": "Shopee",
-    "category": "Roupas Plus Size",
-    "old_price": "R$ 90,00",
-    "price": "R$ 54,90",
-    "discount_percent": 39.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820l7-mogqop0wbp4z84",
-    "affiliate_url": "https://s.shopee.com.br/4B0DYOsNio",
-    "created_at": "26/09/2026 00:18",
-    "created_at_iso": "2026-09-26T00:18:05",
-    "created_ts": 1790381885,
-    "niche": {
-      "key": "shopee_roupas_plus_size",
-      "name": "Roupas Plus Size"
-    }
-  },
-  {
-    "id": "5c09005a8cff18e838",
-    "title": "Calça Plus Size Feminina Social Bengaline",
-    "raw_title": "Calça Plus Size Feminina Social Tecido Bengaline Estica Muito com Bolso e Botões 42 ao 52",
-    "description": "🔥 IMPERDÍVEL! Calça Social Plus Size que ESTICA MUITO! Perfeita para o dia a dia e ocasiões especiais, com tecido bengaline super confortável, bolso e b...",
-    "marketplace": "Shopee",
-    "category": "Roupas Plus Size",
-    "old_price": "R$ 151,16",
-    "price": "R$ 65,00",
-    "discount_percent": 57.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820mc-mpupoizfwcub1d",
-    "affiliate_url": "https://s.shopee.com.br/1Afv9CH73",
-    "created_at": "26/09/2026 00:16",
-    "created_at_iso": "2026-09-26T00:16:56",
-    "created_ts": 1790381816,
-    "niche": {
-      "key": "shopee_roupas_plus_size",
-      "name": "Roupas Plus Size"
-    }
-  },
-  {
-    "id": "fd8283a14c3a6c2199",
-    "title": "Kit 4 Blusas Plus Size Dry Fit Academia",
-    "raw_title": "Kit 4 Blusa Plus Size Camiseta Dry Fit Roupa de Academia Feminina Long Line Tapa Bumbum Curvy +",
-    "description": "💥 IMPERDÍVEL! Kit 4 Blusas Plus Size Dry Fit para Academia! Conforto e estilo para seus treinos! 💪 Este kit com 4 blusas Dry Fit é perfeito para quem bu...",
-    "marketplace": "Shopee",
-    "category": "Roupas Plus Size",
-    "old_price": "R$ 241,61",
-    "price": "R$ 74,90",
-    "discount_percent": 69.0,
-    "rating": 4.7,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj04kq4iby83c7",
-    "affiliate_url": "https://s.shopee.com.br/5AskoMQI47",
-    "created_at": "26/09/2026 00:15",
-    "created_at_iso": "2026-09-26T00:15:48",
-    "created_ts": 1790381748,
     "niche": {
       "key": "shopee_roupas_plus_size",
       "name": "Roupas Plus Size"

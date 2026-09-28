@@ -1,5 +1,39 @@
 [
   {
+    "id": "65bfe529a9aec8fead",
+    "title": "Bike Spinning Ergométrica Cor Preto",
+    "raw_title": "Bike Spinning Ergométrica Cor Preto",
+    "description": "🔥 Oferta encontrada! 📌 Bike Spinning Ergométrica Cor Preto Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Esportes e Lazer",
+    "old_price": "",
+    "price": "R$ 1.789,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_685682-MLU78981825033_092024-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36405300?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "28/09/2026 21:02",
+    "created_at_iso": "2026-09-28T21:02:55",
+    "created_ts": 1790629375
+  },
+  {
+    "id": "ebfc2b6e57465a82ad",
+    "title": "Bike Spinning Kikos Max-ks5",
+    "raw_title": "Bike Spinning Kikos Max-ks5 Preto",
+    "description": "🔥 Sua academia em casa te espera! A Bike Spinning Kikos Max-ks5 Preto é perfeita para você que busca performance e resultados. 💪 Aproveite o frete gráti...",
+    "marketplace": "Mercado Livre",
+    "category": "Esportes e Lazer",
+    "old_price": "",
+    "price": "R$ 2.687,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_651330-MLA100034011273_122025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB18603556?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "28/09/2026 21:01",
+    "created_at_iso": "2026-09-28T21:01:49",
+    "created_ts": 1790629309
+  },
+  {
     "id": "c30a1b67487997664b",
     "title": "Medidor Pressão Digital De Pulso Com Voz Monitor Inteligente,Aparelho…",
     "raw_title": "Medidor Pressão Digital De Pulso Com Voz Monitor Inteligente,Aparelho De Pressão",
@@ -2631,27 +2665,6 @@
     "niche": {
       "key": "shopee_moda_infantil",
       "name": "Moda Infantil"
-    }
-  },
-  {
-    "id": "3fb42bff3b11a38ffa",
-    "title": "Creme Hidratante Facial Principia",
-    "raw_title": "Creme Hidratante Facial 5% Manteiga de Karité + 5% Glicerina + 2% Niacinamida CH-01Principia - 50g",
-    "description": "PELE PERFEITA COM PRINCIPIA! ✨ Hidrate e transforme sua pele com este creme facial completo. Com Manteiga de Karité, Glicerina e Niacinamida, ele é idea...",
-    "marketplace": "Shopee",
-    "category": "Beleza",
-    "old_price": "R$ 42,86",
-    "price": "R$ 39,00",
-    "discount_percent": 9.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-maa1iap089dl6d",
-    "affiliate_url": "https://s.shopee.com.br/2BFDQQqYyc",
-    "created_at": "27/09/2026 20:20",
-    "created_at_iso": "2026-09-27T20:20:22",
-    "created_ts": 1790540422,
-    "niche": {
-      "key": "shopee_beleza",
-      "name": "Beleza"
     }
   }
 ]

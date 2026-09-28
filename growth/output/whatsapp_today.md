@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 28/09/2026 09:05
+Gerado em: 28/09/2026 09:22
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Calça Legging Ausare UV50+ Academia
+Calça Pantalona de Linho
 
-💸 De: R$ 296,00
-🔥 Por: R$ 99,90
-🏷️ 66% OFF
-🛒 Loja: Mercado Livre
+💸 De: R$ 99,97
+🔥 Por: R$ 39,99
+🏷️ 60% OFF
+🛒 Loja: Shopee
 
-Ver oferta: https://www.mercadolivre.com.br/p/MLB69276350?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+Ver oferta: https://s.shopee.com.br/8V9HpdbeiU
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 28/09/2026 02:06
+Gerado em: 28/09/2026 02:22
 
 ## Como usar
 
@@ -147,14 +147,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
 ```txt
 🍼 Oferta para Mamãe e Bebê
 
-Kit 5 Regatas Bebê
+Pampers SuperSec - Escolha o Tamanho (M, G, XG, XXG)
 
-💸 De: R$ 81,05
-🔥 Por: R$ 29,99
-🏷️ 63% OFF
+💸 De: R$ 130,67
+🔥 Por: R$ 98,00
+🏷️ 25% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/4B0HsDq8ou
+Ver oferta: https://s.shopee.com.br/6fhdBPsgGq
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

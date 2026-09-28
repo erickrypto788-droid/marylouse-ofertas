@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 28/09/2026 14:03
+Gerado em: 28/09/2026 14:21
 
 ## Categorias prioritárias
 
 - 👟 **Calçados**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 💻 **Informática**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 🍼 **Mãe e Bebê**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 👕 **Moda Masculina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
+- 💻 **Informática**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 👗 **Moda Feminina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 🏋️ **Esportes**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
+- 📦 **Outros**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 🐶 **Pet**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - ✨ **Moda Plus Size**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
-- 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
-- 📱 **Celulares**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 👕 **Moda Masculina**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 
 ## Top ofertas para destacar
 
@@ -52,40 +52,40 @@ Gerado em: 28/09/2026 14:03
    - Desconto: 49% OFF
    - Link: https://s.shopee.com.br/7fa9qIQr5R
 
-6. **Ração Gato Estimacat Premium Adulto Sabor Carne 15kg**
+6. **Fone De Ouvido Bluetooth Sem Fio Air Pods Pro 3 Para Android & iOS**
+   - Categoria: Celulares
+   - Loja: Shopee
+   - Preço: R$ 26,99
+   - Desconto: 50% OFF
+   - Link: https://s.shopee.com.br/7KxJRgS7lP
+
+7. **Carregador iPhone Turbo Tipo-C 20W + Cabo Lightining para IPhone Carg…**
+   - Categoria: Celulares
+   - Loja: Shopee
+   - Preço: R$ 23,99
+   - Desconto: 52% OFF
+   - Link: https://s.shopee.com.br/AKawLc7GjA
+
+8. **Fone Bluetooth Pro5 Premium**
+   - Categoria: Celulares
+   - Loja: Shopee
+   - Preço: R$ 66,88
+   - Desconto: 77% OFF
+   - Link: https://s.shopee.com.br/6fhceSUf7D
+
+9. **Ração Gato Estimacat Premium Adulto Sabor Carne 15kg**
    - Categoria: Pet
    - Loja: Mercado Livre
    - Preço: R$ 267,25
    - Desconto: 25% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB66541712?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-7. **Kit Unibaby Garrafas Térmicas**
+10. **Kit Unibaby Garrafas Térmicas**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 64,99
    - Desconto: 57% OFF
    - Link: https://s.shopee.com.br/2BFE9lLbM3
-
-8. **Leitor De Cartão Usb 3.0 Adaptador Micro Sd/sdxc 5gbps Envio Imediato**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 18,99
-   - Desconto: 72% OFF
-   - Link: https://s.shopee.com.br/5fp6G4Rt58
-
-9. **Webcam Câmera Computador Full HD 1080x1920p 2MP USB Plug Play Microfo…**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 28,00
-   - Desconto: 59% OFF
-   - Link: https://s.shopee.com.br/4LJifcbV4e
-
-10. **Kit Teclado e Mouse branco Gamer RGB LED USB ABNT2 Profissional com L…**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 51,90
-   - Desconto: 60% OFF
-   - Link: https://s.shopee.com.br/gQOyTKtPl
 
 ## Ações gratuitas recomendadas
 

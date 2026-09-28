@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 28/09/2026 10:04
+Gerado em: 28/09/2026 10:22
 
 ## Categorias prioritárias
 
-- 💻 **Informática**: 15 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 👗 **Moda Feminina**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
-- 📦 **Outros**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 💻 **Informática**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 👕 **Moda Masculina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 - 🍼 **Mãe e Bebê**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🏋️ **Esportes**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 📦 **Outros**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 👟 **Calçados**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 🐶 **Pet**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 🍳 **Casa e Cozinha**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
-- 💄 **Beleza**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 
 ## Top ofertas para destacar
 
@@ -52,40 +52,40 @@ Gerado em: 28/09/2026 10:04
    - Desconto: 49% OFF
    - Link: https://s.shopee.com.br/7fa9qIQr5R
 
-6. **SSD SATA III de Alta Velocidade**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 68,49
-   - Desconto: 39% OFF
-   - Link: https://s.shopee.com.br/2LYcxXIsYN
-
-7. **Kit Unibaby Garrafas Térmicas**
+6. **Kit Unibaby Garrafas Térmicas**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 64,99
    - Desconto: 57% OFF
    - Link: https://s.shopee.com.br/2BFE9lLbM3
 
-8. **Leitor De Cartão Usb 3.0 Adaptador Micro Sd/sdxc 5gbps Envio Imediato**
+7. **Leitor De Cartão Usb 3.0 Adaptador Micro Sd/sdxc 5gbps Envio Imediato**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 18,99
    - Desconto: 72% OFF
    - Link: https://s.shopee.com.br/5fp6G4Rt58
 
-9. **Webcam Câmera Computador Full HD 1080x1920p 2MP USB Plug Play Microfo…**
+8. **Webcam Câmera Computador Full HD 1080x1920p 2MP USB Plug Play Microfo…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 28,00
    - Desconto: 59% OFF
    - Link: https://s.shopee.com.br/4LJifcbV4e
 
-10. **Kit Teclado e Mouse branco Gamer RGB LED USB ABNT2 Profissional com L…**
+9. **Kit Teclado e Mouse branco Gamer RGB LED USB ABNT2 Profissional com L…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 51,90
    - Desconto: 60% OFF
    - Link: https://s.shopee.com.br/gQOyTKtPl
+
+10. **Porta USB Hub 8 Em 1 Leitor SD Type C Áudio 3.5mm, HDMI 4K, RJ45 Rede…**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 40,30
+   - Desconto: 69% OFF
+   - Link: https://s.shopee.com.br/4Vd8rvWKRk
 
 ## Ações gratuitas recomendadas
 

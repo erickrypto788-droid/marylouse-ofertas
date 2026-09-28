@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 28/09/2026 20:05
+Gerado em: 28/09/2026 20:22
 
 ## Como usar
 
@@ -80,7 +80,7 @@ Gerado em: 28/09/2026 20:05
 
 - Perfume Attracione Feminino by Attracione Woman Mulher
 - Attracione Men (Perfume Masculino com Feromônios Ativados)
-- Escova Secadora Alisador 3 em 1 (110V)
+- Barbeador Costas Masculino Traseiro Dobrável Aparador Pelos
 
 ---
 

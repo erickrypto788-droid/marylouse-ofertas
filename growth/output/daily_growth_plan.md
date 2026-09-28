@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 28/09/2026 15:05
+Gerado em: 28/09/2026 15:21
 
 ## Categorias prioritárias
 
@@ -10,9 +10,9 @@ Gerado em: 28/09/2026 15:05
 - 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 👗 **Moda Feminina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 🏋️ **Esportes**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
+- 🍳 **Casa e Cozinha**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 📦 **Outros**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 🐶 **Pet**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
-- ✨ **Moda Plus Size**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
 - 👕 **Moda Masculina**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 
 ## Top ofertas para destacar
@@ -52,40 +52,40 @@ Gerado em: 28/09/2026 15:05
    - Desconto: 49% OFF
    - Link: https://s.shopee.com.br/7fa9qIQr5R
 
-6. **Fone De Ouvido Bluetooth Sem Fio Air Pods Pro 3 Para Android & iOS**
+6. **Espremedor Elétrico Laranja Limão Frutas Fazer Sucos Recarregável Usb…**
+   - Categoria: Casa e Cozinha
+   - Loja: Shopee
+   - Preço: R$ 61,69
+   - Desconto: 56% OFF
+   - Link: https://s.shopee.com.br/9fLEI5qcte
+
+7. **Fone De Ouvido Bluetooth Sem Fio Air Pods Pro 3 Para Android & iOS**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 26,99
    - Desconto: 50% OFF
    - Link: https://s.shopee.com.br/7KxJRgS7lP
 
-7. **Carregador iPhone Turbo Tipo-C 20W + Cabo Lightining para IPhone Carg…**
+8. **Carregador iPhone Turbo Tipo-C 20W + Cabo Lightining para IPhone Carg…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 23,99
    - Desconto: 52% OFF
    - Link: https://s.shopee.com.br/AKawLc7GjA
 
-8. **Fone Bluetooth Pro5 Premium**
+9. **Fone Bluetooth Pro5 Premium**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 66,88
    - Desconto: 77% OFF
    - Link: https://s.shopee.com.br/6fhceSUf7D
 
-9. **Ração Gato Estimacat Premium Adulto Sabor Carne 15kg**
+10. **Ração Gato Estimacat Premium Adulto Sabor Carne 15kg**
    - Categoria: Pet
    - Loja: Mercado Livre
    - Preço: R$ 267,25
    - Desconto: 25% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB66541712?matt_word=marylouse&matt_tool=50459180&forceInApp=true
-
-10. **Kit Unibaby Garrafas Térmicas**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 64,99
-   - Desconto: 57% OFF
-   - Link: https://s.shopee.com.br/2BFE9lLbM3
 
 ## Ações gratuitas recomendadas
 

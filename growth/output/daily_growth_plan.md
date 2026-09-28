@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 28/09/2026 18:03
+Gerado em: 28/09/2026 18:22
 
 ## Categorias prioritárias
 
 - 🍼 **Mãe e Bebê**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 🏋️ **Esportes**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 💻 **Informática**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 👟 **Calçados**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 💄 **Beleza**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 👗 **Moda Feminina**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
-- 🐶 **Pet**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
-- 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
-- 🏋️ **Esportes**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
+- 🐶 **Pet**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 🍳 **Casa e Cozinha**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
-- 📦 **Outros**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 📚 **Papelaria**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 
 ## Top ofertas para destacar
 
@@ -66,26 +66,26 @@ Gerado em: 28/09/2026 18:03
    - Desconto: 49% OFF
    - Link: https://s.shopee.com.br/8KppROSeE2
 
-8. **Fone de Ouvido Bluetooth 5.0 Sem Fio Headset Bateria de Longa Duração…**
-   - Categoria: Pet
-   - Loja: Shopee
-   - Preço: R$ 40,99
-   - Desconto: 49% OFF
-   - Link: https://s.shopee.com.br/7fa9qIQr5R
-
-9. **Kit Body Splash Dolce + Florata Red 200ml Feminino.**
+8. **Kit Body Splash Dolce + Florata Red 200ml Feminino.**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 42,90
    - Desconto: 57% OFF
    - Link: https://s.shopee.com.br/30oKPxVvda
 
-10. **Espremedor Elétrico Laranja Limão Frutas Fazer Sucos Recarregável Usb…**
+9. **Espremedor Elétrico Laranja Limão Frutas Fazer Sucos Recarregável Usb…**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 61,69
    - Desconto: 56% OFF
    - Link: https://s.shopee.com.br/9fLEI5qcte
+
+10. **Fone De Ouvido Bluetooth Sem Fio Air Pods Pro 3 Para Android & iOS**
+   - Categoria: Celulares
+   - Loja: Shopee
+   - Preço: R$ 26,99
+   - Desconto: 50% OFF
+   - Link: https://s.shopee.com.br/7KxJRgS7lP
 
 ## Ações gratuitas recomendadas
 

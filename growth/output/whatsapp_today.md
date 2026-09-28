@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 28/09/2026 18:03
+Gerado em: 28/09/2026 18:22
 
 ## Como usar
 
@@ -102,37 +102,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Ofertas Pet
-
-**Canal recomendado:** Ofertas Pet
-
-**Horário sugerido:** 17:00 - 20:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
-
-**Texto pronto:**
-
-```txt
-🐶 Oferta para Ofertas Pet
-
-Fone de Ouvido Bluetooth 5.0 Sem Fio Headset Bateria de Longa Duração…
-
-💸 De: R$ 80,37
-🔥 Por: R$ 40,99
-🏷️ 49% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/7fa9qIQr5R
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 5 — Mamãe e Bebê
+## Post 4 — Mamãe e Bebê
 
 **Canal recomendado:** Mamãe e Bebê
 
@@ -162,7 +132,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 6 — Moda Feminina
+## Post 5 — Moda Feminina
 
 **Canal recomendado:** Moda Feminina
 
@@ -185,6 +155,36 @@ Calça Pantalona de Linho
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/8V9HpdbeiU
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 6 — Ofertas Pet
+
+**Canal recomendado:** Ofertas Pet
+
+**Horário sugerido:** 17:00 - 20:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
+
+**Texto pronto:**
+
+```txt
+🐶 Oferta para Ofertas Pet
+
+Ração Gato Estimacat Premium Adulto Sabor Carne 15kg
+
+💸 De: R$ 356,33
+🔥 Por: R$ 267,25
+🏷️ 25% OFF
+🛒 Loja: Mercado Livre
+
+Ver oferta: https://www.mercadolivre.com.br/p/MLB66541712?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

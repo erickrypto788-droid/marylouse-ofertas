@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 28/09/2026 12:19
+Gerado em: 28/09/2026 13:03
 
 ## Categorias prioritárias
 
@@ -10,9 +10,9 @@ Gerado em: 28/09/2026 12:19
 - 👕 **Moda Masculina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 - 🍼 **Mãe e Bebê**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🏋️ **Esportes**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
+- 🐶 **Pet**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - ✨ **Moda Plus Size**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
 - 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
-- 🐶 **Pet**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 📱 **Celulares**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 
 ## Top ofertas para destacar
@@ -52,40 +52,40 @@ Gerado em: 28/09/2026 12:19
    - Desconto: 49% OFF
    - Link: https://s.shopee.com.br/7fa9qIQr5R
 
-6. **Kit Unibaby Garrafas Térmicas**
+6. **Ração Gato Estimacat Premium Adulto Sabor Carne 15kg**
+   - Categoria: Pet
+   - Loja: Mercado Livre
+   - Preço: R$ 267,25
+   - Desconto: 25% OFF
+   - Link: https://www.mercadolivre.com.br/p/MLB66541712?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+7. **Kit Unibaby Garrafas Térmicas**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 64,99
    - Desconto: 57% OFF
    - Link: https://s.shopee.com.br/2BFE9lLbM3
 
-7. **Leitor De Cartão Usb 3.0 Adaptador Micro Sd/sdxc 5gbps Envio Imediato**
+8. **Leitor De Cartão Usb 3.0 Adaptador Micro Sd/sdxc 5gbps Envio Imediato**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 18,99
    - Desconto: 72% OFF
    - Link: https://s.shopee.com.br/5fp6G4Rt58
 
-8. **Webcam Câmera Computador Full HD 1080x1920p 2MP USB Plug Play Microfo…**
+9. **Webcam Câmera Computador Full HD 1080x1920p 2MP USB Plug Play Microfo…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 28,00
    - Desconto: 59% OFF
    - Link: https://s.shopee.com.br/4LJifcbV4e
 
-9. **Kit Teclado e Mouse branco Gamer RGB LED USB ABNT2 Profissional com L…**
+10. **Kit Teclado e Mouse branco Gamer RGB LED USB ABNT2 Profissional com L…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 51,90
    - Desconto: 60% OFF
    - Link: https://s.shopee.com.br/gQOyTKtPl
-
-10. **Porta USB Hub 8 Em 1 Leitor SD Type C Áudio 3.5mm, HDMI 4K, RJ45 Rede…**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 40,30
-   - Desconto: 69% OFF
-   - Link: https://s.shopee.com.br/4Vd8rvWKRk
 
 ## Ações gratuitas recomendadas
 

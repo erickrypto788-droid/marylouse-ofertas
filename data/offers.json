@@ -1,5 +1,39 @@
 [
   {
+    "id": "c349d13972d9b6ea2d",
+    "title": "Smartphone Xiaomi Redmi 15c 256gb Global Azul",
+    "raw_title": "Smartphone Xiaomi Redmi 15c 256gb Global Azul",
+    "description": "🔥 Oferta encontrada! 📌 Smartphone Xiaomi Redmi 15c 256gb Global Azul Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "",
+    "price": "R$ 1.165,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_748348-MLA96267396954_102025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB61421090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "28/09/2026 10:03",
+    "created_at_iso": "2026-09-28T10:03:17",
+    "created_ts": 1790589797
+  },
+  {
+    "id": "fb9f896e442b5a8de3",
+    "title": "Smartphone Xiaomi 15 5g 16gb/512gb Preto",
+    "raw_title": "Smartphone Xiaomi 15 5g 16gb/512gb Preto",
+    "description": "🔥 Oferta encontrada! 📌 Smartphone Xiaomi 15 5g 16gb/512gb Preto Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "",
+    "price": "R$ 1.000,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_940711-MLA105870367984_022026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65214612?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "28/09/2026 10:02",
+    "created_at_iso": "2026-09-28T10:02:13",
+    "created_ts": 1790589733
+  },
+  {
     "id": "662519c94c32083f56",
     "title": "Kit 24 Meias 100% Algodão Unissex",
     "raw_title": "Vários modelos com Kit de 24 meia cano alto 100% algodão soquete Cano Curto Masculina Feminina Unissex direto da fabrica",
@@ -2358,26 +2392,5 @@
     "created_at": "27/09/2026 10:15",
     "created_at_iso": "2026-09-27T10:15:57",
     "created_ts": 1790504157
-  },
-  {
-    "id": "3bcea870d1cd3a148e",
-    "title": "Kit 40 Placas Capa Agenda A5+",
-    "raw_title": "Kit 40 Placas Capa Agenda A5+ 15,5x21,5cm Papelão Paraná 1,7mm",
-    "description": "Crie agendas incríveis! 🤩 Kit 40 Placas Capa Agenda A5+ em Papelão Paraná 1,7mm. Ideal para seus projetos de encadernação, agendas personalizadas e plan...",
-    "marketplace": "Shopee",
-    "category": "Papelaria",
-    "old_price": "R$ 49,85",
-    "price": "R$ 32,90",
-    "discount_percent": 34.0,
-    "rating": 5.0,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lf-moseu0h9ntvpf8",
-    "affiliate_url": "https://s.shopee.com.br/8pm5Ix5RwC",
-    "created_at": "27/09/2026 09:20",
-    "created_at_iso": "2026-09-27T09:20:39",
-    "created_ts": 1790500839,
-    "niche": {
-      "key": "shopee_papelaria",
-      "name": "Papelaria"
-    }
   }
 ]

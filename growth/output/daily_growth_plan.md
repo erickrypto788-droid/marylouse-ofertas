@@ -1,91 +1,91 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 28/09/2026 04:05
+Gerado em: 28/09/2026 04:18
 
 ## Categorias prioritárias
 
 - 🍼 **Mãe e Bebê**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🏋️ **Esportes**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 🧸 **Brinquedos**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 👗 **Moda Feminina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
+- 👟 **Calçados**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 💻 **Informática**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 🧸 **Brinquedos**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 💄 **Beleza**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 💻 **Informática**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 🐶 **Pet**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
-- 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - ❤️ **Saúde**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 
 ## Top ofertas para destacar
 
-1. **Escova Secadora Alisador 3 em 1 (110V)**
+1. **Mochila CHL Notebook Premium**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 39,99
+   - Desconto: 55% OFF
+   - Link: https://s.shopee.com.br/AKavgP5UPT
+
+2. **Escova Secadora Alisador 3 em 1 (110V)**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 42,99
    - Desconto: 86% OFF
    - Link: https://s.shopee.com.br/gQPdfjDCV
 
-2. **Kit Reparo Tela Smartphone**
+3. **Kit Reparo Tela Smartphone**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 18,99
    - Desconto: 68% OFF
    - Link: https://s.shopee.com.br/9KiNpLyiaw
 
-3. **Panela de Pressão Panelux 4,5L**
+4. **Panela de Pressão Panelux 4,5L**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 58,90
    - Desconto: 49% OFF
    - Link: https://s.shopee.com.br/8KppROSeE2
 
-4. **Fone de Ouvido Bluetooth 5.0 Sem Fio Headset Bateria de Longa Duração…**
+5. **Fone de Ouvido Bluetooth 5.0 Sem Fio Headset Bateria de Longa Duração…**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 40,99
    - Desconto: 49% OFF
    - Link: https://s.shopee.com.br/7fa9qIQr5R
 
-5. **SSD SATA III de Alta Velocidade**
+6. **SSD SATA III de Alta Velocidade**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 68,49
    - Desconto: 39% OFF
    - Link: https://s.shopee.com.br/2LYcxXIsYN
 
-6. **Estojo Maquiagem Infantil Coração My Life**
+7. **Estojo Maquiagem Infantil Coração My Life**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 19,25
    - Desconto: 36% OFF
    - Link: https://s.shopee.com.br/AUuJI0luF2
 
-7. **Lenços Pampers Carícia de Bebê 576 unid.**
+8. **Lenços Pampers Carícia de Bebê 576 unid.**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 99,90
    - Desconto: 35% OFF
    - Link: https://s.shopee.com.br/6L4lSOlRxT
 
-8. **ROMANTIC CROWN Mochla de Viagem MascuIino e Feminina ImpermeaveI Refo…**
+9. **ROMANTIC CROWN Mochla de Viagem MascuIino e Feminina ImpermeaveI Refo…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 119,98
    - Desconto: 83% OFF
    - Link: https://s.shopee.com.br/8AWR2IFoju
 
-9. **Pampers SuperSec - Escolha o Tamanho (M, G, XG, XXG)**
+10. **Pampers SuperSec - Escolha o Tamanho (M, G, XG, XXG)**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 98,00
    - Desconto: 25% OFF
    - Link: https://s.shopee.com.br/6fhdBPsgGq
-
-10. **Ninho Redutor de Berço Liso e Trocador Portátil Impermeável**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 45,90
-   - Desconto: 67% OFF
-   - Link: https://s.shopee.com.br/1gIvtpBsTX
 
 ## Ações gratuitas recomendadas
 

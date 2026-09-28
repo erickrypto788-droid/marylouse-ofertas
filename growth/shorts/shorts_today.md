@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 28/09/2026 21:04
+Gerado em: 28/09/2026 21:22
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 28/09/2026 21:04
 
 **Produtos usados:**
 
-- Ninho Redutor de Berço Liso e Trocador Portátil Impermeável
-- Kit 5 Regatas Bebê
-- Fralda Huggies Jumbinho M - 36 Unidades
+- Toalha de Banho Fralda Soft com Capuz para Bebê OU Kit com 2, 3 ou…
+- NINHO REDUTOR DE BERÇO | COM ZIPER E LAÇO | TROCADOR PORTÁTIL |…
+- Berço Portátil Moises Co-bed Com Balanço Mosquiteiro e Cesto Regulage…
 
 ---
 

@@ -1,13 +1,13 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 28/09/2026 21:04
+Gerado em: 28/09/2026 21:22
 
 ## Categorias prioritárias
 
+- 🍼 **Mãe e Bebê**: 18 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🏋️ **Esportes**: 16 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 🍼 **Mãe e Bebê**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 💻 **Informática**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 👟 **Calçados**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 👟 **Calçados**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - ❤️ **Saúde**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 👗 **Moda Feminina**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 🧸 **Brinquedos**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
@@ -38,54 +38,54 @@ Gerado em: 28/09/2026 21:04
    - Desconto: 55% OFF
    - Link: https://s.shopee.com.br/AKavgP5UPT
 
-4. **Jogo de Panelas 5 Peças Preto**
+4. **Toalha de Banho Fralda Soft com Capuz para Bebê OU Kit com 2, 3 ou…**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 31,99
+   - Desconto: 47% OFF
+   - Link: https://s.shopee.com.br/3qNT4VeB6u
+
+5. **Jogo de Panelas 5 Peças Preto**
    - Categoria: Casa e Cozinha
    - Loja: Mercado Livre
    - Preço: R$ 164,80
    - Desconto: 30% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB50984468?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-5. **Fralda Huggies Jumbinho M - 36 Unidades**
+6. **Fralda Huggies Jumbinho M - 36 Unidades**
    - Categoria: Mãe e Bebê
    - Loja: Mercado Livre
    - Preço: R$ 42,90
    - Desconto: 35% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB25251850?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-6. **Medidor Pressão Digital De Pulso Com Voz Monitor Inteligente,Aparelho…**
+7. **Kit de 3 Lençol Cercado De Bebê Chiqueirinho com elástico Percal 400…**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 31,68
+   - Desconto: 52% OFF
+   - Link: https://s.shopee.com.br/9V1povj4WH
+
+8. **NINHO REDUTOR DE BERÇO | COM ZIPER E LAÇO | TROCADOR PORTÁTIL |…**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 43,90
+   - Desconto: 69% OFF
+   - Link: https://s.shopee.com.br/9fLG1EiRBK
+
+9. **Berço Portátil Moises Co-bed Com Balanço Mosquiteiro e Cesto Regulage…**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 519,49
+   - Desconto: 71% OFF
+   - Link: https://s.shopee.com.br/905ZE0kyX8
+
+10. **Medidor Pressão Digital De Pulso Com Voz Monitor Inteligente,Aparelho…**
    - Categoria: Saúde
    - Loja: Shopee
    - Preço: R$ 38,89
    - Desconto: 51% OFF
    - Link: https://s.shopee.com.br/7VGlN7fhiB
-
-7. **Medidor de Pressão Digital de Braço Automático Monitor Cardíaco LCD c…**
-   - Categoria: Saúde
-   - Loja: Shopee
-   - Preço: R$ 38,99
-   - Desconto: 61% OFF
-   - Link: https://s.shopee.com.br/9peg9PWoyn
-
-8. **Termômetro Digital Infravermelho**
-   - Categoria: Saúde
-   - Loja: Shopee
-   - Preço: R$ 26,89
-   - Desconto: 78% OFF
-   - Link: https://s.shopee.com.br/1Lg6lVAOid
-
-9. **Monitor de Pressão Arterial de Pulso**
-   - Categoria: Saúde
-   - Loja: Shopee
-   - Preço: R$ 39,89
-   - Desconto: 80% OFF
-   - Link: https://s.shopee.com.br/7faBZQf4NA
-
-10. **Kit Body Splash Dolce + Florata Red 200ml Feminino.**
-   - Categoria: Beleza
-   - Loja: Shopee
-   - Preço: R$ 42,90
-   - Desconto: 57% OFF
-   - Link: https://s.shopee.com.br/30oKPxVvda
 
 ## Ações gratuitas recomendadas
 

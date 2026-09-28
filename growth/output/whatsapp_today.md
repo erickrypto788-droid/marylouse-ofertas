@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 28/09/2026 21:04
+Gerado em: 28/09/2026 21:22
 
 ## Como usar
 
@@ -57,14 +57,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
 ```txt
 🍼 Oferta para Mamãe e Bebê
 
-Fralda Huggies Jumbinho M - 36 Unidades
+Toalha de Banho Fralda Soft com Capuz para Bebê OU Kit com 2, 3 ou…
 
-💸 De: R$ 65,90
-🔥 Por: R$ 42,90
-🏷️ 35% OFF
-🛒 Loja: Mercado Livre
+💸 De: R$ 60,36
+🔥 Por: R$ 31,99
+🏷️ 47% OFF
+🛒 Loja: Shopee
 
-Ver oferta: https://www.mercadolivre.com.br/p/MLB25251850?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+Ver oferta: https://s.shopee.com.br/3qNT4VeB6u
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

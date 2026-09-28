@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 28/09/2026 01:09
+Gerado em: 28/09/2026 01:20
 
 ## Como usar
 
@@ -79,8 +79,8 @@ Gerado em: 28/09/2026 01:09
 **Produtos usados:**
 
 - Escova Secadora Alisador 3 em 1 (110V)
-- Escova Secadora 3 em 1 Profissional
-- GOKOCO Secador de Cabelo de Alta Velocidade Secador de Cabelo Profiss…
+- Pente Elétrico Alisador Cabelo Aquecimento Milti-fucional Prancha Ali…
+- Kit Body Splash Masculino Malbeck
 
 ---
 

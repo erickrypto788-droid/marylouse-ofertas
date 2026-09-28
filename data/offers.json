@@ -1,5 +1,47 @@
 [
   {
+    "id": "8c5e652938a7b85038",
+    "title": "Kit 2 Tênis + Acessórios Masculinos",
+    "raw_title": "Kit 2 Tênis Masculino Polo Fran Sapatênis Básico Casual Com Carteira Cinto e Relógio London",
+    "description": "ESTILO COMPLETO com precinho imperdível! 🚀 Renove seu visual com este Kit 2 Tênis Masculino Polo Fran Sapatênis Básico Casual, que ainda vem com Carteir...",
+    "marketplace": "Shopee",
+    "category": "Bolsas Masculinas",
+    "old_price": "R$ 140,18",
+    "price": "R$ 79,90",
+    "discount_percent": 43.0,
+    "rating": 4.6,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98p-ll9k0xrw95jfef",
+    "affiliate_url": "https://s.shopee.com.br/LnZm1qDkl",
+    "created_at": "28/09/2026 04:17",
+    "created_at_iso": "2026-09-28T04:17:03",
+    "created_ts": 1790569023,
+    "niche": {
+      "key": "shopee_bolsas_masculinas",
+      "name": "Bolsas Masculinas"
+    }
+  },
+  {
+    "id": "c77449a0bfd0e3ff36",
+    "title": "Mochila CHL Notebook Premium",
+    "raw_title": "Mochila CHL Bolsa Reforçada Notebook Impermeavel Material Premium Colorido Excecultivo 888",
+    "description": "🚨 OFERTA RELÂMPAGO! Mochila CHL Premium 55% OFF! 🚨 Garanta a sua Mochila CHL Reforçada, Impermeável e com Material Premium para Notebook. Ideal para tra...",
+    "marketplace": "Shopee",
+    "category": "Bolsas Masculinas",
+    "old_price": "R$ 88,87",
+    "price": "R$ 39,99",
+    "discount_percent": 55.0,
+    "rating": 4.6,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7rdvs-md7i52pbyqt8c2",
+    "affiliate_url": "https://s.shopee.com.br/AKavgP5UPT",
+    "created_at": "28/09/2026 04:15",
+    "created_at_iso": "2026-09-28T04:15:55",
+    "created_ts": 1790568955,
+    "niche": {
+      "key": "shopee_bolsas_masculinas",
+      "name": "Bolsas Masculinas"
+    }
+  },
+  {
     "id": "310ee793719a594681",
     "title": "Luva Academia Esporte Neoprene Academia Luva Proteção Preto Lisa Unico",
     "raw_title": "Luva Academia Esporte Neoprene Academia Luva Proteção Preto Lisa Unico",
@@ -2307,48 +2349,6 @@
     "created_at": "27/09/2026 04:18",
     "created_at_iso": "2026-09-27T04:18:03",
     "created_ts": 1790482683,
-    "niche": {
-      "key": "shopee_brinquedos_hobbies",
-      "name": "Brinquedos e Hobbies"
-    }
-  },
-  {
-    "id": "de9d5e11e02eda9b6b",
-    "title": "Miniatura Fusca Volkswagen 1:32 Carrinho Metal Abre Capô e Portas Fri…",
-    "raw_title": "Miniatura Fusca Volkswagen 1:32 Carrinho Metal Abre Capô e Portas Fricção Coleção 12cm",
-    "description": "🔥 54% OFF — Oferta encontrada! 📌 Miniatura Fusca Volkswagen 1:32 Carrinho Metal Abre Capô e Portas Fricção Coleção 12cm Confira os detalhes e aproveite...",
-    "marketplace": "Shopee",
-    "category": "Brinquedos e Hobbies",
-    "old_price": "R$ 49,98",
-    "price": "R$ 22,99",
-    "discount_percent": 54.0,
-    "rating": 4.6,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m9-mrz9y1jw8nba8c",
-    "affiliate_url": "https://s.shopee.com.br/4B0GkAtKSV",
-    "created_at": "27/09/2026 04:16",
-    "created_at_iso": "2026-09-27T04:16:54",
-    "created_ts": 1790482614,
-    "niche": {
-      "key": "shopee_brinquedos_hobbies",
-      "name": "Brinquedos e Hobbies"
-    }
-  },
-  {
-    "id": "6b08eeb9c68be24aaf",
-    "title": "Barraca Infantil Casinha",
-    "raw_title": "Barraca Infantil Menina Tenda Minha Casinha",
-    "description": "✨ Crie um mundo de magia para sua pequena! A Barraca Infantil Menina Tenda Minha Casinha é o refúgio perfeito para brincadeiras e sonhos. 💖 🎁 Não perca...",
-    "marketplace": "Shopee",
-    "category": "Brinquedos e Hobbies",
-    "old_price": "R$ 159,34",
-    "price": "R$ 55,77",
-    "discount_percent": 65.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-md2b8ko2fn0217",
-    "affiliate_url": "https://s.shopee.com.br/9pedUaGE5R",
-    "created_at": "27/09/2026 04:15",
-    "created_at_iso": "2026-09-27T04:15:50",
-    "created_ts": 1790482550,
     "niche": {
       "key": "shopee_brinquedos_hobbies",
       "name": "Brinquedos e Hobbies"

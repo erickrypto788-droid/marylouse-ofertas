@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 28/09/2026 16:05
+Gerado em: 28/09/2026 16:22
 
 ## Como usar
 
@@ -57,14 +57,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
 ```txt
 💄 Oferta para Beleza e Cuidados
 
-Escova Secadora Alisador 3 em 1 (110V)
+Perfume Attracione Feminino by Attracione Woman Mulher
 
-💸 De: R$ 307,07
-🔥 Por: R$ 42,99
-🏷️ 86% OFF
+💸 De: R$ 176,00
+🔥 Por: R$ 44,00
+🏷️ 75% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/gQPdfjDCV
+Ver oferta: https://s.shopee.com.br/4qFybKOwv7
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

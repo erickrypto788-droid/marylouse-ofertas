@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 28/09/2026 01:44
+Gerado em: 28/09/2026 02:06
 
 ## Categorias prioritárias
 
@@ -8,10 +8,10 @@ Gerado em: 28/09/2026 01:44
 - 🏋️ **Esportes**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 🧸 **Brinquedos**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 👗 **Moda Feminina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
+- 🐶 **Pet**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 💄 **Beleza**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 🐶 **Pet**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
-- ❤️ **Saúde**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
+- 💄 **Beleza**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- ❤️ **Saúde**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 💻 **Informática**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 
@@ -66,26 +66,26 @@ Gerado em: 28/09/2026 01:44
    - Desconto: 35% OFF
    - Link: https://s.shopee.com.br/6L4lSOlRxT
 
-8. **Balança Digital Medidora Corporal Bioimpedância até 180kg Oliver Home**
+8. **Cadeira Massagem Escritorio Cadeira Escritorio Presidente Cor Âmbar**
+   - Categoria: Pet
+   - Loja: Mercado Livre
+   - Preço: R$ 743,00
+   - Desconto: 60% OFF
+   - Link: https://www.mercadolivre.com.br/p/MLB59413555?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+9. **Balança Digital Medidora Corporal Bioimpedância até 180kg Oliver Home**
    - Categoria: Saúde
    - Loja: Shopee
    - Preço: R$ 33,89
    - Desconto: 52% OFF
    - Link: https://s.shopee.com.br/5q8UnMXQjJ
 
-9. **Nebulizador Portátil AIQUE**
+10. **Nebulizador Portátil AIQUE**
    - Categoria: Saúde
    - Loja: Shopee
    - Preço: R$ 25,98
    - Desconto: 62% OFF
    - Link: https://s.shopee.com.br/4fwYjd26i1
-
-10. **Boneca Bebê Reborn Unicórnio Menina Original Realista de Silicone Pod…**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 79,90
-   - Desconto: 56% OFF
-   - Link: https://s.shopee.com.br/gQOZjxvEl
 
 ## Ações gratuitas recomendadas
 

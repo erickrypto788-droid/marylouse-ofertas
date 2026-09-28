@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 28/09/2026 01:20
+Gerado em: 28/09/2026 02:06
 
 ## Como usar
 
@@ -56,7 +56,7 @@ Gerado em: 28/09/2026 01:20
 
 - Panela de Pressão Panelux 4,5L
 - Kit 2 Galheteiro Vidro 500ml Bico Dosador Porta Azeite Vinagre Molho…
-- Kit 6 Potes Giotto 2,2L para Marmitas
+- Air fryer Br House Fritadeira ELETRICA AIR FRYER Air Fryer Family pre…
 
 ---
 

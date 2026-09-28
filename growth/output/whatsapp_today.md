@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 28/09/2026 16:22
+Gerado em: 28/09/2026 17:10
 
 ## Como usar
 
@@ -147,14 +147,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
 ```txt
 🍼 Oferta para Mamãe e Bebê
 
-Pampers SuperSec - Escolha o Tamanho (M, G, XG, XXG)
+Fralda Huggies Jumbinho M - 36 Unidades
 
-💸 De: R$ 130,67
-🔥 Por: R$ 98,00
-🏷️ 25% OFF
-🛒 Loja: Shopee
+💸 De: R$ 65,90
+🔥 Por: R$ 42,90
+🏷️ 35% OFF
+🛒 Loja: Mercado Livre
 
-Ver oferta: https://s.shopee.com.br/6fhdBPsgGq
+Ver oferta: https://www.mercadolivre.com.br/p/MLB25251850?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 28/09/2026 16:22
+Gerado em: 28/09/2026 17:10
 
 ## Como usar
 
@@ -32,7 +32,7 @@ Gerado em: 28/09/2026 16:22
 
 - Ninho Redutor de Berço Liso e Trocador Portátil Impermeável
 - Kit 5 Regatas Bebê
-- Pampers SuperSec - Escolha o Tamanho (M, G, XG, XXG)
+- Fralda Huggies Jumbinho M - 36 Unidades
 
 ---
 
@@ -105,5 +105,25 @@ Gerado em: 28/09/2026 16:22
 - Kit Reparo Tela Smartphone
 - Fone Bluetooth Pro5 Premium
 - Leitor De Cartão Usb 3.0 Adaptador Micro Sd/sdxc 5gbps Envio Imediato
+
+---
+
+## Supermercados
+
+**Título sugerido:** 🛒 Ofertas de Supermercados atualizadas hoje
+
+**Descrição sugerida:** Ofertas de Supermercados selecionadas pela MaryLouse. Preços podem mudar. Veja no site. #MaryLouseOfertas #Ofertas #Achadinhos
+
+**Link/CTA:** https://marylouse-ofertas.vercel.app/ofertas-supermercados.html
+
+**Slides:**
+
+- growth/shorts/slides/supermercados/01_intro.png
+- growth/shorts/slides/supermercados/02_produto_1.png
+- growth/shorts/slides/supermercados/05_cta.png
+
+**Produtos usados:**
+
+- Papel higiênico INDAIAL CAICAI PAPEL HIGIENICO folha dupla de 1 un
 
 ---

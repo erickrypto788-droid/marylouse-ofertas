@@ -1,91 +1,91 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 28/09/2026 22:19
+Gerado em: 28/09/2026 23:22
 
 ## Categorias prioritárias
 
 - 🍼 **Mãe e Bebê**: 18 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 🏋️ **Esportes**: 16 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 💻 **Informática**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 👟 **Calçados**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 💻 **Informática**: 16 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 🏋️ **Esportes**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
+- 👟 **Calçados**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - ❤️ **Saúde**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 👗 **Moda Feminina**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 🧸 **Brinquedos**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 💄 **Beleza**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🍳 **Casa e Cozinha**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
-- 🐶 **Pet**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
+- 👜 **Bolsas**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 
 ## Top ofertas para destacar
 
-1. **Perfume Attracione Feminino by Attracione Woman Mulher**
+1. **Mochila Faculdade Reforçada Compartimento Para Notebook Escolar Uniss…**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 34,90
+   - Desconto: 53% OFF
+   - Link: https://s.shopee.com.br/5fp7O7OdAp
+
+2. **Perfume Attracione Feminino by Attracione Woman Mulher**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 44,00
    - Desconto: 75% OFF
    - Link: https://s.shopee.com.br/4qFybKOwv7
 
-2. **Attracione Men (Perfume Masculino com Feromônios Ativados)**
+3. **Attracione Men (Perfume Masculino com Feromônios Ativados)**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 57,22
    - Desconto: 80% OFF
    - Link: https://s.shopee.com.br/3qNSjuNaIA
 
-3. **Mochila CHL Notebook Premium**
+4. **Mochila CHL Notebook Premium**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 39,99
    - Desconto: 55% OFF
    - Link: https://s.shopee.com.br/AKavgP5UPT
 
-4. **Toalha de Banho Fralda Soft com Capuz para Bebê OU Kit com 2, 3 ou…**
+5. **Toalha de Banho Fralda Soft com Capuz para Bebê OU Kit com 2, 3 ou…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 31,99
    - Desconto: 47% OFF
    - Link: https://s.shopee.com.br/3qNT4VeB6u
 
-5. **Jogo de Panelas 5 Peças Preto**
+6. **Jogo de Panelas 5 Peças Preto**
    - Categoria: Casa e Cozinha
    - Loja: Mercado Livre
    - Preço: R$ 164,80
    - Desconto: 30% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB50984468?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-6. **Fralda Huggies Jumbinho M - 36 Unidades**
+7. **Fralda Huggies Jumbinho M - 36 Unidades**
    - Categoria: Mãe e Bebê
    - Loja: Mercado Livre
    - Preço: R$ 42,90
    - Desconto: 35% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB25251850?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-7. **Mochila de Viagem Masculina e Feminina Impermeável e Reforçada com Co…**
+8. **Mochila Esportiva Impermeável**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 39,99
+   - Desconto: 50% OFF
+   - Link: https://s.shopee.com.br/4B0JbMLbvZ
+
+9. **Mochila de Viagem Masculina e Feminina Impermeável e Reforçada com Co…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 94,98
    - Desconto: 68% OFF
    - Link: https://s.shopee.com.br/9fLEtB81lP
 
-8. **Kit de 3 Lençol Cercado De Bebê Chiqueirinho com elástico Percal 400…**
+10. **Kit de 3 Lençol Cercado De Bebê Chiqueirinho com elástico Percal 400…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 31,68
    - Desconto: 52% OFF
    - Link: https://s.shopee.com.br/9V1povj4WH
-
-9. **NINHO REDUTOR DE BERÇO | COM ZIPER E LAÇO | TROCADOR PORTÁTIL |…**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 43,90
-   - Desconto: 69% OFF
-   - Link: https://s.shopee.com.br/9fLG1EiRBK
-
-10. **Berço Portátil Moises Co-bed Com Balanço Mosquiteiro e Cesto Regulage…**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 519,49
-   - Desconto: 71% OFF
-   - Link: https://s.shopee.com.br/905ZE0kyX8
 
 ## Ações gratuitas recomendadas
 

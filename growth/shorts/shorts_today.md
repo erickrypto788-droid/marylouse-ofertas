@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 28/09/2026 06:03
+Gerado em: 28/09/2026 06:21
 
 ## Como usar
 
@@ -32,7 +32,7 @@ Gerado em: 28/09/2026 06:03
 
 - Ninho Redutor de Berço Liso e Trocador Portátil Impermeável
 - Kit 5 Regatas Bebê
-- Ninho Redutor de Berço c/ Mosquiteiro
+- Pampers SuperSec - Escolha o Tamanho (M, G, XG, XXG)
 
 ---
 
@@ -103,8 +103,8 @@ Gerado em: 28/09/2026 06:03
 **Produtos usados:**
 
 - Kit Reparo Tela Smartphone
+- Leitor De Cartão Usb 3.0 Adaptador Micro Sd/sdxc 5gbps Envio Imediato
 - Carregador Sem Fio iPhone
-- Adaptador USB-C Hub Leitor Cartão
 
 ---
 

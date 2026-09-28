@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 28/09/2026 00:09
+Gerado em: 28/09/2026 00:22
 
 ## Como usar
 
@@ -55,8 +55,8 @@ Gerado em: 28/09/2026 00:09
 **Produtos usados:**
 
 - Panela de Pressão Panelux 4,5L
-- Panela de Pressão 4,5L Antiaderente
 - Kit 2 Galheteiro Vidro 500ml Bico Dosador Porta Azeite Vinagre Molho…
+- Kit 6 Potes Giotto 2,2L para Marmitas
 
 ---
 

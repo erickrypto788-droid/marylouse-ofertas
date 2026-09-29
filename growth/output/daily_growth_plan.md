@@ -1,91 +1,91 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 29/09/2026 20:22
+Gerado em: 29/09/2026 21:05
 
 ## Categorias prioritárias
 
 - 💻 **Informática**: 15 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 🍼 **Mãe e Bebê**: 15 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 🏋️ **Esportes**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
+- 📱 **Celulares**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 👗 **Moda Feminina**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 📦 **Outros**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 👜 **Bolsas**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
-- 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 🏋️ **Esportes**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 🍳 **Casa e Cozinha**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 📚 **Papelaria**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 
 ## Top ofertas para destacar
 
-1. **Mochila Escolar Reforçada Notebook Impermeável Cabo De Aço**
+1. **Smartphone 6.78" 5G 16GB/512GB Câmera HD**
+   - Categoria: Celulares
+   - Loja: Mercado Livre
+   - Preço: R$ 1.380,00
+   - Desconto: 58% OFF
+   - Link: https://www.mercadolivre.com.br/p/MLB78262248?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+2. **Mochila Escolar Reforçada Notebook Impermeável Cabo De Aço**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 49,90
    - Desconto: 52% OFF
    - Link: https://s.shopee.com.br/qjstYqk2z
 
-2. **Mochila Bolsa Reforçada Notebook Resistente Trabalho Faculdade Coreana**
+3. **Mochila Bolsa Reforçada Notebook Resistente Trabalho Faculdade Coreana**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 29,80
    - Desconto: 59% OFF
    - Link: https://s.shopee.com.br/8fSkDx9aNn
 
-3. **Chapinha Prancha Cabelo Profissional Nano Titanium 450F BIVOLT**
+4. **Chapinha Prancha Cabelo Profissional Nano Titanium 450F BIVOLT**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 29,99
    - Desconto: 67% OFF
    - Link: https://s.shopee.com.br/3LRC8zYQPc
 
-4. **Mesa Dobrável Notebook Retrátil Home Office Apoio Cama Sofá Trabalho…**
+5. **Mesa Dobrável Notebook Retrátil Home Office Apoio Cama Sofá Trabalho…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 37,89
    - Desconto: 57% OFF
    - Link: https://s.shopee.com.br/W70AhNPRg
 
-5. **Caderno A5 de couro macio 360 folhas retro notebook para agenda 2026…**
+6. **Caderno A5 de couro macio 360 folhas retro notebook para agenda 2026…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 36,99
    - Desconto: 53% OFF
    - Link: https://s.shopee.com.br/7AdvEzdJRJ
 
-6. **Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com…**
+7. **Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 19,79
    - Desconto: 61% OFF
    - Link: https://s.shopee.com.br/6AlMmroGg2
 
-7. **Mochila Faculdade Reforçada Compartimento Para Notebook Escolar Uniss…**
+8. **Mochila Faculdade Reforçada Compartimento Para Notebook Escolar Uniss…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 34,90
    - Desconto: 53% OFF
    - Link: https://s.shopee.com.br/5fp7O7OdAp
 
-8. **Fralda Pampers Splashers M/G**
+9. **Fralda Pampers Splashers M/G**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 44,99
    - Desconto: 31% OFF
    - Link: https://s.shopee.com.br/3LRDjsUOXh
 
-9. **Tela Magnética Monitor para Celular**
+10. **Tela Magnética Monitor para Celular**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 91,00
    - Desconto: 30% OFF
    - Link: https://s.shopee.com.br/2BFFssRDJl
-
-10. **Lente Grande Angular + Macro para Celular**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 21,69
-   - Desconto: 46% OFF
-   - Link: https://s.shopee.com.br/BUBVCYpNR
 
 ## Ações gratuitas recomendadas
 

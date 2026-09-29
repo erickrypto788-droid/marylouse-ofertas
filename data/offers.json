@@ -1,5 +1,26 @@
 [
   {
+    "id": "8fc6d007ab5a17c779",
+    "title": "Controle Playstation 5 Sem Fio Dualsense Midnight Black - PS5",
+    "raw_title": "Controle Playstation 5 Sem Fio Dualsense Midnight Black - PS5",
+    "description": "🔥 18% OFF — Oferta encontrada! 📌 Controle Playstation 5 Sem Fio Dualsense Midnight Black - PS5 Confira os detalhes e aproveite enquanto a oferta estiver...",
+    "marketplace": "Shopee",
+    "category": "Jogos e Consoles",
+    "old_price": "R$ 548,66",
+    "price": "R$ 449,90",
+    "discount_percent": 18.0,
+    "rating": 5.0,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820ln-mpthld7x57uq32",
+    "affiliate_url": "https://s.shopee.com.br/80D2QshMGC",
+    "created_at": "29/09/2026 22:15",
+    "created_at_iso": "2026-09-29T22:15:48",
+    "created_ts": 1790720148,
+    "niche": {
+      "key": "shopee_jogos_consoles",
+      "name": "Jogos e Consoles"
+    }
+  },
+  {
     "id": "29f9dc30014f7de9f5",
     "title": "Pasta De Amendoim Integral Vários Sabores Maniforce",
     "raw_title": "Pasta De Amendoim Integral Vários Sabores Maniforce",
@@ -2425,22 +2446,5 @@
       "key": "shopee_bolsas_femininas",
       "name": "Bolsas Femininas"
     }
-  },
-  {
-    "id": "51102dc0b2a697c896",
-    "title": "Lâmina Philips Bodygroom",
-    "raw_title": "Lamina Aparador Pelos Philips Bodygroom Qg3379 Qg3280 Qg3380",
-    "description": "✨ Barbear perfeito e sem irritação! Tenha de volta a performance do seu Philips Bodygroom com a Lâmina Aparador de Pelos original! Compatível com os mod...",
-    "marketplace": "Mercado Livre",
-    "category": "Beleza",
-    "old_price": "R$ 149,90",
-    "price": "R$ 129,90",
-    "discount_percent": 13.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_782959-MLA99825071093_112025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24908965?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "28/09/2026 22:01",
-    "created_at_iso": "2026-09-28T22:01:57",
-    "created_ts": 1790632917
   }
 ]

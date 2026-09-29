@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 29/09/2026 21:05
+Gerado em: 29/09/2026 21:22
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 29/09/2026 21:05
 
 **Produtos usados:**
 
-- Toalha de Banho Fralda Soft com Capuz para Bebê OU Kit com 2, 3 ou…
-- NINHO REDUTOR DE BERÇO | COM ZIPER E LAÇO | TROCADOR PORTÁTIL |…
-- Berço Portátil Moises Co-bed Com Balanço Mosquiteiro e Cesto Regulage…
+- Fralda Pampers Splashers M/G
+- Carrinho de Rolimã Super Car com Led Suporta até 100kg Unitoys
+- Trocador Plastificado Impermeável Anatômico Americano de Cômoda Para…
 
 ---
 
@@ -128,6 +128,6 @@ Gerado em: 29/09/2026 21:05
 
 - Kit Clareador Facial - Sabonete Líquido + Protetor Solar Clareador 70…
 - Bola Feijão ioga yoga com bomba Amendoim pilates ginastica exercicio…
-- Substrato Pronto 10L | Turfa + Perlita + Casca de Arroz Carbonizada |…
+- Kit 4 Potes Herméticos 2L Com Copo Medidor Organizador Mantimentos Ar…
 
 ---

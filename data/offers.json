@@ -1,5 +1,39 @@
 [
   {
+    "id": "d836f3d801023bc21c",
+    "title": "Elgin Air Fryer Fritadeira Air Fryer",
+    "raw_title": "Elgin Air Fryer Fritadeira Air Fryer",
+    "description": "🔥 Oferta encontrada! 📌 Elgin Air Fryer Fritadeira Air Fryer Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Casa e Cozinha",
+    "old_price": "",
+    "price": "R$ 229,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_963725-MLA113034359792_072026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50493068?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "29/09/2026 12:03",
+    "created_at_iso": "2026-09-29T12:03:57",
+    "created_ts": 1790683437
+  },
+  {
+    "id": "f4ce6e4e4365b59c60",
+    "title": "Jogo de Panelas Tramontina Coimbra 5pçs",
+    "raw_title": "Jogo Panelas Tramontina Coimbra 5pçs Preto Antiaderente",
+    "description": "🍳 Transforme sua cozinha com o Jogo de Panelas Tramontina Coimbra 5pçs Preto Antiaderente! Qualidade e praticidade para todas as suas receitas. Não grud...",
+    "marketplace": "Mercado Livre",
+    "category": "Casa e Cozinha",
+    "old_price": "",
+    "price": "R$ 213,89",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_737133-MLA95400026102_102025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39387638?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "29/09/2026 12:02",
+    "created_at_iso": "2026-09-29T12:02:53",
+    "created_ts": 1790683373
+  },
+  {
     "id": "ab57f91c74063b0f7c",
     "title": "Protetor Solar Facial PS-01 FPS 40 Principia - 40ml",
     "raw_title": "Protetor Solar Facial PS-01 FPS 40 Principia - 40ml",
@@ -2523,39 +2557,5 @@
       "key": "shopee_sapatos_masculinos",
       "name": "Sapatos Masculinos"
     }
-  },
-  {
-    "id": "9d050069e32adb6b46",
-    "title": "Aparelho Monitor Pressão Arterial Portátil Pulso Omron",
-    "raw_title": "Aparelho Monitor Pressão Arterial Portátil Pulso Omron",
-    "description": "🔥 Oferta encontrada! 📌 Aparelho Monitor Pressão Arterial Portátil Pulso Omron Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Mercado Livre",
-    "category": "Saúde",
-    "old_price": "",
-    "price": "R$ 189,88",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_732248-MLA108909250030_032026-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB22958206?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "28/09/2026 12:03",
-    "created_at_iso": "2026-09-28T12:03:12",
-    "created_ts": 1790596992
-  },
-  {
-    "id": "874c066657d591175f",
-    "title": "Braçadeira para Aparelho Monitor Pressão Digital Infantil Omron",
-    "raw_title": "Braçadeira para Aparelho Monitor Pressão Digital Infantil Omron",
-    "description": "🔥 16% OFF — Oferta encontrada! 📌 Braçadeira para Aparelho Monitor Pressão Digital Infantil Omron Confira os detalhes e aproveite enquanto a oferta estiv...",
-    "marketplace": "Mercado Livre",
-    "category": "Saúde",
-    "old_price": "R$ 159,90",
-    "price": "R$ 135,00",
-    "discount_percent": 16.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_618730-MLU72637345875_112023-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21719639?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "28/09/2026 12:02",
-    "created_at_iso": "2026-09-28T12:02:08",
-    "created_ts": 1790596928
   }
 ]

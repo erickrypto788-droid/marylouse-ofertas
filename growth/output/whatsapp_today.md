@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 29/09/2026 03:18
+Gerado em: 29/09/2026 04:22
 
 ## Como usar
 
@@ -117,14 +117,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Calça Pantalona de Linho
+Kit 2 Shorts Alfaiataria Feminina
 
-💸 De: R$ 99,97
-🔥 Por: R$ 39,99
-🏷️ 60% OFF
+💸 De: R$ 158,18
+🔥 Por: R$ 34,80
+🏷️ 78% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/8V9HpdbeiU
+Ver oferta: https://s.shopee.com.br/1Lg8Yl8qqs
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

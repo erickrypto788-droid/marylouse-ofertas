@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 29/09/2026 00:07
+Gerado em: 29/09/2026 00:21
 
 ## Como usar
 
@@ -80,7 +80,7 @@ Gerado em: 29/09/2026 00:07
 
 - Perfume Attracione Feminino by Attracione Woman Mulher
 - Attracione Men (Perfume Masculino com Feromônios Ativados)
-- Barbeador Costas Masculino Traseiro Dobrável Aparador Pelos
+- 32 Peças Kit De Maquiagem Para Crianças Lavável/Conjunto Portátil Men…
 
 ---
 
@@ -102,9 +102,9 @@ Gerado em: 29/09/2026 00:07
 
 **Produtos usados:**
 
+- Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com…
 - Fone Bluetooth Pro5 Premium
 - Leitor De Cartão Usb 3.0 Adaptador Micro Sd/sdxc 5gbps Envio Imediato
-- Fone De Ouvido Bluetooth Sem Fio Air Pods Pro 3 Para Android & iOS
 
 ---
 

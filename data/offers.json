@@ -1,5 +1,68 @@
 [
   {
+    "id": "8ec8f251846eb0a833",
+    "title": "Cafeteira Elgin 15 Xícaras",
+    "raw_title": "Cafeteira Elétrica Coffee Break 15 xicaras Elgin 127V",
+    "description": "☕️ Café fresquinho a qualquer hora! Prepare até 15 xícaras de puro sabor com a Cafeteira Elétrica Coffee Break Elgin 127V. Perfeita para começar o dia o...",
+    "marketplace": "Shopee",
+    "category": "Eletrodomésticos",
+    "old_price": "",
+    "price": "R$ 89,90",
+    "discount_percent": 0.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7rfgf-m9q1aof3pzx29c",
+    "affiliate_url": "https://s.shopee.com.br/9zy617B3Yo",
+    "created_at": "29/09/2026 10:18",
+    "created_at_iso": "2026-09-29T10:18:15",
+    "created_ts": 1790677095,
+    "niche": {
+      "key": "shopee_eletrodomesticos",
+      "name": "Eletrodomésticos"
+    }
+  },
+  {
+    "id": "e3e41337da1dcb777c",
+    "title": "Ventilador de Teto LED com Controle",
+    "raw_title": "Ventilador de Teto com Luz Silencioso Controle Remoto Economica Instalação Fácil LED Bivolt E27",
+    "description": "⚡️ SUPER OFERTA! Ventilador de Teto com Luz LED e Controle Remoto! 💡 Chega de calor! Tenha conforto e praticidade com este ventilador silencioso, econôm...",
+    "marketplace": "Shopee",
+    "category": "Eletrodomésticos",
+    "old_price": "R$ 116,19",
+    "price": "R$ 55,77",
+    "discount_percent": 52.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7rdwy-mbw84yf3pvcl00",
+    "affiliate_url": "https://s.shopee.com.br/30oLgFgJHY",
+    "created_at": "29/09/2026 10:17",
+    "created_at_iso": "2026-09-29T10:17:08",
+    "created_ts": 1790677028,
+    "niche": {
+      "key": "shopee_eletrodomesticos",
+      "name": "Eletrodomésticos"
+    }
+  },
+  {
+    "id": "4cb3c5aa3180fc6f5a",
+    "title": "Liquidificador Mondial L-99 Turbo",
+    "raw_title": "Liquidificador Mondial L‑99 Turbo 550 W 3 Velocidades",
+    "description": "⚡️ OFERTA IMPERDÍVEL! Liquidificador Mondial L-99 Turbo 550W 3 Velocidades com 41% de desconto! Potência e praticidade para sua cozinha! 🤩",
+    "marketplace": "Shopee",
+    "category": "Eletrodomésticos",
+    "old_price": "R$ 172,86",
+    "price": "R$ 101,99",
+    "discount_percent": 41.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc83lzgst4gw71",
+    "affiliate_url": "https://s.shopee.com.br/1VzZ9mj45q",
+    "created_at": "29/09/2026 10:15",
+    "created_at_iso": "2026-09-29T10:15:59",
+    "created_ts": 1790676959,
+    "niche": {
+      "key": "shopee_eletrodomesticos",
+      "name": "Eletrodomésticos"
+    }
+  },
+  {
     "id": "3cb9beaf5a6e1ad422",
     "title": "Shampoo Infantil Buba Care",
     "raw_title": "Shampoo Infantil 250ml Buba Care",
@@ -2443,69 +2506,6 @@
     "created_at": "28/09/2026 10:19",
     "created_at_iso": "2026-09-28T10:19:13",
     "created_ts": 1790590753,
-    "niche": {
-      "key": "shopee_roupas_masculinas",
-      "name": "Roupas Masculinas"
-    }
-  },
-  {
-    "id": "97832ba621b334111f",
-    "title": "Conjunto Jaqueta e Calça Jogger Masculina Inverno Frio Academia Trein…",
-    "raw_title": "Conjunto Jaqueta e Calça Jogger Masculina Inverno Frio Academia Treino Fitness Casual Esportivo Confortável",
-    "description": "🔥 54% OFF — Oferta encontrada! 📌 Conjunto Jaqueta e Calça Jogger Masculina Inverno Frio Academia Treino Fitness Casual Esportivo Confortável Confira os...",
-    "marketplace": "Shopee",
-    "category": "Roupas Masculinas",
-    "old_price": "R$ 115,15",
-    "price": "R$ 52,97",
-    "discount_percent": 54.0,
-    "rating": 4.7,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztg-ml5s2d08vuh3b4",
-    "affiliate_url": "https://s.shopee.com.br/4B0HwLNJtm",
-    "created_at": "28/09/2026 10:18",
-    "created_at_iso": "2026-09-28T10:18:09",
-    "created_ts": 1790590689,
-    "niche": {
-      "key": "shopee_roupas_masculinas",
-      "name": "Roupas Masculinas"
-    }
-  },
-  {
-    "id": "26ca857ee03a543697",
-    "title": "Kit 4 Camisas Térmicas UV 50+ Masculinas",
-    "raw_title": "4 camisa termica masculina Manga Longa UV 50+ Malha Fria DryFit Masculina Academia",
-    "description": "🔥 IMPERDÍVEL! Kit com 4 Camisas Térmicas Masculinas Manga Longa UV 50+! 👕 Perfeitas para academia, esportes ou dia a dia, com tecnologia DryFit e malha...",
-    "marketplace": "Shopee",
-    "category": "Roupas Masculinas",
-    "old_price": "R$ 136,14",
-    "price": "R$ 59,90",
-    "discount_percent": 56.0,
-    "rating": 4.4,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mlgsuurpgbnr3b",
-    "affiliate_url": "https://s.shopee.com.br/8KpqN2S2yX",
-    "created_at": "28/09/2026 10:17",
-    "created_at_iso": "2026-09-28T10:17:05",
-    "created_ts": 1790590625,
-    "niche": {
-      "key": "shopee_roupas_masculinas",
-      "name": "Roupas Masculinas"
-    }
-  },
-  {
-    "id": "70686681fd5d1bbb23",
-    "title": "Camisa Social Tecnológica Slim Fit",
-    "raw_title": "Camisa Social Tecnológica Slim Fit Anti-Transpirante Ante Odor E Não Amassa - Não é Poliéster",
-    "description": "✨ Diga adeus ao suor e amassados! A Camisa Social Tecnológica Slim Fit que você esperava chegou para revolucionar seu estilo e conforto! ✅ Anti-Transpir...",
-    "marketplace": "Shopee",
-    "category": "Roupas Masculinas",
-    "old_price": "R$ 139,90",
-    "price": "R$ 69,95",
-    "discount_percent": 50.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7rfgb-m9d995lpwowl15",
-    "affiliate_url": "https://s.shopee.com.br/8V9GZLRPdY",
-    "created_at": "28/09/2026 10:15",
-    "created_at_iso": "2026-09-28T10:15:56",
-    "created_ts": 1790590556,
     "niche": {
       "key": "shopee_roupas_masculinas",
       "name": "Roupas Masculinas"

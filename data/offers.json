@@ -1,5 +1,39 @@
 [
   {
+    "id": "8e257487615e9a7fd8",
+    "title": "Carregador iPhone USB-C Branco",
+    "raw_title": "Carregador iPhone Tipo USB-C Cor Branco",
+    "description": "⚡️ Seu iPhone merece o melhor! 🔋 Garanta já o seu Carregador iPhone Tipo USB-C na cor branca e nunca mais fique sem bateria! 🚚 Frete Grátis!",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "",
+    "price": "R$ 349,99",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_934400-MLA99958222607_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20643765?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "29/09/2026 21:03",
+    "created_at_iso": "2026-09-29T21:03:29",
+    "created_ts": 1790715809
+  },
+  {
+    "id": "d0a27aab6988c24267",
+    "title": "Smartphone 6.78\" 5G 16GB/512GB Câmera HD",
+    "raw_title": "celulares smartphones 6.78 Polegadas celular 5g 16GB+512GB Câmera HD 32Mpx+18Mpx Bateria 5000mAh celular baratinho",
+    "description": "💥 Oportunidade ÚNICA! Seu novo smartphone te espera! 💥 Leve para casa o Celular Smartphone 6.78 Polegadas 5G com 16GB RAM e 512GB de armazenamento. 🚀 Ca...",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "R$ 3.320,00",
+    "price": "R$ 1.380,00",
+    "discount_percent": 58.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_662896-MLA116677875385_082026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB78262248?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "29/09/2026 21:02",
+    "created_at_iso": "2026-09-29T21:02:20",
+    "created_ts": 1790715740
+  },
+  {
     "id": "794c1823dfb1076a86",
     "title": "Webcam 4K EMEET S600 Sensor Sony Autofoco Com Microfone 1080P 60Fps C…",
     "raw_title": "Webcam 4K EMEET S600 Sensor Sony Autofoco Com Microfone 1080P 60Fps Camera Para Pc para Streaming e Videochamadas",
@@ -2408,39 +2442,5 @@
       "key": "shopee_mae_bebe",
       "name": "Mãe e Bebê"
     }
-  },
-  {
-    "id": "65bfe529a9aec8fead",
-    "title": "Bike Spinning Ergométrica Cor Preto",
-    "raw_title": "Bike Spinning Ergométrica Cor Preto",
-    "description": "🔥 Oferta encontrada! 📌 Bike Spinning Ergométrica Cor Preto Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Mercado Livre",
-    "category": "Esportes e Lazer",
-    "old_price": "",
-    "price": "R$ 1.789,00",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_685682-MLU78981825033_092024-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36405300?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "28/09/2026 21:02",
-    "created_at_iso": "2026-09-28T21:02:55",
-    "created_ts": 1790629375
-  },
-  {
-    "id": "ebfc2b6e57465a82ad",
-    "title": "Bike Spinning Kikos Max-ks5",
-    "raw_title": "Bike Spinning Kikos Max-ks5 Preto",
-    "description": "🔥 Sua academia em casa te espera! A Bike Spinning Kikos Max-ks5 Preto é perfeita para você que busca performance e resultados. 💪 Aproveite o frete gráti...",
-    "marketplace": "Mercado Livre",
-    "category": "Esportes e Lazer",
-    "old_price": "",
-    "price": "R$ 2.687,00",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_651330-MLA100034011273_122025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB18603556?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "28/09/2026 21:01",
-    "created_at_iso": "2026-09-28T21:01:49",
-    "created_ts": 1790629309
   }
 ]

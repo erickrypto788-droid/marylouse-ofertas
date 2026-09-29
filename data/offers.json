@@ -1,5 +1,68 @@
 [
   {
+    "id": "aecabd9d0b4210fff8",
+    "title": "Sapatênis Masculino Casual",
+    "raw_title": "Sapatenis Casual Masculino Sola Escura Sapato esportivo tênis confortável para trabalho festas",
+    "description": "🔥 Sapatênis Casual Masculino em OFERTA IMPERDÍVEL! Conforto e estilo para o seu dia a dia, trabalho ou festas. Mais de 600 unidades vendidas! 👟",
+    "marketplace": "Shopee",
+    "category": "Sapatos Masculinos",
+    "old_price": "R$ 79,55",
+    "price": "R$ 58,07",
+    "discount_percent": 27.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhurpc11ujnn36",
+    "affiliate_url": "https://s.shopee.com.br/9V1qU7gr5U",
+    "created_at": "29/09/2026 07:18",
+    "created_at_iso": "2026-09-29T07:18:09",
+    "created_ts": 1790666289,
+    "niche": {
+      "key": "shopee_sapatos_masculinos",
+      "name": "Sapatos Masculinos"
+    }
+  },
+  {
+    "id": "66a5a074cc14a60d6f",
+    "title": "Bota CAT Coturno Masculino",
+    "raw_title": "Bota CAT Coturno Preto Palmilha Gel Ortopédica Couro Masculino Promoção Envio Rápido",
+    "description": "🔥 IMPERDÍVEL! 🔥 Bota CAT Coturno Preto Masculino com Palmilha Gel Ortopédica! Conforto e estilo garantidos para seus pés. Feita em couro e com envio ráp...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Masculinos",
+    "old_price": "R$ 179,90",
+    "price": "R$ 88,15",
+    "discount_percent": 51.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6a9mz47y83p16",
+    "affiliate_url": "https://s.shopee.com.br/7VGm6RsjPf",
+    "created_at": "29/09/2026 07:17",
+    "created_at_iso": "2026-09-29T07:17:01",
+    "created_ts": 1790666221,
+    "niche": {
+      "key": "shopee_sapatos_masculinos",
+      "name": "Sapatos Masculinos"
+    }
+  },
+  {
+    "id": "eb677e3e7269a5a753",
+    "title": "Botina Caterpillar Masculina Impermeável",
+    "raw_title": "Botina Botinha Caterpillar Masculina De Couro Impermeável Antiderrapante Reforçado Promoção Barato",
+    "description": "IMPERDÍVEL! 🚨 Botina Caterpillar Masculina de Couro Impermeável! Garanta conforto e segurança com essa botina reforçada e antiderrapante. Perfeita para...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Masculinos",
+    "old_price": "R$ 161,89",
+    "price": "R$ 59,90",
+    "discount_percent": 63.0,
+    "rating": 4.3,
+    "image": "https://cf.shopee.com.br/file/br-11134201-22120-9b431lov9dlv73",
+    "affiliate_url": "https://s.shopee.com.br/6q15JDvGlb",
+    "created_at": "29/09/2026 07:15",
+    "created_at_iso": "2026-09-29T07:15:53",
+    "created_ts": 1790666153,
+    "niche": {
+      "key": "shopee_sapatos_masculinos",
+      "name": "Sapatos Masculinos"
+    }
+  },
+  {
     "id": "63643a6fe30fd545ba",
     "title": "Babá Eletrônica Hellobaby Hb65-2 Monitor Bebê 3.2 Branco",
     "raw_title": "Babá Eletrônica Hellobaby Hb65-2 Monitor Bebê 3.2 Branco",
@@ -2577,48 +2640,6 @@
     "created_at": "28/09/2026 07:18",
     "created_at_iso": "2026-09-28T07:18:18",
     "created_ts": 1790579898,
-    "niche": {
-      "key": "shopee_bebidas_alimentos",
-      "name": "Bebidas e Alimentos"
-    }
-  },
-  {
-    "id": "b86bf28e6e42f487b5",
-    "title": "QPS Spirulina Limão Solúvel",
-    "raw_title": "QPS Spirulina 160G Solúvel Sabor Limão - Envio Imediato",
-    "description": "⚡️ ENERGIA e BEM-ESTAR com super desconto! A QPS Spirulina 160G Solúvel Sabor Limão é perfeita para dar um boost na sua saúde. Fácil de preparar e com e...",
-    "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
-    "old_price": "R$ 49,98",
-    "price": "R$ 21,99",
-    "discount_percent": 56.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lf-mt0ch9lroykk2d",
-    "affiliate_url": "https://s.shopee.com.br/W6yqHxNdk",
-    "created_at": "28/09/2026 07:17",
-    "created_at_iso": "2026-09-28T07:17:10",
-    "created_ts": 1790579830,
-    "niche": {
-      "key": "shopee_bebidas_alimentos",
-      "name": "Bebidas e Alimentos"
-    }
-  },
-  {
-    "id": "d50dd044438315ab06",
-    "title": "Filtro Coador Café Inox Reutilizável",
-    "raw_title": "Filtro Coador De Café Inox 103 - Com Pegador em Silicone - Peneira Aço Reutilizável - CH",
-    "description": "☕ Adeus aos filtros de papel! Café perfeito e economia! ✨ Garanta já seu Filtro Coador de Café Inox 103 com pegador de silicone. Reutilizável, prático e...",
-    "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
-    "old_price": "R$ 90,00",
-    "price": "R$ 27,90",
-    "discount_percent": 69.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m3gpzu9ozvaw87",
-    "affiliate_url": "https://s.shopee.com.br/BU9m5Og7e",
-    "created_at": "28/09/2026 07:16",
-    "created_at_iso": "2026-09-28T07:16:01",
-    "created_ts": 1790579761,
     "niche": {
       "key": "shopee_bebidas_alimentos",
       "name": "Bebidas e Alimentos"

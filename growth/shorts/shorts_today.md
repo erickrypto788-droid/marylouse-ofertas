@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 29/09/2026 16:22
+Gerado em: 29/09/2026 17:20
 
 ## Como usar
 
@@ -128,6 +128,6 @@ Gerado em: 29/09/2026 16:22
 
 - Kit Clareador Facial - Sabonete Líquido + Protetor Solar Clareador 70…
 - Bola Feijão ioga yoga com bomba Amendoim pilates ginastica exercicio…
-- Papel higiênico INDAIAL CAICAI PAPEL HIGIENICO folha dupla de 1 un
+- Substrato Pronto 10L | Turfa + Perlita + Casca de Arroz Carbonizada |…
 
 ---

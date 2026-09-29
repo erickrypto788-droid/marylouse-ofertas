@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 29/09/2026 13:03
+Gerado em: 29/09/2026 13:22
 
 ## Como usar
 
@@ -117,14 +117,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Kit 2 Shorts Alfaiataria Feminina
+Blusa Regata Halter Modeladora
 
-💸 De: R$ 158,18
-🔥 Por: R$ 34,80
-🏷️ 78% OFF
+💸 De: R$ 99,97
+🔥 Por: R$ 34,99
+🏷️ 65% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/1Lg8Yl8qqs
+Ver oferta: https://s.shopee.com.br/113IlDjSKn
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
@@ -162,29 +162,29 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 6 — Ofertas Pet
+## Post 6 — Moda e Calçados
 
-**Canal recomendado:** Ofertas Pet
+**Canal recomendado:** Moda e Calçados
 
-**Horário sugerido:** 17:00 - 20:00
+**Horário sugerido:** 12:00 - 15:00
 
 **Imagem/card:**
 
-https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
+https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
 
 **Texto pronto:**
 
 ```txt
-🐶 Oferta para Ofertas Pet
+👟 Oferta para Moda e Calçados
 
-Ração Gato Estimacat Premium Adulto Sabor Carne 15kg
+Tênis Infantil Branco Confortável
 
-💸 De: R$ 356,33
-🔥 Por: R$ 267,25
-🏷️ 25% OFF
-🛒 Loja: Mercado Livre
+💸 De: R$ 99,72
+🔥 Por: R$ 39,89
+🏷️ 60% OFF
+🛒 Loja: Shopee
 
-Ver oferta: https://www.mercadolivre.com.br/p/MLB66541712?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+Ver oferta: https://s.shopee.com.br/6VOFFDhrUV
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

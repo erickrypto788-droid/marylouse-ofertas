@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 29/09/2026 11:08
+Gerado em: 29/09/2026 11:20
 
 ## Como usar
 
@@ -78,9 +78,9 @@ Gerado em: 29/09/2026 11:08
 
 **Produtos usados:**
 
+- Chapinha Prancha Cabelo Profissional Nano Titanium 450F BIVOLT
 - Perfume Attracione Feminino by Attracione Woman Mulher
 - Attracione Men (Perfume Masculino com Feromônios Ativados)
-- 32 Peças Kit De Maquiagem Para Crianças Lavável/Conjunto Portátil Men…
 
 ---
 
@@ -126,8 +126,8 @@ Gerado em: 29/09/2026 11:08
 
 **Produtos usados:**
 
+- Kit Clareador Facial - Sabonete Líquido + Protetor Solar Clareador 70…
 - Bola Feijão ioga yoga com bomba Amendoim pilates ginastica exercicio…
 - Papel higiênico INDAIAL CAICAI PAPEL HIGIENICO folha dupla de 1 un
-- Substrato Pronto 10L | Turfa + Perlita + Casca de Arroz Carbonizada |…
 
 ---

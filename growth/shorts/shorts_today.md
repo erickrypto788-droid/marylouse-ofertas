@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 29/09/2026 18:20
+Gerado em: 29/09/2026 19:23
 
 ## Como usar
 
@@ -54,9 +54,9 @@ Gerado em: 29/09/2026 18:20
 
 **Produtos usados:**
 
-- Jogo de Panelas 5 Peças Preto
 - Liquidificador Mondial L-99 Turbo
 - Elgin Air Fryer Fritadeira Air Fryer
+- Jogo de Panelas Tramontina Coimbra 5pçs
 
 ---
 
@@ -80,7 +80,7 @@ Gerado em: 29/09/2026 18:20
 
 - Chapinha Prancha Cabelo Profissional Nano Titanium 450F BIVOLT
 - 32 Peças Kit De Maquiagem Para Crianças Lavável/Conjunto Portátil Men…
-- Protetor Solar Facial PS-01 FPS 40 Principia - 40ml
+- ANA1108 Kit 10 mini pincéis para Maquiagem com estojo bolsa para viag…
 
 ---
 

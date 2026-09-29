@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 29/09/2026 18:41
+Gerado em: 29/09/2026 19:23
 
 ## Como usar
 
@@ -132,37 +132,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 5 — Casa e Cozinha
-
-**Canal recomendado:** Casa e Cozinha
-
-**Horário sugerido:** 18:00 - 20:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
-
-**Texto pronto:**
-
-```txt
-🍳 Oferta para Casa e Cozinha
-
-Jogo de Panelas 5 Peças Preto
-
-💸 De: R$ 233,90
-🔥 Por: R$ 164,80
-🏷️ 30% OFF
-🛒 Loja: Mercado Livre
-
-Ver oferta: https://www.mercadolivre.com.br/p/MLB50984468?matt_word=marylouse&matt_tool=50459180&forceInApp=true
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 6 — Moda e Calçados
+## Post 5 — Moda e Calçados
 
 **Canal recomendado:** Moda e Calçados
 
@@ -185,6 +155,36 @@ Tênis Infantil Branco Confortável
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/6VOFFDhrUV
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 6 — Saúde
+
+**Canal recomendado:** Saúde e Bem-estar
+
+**Horário sugerido:** 09:00 - 11:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/saude.png
+
+**Texto pronto:**
+
+```txt
+❤️ Oferta para Saúde
+
+Aparelho Medidor De Glicose G-tech Vita Kit 10tiras+10lancet
+
+💸 De: R$ 131,14
+🔥 Por: R$ 45,90
+🏷️ 65% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/6q15qC5kla
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

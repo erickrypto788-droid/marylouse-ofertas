@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 29/09/2026 15:22
+Gerado em: 29/09/2026 16:22
 
 ## Categorias prioritárias
 
+- 🍼 **Mãe e Bebê**: 18 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🏋️ **Esportes**: 15 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 🍼 **Mãe e Bebê**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 👟 **Calçados**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - ❤️ **Saúde**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 👗 **Moda Feminina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
-- 💄 **Beleza**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 💻 **Informática**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 🍳 **Casa e Cozinha**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 📦 **Outros**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 🧸 **Brinquedos**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 
 ## Top ofertas para destacar
 
@@ -52,40 +52,40 @@ Gerado em: 29/09/2026 15:22
    - Desconto: 53% OFF
    - Link: https://s.shopee.com.br/5fp7O7OdAp
 
-6. **Perfume Attracione Feminino by Attracione Woman Mulher**
-   - Categoria: Beleza
+6. **Fralda Pampers Splashers M/G**
+   - Categoria: Mãe e Bebê
    - Loja: Shopee
-   - Preço: R$ 44,00
-   - Desconto: 75% OFF
-   - Link: https://s.shopee.com.br/4qFybKOwv7
+   - Preço: R$ 44,99
+   - Desconto: 31% OFF
+   - Link: https://s.shopee.com.br/3LRDjsUOXh
 
-7. **Attracione Men (Perfume Masculino com Feromônios Ativados)**
-   - Categoria: Beleza
-   - Loja: Shopee
-   - Preço: R$ 57,22
-   - Desconto: 80% OFF
-   - Link: https://s.shopee.com.br/3qNSjuNaIA
-
-8. **Tela Magnética Monitor para Celular**
+7. **Tela Magnética Monitor para Celular**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 91,00
    - Desconto: 30% OFF
    - Link: https://s.shopee.com.br/2BFFssRDJl
 
-9. **Lente Grande Angular + Macro para Celular**
+8. **Lente Grande Angular + Macro para Celular**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 21,69
    - Desconto: 46% OFF
    - Link: https://s.shopee.com.br/BUBVCYpNR
 
-10. **Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mous…**
+9. **Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mous…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 50,99
    - Desconto: 41% OFF
    - Link: https://s.shopee.com.br/30oMLS05mg
+
+10. **Toalha de Banho Fralda Soft com Capuz para Bebê OU Kit com 2, 3 ou…**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 31,99
+   - Desconto: 47% OFF
+   - Link: https://s.shopee.com.br/3qNT4VeB6u
 
 ## Ações gratuitas recomendadas
 

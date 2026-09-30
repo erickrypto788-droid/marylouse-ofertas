@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 30/09/2026 11:06
+Gerado em: 30/09/2026 11:21
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 30/09/2026 11:06
 
 **Produtos usados:**
 
+- Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…
 - Kit 4 Peças Conjunto Infantil Menino Verão
 - Sandália Cartago Baby Slide
-- Fralda Pampers Splashers M/G
 
 ---
 
@@ -79,8 +79,8 @@ Gerado em: 30/09/2026 11:06
 **Produtos usados:**
 
 - Perfumes Brand Collection 25ml - Fragrâncias femininas
-- Chapinha Prancha Cabelo Profissional Nano Titanium 450F BIVOLT
 - Perfume Feminino ÁRABES SABAH 100ML Eau de Parfum Edp Original
+- ANA1108 Kit 10 mini pincéis para Maquiagem com estojo bolsa para viag…
 
 ---
 
@@ -126,8 +126,8 @@ Gerado em: 30/09/2026 11:06
 
 **Produtos usados:**
 
-- Kit Clareador Facial - Sabonete Líquido + Protetor Solar Clareador 70…
 - Azeite Oliva Extra Virgem Italiano 500ml Mercatto
 - Kit 4 Potes Herméticos 2L Com Copo Medidor Organizador Mantimentos Ar…
+- Arroz Jasmine Tailandês Aromático 1kg Arroz De Altitude
 
 ---

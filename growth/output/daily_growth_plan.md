@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 30/09/2026 09:06
+Gerado em: 30/09/2026 09:22
 
 ## Categorias prioritárias
 
@@ -9,11 +9,11 @@ Gerado em: 30/09/2026 09:06
 - 👗 **Moda Feminina**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 🏋️ **Esportes**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 📦 **Outros**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
-- 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 📦 **Outros**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 🧸 **Brinquedos**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 🍳 **Casa e Cozinha**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
+- 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 💻 **Informática**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- ❤️ **Saúde**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 
 ## Top ofertas para destacar
 
@@ -73,19 +73,19 @@ Gerado em: 30/09/2026 09:06
    - Desconto: 31% OFF
    - Link: https://s.shopee.com.br/3LRDjsUOXh
 
-9. **Tela Magnética Monitor para Celular**
-   - Categoria: Celulares
+9. **Vestido Feminino Curto Duna com Amarração Caimento Soltinho Gola Halt…**
+   - Categoria: Pet
    - Loja: Shopee
-   - Preço: R$ 91,00
-   - Desconto: 30% OFF
-   - Link: https://s.shopee.com.br/2BFFssRDJl
+   - Preço: R$ 46,80
+   - Desconto: 22% OFF
+   - Link: https://s.shopee.com.br/5fp9a5XbSb
 
-10. **Lente Grande Angular + Macro para Celular**
-   - Categoria: Celulares
+10. **Kit 4 Peças Conjunto Infantil Menino Verão**
+   - Categoria: Mãe e Bebê
    - Loja: Shopee
-   - Preço: R$ 21,69
-   - Desconto: 46% OFF
-   - Link: https://s.shopee.com.br/BUBVCYpNR
+   - Preço: R$ 47,00
+   - Desconto: 64% OFF
+   - Link: https://s.shopee.com.br/30oOL3shd7
 
 ## Ações gratuitas recomendadas
 

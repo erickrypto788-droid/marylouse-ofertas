@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 30/09/2026 14:20
+Gerado em: 30/09/2026 15:22
 
 ## Como usar
 
@@ -162,29 +162,29 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 6 — Saúde
+## Post 6 — Casa e Cozinha
 
-**Canal recomendado:** Saúde e Bem-estar
+**Canal recomendado:** Casa e Cozinha
 
-**Horário sugerido:** 09:00 - 11:00
+**Horário sugerido:** 18:00 - 20:00
 
 **Imagem/card:**
 
-https://marylouse-ofertas.vercel.app/growth/pinterest/saude.png
+https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
 
 **Texto pronto:**
 
 ```txt
-❤️ Oferta para Saúde
+🍳 Oferta para Casa e Cozinha
 
-Aparelho Medidor De Glicose G-tech Vita Kit 10tiras+10lancet
+36 Etiquetas Adesivas Temperos Condimentos Mantimentos Resistente à Á…
 
-💸 De: R$ 131,14
-🔥 Por: R$ 45,90
-🏷️ 65% OFF
+💸 De: R$ 19,80
+🔥 Por: R$ 10,89
+🏷️ 45% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/6q15qC5kla
+Ver oferta: https://s.shopee.com.br/9V1rHbvKIs
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

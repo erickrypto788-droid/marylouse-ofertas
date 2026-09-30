@@ -1,16 +1,16 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 30/09/2026 01:03
+Gerado em: 30/09/2026 01:21
 
 ## Categorias prioritárias
 
 - 👗 **Moda Feminina**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
-- 📦 **Outros**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 📦 **Outros**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 🍼 **Mãe e Bebê**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 💻 **Informática**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 👟 **Calçados**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 👕 **Moda Masculina**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
-- 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 💻 **Informática**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 🏋️ **Esportes**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 🍳 **Casa e Cozinha**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - ❤️ **Saúde**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
@@ -45,47 +45,47 @@ Gerado em: 30/09/2026 01:03
    - Desconto: 67% OFF
    - Link: https://s.shopee.com.br/3LRC8zYQPc
 
-5. **Mesa Dobrável Notebook Retrátil Home Office Apoio Cama Sofá Trabalho…**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 37,89
-   - Desconto: 57% OFF
-   - Link: https://s.shopee.com.br/W70AhNPRg
-
-6. **Fralda Pampers Splashers M/G**
+5. **Fralda Pampers Splashers M/G**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 44,99
    - Desconto: 31% OFF
    - Link: https://s.shopee.com.br/3LRDjsUOXh
 
-7. **Tela Magnética Monitor para Celular**
+6. **Tela Magnética Monitor para Celular**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 91,00
    - Desconto: 30% OFF
    - Link: https://s.shopee.com.br/2BFFssRDJl
 
-8. **Lente Grande Angular + Macro para Celular**
+7. **Lente Grande Angular + Macro para Celular**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 21,69
    - Desconto: 46% OFF
    - Link: https://s.shopee.com.br/BUBVCYpNR
 
-9. **Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mous…**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 50,99
-   - Desconto: 41% OFF
-   - Link: https://s.shopee.com.br/30oMLS05mg
-
-10. **Teclado Gamer Semi-mecânico RGB**
+8. **Teclado Gamer Semi-mecânico RGB**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 38,88
    - Desconto: 74% OFF
    - Link: https://s.shopee.com.br/3B7mXl3vW9
+
+9. **Monitor Gamer ARZOPA 27" 2K 180Hz**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 1.179,99
+   - Desconto: 83% OFF
+   - Link: https://s.shopee.com.br/4fwbaoH7aU
+
+10. **ANA1108 Kit 10 mini pincéis para Maquiagem com estojo bolsa para viag…**
+   - Categoria: Beleza
+   - Loja: Shopee
+   - Preço: R$ 16,98
+   - Desconto: 58% OFF
+   - Link: https://s.shopee.com.br/3qNUXCH6b2
 
 ## Ações gratuitas recomendadas
 

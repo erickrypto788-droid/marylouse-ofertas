@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 30/09/2026 17:03
+Gerado em: 30/09/2026 17:22
 
 ## Como usar
 
@@ -49,12 +49,14 @@ Gerado em: 30/09/2026 17:03
 - growth/shorts/slides/casa_cozinha/01_intro.png
 - growth/shorts/slides/casa_cozinha/02_produto_1.png
 - growth/shorts/slides/casa_cozinha/03_produto_2.png
+- growth/shorts/slides/casa_cozinha/04_produto_3.png
 - growth/shorts/slides/casa_cozinha/05_cta.png
 
 **Produtos usados:**
 
+- 1.8L Panela De Arroz Elétrica Multi-Camadas/De Dupla Camada Dormitóri…
+- Escorredor De Arroz Inox Legumes Frutas Multiuso Cozinha Alça Coador…
 - 36 Etiquetas Adesivas Temperos Condimentos Mantimentos Resistente à Á…
-- Armário Organizador Cozinha Balcão Microondas Jet - Cinza
 
 ---
 
@@ -124,8 +126,8 @@ Gerado em: 30/09/2026 17:03
 
 **Produtos usados:**
 
+- Hidratante Creme Facial Pele De Porcelana Kokeshi 30g Milagre do Arroz
 - Azeite Oliva Extra Virgem Italiano 500ml Mercatto
 - Kit 4 Potes Herméticos 2L Com Copo Medidor Organizador Mantimentos Ar…
-- Arroz Jasmine Tailandês Aromático 1kg Arroz De Altitude
 
 ---

@@ -1,5 +1,22 @@
 [
   {
+    "id": "fcd13e1dadb6abf8ed",
+    "title": "Ração Estimacat Filhote 10kg",
+    "raw_title": "Ração Gato Estimacat Premium Filhote Sabor Frango 10kg",
+    "description": "🐱 Seu filhote merece o melhor! Economize AGORA na ração! 🐾 Ração Gato Estimacat Premium Filhote Sabor Frango 10kg com 25% OFF! Nutrição completa para o...",
+    "marketplace": "Mercado Livre",
+    "category": "Pet",
+    "old_price": "R$ 337,43",
+    "price": "R$ 253,07",
+    "discount_percent": 25.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_921645-MLA109036799255_032026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66844874?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "30/09/2026 17:01",
+    "created_at_iso": "2026-09-30T17:01:43",
+    "created_ts": 1790787703
+  },
+  {
     "id": "e915e047c840c7c1d7",
     "title": "Hub USB com 4/7 Entradas USB 2.0 de Alta Velocidade com Botão Liga/De…",
     "raw_title": "Hub USB com 4/7 Entradas USB 2.0 de Alta Velocidade com Botão Liga/Desliga",
@@ -2243,27 +2260,6 @@
     "niche": {
       "key": "shopee_bolsas_femininas",
       "name": "Bolsas Femininas"
-    }
-  },
-  {
-    "id": "99cb320d77be117f47",
-    "title": "Carrinho de Rolimã Super Car com Led Suporta até 100kg Unitoys",
-    "raw_title": "Carrinho de Rolimã Super Car com Led Suporta até 100kg Unitoys",
-    "description": "🔥 41% OFF — Oferta encontrada! 📌 Carrinho de Rolimã Super Car com Led Suporta até 100kg Unitoys Confira os detalhes e aproveite enquanto a oferta estive...",
-    "marketplace": "Shopee",
-    "category": "Mãe e Bebê",
-    "old_price": "R$ 298,98",
-    "price": "R$ 176,40",
-    "discount_percent": 41.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdonu6vmeoxl23",
-    "affiliate_url": "https://s.shopee.com.br/9KiQsuKp00",
-    "created_at": "29/09/2026 16:20",
-    "created_at_iso": "2026-09-29T16:20:16",
-    "created_ts": 1790698816,
-    "niche": {
-      "key": "shopee_mae_bebe",
-      "name": "Mãe e Bebê"
     }
   }
 ]

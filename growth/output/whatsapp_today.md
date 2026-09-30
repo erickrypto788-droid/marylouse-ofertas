@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 30/09/2026 04:09
+Gerado em: 30/09/2026 04:21
 
 ## Como usar
 
@@ -87,14 +87,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
 ```txt
 📱 Oferta para Celulares e Tecnologia
 
-Smartphone 6.78" 5G 16GB/512GB Câmera HD
+LANCAMENTO CELULAR XIAOMI POCO X8 PRO MAX 5G NFC 256GB OU 512GB VERSÃ…
 
-💸 De: R$ 3.320,00
-🔥 Por: R$ 1.380,00
-🏷️ 58% OFF
-🛒 Loja: Mercado Livre
+💸 De: R$ 6.798,00
+🔥 Por: R$ 3.399,00
+🏷️ 50% OFF
+🛒 Loja: Shopee
 
-Ver oferta: https://www.mercadolivre.com.br/p/MLB78262248?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+Ver oferta: https://s.shopee.com.br/3B7oL0gJUg
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

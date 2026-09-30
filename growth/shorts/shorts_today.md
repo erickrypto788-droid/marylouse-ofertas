@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 30/09/2026 04:09
+Gerado em: 30/09/2026 04:21
 
 ## Como usar
 
@@ -102,9 +102,9 @@ Gerado em: 30/09/2026 04:09
 
 **Produtos usados:**
 
+- LANCAMENTO CELULAR XIAOMI POCO X8 PRO MAX 5G NFC 256GB OU 512GB VERSÃ…
 - Smartphone 6.78" 5G 16GB/512GB Câmera HD
 - Lente Grande Angular + Macro para Celular
-- Tela Magnética Monitor para Celular
 
 ---
 

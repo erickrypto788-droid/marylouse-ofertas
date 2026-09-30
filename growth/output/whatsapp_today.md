@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 30/09/2026 15:58
+Gerado em: 30/09/2026 16:22
 
 ## Como usar
 
@@ -87,14 +87,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
 ```txt
 📱 Oferta para Celulares e Tecnologia
 
-LANCAMENTO CELULAR XIAOMI POCO X8 PRO MAX 5G NFC 256GB OU 512GB VERSÃ…
+Teclado e mouse sem fio—Compatível com tablet，Notebook e celular, Rec…
 
-💸 De: R$ 6.798,00
-🔥 Por: R$ 3.399,00
-🏷️ 50% OFF
+💸 De: R$ 99,30
+🔥 Por: R$ 43,69
+🏷️ 56% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/3B7oL0gJUg
+Ver oferta: https://s.shopee.com.br/3LRFKlUpmz
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
@@ -102,7 +102,37 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Moda Feminina
+## Post 4 — Ofertas Pet
+
+**Canal recomendado:** Ofertas Pet
+
+**Horário sugerido:** 17:00 - 20:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
+
+**Texto pronto:**
+
+```txt
+🐶 Oferta para Ofertas Pet
+
+Repetidor Wifi 2800m 6 Antenas Roteador Amplificador De Sinal Modem 1…
+
+💸 De: R$ 120,41
+🔥 Por: R$ 52,98
+🏷️ 56% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/AAHZTKVHsj
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 5 — Moda Feminina
 
 **Canal recomendado:** Moda Feminina
 
@@ -125,36 +155,6 @@ Kit 2 Calças Alfaiataria Premium
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/qjtE7d8hY
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 5 — Ofertas Pet
-
-**Canal recomendado:** Ofertas Pet
-
-**Horário sugerido:** 17:00 - 20:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
-
-**Texto pronto:**
-
-```txt
-🐶 Oferta para Ofertas Pet
-
-Vestido Feminino Curto Duna com Amarração Caimento Soltinho Gola Halt…
-
-💸 De: R$ 60,00
-🔥 Por: R$ 46,80
-🏷️ 22% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/5fp9a5XbSb
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

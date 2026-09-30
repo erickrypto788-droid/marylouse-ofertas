@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 30/09/2026 06:06
+Gerado em: 30/09/2026 06:22
 
 ## Como usar
 
@@ -78,9 +78,9 @@ Gerado em: 30/09/2026 06:06
 
 **Produtos usados:**
 
+- Perfumes Brand Collection 25ml - Fragrâncias femininas
 - Chapinha Prancha Cabelo Profissional Nano Titanium 450F BIVOLT
-- ANA1108 Kit 10 mini pincéis para Maquiagem com estojo bolsa para viag…
-- Kaisasa Shampoo Tonalizante Para Cobrir Cabelo Cinzento，shampoo cabel…
+- Perfume Feminino ÁRABES SABAH 100ML Eau de Parfum Edp Original
 
 ---
 

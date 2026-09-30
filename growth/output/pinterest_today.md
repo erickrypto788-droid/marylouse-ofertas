@@ -1,6 +1,6 @@
 # Pinterest Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 30/09/2026 06:06
+Gerado em: 30/09/2026 06:22
 
 ## Como usar
 
@@ -86,7 +86,7 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
 
 **Descrição:**
 
-Veja ofertas de Beleza selecionadas pela MaryLouse Ofertas. Destaque de hoje: Chapinha Prancha Cabelo Profissional Nano Titanium 450F BIVOLT. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Veja ofertas de Beleza selecionadas pela MaryLouse Ofertas. Destaque de hoje: Perfumes Brand Collection 25ml - Fragrâncias femininas. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
@@ -94,7 +94,7 @@ https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=pinterest&ut
 
 **Por que postar:**
 
-Categoria com 5 oferta(s) e boa intenção de compra.
+Categoria com 10 oferta(s) e boa intenção de compra.
 
 ---
 
@@ -138,15 +138,15 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
 
 **Título:**
 
-67% OFF: Chapinha Prancha Cabelo Profissional Nano Titanium 450F BIVOLT
+62% OFF: Perfumes Brand Collection 25ml - Fragrâncias femininas
 
 **Descrição:**
 
-Oferta destaque em Beleza encontrada pela MaryLouse Ofertas. Preço: R$ 29,99. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Oferta destaque em Beleza encontrada pela MaryLouse Ofertas. Preço: R$ 38,00. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
-https://s.shopee.com.br/3LRC8zYQPc
+https://s.shopee.com.br/AAHYo7G2A0
 
 **Por que postar:**
 

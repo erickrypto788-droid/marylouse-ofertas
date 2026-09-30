@@ -1,17 +1,17 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 30/09/2026 20:51
+Gerado em: 30/09/2026 21:08
 
 ## Categorias prioritárias
 
 - 👗 **Moda Feminina**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 📦 **Outros**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 🍼 **Mãe e Bebê**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 💄 **Beleza**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 👕 **Moda Masculina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
-- 🍼 **Mãe e Bebê**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 🐶 **Pet**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
+- 📱 **Celulares**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 📚 **Papelaria**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 - 👜 **Bolsas**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 
@@ -59,33 +59,33 @@ Gerado em: 30/09/2026 20:51
    - Desconto: 50% OFF
    - Link: https://s.shopee.com.br/3B7oL0gJUg
 
-7. **Smartphone 6.78" 5G 16GB/512GB Câmera HD**
-   - Categoria: Celulares
-   - Loja: Mercado Livre
-   - Preço: R$ 1.380,00
-   - Desconto: 58% OFF
-   - Link: https://www.mercadolivre.com.br/p/MLB78262248?matt_word=marylouse&matt_tool=50459180&forceInApp=true
-
-8. **Mala Case Capa Bolsa Porta Case Notebook Slim 14,6/15,6 Alça Dupla Re…**
+7. **Mala Case Capa Bolsa Porta Case Notebook Slim 14,6/15,6 Alça Dupla Re…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 28,52
    - Desconto: 38% OFF
    - Link: https://s.shopee.com.br/7VGo63ygBL
 
-9. **Kit 32 Fraldas Geriátricas Unissex ConfortMaster Pants P/M G/EG Calc…**
+8. **Kit 32 Fraldas Geriátricas Unissex ConfortMaster Pants P/M G/EG Calc…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 77,98
    - Desconto: 38% OFF
    - Link: https://s.shopee.com.br/3VkfCT0TbE
 
-10. **Perfume Feminino ÁRABES SABAH 100ML Eau de Parfum Edp Original**
+9. **Perfume Feminino ÁRABES SABAH 100ML Eau de Parfum Edp Original**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 143,99
    - Desconto: 42% OFF
    - Link: https://s.shopee.com.br/9peiPVHIpu
+
+10. **Escorredor De Arroz Inox Legumes Frutas Multiuso Cozinha Alça Coador…**
+   - Categoria: Casa e Cozinha
+   - Loja: Shopee
+   - Preço: R$ 19,99
+   - Desconto: 53% OFF
+   - Link: https://s.shopee.com.br/2gBYbf0QRi
 
 ## Ações gratuitas recomendadas
 

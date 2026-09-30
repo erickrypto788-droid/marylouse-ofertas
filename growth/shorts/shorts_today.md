@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 30/09/2026 20:22
+Gerado em: 30/09/2026 21:08
 
 ## Como usar
 
@@ -104,7 +104,7 @@ Gerado em: 30/09/2026 20:22
 
 - Teclado e mouse sem fio—Compatível com tablet，Notebook e celular, Rec…
 - LANCAMENTO CELULAR XIAOMI POCO X8 PRO MAX 5G NFC 256GB OU 512GB VERSÃ…
-- Smartphone 6.78" 5G 16GB/512GB Câmera HD
+- Basike Carregador Portátil Power Bank 20000mAh Bateria Externa Para i…
 
 ---
 
@@ -127,7 +127,7 @@ Gerado em: 30/09/2026 20:22
 **Produtos usados:**
 
 - Hidratante Creme Facial Pele De Porcelana Kokeshi 30g Milagre do Arroz
+- Azeite Vila Oliva 3x500ml
 - Azeite Oliva Extra Virgem Italiano 500ml Mercatto
-- Kit 4 Potes Herméticos 2L Com Copo Medidor Organizador Mantimentos Ar…
 
 ---

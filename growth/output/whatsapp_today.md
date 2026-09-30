@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 30/09/2026 12:04
+Gerado em: 30/09/2026 13:19
 
 ## Como usar
 
@@ -162,29 +162,29 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 6 — Moda e Calçados
+## Post 6 — Saúde
 
-**Canal recomendado:** Moda e Calçados
+**Canal recomendado:** Saúde e Bem-estar
 
-**Horário sugerido:** 12:00 - 15:00
+**Horário sugerido:** 09:00 - 11:00
 
 **Imagem/card:**
 
-https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
+https://marylouse-ofertas.vercel.app/growth/pinterest/saude.png
 
 **Texto pronto:**
 
 ```txt
-👟 Oferta para Moda e Calçados
+❤️ Oferta para Saúde
 
-Tênis Infantil Branco Confortável
+Aparelho Medidor De Glicose G-tech Vita Kit 10tiras+10lancet
 
-💸 De: R$ 99,72
-🔥 Por: R$ 39,89
-🏷️ 60% OFF
+💸 De: R$ 131,14
+🔥 Por: R$ 45,90
+🏷️ 65% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/6VOFFDhrUV
+Ver oferta: https://s.shopee.com.br/6q15qC5kla
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

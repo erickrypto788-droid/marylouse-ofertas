@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 30/09/2026 12:04
+Gerado em: 30/09/2026 13:19
 
 ## Categorias prioritárias
 
 - 🍼 **Mãe e Bebê**: 15 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 💄 **Beleza**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 🏋️ **Esportes**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - ❤️ **Saúde**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
-- 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 👗 **Moda Feminina**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
+- 💻 **Informática**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 🏋️ **Esportes**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 📦 **Outros**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
-- 💻 **Informática**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 🧸 **Brinquedos**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
-- 🧰 **Ferramentas**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-ferramentas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_ferramentas
+- 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 👜 **Bolsas**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 
 ## Top ofertas para destacar
 
@@ -59,33 +59,33 @@ Gerado em: 30/09/2026 12:04
    - Desconto: 59% OFF
    - Link: https://s.shopee.com.br/8fSkDx9aNn
 
-7. **Kit 32 Fraldas Geriátricas Unissex ConfortMaster Pants P/M G/EG Calc…**
+7. **Mala Case Capa Bolsa Porta Case Notebook Slim 14,6/15,6 Alça Dupla Re…**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 28,52
+   - Desconto: 38% OFF
+   - Link: https://s.shopee.com.br/7VGo63ygBL
+
+8. **Kit 32 Fraldas Geriátricas Unissex ConfortMaster Pants P/M G/EG Calc…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 77,98
    - Desconto: 38% OFF
    - Link: https://s.shopee.com.br/3VkfCT0TbE
 
-8. **Perfume Feminino ÁRABES SABAH 100ML Eau de Parfum Edp Original**
+9. **Perfume Feminino ÁRABES SABAH 100ML Eau de Parfum Edp Original**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 143,99
    - Desconto: 42% OFF
    - Link: https://s.shopee.com.br/9peiPVHIpu
 
-9. **Fralda Pampers Splashers M/G**
+10. **Fralda Pampers Splashers M/G**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 44,99
    - Desconto: 31% OFF
    - Link: https://s.shopee.com.br/3LRDjsUOXh
-
-10. **Kit Escova Higiene Lavar 4 em 1 para Copo, Garrafa,Mamadeira e Canudo…**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 25,99
-   - Desconto: 54% OFF
-   - Link: https://s.shopee.com.br/7AdxZCzeDD
 
 ## Ações gratuitas recomendadas
 

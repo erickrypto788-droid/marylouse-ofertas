@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 30/09/2026 18:17
+Gerado em: 30/09/2026 19:22
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Kit 2 Calças Alfaiataria Premium
+Blusa Feminina Gola Polo Ribana Canelada Premium Elegante Casual Esti…
 
-💸 De: R$ 151,20
-🔥 Por: R$ 37,80
-🏷️ 75% OFF
+💸 De: R$ 93,52
+🔥 Por: R$ 28,99
+🏷️ 69% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/qjtE7d8hY
+Ver oferta: https://s.shopee.com.br/2BFI8ypMVQ
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

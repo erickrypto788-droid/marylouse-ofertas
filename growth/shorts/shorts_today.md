@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 30/09/2026 18:17
+Gerado em: 30/09/2026 19:22
 
 ## Como usar
 
@@ -80,7 +80,7 @@ Gerado em: 30/09/2026 18:17
 
 - Perfumes Brand Collection 25ml - Fragrâncias femininas
 - Perfume Feminino ÁRABES SABAH 100ML Eau de Parfum Edp Original
-- ANA1108 Kit 10 mini pincéis para Maquiagem com estojo bolsa para viag…
+- Escova Secadora
 
 ---
 

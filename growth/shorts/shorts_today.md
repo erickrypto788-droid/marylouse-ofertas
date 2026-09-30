@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 30/09/2026 03:18
+Gerado em: 30/09/2026 04:09
 
 ## Como usar
 
@@ -80,7 +80,7 @@ Gerado em: 30/09/2026 03:18
 
 - Chapinha Prancha Cabelo Profissional Nano Titanium 450F BIVOLT
 - ANA1108 Kit 10 mini pincéis para Maquiagem com estojo bolsa para viag…
-- Protetor Solar Facial PS-01 FPS 40 Principia - 40ml
+- Kaisasa Shampoo Tonalizante Para Cobrir Cabelo Cinzento，shampoo cabel…
 
 ---
 
@@ -127,7 +127,7 @@ Gerado em: 30/09/2026 03:18
 **Produtos usados:**
 
 - Kit Clareador Facial - Sabonete Líquido + Protetor Solar Clareador 70…
+- Azeite Oliva Extra Virgem Italiano 500ml Mercatto
 - Kit 4 Potes Herméticos 2L Com Copo Medidor Organizador Mantimentos Ar…
-- Kit Higiene Bucal Completo (35 Escovas + Portas + Cremes)
 
 ---

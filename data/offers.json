@@ -1,5 +1,26 @@
 [
   {
+    "id": "b21888103294049e1e",
+    "title": "GTA VI Edição Standard - PS5",
+    "raw_title": "Jogo Grand Theft Auto VI Edição Standard - PS5",
+    "description": "🚀 GTA VI PS5: Garanta o seu! A Edição Standard de Grand Theft Auto VI para PlayStation 5 já está disponível para você mergulhar na próxima aventura!",
+    "marketplace": "Shopee",
+    "category": "Jogos e Consoles",
+    "old_price": "",
+    "price": "R$ 449,90",
+    "discount_percent": 0.0,
+    "rating": 0.0,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820ma-mpxxrh0ud43kb3",
+    "affiliate_url": "https://s.shopee.com.br/40gwGExSor",
+    "created_at": "30/09/2026 18:16",
+    "created_at_iso": "2026-09-30T18:16:03",
+    "created_ts": 1790792163,
+    "niche": {
+      "key": "shopee_jogos_consoles",
+      "name": "Jogos e Consoles"
+    }
+  },
+  {
     "id": "d6b1143c3744af2bb3",
     "title": "Escorredor De Arroz Inox Legumes Frutas Multiuso Cozinha Alça Coador…",
     "raw_title": "Escorredor De Arroz Inox Legumes Frutas Multiuso Cozinha Alça Coador Peneira Drenagem Inoxidável",
@@ -2269,39 +2290,5 @@
       "key": "shopee_bolsas_masculinas",
       "name": "Bolsas Masculinas"
     }
-  },
-  {
-    "id": "a0a3f63b79d1519b80",
-    "title": "Furadeira Parafusadeira Imp C/ Parafusadeira Imp Dlx2336syx",
-    "raw_title": "Furadeira Parafusadeira Imp C/ Parafusadeira Imp Dlx2336syx",
-    "description": "🔥 Oferta encontrada! 📌 Furadeira Parafusadeira Imp C/ Parafusadeira Imp Dlx2336syx Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Mercado Livre",
-    "category": "Ferramentas",
-    "old_price": "",
-    "price": "R$ 1.659,50",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_720035-MLA99981479295_112025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23649057?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "29/09/2026 18:02",
-    "created_at_iso": "2026-09-29T18:02:41",
-    "created_ts": 1790704961
-  },
-  {
-    "id": "4bc2e0f476fdb43920",
-    "title": "Combo Furadeira Parafusadeira DF333D + Parafusadeira de Impacto TD110…",
-    "raw_title": "Combo Furadeira Parafusadeira DF333D + Parafusadeira de Impacto TD110D 12V - CLX224SAX",
-    "description": "🔥 16% OFF — Oferta encontrada! 📌 Combo Furadeira Parafusadeira DF333D + Parafusadeira de Impacto TD110D 12V - CLX224SAX Confira os detalhes e aproveite...",
-    "marketplace": "Mercado Livre",
-    "category": "Ferramentas",
-    "old_price": "R$ 1.429,00",
-    "price": "R$ 1.199,00",
-    "discount_percent": 16.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_760221-MLA99494941634_112025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB19765397?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "29/09/2026 18:01",
-    "created_at_iso": "2026-09-29T18:01:37",
-    "created_ts": 1790704897
   }
 ]

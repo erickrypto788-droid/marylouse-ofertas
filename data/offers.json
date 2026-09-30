@@ -1,5 +1,47 @@
 [
   {
+    "id": "43b25e8292dabf67b1",
+    "title": "Tênis Sapato Masculino Casual + Relógio Digital Sapatênis Várias Core…",
+    "raw_title": "Tênis Sapato Masculino Casual + Relógio Digital Sapatênis Várias Cores Envio Imediato",
+    "description": "🔥 82% OFF — Oferta encontrada! 📌 Tênis Sapato Masculino Casual + Relógio Digital Sapatênis Várias Cores Envio Imediato Confira os detalhes e aproveite e...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Masculinos",
+    "old_price": "R$ 205,00",
+    "price": "R$ 36,90",
+    "discount_percent": 82.0,
+    "rating": 4.6,
+    "image": "https://cf.shopee.com.br/file/br-11134201-820lu-mpn4bhzvfuo09f",
+    "affiliate_url": "https://s.shopee.com.br/W74MHXnAT",
+    "created_at": "30/09/2026 22:16",
+    "created_at_iso": "2026-09-30T22:16:55",
+    "created_ts": 1790806615,
+    "niche": {
+      "key": "shopee_sapatos_masculinos",
+      "name": "Sapatos Masculinos"
+    }
+  },
+  {
+    "id": "5f9986899aad88f9cc",
+    "title": "Sapatenis Casual Masculino Sneaker Sola Alta Macio Chunky Confortável…",
+    "raw_title": "Sapatenis Casual Masculino Sneaker Sola Alta Macio Chunky Confortável Estiloso Sola Oversize Lanç",
+    "description": "🔥 61% OFF — Oferta encontrada! 📌 Sapatenis Casual Masculino Sneaker Sola Alta Macio Chunky Confortável Estiloso Sola Oversize Lanç Confira os detalhes e...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Masculinos",
+    "old_price": "R$ 148,46",
+    "price": "R$ 57,90",
+    "discount_percent": 61.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9650td3b8l544",
+    "affiliate_url": "https://s.shopee.com.br/4qG3WFHIN9",
+    "created_at": "30/09/2026 22:15",
+    "created_at_iso": "2026-09-30T22:15:51",
+    "created_ts": 1790806551,
+    "niche": {
+      "key": "shopee_sapatos_masculinos",
+      "name": "Sapatos Masculinos"
+    }
+  },
+  {
     "id": "9b7e9dcd49ee04c70b",
     "title": "Calça Legging Fitness Feminina Ausare com Proteção UV 50+ para Academ…",
     "raw_title": "Calça Legging Fitness Feminina Ausare com Proteção UV 50+ para Academia, Yoga e Pilates",
@@ -2217,27 +2259,6 @@
     "niche": {
       "key": "shopee_roupas_femininas",
       "name": "Roupas Femininas"
-    }
-  },
-  {
-    "id": "8fc6d007ab5a17c779",
-    "title": "Controle Playstation 5 Sem Fio Dualsense Midnight Black - PS5",
-    "raw_title": "Controle Playstation 5 Sem Fio Dualsense Midnight Black - PS5",
-    "description": "🔥 18% OFF — Oferta encontrada! 📌 Controle Playstation 5 Sem Fio Dualsense Midnight Black - PS5 Confira os detalhes e aproveite enquanto a oferta estiver...",
-    "marketplace": "Shopee",
-    "category": "Jogos e Consoles",
-    "old_price": "R$ 548,66",
-    "price": "R$ 449,90",
-    "discount_percent": 18.0,
-    "rating": 5.0,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ln-mpthld7x57uq32",
-    "affiliate_url": "https://s.shopee.com.br/80D2QshMGC",
-    "created_at": "29/09/2026 22:15",
-    "created_at_iso": "2026-09-29T22:15:48",
-    "created_ts": 1790720148,
-    "niche": {
-      "key": "shopee_jogos_consoles",
-      "name": "Jogos e Consoles"
     }
   }
 ]

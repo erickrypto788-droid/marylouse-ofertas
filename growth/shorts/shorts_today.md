@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 30/09/2026 02:18
+Gerado em: 30/09/2026 03:18
 
 ## Como usar
 
@@ -127,7 +127,7 @@ Gerado em: 30/09/2026 02:18
 **Produtos usados:**
 
 - Kit Clareador Facial - Sabonete Líquido + Protetor Solar Clareador 70…
-- Bola Feijão ioga yoga com bomba Amendoim pilates ginastica exercicio…
 - Kit 4 Potes Herméticos 2L Com Copo Medidor Organizador Mantimentos Ar…
+- Kit Higiene Bucal Completo (35 Escovas + Portas + Cremes)
 
 ---

@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 30/09/2026 21:08
+Gerado em: 30/09/2026 21:21
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Blusa Feminina Gola Polo Ribana Canelada Premium Elegante Casual Esti…
+Blazer Plus Size Alfaiataria
 
-💸 De: R$ 93,52
-🔥 Por: R$ 28,99
+💸 De: R$ 158,06
+🔥 Por: R$ 49,00
 🏷️ 69% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/2BFI8ypMVQ
+Ver oferta: https://s.shopee.com.br/4qG3S8Euol
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

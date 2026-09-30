@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 30/09/2026 00:03
+Gerado em: 30/09/2026 00:22
 
 ## Como usar
 
@@ -79,8 +79,8 @@ Gerado em: 30/09/2026 00:03
 **Produtos usados:**
 
 - Chapinha Prancha Cabelo Profissional Nano Titanium 450F BIVOLT
-- 32 Peças Kit De Maquiagem Para Crianças Lavável/Conjunto Portátil Men…
 - ANA1108 Kit 10 mini pincéis para Maquiagem com estojo bolsa para viag…
+- Protetor Solar Facial PS-01 FPS 40 Principia - 40ml
 
 ---
 
@@ -102,9 +102,9 @@ Gerado em: 30/09/2026 00:03
 
 **Produtos usados:**
 
-- Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com…
 - Smartphone 6.78" 5G 16GB/512GB Câmera HD
 - Lente Grande Angular + Macro para Celular
+- Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mous…
 
 ---
 

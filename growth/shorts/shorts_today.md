@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 30/09/2026 06:22
+Gerado em: 30/09/2026 07:21
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 30/09/2026 06:22
 
 **Produtos usados:**
 
+- Kit 4 Peças Conjunto Infantil Menino Verão
+- Sandália Cartago Baby Slide
 - Fralda Pampers Splashers M/G
-- Carrinho de Rolimã Super Car com Led Suporta até 100kg Unitoys
-- Trocador Plastificado Impermeável Anatômico Americano de Cômoda Para…
 
 ---
 

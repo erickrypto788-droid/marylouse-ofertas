@@ -1,5 +1,47 @@
 [
   {
+    "id": "a65fa195fd25b96015",
+    "title": "Sapatenis Masculino Star Fox Ziper e Cadarço Calce Casual A1",
+    "raw_title": "Sapatenis Masculino Star Fox Ziper e Cadarço Calce Casual A1",
+    "description": "🔥 30% OFF — Oferta encontrada! 📌 Sapatenis Masculino Star Fox Ziper e Cadarço Calce Casual A1 Confira os detalhes e aproveite enquanto a oferta estiver...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Masculinos",
+    "old_price": "R$ 89,86",
+    "price": "R$ 62,90",
+    "discount_percent": 30.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820mc-mnebo6lm4phd6e",
+    "affiliate_url": "https://s.shopee.com.br/3B7oClbgHE",
+    "created_at": "30/09/2026 02:16",
+    "created_at_iso": "2026-09-30T02:16:48",
+    "created_ts": 1790734608,
+    "niche": {
+      "key": "shopee_sapatos_masculinos",
+      "name": "Sapatos Masculinos"
+    }
+  },
+  {
+    "id": "e301935b7799c90b79",
+    "title": "Tênis Sapatênis Masculino Knit Confortável Respirável Estilso Fácil d…",
+    "raw_title": "Tênis Sapatênis Masculino Knit Confortável Respirável Estilso Fácil de Calçar Resistente para o Dia a Dia",
+    "description": "🔥 56% OFF — Oferta encontrada! 📌 Tênis Sapatênis Masculino Knit Confortável Respirável Estilso Fácil de Calçar Resistente para o Dia a Dia Confira os de...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Masculinos",
+    "old_price": "R$ 200,00",
+    "price": "R$ 88,00",
+    "discount_percent": 56.0,
+    "rating": 4.6,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lw-mnbnfs86eww4f8",
+    "affiliate_url": "https://s.shopee.com.br/70KWloN5V7",
+    "created_at": "30/09/2026 02:15",
+    "created_at_iso": "2026-09-30T02:15:44",
+    "created_ts": 1790734544,
+    "niche": {
+      "key": "shopee_sapatos_masculinos",
+      "name": "Sapatos Masculinos"
+    }
+  },
+  {
     "id": "a06164dc0bf8ffb95e",
     "title": "Blusa Manga Princesa Curta Elegante Tendência Moda Maior Plus Size Bo…",
     "raw_title": "Blusa Manga Princesa Curta Elegante Tendência Moda Maior Plus Size Botão Moda Casual Tecido Dunas",
@@ -2327,43 +2369,5 @@
       "key": "shopee_bebidas_alimentos",
       "name": "Bebidas e Alimentos"
     }
-  },
-  {
-    "id": "a3643af6753a62787e",
-    "title": "Hibisco + Cavalinha: Desinche e Queime Gordura",
-    "raw_title": "Hibisco + Cavalinha Suplemento Diurético Retenção de Líquido e Queima de Gordura",
-    "description": "🚨 Xô, retenção de líquidos! Queime gordura e desinche com 50% OFF! 🔥 O suplemento de Hibisco + Cavalinha é a dupla poderosa para acelerar seu metabolism...",
-    "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
-    "old_price": "R$ 49,80",
-    "price": "R$ 24,90",
-    "discount_percent": 50.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lq-mou59qxsg000eb",
-    "affiliate_url": "https://s.shopee.com.br/qjrpaxK8U",
-    "created_at": "29/09/2026 02:15",
-    "created_at_iso": "2026-09-29T02:15:58",
-    "created_ts": 1790648158,
-    "niche": {
-      "key": "shopee_bebidas_alimentos",
-      "name": "Bebidas e Alimentos"
-    }
-  },
-  {
-    "id": "1e00ac16f6977b9605",
-    "title": "【MDF Durável】Prateleira para Roteador – Suporte Invisível na Parede,…",
-    "raw_title": "【MDF Durável】Prateleira para Roteador – Suporte Invisível na Parede, Acomoda TV/Modem/Video Game!",
-    "description": "🔥 40% OFF — Oferta encontrada! 📌 【MDF Durável】Prateleira para Roteador – Suporte Invisível na Parede, Acomoda TV/Modem/Video Game! Confira os detalhes e...",
-    "marketplace": "Shopee",
-    "category": "Informática",
-    "old_price": "R$ 66,50",
-    "price": "R$ 39,90",
-    "discount_percent": 40.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhemv321wjk0bd",
-    "affiliate_url": "https://s.shopee.com.br/1BMiA5ObO0",
-    "created_at": "29/09/2026 01:20",
-    "created_at_iso": "2026-09-29T01:20:06",
-    "created_ts": 1790644806
   }
 ]

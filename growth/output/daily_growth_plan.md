@@ -1,11 +1,11 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 01/10/2026 18:20
+Gerado em: 01/10/2026 19:04
 
 ## Categorias prioritárias
 
+- 💄 **Beleza**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 👟 **Calçados**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 💄 **Beleza**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🍼 **Mãe e Bebê**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🏋️ **Esportes**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
@@ -17,75 +17,75 @@ Gerado em: 01/10/2026 18:20
 
 ## Top ofertas para destacar
 
-1. **Escova Pet Secadora Elétrica**
+1. **Perfume Millions Masculino**
+   - Categoria: Beleza
+   - Loja: Mercado Livre
+   - Preço: R$ 184,00
+   - Desconto: 50% OFF
+   - Link: https://www.mercadolivre.com.br/p/MLB77141871?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+2. **Escova Pet Secadora Elétrica**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 43,99
    - Desconto: 78% OFF
    - Link: https://s.shopee.com.br/70KZ1upqH3
 
-2. **Perfume Feminino Olympia**
+3. **Perfume Feminino Olympia**
    - Categoria: Beleza
    - Loja: Mercado Livre
    - Preço: R$ 184,00
    - Desconto: 50% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB77039877?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-3. **Fralda Descartáveis Huggies Rápida Absorção Tripla Proteção Tamanho P…**
+4. **Fralda Descartáveis Huggies Rápida Absorção Tripla Proteção Tamanho P…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 32,00
    - Desconto: 45% OFF
    - Link: https://s.shopee.com.br/LnfQH0L1j
 
-4. **Smartphone Motorola Moto G06 4G 256GB 4GB RAM Câmera Traseira 50MP +…**
+5. **Smartphone Motorola Moto G06 4G 256GB 4GB RAM Câmera Traseira 50MP +…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 869,00
    - Desconto: 42% OFF
    - Link: https://s.shopee.com.br/gQUgpBWqv
 
-5. **Trocador Plastificado de Nenem Com Amarras - Oferta - Bebe - Atenas**
+6. **Trocador Plastificado de Nenem Com Amarras - Oferta - Bebe - Atenas**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 28,79
    - Desconto: 66% OFF
    - Link: https://s.shopee.com.br/5AsvB9dbgp
 
-6. **TIRAS DE TESTE GLICOSE G-TECH PARA MEDIDOR MODELO VITA C/50**
+7. **TIRAS DE TESTE GLICOSE G-TECH PARA MEDIDOR MODELO VITA C/50**
    - Categoria: Saúde
    - Loja: Shopee
    - Preço: R$ 44,90
    - Desconto: 57% OFF
    - Link: https://s.shopee.com.br/3Vkh7y3hOy
 
-7. **Monitor digital de pressão arterial de braço totalmente automático an…**
+8. **Monitor digital de pressão arterial de braço totalmente automático an…**
    - Categoria: Saúde
    - Loja: Shopee
    - Preço: R$ 38,99
    - Desconto: 68% OFF
    - Link: https://s.shopee.com.br/9zyAruJA5Y
 
-8. **Carrinho De Boneca Bebe Brinquedo Infantil Passeio**
+9. **Carrinho De Boneca Bebe Brinquedo Infantil Passeio**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 21,99
    - Desconto: 56% OFF
    - Link: https://s.shopee.com.br/9zyAnnGMvo
 
-9. **Escova Profissional 5 em 1**
+10. **Escova Profissional 5 em 1**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 50,99
    - Desconto: 66% OFF
    - Link: https://s.shopee.com.br/113Lst3kMo
-
-10. **Fritadeira Air Fryer Itatiaia 3,5L**
-   - Categoria: Casa e Cozinha
-   - Loja: Shopee
-   - Preço: R$ 181,75
-   - Desconto: 21% OFF
-   - Link: https://s.shopee.com.br/6VOHpu5cAE
 
 ## Ações gratuitas recomendadas
 

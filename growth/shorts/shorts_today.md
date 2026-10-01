@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 01/10/2026 02:04
+Gerado em: 01/10/2026 05:04
 
 ## Como usar
 
@@ -104,7 +104,7 @@ Gerado em: 01/10/2026 02:04
 
 - Smartphone Motorola Moto G06 4G 256GB 4GB RAM Câmera Traseira 50MP +…
 - Teclado e mouse sem fio—Compatível com tablet，Notebook e celular, Rec…
-- LANCAMENTO CELULAR XIAOMI POCO X8 PRO MAX 5G NFC 256GB OU 512GB VERSÃ…
+- Localizador GPS Smart Air Tag Rastreador Bluetooth para iPhone Androi…
 
 ---
 
@@ -128,6 +128,6 @@ Gerado em: 01/10/2026 02:04
 
 - Hidratante Creme Facial Pele De Porcelana Kokeshi 30g Milagre do Arroz
 - Azeite Vila Oliva 3x500ml
-- Azeite Oliva Extra Virgem Italiano 500ml Mercatto
+- Creme Dental Anticáries 90g Elmex
 
 ---

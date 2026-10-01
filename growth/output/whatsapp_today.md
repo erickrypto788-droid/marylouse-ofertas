@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 01/10/2026 22:04
+Gerado em: 01/10/2026 22:22
 
 ## Como usar
 
@@ -117,14 +117,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
 ```txt
 🐶 Oferta para Ofertas Pet
 
-Sandália Babuche Papete
+Pó perolado Ouro Prata para Decoração de Bolo Mousse, Fondant, Macaro…
 
-💸 De: R$ 40,18
-🔥 Por: R$ 22,90
-🏷️ 43% OFF
+💸 De: R$ 30,00
+🔥 Por: R$ 15,90
+🏷️ 47% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/BUExU4dOM
+Ver oferta: https://s.shopee.com.br/113MY5fGUg
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
@@ -147,14 +147,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
 ```txt
 🍳 Oferta para Casa e Cozinha
 
-Fritadeira Air Fryer Itatiaia 3,5L
+Panela Elétrica Britânia 2L 5 Temperaturas 650W BPE02A
 
-💸 De: R$ 230,06
-🔥 Por: R$ 181,75
-🏷️ 21% OFF
+💸 De: R$ 199,85
+🔥 Por: R$ 129,90
+🏷️ 35% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/6VOHpu5cAE
+Ver oferta: https://s.shopee.com.br/qjwLmkENC
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

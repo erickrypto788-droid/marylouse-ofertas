@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 01/10/2026 14:22
+Gerado em: 01/10/2026 14:34
 
 ## Categorias prioritárias
 

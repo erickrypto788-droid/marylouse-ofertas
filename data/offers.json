@@ -1,5 +1,22 @@
 [
   {
+    "id": "3af0ccc50d756d4138",
+    "title": "Rack Yescasa Rack para TV até 70\" jatoba terroso de mdp",
+    "raw_title": "Rack Yescasa Rack para TV até 70\" jatoba terroso de mdp",
+    "description": "🔥 14% OFF — Oferta encontrada! 📌 Rack Yescasa Rack para TV até 70\" jatoba terroso de mdp Confira os detalhes e aproveite enquanto a oferta estiver dispo...",
+    "marketplace": "Mercado Livre",
+    "category": "Casa e Decoração",
+    "old_price": "R$ 999,98",
+    "price": "R$ 855,87",
+    "discount_percent": 14.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_984270-MLA111480956924_052026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70627275?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "01/10/2026 16:03",
+    "created_at_iso": "2026-10-01T16:03:08",
+    "created_ts": 1790870588
+  },
+  {
     "id": "efdd108c7a03d53aa3",
     "title": "Mesa Gamer Legos 120cm em L de Canto para Home Office Setup Escrivani…",
     "raw_title": "Mesa Gamer Legos 120cm em L de Canto para Home Office Setup Escrivaninha Geek Com Cantos Arredondados Design Moderno",
@@ -1533,26 +1550,5 @@
     "created_at": "30/09/2026 16:15",
     "created_at_iso": "2026-09-30T16:15:55",
     "created_ts": 1790784955
-  },
-  {
-    "id": "c85fc9a5561819f5d5",
-    "title": "Guilhotina Portátil A4 A3",
-    "raw_title": "Guilhotina Portátil Cortador De Papel A4 A3, 36.5cmx9.5cm Material Escritório",
-    "description": "Cortes perfeitos sem esforço! ✂️ Guilhotina Portátil Cortador De Papel A4 A3 Ideal para seu escritório ou projetos. Tenha cortes precisos e profissionai...",
-    "marketplace": "Shopee",
-    "category": "Papelaria",
-    "old_price": "R$ 23,48",
-    "price": "R$ 20,90",
-    "discount_percent": 11.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7reqk-m26g0o37fpa437",
-    "affiliate_url": "https://s.shopee.com.br/1gJ1HaLKAU",
-    "created_at": "30/09/2026 15:20",
-    "created_at_iso": "2026-09-30T15:20:25",
-    "created_ts": 1790781625,
-    "niche": {
-      "key": "shopee_papelaria",
-      "name": "Papelaria"
-    }
   }
 ]

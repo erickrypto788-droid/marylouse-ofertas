@@ -1,13 +1,13 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 01/10/2026 10:05
+Gerado em: 01/10/2026 11:22
 
 ## Categorias prioritárias
 
 - 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 👟 **Calçados**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 🍼 **Mãe e Bebê**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 🍳 **Casa e Cozinha**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 💻 **Informática**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 👗 **Moda Feminina**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 📚 **Papelaria**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
@@ -45,47 +45,47 @@ Gerado em: 01/10/2026 10:05
    - Desconto: 56% OFF
    - Link: https://s.shopee.com.br/3LRFKlUpmz
 
-5. **Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 26,99
-   - Desconto: 55% OFF
-   - Link: https://s.shopee.com.br/4fwcabw2EL
-
-6. **Smartphone Motorola Moto G06 4G 256GB 4GB RAM Câmera Traseira 50MP +…**
+5. **Smartphone Motorola Moto G06 4G 256GB 4GB RAM Câmera Traseira 50MP +…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 869,00
    - Desconto: 42% OFF
    - Link: https://s.shopee.com.br/gQUgpBWqv
 
-7. **Mala Case Capa Bolsa Porta Case Notebook Slim 14,6/15,6 Alça Dupla Re…**
+6. **Mala Case Capa Bolsa Porta Case Notebook Slim 14,6/15,6 Alça Dupla Re…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 28,52
    - Desconto: 38% OFF
    - Link: https://s.shopee.com.br/7VGo63ygBL
 
-8. **Kit 32 Fraldas Geriátricas Unissex ConfortMaster Pants P/M G/EG Calc…**
-   - Categoria: Mãe e Bebê
+7. **Fritadeira Air Fryer Itatiaia 3,5L**
+   - Categoria: Casa e Cozinha
    - Loja: Shopee
-   - Preço: R$ 77,98
-   - Desconto: 38% OFF
-   - Link: https://s.shopee.com.br/3VkfCT0TbE
+   - Preço: R$ 181,75
+   - Desconto: 21% OFF
+   - Link: https://s.shopee.com.br/6VOHpu5cAE
 
-9. **Localizador GPS Smart Air Tag Rastreador Bluetooth para iPhone Androi…**
+8. **Localizador GPS Smart Air Tag Rastreador Bluetooth para iPhone Androi…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 17,99
    - Desconto: 64% OFF
    - Link: https://s.shopee.com.br/9AP2oRo2Sa
 
-10. **Escorredor De Arroz Inox Legumes Frutas Multiuso Cozinha Alça Coador…**
+9. **Escorredor De Arroz Inox Legumes Frutas Multiuso Cozinha Alça Coador…**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 19,99
    - Desconto: 53% OFF
    - Link: https://s.shopee.com.br/2gBYbf0QRi
+
+10. **Ração Estimacat Filhote 10kg**
+   - Categoria: Pet
+   - Loja: Mercado Livre
+   - Preço: R$ 253,07
+   - Desconto: 25% OFF
+   - Link: https://www.mercadolivre.com.br/p/MLB66844874?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ## Ações gratuitas recomendadas
 

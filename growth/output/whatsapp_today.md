@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 01/10/2026 10:05
+Gerado em: 01/10/2026 11:22
 
 ## Como usar
 
@@ -42,37 +42,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 2 — Mamãe e Bebê
-
-**Canal recomendado:** Mamãe e Bebê
-
-**Horário sugerido:** 09:00 - 11:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
-
-**Texto pronto:**
-
-```txt
-🍼 Oferta para Mamãe e Bebê
-
-Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…
-
-💸 De: R$ 59,98
-🔥 Por: R$ 26,99
-🏷️ 55% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/4fwcabw2EL
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 3 — Celulares e Tecnologia
+## Post 2 — Celulares e Tecnologia
 
 **Canal recomendado:** Celulares e Tecnologia
 
@@ -102,7 +72,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Beleza e Cuidados
+## Post 3 — Beleza e Cuidados
 
 **Canal recomendado:** Beleza e Cuidados
 
@@ -132,7 +102,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 5 — Ofertas Pet
+## Post 4 — Ofertas Pet
 
 **Canal recomendado:** Ofertas Pet
 
@@ -162,7 +132,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 6 — Moda Feminina
+## Post 5 — Moda Feminina
 
 **Canal recomendado:** Moda Feminina
 
@@ -185,6 +155,36 @@ Blazer Plus Size Alfaiataria
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/4qG3S8Euol
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 6 — Moda e Calçados
+
+**Canal recomendado:** Moda e Calçados
+
+**Horário sugerido:** 12:00 - 15:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
+
+**Texto pronto:**
+
+```txt
+👟 Oferta para Moda e Calçados
+
+Tênis de Corrida Esportivo
+
+💸 De: R$ 345,39
+🔥 Por: R$ 131,25
+🏷️ 62% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/40gwapaFni
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

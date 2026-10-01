@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 01/10/2026 10:05
+Gerado em: 01/10/2026 11:22
 
 ## Como usar
 
@@ -24,15 +24,11 @@ Gerado em: 01/10/2026 10:05
 
 - growth/shorts/slides/mae_bebe/01_intro.png
 - growth/shorts/slides/mae_bebe/02_produto_1.png
-- growth/shorts/slides/mae_bebe/03_produto_2.png
-- growth/shorts/slides/mae_bebe/04_produto_3.png
 - growth/shorts/slides/mae_bebe/05_cta.png
 
 **Produtos usados:**
 
-- Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…
-- Kit 32 Fraldas Geriátricas Unissex ConfortMaster Pants P/M G/EG Calc…
-- Kit Escova Higiene Lavar 4 em 1 para Copo, Garrafa,Mamadeira e Canudo…
+- Fralda Pampers Confort Sec G 38 Unidades
 
 ---
 
@@ -55,8 +51,8 @@ Gerado em: 01/10/2026 10:05
 **Produtos usados:**
 
 - 1.8L Panela De Arroz Elétrica Multi-Camadas/De Dupla Camada Dormitóri…
+- Fritadeira Air Fryer Itatiaia 3,5L
 - Escorredor De Arroz Inox Legumes Frutas Multiuso Cozinha Alça Coador…
-- Jogo de Panelas Vermelho Alumínio Fundido
 
 ---
 

@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 01/10/2026 00:21
+Gerado em: 01/10/2026 02:04
 
 ## Como usar
 
@@ -79,8 +79,8 @@ Gerado em: 01/10/2026 00:21
 **Produtos usados:**
 
 - Perfumes Brand Collection 25ml - Fragrâncias femininas
+- Perfume Feminino Olympia
 - Perfume Feminino ÁRABES SABAH 100ML Eau de Parfum Edp Original
-- Escova Secadora
 
 ---
 

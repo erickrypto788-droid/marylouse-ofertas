@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 01/10/2026 12:04
+Gerado em: 01/10/2026 12:22
 
 ## Como usar
 
@@ -69,12 +69,14 @@ Gerado em: 01/10/2026 12:04
 - growth/shorts/slides/beleza/01_intro.png
 - growth/shorts/slides/beleza/02_produto_1.png
 - growth/shorts/slides/beleza/03_produto_2.png
+- growth/shorts/slides/beleza/04_produto_3.png
 - growth/shorts/slides/beleza/05_cta.png
 
 **Produtos usados:**
 
+- Escova Pet Secadora Elétrica
 - Perfume Feminino Olympia
-- Chapinha Cabelo Profissional 450f Slim Bivolt, Titanium
+- Escova Profissional 5 em 1
 
 ---
 

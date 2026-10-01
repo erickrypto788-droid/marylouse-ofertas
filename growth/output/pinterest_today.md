@@ -1,6 +1,6 @@
 # Pinterest Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 01/10/2026 12:04
+Gerado em: 01/10/2026 12:22
 
 ## Como usar
 
@@ -86,7 +86,7 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
 
 **Descrição:**
 
-Veja ofertas de Beleza selecionadas pela MaryLouse Ofertas. Destaque de hoje: Perfume Feminino Olympia. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Veja ofertas de Beleza selecionadas pela MaryLouse Ofertas. Destaque de hoje: Escova Pet Secadora Elétrica. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
@@ -94,7 +94,7 @@ https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=pinterest&ut
 
 **Por que postar:**
 
-Categoria com 2 oferta(s) e boa intenção de compra.
+Categoria com 7 oferta(s) e boa intenção de compra.
 
 ---
 
@@ -126,27 +126,27 @@ Categoria com 6 oferta(s) e boa intenção de compra.
 
 ---
 
-## Pin 5 — Casa e Cozinha
+## Pin 5 — Beleza
 
 **Tipo:** produto_direto
 
-**Board sugerido:** Achadinhos de Casa
+**Board sugerido:** Beleza e Cuidados
 
 **Imagem para upload no Pinterest:**
 
-https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
+https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
 
 **Título:**
 
-70% OFF: 1.8L Panela De Arroz Elétrica Multi-Camadas/De Dupla Camada Dormitóri…
+78% OFF: Escova Pet Secadora Elétrica
 
 **Descrição:**
 
-Oferta destaque em Casa e Cozinha encontrada pela MaryLouse Ofertas. Preço: R$ 58,87. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Oferta destaque em Beleza encontrada pela MaryLouse Ofertas. Preço: R$ 43,99. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
-https://s.shopee.com.br/gQTQXaPiG
+https://s.shopee.com.br/70KZ1upqH3
 
 **Por que postar:**
 

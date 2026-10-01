@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 01/10/2026 07:05
+Gerado em: 01/10/2026 10:05
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 01/10/2026 07:05
 **Produtos usados:**
 
 - Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…
-- Kit 4 Peças Conjunto Infantil Menino Verão
-- Sandália Cartago Baby Slide
+- Kit 32 Fraldas Geriátricas Unissex ConfortMaster Pants P/M G/EG Calc…
+- Kit Escova Higiene Lavar 4 em 1 para Copo, Garrafa,Mamadeira e Canudo…
 
 ---
 
@@ -73,14 +73,12 @@ Gerado em: 01/10/2026 07:05
 - growth/shorts/slides/beleza/01_intro.png
 - growth/shorts/slides/beleza/02_produto_1.png
 - growth/shorts/slides/beleza/03_produto_2.png
-- growth/shorts/slides/beleza/04_produto_3.png
 - growth/shorts/slides/beleza/05_cta.png
 
 **Produtos usados:**
 
 - Perfume Feminino Olympia
 - Chapinha Cabelo Profissional 450f Slim Bivolt, Titanium
-- Escova Secadora
 
 ---
 

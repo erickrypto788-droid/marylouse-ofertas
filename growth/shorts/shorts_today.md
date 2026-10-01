@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 01/10/2026 21:03
+Gerado em: 01/10/2026 21:23
 
 ## Como usar
 
@@ -102,9 +102,9 @@ Gerado em: 01/10/2026 21:03
 
 **Produtos usados:**
 
+- Leitor Cartão USB C 3 Em 1 OTG SD Micro SD Adaptador Para Celular Not…
 - Smartphone Motorola Moto G06 4G 256GB 4GB RAM Câmera Traseira 50MP +…
 - Localizador GPS Smart Air Tag Rastreador Bluetooth para iPhone Androi…
-- Samsung Galaxy S23 256GB
 
 ---
 
@@ -120,14 +120,10 @@ Gerado em: 01/10/2026 21:03
 
 - growth/shorts/slides/supermercados/01_intro.png
 - growth/shorts/slides/supermercados/02_produto_1.png
-- growth/shorts/slides/supermercados/03_produto_2.png
-- growth/shorts/slides/supermercados/04_produto_3.png
 - growth/shorts/slides/supermercados/05_cta.png
 
 **Produtos usados:**
 
 - Papel Higiênico Fofopel 16 Rolos
-- Azeite Vila Oliva 3x500ml
-- Creme Dental Anticáries 90g Elmex
 
 ---

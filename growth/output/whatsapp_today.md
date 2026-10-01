@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 01/10/2026 21:03
+Gerado em: 01/10/2026 21:23
 
 ## Como usar
 
@@ -87,14 +87,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
 ```txt
 📱 Oferta para Celulares e Tecnologia
 
-Smartphone Motorola Moto G06 4G 256GB 4GB RAM Câmera Traseira 50MP +…
+Leitor Cartão USB C 3 Em 1 OTG SD Micro SD Adaptador Para Celular Not…
 
-💸 De: R$ 1.498,28
-🔥 Por: R$ 869,00
-🏷️ 42% OFF
+💸 De: R$ 29,98
+🔥 Por: R$ 17,99
+🏷️ 40% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/gQUgpBWqv
+Ver oferta: https://s.shopee.com.br/3qNXrBADzv
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
@@ -132,37 +132,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 5 — Moda Feminina
-
-**Canal recomendado:** Moda Feminina
-
-**Horário sugerido:** 12:00 - 14:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
-
-**Texto pronto:**
-
-```txt
-👗 Oferta para Moda Feminina
-
-Blazer Plus Size Alfaiataria
-
-💸 De: R$ 158,06
-🔥 Por: R$ 49,00
-🏷️ 69% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/4qG3S8Euol
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 6 — Casa e Cozinha
+## Post 5 — Casa e Cozinha
 
 **Canal recomendado:** Casa e Cozinha
 
@@ -185,6 +155,36 @@ Fritadeira Air Fryer Itatiaia 3,5L
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/6VOHpu5cAE
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 6 — Moda e Calçados
+
+**Canal recomendado:** Moda e Calçados
+
+**Horário sugerido:** 12:00 - 15:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
+
+**Texto pronto:**
+
+```txt
+👟 Oferta para Moda e Calçados
+
+Chinelo Slide Infantil Personagem
+
+💸 De: R$ 130,00
+🔥 Por: R$ 29,90
+🏷️ 77% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/1AolB5GjL
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

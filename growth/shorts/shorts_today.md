@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 01/10/2026 16:21
+Gerado em: 01/10/2026 17:22
 
 ## Como usar
 
@@ -25,12 +25,14 @@ Gerado em: 01/10/2026 16:21
 - growth/shorts/slides/mae_bebe/01_intro.png
 - growth/shorts/slides/mae_bebe/02_produto_1.png
 - growth/shorts/slides/mae_bebe/03_produto_2.png
+- growth/shorts/slides/mae_bebe/04_produto_3.png
 - growth/shorts/slides/mae_bebe/05_cta.png
 
 **Produtos usados:**
 
+- Fralda Descartáveis Huggies Rápida Absorção Tripla Proteção Tamanho P…
+- Trocador Plastificado de Nenem Com Amarras - Oferta - Bebe - Atenas
 - Carrinho De Boneca Bebe Brinquedo Infantil Passeio
-- Fralda Pampers Confort Sec G 38 Unidades
 
 ---
 
@@ -52,9 +54,9 @@ Gerado em: 01/10/2026 16:21
 
 **Produtos usados:**
 
-- 1.8L Panela De Arroz Elétrica Multi-Camadas/De Dupla Camada Dormitóri…
 - Fritadeira Air Fryer Itatiaia 3,5L
-- Escorredor De Arroz Inox Legumes Frutas Multiuso Cozinha Alça Coador…
+- Jogo de Panelas Vermelho Alumínio Fundido
+- Liquidificador Britânia 900W
 
 ---
 
@@ -124,8 +126,8 @@ Gerado em: 01/10/2026 16:21
 
 **Produtos usados:**
 
-- Hidratante Creme Facial Pele De Porcelana Kokeshi 30g Milagre do Arroz
 - Papel Higiênico Fofopel 16 Rolos
 - Azeite Vila Oliva 3x500ml
+- Creme Dental Anticáries 90g Elmex
 
 ---

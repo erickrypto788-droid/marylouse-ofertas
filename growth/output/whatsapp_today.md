@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 30/09/2026 23:18
+Gerado em: 01/10/2026 00:21
 
 ## Como usar
 
@@ -117,14 +117,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
 ```txt
 📱 Oferta para Celulares e Tecnologia
 
-Teclado e mouse sem fio—Compatível com tablet，Notebook e celular, Rec…
+Smartphone Motorola Moto G06 4G 256GB 4GB RAM Câmera Traseira 50MP +…
 
-💸 De: R$ 99,30
-🔥 Por: R$ 43,69
-🏷️ 56% OFF
+💸 De: R$ 1.498,28
+🔥 Por: R$ 869,00
+🏷️ 42% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/3LRFKlUpmz
+Ver oferta: https://s.shopee.com.br/gQUgpBWqv
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 01/10/2026 12:22
+Gerado em: 01/10/2026 13:22
 
 ## Como usar
 
@@ -117,14 +117,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
 ```txt
 🐶 Oferta para Ofertas Pet
 
-Repetidor Wifi 2800m 6 Antenas Roteador Amplificador De Sinal Modem 1…
+Sandália Babuche Papete
 
-💸 De: R$ 120,41
-🔥 Por: R$ 52,98
-🏷️ 56% OFF
+💸 De: R$ 40,18
+🔥 Por: R$ 22,90
+🏷️ 43% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/AAHZTKVHsj
+Ver oferta: https://s.shopee.com.br/BUExU4dOM
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
 ```txt
 👟 Oferta para Moda e Calçados
 
-Tênis de Corrida Esportivo
+Chinelo Slide Infantil Personagem
 
-💸 De: R$ 345,39
-🔥 Por: R$ 131,25
-🏷️ 62% OFF
+💸 De: R$ 130,00
+🔥 Por: R$ 29,90
+🏷️ 77% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/40gwapaFni
+Ver oferta: https://s.shopee.com.br/1AolB5GjL
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

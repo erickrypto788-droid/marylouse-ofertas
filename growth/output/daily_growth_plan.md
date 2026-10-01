@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 01/10/2026 12:22
+Gerado em: 01/10/2026 13:22
 
 ## Categorias prioritárias
 
+- 👟 **Calçados**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 💄 **Beleza**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
-- 👟 **Calçados**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 💻 **Informática**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 🐶 **Pet**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 🍳 **Casa e Cozinha**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 👗 **Moda Feminina**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 📚 **Papelaria**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
-- 👜 **Bolsas**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
-- 🐶 **Pet**: 4 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
+- 💻 **Informática**: 4 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 👕 **Moda Masculina**: 4 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 
 ## Top ofertas para destacar
 
@@ -59,33 +59,33 @@ Gerado em: 01/10/2026 12:22
    - Desconto: 42% OFF
    - Link: https://s.shopee.com.br/gQUgpBWqv
 
-7. **Mala Case Capa Bolsa Porta Case Notebook Slim 14,6/15,6 Alça Dupla Re…**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 28,52
-   - Desconto: 38% OFF
-   - Link: https://s.shopee.com.br/7VGo63ygBL
-
-8. **Escova Profissional 5 em 1**
+7. **Escova Profissional 5 em 1**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 50,99
    - Desconto: 66% OFF
    - Link: https://s.shopee.com.br/113Lst3kMo
 
-9. **Fritadeira Air Fryer Itatiaia 3,5L**
+8. **Fritadeira Air Fryer Itatiaia 3,5L**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 181,75
    - Desconto: 21% OFF
    - Link: https://s.shopee.com.br/6VOHpu5cAE
 
-10. **Localizador GPS Smart Air Tag Rastreador Bluetooth para iPhone Androi…**
+9. **Localizador GPS Smart Air Tag Rastreador Bluetooth para iPhone Androi…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 17,99
    - Desconto: 64% OFF
    - Link: https://s.shopee.com.br/9AP2oRo2Sa
+
+10. **Escorredor De Arroz Inox Legumes Frutas Multiuso Cozinha Alça Coador…**
+   - Categoria: Casa e Cozinha
+   - Loja: Shopee
+   - Preço: R$ 19,99
+   - Desconto: 53% OFF
+   - Link: https://s.shopee.com.br/2gBYbf0QRi
 
 ## Ações gratuitas recomendadas
 

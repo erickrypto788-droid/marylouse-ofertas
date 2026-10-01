@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 01/10/2026 16:04
+Gerado em: 01/10/2026 16:21
 
 ## Categorias prioritárias
 
@@ -10,10 +10,10 @@ Gerado em: 01/10/2026 16:04
 - 🍳 **Casa e Cozinha**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
-- 🐶 **Pet**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
-- 📱 **Celulares**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- ❤️ **Saúde**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 🧸 **Brinquedos**: 4 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
-- 💻 **Informática**: 4 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 🐶 **Pet**: 4 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
+- 📱 **Celulares**: 4 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 
 ## Top ofertas para destacar
 
@@ -38,26 +38,26 @@ Gerado em: 01/10/2026 16:04
    - Desconto: 70% OFF
    - Link: https://s.shopee.com.br/gQTQXaPiG
 
-4. **Case Gaveta HD SSD 2.5 USB 3.0 Transparente**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 30,99
-   - Desconto: 69% OFF
-   - Link: https://s.shopee.com.br/7faEUjRXML
-
-5. **Teclado e mouse sem fio—Compatível com tablet，Notebook e celular, Rec…**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 43,69
-   - Desconto: 56% OFF
-   - Link: https://s.shopee.com.br/3LRFKlUpmz
-
-6. **Smartphone Motorola Moto G06 4G 256GB 4GB RAM Câmera Traseira 50MP +…**
+4. **Smartphone Motorola Moto G06 4G 256GB 4GB RAM Câmera Traseira 50MP +…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 869,00
    - Desconto: 42% OFF
    - Link: https://s.shopee.com.br/gQUgpBWqv
+
+5. **TIRAS DE TESTE GLICOSE G-TECH PARA MEDIDOR MODELO VITA C/50**
+   - Categoria: Saúde
+   - Loja: Shopee
+   - Preço: R$ 44,90
+   - Desconto: 57% OFF
+   - Link: https://s.shopee.com.br/3Vkh7y3hOy
+
+6. **Monitor digital de pressão arterial de braço totalmente automático an…**
+   - Categoria: Saúde
+   - Loja: Shopee
+   - Preço: R$ 38,99
+   - Desconto: 68% OFF
+   - Link: https://s.shopee.com.br/9zyAruJA5Y
 
 7. **Carrinho De Boneca Bebe Brinquedo Infantil Passeio**
    - Categoria: Mãe e Bebê

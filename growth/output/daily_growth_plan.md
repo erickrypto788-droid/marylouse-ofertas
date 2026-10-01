@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 01/10/2026 19:04
+Gerado em: 01/10/2026 19:20
 
 ## Categorias prioritárias
 
@@ -8,12 +8,12 @@ Gerado em: 01/10/2026 19:04
 - 👟 **Calçados**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 🍼 **Mãe e Bebê**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🏋️ **Esportes**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
+- 💻 **Informática**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - ❤️ **Saúde**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
+- 👜 **Bolsas**: 4 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 - 🍳 **Casa e Cozinha**: 4 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 🧸 **Brinquedos**: 4 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 📱 **Celulares**: 4 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
-- 👕 **Moda Masculina**: 4 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 
 ## Top ofertas para destacar
 
@@ -52,40 +52,40 @@ Gerado em: 01/10/2026 19:04
    - Desconto: 42% OFF
    - Link: https://s.shopee.com.br/gQUgpBWqv
 
-6. **Trocador Plastificado de Nenem Com Amarras - Oferta - Bebe - Atenas**
+6. **Mochila de Couro Grande 2025 Preta Resistente Bolso para Notebook Esc…**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 46,60
+   - Desconto: 29% OFF
+   - Link: https://s.shopee.com.br/W75koMgLm
+
+7. **Trocador Plastificado de Nenem Com Amarras - Oferta - Bebe - Atenas**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 28,79
    - Desconto: 66% OFF
    - Link: https://s.shopee.com.br/5AsvB9dbgp
 
-7. **TIRAS DE TESTE GLICOSE G-TECH PARA MEDIDOR MODELO VITA C/50**
+8. **TIRAS DE TESTE GLICOSE G-TECH PARA MEDIDOR MODELO VITA C/50**
    - Categoria: Saúde
    - Loja: Shopee
    - Preço: R$ 44,90
    - Desconto: 57% OFF
    - Link: https://s.shopee.com.br/3Vkh7y3hOy
 
-8. **Monitor digital de pressão arterial de braço totalmente automático an…**
+9. **Monitor digital de pressão arterial de braço totalmente automático an…**
    - Categoria: Saúde
    - Loja: Shopee
    - Preço: R$ 38,99
    - Desconto: 68% OFF
    - Link: https://s.shopee.com.br/9zyAruJA5Y
 
-9. **Carrinho De Boneca Bebe Brinquedo Infantil Passeio**
+10. **Carrinho De Boneca Bebe Brinquedo Infantil Passeio**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 21,99
    - Desconto: 56% OFF
    - Link: https://s.shopee.com.br/9zyAnnGMvo
-
-10. **Escova Profissional 5 em 1**
-   - Categoria: Beleza
-   - Loja: Shopee
-   - Preço: R$ 50,99
-   - Desconto: 66% OFF
-   - Link: https://s.shopee.com.br/113Lst3kMo
 
 ## Ações gratuitas recomendadas
 

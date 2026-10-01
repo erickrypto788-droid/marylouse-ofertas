@@ -1,11 +1,10 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 01/10/2026 15:05
+Gerado em: 01/10/2026 15:21
 
 ## Categorias prioritárias
 
 - 💄 **Beleza**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 📚 **Papelaria**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 - 👟 **Calçados**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 🏋️ **Esportes**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
@@ -13,7 +12,8 @@ Gerado em: 01/10/2026 15:05
 - 🐶 **Pet**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 🍳 **Casa e Cozinha**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 📱 **Celulares**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
-- 💻 **Informática**: 4 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 🧸 **Brinquedos**: 4 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
+- 📚 **Papelaria**: 4 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 
 ## Top ofertas para destacar
 
@@ -59,33 +59,33 @@ Gerado em: 01/10/2026 15:05
    - Desconto: 42% OFF
    - Link: https://s.shopee.com.br/gQUgpBWqv
 
-7. **Escova Profissional 5 em 1**
+7. **Carrinho De Boneca Bebe Brinquedo Infantil Passeio**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 21,99
+   - Desconto: 56% OFF
+   - Link: https://s.shopee.com.br/9zyAnnGMvo
+
+8. **Escova Profissional 5 em 1**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 50,99
    - Desconto: 66% OFF
    - Link: https://s.shopee.com.br/113Lst3kMo
 
-8. **Fritadeira Air Fryer Itatiaia 3,5L**
+9. **Fritadeira Air Fryer Itatiaia 3,5L**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 181,75
    - Desconto: 21% OFF
    - Link: https://s.shopee.com.br/6VOHpu5cAE
 
-9. **Localizador GPS Smart Air Tag Rastreador Bluetooth para iPhone Androi…**
+10. **Localizador GPS Smart Air Tag Rastreador Bluetooth para iPhone Androi…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 17,99
    - Desconto: 64% OFF
    - Link: https://s.shopee.com.br/9AP2oRo2Sa
-
-10. **Escorredor De Arroz Inox Legumes Frutas Multiuso Cozinha Alça Coador…**
-   - Categoria: Casa e Cozinha
-   - Loja: Shopee
-   - Preço: R$ 19,99
-   - Desconto: 53% OFF
-   - Link: https://s.shopee.com.br/2gBYbf0QRi
 
 ## Ações gratuitas recomendadas
 

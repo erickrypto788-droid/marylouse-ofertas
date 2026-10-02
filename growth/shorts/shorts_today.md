@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 02/10/2026 01:22
+Gerado em: 02/10/2026 02:22
 
 ## Como usar
 
@@ -80,7 +80,7 @@ Gerado em: 02/10/2026 01:22
 
 - Escova Pet Secadora Elétrica
 - Perfume Millions Masculino
-- Perfume Feminino Olympia
+- Escova Profissional 5 em 1
 
 ---
 

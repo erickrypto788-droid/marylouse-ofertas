@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 02/10/2026 16:22
+Gerado em: 02/10/2026 17:22
 
 ## Como usar
 
@@ -42,37 +42,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 2 — Mamãe e Bebê
-
-**Canal recomendado:** Mamãe e Bebê
-
-**Horário sugerido:** 09:00 - 11:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
-
-**Texto pronto:**
-
-```txt
-🍼 Oferta para Mamãe e Bebê
-
-Fralda Descartáveis Huggies Rápida Absorção Tripla Proteção Tamanho P…
-
-💸 De: R$ 58,18
-🔥 Por: R$ 32,00
-🏷️ 45% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/LnfQH0L1j
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 3 — Beleza e Cuidados
+## Post 2 — Beleza e Cuidados
 
 **Canal recomendado:** Beleza e Cuidados
 
@@ -102,7 +72,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Ofertas Pet
+## Post 3 — Ofertas Pet
 
 **Canal recomendado:** Ofertas Pet
 
@@ -125,6 +95,36 @@ Carrinho de Controle Remoto Esportivo Competição Ferrari Lamborghini…
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/905dbxKAxW
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 4 — Mamãe e Bebê
+
+**Canal recomendado:** Mamãe e Bebê
+
+**Horário sugerido:** 09:00 - 11:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
+
+**Texto pronto:**
+
+```txt
+🍼 Oferta para Mamãe e Bebê
+
+Fralda Infantil Huggies Meguinha Tamanho G 30 Unidades
+
+💸 De: R$ 50,52
+🔥 Por: R$ 37,89
+🏷️ 25% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/4VdFeDLexX
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

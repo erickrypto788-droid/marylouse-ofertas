@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 02/10/2026 16:22
+Gerado em: 02/10/2026 17:22
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 02/10/2026 16:22
 
 **Produtos usados:**
 
-- Fralda Descartáveis Huggies Rápida Absorção Tripla Proteção Tamanho P…
-- Trocador Plastificado de Nenem Com Amarras - Oferta - Bebe - Atenas
 - Fralda Infantil Huggies Meguinha Tamanho G 30 Unidades
+- Kit 2 Porta Leite em Pó Para Bebê + Colher de Silicone
+- Kit 11 Peças Essenciais para Bebê
 
 ---
 
@@ -105,5 +105,25 @@ Gerado em: 02/10/2026 16:22
 - Celular 5g Smartphone 16gb/512gb Rom Dimensity 7200 Impressão Digital…
 - Suporte Celular Veicular 360°
 - Leitor Cartão USB C 3 Em 1 OTG SD Micro SD Adaptador Para Celular Not…
+
+---
+
+## Supermercados
+
+**Título sugerido:** 🛒 Ofertas de Supermercados atualizadas hoje
+
+**Descrição sugerida:** Ofertas de Supermercados selecionadas pela MaryLouse. Preços podem mudar. Veja no site. #MaryLouseOfertas #Ofertas #Achadinhos
+
+**Link/CTA:** https://marylouse-ofertas.vercel.app/ofertas-supermercados.html
+
+**Slides:**
+
+- growth/shorts/slides/supermercados/01_intro.png
+- growth/shorts/slides/supermercados/02_produto_1.png
+- growth/shorts/slides/supermercados/05_cta.png
+
+**Produtos usados:**
+
+- Kit 5 Potes Mantimentos Arroz Feijão Café Açúcar Sal Mickey e Minnie
 
 ---

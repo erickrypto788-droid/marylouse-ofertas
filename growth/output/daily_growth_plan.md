@@ -1,91 +1,91 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 02/10/2026 16:04
+Gerado em: 02/10/2026 16:22
 
 ## Categorias prioritárias
 
 - 🍼 **Mãe e Bebê**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 💻 **Informática**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 📚 **Papelaria**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
-- ❤️ **Saúde**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 💄 **Beleza**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 💻 **Informática**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 👜 **Bolsas**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
+- 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
-- 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 📦 **Outros**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 🏋️ **Esportes**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 
 ## Top ofertas para destacar
 
-1. **Perfume Masculino Amadeirado**
+1. **SSD Externo Samsung T5 Portátil**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 179,00
+   - Desconto: 64% OFF
+   - Link: https://s.shopee.com.br/qjxXyeM08
+
+2. **Perfume Masculino Amadeirado**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 28,98
    - Desconto: 52% OFF
    - Link: https://s.shopee.com.br/7pthHjJB6V
 
-2. **Escova Secadora GOKOCO 5 em 1**
+3. **Escova Secadora GOKOCO 5 em 1**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 425,00
    - Desconto: 57% OFF
    - Link: https://s.shopee.com.br/9AP4sBIVAx
 
-3. **Suporte Celular Veicular 360°**
+4. **Suporte Celular Veicular 360°**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 24,60
    - Desconto: 54% OFF
    - Link: https://s.shopee.com.br/7VGqkuWbf9
 
-4. **Celular 5g Smartphone 16gb/512gb Rom Dimensity 7200 Impressão Digital…**
+5. **Celular 5g Smartphone 16gb/512gb Rom Dimensity 7200 Impressão Digital…**
    - Categoria: Celulares
    - Loja: Mercado Livre
    - Preço: R$ 1.380,00
    - Desconto: 66% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB75208845?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-5. **Perfume Millions Masculino**
+6. **Perfume Millions Masculino**
    - Categoria: Beleza
    - Loja: Mercado Livre
    - Preço: R$ 184,00
    - Desconto: 50% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB77141871?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-6. **Panela Elétrica Britânia 2L 5 Temperaturas 650W BPE02A**
+7. **SSD Interno de Alta Velocidade**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 94,25
+   - Desconto: 35% OFF
+   - Link: https://s.shopee.com.br/AKb2rR4Biu
+
+8. **Panela Elétrica Britânia 2L 5 Temperaturas 650W BPE02A**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 129,90
    - Desconto: 35% OFF
    - Link: https://s.shopee.com.br/qjwLmkENC
 
-7. **Pó perolado Ouro Prata para Decoração de Bolo Mousse, Fondant, Macaro…**
+9. **Pó perolado Ouro Prata para Decoração de Bolo Mousse, Fondant, Macaro…**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 15,90
    - Desconto: 47% OFF
    - Link: https://s.shopee.com.br/113MY5fGUg
 
-8. **Leitor Cartão USB C 3 Em 1 OTG SD Micro SD Adaptador Para Celular Not…**
+10. **Leitor Cartão USB C 3 Em 1 OTG SD Micro SD Adaptador Para Celular Not…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 17,99
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/3qNXrBADzv
-
-9. **Fralda Descartáveis Huggies Rápida Absorção Tripla Proteção Tamanho P…**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 32,00
-   - Desconto: 45% OFF
-   - Link: https://s.shopee.com.br/LnfQH0L1j
-
-10. **Modem 4G Portátil USB**
-   - Categoria: Informática
-   - Loja: Mercado Livre
-   - Preço: R$ 149,40
-   - Desconto: 50% OFF
-   - Link: https://www.mercadolivre.com.br/p/MLB69073417?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ## Ações gratuitas recomendadas
 

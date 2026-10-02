@@ -1,5 +1,22 @@
 [
   {
+    "id": "f66c5ceaa83b913257",
+    "title": "Ração Premier Pet Vitta Natural 15kg",
+    "raw_title": "Ração Premier Pet Vitta Natural Ração Cachorro Adulto 15k",
+    "description": "Seu melhor amigo merece o melhor! 🐶 Garanta a saúde e vitalidade do seu cão com a Ração Premier Pet Vitta Natural para Cachorros Adultos de 15kg. Alimen...",
+    "marketplace": "Mercado Livre",
+    "category": "Pet",
+    "old_price": "",
+    "price": "R$ 148,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_694880-MLA99934866983_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB32106098?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "02/10/2026 21:01",
+    "created_at_iso": "2026-10-02T21:01:43",
+    "created_ts": 1790974903
+  },
+  {
     "id": "50b8a69866509cd303",
     "title": "Kit Cuecas Tradicional Slip Adulto P ao GG Microfibra Conforto Para H…",
     "raw_title": "Kit Cuecas Tradicional Slip Adulto P ao GG Microfibra Conforto Para Homens e Meninos",
@@ -2432,43 +2449,5 @@
     "created_at": "01/10/2026 21:16",
     "created_at_iso": "2026-10-01T21:16:03",
     "created_ts": 1790889363
-  },
-  {
-    "id": "9a4ad19b012d5bc801",
-    "title": "Parafusadeira STANLEY + Parafusadeira + Ganhe Bateria 20V",
-    "raw_title": "Parafusadeira STANLEY + Parafusadeira + Ganhe Bateria 20V",
-    "description": "🔥 Oferta encontrada! 📌 Parafusadeira STANLEY + Parafusadeira + Ganhe Bateria 20V Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Mercado Livre",
-    "category": "Ferramentas",
-    "old_price": "",
-    "price": "R$ 1.528,00",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_978686-MLA109195487326_042026-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67606890?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "01/10/2026 21:01",
-    "created_at_iso": "2026-10-01T21:01:37",
-    "created_ts": 1790888497
-  },
-  {
-    "id": "1d1874166fef50d274",
-    "title": "Combo Elástico e Ilhós para Artesanato",
-    "raw_title": "Combo Elástico Chato 7mm Aura 10m EC016 + 100 Ilhós Alumínio Nº54 Candy Colors Costura Artesanato Encadernação Agenda",
-    "description": "✂️ Crie projetos incríveis! Este combo é perfeito para costura, artesanato e encadernação. Leve 10m de elástico chato 7mm Aura e 100 ilhós de alumínio C...",
-    "marketplace": "Shopee",
-    "category": "Papelaria",
-    "old_price": "",
-    "price": "R$ 29,90",
-    "discount_percent": 0.0,
-    "rating": 5.0,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820l5-ml6n42pg153bae",
-    "affiliate_url": "https://s.shopee.com.br/Lnfcdcd51",
-    "created_at": "01/10/2026 20:21",
-    "created_at_iso": "2026-10-01T20:21:26",
-    "created_ts": 1790886086,
-    "niche": {
-      "key": "shopee_papelaria",
-      "name": "Papelaria"
-    }
   }
 ]

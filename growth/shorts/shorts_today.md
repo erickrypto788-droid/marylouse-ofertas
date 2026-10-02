@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 02/10/2026 10:22
+Gerado em: 02/10/2026 11:22
 
 ## Como usar
 
@@ -56,7 +56,7 @@ Gerado em: 02/10/2026 10:22
 
 - Liquidificador Mondial Turbo 1200w
 - Panela Elétrica Britânia 2L 5 Temperaturas 650W BPE02A
-- Fritadeira Air Fryer Itatiaia 3,5L
+- Spray de Óleo para Cozinha Vidro 200ml Borrifador Azeite Vinagre Air…
 
 ---
 

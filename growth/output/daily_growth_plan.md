@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 02/10/2026 02:22
+Gerado em: 02/10/2026 03:03
 
 ## Categorias prioritárias
 
@@ -9,11 +9,11 @@ Gerado em: 02/10/2026 02:22
 - 💻 **Informática**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 🍼 **Mãe e Bebê**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🏋️ **Esportes**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
+- 🐶 **Pet**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - ✨ **Moda Plus Size**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
 - 👕 **Moda Masculina**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 - 👗 **Moda Feminina**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 📱 **Celulares**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
-- 🎮 **Games**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-games.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_games
 
 ## Top ofertas para destacar
 
@@ -66,26 +66,26 @@ Gerado em: 02/10/2026 02:22
    - Desconto: 45% OFF
    - Link: https://s.shopee.com.br/LnfQH0L1j
 
-8. **kit 2 Camiseta T-shirt Algodão Basica Feminina 30.1 Uniforme Blusinha…**
+8. **Comedouro Automático Ração Aquário Terrario Peixe Tartaruga**
+   - Categoria: Pet
+   - Loja: Mercado Livre
+   - Preço: R$ 117,85
+   - Desconto: 18% OFF
+   - Link: https://www.mercadolivre.com.br/p/MLB44164135?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+9. **kit 2 Camiseta T-shirt Algodão Basica Feminina 30.1 Uniforme Blusinha…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 34,15
    - Desconto: 51% OFF
    - Link: https://s.shopee.com.br/2LYkGmwYbU
 
-9. **Spray de Óleo para Cozinha Vidro 200ml Borrifador Azeite Vinagre Air…**
+10. **Spray de Óleo para Cozinha Vidro 200ml Borrifador Azeite Vinagre Air…**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 18,97
    - Desconto: 51% OFF
    - Link: https://s.shopee.com.br/40gy7bYJQO
-
-10. **Webcam Full HD 1080p**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 31,99
-   - Desconto: 60% OFF
-   - Link: https://s.shopee.com.br/5fpC2Y7iIH
 
 ## Ações gratuitas recomendadas
 

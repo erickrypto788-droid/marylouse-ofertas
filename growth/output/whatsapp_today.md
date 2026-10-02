@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 02/10/2026 10:04
+Gerado em: 02/10/2026 10:22
 
 ## Como usar
 
@@ -117,14 +117,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
 ```txt
 🐶 Oferta para Ofertas Pet
 
-Pó perolado Ouro Prata para Decoração de Bolo Mousse, Fondant, Macaro…
+Carrinho de Controle Remoto Esportivo Competição Ferrari Lamborghini…
 
-💸 De: R$ 30,00
-🔥 Por: R$ 15,90
-🏷️ 47% OFF
+💸 De: R$ 50,10
+🔥 Por: R$ 20,54
+🏷️ 59% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/113MY5fGUg
+Ver oferta: https://s.shopee.com.br/905dbxKAxW
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

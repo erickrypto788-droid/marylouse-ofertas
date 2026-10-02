@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 02/10/2026 10:04
+Gerado em: 02/10/2026 10:22
 
 ## Como usar
 
@@ -32,7 +32,7 @@ Gerado em: 02/10/2026 10:04
 
 - Fralda Descartáveis Huggies Rápida Absorção Tripla Proteção Tamanho P…
 - Trocador Plastificado de Nenem Com Amarras - Oferta - Bebe - Atenas
-- kit 2 Camiseta T-shirt Algodão Basica Feminina 30.1 Uniforme Blusinha…
+- Short Doll Americano Gola V
 
 ---
 

@@ -1,5 +1,22 @@
 [
   {
+    "id": "05b13ab3638d9fd9d8",
+    "title": "Prancha Esteira Ergométrica Deck Múltipla T3000 Preto",
+    "raw_title": "Prancha Esteira Ergométrica Deck Múltipla T3000 Preto",
+    "description": "🔥 13% OFF — Oferta encontrada! 📌 Prancha Esteira Ergométrica Deck Múltipla T3000 Preto Confira os detalhes e aproveite enquanto a oferta estiver disponí...",
+    "marketplace": "Mercado Livre",
+    "category": "Esportes e Lazer",
+    "old_price": "R$ 311,00",
+    "price": "R$ 270,57",
+    "discount_percent": 13.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_706043-MLA115224941943_072026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75817587?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "02/10/2026 12:02",
+    "created_at_iso": "2026-10-02T12:02:02",
+    "created_ts": 1790942522
+  },
+  {
     "id": "fcb3e885f4cb884b29",
     "title": "Kit Medidor de Glicose Bioland",
     "raw_title": "Kit Medidor de Glicose Bioland G425-3 + 25 Tiras + 25 Lancetas + Bolsa CAIXA",
@@ -2680,26 +2697,5 @@
     "created_at": "01/10/2026 12:02",
     "created_at_iso": "2026-10-01T12:02:33",
     "created_ts": 1790856153
-  },
-  {
-    "id": "a83b9d9012c5cf02c7",
-    "title": "Extratora Higienizadora Portátil Borrifa Esfrega e Extrai Sujeira Co…",
-    "raw_title": "Extratora Higienizadora Portátil Borrifa Esfrega e Extrai Sujeira Colchão Sofá W3 1450W Wap",
-    "description": "🔥 28% OFF — Oferta encontrada! 📌 Extratora Higienizadora Portátil Borrifa Esfrega e Extrai Sujeira Colchão Sofá W3 1450W Wap Confira os detalhes e aprov...",
-    "marketplace": "Shopee",
-    "category": "Eletrodomésticos",
-    "old_price": "R$ 904,97",
-    "price": "R$ 651,58",
-    "discount_percent": 28.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7rbn7-lqeu1vzxvsrqba",
-    "affiliate_url": "https://s.shopee.com.br/1Aocvj6d0",
-    "created_at": "01/10/2026 11:21",
-    "created_at_iso": "2026-10-01T11:21:09",
-    "created_ts": 1790853669,
-    "niche": {
-      "key": "shopee_eletrodomesticos",
-      "name": "Eletrodomésticos"
-    }
   }
 ]

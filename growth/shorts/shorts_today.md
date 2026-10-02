@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 02/10/2026 18:19
+Gerado em: 02/10/2026 19:22
 
 ## Como usar
 
@@ -80,7 +80,7 @@ Gerado em: 02/10/2026 18:19
 
 - Perfume Masculino Amadeirado
 - Escova Secadora GOKOCO 5 em 1
-- Perfume Millions Masculino
+- Kit Principia Limpa, Hidrata e Protege
 
 ---
 

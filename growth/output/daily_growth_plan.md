@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 02/10/2026 12:04
+Gerado em: 02/10/2026 12:22
 
 ## Categorias prioritárias
 
-- 💄 **Beleza**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 🍼 **Mãe e Bebê**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🏋️ **Esportes**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 👟 **Calçados**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - ❤️ **Saúde**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 📚 **Papelaria**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
-- 🍼 **Mãe e Bebê**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 💄 **Beleza**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🧸 **Brinquedos**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 👗 **Moda Feminina**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
-- 💻 **Informática**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 💻 **Informática**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 
 ## Top ofertas para destacar
 
@@ -52,40 +52,40 @@ Gerado em: 02/10/2026 12:04
    - Desconto: 50% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB77141871?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-6. **Escova Pet Secadora Elétrica**
-   - Categoria: Beleza
-   - Loja: Shopee
-   - Preço: R$ 43,99
-   - Desconto: 78% OFF
-   - Link: https://s.shopee.com.br/70KZ1upqH3
-
-7. **Panela Elétrica Britânia 2L 5 Temperaturas 650W BPE02A**
+6. **Panela Elétrica Britânia 2L 5 Temperaturas 650W BPE02A**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 129,90
    - Desconto: 35% OFF
    - Link: https://s.shopee.com.br/qjwLmkENC
 
-8. **Pó perolado Ouro Prata para Decoração de Bolo Mousse, Fondant, Macaro…**
+7. **Pó perolado Ouro Prata para Decoração de Bolo Mousse, Fondant, Macaro…**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 15,90
    - Desconto: 47% OFF
    - Link: https://s.shopee.com.br/113MY5fGUg
 
-9. **Leitor Cartão USB C 3 Em 1 OTG SD Micro SD Adaptador Para Celular Not…**
+8. **Leitor Cartão USB C 3 Em 1 OTG SD Micro SD Adaptador Para Celular Not…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 17,99
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/3qNXrBADzv
 
-10. **Fralda Descartáveis Huggies Rápida Absorção Tripla Proteção Tamanho P…**
+9. **Fralda Descartáveis Huggies Rápida Absorção Tripla Proteção Tamanho P…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 32,00
    - Desconto: 45% OFF
    - Link: https://s.shopee.com.br/LnfQH0L1j
+
+10. **Kit 11 Peças Essenciais para Bebê**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 27,99
+   - Desconto: 53% OFF
+   - Link: https://s.shopee.com.br/9V1vbOyE2Q
 
 ## Ações gratuitas recomendadas
 

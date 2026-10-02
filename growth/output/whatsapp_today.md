@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 02/10/2026 12:04
+Gerado em: 02/10/2026 12:22
 
 ## Como usar
 
@@ -42,37 +42,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 2 — Beleza e Cuidados
-
-**Canal recomendado:** Beleza e Cuidados
-
-**Horário sugerido:** 12:00 - 15:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
-
-**Texto pronto:**
-
-```txt
-💄 Oferta para Beleza e Cuidados
-
-Escova Pet Secadora Elétrica
-
-💸 De: R$ 199,95
-🔥 Por: R$ 43,99
-🏷️ 78% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/70KZ1upqH3
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 3 — Mamãe e Bebê
+## Post 2 — Mamãe e Bebê
 
 **Canal recomendado:** Mamãe e Bebê
 
@@ -95,6 +65,36 @@ Fralda Descartáveis Huggies Rápida Absorção Tripla Proteção Tamanho P…
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/LnfQH0L1j
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 3 — Beleza e Cuidados
+
+**Canal recomendado:** Beleza e Cuidados
+
+**Horário sugerido:** 12:00 - 15:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
+
+**Texto pronto:**
+
+```txt
+💄 Oferta para Beleza e Cuidados
+
+Perfume Masculino Amadeirado
+
+💸 De: R$ 60,38
+🔥 Por: R$ 28,98
+🏷️ 52% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/7pthHjJB6V
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

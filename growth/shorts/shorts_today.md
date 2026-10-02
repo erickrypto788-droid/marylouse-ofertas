@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 02/10/2026 12:04
+Gerado em: 02/10/2026 12:22
 
 ## Como usar
 
@@ -32,7 +32,7 @@ Gerado em: 02/10/2026 12:04
 
 - Fralda Descartáveis Huggies Rápida Absorção Tripla Proteção Tamanho P…
 - Trocador Plastificado de Nenem Com Amarras - Oferta - Bebe - Atenas
-- Short Doll Americano Gola V
+- Fralda Infantil Huggies Meguinha Tamanho G 30 Unidades
 
 ---
 
@@ -78,9 +78,9 @@ Gerado em: 02/10/2026 12:04
 
 **Produtos usados:**
 
-- Escova Pet Secadora Elétrica
 - Perfume Masculino Amadeirado
 - Escova Secadora GOKOCO 5 em 1
+- Perfume Millions Masculino
 
 ---
 

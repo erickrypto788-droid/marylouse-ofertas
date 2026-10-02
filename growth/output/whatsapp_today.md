@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 02/10/2026 05:22
+Gerado em: 02/10/2026 06:23
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
 ```txt
 🍳 Oferta para Casa e Cozinha
 
-Panela Elétrica Britânia 2L 5 Temperaturas 650W BPE02A
+Liquidificador Mondial Turbo 1200w
 
-💸 De: R$ 199,85
-🔥 Por: R$ 129,90
-🏷️ 35% OFF
+💸 De: R$ 819,58
+🔥 Por: R$ 155,72
+🏷️ 81% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/qjwLmkENC
+Ver oferta: https://s.shopee.com.br/1gJ3sH9L27
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

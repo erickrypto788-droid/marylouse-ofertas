@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 02/10/2026 00:04
+Gerado em: 02/10/2026 00:21
 
 ## Como usar
 
@@ -32,7 +32,7 @@ Gerado em: 02/10/2026 00:04
 
 - Fralda Descartáveis Huggies Rápida Absorção Tripla Proteção Tamanho P…
 - Trocador Plastificado de Nenem Com Amarras - Oferta - Bebe - Atenas
-- Carrinho De Boneca Bebe Brinquedo Infantil Passeio
+- kit 2 Camiseta T-shirt Algodão Basica Feminina 30.1 Uniforme Blusinha…
 
 ---
 
@@ -104,7 +104,7 @@ Gerado em: 02/10/2026 00:04
 
 - Celular 5g Smartphone 16gb/512gb Rom Dimensity 7200 Impressão Digital…
 - Leitor Cartão USB C 3 Em 1 OTG SD Micro SD Adaptador Para Celular Not…
-- Smartphone Motorola Moto G06 4G 256GB 4GB RAM Câmera Traseira 50MP +…
+- Samsung Galaxy S23 256GB
 
 ---
 

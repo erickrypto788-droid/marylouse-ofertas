@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 02/10/2026 00:04
+Gerado em: 02/10/2026 00:21
 
 ## Como usar
 
@@ -132,7 +132,37 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 5 — Casa e Cozinha
+## Post 5 — Moda Feminina
+
+**Canal recomendado:** Moda Feminina
+
+**Horário sugerido:** 12:00 - 14:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
+
+**Texto pronto:**
+
+```txt
+👗 Oferta para Moda Feminina
+
+Top Feminino Sutiã Poliamida Sem Aro com 4 Ajustes Bojo Confortável B…
+
+💸 De: R$ 99,96
+🔥 Por: R$ 26,99
+🏷️ 73% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/1LgD4x0MdG
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 6 — Casa e Cozinha
 
 **Canal recomendado:** Casa e Cozinha
 
@@ -155,36 +185,6 @@ Panela Elétrica Britânia 2L 5 Temperaturas 650W BPE02A
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/qjwLmkENC
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 6 — Moda e Calçados
-
-**Canal recomendado:** Moda e Calçados
-
-**Horário sugerido:** 12:00 - 15:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
-
-**Texto pronto:**
-
-```txt
-👟 Oferta para Moda e Calçados
-
-Chinelo Slide Infantil Personagem
-
-💸 De: R$ 130,00
-🔥 Por: R$ 29,90
-🏷️ 77% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/1AolB5GjL
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

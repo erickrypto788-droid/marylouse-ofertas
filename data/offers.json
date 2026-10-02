@@ -1,5 +1,22 @@
 [
   {
+    "id": "2918844dd56e487e62",
+    "title": "Modem 4G Portátil USB",
+    "raw_title": "Modem 4g Lte Mini Roteador Wifi Usb Portátil Cor Preto",
+    "description": "🚨 METADE DO PREÇO! Modem 4G Portátil! 🚨 Leve sua internet para qualquer lugar com este Modem 4G LTE Mini Roteador WiFi USB! Conectividade total no seu b...",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "R$ 298,80",
+    "price": "R$ 149,40",
+    "discount_percent": 50.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_607860-MLA110240288356_052026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB69073417?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "02/10/2026 16:02",
+    "created_at_iso": "2026-10-02T16:02:19",
+    "created_ts": 1790956939
+  },
+  {
     "id": "cfbf951a37c3861c89",
     "title": "PAPELÃO PARANÁ CINZA A4 HOLLER 25 PLACAS 1,9mm …",
     "raw_title": "PAPELÃO PARANÁ CINZA A4 HOLLER 25 PLACAS 1,9mm ##",
@@ -2469,26 +2486,5 @@
     "created_at": "01/10/2026 16:03",
     "created_at_iso": "2026-10-01T16:03:08",
     "created_ts": 1790870588
-  },
-  {
-    "id": "efdd108c7a03d53aa3",
-    "title": "Mesa Gamer Legos 120cm em L de Canto para Home Office Setup Escrivani…",
-    "raw_title": "Mesa Gamer Legos 120cm em L de Canto para Home Office Setup Escrivaninha Geek Com Cantos Arredondados Design Moderno",
-    "description": "🔥 40% OFF — Oferta encontrada! 📌 Mesa Gamer Legos 120cm em L de Canto para Home Office Setup Escrivaninha Geek Com Cantos Arredondados Design Moderno Co...",
-    "marketplace": "Shopee",
-    "category": "Brinquedos e Hobbies",
-    "old_price": "R$ 399,98",
-    "price": "R$ 239,99",
-    "discount_percent": 40.0,
-    "rating": 4.5,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi6a275ag9vm7b",
-    "affiliate_url": "https://s.shopee.com.br/6fhipfFvan",
-    "created_at": "01/10/2026 15:20",
-    "created_at_iso": "2026-10-01T15:20:11",
-    "created_ts": 1790868011,
-    "niche": {
-      "key": "shopee_brinquedos_hobbies",
-      "name": "Brinquedos e Hobbies"
-    }
   }
 ]

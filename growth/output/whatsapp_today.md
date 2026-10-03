@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 03/10/2026 03:03
+Gerado em: 03/10/2026 03:22
 
 ## Como usar
 
@@ -87,14 +87,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
 ```txt
 🐶 Oferta para Ofertas Pet
 
-Carrinho de Controle Remoto Esportivo Competição Ferrari Lamborghini…
+Sandália Papete Infantil Menino Carros Vermelho Rodinha Divertido Lev…
 
-💸 De: R$ 50,10
-🔥 Por: R$ 20,54
-🏷️ 59% OFF
+💸 De: R$ 59,47
+🔥 Por: R$ 34,49
+🏷️ 42% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/905dbxKAxW
+Ver oferta: https://s.shopee.com.br/113OTa9MNu
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
 ```txt
 👟 Oferta para Moda e Calçados
 
-Tenis Shoe Joil Cadarço Grosso Masculino Feminino Unissex OG
+Kit 3 Pares Chinelo Infantil Menina
 
-💸 De: R$ 199,00
-🔥 Por: R$ 63,68
-🏷️ 68% OFF
+💸 De: R$ 69,75
+🔥 Por: R$ 27,90
+🏷️ 60% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/6q1B5jekyf
+Ver oferta: https://s.shopee.com.br/1gJ5Go6p1y
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 03/10/2026 03:03
+Gerado em: 03/10/2026 03:22
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 03/10/2026 03:03
 **Produtos usados:**
 
 - Fralda Infantil Huggies Meguinha Tamanho G 30 Unidades
+- Tênis Infantil Baby Confortável Casual Leve Para Menino e Menina Sapa…
 - Kit 2 Porta Leite em Pó Para Bebê + Colher de Silicone
-- Kit 11 Peças Essenciais para Bebê
 
 ---
 

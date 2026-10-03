@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 03/10/2026 11:24
+Gerado em: 03/10/2026 12:22
 
 ## Como usar
 
@@ -32,7 +32,7 @@ Gerado em: 03/10/2026 11:24
 
 - Kit 2 Fraldas Cremer Magic Care Hiper G
 - Fralda Pampers Supersequinha G 80 Unidades
-- Fralda Infantil Huggies Meguinha Tamanho G 30 Unidades
+- Berço Portátil Infantil Styll Baby
 
 ---
 

@@ -1,5 +1,68 @@
 [
   {
+    "id": "ea3eba76670d5077fe",
+    "title": "Bolsa Feminina TOMI MITO Compacta e Elegante",
+    "raw_title": "TOMI MITO Bolsa Feminina Compacta Elegante para Viagem e Trabalho TM9183",
+    "description": "✨ IMPERDÍVEL! A bolsa feminina TOMI MITO que une elegância e praticidade para seu dia a dia, viagens e trabalho está com um super desconto! 👜 Compacta e...",
+    "marketplace": "Shopee",
+    "category": "Bolsas Femininas",
+    "old_price": "R$ 138,86",
+    "price": "R$ 49,99",
+    "discount_percent": 64.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820mg-ms0pb4wxhxc61b",
+    "affiliate_url": "https://s.shopee.com.br/6VOLMIMXpz",
+    "created_at": "03/10/2026 08:18",
+    "created_at_iso": "2026-10-03T08:18:57",
+    "created_ts": 1791015537,
+    "niche": {
+      "key": "shopee_bolsas_femininas",
+      "name": "Bolsas Femininas"
+    }
+  },
+  {
+    "id": "49d42a1bd8c205ed50",
+    "title": "Bolsa Feminina Baú Transversal com Lenço",
+    "raw_title": "Bolsa Feminina Baú Transversal Média com Lenço Alça Tiracolo Estruturada e Espaçosa",
+    "description": "🚨 IMPERDÍVEL! 🚨 Sua nova bolsa favorita chegou com um SUPER DESCONTO! 👜 Estilo e praticidade juntos! A Bolsa Feminina Baú Transversal Média é estruturad...",
+    "marketplace": "Shopee",
+    "category": "Bolsas Femininas",
+    "old_price": "R$ 121,15",
+    "price": "R$ 39,98",
+    "discount_percent": 67.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-825av-mrgkchcezqpu43",
+    "affiliate_url": "https://s.shopee.com.br/5VVoASQLsq",
+    "created_at": "03/10/2026 08:17",
+    "created_at_iso": "2026-10-03T08:17:51",
+    "created_ts": 1791015471,
+    "niche": {
+      "key": "shopee_bolsas_femininas",
+      "name": "Bolsas Femininas"
+    }
+  },
+  {
+    "id": "465f0ba4de699cb90c",
+    "title": "Mochila Feminina Notebook 15.6\"",
+    "raw_title": "Mochila casual feminina, pode guardar notebook de 15,6 polegadas, com costas acolchoadas para aliviar o peso",
+    "description": "🎒✨ **Mochila Feminina Perfeita para Você!** ✨🎒 Leve seu notebook de 15.6 polegadas com total segurança e conforto! Design casual e costas acolchoadas pa...",
+    "marketplace": "Shopee",
+    "category": "Bolsas Femininas",
+    "old_price": "R$ 170,79",
+    "price": "R$ 64,90",
+    "discount_percent": 62.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820ll-mr5biwzrs93b5f",
+    "affiliate_url": "https://s.shopee.com.br/70KbxDPB7y",
+    "created_at": "03/10/2026 08:16",
+    "created_at_iso": "2026-10-03T08:16:43",
+    "created_ts": 1791015403,
+    "niche": {
+      "key": "shopee_bolsas_femininas",
+      "name": "Bolsas Femininas"
+    }
+  },
+  {
     "id": "2326c0a66a39d30ba9",
     "title": "Blocos de Montar Educacionais",
     "raw_title": "140 Blocos De Montar Super Coloridos Carrinho + Rodinhas - educacional",
@@ -2322,119 +2385,5 @@
       "key": "shopee_moda_infantil",
       "name": "Moda Infantil"
     }
-  },
-  {
-    "id": "cd158d9312cb30c2eb",
-    "title": "Body Vestido Infantil Canelado",
-    "raw_title": "Body Vestido Infantil Canelado Tapa Fralda De Pressão Conforto Kit 2, Kit 3 e Unidade",
-    "description": "✨ OFERTA IMPERDÍVEL! Conforto e estilo para os pequenos com precinho especial! 👶 Body Vestido Infantil Canelado com Tapa Fralda de Pressão. Qualidade e...",
-    "marketplace": "Shopee",
-    "category": "Moda Infantil",
-    "old_price": "R$ 42,01",
-    "price": "R$ 28,99",
-    "discount_percent": 31.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mqxc5gf6slxh3e",
-    "affiliate_url": "https://s.shopee.com.br/gQWog0Nt0",
-    "created_at": "02/10/2026 08:18",
-    "created_at_iso": "2026-10-02T08:18:15",
-    "created_ts": 1790929095,
-    "niche": {
-      "key": "shopee_moda_infantil",
-      "name": "Moda Infantil"
-    }
-  },
-  {
-    "id": "222635cc5b077e9b78",
-    "title": "Sandália Infantil Glitter",
-    "raw_title": "Sandália Infantil Glitter Menina Sola Antiderrapante Confortavel Leve",
-    "description": "✨ Sua princesa vai brilhar! 💖 A Sandália Infantil Glitter é perfeita para as meninas que amam estilo e conforto. Com solado antiderrapante e super leve,...",
-    "marketplace": "Shopee",
-    "category": "Moda Infantil",
-    "old_price": "R$ 59,71",
-    "price": "R$ 20,90",
-    "discount_percent": 65.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ld-mrk4nkv64r2f71",
-    "affiliate_url": "https://s.shopee.com.br/50ZVydfUJU",
-    "created_at": "02/10/2026 08:16",
-    "created_at_iso": "2026-10-02T08:16:59",
-    "created_ts": 1790929019,
-    "niche": {
-      "key": "shopee_moda_infantil",
-      "name": "Moda Infantil"
-    }
-  },
-  {
-    "id": "947db5f632f08bb36d",
-    "title": "Chinelo/Sandália Confortável Infantil e Adulto",
-    "raw_title": "Chinelo Infantil Infantil e Adulto Masculino Sandália Leve Dia a Dia Confortável",
-    "description": "🚨 IMPERDÍVEL! Conforto e leveza para os pés da família toda! 👣 Este chinelo/sandália é ideal para o dia a dia, perfeito para crianças e adultos. Versáti...",
-    "marketplace": "Shopee",
-    "category": "Moda Infantil",
-    "old_price": "R$ 80,32",
-    "price": "R$ 24,90",
-    "discount_percent": 69.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjfwy67hz2faa7",
-    "affiliate_url": "https://s.shopee.com.br/LngQ45z61",
-    "created_at": "02/10/2026 08:15",
-    "created_at_iso": "2026-10-02T08:15:51",
-    "created_ts": 1790928951,
-    "niche": {
-      "key": "shopee_moda_infantil",
-      "name": "Moda Infantil"
-    }
-  },
-  {
-    "id": "b7059b0ca53ffac736",
-    "title": "Kit Papel Toalha Supremo e Mili",
-    "raw_title": "Kit Papel Toalha Interfolha Supremo E Papel Toalha Mili",
-    "description": "✨ Economia e Qualidade para seu lar! ✨ Garanta já o seu Kit Papel Toalha Interfolha Supremo E Papel Toalha Mili. Essencial para o dia a dia, com a quali...",
-    "marketplace": "Mercado Livre",
-    "category": "Papelaria",
-    "old_price": "R$ 111,00",
-    "price": "R$ 105,45",
-    "discount_percent": 5.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_882252-MLA99880646757_112025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47658528?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "02/10/2026 08:08",
-    "created_at_iso": "2026-10-02T08:08:46",
-    "created_ts": 1790928526
-  },
-  {
-    "id": "78fd79c54bd0ada507",
-    "title": "Amaciante Sensiv Titila 5L",
-    "raw_title": "Amaciante Roupas Macias Sensiv Titila 5l",
-    "description": "Roupas macias e cheirosas com precinho! 🧺 Amaciante Roupas Macias Sensiv Titila 5l Transforme suas peças com um toque de carinho e perfume duradouro. 🌸",
-    "marketplace": "Mercado Livre",
-    "category": "Supermercados",
-    "old_price": "R$ 49,90",
-    "price": "R$ 47,40",
-    "discount_percent": 5.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_845520-MLA117867052441_092026-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB60416491?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "02/10/2026 08:07",
-    "created_at_iso": "2026-10-02T08:07:39",
-    "created_ts": 1790928459
-  },
-  {
-    "id": "c521734dd54baa7c29",
-    "title": "Luminária Foguete Lava Bolha",
-    "raw_title": "Luminária Foguete Lava Bolha Todas As Cores Decoração Retrô",
-    "description": "🚀 Decoração que hipnotiza! Traga um toque único para seu ambiente com a Luminária Foguete Lava Bolha! ✨ Todas as cores e um estilo retrô incrível. 🚚 Fre...",
-    "marketplace": "Mercado Livre",
-    "category": "Pet",
-    "old_price": "R$ 167,88",
-    "price": "R$ 134,30",
-    "discount_percent": 20.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_890933-MLA114709032061_072026-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75541518?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "02/10/2026 08:06",
-    "created_at_iso": "2026-10-02T08:06:10",
-    "created_ts": 1790928370
   }
 ]

@@ -1,5 +1,22 @@
 [
   {
+    "id": "fe50cf4a3a48dbd06e",
+    "title": "Rack Acacia para TV 43''",
+    "raw_title": "Rack Acacia Rack Para Tv Até 43 Pt-jupiter De Madeira",
+    "description": "✨ Transforme sua sala com o Rack Acacia Pt-Jupiter de Madeira! Perfeito para TVs de até 43 polegadas, ele une elegância e funcionalidade, trazendo um to...",
+    "marketplace": "Mercado Livre",
+    "category": "Casa e Decoração",
+    "old_price": "",
+    "price": "R$ 199,32",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_837557-MLA112699471961_062026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB72068054?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "03/10/2026 03:02",
+    "created_at_iso": "2026-10-03T03:02:10",
+    "created_ts": 1790996530
+  },
+  {
     "id": "c6d0dc09ab1145f106",
     "title": "Principia kit com 2 Protetores solares com cor PS-05-escolha seu tom",
     "raw_title": "Principia kit com 2 Protetores solares com cor PS-05-escolha seu tom",
@@ -2314,65 +2331,6 @@
     "niche": {
       "key": "shopee_sapatos_masculinos",
       "name": "Sapatos Masculinos"
-    }
-  },
-  {
-    "id": "1ffe155fc479ca1ed1",
-    "title": "Comedouro Automático Ração Aquário Terrario Peixe Tartaruga",
-    "raw_title": "Comedouro Automático Ração Aquário Terrario Peixe Tartaruga",
-    "description": "🔥 18% OFF — Oferta encontrada! 📌 Comedouro Automático Ração Aquário Terrario Peixe Tartaruga Confira os detalhes e aproveite enquanto a oferta estiver d...",
-    "marketplace": "Mercado Livre",
-    "category": "Pet",
-    "old_price": "R$ 142,86",
-    "price": "R$ 117,85",
-    "discount_percent": 18.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_767948-MLA115138016402_082026-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB44164135?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "02/10/2026 03:01",
-    "created_at_iso": "2026-10-02T03:01:29",
-    "created_ts": 1790910089
-  },
-  {
-    "id": "799f13e34dee35aa1c",
-    "title": "Vestido Básico de Alçinha COM BOLSO Para o Verão Vestido Curto Confo…",
-    "raw_title": "Vestido Básico de Alçinha COM BOLSO Para o Verão Vestido Curto Confortavel Plus Size Com Elasticidade Soltinho",
-    "description": "🔥 31% OFF — Oferta encontrada! 📌 Vestido Básico de Alçinha COM BOLSO Para o Verão Vestido Curto Confortavel Plus Size Com Elasticidade Soltinho Confira...",
-    "marketplace": "Shopee",
-    "category": "Roupas Plus Size",
-    "old_price": "R$ 50,00",
-    "price": "R$ 34,50",
-    "discount_percent": 31.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-man68bkisdfd5a",
-    "affiliate_url": "https://s.shopee.com.br/5VVmApyXjO",
-    "created_at": "02/10/2026 02:20",
-    "created_at_iso": "2026-10-02T02:20:13",
-    "created_ts": 1790907613,
-    "niche": {
-      "key": "shopee_roupas_plus_size",
-      "name": "Roupas Plus Size"
-    }
-  },
-  {
-    "id": "48699503d9ccfbd77b",
-    "title": "Calça Pantalona Plus Size de Amarrar Duna Com Bolso Premium",
-    "raw_title": "Calça Pantalona Plus Size de Amarrar Duna Com Bolso Premium",
-    "description": "🔥 46% OFF — Oferta encontrada! 📌 Calça Pantalona Plus Size de Amarrar Duna Com Bolso Premium Confira os detalhes e aproveite enquanto a oferta estiver d...",
-    "marketplace": "Shopee",
-    "category": "Roupas Plus Size",
-    "old_price": "R$ 70,19",
-    "price": "R$ 37,90",
-    "discount_percent": 46.0,
-    "rating": 4.7,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhrn7eqkh2ptf4",
-    "affiliate_url": "https://s.shopee.com.br/AUuS81oJ9Q",
-    "created_at": "02/10/2026 02:19",
-    "created_at_iso": "2026-10-02T02:19:08",
-    "created_ts": 1790907548,
-    "niche": {
-      "key": "shopee_roupas_plus_size",
-      "name": "Roupas Plus Size"
     }
   }
 ]

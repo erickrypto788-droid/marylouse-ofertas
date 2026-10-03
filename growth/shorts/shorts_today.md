@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 03/10/2026 20:18
+Gerado em: 03/10/2026 21:22
 
 ## Como usar
 
@@ -78,9 +78,9 @@ Gerado em: 03/10/2026 20:18
 
 **Produtos usados:**
 
+- Perfume Árabe Intense Men EDP
+- Chapinha 2 em 1 Profissional
 - Perfume Delilah 50ml
-- Secador Profissional LONYAN com Difusor
-- BODY SPLASH FEMININO ARABE AYRA 100ML - PRIMACIAL PERFUME FLORAL
 
 ---
 

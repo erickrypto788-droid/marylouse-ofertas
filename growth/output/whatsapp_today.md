@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 03/10/2026 20:18
+Gerado em: 03/10/2026 21:22
 
 ## Como usar
 
@@ -87,14 +87,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
 ```txt
 💄 Oferta para Beleza e Cuidados
 
-Perfume Delilah 50ml
+Perfume Árabe Intense Men EDP
 
-💸 De: R$ 368,00
-🔥 Por: R$ 184,00
-🏷️ 50% OFF
-🛒 Loja: Mercado Livre
+💸 De: R$ 49,80
+🔥 Por: R$ 26,89
+🏷️ 46% OFF
+🛒 Loja: Shopee
 
-Ver oferta: https://www.mercadolivre.com.br/p/MLB76876185?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+Ver oferta: https://s.shopee.com.br/1AsTulpcu
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

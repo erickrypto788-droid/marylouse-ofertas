@@ -1,5 +1,26 @@
 [
   {
+    "id": "b76ea8b4e76b644748",
+    "title": "Nintendo Switch OLED Bundle",
+    "raw_title": "Console Nintendo Switch OLED + Super Mario Bros + 3 Meses NSO",
+    "description": "🎮 SUPER OFERTA NINTENDO! 🚀 Prepare-se para a diversão definitiva! Leve o Console Nintendo Switch OLED, o clássico Super Mario Bros e 3 Meses de Nintendo...",
+    "marketplace": "Shopee",
+    "category": "Jogos e Consoles",
+    "old_price": "R$ 2.716,04",
+    "price": "R$ 2.199,99",
+    "discount_percent": 19.0,
+    "rating": 5.0,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820ld-mrhncjeix1jae6",
+    "affiliate_url": "https://s.shopee.com.br/8V9Q4ZMaW5",
+    "created_at": "03/10/2026 13:15",
+    "created_at_iso": "2026-10-03T13:15:55",
+    "created_ts": 1791033355,
+    "niche": {
+      "key": "shopee_jogos_consoles",
+      "name": "Jogos e Consoles"
+    }
+  },
+  {
     "id": "8f5595c3a8105687bc",
     "title": "Umidificador e Difusor Ultrassônico 1.5L",
     "raw_title": "Difusor Ar Umidificador Umidificador Ar 1.5l Humidifiicador Ar Ultrassonico Umidificador Doméstico Para Quarto Sala Berçário Operação Silenciosa Umidificação...",
@@ -2155,27 +2176,6 @@
     "created_at": "02/10/2026 13:16",
     "created_at_iso": "2026-10-02T13:16:51",
     "created_ts": 1790947011,
-    "niche": {
-      "key": "shopee_bolsas_femininas",
-      "name": "Bolsas Femininas"
-    }
-  },
-  {
-    "id": "0ee93d3a37d4cd324e",
-    "title": "Bolsa de Praia Feminina Alça de Corda Elegante Grande e Resistente",
-    "raw_title": "Bolsa de Praia Feminina Alça de Corda Elegante Grande e Resistente",
-    "description": "🔥 52% OFF — Oferta encontrada! 📌 Bolsa de Praia Feminina Alça de Corda Elegante Grande e Resistente Confira os detalhes e aproveite enquanto a oferta es...",
-    "marketplace": "Shopee",
-    "category": "Bolsas Femininas",
-    "old_price": "R$ 59,40",
-    "price": "R$ 28,51",
-    "discount_percent": 52.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-me8bszdf5pmoee",
-    "affiliate_url": "https://s.shopee.com.br/113NXtOVc4",
-    "created_at": "02/10/2026 13:15",
-    "created_at_iso": "2026-10-02T13:15:47",
-    "created_ts": 1790946947,
     "niche": {
       "key": "shopee_bolsas_femininas",
       "name": "Bolsas Femininas"

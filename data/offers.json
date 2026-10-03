@@ -1,5 +1,39 @@
 [
   {
+    "id": "4b3acf841a971b5b8e",
+    "title": "Motorola Razr 50 Ultra 5G Pink",
+    "raw_title": "Motorola Smartphone Motorola Razr 50 Ultra 5g Cor Pink",
+    "description": "✨ Inovação e estilo no seu bolso! ✨ Apresentamos o Motorola Razr 50 Ultra 5G Cor Pink! Um smartphone que une tecnologia de ponta e um design que vira ca...",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "",
+    "price": "R$ 3.948,99",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_731263-MLA82936820100_032025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47306242?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "03/10/2026 11:03",
+    "created_at_iso": "2026-10-03T11:03:54",
+    "created_ts": 1791025434
+  },
+  {
+    "id": "a642ddd41499d00391",
+    "title": "Xiaomi Redmi 14C 128GB",
+    "raw_title": "Smartphone Xiaomi Redmi 14C Preto 128GB 4GB RAM",
+    "description": "⚡️ NOVO XIAOMI REDMI 14C! ⚡️ Chegou a hora de ter um smartphone completo! 🚀 O Xiaomi Redmi 14C Preto com 128GB de armazenamento e 4GB de RAM é a escolha...",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "",
+    "price": "R$ 819,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_641460-MLA115717276858_092026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43264591?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "03/10/2026 11:02",
+    "created_at_iso": "2026-10-03T11:02:46",
+    "created_ts": 1791025366
+  },
+  {
     "id": "60255407ff19c6a381",
     "title": "Kit 36 Canetas Marca Texto Neon",
     "raw_title": "Kit 36 Canetas Marca Texto Neon Fluorescente Vighs – Cores Vivas Secagem Rápida Escolar Escritório",
@@ -2182,27 +2216,6 @@
     "niche": {
       "key": "shopee_saude",
       "name": "Saúde"
-    }
-  },
-  {
-    "id": "3945e7f8674766a41a",
-    "title": "Carrinho de Controle Remoto Esportivo Competição Ferrari Lamborghini…",
-    "raw_title": "Carrinho de Controle Remoto Esportivo Competição Ferrari Lamborghini Bugati Velocidade",
-    "description": "🔥 59% OFF — Oferta encontrada! 📌 Carrinho de Controle Remoto Esportivo Competição Ferrari Lamborghini Bugati Velocidade Confira os detalhes e aproveite...",
-    "marketplace": "Shopee",
-    "category": "Brinquedos e Hobbies",
-    "old_price": "R$ 50,10",
-    "price": "R$ 20,54",
-    "discount_percent": 59.0,
-    "rating": 4.7,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mci6w7lu1s75b8",
-    "affiliate_url": "https://s.shopee.com.br/905dbxKAxW",
-    "created_at": "02/10/2026 10:20",
-    "created_at_iso": "2026-10-02T10:20:37",
-    "created_ts": 1790936437,
-    "niche": {
-      "key": "shopee_brinquedos_hobbies",
-      "name": "Brinquedos e Hobbies"
     }
   }
 ]

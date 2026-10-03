@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 03/10/2026 06:21
+Gerado em: 03/10/2026 07:22
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 03/10/2026 06:21
 
 **Produtos usados:**
 
+- Kit 2 Fraldas Cremer Magic Care Hiper G
+- Fralda Pampers Supersequinha G 80 Unidades
 - Fralda Infantil Huggies Meguinha Tamanho G 30 Unidades
-- Bebê Reborn 100% Silicone Realista Boneca Barata Completa
-- Tênis Infantil Baby Confortável Casual Leve Para Menino e Menina Sapa…
 
 ---
 
@@ -80,7 +80,7 @@ Gerado em: 03/10/2026 06:21
 
 - Perfume Delilah 50ml
 - Secador Profissional LONYAN com Difusor
-- Perfume Masculino Amadeirado
+- BODY SPLASH FEMININO ARABE AYRA 100ML - PRIMACIAL PERFUME FLORAL
 
 ---
 

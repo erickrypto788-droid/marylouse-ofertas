@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 03/10/2026 06:21
+Gerado em: 03/10/2026 07:22
 
 ## Como usar
 
@@ -117,14 +117,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
 ```txt
 🍼 Oferta para Mamãe e Bebê
 
-Fralda Infantil Huggies Meguinha Tamanho G 30 Unidades
+Kit 2 Fraldas Cremer Magic Care Hiper G
 
-💸 De: R$ 50,52
-🔥 Por: R$ 37,89
-🏷️ 25% OFF
+💸 De: R$ 137,67
+🔥 Por: R$ 94,99
+🏷️ 31% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/4VdFeDLexX
+Ver oferta: https://s.shopee.com.br/4B0QVspAtk
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

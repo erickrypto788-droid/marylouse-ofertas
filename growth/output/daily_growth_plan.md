@@ -1,14 +1,14 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 03/10/2026 06:21
+Gerado em: 03/10/2026 07:22
 
 ## Categorias prioritárias
 
-- 💄 **Beleza**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 🍼 **Mãe e Bebê**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 🍼 **Mãe e Bebê**: 16 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🏋️ **Esportes**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 👗 **Moda Feminina**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
+- 💄 **Beleza**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - ❤️ **Saúde**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 🧸 **Brinquedos**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 📦 **Outros**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
@@ -45,33 +45,33 @@ Gerado em: 03/10/2026 06:21
    - Desconto: 64% OFF
    - Link: https://s.shopee.com.br/qjxXyeM08
 
-5. **Perfume Masculino Amadeirado**
-   - Categoria: Beleza
+5. **Kit 2 Fraldas Cremer Magic Care Hiper G**
+   - Categoria: Mãe e Bebê
    - Loja: Shopee
-   - Preço: R$ 28,98
-   - Desconto: 52% OFF
-   - Link: https://s.shopee.com.br/7pthHjJB6V
+   - Preço: R$ 94,99
+   - Desconto: 31% OFF
+   - Link: https://s.shopee.com.br/4B0QVspAtk
 
-6. **Escova Secadora GOKOCO 5 em 1**
-   - Categoria: Beleza
-   - Loja: Shopee
-   - Preço: R$ 425,00
-   - Desconto: 57% OFF
-   - Link: https://s.shopee.com.br/9AP4sBIVAx
-
-7. **BODY SPLASH FEMININO ARABE AYRA 100ML - PRIMACIAL PERFUME FLORAL**
+6. **BODY SPLASH FEMININO ARABE AYRA 100ML - PRIMACIAL PERFUME FLORAL**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 25,00
    - Desconto: 37% OFF
    - Link: https://s.shopee.com.br/LnhcE9e5s
 
-8. **SSD Interno de Alta Velocidade**
+7. **SSD Interno de Alta Velocidade**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 94,25
    - Desconto: 35% OFF
    - Link: https://s.shopee.com.br/AKb2rR4Biu
+
+8. **Fralda Pampers Supersequinha G 80 Unidades**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 110,00
+   - Desconto: 22% OFF
+   - Link: https://s.shopee.com.br/5fpBm4bqEG
 
 9. **Oxímetro Infantil Neonatal Pediátrico De Dedo Digital Crianças Medido…**
    - Categoria: Saúde

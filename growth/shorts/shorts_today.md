@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 03/10/2026 17:18
+Gerado em: 03/10/2026 18:10
 
 ## Como usar
 
@@ -49,12 +49,14 @@ Gerado em: 03/10/2026 17:18
 - growth/shorts/slides/casa_cozinha/01_intro.png
 - growth/shorts/slides/casa_cozinha/02_produto_1.png
 - growth/shorts/slides/casa_cozinha/03_produto_2.png
+- growth/shorts/slides/casa_cozinha/04_produto_3.png
 - growth/shorts/slides/casa_cozinha/05_cta.png
 
 **Produtos usados:**
 
 - Termômetro Industrial Digital Infravermelho Cozinha Laser Medição Tem…
 - Liquidificador Britânia 2,6L 4 Velocidades Diamante 1100
+- Snob Papel Toalha Cozinha Folha Dupla C/ 12 Rolos
 
 ---
 
@@ -125,7 +127,7 @@ Gerado em: 03/10/2026 17:18
 **Produtos usados:**
 
 - Kit Banheiro Infantil Lego | Porta Escova + Porta Papel Higiênico + P…
-- Kit 5 Potes Mantimentos Arroz Feijão Café Açúcar Sal Mickey e Minnie
 - Creme Dental Limpeza Interdental
+- 100 Sacos de Lixo 60L Reforçados
 
 ---

@@ -1,5 +1,22 @@
 [
   {
+    "id": "f4c5d59245d52ff318",
+    "title": "Ração Harmony Adultos Pequenos 10,1kg",
+    "raw_title": "Ração Cachorro Selection Adultos Pequenos 10,1kg Harmony",
+    "description": "🐶 Seu melhor amigo vai amar essa! Ração Cachorro Selection Adultos Pequenos 10,1kg Harmony. Qualidade e sabor para o seu cão!",
+    "marketplace": "Mercado Livre",
+    "category": "Pet",
+    "old_price": "",
+    "price": "R$ 114,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_997469-MLA99923110131_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB49735840?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "03/10/2026 14:02",
+    "created_at_iso": "2026-10-03T14:02:18",
+    "created_ts": 1791036138
+  },
+  {
     "id": "b76ea8b4e76b644748",
     "title": "Nintendo Switch OLED Bundle",
     "raw_title": "Console Nintendo Switch OLED + Super Mario Bros + 3 Meses NSO",
@@ -2137,48 +2154,6 @@
     "niche": {
       "key": "shopee_bolsas_masculinas",
       "name": "Bolsas Masculinas"
-    }
-  },
-  {
-    "id": "c5bb9875994d191f56",
-    "title": "Mochila Masculina Bolsa Feminina Notebook Escolar Resistente Oferta",
-    "raw_title": "Mochila Masculina Bolsa Feminina Notebook Escolar Resistente Oferta",
-    "description": "🔥 25% OFF — Oferta encontrada! 📌 Mochila Masculina Bolsa Feminina Notebook Escolar Resistente Oferta Confira os detalhes e aproveite enquanto a oferta e...",
-    "marketplace": "Shopee",
-    "category": "Bolsas Femininas",
-    "old_price": "R$ 40,16",
-    "price": "R$ 30,12",
-    "discount_percent": 25.0,
-    "rating": 4.5,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-ln8ohnuajf0kd3",
-    "affiliate_url": "https://s.shopee.com.br/4VdFiKJumV",
-    "created_at": "02/10/2026 13:17",
-    "created_at_iso": "2026-10-02T13:17:55",
-    "created_ts": 1790947075,
-    "niche": {
-      "key": "shopee_bolsas_femininas",
-      "name": "Bolsas Femininas"
-    }
-  },
-  {
-    "id": "1a3a08dc6d6b9da360",
-    "title": "Bolsa Feminina Pequena De Lado Transversal Alça Corrente Lançamento",
-    "raw_title": "Bolsa Feminina Pequena De Lado Transversal Alça Corrente Lançamento",
-    "description": "🔥 42% OFF — Oferta encontrada! 📌 Bolsa Feminina Pequena De Lado Transversal Alça Corrente Lançamento Confira os detalhes e aproveite enquanto a oferta e...",
-    "marketplace": "Shopee",
-    "category": "Bolsas Femininas",
-    "old_price": "R$ 70,52",
-    "price": "R$ 40,90",
-    "discount_percent": 42.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbih4ivndgbm2a",
-    "affiliate_url": "https://s.shopee.com.br/1AqM3SJdq",
-    "created_at": "02/10/2026 13:16",
-    "created_at_iso": "2026-10-02T13:16:51",
-    "created_ts": 1790947011,
-    "niche": {
-      "key": "shopee_bolsas_femininas",
-      "name": "Bolsas Femininas"
     }
   }
 ]

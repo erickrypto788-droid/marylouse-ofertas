@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 03/10/2026 06:03
+Gerado em: 03/10/2026 06:21
 
 ## Categorias prioritárias
 
@@ -9,8 +9,8 @@ Gerado em: 03/10/2026 06:03
 - 🏋️ **Esportes**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 👗 **Moda Feminina**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
+- ❤️ **Saúde**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 🧸 **Brinquedos**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
-- 🔌 **Eletrodomésticos**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-eletrodomesticos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_eletrodomesticos
 - 📦 **Outros**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 💻 **Informática**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 🐶 **Pet**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
@@ -73,19 +73,19 @@ Gerado em: 03/10/2026 06:03
    - Desconto: 35% OFF
    - Link: https://s.shopee.com.br/AKb2rR4Biu
 
-9. **Tênis Infantil Baby Confortável Casual Leve Para Menino e Menina Sapa…**
+9. **Oxímetro Infantil Neonatal Pediátrico De Dedo Digital Crianças Medido…**
+   - Categoria: Saúde
+   - Loja: Shopee
+   - Preço: R$ 25,99
+   - Desconto: 61% OFF
+   - Link: https://s.shopee.com.br/8fSpo2eOUo
+
+10. **Tênis Infantil Baby Confortável Casual Leve Para Menino e Menina Sapa…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 34,90
    - Desconto: 53% OFF
    - Link: https://s.shopee.com.br/8Kpxwlfvdk
-
-10. **Kit 2 Porta Leite em Pó Para Bebê + Colher de Silicone**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 26,88
-   - Desconto: 55% OFF
-   - Link: https://s.shopee.com.br/AKb2vWu7GS
 
 ## Ações gratuitas recomendadas
 

@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 03/10/2026 06:03
+Gerado em: 03/10/2026 06:21
 
 ## Como usar
 
@@ -132,37 +132,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 5 — Casa e Cozinha
-
-**Canal recomendado:** Casa e Cozinha
-
-**Horário sugerido:** 18:00 - 20:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
-
-**Texto pronto:**
-
-```txt
-🍳 Oferta para Casa e Cozinha
-
-Liquidificador Mondial Turbo 1200w
-
-💸 De: R$ 819,58
-🔥 Por: R$ 155,72
-🏷️ 81% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/1gJ3sH9L27
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 6 — Moda e Calçados
+## Post 5 — Moda e Calçados
 
 **Canal recomendado:** Moda e Calçados
 
@@ -185,6 +155,36 @@ Kit 3 Pares Chinelo Infantil Menina
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/1gJ5Go6p1y
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 6 — Saúde
+
+**Canal recomendado:** Saúde e Bem-estar
+
+**Horário sugerido:** 09:00 - 11:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/saude.png
+
+**Texto pronto:**
+
+```txt
+❤️ Oferta para Saúde
+
+Oxímetro Infantil Neonatal Pediátrico De Dedo Digital Crianças Medido…
+
+💸 De: R$ 66,64
+🔥 Por: R$ 25,99
+🏷️ 61% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/8fSpo2eOUo
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

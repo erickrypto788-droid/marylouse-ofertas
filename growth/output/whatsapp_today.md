@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 03/10/2026 18:18
+Gerado em: 03/10/2026 19:22
 
 ## Como usar
 
@@ -27,14 +27,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
 ```txt
 📱 Oferta para Celulares e Tecnologia
 
-Suporte Celular Carro Veicular Trava Automática anti queda
+Mini carregador portatil power bank para celular IPNHONE Samsung Xiao…
 
-💸 De: R$ 49,96
-🔥 Por: R$ 23,98
-🏷️ 52% OFF
+💸 De: R$ 89,97
+🔥 Por: R$ 26,99
+🏷️ 70% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/9zyCzlL0hr
+Ver oferta: https://s.shopee.com.br/7Ae1cYIfPX
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

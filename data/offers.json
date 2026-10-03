@@ -1,5 +1,22 @@
 [
   {
+    "id": "d5de418b273110b565",
+    "title": "SSD NVMe 512GB Ceamere",
+    "raw_title": "Ssd Nvme 512gb Ceamere",
+    "description": "🚀 **Upgrade no seu PC!** Chegou o SSD NVMe 512GB Ceamere para você turbinar seu computador com velocidade e performance incríveis! ⚡️ 📦 Frete grátis par...",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "",
+    "price": "R$ 524,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_894116-MLA99541938838_122025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24511655?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "03/10/2026 09:01",
+    "created_at_iso": "2026-10-03T09:01:55",
+    "created_ts": 1791018115
+  },
+  {
     "id": "ea3eba76670d5077fe",
     "title": "Bolsa Feminina TOMI MITO Compacta e Elegante",
     "raw_title": "TOMI MITO Bolsa Feminina Compacta Elegante para Viagem e Trabalho TM9183",
@@ -2343,47 +2360,5 @@
     "created_at": "02/10/2026 09:02",
     "created_at_iso": "2026-10-02T09:02:44",
     "created_ts": 1790931764
-  },
-  {
-    "id": "33260bb0bb6767ba3c",
-    "title": "Kit 10 Cuecas Boxer Infantil",
-    "raw_title": "Kit 10 Cuecas Boxer Box Infantil Juvenil Menino Estampada",
-    "description": "MEGA OFERTA PARA SEUS FILHOS! ✨ Conforto e estilo garantidos com o Kit 10 Cuecas Boxer Infantil Juvenil Estampadas! Perfeito para o dia a dia dos pequen...",
-    "marketplace": "Shopee",
-    "category": "Moda Infantil",
-    "old_price": "R$ 90,22",
-    "price": "R$ 36,99",
-    "discount_percent": 59.0,
-    "rating": 4.6,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9u79k2kc6d5a4",
-    "affiliate_url": "https://s.shopee.com.br/W76cMwghV",
-    "created_at": "02/10/2026 08:20",
-    "created_at_iso": "2026-10-02T08:20:31",
-    "created_ts": 1790929231,
-    "niche": {
-      "key": "shopee_moda_infantil",
-      "name": "Moda Infantil"
-    }
-  },
-  {
-    "id": "fa31ab60812c69cb9e",
-    "title": "Fantasia Menino Super-Heróis Hulk Aranha América Ferro 1 a 8 Anos Env…",
-    "raw_title": "Fantasia Menino Super-Heróis Hulk Aranha América Ferro 1 a 8 Anos Envio Imediato",
-    "description": "🔥 30% OFF — Oferta encontrada! 📌 Fantasia Menino Super-Heróis Hulk Aranha América Ferro 1 a 8 Anos Envio Imediato Confira os detalhes e aproveite enquan...",
-    "marketplace": "Shopee",
-    "category": "Moda Infantil",
-    "old_price": "R$ 49,86",
-    "price": "R$ 34,90",
-    "discount_percent": 30.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820l8-mpcr6tcmearp96",
-    "affiliate_url": "https://s.shopee.com.br/2BFKbQqLK3",
-    "created_at": "02/10/2026 08:19",
-    "created_at_iso": "2026-10-02T08:19:19",
-    "created_ts": 1790929159,
-    "niche": {
-      "key": "shopee_moda_infantil",
-      "name": "Moda Infantil"
-    }
   }
 ]

@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 03/10/2026 02:06
+Gerado em: 03/10/2026 02:20
 
 ## Como usar
 
@@ -57,14 +57,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
 ```txt
 💄 Oferta para Beleza e Cuidados
 
-Perfume Masculino Amadeirado
+Secador Profissional LONYAN com Difusor
 
-💸 De: R$ 60,38
-🔥 Por: R$ 28,98
-🏷️ 52% OFF
+💸 De: R$ 159,18
+🔥 Por: R$ 78,00
+🏷️ 51% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/7pthHjJB6V
+Ver oferta: https://s.shopee.com.br/3LRJBk2coJ
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

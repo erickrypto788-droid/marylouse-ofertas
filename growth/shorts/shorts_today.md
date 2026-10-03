@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 03/10/2026 02:06
+Gerado em: 03/10/2026 02:20
 
 ## Como usar
 
@@ -78,9 +78,9 @@ Gerado em: 03/10/2026 02:06
 
 **Produtos usados:**
 
+- Secador Profissional LONYAN com Difusor
 - Perfume Masculino Amadeirado
 - Escova Secadora GOKOCO 5 em 1
-- Kit Principia Limpa, Hidrata e Protege
 
 ---
 

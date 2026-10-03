@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 03/10/2026 05:26
+Gerado em: 03/10/2026 06:03
 
 ## Como usar
 
@@ -57,14 +57,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
 ```txt
 💄 Oferta para Beleza e Cuidados
 
-Secador Profissional LONYAN com Difusor
+Perfume Delilah 50ml
 
-💸 De: R$ 159,18
-🔥 Por: R$ 78,00
-🏷️ 51% OFF
-🛒 Loja: Shopee
+💸 De: R$ 368,00
+🔥 Por: R$ 184,00
+🏷️ 50% OFF
+🛒 Loja: Mercado Livre
 
-Ver oferta: https://s.shopee.com.br/3LRJBk2coJ
+Ver oferta: https://www.mercadolivre.com.br/p/MLB76876185?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

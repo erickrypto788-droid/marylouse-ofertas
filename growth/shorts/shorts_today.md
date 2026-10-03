@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 03/10/2026 05:22
+Gerado em: 03/10/2026 06:03
 
 ## Como usar
 
@@ -78,9 +78,9 @@ Gerado em: 03/10/2026 05:22
 
 **Produtos usados:**
 
+- Perfume Delilah 50ml
 - Secador Profissional LONYAN com Difusor
 - Perfume Masculino Amadeirado
-- Escova Secadora GOKOCO 5 em 1
 
 ---
 

@@ -1,5 +1,26 @@
 [
   {
+    "id": "df8664020087985c73",
+    "title": "Mochila Lona 50L - Viagem e Esporte",
+    "raw_title": "Mochila Masculina Lona 50 Litros Viagem Passeio Motoboy Esporte Trilha Viagem 803",
+    "description": "🎒 AVENTURA TE ESPERA! 🎒 Prepare-se para qualquer jornada com a Mochila Masculina de Lona 50 Litros! Perfeita para viagem, passeio, motoboy, esporte e tr...",
+    "marketplace": "Shopee",
+    "category": "Bolsas Masculinas",
+    "old_price": "R$ 36,87",
+    "price": "R$ 36,50",
+    "discount_percent": 1.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/br-11134201-23030-nx9v1tkjn5nv21",
+    "affiliate_url": "https://s.shopee.com.br/AUuUBl5dpq",
+    "created_at": "03/10/2026 09:15",
+    "created_at_iso": "2026-10-03T09:15:51",
+    "created_ts": 1791018951,
+    "niche": {
+      "key": "shopee_bolsas_masculinas",
+      "name": "Bolsas Masculinas"
+    }
+  },
+  {
     "id": "d5de418b273110b565",
     "title": "SSD NVMe 512GB Ceamere",
     "raw_title": "Ssd Nvme 512gb Ceamere",
@@ -2326,39 +2347,5 @@
       "key": "shopee_esportes_lazer",
       "name": "Esportes e Lazer"
     }
-  },
-  {
-    "id": "9421ac6364b14b7812",
-    "title": "Body Modelador Nayane Short",
-    "raw_title": "Body Modelador Nayane Short Feminino Cor Cristal Tamanho EG",
-    "description": "✨ Sinta-se poderosa e confortável! Realce sua beleza com o Body Modelador Nayane Short. 💖 Ele garante uma silhueta impecável e suporte ideal, perfeito p...",
-    "marketplace": "Mercado Livre",
-    "category": "Roupas Femininas",
-    "old_price": "",
-    "price": "R$ 151,70",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_723789-MLA95555705961_102025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB56081727?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "02/10/2026 09:03",
-    "created_at_iso": "2026-10-02T09:03:54",
-    "created_ts": 1790931834
-  },
-  {
-    "id": "8cc612696c3833f5b5",
-    "title": "Conjunto Alfaiataria Elegante Bege",
-    "raw_title": "Conjunto Feminino Alfaiataria Bermuda Blusa Elegante Peplum Conjunto Feminino Bege",
-    "description": "✨ Arrase com elegância e economia! ✨ Look sofisticado e super versátil! O Conjunto Feminino de Alfaiataria com Bermuda e Blusa Peplum Bege é a pedida ce...",
-    "marketplace": "Mercado Livre",
-    "category": "Roupas Femininas",
-    "old_price": "R$ 219,90",
-    "price": "R$ 208,90",
-    "discount_percent": 5.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_895747-MLA117877799289_092026-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74851412?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "02/10/2026 09:02",
-    "created_at_iso": "2026-10-02T09:02:44",
-    "created_ts": 1790931764
   }
 ]

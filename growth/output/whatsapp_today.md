@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 03/10/2026 21:22
+Gerado em: 03/10/2026 22:22
 
 ## Como usar
 
@@ -117,14 +117,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
 ```txt
 🐶 Oferta para Ofertas Pet
 
-Sandália Papete Infantil Menino Carros Vermelho Rodinha Divertido Lev…
+Sandália Papete Infantil Meninos Babuche Masculino Macio Leve e Confo…
 
-💸 De: R$ 59,47
-🔥 Por: R$ 34,49
-🏷️ 42% OFF
+💸 De: R$ 44,65
+🔥 Por: R$ 21,88
+🏷️ 51% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/113OTa9MNu
+Ver oferta: https://s.shopee.com.br/2BFN84MxKS
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

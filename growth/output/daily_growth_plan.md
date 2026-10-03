@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 03/10/2026 16:03
+Gerado em: 03/10/2026 16:22
 
 ## Categorias prioritárias
 
-- 📦 **Outros**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
-- 💻 **Informática**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 👗 **Moda Feminina**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
+- 📦 **Outros**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- ✨ **Moda Plus Size**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
 - 👕 **Moda Masculina**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 - 🍼 **Mãe e Bebê**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 💻 **Informática**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 💄 **Beleza**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 👟 **Calçados**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 🐶 **Pet**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
-- 🏋️ **Esportes**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 
 ## Top ofertas para destacar
 
@@ -45,47 +45,47 @@ Gerado em: 03/10/2026 16:03
    - Desconto: 52% OFF
    - Link: https://s.shopee.com.br/9zyCzlL0hr
 
-5. **SSD Externo Samsung T5 Portátil**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 179,00
-   - Desconto: 64% OFF
-   - Link: https://s.shopee.com.br/qjxXyeM08
-
-6. **Kit 2 Fraldas Cremer Magic Care Hiper G**
+5. **Kit 2 Fraldas Cremer Magic Care Hiper G**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 94,99
    - Desconto: 31% OFF
    - Link: https://s.shopee.com.br/4B0QVspAtk
 
-7. **BODY SPLASH FEMININO ARABE AYRA 100ML - PRIMACIAL PERFUME FLORAL**
+6. **BODY SPLASH FEMININO ARABE AYRA 100ML - PRIMACIAL PERFUME FLORAL**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 25,00
    - Desconto: 37% OFF
    - Link: https://s.shopee.com.br/LnhcE9e5s
 
-8. **SSD Interno de Alta Velocidade**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 94,25
-   - Desconto: 35% OFF
-   - Link: https://s.shopee.com.br/AKb2rR4Biu
-
-9. **Kit 3 Bermudas Masculinas com Bolsos**
+7. **Kit 3 Bermudas Masculinas com Bolsos**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 40,95
    - Desconto: 59% OFF
    - Link: https://s.shopee.com.br/3VkkFcgCO9
 
-10. **Umidificador e Difusor Ultrassônico 1.5L**
+8. **Umidificador e Difusor Ultrassônico 1.5L**
    - Categoria: Pet
    - Loja: Mercado Livre
    - Preço: R$ 98,80
    - Desconto: 62% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB77579661?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+9. **Mouse Pad Gigante Protetor de Mesa**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 15,89
+   - Desconto: 56% OFF
+   - Link: https://s.shopee.com.br/8fSosN1jVE
+
+10. **Fralda Pampers Supersequinha G 80 Unidades**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 110,00
+   - Desconto: 22% OFF
+   - Link: https://s.shopee.com.br/5fpBm4bqEG
 
 ## Ações gratuitas recomendadas
 

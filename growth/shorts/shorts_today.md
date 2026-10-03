@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 03/10/2026 04:22
+Gerado em: 03/10/2026 05:22
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 03/10/2026 04:22
 **Produtos usados:**
 
 - Fralda Infantil Huggies Meguinha Tamanho G 30 Unidades
+- Bebê Reborn 100% Silicone Realista Boneca Barata Completa
 - Tênis Infantil Baby Confortável Casual Leve Para Menino e Menina Sapa…
-- Kit 2 Porta Leite em Pó Para Bebê + Colher de Silicone
 
 ---
 
@@ -103,8 +103,8 @@ Gerado em: 03/10/2026 04:22
 **Produtos usados:**
 
 - Suporte Celular Carro Veicular Trava Automática anti queda
-- Suporte Celular Veicular 360°
-- Cabo 4 em 1 Carregamento Rápido PD 65W USB Tipo C Lightning Duplo Nyl…
+- Carregador Rápido 168W Type C
+- Kit com 3/6/12/20 Unidades Protetor Tampa Câmera Webcam Anti-espião N…
 
 ---
 
@@ -126,8 +126,8 @@ Gerado em: 03/10/2026 04:22
 
 **Produtos usados:**
 
+- Kit Banheiro Infantil Lego | Porta Escova + Porta Papel Higiênico + P…
 - Kit 5 Potes Mantimentos Arroz Feijão Café Açúcar Sal Mickey e Minnie
 - Creme Dental Limpeza Interdental
-- Arroz Motigome 1kg
 
 ---

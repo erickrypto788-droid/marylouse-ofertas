@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 02/10/2026 23:51
+Gerado em: 03/10/2026 00:21
 
 ## Como usar
 
@@ -27,14 +27,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
 ```txt
 📱 Oferta para Celulares e Tecnologia
 
-Celular 5g Smartphone 16gb/512gb Rom Dimensity 7200 Impressão Digital…
+Suporte Celular Carro Veicular Trava Automática anti queda
 
-💸 De: R$ 4.000,00
-🔥 Por: R$ 1.380,00
-🏷️ 66% OFF
-🛒 Loja: Mercado Livre
+💸 De: R$ 49,96
+🔥 Por: R$ 23,98
+🏷️ 52% OFF
+🛒 Loja: Shopee
 
-Ver oferta: https://www.mercadolivre.com.br/p/MLB75208845?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+Ver oferta: https://s.shopee.com.br/9zyCzlL0hr
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
@@ -132,37 +132,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 5 — Moda Feminina
-
-**Canal recomendado:** Moda Feminina
-
-**Horário sugerido:** 12:00 - 14:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
-
-**Texto pronto:**
-
-```txt
-👗 Oferta para Moda Feminina
-
-Top Feminino Sutiã Poliamida Sem Aro com 4 Ajustes Bojo Confortável B…
-
-💸 De: R$ 99,96
-🔥 Por: R$ 26,99
-🏷️ 73% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/1LgD4x0MdG
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 6 — Casa e Cozinha
+## Post 5 — Casa e Cozinha
 
 **Canal recomendado:** Casa e Cozinha
 
@@ -185,6 +155,36 @@ Liquidificador Mondial Turbo 1200w
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/1gJ3sH9L27
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 6 — Moda e Calçados
+
+**Canal recomendado:** Moda e Calçados
+
+**Horário sugerido:** 12:00 - 15:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
+
+**Texto pronto:**
+
+```txt
+👟 Oferta para Moda e Calçados
+
+Tenis Shoe Joil Cadarço Grosso Masculino Feminino Unissex OG
+
+💸 De: R$ 199,00
+🔥 Por: R$ 63,68
+🏷️ 68% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/6q1B5jekyf
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

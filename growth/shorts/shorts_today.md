@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 03/10/2026 09:17
+Gerado em: 03/10/2026 10:21
 
 ## Como usar
 
@@ -49,12 +49,10 @@ Gerado em: 03/10/2026 09:17
 - growth/shorts/slides/casa_cozinha/01_intro.png
 - growth/shorts/slides/casa_cozinha/02_produto_1.png
 - growth/shorts/slides/casa_cozinha/03_produto_2.png
-- growth/shorts/slides/casa_cozinha/04_produto_3.png
 - growth/shorts/slides/casa_cozinha/05_cta.png
 
 **Produtos usados:**
 
-- Jogo Panelas Grandes Conjunto Caçarolas 40cm - 2 Un Alumínio
 - Termômetro Industrial Digital Infravermelho Cozinha Laser Medição Tem…
 - Liquidificador Britânia 2,6L 4 Velocidades Diamante 1100
 

@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 04/10/2026 15:03
+Gerado em: 04/10/2026 15:21
 
 ## Como usar
 
@@ -57,14 +57,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
 ```txt
 🍳 Oferta para Casa e Cozinha
 
-Mini Panela Elétrica Bivolt
+Panela de Pressão Antiaderente 4,5L
 
-💸 De: R$ 99,80
-🔥 Por: R$ 58,88
-🏷️ 41% OFF
+💸 De: R$ 230,86
+🔥 Por: R$ 133,90
+🏷️ 42% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/1qcVKsNPrn
+Ver oferta: https://s.shopee.com.br/9KiYnEkgwb
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

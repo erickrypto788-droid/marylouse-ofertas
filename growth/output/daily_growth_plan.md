@@ -1,16 +1,16 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 04/10/2026 19:03
+Gerado em: 04/10/2026 19:21
 
 ## Categorias prioritárias
 
 - 💄 **Beleza**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 🧸 **Brinquedos**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 🏋️ **Esportes**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 🍼 **Mãe e Bebê**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 📦 **Outros**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 📦 **Outros**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 💻 **Informática**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 🐶 **Pet**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 🔌 **Eletrodomésticos**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-eletrodomesticos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_eletrodomesticos
 - 👕 **Moda Masculina**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
@@ -52,40 +52,40 @@ Gerado em: 04/10/2026 19:03
    - Desconto: 56% OFF
    - Link: https://s.shopee.com.br/113OPSFybG
 
-6. **Mini carregador portatil power bank para celular IPNHONE Samsung Xiao…**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 26,99
-   - Desconto: 70% OFF
-   - Link: https://s.shopee.com.br/7Ae1cYIfPX
-
-7. **Panela de Pressão Antiaderente 4,5L**
+6. **Panela de Pressão Antiaderente 4,5L**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 133,90
    - Desconto: 42% OFF
    - Link: https://s.shopee.com.br/9KiYnEkgwb
 
-8. **Fralda Pampers Supersec XG 70 Tiras**
+7. **Fralda Pampers Supersec XG 70 Tiras**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 98,99
    - Desconto: 32% OFF
    - Link: https://s.shopee.com.br/4B0RmAmHxk
 
-9. **Perfume Árabe Intense Men EDP**
+8. **Perfume Árabe Intense Men EDP**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 26,89
    - Desconto: 46% OFF
    - Link: https://s.shopee.com.br/1AsTulpcu
 
-10. **Mini Panela Elétrica Bivolt**
+9. **Mini Panela Elétrica Bivolt**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 58,88
    - Desconto: 41% OFF
    - Link: https://s.shopee.com.br/1qcVKsNPrn
+
+10. **Kit 6 Peças Roupa De Bebê Body Menina Animado Estampado Algodão**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 47,89
+   - Desconto: 56% OFF
+   - Link: https://s.shopee.com.br/20vyBzziAp
 
 ## Ações gratuitas recomendadas
 

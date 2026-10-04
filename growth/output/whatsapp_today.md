@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 04/10/2026 19:03
+Gerado em: 04/10/2026 19:21
 
 ## Como usar
 
@@ -12,37 +12,7 @@ Gerado em: 04/10/2026 19:03
 
 ---
 
-## Post 1 — Celulares e Tecnologia
-
-**Canal recomendado:** Celulares e Tecnologia
-
-**Horário sugerido:** 19:00 - 21:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
-
-**Texto pronto:**
-
-```txt
-📱 Oferta para Celulares e Tecnologia
-
-Mini carregador portatil power bank para celular IPNHONE Samsung Xiao…
-
-💸 De: R$ 89,97
-🔥 Por: R$ 26,99
-🏷️ 70% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/7Ae1cYIfPX
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 2 — Beleza e Cuidados
+## Post 1 — Beleza e Cuidados
 
 **Canal recomendado:** Beleza e Cuidados
 
@@ -72,7 +42,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 3 — Casa e Cozinha
+## Post 2 — Casa e Cozinha
 
 **Canal recomendado:** Casa e Cozinha
 
@@ -95,6 +65,36 @@ Panela de Pressão Antiaderente 4,5L
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/9KiYnEkgwb
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 3 — Celulares e Tecnologia
+
+**Canal recomendado:** Celulares e Tecnologia
+
+**Horário sugerido:** 19:00 - 21:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
+
+**Texto pronto:**
+
+```txt
+📱 Oferta para Celulares e Tecnologia
+
+Suporte De Celular Para Moto Bike Á Prova Dágua 360° Articulado Serve…
+
+💸 De: R$ 58,67
+🔥 Por: R$ 26,40
+🏷️ 55% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/BUIoSTlKm
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 04/10/2026 21:04
+Gerado em: 04/10/2026 21:21
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 04/10/2026 21:04
 
 **Produtos usados:**
 
+- Ninho Redutor de Berço Para Bebe Mosquiteiro Portátil Kit 2 Peças Enx…
 - Kit Limpeza Mamadeira Completo
-- Fralda Pampers Supersec XG 70 Tiras
-- Kit 6 Peças Roupa De Bebê Body Menina Animado Estampado Algodão
+- Huggies Fralda Descartável Máxima Proteção XG - 112 Un
 
 ---
 
@@ -76,7 +76,7 @@ Gerado em: 04/10/2026 21:04
 
 - Escova Secadora 3 em 1 Profissional
 - Escova Rotativa Elétrica Secador de cabelo Professinal 2 em 1 110v e…
-- Perfume Árabe Intense Men EDP
+- Body Splash 200ml Feminino Obsessed Infinity Liberté VF Golden | Unit…
 
 ---
 

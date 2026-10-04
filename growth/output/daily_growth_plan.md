@@ -1,15 +1,15 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 04/10/2026 21:04
+Gerado em: 04/10/2026 21:21
 
 ## Categorias prioritárias
 
-- 💄 **Beleza**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 🍼 **Mãe e Bebê**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🧸 **Brinquedos**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 🏋️ **Esportes**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 🍼 **Mãe e Bebê**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - ❤️ **Saúde**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
+- 💄 **Beleza**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 📦 **Outros**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 💻 **Informática**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
@@ -45,33 +45,33 @@ Gerado em: 04/10/2026 21:04
    - Desconto: 55% OFF
    - Link: https://s.shopee.com.br/BUIoSTlKm
 
-5. **Chapinha 2 em 1 Profissional**
-   - Categoria: Beleza
-   - Loja: Shopee
-   - Preço: R$ 26,49
-   - Desconto: 56% OFF
-   - Link: https://s.shopee.com.br/113OPSFybG
-
-6. **Panela de Pressão Antiaderente 4,5L**
+5. **Panela de Pressão Antiaderente 4,5L**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 133,90
    - Desconto: 42% OFF
    - Link: https://s.shopee.com.br/9KiYnEkgwb
 
-7. **Fralda Pampers Supersec XG 70 Tiras**
+6. **Fralda Pampers Supersec XG 70 Tiras**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 98,99
    - Desconto: 32% OFF
    - Link: https://s.shopee.com.br/4B0RmAmHxk
 
-8. **Perfume Árabe Intense Men EDP**
-   - Categoria: Beleza
+7. **Huggies Fralda Descartável Máxima Proteção XG - 112 Un**
+   - Categoria: Mãe e Bebê
    - Loja: Shopee
-   - Preço: R$ 26,89
-   - Desconto: 46% OFF
-   - Link: https://s.shopee.com.br/1AsTulpcu
+   - Preço: R$ 179,90
+   - Desconto: 26% OFF
+   - Link: https://s.shopee.com.br/8AWbnnzNO0
+
+8. **Ninho Redutor de Berço Para Bebe Mosquiteiro Portátil Kit 2 Peças Enx…**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 64,99
+   - Desconto: 69% OFF
+   - Link: https://s.shopee.com.br/qk14Kj1vn
 
 9. **Aparelho Medidor De Pressão Arterial Digital De Braço Alta Precisão C…**
    - Categoria: Saúde

@@ -1,6 +1,6 @@
 # Pinterest Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 04/10/2026 04:05
+Gerado em: 04/10/2026 04:18
 
 ## Como usar
 
@@ -126,7 +126,7 @@ Categoria com 8 oferta(s) e boa intenção de compra.
 
 ---
 
-## Pin 5 — Celulares
+## Pin 5 — Informática
 
 **Tipo:** produto_direto
 
@@ -134,19 +134,19 @@ Categoria com 8 oferta(s) e boa intenção de compra.
 
 **Imagem para upload no Pinterest:**
 
-https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
+https://marylouse-ofertas.vercel.app/growth/pinterest/informatica.png
 
 **Título:**
 
-70% OFF: Mini carregador portatil power bank para celular IPNHONE Samsung Xiao…
+65% OFF: Mochila Notebook Resistente Água
 
 **Descrição:**
 
-Oferta destaque em Celulares encontrada pela MaryLouse Ofertas. Preço: R$ 26,99. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Oferta destaque em Informática encontrada pela MaryLouse Ofertas. Preço: R$ 27,99. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
-https://s.shopee.com.br/7Ae1cYIfPX
+https://s.shopee.com.br/30oUWGmuED
 
 **Por que postar:**
 

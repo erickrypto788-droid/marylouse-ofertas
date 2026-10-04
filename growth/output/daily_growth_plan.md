@@ -1,18 +1,18 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 04/10/2026 06:03
+Gerado em: 04/10/2026 06:21
 
 ## Categorias prioritárias
 
 - 🍼 **Mãe e Bebê**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 💻 **Informática**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 💻 **Informática**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 📦 **Outros**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 📚 **Papelaria**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 - 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
-- 📦 **Outros**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
-- 📚 **Papelaria**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
-- 💄 **Beleza**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 👜 **Bolsas**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 - 👟 **Calçados**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- ❤️ **Saúde**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
+- 💄 **Beleza**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 🐶 **Pet**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 🧸 **Brinquedos**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 
 ## Top ofertas para destacar
@@ -52,40 +52,40 @@ Gerado em: 04/10/2026 06:03
    - Desconto: 62% OFF
    - Link: https://s.shopee.com.br/70KbxDPB7y
 
-6. **Perfume Delilah 50ml**
-   - Categoria: Beleza
-   - Loja: Mercado Livre
-   - Preço: R$ 184,00
-   - Desconto: 50% OFF
-   - Link: https://www.mercadolivre.com.br/p/MLB76876185?matt_word=marylouse&matt_tool=50459180&forceInApp=true
-
-7. **Fralda Pampers Supersec XG 70 Tiras**
+6. **Fralda Pampers Supersec XG 70 Tiras**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 98,99
    - Desconto: 32% OFF
    - Link: https://s.shopee.com.br/4B0RmAmHxk
 
-8. **Perfume Árabe Intense Men EDP**
+7. **Perfume Árabe Intense Men EDP**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 26,89
    - Desconto: 46% OFF
    - Link: https://s.shopee.com.br/1AsTulpcu
 
-9. **Mini Panela Elétrica Bivolt**
+8. **Mini Panela Elétrica Bivolt**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 58,88
    - Desconto: 41% OFF
    - Link: https://s.shopee.com.br/1qcVKsNPrn
 
-10. **Kit 2 Fraldas Cremer Magic Care Hiper G**
+9. **Kit 2 Fraldas Cremer Magic Care Hiper G**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 94,99
    - Desconto: 31% OFF
    - Link: https://s.shopee.com.br/4B0QVspAtk
+
+10. **Monitor Gamer Mancer Horizon Z Pro, 23.8 Pol, IPS, FHD, 1ms, 144Hz, H…**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 537,12
+   - Desconto: 60% OFF
+   - Link: https://s.shopee.com.br/9peon417qh
 
 ## Ações gratuitas recomendadas
 

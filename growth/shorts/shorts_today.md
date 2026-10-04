@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 04/10/2026 07:04
+Gerado em: 04/10/2026 07:22
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 04/10/2026 07:04
 **Produtos usados:**
 
 - Fralda Pampers Supersec XG 70 Tiras
-- Kit 2 Fraldas Cremer Magic Care Hiper G
-- Fralda Pampers Supersequinha G 80 Unidades
+- Lixa de Unha Elétrico Aparador Cortador Para Bebê Infantil Com Estojo…
+- Berço Infantil Desmontável Portátil Cercadinho Com Mosqueteiro Sonata…
 
 ---
 

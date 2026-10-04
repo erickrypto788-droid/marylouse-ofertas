@@ -1,14 +1,14 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 04/10/2026 07:04
+Gerado em: 04/10/2026 07:22
 
 ## Categorias prioritárias
 
-- 🍼 **Mãe e Bebê**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 📦 **Outros**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 💻 **Informática**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 📦 **Outros**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 📚 **Papelaria**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 - 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 🍼 **Mãe e Bebê**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🐶 **Pet**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 👜 **Bolsas**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 - 👟 **Calçados**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
@@ -73,19 +73,19 @@ Gerado em: 04/10/2026 07:04
    - Desconto: 41% OFF
    - Link: https://s.shopee.com.br/1qcVKsNPrn
 
-9. **Kit 2 Fraldas Cremer Magic Care Hiper G**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 94,99
-   - Desconto: 31% OFF
-   - Link: https://s.shopee.com.br/4B0QVspAtk
-
-10. **Monitor Gamer Mancer Horizon Z Pro, 23.8 Pol, IPS, FHD, 1ms, 144Hz, H…**
+9. **Monitor Gamer Mancer Horizon Z Pro, 23.8 Pol, IPS, FHD, 1ms, 144Hz, H…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 537,12
    - Desconto: 60% OFF
    - Link: https://s.shopee.com.br/9peon417qh
+
+10. **Sandália Papete Infantil Meninos Babuche Masculino Macio Leve e Confo…**
+   - Categoria: Pet
+   - Loja: Shopee
+   - Preço: R$ 21,88
+   - Desconto: 51% OFF
+   - Link: https://s.shopee.com.br/2BFN84MxKS
 
 ## Ações gratuitas recomendadas
 

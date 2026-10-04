@@ -1,5 +1,39 @@
 [
   {
+    "id": "724ae130b3a782d735",
+    "title": "Monitor Bebê WiFi Inteligente",
+    "raw_title": "Monitor Bebe Wifi Infravermelho Vision Noctura Intercom Inteligente",
+    "description": "👶 Mantenha seu bebê seguro e pertinho de você a todo momento! Com o Monitor Bebê WiFi Infravermelho Vision Nocturna Intercom Inteligente, você tem paz d...",
+    "marketplace": "Mercado Livre",
+    "category": "Mãe e Bebê",
+    "old_price": "",
+    "price": "R$ 1.198,90",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_782666-MLA99581406986_122025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23076913?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "04/10/2026 08:02",
+    "created_at_iso": "2026-10-04T08:02:59",
+    "created_ts": 1791100979
+  },
+  {
+    "id": "7f46a65d9a39ba2ae6",
+    "title": "Kit Limpeza Mamadeira Completo",
+    "raw_title": "Azul escova limpeza mamadeira kit para limpeza de mamadeira kit limpeza mamadeira viagem kit limpeza bebe escova mamadeira portatil escova bico canudo secado...",
+    "description": "🚨 OFERTA RELÂMPAGO! Kit Completo de Limpeza para Mamadeiras e Acessórios! 🍼✨ Garanta a higiene perfeita do seu bebê com este kit essencial! Inclui escov...",
+    "marketplace": "Mercado Livre",
+    "category": "Mãe e Bebê",
+    "old_price": "R$ 190,00",
+    "price": "R$ 53,20",
+    "discount_percent": 72.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_871481-MLA114224148325_072026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75043054?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "04/10/2026 08:01",
+    "created_at_iso": "2026-10-04T08:01:48",
+    "created_ts": 1791100908
+  },
+  {
     "id": "aa9b9b42ac47d21919",
     "title": "Leite de Coco em Pó",
     "raw_title": "Leite de Coco em Pó - Delicioso e Saudável",
@@ -2048,27 +2082,6 @@
     "niche": {
       "key": "shopee_bolsas_femininas",
       "name": "Bolsas Femininas"
-    }
-  },
-  {
-    "id": "2326c0a66a39d30ba9",
-    "title": "Blocos de Montar Educacionais",
-    "raw_title": "140 Blocos De Montar Super Coloridos Carrinho + Rodinhas - educacional",
-    "description": "🎉 OFERTA IMPERDÍVEL! ✨ Dê asas à imaginação do seu pequeno com 140 Blocos De Montar Super Coloridos, com carrinho e rodinhas! Ideal para estimular o des...",
-    "marketplace": "Shopee",
-    "category": "Mãe e Bebê",
-    "old_price": "R$ 40,21",
-    "price": "R$ 28,55",
-    "discount_percent": 29.0,
-    "rating": 4.7,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m2tuxpumqwb714",
-    "affiliate_url": "https://s.shopee.com.br/80D8wgegFQ",
-    "created_at": "03/10/2026 07:20",
-    "created_at_iso": "2026-10-03T07:20:36",
-    "created_ts": 1791012036,
-    "niche": {
-      "key": "shopee_mae_bebe",
-      "name": "Mãe e Bebê"
     }
   }
 ]

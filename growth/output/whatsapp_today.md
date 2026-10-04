@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 04/10/2026 15:25
+Gerado em: 04/10/2026 16:21
 
 ## Como usar
 
@@ -42,7 +42,37 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 2 — Casa e Cozinha
+## Post 2 — Beleza e Cuidados
+
+**Canal recomendado:** Beleza e Cuidados
+
+**Horário sugerido:** 12:00 - 15:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
+
+**Texto pronto:**
+
+```txt
+💄 Oferta para Beleza e Cuidados
+
+Escova Secadora 3 em 1 Profissional
+
+💸 De: R$ 199,97
+🔥 Por: R$ 77,99
+🏷️ 61% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/AAHeab8vEx
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 3 — Casa e Cozinha
 
 **Canal recomendado:** Casa e Cozinha
 
@@ -65,36 +95,6 @@ Panela de Pressão Antiaderente 4,5L
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/9KiYnEkgwb
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 3 — Beleza e Cuidados
-
-**Canal recomendado:** Beleza e Cuidados
-
-**Horário sugerido:** 12:00 - 15:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
-
-**Texto pronto:**
-
-```txt
-💄 Oferta para Beleza e Cuidados
-
-Perfume Árabe Intense Men EDP
-
-💸 De: R$ 49,80
-🔥 Por: R$ 26,89
-🏷️ 46% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/1AsTulpcu
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Conjunto Fitness Zero Transparência
+Body Splash 200ml Feminino Obsessed Infinity Liberté VF Golden | Unit…
 
-💸 De: R$ 80,18
-🔥 Por: R$ 44,90
-🏷️ 44% OFF
+💸 De: R$ 65,86
+🔥 Por: R$ 28,98
+🏷️ 56% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/40h22hzYUH
+Ver oferta: https://s.shopee.com.br/qk0jjFJ1Q
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

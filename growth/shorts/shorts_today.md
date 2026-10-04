@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 04/10/2026 15:21
+Gerado em: 04/10/2026 16:21
 
 ## Como usar
 
@@ -78,9 +78,9 @@ Gerado em: 04/10/2026 15:21
 
 **Produtos usados:**
 
+- Escova Secadora 3 em 1 Profissional
+- Escova Rotativa Elétrica Secador de cabelo Professinal 2 em 1 110v e…
 - Perfume Árabe Intense Men EDP
-- Chapinha 2 em 1 Profissional
-- New Show Caixa De 800Cilios Tufos Sem Nó Tufinho 12P/20P/30P/40P/50P/…
 
 ---
 

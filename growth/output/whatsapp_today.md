@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 04/10/2026 07:22
+Gerado em: 04/10/2026 08:04
 
 ## Como usar
 
@@ -147,14 +147,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
 ```txt
 🍼 Oferta para Mamãe e Bebê
 
-Fralda Pampers Supersec XG 70 Tiras
+Kit Limpeza Mamadeira Completo
 
-💸 De: R$ 145,57
-🔥 Por: R$ 98,99
-🏷️ 32% OFF
-🛒 Loja: Shopee
+💸 De: R$ 190,00
+🔥 Por: R$ 53,20
+🏷️ 72% OFF
+🛒 Loja: Mercado Livre
 
-Ver oferta: https://s.shopee.com.br/4B0RmAmHxk
+Ver oferta: https://www.mercadolivre.com.br/p/MLB75043054?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

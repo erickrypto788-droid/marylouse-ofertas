@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 04/10/2026 13:18
+Gerado em: 04/10/2026 14:18
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Calça Mom Jeans Cintura Alta Feminina Levanta Bumbum
+Conjunto Fitness Zero Transparência
 
-💸 De: R$ 171,54
-🔥 Por: R$ 66,90
-🏷️ 61% OFF
+💸 De: R$ 80,18
+🔥 Por: R$ 44,90
+🏷️ 44% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/1As14UnfM
+Ver oferta: https://s.shopee.com.br/40h22hzYUH
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

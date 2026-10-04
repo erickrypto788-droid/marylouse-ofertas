@@ -1,18 +1,18 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 04/10/2026 13:18
+Gerado em: 04/10/2026 14:18
 
 ## Categorias prioritárias
 
 - 👟 **Calçados**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 👗 **Moda Feminina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
+- 📦 **Outros**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 👕 **Moda Masculina**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
+- 👗 **Moda Feminina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 🍼 **Mãe e Bebê**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 📦 **Outros**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
-- 🐶 **Pet**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
+- 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - ✨ **Moda Plus Size**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
 - 💄 **Beleza**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 🐶 **Pet**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 💻 **Informática**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 
 ## Top ofertas para destacar
@@ -66,26 +66,26 @@ Gerado em: 04/10/2026 13:18
    - Desconto: 41% OFF
    - Link: https://s.shopee.com.br/1qcVKsNPrn
 
-8. **Kit Limpeza Mamadeira Completo**
+8. **Kit 2 Cartões de Memória 128GB Ultra**
+   - Categoria: Celulares
+   - Loja: Shopee
+   - Preço: R$ 32,98
+   - Desconto: 77% OFF
+   - Link: https://s.shopee.com.br/80DB8feNfo
+
+9. **Kit Limpeza Mamadeira Completo**
    - Categoria: Mãe e Bebê
    - Loja: Mercado Livre
    - Preço: R$ 53,20
    - Desconto: 72% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB75043054?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-9. **Monitor Gamer Mancer Horizon Z Pro, 23.8 Pol, IPS, FHD, 1ms, 144Hz, H…**
+10. **Monitor Gamer Mancer Horizon Z Pro, 23.8 Pol, IPS, FHD, 1ms, 144Hz, H…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 537,12
    - Desconto: 60% OFF
    - Link: https://s.shopee.com.br/9peon417qh
-
-10. **Sandália Papete Infantil Meninos Babuche Masculino Macio Leve e Confo…**
-   - Categoria: Pet
-   - Loja: Shopee
-   - Preço: R$ 21,88
-   - Desconto: 51% OFF
-   - Link: https://s.shopee.com.br/2BFN84MxKS
 
 ## Ações gratuitas recomendadas
 

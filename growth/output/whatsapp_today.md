@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 04/10/2026 01:18
+Gerado em: 04/10/2026 02:22
 
 ## Como usar
 
@@ -147,14 +147,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
 ```txt
 🍼 Oferta para Mamãe e Bebê
 
-Kit 2 Fraldas Cremer Magic Care Hiper G
+Fralda Pampers Supersec XG 70 Tiras
 
-💸 De: R$ 137,67
-🔥 Por: R$ 94,99
-🏷️ 31% OFF
+💸 De: R$ 145,57
+🔥 Por: R$ 98,99
+🏷️ 32% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/4B0QVspAtk
+Ver oferta: https://s.shopee.com.br/4B0RmAmHxk
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

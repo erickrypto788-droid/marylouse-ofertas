@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 04/10/2026 01:18
+Gerado em: 04/10/2026 02:22
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 04/10/2026 01:18
 
 **Produtos usados:**
 
+- Fralda Pampers Supersec XG 70 Tiras
 - Kit 2 Fraldas Cremer Magic Care Hiper G
 - Fralda Pampers Supersequinha G 80 Unidades
-- Berço Portátil Infantil Styll Baby
 
 ---
 
@@ -56,7 +56,7 @@ Gerado em: 04/10/2026 01:18
 
 - Mini Panela Elétrica Bivolt
 - Termômetro Industrial Digital Infravermelho Cozinha Laser Medição Tem…
-- Liquidificador Britânia 2,6L 4 Velocidades Diamante 1100
+- Snob Papel Toalha Cozinha Folha Dupla C/ 12 Rolos
 
 ---
 

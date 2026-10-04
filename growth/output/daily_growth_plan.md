@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 04/10/2026 01:18
+Gerado em: 04/10/2026 02:22
 
 ## Categorias prioritárias
 
-- 💄 **Beleza**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 🍼 **Mãe e Bebê**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🧸 **Brinquedos**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 🏋️ **Esportes**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 📦 **Outros**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
-- 👗 **Moda Feminina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 💄 **Beleza**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 💻 **Informática**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 🍼 **Mãe e Bebê**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 🐶 **Pet**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
+- ✨ **Moda Plus Size**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
 
 ## Top ofertas para destacar
 
@@ -52,12 +52,12 @@ Gerado em: 04/10/2026 01:18
    - Desconto: 50% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB76876185?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-6. **Secador Profissional LONYAN com Difusor**
-   - Categoria: Beleza
+6. **Fralda Pampers Supersec XG 70 Tiras**
+   - Categoria: Mãe e Bebê
    - Loja: Shopee
-   - Preço: R$ 78,00
-   - Desconto: 51% OFF
-   - Link: https://s.shopee.com.br/3LRJBk2coJ
+   - Preço: R$ 98,99
+   - Desconto: 32% OFF
+   - Link: https://s.shopee.com.br/4B0RmAmHxk
 
 7. **Perfume Árabe Intense Men EDP**
    - Categoria: Beleza
@@ -80,12 +80,12 @@ Gerado em: 04/10/2026 01:18
    - Desconto: 31% OFF
    - Link: https://s.shopee.com.br/4B0QVspAtk
 
-10. **BODY SPLASH FEMININO ARABE AYRA 100ML - PRIMACIAL PERFUME FLORAL**
-   - Categoria: Beleza
+10. **Sandália Papete Infantil Meninos Babuche Masculino Macio Leve e Confo…**
+   - Categoria: Pet
    - Loja: Shopee
-   - Preço: R$ 25,00
-   - Desconto: 37% OFF
-   - Link: https://s.shopee.com.br/LnhcE9e5s
+   - Preço: R$ 21,88
+   - Desconto: 51% OFF
+   - Link: https://s.shopee.com.br/2BFN84MxKS
 
 ## Ações gratuitas recomendadas
 

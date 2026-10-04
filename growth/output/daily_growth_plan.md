@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 04/10/2026 19:42
+Gerado em: 04/10/2026 20:21
 
 ## Categorias prioritárias
 
@@ -9,10 +9,10 @@ Gerado em: 04/10/2026 19:42
 - 🏋️ **Esportes**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 🍼 **Mãe e Bebê**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 📦 **Outros**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- ❤️ **Saúde**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
+- 📦 **Outros**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 💻 **Informática**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 🐶 **Pet**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
-- 🔌 **Eletrodomésticos**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-eletrodomesticos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_eletrodomesticos
 - 👕 **Moda Masculina**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 
 ## Top ofertas para destacar
@@ -73,12 +73,12 @@ Gerado em: 04/10/2026 19:42
    - Desconto: 46% OFF
    - Link: https://s.shopee.com.br/1AsTulpcu
 
-9. **Mini Panela Elétrica Bivolt**
-   - Categoria: Casa e Cozinha
+9. **Aparelho Medidor De Pressão Arterial Digital De Braço Alta Precisão C…**
+   - Categoria: Saúde
    - Loja: Shopee
-   - Preço: R$ 58,88
-   - Desconto: 41% OFF
-   - Link: https://s.shopee.com.br/1qcVKsNPrn
+   - Preço: R$ 38,99
+   - Desconto: 61% OFF
+   - Link: https://s.shopee.com.br/9zyFv3YHOz
 
 10. **Kit 6 Peças Roupa De Bebê Body Menina Animado Estampado Algodão**
    - Categoria: Mãe e Bebê

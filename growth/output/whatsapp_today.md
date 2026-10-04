@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 04/10/2026 19:42
+Gerado em: 04/10/2026 20:21
 
 ## Como usar
 
@@ -162,29 +162,29 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 6 — Moda Feminina
+## Post 6 — Saúde
 
-**Canal recomendado:** Moda Feminina
+**Canal recomendado:** Saúde e Bem-estar
 
-**Horário sugerido:** 12:00 - 14:00
+**Horário sugerido:** 09:00 - 11:00
 
 **Imagem/card:**
 
-https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
+https://marylouse-ofertas.vercel.app/growth/pinterest/saude.png
 
 **Texto pronto:**
 
 ```txt
-👗 Oferta para Moda Feminina
+❤️ Oferta para Saúde
 
-Kit 2 Regata Top Halter Blusinha Halter Neck Moda Gringa Frente Única…
+Aparelho Medidor De Pressão Arterial Digital De Braço Alta Precisão C…
 
-💸 De: R$ 101,02
-🔥 Por: R$ 46,47
-🏷️ 54% OFF
+💸 De: R$ 99,97
+🔥 Por: R$ 38,99
+🏷️ 61% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/8fSsCMuaNs
+Ver oferta: https://s.shopee.com.br/9zyFv3YHOz
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

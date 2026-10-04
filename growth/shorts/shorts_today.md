@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 04/10/2026 00:22
+Gerado em: 04/10/2026 01:18
 
 ## Como usar
 
@@ -127,7 +127,7 @@ Gerado em: 04/10/2026 00:22
 **Produtos usados:**
 
 - Kit Banheiro Infantil Lego | Porta Escova + Porta Papel Higiênico + P…
-- Creme Dental Limpeza Interdental
 - 100 Sacos de Lixo 60L Reforçados
+- Creme Dental Ozonizado Philozon
 
 ---

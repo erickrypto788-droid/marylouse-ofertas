@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 04/10/2026 18:03
+Gerado em: 04/10/2026 18:21
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Body Splash 200ml Feminino Obsessed Infinity Liberté VF Golden | Unit…
+Kit 2 Regata Top Halter Blusinha Halter Neck Moda Gringa Frente Única…
 
-💸 De: R$ 65,86
-🔥 Por: R$ 28,98
-🏷️ 56% OFF
+💸 De: R$ 101,02
+🔥 Por: R$ 46,47
+🏷️ 54% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/qk0jjFJ1Q
+Ver oferta: https://s.shopee.com.br/8fSsCMuaNs
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

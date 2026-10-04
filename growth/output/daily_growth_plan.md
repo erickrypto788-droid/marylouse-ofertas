@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 03/10/2026 23:22
+Gerado em: 04/10/2026 00:22
 
 ## Categorias prioritárias
 
 - 💄 **Beleza**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 📦 **Outros**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 🧸 **Brinquedos**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 🏋️ **Esportes**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 📦 **Outros**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 👗 **Moda Feminina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 🍼 **Mãe e Bebê**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 💻 **Informática**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 🐶 **Pet**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
-- 🛒 **Supermercados**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-supermercados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_supermercados
 
 ## Top ofertas para destacar
 
@@ -59,33 +59,33 @@ Gerado em: 03/10/2026 23:22
    - Desconto: 51% OFF
    - Link: https://s.shopee.com.br/3LRJBk2coJ
 
-7. **Suporte Celular Carro Veicular Trava Automática anti queda**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 23,98
-   - Desconto: 52% OFF
-   - Link: https://s.shopee.com.br/9zyCzlL0hr
-
-8. **Perfume Árabe Intense Men EDP**
+7. **Perfume Árabe Intense Men EDP**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 26,89
    - Desconto: 46% OFF
    - Link: https://s.shopee.com.br/1AsTulpcu
 
-9. **Mini Panela Elétrica Bivolt**
+8. **Mini Panela Elétrica Bivolt**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 58,88
    - Desconto: 41% OFF
    - Link: https://s.shopee.com.br/1qcVKsNPrn
 
-10. **Kit 2 Fraldas Cremer Magic Care Hiper G**
+9. **Kit 2 Fraldas Cremer Magic Care Hiper G**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 94,99
    - Desconto: 31% OFF
    - Link: https://s.shopee.com.br/4B0QVspAtk
+
+10. **BODY SPLASH FEMININO ARABE AYRA 100ML - PRIMACIAL PERFUME FLORAL**
+   - Categoria: Beleza
+   - Loja: Shopee
+   - Preço: R$ 25,00
+   - Desconto: 37% OFF
+   - Link: https://s.shopee.com.br/LnhcE9e5s
 
 ## Ações gratuitas recomendadas
 

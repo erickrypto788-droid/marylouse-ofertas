@@ -1,5 +1,22 @@
 [
   {
+    "id": "890941901c82fc8f17",
+    "title": "Mini Liquidificador Portátil USB",
+    "raw_title": "Liquidificador portátil, Mini liquidificador recarregável USB, Liquidificador",
+    "description": "Sua vida mais prática e saudável! ✨ Prepare seus sucos e shakes favoritos em qualquer lugar com o Liquidificador Portátil Recarregável USB! 🍓🔋 Leve, com...",
+    "marketplace": "Mercado Livre",
+    "category": "Casa e Cozinha",
+    "old_price": "",
+    "price": "R$ 98,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_887284-MLU78285122081_082024-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB38338044?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "05/10/2026 10:01",
+    "created_at_iso": "2026-10-05T10:01:45",
+    "created_ts": 1791194505
+  },
+  {
     "id": "c78e6d4a92cefb2597",
     "title": "Chinelo Babuche Feminino Confortável",
     "raw_title": "Chinelo Babuche Feminino + CHARMS GRÁTIS! Antiderrapante EVA Macio Confortável",
@@ -2115,90 +2132,6 @@
     "niche": {
       "key": "shopee_roupas_masculinas",
       "name": "Roupas Masculinas"
-    }
-  },
-  {
-    "id": "d088c772856b9191ad",
-    "title": "Conjunto Cropped + Saia Midi Gringa",
-    "raw_title": "Conjunto Top Cropped tomara que caia franzido ajuste + saia Midi mini dapreada canelado Gringa",
-    "description": "✨ ESTILO Gringa com PREÇO IMPERDÍVEL! ✨ Arrase com este Conjunto Top Cropped tomara que caia + Saia Midi canelado. Perfeito para qualquer ocasião! 💖 Não...",
-    "marketplace": "Shopee",
-    "category": "Roupas Femininas",
-    "old_price": "R$ 39,91",
-    "price": "R$ 29,53",
-    "discount_percent": 26.0,
-    "rating": 4.7,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lf-mmsa3vltvsoxb4",
-    "affiliate_url": "https://s.shopee.com.br/6AlWcgiMyv",
-    "created_at": "04/10/2026 09:20",
-    "created_at_iso": "2026-10-04T09:20:28",
-    "created_ts": 1791105628,
-    "niche": {
-      "key": "shopee_roupas_femininas",
-      "name": "Roupas Femininas"
-    }
-  },
-  {
-    "id": "cfc870b516dfbb3ded",
-    "title": "Vestido Midi Linho Elegante",
-    "raw_title": "Vestido Midi Linho Feminino Elegante Casual Alfaiataria Bolsos Laterais Atemporal",
-    "description": "🚨 Look Perfeito com Preço IMPERDÍVEL! ✨ Vestido Midi de Linho Feminino: elegância, conforto e estilo atemporal em uma só peça! Perfeito para o casual ou...",
-    "marketplace": "Shopee",
-    "category": "Roupas Femininas",
-    "old_price": "R$ 99,70",
-    "price": "R$ 65,80",
-    "discount_percent": 34.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lm-mnn3ubx5q1og78",
-    "affiliate_url": "https://s.shopee.com.br/AKb5aLJqV9",
-    "created_at": "04/10/2026 09:19",
-    "created_at_iso": "2026-10-04T09:19:19",
-    "created_ts": 1791105559,
-    "niche": {
-      "key": "shopee_roupas_femininas",
-      "name": "Roupas Femininas"
-    }
-  },
-  {
-    "id": "b4d6026cd8d4d0d1c6",
-    "title": "Conjunto Fitness Zero Transparência",
-    "raw_title": "Conjunto de Academia Feminino Short com Bolso Zero Transparência e Cintura Alta + Top com Forro Duplo",
-    "description": "🔥 Treine com confiança e estilo! Chegou o Conjunto de Academia Feminino com Short com Bolso, Zero Transparência e Cintura Alta + Top com Forro Duplo. Pe...",
-    "marketplace": "Shopee",
-    "category": "Roupas Femininas",
-    "old_price": "R$ 80,18",
-    "price": "R$ 44,90",
-    "discount_percent": 44.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-8261i-mkb5a24w7zlz6d",
-    "affiliate_url": "https://s.shopee.com.br/40h22hzYUH",
-    "created_at": "04/10/2026 09:18",
-    "created_at_iso": "2026-10-04T09:18:12",
-    "created_ts": 1791105492,
-    "niche": {
-      "key": "shopee_roupas_femininas",
-      "name": "Roupas Femininas"
-    }
-  },
-  {
-    "id": "58f2debaabb13b848b",
-    "title": "Conjunto Alfaiataria Feminino Linho",
-    "raw_title": "Conjunto Alfaiataria Social Feminino Calça e Blusa Em Linho",
-    "description": "✨ IMPERDÍVEL! Conjunto Alfaiataria Feminino em Linho! ✨ Seu look social com um toque de modernidade e muito conforto. Perfeito para o trabalho, eventos...",
-    "marketplace": "Shopee",
-    "category": "Roupas Femininas",
-    "old_price": "R$ 111,09",
-    "price": "R$ 49,99",
-    "discount_percent": 55.0,
-    "rating": 4.7,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcgzccjhlnghb9",
-    "affiliate_url": "https://s.shopee.com.br/6AlVMPKWUT",
-    "created_at": "04/10/2026 09:17",
-    "created_at_iso": "2026-10-04T09:17:03",
-    "created_ts": 1791105423,
-    "niche": {
-      "key": "shopee_roupas_femininas",
-      "name": "Roupas Femininas"
     }
   }
 ]

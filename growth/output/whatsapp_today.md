@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 05/10/2026 17:04
+Gerado em: 05/10/2026 17:21
 
 ## Como usar
 
@@ -12,7 +12,37 @@ Gerado em: 05/10/2026 17:04
 
 ---
 
-## Post 1 — Celulares e Tecnologia
+## Post 1 — Mamãe e Bebê
+
+**Canal recomendado:** Mamãe e Bebê
+
+**Horário sugerido:** 09:00 - 11:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
+
+**Texto pronto:**
+
+```txt
+🍼 Oferta para Mamãe e Bebê
+
+CALÇA Sumikko fralda Ajustável total max P/M/G/XG/XXG/XXXG/4XG/5XG 50…
+
+💸 De: R$ 197,37
+🔥 Por: R$ 75,00
+🏷️ 62% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/1VzhrYKQMn
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 2 — Celulares e Tecnologia
 
 **Canal recomendado:** Celulares e Tecnologia
 
@@ -42,7 +72,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 2 — Beleza e Cuidados
+## Post 3 — Beleza e Cuidados
 
 **Canal recomendado:** Beleza e Cuidados
 
@@ -72,7 +102,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 3 — Casa e Cozinha
+## Post 4 — Casa e Cozinha
 
 **Canal recomendado:** Casa e Cozinha
 
@@ -95,36 +125,6 @@ Panela de Pressão Panelux 4,5L Classic
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/2VsFz5S8ov
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 4 — Mamãe e Bebê
-
-**Canal recomendado:** Mamãe e Bebê
-
-**Horário sugerido:** 09:00 - 11:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
-
-**Texto pronto:**
-
-```txt
-🍼 Oferta para Mamãe e Bebê
-
-Bebê Reborn Girafinha Luxo
-
-💸 De: R$ 252,97
-🔥 Por: R$ 75,89
-🏷️ 70% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/5VVrp5LrMH
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

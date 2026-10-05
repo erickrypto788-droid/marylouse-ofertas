@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 05/10/2026 17:04
+Gerado em: 05/10/2026 17:21
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 05/10/2026 17:04
 
 **Produtos usados:**
 
+- CALÇA Sumikko fralda Ajustável total max P/M/G/XG/XXG/XXXG/4XG/5XG 50…
+- Brinquedo Caminhão Dinossauro Engolidor 2026 Porta-Carrinhos com 4 Ca…
 - Bebê Reborn Girafinha Luxo
-- Kit 5 Regatas Bebê
-- Ninho Redutor de Berço Para Bebe Mosquiteiro Portátil Kit 2 Peças Enx…
 
 ---
 

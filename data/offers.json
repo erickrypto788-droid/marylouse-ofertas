@@ -1,5 +1,22 @@
 [
   {
+    "id": "42dcd901ceeff9d0cc",
+    "title": "Babá Eletrônica Hellobaby Hb66pro",
+    "raw_title": "Babá Eletrônica Hellobaby Hb66pro Monitor Bebê 3.2 White",
+    "description": "✨ Tranquilidade para você e segurança para o seu bebê! ✨ Monitore cada momento com a Babá Eletrônica Hellobaby Hb66pro Monitor Bebê 3.2 White. 👶 Tenha v...",
+    "marketplace": "Mercado Livre",
+    "category": "Mãe e Bebê",
+    "old_price": "",
+    "price": "R$ 392,99",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_802386-MLA99553119798_122025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51893724?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "05/10/2026 18:02",
+    "created_at_iso": "2026-10-05T18:02:29",
+    "created_ts": 1791223349
+  },
+  {
     "id": "fa5fed7f91d4d9f40e",
     "title": "Boneca com Motoca Negra ou Branca Acessórios Infantil Pequena Reborn",
     "raw_title": "Boneca com Motoca Negra ou Branca Acessórios Infantil Pequena Reborn",
@@ -2250,44 +2267,6 @@
     "niche": {
       "key": "shopee_esportes_lazer",
       "name": "Esportes e Lazer"
-    }
-  },
-  {
-    "id": "ab7cafae5f8437badb",
-    "title": "Kit Ferramentas Informatica Cor Preto",
-    "raw_title": "Kit Ferramentas Informatica Cor Preto",
-    "description": "🔥 Oferta encontrada! 📌 Kit Ferramentas Informatica Cor Preto Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Mercado Livre",
-    "category": "Informática",
-    "old_price": "",
-    "price": "R$ 104,50",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_837553-MLA99455899792_112025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43810473?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "04/10/2026 18:01",
-    "created_at_iso": "2026-10-04T18:01:21",
-    "created_ts": 1791136881
-  },
-  {
-    "id": "fc2f89fbeb0895c056",
-    "title": "Kit 6 Peças Roupa De Bebê Body Menina Animado Estampado Algodão",
-    "raw_title": "Kit 6 Peças Roupa De Bebê Body Menina Animado Estampado Algodão",
-    "description": "🔥 56% OFF — Oferta encontrada! 📌 Kit 6 Peças Roupa De Bebê Body Menina Animado Estampado Algodão Confira os detalhes e aproveite enquanto a oferta estiv...",
-    "marketplace": "Shopee",
-    "category": "Moda Infantil",
-    "old_price": "R$ 108,84",
-    "price": "R$ 47,89",
-    "discount_percent": 56.0,
-    "rating": 4.7,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820l5-mqsk7tk8nbwiae",
-    "affiliate_url": "https://s.shopee.com.br/20vyBzziAp",
-    "created_at": "04/10/2026 17:20",
-    "created_at_iso": "2026-10-04T17:20:13",
-    "created_ts": 1791134413,
-    "niche": {
-      "key": "shopee_moda_infantil",
-      "name": "Moda Infantil"
     }
   }
 ]

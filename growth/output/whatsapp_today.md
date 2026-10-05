@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 05/10/2026 13:04
+Gerado em: 05/10/2026 13:22
 
 ## Como usar
 
@@ -117,14 +117,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
 ```txt
 🍼 Oferta para Mamãe e Bebê
 
-Huggies Fralda Descartável Máxima Proteção XG - 112 Un
+Kit 5 Regatas Bebê
 
-💸 De: R$ 243,11
-🔥 Por: R$ 179,90
-🏷️ 26% OFF
+💸 De: R$ 81,05
+🔥 Por: R$ 29,99
+🏷️ 63% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/8AWbnnzNO0
+Ver oferta: https://s.shopee.com.br/50ZZlW1h9F
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

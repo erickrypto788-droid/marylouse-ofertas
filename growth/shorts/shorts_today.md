@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 05/10/2026 02:22
+Gerado em: 05/10/2026 03:22
 
 ## Como usar
 
@@ -117,10 +117,12 @@ Gerado em: 05/10/2026 02:22
 - growth/shorts/slides/supermercados/01_intro.png
 - growth/shorts/slides/supermercados/02_produto_1.png
 - growth/shorts/slides/supermercados/03_produto_2.png
+- growth/shorts/slides/supermercados/04_produto_3.png
 - growth/shorts/slides/supermercados/05_cta.png
 
 **Produtos usados:**
 
+- Kit Pele de Porcelana com Sérum de Arroz e Olhos de Gueixa Kokeshi
 - Absorvente Mulher Ativa Com Abas Kit 80 Pacotes Gel Super Absorvente
 - Base Amaciante 500 Faz 100 Litros Amaciante
 

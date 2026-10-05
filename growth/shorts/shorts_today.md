@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 05/10/2026 14:21
+Gerado em: 05/10/2026 15:22
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 05/10/2026 14:21
 
 **Produtos usados:**
 
+- Bebê Reborn Girafinha Luxo
 - Kit 5 Regatas Bebê
 - Ninho Redutor de Berço Para Bebe Mosquiteiro Portátil Kit 2 Peças Enx…
-- Huggies Fralda Descartável Máxima Proteção XG - 112 Un
 
 ---
 
@@ -55,8 +55,8 @@ Gerado em: 05/10/2026 14:21
 **Produtos usados:**
 
 - Panela de Pressão Panelux 4,5L Classic
-- Panela de Pressão Antiaderente 4,5L
 - Air fryer Br House Fritadeira ELETRICA AIR FRYER Air Fryer Family pre…
+- Mini Liquidificador Portátil USB
 
 ---
 

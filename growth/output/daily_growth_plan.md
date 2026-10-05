@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 05/10/2026 08:18
+Gerado em: 05/10/2026 09:03
 
 ## Categorias prioritárias
 
@@ -8,9 +8,9 @@ Gerado em: 05/10/2026 08:18
 - 👕 **Moda Masculina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 - 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 🏋️ **Esportes**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
+- 💄 **Beleza**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🍼 **Mãe e Bebê**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 💻 **Informática**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 💄 **Beleza**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🧸 **Brinquedos**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - ✨ **Moda Plus Size**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
@@ -59,33 +59,33 @@ Gerado em: 05/10/2026 08:18
    - Desconto: 42% OFF
    - Link: https://s.shopee.com.br/9KiYnEkgwb
 
-7. **Cadeira Massagem Escritorio Cadeira Escritorio Presidente Cor Âmbar**
+7. **Barbeador de Costas Dobrável**
+   - Categoria: Beleza
+   - Loja: Mercado Livre
+   - Preço: R$ 229,00
+   - Desconto: 20% OFF
+   - Link: https://www.mercadolivre.com.br/p/MLB51434487?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+8. **Cadeira Massagem Escritorio Cadeira Escritorio Presidente Cor Âmbar**
    - Categoria: Pet
    - Loja: Mercado Livre
    - Preço: R$ 743,00
    - Desconto: 60% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB59413555?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-8. **MousePad Grande Rosa Desk Pad Couro Gamer Office**
+9. **MousePad Grande Rosa Desk Pad Couro Gamer Office**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 20,89
    - Desconto: 50% OFF
    - Link: https://s.shopee.com.br/80DBw734Oq
 
-9. **Huggies Fralda Descartável Máxima Proteção XG - 112 Un**
+10. **Huggies Fralda Descartável Máxima Proteção XG - 112 Un**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 179,90
    - Desconto: 26% OFF
    - Link: https://s.shopee.com.br/8AWbnnzNO0
-
-10. **Ninho Redutor de Berço Para Bebe Mosquiteiro Portátil Kit 2 Peças Enx…**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 64,99
-   - Desconto: 69% OFF
-   - Link: https://s.shopee.com.br/qk14Kj1vn
 
 ## Ações gratuitas recomendadas
 

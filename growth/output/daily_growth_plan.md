@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 05/10/2026 15:22
+Gerado em: 05/10/2026 16:20
 
 ## Categorias prioritárias
 
-- 🍼 **Mãe e Bebê**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 🍼 **Mãe e Bebê**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🏋️ **Esportes**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 💄 **Beleza**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 👟 **Calçados**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 🧸 **Brinquedos**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 💻 **Informática**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 💄 **Beleza**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 👗 **Moda Feminina**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
-- 👕 **Moda Masculina**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
+- ❤️ **Saúde**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 
 ## Top ofertas para destacar
 
@@ -31,61 +31,61 @@ Gerado em: 05/10/2026 15:22
    - Desconto: 64% OFF
    - Link: https://s.shopee.com.br/1gJ8OTZyn9
 
-3. **Escova Rotativa Elétrica Secador de cabelo Professinal 2 em 1 110v e…**
-   - Categoria: Beleza
-   - Loja: Shopee
-   - Preço: R$ 82,99
-   - Desconto: 58% OFF
-   - Link: https://s.shopee.com.br/9KiXb4C5vq
-
-4. **Escova Secadora 3 em 1 Profissional**
-   - Categoria: Beleza
-   - Loja: Shopee
-   - Preço: R$ 77,99
-   - Desconto: 61% OFF
-   - Link: https://s.shopee.com.br/AAHeab8vEx
-
-5. **Panela de Pressão Panelux 4,5L Classic**
+3. **Panela de Pressão Panelux 4,5L Classic**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 58,90
    - Desconto: 49% OFF
    - Link: https://s.shopee.com.br/2VsFz5S8ov
 
-6. **Amplificador de Tela 3D para Celular**
+4. **Amplificador de Tela 3D para Celular**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 17,99
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/2VsFuxugiY
 
-7. **SSD SATA III de 2,5 polegadas 120GB 128GB 240GB 256GB notebook deskto…**
+5. **SSD SATA III de 2,5 polegadas 120GB 128GB 240GB 256GB notebook deskto…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 79,07
    - Desconto: 41% OFF
    - Link: https://s.shopee.com.br/3B7wBEUGkY
 
-8. **Estojo Maquiagem Infantil Coração**
+6. **Estojo Maquiagem Infantil Coração**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 21,99
    - Desconto: 45% OFF
    - Link: https://s.shopee.com.br/1LgHvjhnSd
 
-9. **Bebê Reborn Girafinha Luxo**
+7. **Nebulizador Portátil AIQUE**
+   - Categoria: Saúde
+   - Loja: Shopee
+   - Preço: R$ 25,98
+   - Desconto: 62% OFF
+   - Link: https://s.shopee.com.br/2LYmGOy6YC
+
+8. **Bebê Reborn Girafinha Luxo**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 75,89
    - Desconto: 70% OFF
    - Link: https://s.shopee.com.br/5VVrp5LrMH
 
-10. **Tênis Infantil Bebê Para Meninos e Meninas Confortável Preto Branco S…**
+9. **Tênis Infantil Bebê Para Meninos e Meninas Confortável Preto Branco S…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 34,90
    - Desconto: 53% OFF
    - Link: https://s.shopee.com.br/3B7wuYH6bv
+
+10. **Kit 5 Regatas Bebê**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 29,99
+   - Desconto: 63% OFF
+   - Link: https://s.shopee.com.br/50ZZlW1h9F
 
 ## Ações gratuitas recomendadas
 

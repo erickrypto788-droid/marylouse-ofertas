@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 05/10/2026 15:22
+Gerado em: 05/10/2026 16:20
 
 ## Como usar
 
@@ -79,8 +79,8 @@ Gerado em: 05/10/2026 15:22
 **Produtos usados:**
 
 - Escova Secadora 3 em 1
-- Escova Secadora 3 em 1 Profissional
-- Escova Rotativa Elétrica Secador de cabelo Professinal 2 em 1 110v e…
+- Pente Elétrico Alisador Cabelo Aquecimento Milti-fucional Prancha Ali…
+- Kit de 2 Até 3 Body Splash Masculino Malbeck Essencialle Magnata Árab…
 
 ---
 

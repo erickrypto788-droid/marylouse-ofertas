@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 05/10/2026 05:22
+Gerado em: 05/10/2026 06:05
 
 ## Categorias prioritárias
 
@@ -10,10 +10,10 @@ Gerado em: 05/10/2026 05:22
 - 💻 **Informática**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 💄 **Beleza**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 🐶 **Pet**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 🧸 **Brinquedos**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 🏋️ **Esportes**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 📱 **Celulares**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
-- 🐶 **Pet**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 
 ## Top ofertas para destacar
 
@@ -59,33 +59,33 @@ Gerado em: 05/10/2026 05:22
    - Desconto: 42% OFF
    - Link: https://s.shopee.com.br/9KiYnEkgwb
 
-7. **MousePad Grande Rosa Desk Pad Couro Gamer Office**
+7. **Cadeira Massagem Escritorio Cadeira Escritorio Presidente Cor Âmbar**
+   - Categoria: Pet
+   - Loja: Mercado Livre
+   - Preço: R$ 743,00
+   - Desconto: 60% OFF
+   - Link: https://www.mercadolivre.com.br/p/MLB59413555?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+8. **MousePad Grande Rosa Desk Pad Couro Gamer Office**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 20,89
    - Desconto: 50% OFF
    - Link: https://s.shopee.com.br/80DBw734Oq
 
-8. **Huggies Fralda Descartável Máxima Proteção XG - 112 Un**
+9. **Huggies Fralda Descartável Máxima Proteção XG - 112 Un**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 179,90
    - Desconto: 26% OFF
    - Link: https://s.shopee.com.br/8AWbnnzNO0
 
-9. **Ninho Redutor de Berço Para Bebe Mosquiteiro Portátil Kit 2 Peças Enx…**
+10. **Ninho Redutor de Berço Para Bebe Mosquiteiro Portátil Kit 2 Peças Enx…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 64,99
    - Desconto: 69% OFF
    - Link: https://s.shopee.com.br/qk14Kj1vn
-
-10. **Aparelho Medidor De Pressão Arterial Digital De Braço Alta Precisão C…**
-   - Categoria: Saúde
-   - Loja: Shopee
-   - Preço: R$ 38,99
-   - Desconto: 61% OFF
-   - Link: https://s.shopee.com.br/9zyFv3YHOz
 
 ## Ações gratuitas recomendadas
 

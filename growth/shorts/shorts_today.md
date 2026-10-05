@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 05/10/2026 10:22
+Gerado em: 05/10/2026 11:18
 
 ## Como usar
 
@@ -54,9 +54,9 @@ Gerado em: 05/10/2026 10:22
 
 **Produtos usados:**
 
+- Panela de Pressão Panelux 4,5L Classic
 - Panela de Pressão Antiaderente 4,5L
 - Air fryer Br House Fritadeira ELETRICA AIR FRYER Air Fryer Family pre…
-- Mini Liquidificador Portátil USB
 
 ---
 
@@ -120,14 +120,10 @@ Gerado em: 05/10/2026 10:22
 
 - growth/shorts/slides/supermercados/01_intro.png
 - growth/shorts/slides/supermercados/02_produto_1.png
-- growth/shorts/slides/supermercados/03_produto_2.png
-- growth/shorts/slides/supermercados/04_produto_3.png
 - growth/shorts/slides/supermercados/05_cta.png
 
 **Produtos usados:**
 
 - Kit Pele de Porcelana com Sérum de Arroz e Olhos de Gueixa Kokeshi
-- Absorvente Mulher Ativa Com Abas Kit 80 Pacotes Gel Super Absorvente
-- Base Amaciante 500 Faz 100 Litros Amaciante
 
 ---

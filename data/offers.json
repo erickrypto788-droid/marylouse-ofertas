@@ -1,5 +1,47 @@
 [
   {
+    "id": "13d29783f0b81b3554",
+    "title": "Bota Galocha Antiderrapante",
+    "raw_title": "Bota Galocha Unisex Pvc Profissional Antiderrapante Impermeavel Resistente",
+    "description": "🚨 IMPERDÍVEL! Proteção e conforto com 57% OFF! ☔ Bota Galocha Unissex PVC Profissional Antiderrapante, Impermeável e Resistente. Perfeita para qualquer...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Masculinos",
+    "old_price": "R$ 90,67",
+    "price": "R$ 38,99",
+    "discount_percent": 57.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhtnxgi2jmrld4",
+    "affiliate_url": "https://s.shopee.com.br/8fSt83fi6w",
+    "created_at": "05/10/2026 08:17",
+    "created_at_iso": "2026-10-05T08:17:02",
+    "created_ts": 1791188222,
+    "niche": {
+      "key": "shopee_sapatos_masculinos",
+      "name": "Sapatos Masculinos"
+    }
+  },
+  {
+    "id": "4758e309f4c893caaf",
+    "title": "Botina Segurança Couro Legítimo",
+    "raw_title": "Botina Bota Segurança Couro Legitimo Com Biqueira Elastico Com CA",
+    "description": "👷‍♂️ SEGURANÇA COM PREÇO IMPERDÍVEL! Garanta sua Botina de Segurança em Couro Legítimo com Biqueira e CA! Proteção e conforto essenciais para o seu dia...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Masculinos",
+    "old_price": "R$ 99,97",
+    "price": "R$ 39,99",
+    "discount_percent": 60.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh2f3uog1c785a",
+    "affiliate_url": "https://s.shopee.com.br/1LgH4AqBwR",
+    "created_at": "05/10/2026 08:15",
+    "created_at_iso": "2026-10-05T08:15:54",
+    "created_ts": 1791188154,
+    "niche": {
+      "key": "shopee_sapatos_masculinos",
+      "name": "Sapatos Masculinos"
+    }
+  },
+  {
     "id": "009b8584c32fc69379",
     "title": "Whey Protein + Cafeína",
     "raw_title": "Whey Protein Concentrado + Whey Protein Isolado + Cafeína",
@@ -2137,26 +2179,5 @@
     "created_at": "04/10/2026 09:01",
     "created_at_iso": "2026-10-04T09:01:56",
     "created_ts": 1791104516
-  },
-  {
-    "id": "104c0f6cf45249d83c",
-    "title": "Nintendo Switch 2 Nacional 256GB",
-    "raw_title": "Nintendo Switch 2 - 256gb - Versão NACIONAL sem jogos",
-    "description": "🎮 O FUTURO DOS GAMES CHEGOU! 🎮 Prepare-se para a próxima geração com o novo Nintendo Switch 2! Versão NACIONAL de 256GB para você mergulhar em suas aven...",
-    "marketplace": "Shopee",
-    "category": "Jogos e Consoles",
-    "old_price": "R$ 4.998,84",
-    "price": "R$ 4.299,00",
-    "discount_percent": 14.0,
-    "rating": 5.0,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg6vo410qv47d8",
-    "affiliate_url": "https://s.shopee.com.br/7Ae3kPKVz9",
-    "created_at": "04/10/2026 08:15",
-    "created_at_iso": "2026-10-04T08:15:53",
-    "created_ts": 1791101753,
-    "niche": {
-      "key": "shopee_jogos_consoles",
-      "name": "Jogos e Consoles"
-    }
   }
 ]

@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 05/10/2026 07:20
+Gerado em: 05/10/2026 08:06
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 05/10/2026 07:20
 **Produtos usados:**
 
 - Ninho Redutor de Berço Para Bebe Mosquiteiro Portátil Kit 2 Peças Enx…
-- Kit Limpeza Mamadeira Completo
 - Huggies Fralda Descartável Máxima Proteção XG - 112 Un
+- Caminhão Dinossauro 4 em 1 com pista e lancador, 6/12 carrinhos demet…
 
 ---
 

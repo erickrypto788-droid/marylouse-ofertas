@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 05/10/2026 12:03
+Gerado em: 05/10/2026 12:22
 
 ## Como usar
 
@@ -78,9 +78,9 @@ Gerado em: 05/10/2026 12:03
 
 **Produtos usados:**
 
+- Escova Secadora 3 em 1
 - Escova Secadora 3 em 1 Profissional
 - Escova Rotativa Elétrica Secador de cabelo Professinal 2 em 1 110v e…
-- Barbeador de Costas Dobrável
 
 ---
 

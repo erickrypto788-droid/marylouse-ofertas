@@ -1,91 +1,91 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 05/10/2026 12:03
+Gerado em: 05/10/2026 12:22
 
 ## Categorias prioritárias
 
-- 👟 **Calçados**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 💄 **Beleza**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 🏋️ **Esportes**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 🍼 **Mãe e Bebê**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 💻 **Informática**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 📦 **Outros**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
-- 💄 **Beleza**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 👗 **Moda Feminina**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 🧸 **Brinquedos**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 🔌 **Eletrodomésticos**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-eletrodomesticos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_eletrodomesticos
 
 ## Top ofertas para destacar
 
-1. **SSD Externo Samsung T5 USB 3.0**
+1. **Escova Secadora 3 em 1**
+   - Categoria: Beleza
+   - Loja: Shopee
+   - Preço: R$ 37,99
+   - Desconto: 87% OFF
+   - Link: https://s.shopee.com.br/40h3pxgPUX
+
+2. **SSD Externo Samsung T5 USB 3.0**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 179,00
    - Desconto: 64% OFF
    - Link: https://s.shopee.com.br/1gJ8OTZyn9
 
-2. **Escova Rotativa Elétrica Secador de cabelo Professinal 2 em 1 110v e…**
+3. **Escova Rotativa Elétrica Secador de cabelo Professinal 2 em 1 110v e…**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 82,99
    - Desconto: 58% OFF
    - Link: https://s.shopee.com.br/9KiXb4C5vq
 
-3. **Escova Secadora 3 em 1 Profissional**
+4. **Escova Secadora 3 em 1 Profissional**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 77,99
    - Desconto: 61% OFF
    - Link: https://s.shopee.com.br/AAHeab8vEx
 
-4. **Panela de Pressão Panelux 4,5L Classic**
+5. **Panela de Pressão Panelux 4,5L Classic**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 58,90
    - Desconto: 49% OFF
    - Link: https://s.shopee.com.br/2VsFz5S8ov
 
-5. **Amplificador de Tela 3D para Celular**
+6. **Amplificador de Tela 3D para Celular**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 17,99
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/2VsFuxugiY
 
-6. **SSD SATA III de 2,5 polegadas 120GB 128GB 240GB 256GB notebook deskto…**
+7. **SSD SATA III de 2,5 polegadas 120GB 128GB 240GB 256GB notebook deskto…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 79,07
    - Desconto: 41% OFF
    - Link: https://s.shopee.com.br/3B7wBEUGkY
 
-7. **Estojo Maquiagem Infantil Coração**
+8. **Estojo Maquiagem Infantil Coração**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 21,99
    - Desconto: 45% OFF
    - Link: https://s.shopee.com.br/1LgHvjhnSd
 
-8. **Panela de Pressão Antiaderente 4,5L**
+9. **Panela de Pressão Antiaderente 4,5L**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 133,90
    - Desconto: 42% OFF
    - Link: https://s.shopee.com.br/9KiYnEkgwb
 
-9. **Fone T70 Bluetooth à Prova d'Água**
-   - Categoria: Pet
+10. **Pente Elétrico Alisador Cabelo Aquecimento Milti-fucional Prancha Ali…**
+   - Categoria: Beleza
    - Loja: Shopee
-   - Preço: R$ 32,99
-   - Desconto: 69% OFF
-   - Link: https://s.shopee.com.br/6fhoscj5Wy
-
-10. **Carregador Sem Fio iPhone**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 28,88
-   - Desconto: 50% OFF
-   - Link: https://s.shopee.com.br/LnlKyybbj
+   - Preço: R$ 26,89
+   - Desconto: 66% OFF
+   - Link: https://s.shopee.com.br/6fhp0rWStY
 
 ## Ações gratuitas recomendadas
 

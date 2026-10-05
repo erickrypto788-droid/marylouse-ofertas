@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 05/10/2026 12:03
+Gerado em: 05/10/2026 12:22
 
 ## Como usar
 
@@ -57,14 +57,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
 ```txt
 💄 Oferta para Beleza e Cuidados
 
-Escova Secadora 3 em 1 Profissional
+Escova Secadora 3 em 1
 
-💸 De: R$ 199,97
-🔥 Por: R$ 77,99
-🏷️ 61% OFF
+💸 De: R$ 292,23
+🔥 Por: R$ 37,99
+🏷️ 87% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/AAHeab8vEx
+Ver oferta: https://s.shopee.com.br/40h3pxgPUX
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
 ```txt
 🐶 Oferta para Ofertas Pet
 
-Fone T70 Bluetooth à Prova d'Água
+Kit de 2 Até 3 Body Splash Masculino Malbeck Essencialle Magnata Árab…
 
-💸 De: R$ 106,42
-🔥 Por: R$ 32,99
-🏷️ 69% OFF
+💸 De: R$ 99,71
+🔥 Por: R$ 37,89
+🏷️ 62% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/6fhoscj5Wy
+Ver oferta: https://s.shopee.com.br/7Ae5bmQ5os
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

@@ -1,18 +1,18 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 05/10/2026 20:42
+Gerado em: 05/10/2026 21:23
 
 ## Categorias prioritárias
 
-- 🍼 **Mãe e Bebê**: 18 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 💻 **Informática**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 📱 **Celulares**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 💻 **Informática**: 16 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 🍼 **Mãe e Bebê**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 📦 **Outros**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 📚 **Papelaria**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 - 🏋️ **Esportes**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 👗 **Moda Feminina**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 💄 **Beleza**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 👜 **Bolsas**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 
 ## Top ofertas para destacar
@@ -73,19 +73,19 @@ Gerado em: 05/10/2026 20:42
    - Desconto: 45% OFF
    - Link: https://s.shopee.com.br/1LgHvjhnSd
 
-9. **ROMANTIC CROWN Mochla de Viagem MascuIino e Feminina ImpermeaveI Refo…**
+9. **Webcam Câmera Computador Full HD 1080x1920p 2MP USB Plug Play Microfo…**
    - Categoria: Informática
    - Loja: Shopee
-   - Preço: R$ 119,98
-   - Desconto: 83% OFF
-   - Link: https://s.shopee.com.br/qjzwHuwot
+   - Preço: R$ 28,00
+   - Desconto: 59% OFF
+   - Link: https://s.shopee.com.br/1VzjSTbaQ1
 
-10. **Fralda Premium Huggies Natural Care RN 34 Un**
-   - Categoria: Mãe e Bebê
+10. **Mouse gamer para jogo computador 3200dpi com LED laser X7 USB Botões…**
+   - Categoria: Informática
    - Loja: Shopee
-   - Preço: R$ 45,90
-   - Desconto: 16% OFF
-   - Link: https://s.shopee.com.br/9V1y7yWWPT
+   - Preço: R$ 22,88
+   - Desconto: 62% OFF
+   - Link: https://s.shopee.com.br/4B0UdNERPj
 
 ## Ações gratuitas recomendadas
 

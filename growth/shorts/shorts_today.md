@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 05/10/2026 00:17
+Gerado em: 05/10/2026 01:21
 
 ## Como usar
 
@@ -76,7 +76,7 @@ Gerado em: 05/10/2026 00:17
 
 - Escova Secadora 3 em 1 Profissional
 - Escova Rotativa Elétrica Secador de cabelo Professinal 2 em 1 110v e…
-- Body Splash 200ml Feminino Obsessed Infinity Liberté VF Golden | Unit…
+- Estojo Maquiagem Infantil Coração
 
 ---
 

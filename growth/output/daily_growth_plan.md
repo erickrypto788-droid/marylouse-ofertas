@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 05/10/2026 00:17
+Gerado em: 05/10/2026 01:21
 
 ## Categorias prioritárias
 
 - 🍼 **Mãe e Bebê**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 🧸 **Brinquedos**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
-- ❤️ **Saúde**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
+- 📚 **Papelaria**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
+- 💻 **Informática**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 💄 **Beleza**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 📦 **Outros**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 👜 **Bolsas**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
-- 💻 **Informática**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 💄 **Beleza**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 📱 **Celulares**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
-- 🏋️ **Esportes**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
+- ❤️ **Saúde**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
+- 🧸 **Brinquedos**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 
 ## Top ofertas para destacar
 
@@ -38,54 +38,54 @@ Gerado em: 05/10/2026 00:17
    - Desconto: 65% OFF
    - Link: https://s.shopee.com.br/30oUWGmuED
 
-4. **Panela de Pressão Antiaderente 4,5L**
+4. **Estojo Maquiagem Infantil Coração**
+   - Categoria: Beleza
+   - Loja: Shopee
+   - Preço: R$ 21,99
+   - Desconto: 45% OFF
+   - Link: https://s.shopee.com.br/1LgHvjhnSd
+
+5. **Panela de Pressão Antiaderente 4,5L**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 133,90
    - Desconto: 42% OFF
    - Link: https://s.shopee.com.br/9KiYnEkgwb
 
-5. **Fralda Pampers Supersec XG 70 Tiras**
+6. **Fralda Pampers Supersec XG 70 Tiras**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 98,99
    - Desconto: 32% OFF
    - Link: https://s.shopee.com.br/4B0RmAmHxk
 
-6. **Huggies Fralda Descartável Máxima Proteção XG - 112 Un**
+7. **Huggies Fralda Descartável Máxima Proteção XG - 112 Un**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 179,90
    - Desconto: 26% OFF
    - Link: https://s.shopee.com.br/8AWbnnzNO0
 
-7. **Ninho Redutor de Berço Para Bebe Mosquiteiro Portátil Kit 2 Peças Enx…**
+8. **Ninho Redutor de Berço Para Bebe Mosquiteiro Portátil Kit 2 Peças Enx…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 64,99
    - Desconto: 69% OFF
    - Link: https://s.shopee.com.br/qk14Kj1vn
 
-8. **Aparelho Medidor De Pressão Arterial Digital De Braço Alta Precisão C…**
+9. **Aparelho Medidor De Pressão Arterial Digital De Braço Alta Precisão C…**
    - Categoria: Saúde
    - Loja: Shopee
    - Preço: R$ 38,99
    - Desconto: 61% OFF
    - Link: https://s.shopee.com.br/9zyFv3YHOz
 
-9. **Kit 6 Peças Roupa De Bebê Body Menina Animado Estampado Algodão**
+10. **Kit 6 Peças Roupa De Bebê Body Menina Animado Estampado Algodão**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 47,89
    - Desconto: 56% OFF
    - Link: https://s.shopee.com.br/20vyBzziAp
-
-10. **Body Splash 200ml Feminino Obsessed Infinity Liberté VF Golden | Unit…**
-   - Categoria: Beleza
-   - Loja: Shopee
-   - Preço: R$ 28,98
-   - Desconto: 56% OFF
-   - Link: https://s.shopee.com.br/qk0jjFJ1Q
 
 ## Ações gratuitas recomendadas
 

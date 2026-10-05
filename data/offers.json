@@ -1,5 +1,47 @@
 [
   {
+    "id": "c78e6d4a92cefb2597",
+    "title": "Chinelo Babuche Feminino Confortável",
+    "raw_title": "Chinelo Babuche Feminino + CHARMS GRÁTIS! Antiderrapante EVA Macio Confortável",
+    "description": "Conforto ABSOLUTO com um super desconto! 👣 Chinelo Babuche Feminino com CHARMS GRÁTIS! Antiderrapante, EVA Macio e super Confortável. Perfeito para o di...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Femininos",
+    "old_price": "R$ 127,55",
+    "price": "R$ 36,99",
+    "discount_percent": 71.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-8259n-mriqk3ftclc64a",
+    "affiliate_url": "https://s.shopee.com.br/5VVrQM35E2",
+    "created_at": "05/10/2026 09:16",
+    "created_at_iso": "2026-10-05T09:16:57",
+    "created_ts": 1791191817,
+    "niche": {
+      "key": "shopee_sapatos_femininos",
+      "name": "Sapatos Femininos"
+    }
+  },
+  {
+    "id": "66624b3db004aab8ae",
+    "title": "Tênis SNEEKS Feminino",
+    "raw_title": "Tênis SNEEKS Feminino para Uso Diário Prático e Estiloso Super Promoção",
+    "description": "👟 Conforto e Estilo no seu dia a dia! ✨ O Tênis SNEEKS Feminino é perfeito para quem busca praticidade e um toque estiloso em cada passo. Super promoção...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Femininos",
+    "old_price": "R$ 99,97",
+    "price": "R$ 39,99",
+    "discount_percent": 60.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk3wepd0ly4g52",
+    "affiliate_url": "https://s.shopee.com.br/4LJu2D37oC",
+    "created_at": "05/10/2026 09:15",
+    "created_at_iso": "2026-10-05T09:15:50",
+    "created_ts": 1791191750,
+    "niche": {
+      "key": "shopee_sapatos_femininos",
+      "name": "Sapatos Femininos"
+    }
+  },
+  {
     "id": "aebc601ec02d2efd6b",
     "title": "Barbeador de Costas Dobrável",
     "raw_title": "Barbeador Costas Masculino Traseiro Dobrável Aparador Pelos",
@@ -2158,43 +2200,5 @@
       "key": "shopee_roupas_femininas",
       "name": "Roupas Femininas"
     }
-  },
-  {
-    "id": "d5cd09a2a3e2a1842a",
-    "title": "Calça Flare Pantalona Bege Jeans Premium",
-    "raw_title": "Calça Feminina Flare Pantalona Bege Jeans Premium Empina Bumbum Boca de Sino Cos Alto Com Elastano",
-    "description": "✨ Transforme seu look com essa Calça Flare PERFEITA! ✨ Calça Feminina Flare Pantalona Bege Jeans Premium, com modelagem que empina o bumbum, boca de sin...",
-    "marketplace": "Shopee",
-    "category": "Roupas Femininas",
-    "old_price": "R$ 140,00",
-    "price": "R$ 58,80",
-    "discount_percent": 58.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfytdcdv09ona9",
-    "affiliate_url": "https://s.shopee.com.br/2VsCzfLHap",
-    "created_at": "04/10/2026 09:15",
-    "created_at_iso": "2026-10-04T09:15:55",
-    "created_ts": 1791105355,
-    "niche": {
-      "key": "shopee_roupas_femininas",
-      "name": "Roupas Femininas"
-    }
-  },
-  {
-    "id": "1c60efe852fad20f0a",
-    "title": "Mini Impressora Niimbot B1 Bluetooth",
-    "raw_title": "Mini Impressora Niimbot B1 etiqueta Bluetooth Cor Prateado impressora etiquetas adesivas",
-    "description": "⚡️ Chega de bagunça! Organize sua vida com estilo! ⚡️ A Mini Impressora Niimbot B1 etiqueta Bluetooth, na cor prateada, é perfeita para etiquetas adesiv...",
-    "marketplace": "Mercado Livre",
-    "category": "Informática",
-    "old_price": "",
-    "price": "R$ 209,99",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_656520-MLA93232832197_092025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "04/10/2026 09:01",
-    "created_at_iso": "2026-10-04T09:01:56",
-    "created_ts": 1791104516
   }
 ]

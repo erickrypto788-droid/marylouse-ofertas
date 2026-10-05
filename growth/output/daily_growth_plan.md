@@ -1,17 +1,17 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 05/10/2026 10:03
+Gerado em: 05/10/2026 10:22
 
 ## Categorias prioritárias
 
 - 👟 **Calçados**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 👕 **Moda Masculina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 - 🏋️ **Esportes**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 💄 **Beleza**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🍼 **Mãe e Bebê**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 📦 **Outros**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 👗 **Moda Feminina**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 🧸 **Brinquedos**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
-- 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 💻 **Informática**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - ✨ **Moda Plus Size**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
 
@@ -38,54 +38,54 @@ Gerado em: 05/10/2026 10:03
    - Desconto: 61% OFF
    - Link: https://s.shopee.com.br/AAHeab8vEx
 
-4. **SSD SATA III de 2,5 polegadas 120GB 128GB 240GB 256GB notebook deskto…**
+4. **Amplificador de Tela 3D para Celular**
+   - Categoria: Celulares
+   - Loja: Shopee
+   - Preço: R$ 17,99
+   - Desconto: 40% OFF
+   - Link: https://s.shopee.com.br/2VsFuxugiY
+
+5. **SSD SATA III de 2,5 polegadas 120GB 128GB 240GB 256GB notebook deskto…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 79,07
    - Desconto: 41% OFF
    - Link: https://s.shopee.com.br/3B7wBEUGkY
 
-5. **Estojo Maquiagem Infantil Coração**
+6. **Estojo Maquiagem Infantil Coração**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 21,99
    - Desconto: 45% OFF
    - Link: https://s.shopee.com.br/1LgHvjhnSd
 
-6. **Panela de Pressão Antiaderente 4,5L**
+7. **Panela de Pressão Antiaderente 4,5L**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 133,90
    - Desconto: 42% OFF
    - Link: https://s.shopee.com.br/9KiYnEkgwb
 
-7. **Barbeador de Costas Dobrável**
+8. **Fone T70 Bluetooth à Prova d'Água**
+   - Categoria: Pet
+   - Loja: Shopee
+   - Preço: R$ 32,99
+   - Desconto: 69% OFF
+   - Link: https://s.shopee.com.br/6fhoscj5Wy
+
+9. **Carregador Sem Fio iPhone**
+   - Categoria: Celulares
+   - Loja: Shopee
+   - Preço: R$ 28,88
+   - Desconto: 50% OFF
+   - Link: https://s.shopee.com.br/LnlKyybbj
+
+10. **Barbeador de Costas Dobrável**
    - Categoria: Beleza
    - Loja: Mercado Livre
    - Preço: R$ 229,00
    - Desconto: 20% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB51434487?matt_word=marylouse&matt_tool=50459180&forceInApp=true
-
-8. **Cadeira Massagem Escritorio Cadeira Escritorio Presidente Cor Âmbar**
-   - Categoria: Pet
-   - Loja: Mercado Livre
-   - Preço: R$ 743,00
-   - Desconto: 60% OFF
-   - Link: https://www.mercadolivre.com.br/p/MLB59413555?matt_word=marylouse&matt_tool=50459180&forceInApp=true
-
-9. **MousePad Grande Rosa Desk Pad Couro Gamer Office**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 20,89
-   - Desconto: 50% OFF
-   - Link: https://s.shopee.com.br/80DBw734Oq
-
-10. **Huggies Fralda Descartável Máxima Proteção XG - 112 Un**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 179,90
-   - Desconto: 26% OFF
-   - Link: https://s.shopee.com.br/8AWbnnzNO0
 
 ## Ações gratuitas recomendadas
 

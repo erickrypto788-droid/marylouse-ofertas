@@ -1,91 +1,91 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 05/10/2026 02:08
+Gerado em: 05/10/2026 02:22
 
 ## Categorias prioritárias
 
-- 🍼 **Mãe e Bebê**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 💻 **Informática**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 🍼 **Mãe e Bebê**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 📚 **Papelaria**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
-- 💻 **Informática**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 💄 **Beleza**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 📦 **Outros**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 👜 **Bolsas**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
-- 📱 **Celulares**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 🐶 **Pet**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - ❤️ **Saúde**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
-- 🧸 **Brinquedos**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 
 ## Top ofertas para destacar
 
-1. **Escova Rotativa Elétrica Secador de cabelo Professinal 2 em 1 110v e…**
+1. **SSD Externo Samsung T5 USB 3.0**
+   - Categoria: Celulares
+   - Loja: Shopee
+   - Preço: R$ 179,00
+   - Desconto: 64% OFF
+   - Link: https://s.shopee.com.br/1gJ8OTZyn9
+
+2. **Escova Rotativa Elétrica Secador de cabelo Professinal 2 em 1 110v e…**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 82,99
    - Desconto: 58% OFF
    - Link: https://s.shopee.com.br/9KiXb4C5vq
 
-2. **Escova Secadora 3 em 1 Profissional**
+3. **Escova Secadora 3 em 1 Profissional**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 77,99
    - Desconto: 61% OFF
    - Link: https://s.shopee.com.br/AAHeab8vEx
 
-3. **Mochila Notebook Resistente Água**
+4. **Mochila Notebook Resistente Água**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 27,99
    - Desconto: 65% OFF
    - Link: https://s.shopee.com.br/30oUWGmuED
 
-4. **Estojo Maquiagem Infantil Coração**
+5. **SSD SATA III de 2,5 polegadas 120GB 128GB 240GB 256GB notebook deskto…**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 79,07
+   - Desconto: 41% OFF
+   - Link: https://s.shopee.com.br/3B7wBEUGkY
+
+6. **Estojo Maquiagem Infantil Coração**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 21,99
    - Desconto: 45% OFF
    - Link: https://s.shopee.com.br/1LgHvjhnSd
 
-5. **Panela de Pressão Antiaderente 4,5L**
+7. **Panela de Pressão Antiaderente 4,5L**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 133,90
    - Desconto: 42% OFF
    - Link: https://s.shopee.com.br/9KiYnEkgwb
 
-6. **Fralda Pampers Supersec XG 70 Tiras**
-   - Categoria: Mãe e Bebê
+8. **MousePad Grande Rosa Desk Pad Couro Gamer Office**
+   - Categoria: Informática
    - Loja: Shopee
-   - Preço: R$ 98,99
-   - Desconto: 32% OFF
-   - Link: https://s.shopee.com.br/4B0RmAmHxk
+   - Preço: R$ 20,89
+   - Desconto: 50% OFF
+   - Link: https://s.shopee.com.br/80DBw734Oq
 
-7. **Huggies Fralda Descartável Máxima Proteção XG - 112 Un**
+9. **Huggies Fralda Descartável Máxima Proteção XG - 112 Un**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 179,90
    - Desconto: 26% OFF
    - Link: https://s.shopee.com.br/8AWbnnzNO0
 
-8. **Ninho Redutor de Berço Para Bebe Mosquiteiro Portátil Kit 2 Peças Enx…**
+10. **Ninho Redutor de Berço Para Bebe Mosquiteiro Portátil Kit 2 Peças Enx…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 64,99
    - Desconto: 69% OFF
    - Link: https://s.shopee.com.br/qk14Kj1vn
-
-9. **Aparelho Medidor De Pressão Arterial Digital De Braço Alta Precisão C…**
-   - Categoria: Saúde
-   - Loja: Shopee
-   - Preço: R$ 38,99
-   - Desconto: 61% OFF
-   - Link: https://s.shopee.com.br/9zyFv3YHOz
-
-10. **Kit 6 Peças Roupa De Bebê Body Menina Animado Estampado Algodão**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 47,89
-   - Desconto: 56% OFF
-   - Link: https://s.shopee.com.br/20vyBzziAp
 
 ## Ações gratuitas recomendadas
 

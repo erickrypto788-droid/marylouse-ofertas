@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 05/10/2026 02:08
+Gerado em: 05/10/2026 02:22
 
 ## Como usar
 
@@ -12,7 +12,37 @@ Gerado em: 05/10/2026 02:08
 
 ---
 
-## Post 1 — Beleza e Cuidados
+## Post 1 — Celulares e Tecnologia
+
+**Canal recomendado:** Celulares e Tecnologia
+
+**Horário sugerido:** 19:00 - 21:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
+
+**Texto pronto:**
+
+```txt
+📱 Oferta para Celulares e Tecnologia
+
+SSD Externo Samsung T5 USB 3.0
+
+💸 De: R$ 497,22
+🔥 Por: R$ 179,00
+🏷️ 64% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/1gJ8OTZyn9
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 2 — Beleza e Cuidados
 
 **Canal recomendado:** Beleza e Cuidados
 
@@ -42,7 +72,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 2 — Casa e Cozinha
+## Post 3 — Casa e Cozinha
 
 **Canal recomendado:** Casa e Cozinha
 
@@ -72,7 +102,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 3 — Ofertas Pet
+## Post 4 — Ofertas Pet
 
 **Canal recomendado:** Ofertas Pet
 
@@ -102,7 +132,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Mamãe e Bebê
+## Post 5 — Mamãe e Bebê
 
 **Canal recomendado:** Mamãe e Bebê
 
@@ -125,36 +155,6 @@ Huggies Fralda Descartável Máxima Proteção XG - 112 Un
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/8AWbnnzNO0
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 5 — Celulares e Tecnologia
-
-**Canal recomendado:** Celulares e Tecnologia
-
-**Horário sugerido:** 19:00 - 21:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
-
-**Texto pronto:**
-
-```txt
-📱 Oferta para Celulares e Tecnologia
-
-Kit 2 Cartões de Memória 128GB Ultra
-
-💸 De: R$ 143,39
-🔥 Por: R$ 32,98
-🏷️ 77% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/80DB8feNfo
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 06/10/2026 11:22
+Gerado em: 06/10/2026 12:03
 
 ## Categorias prioritárias
 
@@ -59,33 +59,33 @@ Gerado em: 06/10/2026 11:22
    - Desconto: 33% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB33652298?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-7. **Medidor Pressão Digital De Pulso Com Voz Monitor Inteligente,Aparelho…**
+7. **Ração Gato Estimacat Premium Adulto Sabor Carne 15kg**
+   - Categoria: Pet
+   - Loja: Mercado Livre
+   - Preço: R$ 267,25
+   - Desconto: 25% OFF
+   - Link: https://www.mercadolivre.com.br/p/MLB66541712?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+8. **Medidor Pressão Digital De Pulso Com Voz Monitor Inteligente,Aparelho…**
    - Categoria: Saúde
    - Loja: Shopee
    - Preço: R$ 37,72
    - Desconto: 53% OFF
    - Link: https://s.shopee.com.br/7Ae78YoLQ8
 
-8. **Medidor de Pressão Digital de Braço Automático Monitor Cardíaco LCD c…**
+9. **Medidor de Pressão Digital de Braço Automático Monitor Cardíaco LCD c…**
    - Categoria: Saúde
    - Loja: Shopee
    - Preço: R$ 38,99
    - Desconto: 61% OFF
    - Link: https://s.shopee.com.br/2gBhmI5TYS
 
-9. **Termômetro De Testa Infravermelha Digital**
+10. **Termômetro De Testa Infravermelha Digital**
    - Categoria: Saúde
    - Loja: Shopee
    - Preço: R$ 26,89
    - Desconto: 78% OFF
    - Link: https://s.shopee.com.br/9KibiXkQVF
-
-10. **Monitor de Pressão Arterial de Pulso Recarregável**
-   - Categoria: Saúde
-   - Loja: Shopee
-   - Preço: R$ 39,89
-   - Desconto: 80% OFF
-   - Link: https://s.shopee.com.br/3VknVWVvID
 
 ## Ações gratuitas recomendadas
 

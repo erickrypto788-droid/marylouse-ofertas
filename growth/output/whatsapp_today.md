@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 06/10/2026 11:22
+Gerado em: 06/10/2026 12:03
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
 ```txt
 🐶 Oferta para Ofertas Pet
 
-Kit de 2 Até 3 Body Splash Masculino Malbeck Essencialle Magnata Árab…
+Ração Gato Estimacat Premium Adulto Sabor Carne 15kg
 
-💸 De: R$ 99,71
-🔥 Por: R$ 37,89
-🏷️ 62% OFF
-🛒 Loja: Shopee
+💸 De: R$ 356,33
+🔥 Por: R$ 267,25
+🏷️ 25% OFF
+🛒 Loja: Mercado Livre
 
-Ver oferta: https://s.shopee.com.br/7Ae5bmQ5os
+Ver oferta: https://www.mercadolivre.com.br/p/MLB66541712?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

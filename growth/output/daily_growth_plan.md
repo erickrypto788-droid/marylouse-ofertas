@@ -1,91 +1,91 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 06/10/2026 07:05
+Gerado em: 06/10/2026 07:24
 
 ## Categorias prioritárias
 
 - 💻 **Informática**: 15 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 👟 **Calçados**: 15 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 🍼 **Mãe e Bebê**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 💄 **Beleza**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 🍼 **Mãe e Bebê**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🏋️ **Esportes**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
-- 💄 **Beleza**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🔌 **Eletrodomésticos**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-eletrodomesticos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_eletrodomesticos
-- ✨ **Moda Plus Size**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
 - 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 📚 **Papelaria**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 
 ## Top ofertas para destacar
 
-1. **Fone Xiaomi Redmi Airdots**
+1. **Perfume Attracione Feminino**
+   - Categoria: Beleza
+   - Loja: Shopee
+   - Preço: R$ 37,00
+   - Desconto: 78% OFF
+   - Link: https://s.shopee.com.br/AAHiRaG30S
+
+2. **Fone Xiaomi Redmi Airdots**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 19,79
    - Desconto: 61% OFF
    - Link: https://s.shopee.com.br/80DDjMfjPK
 
-2. **Mochila CHL Bolsa Reforçada Notebook Impermeavel Material Premium Col…**
+3. **Mochila CHL Bolsa Reforçada Notebook Impermeavel Material Premium Col…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 39,99
    - Desconto: 55% OFF
    - Link: https://s.shopee.com.br/2BFQ7Tyk60
 
-3. **CALÇA Sumikko fralda Ajustável total max P/M/G/XG/XXG/XXXG/4XG/5XG 50…**
+4. **CALÇA Sumikko fralda Ajustável total max P/M/G/XG/XXG/XXXG/4XG/5XG 50…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 75,00
    - Desconto: 62% OFF
    - Link: https://s.shopee.com.br/1VzhrYKQMn
 
-4. **Escova Secadora 3 em 1**
+5. **Escova Secadora 3 em 1**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 37,99
    - Desconto: 87% OFF
    - Link: https://s.shopee.com.br/40h3pxgPUX
 
-5. **Jogo de Panelas Antiaderente 5 Peças Cereja com Revestimento Antiader…**
+6. **Jogo de Panelas Antiaderente 5 Peças Cereja com Revestimento Antiader…**
    - Categoria: Casa e Cozinha
    - Loja: Mercado Livre
    - Preço: R$ 174,90
    - Desconto: 33% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB33652298?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-6. **Panela de Pressão Panelux 4,5L Classic**
+7. **Panela de Pressão Panelux 4,5L Classic**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 58,90
    - Desconto: 49% OFF
    - Link: https://s.shopee.com.br/2VsFz5S8ov
 
-7. **Amplificador de Tela 3D para Celular**
+8. **Amplificador de Tela 3D para Celular**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 17,99
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/2VsFuxugiY
 
-8. **Fone Bluetooth Pro5 Premium**
-   - Categoria: Celulares
+9. **Kit Body Splash Dolce + Florata Red**
+   - Categoria: Beleza
    - Loja: Shopee
-   - Preço: R$ 66,88
-   - Desconto: 77% OFF
-   - Link: https://s.shopee.com.br/9APB7VbI2T
+   - Preço: R$ 42,90
+   - Desconto: 57% OFF
+   - Link: https://s.shopee.com.br/9zyIFHGgLR
 
-9. **Webcam Câmera Computador Full HD 1080x1920p 2MP USB Plug Play Microfo…**
-   - Categoria: Informática
+10. **Attracione Men com Feromônios**
+   - Categoria: Beleza
    - Loja: Shopee
-   - Preço: R$ 28,00
-   - Desconto: 59% OFF
-   - Link: https://s.shopee.com.br/1VzjSTbaQ1
-
-10. **Mouse gamer para jogo computador 3200dpi com LED laser X7 USB Botões…**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 22,88
-   - Desconto: 62% OFF
-   - Link: https://s.shopee.com.br/4B0UdNERPj
+   - Preço: R$ 57,00
+   - Desconto: 80% OFF
+   - Link: https://s.shopee.com.br/9APBFkOK4w
 
 ## Ações gratuitas recomendadas
 

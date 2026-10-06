@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 06/10/2026 20:04
+Gerado em: 06/10/2026 20:23
 
 ## Como usar
 
@@ -117,14 +117,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Calça Pantalona De Linho Com Cinto Fake e Cintura Alta e Bolsos
+Kit 2 Shorts Alfaiataria Feminina Social Cintura Alta Disfarça Barriga
 
-💸 De: R$ 99,97
-🔥 Por: R$ 39,99
-🏷️ 60% OFF
+💸 De: R$ 158,18
+🔥 Por: R$ 34,80
+🏷️ 78% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/1Avs3p3Yg
+Ver oferta: https://s.shopee.com.br/2BFRmWnHxy
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

@@ -1,5 +1,110 @@
 [
   {
+    "id": "c53db60f215d3bf3c5",
+    "title": "Principia Gel de Limpeza Suave",
+    "raw_title": "Principia Gel de Limpeza Suave - GL-02 c/ 200g",
+    "description": "✨ Pele limpa e suave com Principia! O Gel de Limpeza Suave GL-02 (200g) é perfeito para sua rotina de skincare. Sinta a diferença de uma limpeza eficaz...",
+    "marketplace": "Shopee",
+    "category": "Beleza",
+    "old_price": "R$ 42,86",
+    "price": "R$ 39,00",
+    "discount_percent": 9.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfvjjhfmqcjp5b",
+    "affiliate_url": "https://s.shopee.com.br/5VVst0pY8C",
+    "created_at": "06/10/2026 07:22",
+    "created_at_iso": "2026-10-06T07:22:49",
+    "created_ts": 1791271369,
+    "niche": {
+      "key": "shopee_beleza",
+      "name": "Beleza"
+    }
+  },
+  {
+    "id": "85564b52632f0e8516",
+    "title": "Celimax Retinal Shot Booster",
+    "raw_title": "Celimax The Vita A Retinal Shot Tightening Booster 15ml",
+    "description": "Pele firme e rejuvenescida! ✨ O Celimax The Vita A Retinal Shot é o segredo para uma pele mais jovem e revitalizada. Com Retinal, um poderoso ativo, est...",
+    "marketplace": "Shopee",
+    "category": "Beleza",
+    "old_price": "R$ 219,32",
+    "price": "R$ 135,98",
+    "discount_percent": 38.0,
+    "rating": 5.0,
+    "image": "https://cf.shopee.com.br/file/sg-11134207-825ai-mr9pynhmd43k22",
+    "affiliate_url": "https://s.shopee.com.br/6q1GTSkTQK",
+    "created_at": "06/10/2026 07:21",
+    "created_at_iso": "2026-10-06T07:21:12",
+    "created_ts": 1791271272,
+    "niche": {
+      "key": "shopee_beleza",
+      "name": "Beleza"
+    }
+  },
+  {
+    "id": "997a632c61508a77c0",
+    "title": "Kit Body Splash Dolce + Florata Red",
+    "raw_title": "Kit Body Splash Dolce + Florata Red 200ml Feminino.",
+    "description": "✨ Perfume que encanta com um precinho que surpreende! ✨ Garanta seu Kit Body Splash Dolce + Florata Red 200ml Feminino e arrase! Uma combinação perfeita...",
+    "marketplace": "Shopee",
+    "category": "Beleza",
+    "old_price": "R$ 99,77",
+    "price": "R$ 42,90",
+    "discount_percent": 57.0,
+    "rating": 4.6,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lg-mtdyn13q445cbb",
+    "affiliate_url": "https://s.shopee.com.br/9zyIFHGgLR",
+    "created_at": "06/10/2026 07:20",
+    "created_at_iso": "2026-10-06T07:20:04",
+    "created_ts": 1791271204,
+    "niche": {
+      "key": "shopee_beleza",
+      "name": "Beleza"
+    }
+  },
+  {
+    "id": "8c8970fd65865e388b",
+    "title": "Perfume Attracione Feminino",
+    "raw_title": "Perfume Attracione Feminino by Attracione Woman Mulher",
+    "description": "✨ Sinta-se poderosa e irresistível! O Perfume Attracione Feminino, com sua fragrância marcante, está com um desconto espetacular! 💖 Mais de 1800 mulhere...",
+    "marketplace": "Shopee",
+    "category": "Beleza",
+    "old_price": "R$ 168,18",
+    "price": "R$ 37,00",
+    "discount_percent": 78.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9g8de45a3w911",
+    "affiliate_url": "https://s.shopee.com.br/AAHiRaG30S",
+    "created_at": "06/10/2026 07:18",
+    "created_at_iso": "2026-10-06T07:18:57",
+    "created_ts": 1791271137,
+    "niche": {
+      "key": "shopee_beleza",
+      "name": "Beleza"
+    }
+  },
+  {
+    "id": "0c3bc656c3b6093103",
+    "title": "Attracione Men com Feromônios",
+    "raw_title": "Attracione Men (Perfume Masculino com Feromônios Ativados)",
+    "description": "✨ ATENÇÃO, CAVALHEIROS! ✨ O segredo para você se destacar chegou! 🚀 Perfume Masculino Attracione Men com Feromônios Ativados para aumentar seu poder de...",
+    "marketplace": "Shopee",
+    "category": "Beleza",
+    "old_price": "R$ 285,00",
+    "price": "R$ 57,00",
+    "discount_percent": 80.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7repr-m2v3wdwedwcb1f",
+    "affiliate_url": "https://s.shopee.com.br/9APBFkOK4w",
+    "created_at": "06/10/2026 07:16",
+    "created_at_iso": "2026-10-06T07:16:11",
+    "created_ts": 1791270971,
+    "niche": {
+      "key": "shopee_beleza",
+      "name": "Beleza"
+    }
+  },
+  {
     "id": "58338405eac3501aed",
     "title": "Monitor 24 Polegadas VGA HDMI 5ms",
     "raw_title": "Monitor 24 Polegadas 1920x1200px Vga Hdmi 5ms Rápido",
@@ -2338,89 +2443,5 @@
     "created_at": "05/10/2026 08:02",
     "created_at_iso": "2026-10-05T08:02:18",
     "created_ts": 1791187338
-  },
-  {
-    "id": "05dca5d21a3c424ba3",
-    "title": "Conjunto Plus Size Casual Chic",
-    "raw_title": "Conjunto Feminino Plus Size Casual Chic Blusa Solta e Pantalona Viscolycra",
-    "description": "👗 Look Perfeito Chegou! 💖 Conforto e elegância em um só conjunto! Arrase com o Conjunto Feminino Plus Size Casual Chic: Blusa Solta e Pantalona em Visco...",
-    "marketplace": "Shopee",
-    "category": "Roupas Plus Size",
-    "old_price": "R$ 80,10",
-    "price": "R$ 68,89",
-    "discount_percent": 14.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820la-mpwrthb8ncowe0",
-    "affiliate_url": "https://s.shopee.com.br/1BMs88x8vl",
-    "created_at": "05/10/2026 07:19",
-    "created_at_iso": "2026-10-05T07:19:10",
-    "created_ts": 1791184750,
-    "niche": {
-      "key": "shopee_roupas_plus_size",
-      "name": "Roupas Plus Size"
-    }
-  },
-  {
-    "id": "bf5c04fa2d41434a64",
-    "title": "Conjunto Feminino Plus Size",
-    "raw_title": "conjunto femenino calça e blusa baby look elegante plus size confortavel DIVERSAS CORES",
-    "description": "✨ NOVIDADE! Conjunto Feminino Calça e Blusa Baby Look Plus Size! Perfeito para quem busca elegância e conforto em DIVERSAS CORES. Sinta-se linda e confi...",
-    "marketplace": "Shopee",
-    "category": "Roupas Plus Size",
-    "old_price": "R$ 69,89",
-    "price": "R$ 59,41",
-    "discount_percent": 15.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ln-mrbr6lyaig3r9b",
-    "affiliate_url": "https://s.shopee.com.br/1Auk01aIU",
-    "created_at": "05/10/2026 07:18",
-    "created_at_iso": "2026-10-05T07:18:03",
-    "created_ts": 1791184683,
-    "niche": {
-      "key": "shopee_roupas_plus_size",
-      "name": "Roupas Plus Size"
-    }
-  },
-  {
-    "id": "25df678cd32e49ab41",
-    "title": "Blusa Plus Size Canelada Gola V",
-    "raw_title": "Blusa Feminina Plus Size Canelada Gola V Manga Curta Malha Premium do GG ao G3",
-    "description": "ARRASO PLUS SIZE! ✨ Conforto e estilo garantidos com essa Blusa Feminina Canelada Gola V de Malha Premium. Disponível do GG ao G3! 💖",
-    "marketplace": "Shopee",
-    "category": "Roupas Plus Size",
-    "old_price": "R$ 60,17",
-    "price": "R$ 34,90",
-    "discount_percent": 42.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ld-mp0582z2wlqb54",
-    "affiliate_url": "https://s.shopee.com.br/W7BKuzgHZ",
-    "created_at": "05/10/2026 07:16",
-    "created_at_iso": "2026-10-05T07:16:54",
-    "created_ts": 1791184614,
-    "niche": {
-      "key": "shopee_roupas_plus_size",
-      "name": "Roupas Plus Size"
-    }
-  },
-  {
-    "id": "3801ed83f2f68e8144",
-    "title": "Vestido Plus Size Soltinho",
-    "raw_title": "Vestido Plus Size Soltinho Em Dois Tamanhos e Várias Cores",
-    "description": "👗 NOVIDADE! Conforto e estilo com precinho de arrasar! ✨ Seu novo vestido favorito chegou! Soltinho, super confortável e disponível em dois tamanhos e v...",
-    "marketplace": "Shopee",
-    "category": "Roupas Plus Size",
-    "old_price": "R$ 110,00",
-    "price": "R$ 38,50",
-    "discount_percent": 65.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m4-mm2bgmooii2o0f",
-    "affiliate_url": "https://s.shopee.com.br/50ZZMmiqm9",
-    "created_at": "05/10/2026 07:15",
-    "created_at_iso": "2026-10-05T07:15:46",
-    "created_ts": 1791184546,
-    "niche": {
-      "key": "shopee_roupas_plus_size",
-      "name": "Roupas Plus Size"
-    }
   }
 ]

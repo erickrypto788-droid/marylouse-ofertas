@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 06/10/2026 12:03
+Gerado em: 06/10/2026 12:22
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 06/10/2026 12:03
 **Produtos usados:**
 
 - CALÇA Sumikko fralda Ajustável total max P/M/G/XG/XXG/XXXG/4XG/5XG 50…
-- Brinquedo Caminhão Dinossauro Engolidor 2026 Porta-Carrinhos com 4 Ca…
-- Bebê Reborn Girafinha Luxo
+- Toalha Fralda Soft Bebê C/ Capuz
+- NINHO REDUTOR DE BERÇO | COM ZIPER E LAÇO | TROCADOR PORTÁTIL |…
 
 ---
 
@@ -77,8 +77,8 @@ Gerado em: 06/10/2026 12:03
 **Produtos usados:**
 
 - Perfume Attracione Feminino
-- Escova Secadora 3 em 1
 - Attracione Men com Feromônios
+- Kit Body Splash Dolce + Florata Red
 
 ---
 

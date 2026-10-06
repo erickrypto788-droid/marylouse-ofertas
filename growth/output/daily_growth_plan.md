@@ -1,14 +1,14 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 06/10/2026 12:03
+Gerado em: 06/10/2026 12:22
 
 ## Categorias prioritárias
 
-- 💻 **Informática**: 15 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 🍼 **Mãe e Bebê**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 🍼 **Mãe e Bebê**: 19 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 💻 **Informática**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 👟 **Calçados**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 💄 **Beleza**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🏋️ **Esportes**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
+- 💄 **Beleza**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 🧸 **Brinquedos**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - ❤️ **Saúde**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
@@ -45,12 +45,12 @@ Gerado em: 06/10/2026 12:03
    - Desconto: 62% OFF
    - Link: https://s.shopee.com.br/1VzhrYKQMn
 
-5. **Escova Secadora 3 em 1**
-   - Categoria: Beleza
+5. **Toalha Fralda Soft Bebê C/ Capuz**
+   - Categoria: Mãe e Bebê
    - Loja: Shopee
-   - Preço: R$ 37,99
-   - Desconto: 87% OFF
-   - Link: https://s.shopee.com.br/40h3pxgPUX
+   - Preço: R$ 31,99
+   - Desconto: 47% OFF
+   - Link: https://s.shopee.com.br/3VkopvitG1
 
 6. **Jogo de Panelas Antiaderente 5 Peças Cereja com Revestimento Antiader…**
    - Categoria: Casa e Cozinha
@@ -59,33 +59,33 @@ Gerado em: 06/10/2026 12:03
    - Desconto: 33% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB33652298?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-7. **Ração Gato Estimacat Premium Adulto Sabor Carne 15kg**
+7. **NINHO REDUTOR DE BERÇO | COM ZIPER E LAÇO | TROCADOR PORTÁTIL |…**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 45,89
+   - Desconto: 67% OFF
+   - Link: https://s.shopee.com.br/2gBhqP3f5d
+
+8. **Kit de 3 Lençol Cercado De Bebê Chiqueirinho com elástico Percal 400…**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 28,47
+   - Desconto: 57% OFF
+   - Link: https://s.shopee.com.br/4B0Vd9xx2m
+
+9. **Berço Portátil Moises Co-bed**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 519,49
+   - Desconto: 71% OFF
+   - Link: https://s.shopee.com.br/1BMu3e9N8A
+
+10. **Ração Gato Estimacat Premium Adulto Sabor Carne 15kg**
    - Categoria: Pet
    - Loja: Mercado Livre
    - Preço: R$ 267,25
    - Desconto: 25% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB66541712?matt_word=marylouse&matt_tool=50459180&forceInApp=true
-
-8. **Medidor Pressão Digital De Pulso Com Voz Monitor Inteligente,Aparelho…**
-   - Categoria: Saúde
-   - Loja: Shopee
-   - Preço: R$ 37,72
-   - Desconto: 53% OFF
-   - Link: https://s.shopee.com.br/7Ae78YoLQ8
-
-9. **Medidor de Pressão Digital de Braço Automático Monitor Cardíaco LCD c…**
-   - Categoria: Saúde
-   - Loja: Shopee
-   - Preço: R$ 38,99
-   - Desconto: 61% OFF
-   - Link: https://s.shopee.com.br/2gBhmI5TYS
-
-10. **Termômetro De Testa Infravermelha Digital**
-   - Categoria: Saúde
-   - Loja: Shopee
-   - Preço: R$ 26,89
-   - Desconto: 78% OFF
-   - Link: https://s.shopee.com.br/9KibiXkQVF
 
 ## Ações gratuitas recomendadas
 

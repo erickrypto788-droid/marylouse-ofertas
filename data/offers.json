@@ -1,5 +1,26 @@
 [
   {
+    "id": "f46874bca7a0394ac0",
+    "title": "Calça Jeans Plus Size Com Elastano Super Conforto 44 ao 54",
+    "raw_title": "Calça Jeans Plus Size Com Elastano Super Conforto 44 ao 54",
+    "description": "🔥 50% OFF — Oferta encontrada! 📌 Calça Jeans Plus Size Com Elastano Super Conforto 44 ao 54 Confira os detalhes e aproveite enquanto a oferta estiver di...",
+    "marketplace": "Shopee",
+    "category": "Roupas Plus Size",
+    "old_price": "R$ 99,60",
+    "price": "R$ 49,80",
+    "discount_percent": 50.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-maiosq4lapvze8",
+    "affiliate_url": "https://s.shopee.com.br/BUMCbkb8g",
+    "created_at": "06/10/2026 22:15",
+    "created_at_iso": "2026-10-06T22:15:54",
+    "created_ts": 1791324954,
+    "niche": {
+      "key": "shopee_roupas_plus_size",
+      "name": "Roupas Plus Size"
+    }
+  },
+  {
     "id": "51397ababe394cac43",
     "title": "Fritadeira Air Fryer Mondial Oven Digital 127v",
     "raw_title": "Fritadeira Air Fryer Mondial Oven Digital 127v",
@@ -2594,22 +2615,5 @@
       "key": "shopee_bebidas_alimentos",
       "name": "Bebidas e Alimentos"
     }
-  },
-  {
-    "id": "e2d360d27d1ee0b11e",
-    "title": "Cadeira Gamer Profissional Vermelha",
-    "raw_title": "Cadeira Gamer Profissional Ergonômica Giratória Vermelha para Escritório",
-    "description": "🎮 Upgrade no seu setup! Conforto e performance garantidos com a Cadeira Gamer Profissional Ergonômica Giratória Vermelha para Escritório. Perfeita para...",
-    "marketplace": "Mercado Livre",
-    "category": "Casa e Decoração",
-    "old_price": "",
-    "price": "R$ 900,00",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_799416-MLU71044700870_082023-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB26008929?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "05/10/2026 22:01",
-    "created_at_iso": "2026-10-05T22:01:47",
-    "created_ts": 1791237707
   }
 ]

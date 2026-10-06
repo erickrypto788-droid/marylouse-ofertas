@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 06/10/2026 16:09
+Gerado em: 06/10/2026 16:22
 
 ## Como usar
 
@@ -77,8 +77,8 @@ Gerado em: 06/10/2026 16:09
 **Produtos usados:**
 
 - Perfume Attracione Feminino
+- Kit Maquiagem Infantil 32 Peças
 - Attracione Men com Feromônios
-- Kit Body Splash Dolce + Florata Red
 
 ---
 

@@ -1,5 +1,39 @@
 [
   {
+    "id": "611917544e014ba438",
+    "title": "Xiaomi Redmi Note 15",
+    "raw_title": "Xiaomi Redmi Note 15",
+    "description": "🚀 NOVIDADE! Xiaomi Redmi Note 15 chegou! 📱 Tecnologia e performance na palma da sua mão. Com Frete Grátis para todo o Brasil! 🚚",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "",
+    "price": "R$ 1.699,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_893125-MLA113665227289_062026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74419020?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "06/10/2026 09:02",
+    "created_at_iso": "2026-10-06T09:02:59",
+    "created_ts": 1791277379
+  },
+  {
+    "id": "dcb2eaa2a03f77ee92",
+    "title": "Xiaomi Redmi 13 Azul-marinho",
+    "raw_title": "Smartphone Xiaomi Redmi 13 Cor Azul-marinho",
+    "description": "🚨 OPORTUNIDADE IMPERDÍVEL! 🚨 Smartphone Xiaomi Redmi 13 Cor Azul-marinho 📱✨ Alta performance e design elegante para o seu dia a dia!",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "",
+    "price": "R$ 1.337,40",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_921092-MLA99495354242_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB41629336?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "06/10/2026 09:01",
+    "created_at_iso": "2026-10-06T09:01:44",
+    "created_ts": 1791277304
+  },
+  {
     "id": "66dae9a791ae334da4",
     "title": "Vestido Infantil Luxo",
     "raw_title": "Vestido Barrado Manga Infantil Menina Estampado Casual Festa Luxo 4 a 12 Anos",
@@ -2455,22 +2489,5 @@
       "key": "shopee_sapatos_femininos",
       "name": "Sapatos Femininos"
     }
-  },
-  {
-    "id": "aebc601ec02d2efd6b",
-    "title": "Barbeador de Costas Dobrável",
-    "raw_title": "Barbeador Costas Masculino Traseiro Dobrável Aparador Pelos",
-    "description": "✨ Adeus pelos nas costas sem complicação! ✨ Chega de malabarismos! Com o Barbeador Costas Masculino Traseiro Dobrável, você cuida da sua aparência com t...",
-    "marketplace": "Mercado Livre",
-    "category": "Beleza",
-    "old_price": "R$ 286,05",
-    "price": "R$ 229,00",
-    "discount_percent": 20.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_962334-MLA95523966556_102025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51434487?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "05/10/2026 09:01",
-    "created_at_iso": "2026-10-05T09:01:45",
-    "created_ts": 1791190905
   }
 ]

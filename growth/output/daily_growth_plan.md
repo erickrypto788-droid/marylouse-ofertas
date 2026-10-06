@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 06/10/2026 21:23
+Gerado em: 06/10/2026 22:03
 
 ## Categorias prioritárias
 
@@ -13,7 +13,7 @@ Gerado em: 06/10/2026 21:23
 - 📦 **Outros**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 💻 **Informática**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
-- ❤️ **Saúde**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
+- 🍳 **Casa e Cozinha**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 
 ## Top ofertas para destacar
 
@@ -66,26 +66,26 @@ Gerado em: 06/10/2026 21:23
    - Desconto: 33% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB33652298?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-8. **Leitor De Cartão Usb 3.0 Adaptador Micro Sd/sdxc 5gbps Envio Imediato**
+8. **Fritadeira Air Fryer Mondial Oven Digital 127v**
+   - Categoria: Casa e Cozinha
+   - Loja: Mercado Livre
+   - Preço: R$ 949,00
+   - Desconto: 25% OFF
+   - Link: https://www.mercadolivre.com.br/p/MLB54083722?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+9. **Leitor De Cartão Usb 3.0 Adaptador Micro Sd/sdxc 5gbps Envio Imediato**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 20,98
    - Desconto: 70% OFF
    - Link: https://s.shopee.com.br/4LJwA5qxye
 
-9. **Hub USB Type C 8 Em 1 Com Leitor De Cartão Divisor 3.0 2.0 SD TF Dock…**
+10. **Hub USB Type C 8 Em 1 Com Leitor De Cartão Divisor 3.0 2.0 SD TF Dock…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 25,99
    - Desconto: 63% OFF
    - Link: https://s.shopee.com.br/50ZcxJoQci
-
-10. **Teclado Gamer TGT M90B, Rainbow, ABNT2, Branco, TGT-M90B-RBW01**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 48,90
-   - Desconto: 84% OFF
-   - Link: https://s.shopee.com.br/2VsHyikkMm
 
 ## Ações gratuitas recomendadas
 

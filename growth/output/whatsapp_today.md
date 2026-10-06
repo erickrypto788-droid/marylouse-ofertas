@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 06/10/2026 21:23
+Gerado em: 06/10/2026 22:03
 
 ## Como usar
 
@@ -147,14 +147,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
 ```txt
 🍳 Oferta para Casa e Cozinha
 
-Jogo de Panelas Antiaderente 5 Peças Cereja com Revestimento Antiader…
+Fritadeira Air Fryer Mondial Oven Digital 127v
 
-💸 De: R$ 260,00
-🔥 Por: R$ 174,90
-🏷️ 33% OFF
+💸 De: R$ 1.265,00
+🔥 Por: R$ 949,00
+🏷️ 25% OFF
 🛒 Loja: Mercado Livre
 
-Ver oferta: https://www.mercadolivre.com.br/p/MLB33652298?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+Ver oferta: https://www.mercadolivre.com.br/p/MLB54083722?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

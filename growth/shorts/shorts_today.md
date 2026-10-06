@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 06/10/2026 10:22
+Gerado em: 06/10/2026 11:22
 
 ## Como usar
 
@@ -49,12 +49,10 @@ Gerado em: 06/10/2026 10:22
 - growth/shorts/slides/casa_cozinha/01_intro.png
 - growth/shorts/slides/casa_cozinha/02_produto_1.png
 - growth/shorts/slides/casa_cozinha/03_produto_2.png
-- growth/shorts/slides/casa_cozinha/04_produto_3.png
 - growth/shorts/slides/casa_cozinha/05_cta.png
 
 **Produtos usados:**
 
-- Panela de Pressão Panelux 4,5L Classic
 - Jogo de Panelas Antiaderente 5 Peças Cereja com Revestimento Antiader…
 - Painel D'Rossi Painel Para TV para TV até 60" cumaru de mdf/mdp
 
@@ -103,8 +101,8 @@ Gerado em: 06/10/2026 10:22
 **Produtos usados:**
 
 - Fone Xiaomi Redmi Airdots
-- Amplificador de Tela 3D para Celular
 - Fone Bluetooth Pro5 Premium
+- Xiaomi Redmi Note 15
 
 ---
 

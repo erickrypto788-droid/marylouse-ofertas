@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 06/10/2026 10:22
+Gerado em: 06/10/2026 11:22
 
 ## Como usar
 
@@ -102,37 +102,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Casa e Cozinha
-
-**Canal recomendado:** Casa e Cozinha
-
-**Horário sugerido:** 18:00 - 20:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
-
-**Texto pronto:**
-
-```txt
-🍳 Oferta para Casa e Cozinha
-
-Panela de Pressão Panelux 4,5L Classic
-
-💸 De: R$ 115,49
-🔥 Por: R$ 58,90
-🏷️ 49% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/2VsFz5S8ov
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 5 — Moda Feminina
+## Post 4 — Moda Feminina
 
 **Canal recomendado:** Moda Feminina
 
@@ -155,6 +125,36 @@ Calça Pantalona De Linho Com Cinto Fake e Cintura Alta e Bolsos
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/1Avs3p3Yg
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 5 — Casa e Cozinha
+
+**Canal recomendado:** Casa e Cozinha
+
+**Horário sugerido:** 18:00 - 20:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
+
+**Texto pronto:**
+
+```txt
+🍳 Oferta para Casa e Cozinha
+
+Jogo de Panelas Antiaderente 5 Peças Cereja com Revestimento Antiader…
+
+💸 De: R$ 260,00
+🔥 Por: R$ 174,90
+🏷️ 33% OFF
+🛒 Loja: Mercado Livre
+
+Ver oferta: https://www.mercadolivre.com.br/p/MLB33652298?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

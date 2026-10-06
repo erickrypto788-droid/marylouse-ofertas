@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 06/10/2026 10:22
+Gerado em: 06/10/2026 11:22
 
 ## Categorias prioritárias
 
@@ -9,9 +9,9 @@ Gerado em: 06/10/2026 10:22
 - 👟 **Calçados**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 💄 **Beleza**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🏋️ **Esportes**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 📱 **Celulares**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 🧸 **Brinquedos**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
-- 🔌 **Eletrodomésticos**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-eletrodomesticos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_eletrodomesticos
+- ❤️ **Saúde**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 🧒 **Moda Infantil**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-infantil.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-infantil
 
@@ -59,33 +59,33 @@ Gerado em: 06/10/2026 10:22
    - Desconto: 33% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB33652298?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-7. **Panela de Pressão Panelux 4,5L Classic**
-   - Categoria: Casa e Cozinha
+7. **Medidor Pressão Digital De Pulso Com Voz Monitor Inteligente,Aparelho…**
+   - Categoria: Saúde
    - Loja: Shopee
-   - Preço: R$ 58,90
-   - Desconto: 49% OFF
-   - Link: https://s.shopee.com.br/2VsFz5S8ov
+   - Preço: R$ 37,72
+   - Desconto: 53% OFF
+   - Link: https://s.shopee.com.br/7Ae78YoLQ8
 
-8. **Amplificador de Tela 3D para Celular**
-   - Categoria: Celulares
+8. **Medidor de Pressão Digital de Braço Automático Monitor Cardíaco LCD c…**
+   - Categoria: Saúde
    - Loja: Shopee
-   - Preço: R$ 17,99
-   - Desconto: 40% OFF
-   - Link: https://s.shopee.com.br/2VsFuxugiY
+   - Preço: R$ 38,99
+   - Desconto: 61% OFF
+   - Link: https://s.shopee.com.br/2gBhmI5TYS
 
-9. **Kit Body Splash Dolce + Florata Red**
-   - Categoria: Beleza
+9. **Termômetro De Testa Infravermelha Digital**
+   - Categoria: Saúde
    - Loja: Shopee
-   - Preço: R$ 42,90
-   - Desconto: 57% OFF
-   - Link: https://s.shopee.com.br/9zyIFHGgLR
+   - Preço: R$ 26,89
+   - Desconto: 78% OFF
+   - Link: https://s.shopee.com.br/9KibiXkQVF
 
-10. **Attracione Men com Feromônios**
-   - Categoria: Beleza
+10. **Monitor de Pressão Arterial de Pulso Recarregável**
+   - Categoria: Saúde
    - Loja: Shopee
-   - Preço: R$ 57,00
+   - Preço: R$ 39,89
    - Desconto: 80% OFF
-   - Link: https://s.shopee.com.br/9APBFkOK4w
+   - Link: https://s.shopee.com.br/3VknVWVvID
 
 ## Ações gratuitas recomendadas
 

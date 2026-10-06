@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 06/10/2026 00:52
+Gerado em: 06/10/2026 01:05
 
 ## Categorias prioritárias
 
@@ -45,47 +45,47 @@ Gerado em: 06/10/2026 00:52
    - Desconto: 64% OFF
    - Link: https://s.shopee.com.br/1gJ8OTZyn9
 
-5. **Panela de Pressão Panelux 4,5L Classic**
+5. **Jogo de Panelas Antiaderente 5 Peças Cereja com Revestimento Antiader…**
+   - Categoria: Casa e Cozinha
+   - Loja: Mercado Livre
+   - Preço: R$ 174,90
+   - Desconto: 33% OFF
+   - Link: https://www.mercadolivre.com.br/p/MLB33652298?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+6. **Panela de Pressão Panelux 4,5L Classic**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 58,90
    - Desconto: 49% OFF
    - Link: https://s.shopee.com.br/2VsFz5S8ov
 
-6. **Amplificador de Tela 3D para Celular**
+7. **Amplificador de Tela 3D para Celular**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 17,99
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/2VsFuxugiY
 
-7. **SSD SATA III de 2,5 polegadas 120GB 128GB 240GB 256GB notebook deskto…**
+8. **SSD SATA III de 2,5 polegadas 120GB 128GB 240GB 256GB notebook deskto…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 79,07
    - Desconto: 41% OFF
    - Link: https://s.shopee.com.br/3B7wBEUGkY
 
-8. **Estojo Maquiagem Infantil Coração**
+9. **Estojo Maquiagem Infantil Coração**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 21,99
    - Desconto: 45% OFF
    - Link: https://s.shopee.com.br/1LgHvjhnSd
 
-9. **Webcam Câmera Computador Full HD 1080x1920p 2MP USB Plug Play Microfo…**
+10. **Webcam Câmera Computador Full HD 1080x1920p 2MP USB Plug Play Microfo…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 28,00
    - Desconto: 59% OFF
    - Link: https://s.shopee.com.br/1VzjSTbaQ1
-
-10. **Mouse gamer para jogo computador 3200dpi com LED laser X7 USB Botões…**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 22,88
-   - Desconto: 62% OFF
-   - Link: https://s.shopee.com.br/4B0UdNERPj
 
 ## Ações gratuitas recomendadas
 

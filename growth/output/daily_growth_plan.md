@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 06/10/2026 13:03
+Gerado em: 06/10/2026 13:20
 
 ## Categorias prioritárias
 
-- 🍼 **Mãe e Bebê**: 20 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 👟 **Calçados**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 🍼 **Mãe e Bebê**: 19 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 💻 **Informática**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 👟 **Calçados**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 🏋️ **Esportes**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 💄 **Beleza**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🧸 **Brinquedos**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - ❤️ **Saúde**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
-- 🧒 **Moda Infantil**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-infantil.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-infantil
+- 🔌 **Eletrodomésticos**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-eletrodomesticos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_eletrodomesticos
 
 ## Top ofertas para destacar
 
@@ -59,33 +59,33 @@ Gerado em: 06/10/2026 13:03
    - Desconto: 33% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB33652298?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-7. **NINHO REDUTOR DE BERÇO | COM ZIPER E LAÇO | TROCADOR PORTÁTIL |…**
+7. **Mochila de Viagem Masculina e Feminina Impermeável e Reforçada com Co…**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 94,98
+   - Desconto: 68% OFF
+   - Link: https://s.shopee.com.br/7VGxfPRJBJ
+
+8. **NINHO REDUTOR DE BERÇO | COM ZIPER E LAÇO | TROCADOR PORTÁTIL |…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 45,89
    - Desconto: 67% OFF
    - Link: https://s.shopee.com.br/2gBhqP3f5d
 
-8. **Kit de 3 Lençol Cercado De Bebê Chiqueirinho com elástico Percal 400…**
+9. **Kit de 3 Lençol Cercado De Bebê Chiqueirinho com elástico Percal 400…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 28,47
    - Desconto: 57% OFF
    - Link: https://s.shopee.com.br/4B0Vd9xx2m
 
-9. **Berço Portátil Moises Co-bed**
+10. **Berço Portátil Moises Co-bed**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 519,49
    - Desconto: 71% OFF
    - Link: https://s.shopee.com.br/1BMu3e9N8A
-
-10. **Ração Gato Estimacat Premium Adulto Sabor Carne 15kg**
-   - Categoria: Pet
-   - Loja: Mercado Livre
-   - Preço: R$ 267,25
-   - Desconto: 25% OFF
-   - Link: https://www.mercadolivre.com.br/p/MLB66541712?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ## Ações gratuitas recomendadas
 

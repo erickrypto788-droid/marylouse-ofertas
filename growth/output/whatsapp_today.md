@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 06/10/2026 00:05
+Gerado em: 06/10/2026 00:21
 
 ## Como usar
 
@@ -147,14 +147,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Vestido Longo Elegante
+Calça Pantalona De Linho Com Cinto Fake e Cintura Alta e Bolsos
 
-💸 De: R$ 89,16
-🔥 Por: R$ 32,99
-🏷️ 63% OFF
+💸 De: R$ 99,97
+🔥 Por: R$ 39,99
+🏷️ 60% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/2gBfmf8f8E
+Ver oferta: https://s.shopee.com.br/1Avs3p3Yg
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

@@ -1,5 +1,22 @@
 [
   {
+    "id": "63643a6fe30fd545ba",
+    "title": "Babá Eletrônica Hellobaby Hb65-2 Monitor Bebê 3.2 Branco",
+    "raw_title": "Babá Eletrônica Hellobaby Hb65-2 Monitor Bebê 3.2 Branco",
+    "description": "🔥 Oferta encontrada! 📌 Babá Eletrônica Hellobaby Hb65-2 Monitor Bebê 3.2 Branco Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Mãe e Bebê",
+    "old_price": "",
+    "price": "R$ 653,99",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_709655-MLA99560771504_122025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51901869?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "06/10/2026 13:01",
+    "created_at_iso": "2026-10-06T13:01:34",
+    "created_ts": 1791291694
+  },
+  {
     "id": "efa3bea14517ba9348",
     "title": "NINHO REDUTOR DE BERÇO | COM ZIPER E LAÇO | TROCADOR PORTÁTIL |…",
     "raw_title": "NINHO REDUTOR DE BERÇO | COM ZIPER E LAÇO | TROCADOR PORTÁTIL | 400 FIOS",
@@ -2601,43 +2618,5 @@
     "created_at": "05/10/2026 13:02",
     "created_at_iso": "2026-10-05T13:02:42",
     "created_ts": 1791205362
-  },
-  {
-    "id": "b46cf5f7e053722e4d",
-    "title": "Soundbar Samsung Hw-b450f + Soundbar Hw-b400f",
-    "raw_title": "Soundbar Samsung Hw-b450f + Soundbar Hw-b400f",
-    "description": "🔥 Oferta encontrada! 📌 Soundbar Samsung Hw-b450f + Soundbar Hw-b400f Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Mercado Livre",
-    "category": "Informática",
-    "old_price": "",
-    "price": "R$ 999,00",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_721586-MLA106267176725_012026-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65128496?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "05/10/2026 13:01",
-    "created_at_iso": "2026-10-05T13:01:32",
-    "created_ts": 1791205292
-  },
-  {
-    "id": "43cf899a754b9c141e",
-    "title": "Creme Hidratante Facial 5% Manteiga de Karité + 5% Glicerina + 2% Nia…",
-    "raw_title": "Creme Hidratante Facial 5% Manteiga de Karité + 5% Glicerina + 2% Niacinamida CH-01Principia - 50g",
-    "description": "🔥 9% OFF — Oferta encontrada! 📌 Creme Hidratante Facial 5% Manteiga de Karité + 5% Glicerina + 2% Niacinamida CH-01Principia - 50g Confira os detalhes e...",
-    "marketplace": "Shopee",
-    "category": "Beleza",
-    "old_price": "R$ 42,86",
-    "price": "R$ 39,00",
-    "discount_percent": 9.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-maa1iap089dl6d",
-    "affiliate_url": "https://s.shopee.com.br/BULGv8PSk",
-    "created_at": "05/10/2026 12:20",
-    "created_at_iso": "2026-10-05T12:20:26",
-    "created_ts": 1791202826,
-    "niche": {
-      "key": "shopee_beleza",
-      "name": "Beleza"
-    }
   }
 ]

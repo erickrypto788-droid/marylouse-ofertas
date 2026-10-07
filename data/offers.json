@@ -1,5 +1,22 @@
 [
   {
+    "id": "fcd13e1dadb6abf8ed",
+    "title": "Ração Estimacat Filhote Frango 10kg",
+    "raw_title": "Ração Gato Estimacat Premium Filhote Sabor Frango 10kg",
+    "description": "🚨 Super oferta para seu filhote! 😻 Garanta a Ração Gato Estimacat Premium Filhote Sabor Frango 10kg com 25% de desconto! Seu gatinho vai amar! 🐾 🚚 Frete...",
+    "marketplace": "Mercado Livre",
+    "category": "Pet",
+    "old_price": "R$ 337,43",
+    "price": "R$ 253,07",
+    "discount_percent": 25.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_921645-MLA109036799255_032026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66844874?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "07/10/2026 23:01",
+    "created_at_iso": "2026-10-07T23:01:56",
+    "created_ts": 1791414116
+  },
+  {
     "id": "f1890f015fb328e75d",
     "title": "P9 Air Bluetooth Music Fone De Ouvido Estéreo Sem Fio Com Microfone P…",
     "raw_title": "P9 Air Bluetooth Music Fone De Ouvido Estéreo Sem Fio Com Microfone PRETO",
@@ -2100,22 +2117,5 @@
     "created_at": "06/10/2026 23:02",
     "created_at_iso": "2026-10-06T23:02:51",
     "created_ts": 1791327771
-  },
-  {
-    "id": "4bc2e0f476fdb43920",
-    "title": "Combo Makita 12V Furadeira + Parafusadeira de Impacto",
-    "raw_title": "Combo Furadeira Parafusadeira DF333D + Parafusadeira de Impacto TD110D 12V - CLX224SAX",
-    "description": "🚀 PODER EM SUAS MÃOS! 💪 Aproveite o Combo Furadeira Parafusadeira DF333D + Parafusadeira de Impacto TD110D 12V - CLX224SAX! A dupla Makita que você prec...",
-    "marketplace": "Mercado Livre",
-    "category": "Ferramentas",
-    "old_price": "R$ 1.429,00",
-    "price": "R$ 1.199,00",
-    "discount_percent": 16.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_760221-MLA99494941634_112025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB19765397?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "06/10/2026 23:01",
-    "created_at_iso": "2026-10-06T23:01:47",
-    "created_ts": 1791327707
   }
 ]

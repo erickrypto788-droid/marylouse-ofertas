@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 07/10/2026 02:05
+Gerado em: 07/10/2026 02:20
 
 ## Como usar
 
@@ -72,7 +72,37 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 3 — Mamãe e Bebê
+## Post 3 — Ofertas Pet
+
+**Canal recomendado:** Ofertas Pet
+
+**Horário sugerido:** 17:00 - 20:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
+
+**Texto pronto:**
+
+```txt
+🐶 Oferta para Ofertas Pet
+
+Ventilador de Teto com Lampada LED Integrada Bocal E27 6 Pétalas 60w…
+
+💸 De: R$ 148,54
+🔥 Por: R$ 51,99
+🏷️ 65% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/7KxYKfAkRL
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 4 — Mamãe e Bebê
 
 **Canal recomendado:** Mamãe e Bebê
 
@@ -102,7 +132,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Moda Feminina
+## Post 5 — Moda Feminina
 
 **Canal recomendado:** Moda Feminina
 
@@ -132,7 +162,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 5 — Casa e Cozinha
+## Post 6 — Casa e Cozinha
 
 **Canal recomendado:** Casa e Cozinha
 
@@ -147,44 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
 ```txt
 🍳 Oferta para Casa e Cozinha
 
-Fritadeira Air Fryer Mondial Oven Digital 127v
+Liquidificador Portátil Blender Elgin Daily Blend 350w 750ml 2 Copos…
 
-💸 De: R$ 1.265,00
-🔥 Por: R$ 949,00
-🏷️ 25% OFF
-🛒 Loja: Mercado Livre
+💸 De: R$ 499,96
+🔥 Por: R$ 134,99
+🏷️ 73% OFF
+🛒 Loja: Shopee
 
-Ver oferta: https://www.mercadolivre.com.br/p/MLB54083722?matt_word=marylouse&matt_tool=50459180&forceInApp=true
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 6 — Ofertas Pet
-
-**Canal recomendado:** Ofertas Pet
-
-**Horário sugerido:** 17:00 - 20:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
-
-**Texto pronto:**
-
-```txt
-🐶 Oferta para Ofertas Pet
-
-Ração Gato Estimacat Premium Adulto Sabor Carne 15kg
-
-💸 De: R$ 356,33
-🔥 Por: R$ 267,25
-🏷️ 25% OFF
-🛒 Loja: Mercado Livre
-
-Ver oferta: https://www.mercadolivre.com.br/p/MLB66541712?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+Ver oferta: https://s.shopee.com.br/7faOjH5Hld
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

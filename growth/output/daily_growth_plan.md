@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 07/10/2026 02:05
+Gerado em: 07/10/2026 02:20
 
 ## Categorias prioritárias
 
@@ -11,9 +11,9 @@ Gerado em: 07/10/2026 02:05
 - 💻 **Informática**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 💄 **Beleza**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🍼 **Mãe e Bebê**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 🔌 **Eletrodomésticos**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-eletrodomesticos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_eletrodomesticos
 - 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 👕 **Moda Masculina**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
-- ❤️ **Saúde**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 
 ## Top ofertas para destacar
 
@@ -73,19 +73,19 @@ Gerado em: 07/10/2026 02:05
    - Desconto: 47% OFF
    - Link: https://s.shopee.com.br/3VkopvitG1
 
-9. **Carregador iPhone Turbo Tipo-C 20W + Cabo Lightining para IPhone Carg…**
-   - Categoria: Celulares
+9. **Ventilador de Teto com Lampada LED Integrada Bocal E27 6 Pétalas 60w…**
+   - Categoria: Pet
    - Loja: Shopee
-   - Preço: R$ 23,99
-   - Desconto: 52% OFF
-   - Link: https://s.shopee.com.br/3qNg67Cp9d
+   - Preço: R$ 51,99
+   - Desconto: 65% OFF
+   - Link: https://s.shopee.com.br/7KxYKfAkRL
 
-10. **Fritadeira Air Fryer Mondial Oven Digital 127v**
+10. **Liquidificador Portátil Blender Elgin Daily Blend 350w 750ml 2 Copos…**
    - Categoria: Casa e Cozinha
-   - Loja: Mercado Livre
-   - Preço: R$ 949,00
-   - Desconto: 25% OFF
-   - Link: https://www.mercadolivre.com.br/p/MLB54083722?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+   - Loja: Shopee
+   - Preço: R$ 134,99
+   - Desconto: 73% OFF
+   - Link: https://s.shopee.com.br/7faOjH5Hld
 
 ## Ações gratuitas recomendadas
 

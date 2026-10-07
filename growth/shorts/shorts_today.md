@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 07/10/2026 11:19
+Gerado em: 07/10/2026 12:22
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 07/10/2026 11:19
 **Produtos usados:**
 
 - Kit 10 Unidades Fralda De Pano Estampada 60 x 60 Enxoval Infantil Beb…
-- Toalha Fralda Soft Bebê C/ Capuz
-- NINHO REDUTOR DE BERÇO | COM ZIPER E LAÇO | TROCADOR PORTÁTIL |…
+- Kit 48 Carrinhos De Metal Fricção Brinquedo Menino Maleta Pista Prese…
+- Trocador Anatômico Impermeável
 
 ---
 

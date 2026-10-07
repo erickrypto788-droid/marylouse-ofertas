@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 07/10/2026 09:10
+Gerado em: 07/10/2026 09:22
 
 ## Como usar
 
@@ -12,7 +12,37 @@ Gerado em: 07/10/2026 09:10
 
 ---
 
-## Post 1 — Beleza e Cuidados
+## Post 1 — Mamãe e Bebê
+
+**Canal recomendado:** Mamãe e Bebê
+
+**Horário sugerido:** 09:00 - 11:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
+
+**Texto pronto:**
+
+```txt
+🍼 Oferta para Mamãe e Bebê
+
+Kit 10 Unidades Fralda De Pano Estampada 60 x 60 Enxoval Infantil Beb…
+
+💸 De: R$ 120,75
+🔥 Por: R$ 28,98
+🏷️ 76% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/AAHkAiPnFh
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 2 — Beleza e Cuidados
 
 **Canal recomendado:** Beleza e Cuidados
 
@@ -42,7 +72,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 2 — Ofertas Pet
+## Post 3 — Ofertas Pet
 
 **Canal recomendado:** Ofertas Pet
 
@@ -65,36 +95,6 @@ Ventilador de Teto com Lampada LED Integrada Bocal E27 6 Pétalas 60w…
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/7KxYKfAkRL
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 3 — Mamãe e Bebê
-
-**Canal recomendado:** Mamãe e Bebê
-
-**Horário sugerido:** 09:00 - 11:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
-
-**Texto pronto:**
-
-```txt
-🍼 Oferta para Mamãe e Bebê
-
-Boneca Lola Baby Com Chupeta Rosa Menina Brinquedo Infantil Bebê
-
-💸 De: R$ 70,19
-🔥 Por: R$ 37,90
-🏷️ 46% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/7KxYb8pUMv
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

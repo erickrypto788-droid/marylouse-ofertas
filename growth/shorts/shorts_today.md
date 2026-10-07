@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 07/10/2026 09:10
+Gerado em: 07/10/2026 09:22
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 07/10/2026 09:10
 
 **Produtos usados:**
 
+- Kit 10 Unidades Fralda De Pano Estampada 60 x 60 Enxoval Infantil Beb…
 - Toalha Fralda Soft Bebê C/ Capuz
 - NINHO REDUTOR DE BERÇO | COM ZIPER E LAÇO | TROCADOR PORTÁTIL |…
-- Berço Portátil Moises Co-bed
 
 ---
 

@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 07/10/2026 17:22
+Gerado em: 07/10/2026 18:22
 
 ## Como usar
 
@@ -56,7 +56,7 @@ Gerado em: 07/10/2026 17:22
 
 - Liquidificador Portátil Blender Elgin Daily Blend 350w 750ml 2 Copos…
 - Fritadeira Air Fryer Mondial Oven Digital 127v
-- Elgin Air Fryer Fritadeira Air Fryer
+- Azeite Oliva Extra Virgem Mercatto
 
 ---
 
@@ -104,7 +104,7 @@ Gerado em: 07/10/2026 17:22
 
 - Smartphone 6.78" 5G 16GB+512GB Câmera HD
 - Lente para Câmera de Celular 0.45X Grande Angular + Macro para Smartp…
-- Leitor De Cartão Usb 3.0 Adaptador Micro Sd/sdxc 5gbps Envio Imediato
+- Carregador iPhone Turbo Tipo-C 20W + Cabo Lightining para IPhone Carg…
 
 ---
 
@@ -127,7 +127,7 @@ Gerado em: 07/10/2026 17:22
 **Produtos usados:**
 
 - Protetor Solar Beauty Of Joseon SPF50+
-- Bola Feijão ioga yoga com bomba Amendoim pilates ginastica exercicio…
 - Kit 4 Potes Herméticos 2L Com Copo Medidor Organizador Mantimentos Ar…
+- Arroz Jasmine Tailandês Aromático 1kg Arroz De Altitude
 
 ---

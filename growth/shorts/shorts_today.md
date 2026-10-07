@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 07/10/2026 14:05
+Gerado em: 07/10/2026 14:22
 
 ## Como usar
 
@@ -126,8 +126,8 @@ Gerado em: 07/10/2026 14:05
 
 **Produtos usados:**
 
+- Protetor Solar Beauty Of Joseon SPF50+
 - Bola Feijão ioga yoga com bomba Amendoim pilates ginastica exercicio…
-- Arroz Jasmine Tailandês Aromático 1kg Arroz De Altitude
-- 35 Escova Dental + 35 Porta Escova Dental + 35 Creme Dental Sortidas
+- Kit 4 Potes Herméticos 2L Com Copo Medidor Organizador Mantimentos Ar…
 
 ---

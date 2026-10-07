@@ -1,15 +1,15 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 07/10/2026 01:22
+Gerado em: 07/10/2026 02:05
 
 ## Categorias prioritárias
 
 - 👟 **Calçados**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 🏋️ **Esportes**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
+- 📱 **Celulares**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 👗 **Moda Feminina**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
+- 🏋️ **Esportes**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 💻 **Informática**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 💄 **Beleza**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 🍼 **Mãe e Bebê**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 👕 **Moda Masculina**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
@@ -17,75 +17,75 @@ Gerado em: 07/10/2026 01:22
 
 ## Top ofertas para destacar
 
-1. **Lente para Câmera de Celular 0.45X Grande Angular + Macro para Smartp…**
+1. **Smartphone 6.78" 5G 16GB+512GB Câmera HD**
+   - Categoria: Celulares
+   - Loja: Mercado Livre
+   - Preço: R$ 1.380,00
+   - Desconto: 58% OFF
+   - Link: https://www.mercadolivre.com.br/p/MLB78262248?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+2. **Lente para Câmera de Celular 0.45X Grande Angular + Macro para Smartp…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 19,79
    - Desconto: 51% OFF
    - Link: https://s.shopee.com.br/5At3gYywtu
 
-2. **Mesa Dobrável Notebook Retrátil Home Office Apoio Cama Sofá Trabalho…**
+3. **Mesa Dobrável Notebook Retrátil Home Office Apoio Cama Sofá Trabalho…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 39,99
    - Desconto: 55% OFF
    - Link: https://s.shopee.com.br/1VzjWZiya6
 
-3. **Mochila Masculina Esportiva Impermeável para Notebook, Mochila Escola…**
+4. **Mochila Masculina Esportiva Impermeável para Notebook, Mochila Escola…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 37,99
    - Desconto: 53% OFF
    - Link: https://s.shopee.com.br/1BMuBtebnC
 
-4. **Perfume Attracione Feminino**
+5. **Perfume Attracione Feminino**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 37,00
    - Desconto: 78% OFF
    - Link: https://s.shopee.com.br/AAHiRaG30S
 
-5. **Fone Xiaomi Redmi Airdots**
+6. **Fone Xiaomi Redmi Airdots**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 19,79
    - Desconto: 61% OFF
    - Link: https://s.shopee.com.br/80DDjMfjPK
 
-6. **Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mous…**
+7. **Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mous…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 50,99
    - Desconto: 41% OFF
    - Link: https://s.shopee.com.br/AAHj6oDEIg
 
-7. **Toalha Fralda Soft Bebê C/ Capuz**
+8. **Toalha Fralda Soft Bebê C/ Capuz**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 31,99
    - Desconto: 47% OFF
    - Link: https://s.shopee.com.br/3VkopvitG1
 
-8. **Carregador iPhone Turbo Tipo-C 20W + Cabo Lightining para IPhone Carg…**
+9. **Carregador iPhone Turbo Tipo-C 20W + Cabo Lightining para IPhone Carg…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 23,99
    - Desconto: 52% OFF
    - Link: https://s.shopee.com.br/3qNg67Cp9d
 
-9. **Fritadeira Air Fryer Mondial Oven Digital 127v**
+10. **Fritadeira Air Fryer Mondial Oven Digital 127v**
    - Categoria: Casa e Cozinha
    - Loja: Mercado Livre
    - Preço: R$ 949,00
    - Desconto: 25% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB54083722?matt_word=marylouse&matt_tool=50459180&forceInApp=true
-
-10. **Leitor De Cartão Usb 3.0 Adaptador Micro Sd/sdxc 5gbps Envio Imediato**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 20,98
-   - Desconto: 70% OFF
-   - Link: https://s.shopee.com.br/4LJwA5qxye
 
 ## Ações gratuitas recomendadas
 

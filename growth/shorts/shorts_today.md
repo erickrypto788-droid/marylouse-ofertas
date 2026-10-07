@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 07/10/2026 21:18
+Gerado em: 07/10/2026 22:22
 
 ## Como usar
 
@@ -49,13 +49,11 @@ Gerado em: 07/10/2026 21:18
 - growth/shorts/slides/casa_cozinha/01_intro.png
 - growth/shorts/slides/casa_cozinha/02_produto_1.png
 - growth/shorts/slides/casa_cozinha/03_produto_2.png
-- growth/shorts/slides/casa_cozinha/04_produto_3.png
 - growth/shorts/slides/casa_cozinha/05_cta.png
 
 **Produtos usados:**
 
 - Liquidificador Portátil Blender Elgin Daily Blend 350w 750ml 2 Copos…
-- Fritadeira Air Fryer Mondial Oven Digital 127v
 - Azeite Oliva Extra Virgem Mercatto
 
 ---
@@ -104,7 +102,7 @@ Gerado em: 07/10/2026 21:18
 
 - Smartphone 6.78" 5G 16GB+512GB Câmera HD
 - Lente para Câmera de Celular 0.45X Grande Angular + Macro para Smartp…
-- Carregador iPhone Turbo Tipo-C 20W + Cabo Lightining para IPhone Carg…
+- Basike Carregador Portátil Power Bank 20000mAh Bateria Externa Para i…
 
 ---
 

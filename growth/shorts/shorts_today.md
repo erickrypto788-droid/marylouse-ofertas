@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 07/10/2026 06:23
+Gerado em: 07/10/2026 08:26
 
 ## Como usar
 
@@ -79,8 +79,8 @@ Gerado em: 07/10/2026 06:23
 **Produtos usados:**
 
 - Chapinha Profissional Nano Titanium
-- Perfume Attracione Feminino
 - Kit 4 Perfumes Femininos Árabes
+- Modelador Triondas 22mm
 
 ---
 

@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 07/10/2026 07:18
+Gerado em: 07/10/2026 08:26
 
 ## Categorias prioritárias
 
 - 🏋️ **Esportes**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 🍼 **Mãe e Bebê**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 💄 **Beleza**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- ❤️ **Saúde**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 📱 **Celulares**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
-- 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 👗 **Moda Feminina**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
-- 💻 **Informática**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 🧒 **Moda Infantil**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-infantil.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-infantil
+- 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 🧸 **Brinquedos**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
+- 💄 **Beleza**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 💻 **Informática**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 
 ## Top ofertas para destacar
 
@@ -52,40 +52,40 @@ Gerado em: 07/10/2026 07:18
    - Desconto: 53% OFF
    - Link: https://s.shopee.com.br/1BMuBtebnC
 
-6. **Perfume Attracione Feminino**
-   - Categoria: Beleza
-   - Loja: Shopee
-   - Preço: R$ 37,00
-   - Desconto: 78% OFF
-   - Link: https://s.shopee.com.br/AAHiRaG30S
-
-7. **Comedouro Elevado Duplo Ração Gato Porcelana Acrilico 190ml Porta Rac…**
+6. **Comedouro Elevado Duplo Ração Gato Porcelana Acrilico 190ml Porta Rac…**
    - Categoria: Pet
    - Loja: Mercado Livre
    - Preço: R$ 48,40
    - Desconto: 39% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-8. **Kit 4 Perfumes Femininos Árabes**
+7. **Kit 4 Perfumes Femininos Árabes**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 36,49
    - Desconto: 47% OFF
    - Link: https://s.shopee.com.br/W7EGELLXA
 
-9. **Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mous…**
+8. **Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mous…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 50,99
    - Desconto: 41% OFF
    - Link: https://s.shopee.com.br/AAHj6oDEIg
 
-10. **Toalha Fralda Soft Bebê C/ Capuz**
+9. **Toalha Fralda Soft Bebê C/ Capuz**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 31,99
    - Desconto: 47% OFF
    - Link: https://s.shopee.com.br/3VkopvitG1
+
+10. **Medidor Glicose G-tech Vita**
+   - Categoria: Saúde
+   - Loja: Shopee
+   - Preço: R$ 45,90
+   - Desconto: 65% OFF
+   - Link: https://s.shopee.com.br/5q8jY7Ax21
 
 ## Ações gratuitas recomendadas
 

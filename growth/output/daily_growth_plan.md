@@ -1,91 +1,91 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 07/10/2026 11:05
+Gerado em: 07/10/2026 11:19
 
 ## Categorias prioritárias
 
 - 🍼 **Mãe e Bebê**: 15 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 👗 **Moda Feminina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
-- ❤️ **Saúde**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
+- 💻 **Informática**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
-- 💻 **Informática**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- ❤️ **Saúde**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 💄 **Beleza**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🏋️ **Esportes**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 👜 **Bolsas**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 - 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
-- 🐶 **Pet**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 
 ## Top ofertas para destacar
 
-1. **MochilaMasculino E Feminino Bolsa Viagem Resistente A Água Notebook E…**
+1. **Mochila Escolar Reforçada Notebook Impermeável Cabo De Aço**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 49,90
+   - Desconto: 52% OFF
+   - Link: https://s.shopee.com.br/9KidJQOw3c
+
+2. **Mochila Bolsa Reforçada Notebook Resistente Trabalho Faculdade Coreana**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 29,80
+   - Desconto: 59% OFF
+   - Link: https://s.shopee.com.br/7Ae8jROFPG
+
+3. **MochilaMasculino E Feminino Bolsa Viagem Resistente A Água Notebook E…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 37,99
    - Desconto: 58% OFF
    - Link: https://s.shopee.com.br/AUuadVccrk
 
-2. **Kit 10 Unidades Fralda De Pano Estampada 60 x 60 Enxoval Infantil Beb…**
+4. **Kit 10 Unidades Fralda De Pano Estampada 60 x 60 Enxoval Infantil Beb…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 28,98
    - Desconto: 76% OFF
    - Link: https://s.shopee.com.br/AAHkAiPnFh
 
-3. **Chapinha Profissional Nano Titanium**
+5. **Chapinha Profissional Nano Titanium**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 34,99
    - Desconto: 61% OFF
    - Link: https://s.shopee.com.br/5VVuDQBFRs
 
-4. **Smartphone 6.78" 5G 16GB+512GB Câmera HD**
+6. **Smartphone 6.78" 5G 16GB+512GB Câmera HD**
    - Categoria: Celulares
    - Loja: Mercado Livre
    - Preço: R$ 1.380,00
    - Desconto: 58% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB78262248?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-5. **Lente para Câmera de Celular 0.45X Grande Angular + Macro para Smartp…**
+7. **Lente para Câmera de Celular 0.45X Grande Angular + Macro para Smartp…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 19,79
    - Desconto: 51% OFF
    - Link: https://s.shopee.com.br/5At3gYywtu
 
-6. **Mesa Dobrável Notebook Retrátil Home Office Apoio Cama Sofá Trabalho…**
+8. **Mesa Dobrável Notebook Retrátil Home Office Apoio Cama Sofá Trabalho…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 39,99
    - Desconto: 55% OFF
    - Link: https://s.shopee.com.br/1VzjWZiya6
 
-7. **Mochila Masculina Esportiva Impermeável para Notebook, Mochila Escola…**
+9. **Mochila Masculina Esportiva Impermeável para Notebook, Mochila Escola…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 37,99
    - Desconto: 53% OFF
    - Link: https://s.shopee.com.br/1BMuBtebnC
 
-8. **Comedouro Elevado Duplo Ração Gato Porcelana Acrilico 190ml Porta Rac…**
+10. **Comedouro Elevado Duplo Ração Gato Porcelana Acrilico 190ml Porta Rac…**
    - Categoria: Pet
    - Loja: Mercado Livre
    - Preço: R$ 48,40
    - Desconto: 39% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true
-
-9. **Kit 4 Perfumes Femininos Árabes**
-   - Categoria: Beleza
-   - Loja: Shopee
-   - Preço: R$ 36,49
-   - Desconto: 47% OFF
-   - Link: https://s.shopee.com.br/W7EGELLXA
-
-10. **Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mous…**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 50,99
-   - Desconto: 41% OFF
-   - Link: https://s.shopee.com.br/AAHj6oDEIg
 
 ## Ações gratuitas recomendadas
 

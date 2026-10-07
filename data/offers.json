@@ -1,5 +1,22 @@
 [
   {
+    "id": "fe65f8fa5d38fb65d1",
+    "title": "Cama Box Solteiro Orthoflex",
+    "raw_title": "Cama Box Solteiro: Colchão Molas Ensacadas Orthoflex Memor",
+    "description": "✨ Conforto e qualidade para suas noites! ✨ Aproveite a Cama Box Solteiro com Colchão de Molas Ensacadas Orthoflex Memor e transforme seu quarto em um ve...",
+    "marketplace": "Mercado Livre",
+    "category": "Casa e Decoração",
+    "old_price": "R$ 1.300,94",
+    "price": "R$ 1.235,89",
+    "discount_percent": 5.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_758365-MLA99458220674_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB48409016?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "07/10/2026 11:03",
+    "created_at_iso": "2026-10-07T11:03:42",
+    "created_ts": 1791371022
+  },
+  {
     "id": "a2b765b7f28de4beac",
     "title": "MochilaMasculino E Feminino Bolsa Viagem Resistente A Água Notebook E…",
     "raw_title": "MochilaMasculino E Feminino Bolsa Viagem Resistente A Água Notebook Escolar Executiva Trabalho Faculdade",
@@ -2306,69 +2323,6 @@
     "niche": {
       "key": "shopee_saude",
       "name": "Saúde"
-    }
-  },
-  {
-    "id": "b52215e7fadc7a20e5",
-    "title": "Tapete de Atividades Térmico Infantil Emborrachado Educativo Bebê Cri…",
-    "raw_title": "Tapete de Atividades Térmico Infantil Emborrachado Educativo Bebê Crianças Tatame Dobrável Estampas",
-    "description": "🔥 45% OFF — Oferta encontrada! 📌 Tapete de Atividades Térmico Infantil Emborrachado Educativo Bebê Crianças Tatame Dobrável Estampas Confira os detalhes...",
-    "marketplace": "Shopee",
-    "category": "Brinquedos e Hobbies",
-    "old_price": "R$ 132,71",
-    "price": "R$ 72,99",
-    "discount_percent": 45.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh3h9ri6ul1cf5",
-    "affiliate_url": "https://s.shopee.com.br/9APBS6rg3t",
-    "created_at": "06/10/2026 10:20",
-    "created_at_iso": "2026-10-06T10:20:28",
-    "created_ts": 1791282028,
-    "niche": {
-      "key": "shopee_brinquedos_hobbies",
-      "name": "Brinquedos e Hobbies"
-    }
-  },
-  {
-    "id": "e44e9cc0b0ad5b8d22",
-    "title": "Kit 30 Jogos da Velha com Tabuleiro 10x10 em MDF 2,7 mm Presentes/Lem…",
-    "raw_title": "Kit 30 Jogos da Velha com Tabuleiro 10x10 em MDF 2,7 mm Presentes/Lembrancinhas/Jogos Educativos",
-    "description": "🔥 31% OFF — Oferta encontrada! 📌 Kit 30 Jogos da Velha com Tabuleiro 10x10 em MDF 2,7 mm Presentes/Lembrancinhas/Jogos Educativos Confira os detalhes e...",
-    "marketplace": "Shopee",
-    "category": "Brinquedos e Hobbies",
-    "old_price": "R$ 35,80",
-    "price": "R$ 24,70",
-    "discount_percent": 31.0,
-    "rating": 5.0,
-    "image": "https://cf.shopee.com.br/file/br-11134201-820l8-mqxyo7vyhbt2a8",
-    "affiliate_url": "https://s.shopee.com.br/7VGxT3BI7j",
-    "created_at": "06/10/2026 10:19",
-    "created_at_iso": "2026-10-06T10:19:24",
-    "created_ts": 1791281964,
-    "niche": {
-      "key": "shopee_brinquedos_hobbies",
-      "name": "Brinquedos e Hobbies"
-    }
-  },
-  {
-    "id": "b457e1db8720691484",
-    "title": "Sapatilha Mary Jane Malbec",
-    "raw_title": "Sapatilha Feminina Mary Jane Confortável Luxo Elegante Sapato Feminino Boneca Bico Quadrado Malbec",
-    "description": "🚨 IMPERDÍVEL! Elegância e conforto aos seus pés! 💖 A Sapatilha Feminina Mary Jane que une luxo e conforto, com bico quadrado e cor Malbec para você arra...",
-    "marketplace": "Shopee",
-    "category": "Brinquedos e Hobbies",
-    "old_price": "R$ 79,83",
-    "price": "R$ 47,90",
-    "discount_percent": 40.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-8257u-mqbvss8r4f0ie7",
-    "affiliate_url": "https://s.shopee.com.br/4B0VUvJVmJ",
-    "created_at": "06/10/2026 10:18",
-    "created_at_iso": "2026-10-06T10:18:20",
-    "created_ts": 1791281900,
-    "niche": {
-      "key": "shopee_brinquedos_hobbies",
-      "name": "Brinquedos e Hobbies"
     }
   }
 ]

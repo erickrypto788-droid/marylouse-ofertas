@@ -1,11 +1,11 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 07/10/2026 23:03
+Gerado em: 07/10/2026 23:19
 
 ## Categorias prioritárias
 
-- 👟 **Calçados**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 📦 **Outros**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 💄 **Beleza**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🍼 **Mãe e Bebê**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
@@ -17,75 +17,75 @@ Gerado em: 07/10/2026 23:03
 
 ## Top ofertas para destacar
 
-1. **Mochila Escolar Reforçada Notebook Impermeável Cabo De Aço**
+1. **Panela de Arroz Elétrica 1.8L**
+   - Categoria: Casa e Cozinha
+   - Loja: Shopee
+   - Preço: R$ 58,88
+   - Desconto: 70% OFF
+   - Link: https://s.shopee.com.br/3LRQxqjfDk
+
+2. **Mochila Escolar Reforçada Notebook Impermeável Cabo De Aço**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 49,90
    - Desconto: 52% OFF
    - Link: https://s.shopee.com.br/9KidJQOw3c
 
-2. **Mochila Bolsa Reforçada Notebook Resistente Trabalho Faculdade Coreana**
+3. **Mochila Bolsa Reforçada Notebook Resistente Trabalho Faculdade Coreana**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 29,80
    - Desconto: 59% OFF
    - Link: https://s.shopee.com.br/7Ae8jROFPG
 
-3. **MochilaMasculino E Feminino Bolsa Viagem Resistente A Água Notebook E…**
+4. **MochilaMasculino E Feminino Bolsa Viagem Resistente A Água Notebook E…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 37,99
    - Desconto: 58% OFF
    - Link: https://s.shopee.com.br/AUuadVccrk
 
-4. **Kit 10 Unidades Fralda De Pano Estampada 60 x 60 Enxoval Infantil Beb…**
+5. **Kit 10 Unidades Fralda De Pano Estampada 60 x 60 Enxoval Infantil Beb…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 28,98
    - Desconto: 76% OFF
    - Link: https://s.shopee.com.br/AAHkAiPnFh
 
-5. **Chapinha Profissional Nano Titanium**
+6. **Chapinha Profissional Nano Titanium**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 34,99
    - Desconto: 61% OFF
    - Link: https://s.shopee.com.br/5VVuDQBFRs
 
-6. **Smartphone 6.78" 5G 16GB+512GB Câmera HD**
+7. **Smartphone 6.78" 5G 16GB+512GB Câmera HD**
    - Categoria: Celulares
    - Loja: Mercado Livre
    - Preço: R$ 1.380,00
    - Desconto: 58% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB78262248?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-7. **Lente para Câmera de Celular 0.45X Grande Angular + Macro para Smartp…**
+8. **Lente para Câmera de Celular 0.45X Grande Angular + Macro para Smartp…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 19,79
    - Desconto: 51% OFF
    - Link: https://s.shopee.com.br/5At3gYywtu
 
-8. **Comedouro Elevado Duplo Ração Gato Porcelana Acrilico 190ml Porta Rac…**
+9. **Comedouro Elevado Duplo Ração Gato Porcelana Acrilico 190ml Porta Rac…**
    - Categoria: Pet
    - Loja: Mercado Livre
    - Preço: R$ 48,40
    - Desconto: 39% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-9. **Kit 4 Perfumes Femininos Árabes**
+10. **Kit 4 Perfumes Femininos Árabes**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 36,49
    - Desconto: 47% OFF
    - Link: https://s.shopee.com.br/W7EGELLXA
-
-10. **Ração Estimacat Filhote Frango 10kg**
-   - Categoria: Pet
-   - Loja: Mercado Livre
-   - Preço: R$ 253,07
-   - Desconto: 25% OFF
-   - Link: https://www.mercadolivre.com.br/p/MLB66844874?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ## Ações gratuitas recomendadas
 

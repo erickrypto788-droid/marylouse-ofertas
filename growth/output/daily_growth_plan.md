@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 07/10/2026 22:22
+Gerado em: 07/10/2026 23:03
 
 ## Categorias prioritárias
 
@@ -11,9 +11,9 @@ Gerado em: 07/10/2026 22:22
 - 🍼 **Mãe e Bebê**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 💻 **Informática**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
+- 🐶 **Pet**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - ❤️ **Saúde**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 🏋️ **Esportes**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 🧒 **Moda Infantil**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-infantil.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-infantil
 
 ## Top ofertas para destacar
 
@@ -80,12 +80,12 @@ Gerado em: 07/10/2026 22:22
    - Desconto: 47% OFF
    - Link: https://s.shopee.com.br/W7EGELLXA
 
-10. **Teclado Gamer Semi-mecânico Rgb Anti-ghosting**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 38,88
-   - Desconto: 74% OFF
-   - Link: https://s.shopee.com.br/5At1pDAdNp
+10. **Ração Estimacat Filhote Frango 10kg**
+   - Categoria: Pet
+   - Loja: Mercado Livre
+   - Preço: R$ 253,07
+   - Desconto: 25% OFF
+   - Link: https://www.mercadolivre.com.br/p/MLB66844874?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ## Ações gratuitas recomendadas
 

@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 07/10/2026 04:22
+Gerado em: 07/10/2026 05:03
 
 ## Categorias prioritárias
 
@@ -66,26 +66,26 @@ Gerado em: 07/10/2026 04:22
    - Desconto: 61% OFF
    - Link: https://s.shopee.com.br/80DDjMfjPK
 
-8. **Kit 4 Perfumes Femininos Árabes**
+8. **Comedouro Elevado Duplo Ração Gato Porcelana Acrilico 190ml Porta Rac…**
+   - Categoria: Pet
+   - Loja: Mercado Livre
+   - Preço: R$ 48,40
+   - Desconto: 39% OFF
+   - Link: https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+9. **Kit 4 Perfumes Femininos Árabes**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 36,49
    - Desconto: 47% OFF
    - Link: https://s.shopee.com.br/W7EGELLXA
 
-9. **Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mous…**
+10. **Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mous…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 50,99
    - Desconto: 41% OFF
    - Link: https://s.shopee.com.br/AAHj6oDEIg
-
-10. **Toalha Fralda Soft Bebê C/ Capuz**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 31,99
-   - Desconto: 47% OFF
-   - Link: https://s.shopee.com.br/3VkopvitG1
 
 ## Ações gratuitas recomendadas
 

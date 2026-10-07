@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 07/10/2026 08:26
+Gerado em: 07/10/2026 09:10
 
 ## Como usar
 
@@ -127,7 +127,7 @@ Gerado em: 07/10/2026 08:26
 **Produtos usados:**
 
 - Bola Feijão ioga yoga com bomba Amendoim pilates ginastica exercicio…
+- Arroz Jasmine Tailandês Aromático 1kg Arroz De Altitude
 - 35 Escova Dental + 35 Porta Escova Dental + 35 Creme Dental Sortidas
-- Detergente Sabão Lava Louça Pastilha + Lava Máquina Unik
 
 ---

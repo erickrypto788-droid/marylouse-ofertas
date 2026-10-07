@@ -1,91 +1,91 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 07/10/2026 02:20
+Gerado em: 07/10/2026 03:22
 
 ## Categorias prioritárias
 
-- 👟 **Calçados**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 📱 **Celulares**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 💄 **Beleza**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 📱 **Celulares**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 👟 **Calçados**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 👗 **Moda Feminina**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
-- 🏋️ **Esportes**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 💻 **Informática**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 💄 **Beleza**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🍼 **Mãe e Bebê**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🔌 **Eletrodomésticos**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-eletrodomesticos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_eletrodomesticos
+- 🏋️ **Esportes**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 👕 **Moda Masculina**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 
 ## Top ofertas para destacar
 
-1. **Smartphone 6.78" 5G 16GB+512GB Câmera HD**
+1. **Chapinha Profissional Nano Titanium**
+   - Categoria: Beleza
+   - Loja: Shopee
+   - Preço: R$ 34,99
+   - Desconto: 61% OFF
+   - Link: https://s.shopee.com.br/5VVuDQBFRs
+
+2. **Smartphone 6.78" 5G 16GB+512GB Câmera HD**
    - Categoria: Celulares
    - Loja: Mercado Livre
    - Preço: R$ 1.380,00
    - Desconto: 58% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB78262248?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-2. **Lente para Câmera de Celular 0.45X Grande Angular + Macro para Smartp…**
+3. **Lente para Câmera de Celular 0.45X Grande Angular + Macro para Smartp…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 19,79
    - Desconto: 51% OFF
    - Link: https://s.shopee.com.br/5At3gYywtu
 
-3. **Mesa Dobrável Notebook Retrátil Home Office Apoio Cama Sofá Trabalho…**
+4. **Mesa Dobrável Notebook Retrátil Home Office Apoio Cama Sofá Trabalho…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 39,99
    - Desconto: 55% OFF
    - Link: https://s.shopee.com.br/1VzjWZiya6
 
-4. **Mochila Masculina Esportiva Impermeável para Notebook, Mochila Escola…**
+5. **Mochila Masculina Esportiva Impermeável para Notebook, Mochila Escola…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 37,99
    - Desconto: 53% OFF
    - Link: https://s.shopee.com.br/1BMuBtebnC
 
-5. **Perfume Attracione Feminino**
+6. **Perfume Attracione Feminino**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 37,00
    - Desconto: 78% OFF
    - Link: https://s.shopee.com.br/AAHiRaG30S
 
-6. **Fone Xiaomi Redmi Airdots**
+7. **Fone Xiaomi Redmi Airdots**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 19,79
    - Desconto: 61% OFF
    - Link: https://s.shopee.com.br/80DDjMfjPK
 
-7. **Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mous…**
+8. **Kit 4 Perfumes Femininos Árabes**
+   - Categoria: Beleza
+   - Loja: Shopee
+   - Preço: R$ 36,49
+   - Desconto: 47% OFF
+   - Link: https://s.shopee.com.br/W7EGELLXA
+
+9. **Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mous…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 50,99
    - Desconto: 41% OFF
    - Link: https://s.shopee.com.br/AAHj6oDEIg
 
-8. **Toalha Fralda Soft Bebê C/ Capuz**
+10. **Toalha Fralda Soft Bebê C/ Capuz**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 31,99
    - Desconto: 47% OFF
    - Link: https://s.shopee.com.br/3VkopvitG1
-
-9. **Ventilador de Teto com Lampada LED Integrada Bocal E27 6 Pétalas 60w…**
-   - Categoria: Pet
-   - Loja: Shopee
-   - Preço: R$ 51,99
-   - Desconto: 65% OFF
-   - Link: https://s.shopee.com.br/7KxYKfAkRL
-
-10. **Liquidificador Portátil Blender Elgin Daily Blend 350w 750ml 2 Copos…**
-   - Categoria: Casa e Cozinha
-   - Loja: Shopee
-   - Preço: R$ 134,99
-   - Desconto: 73% OFF
-   - Link: https://s.shopee.com.br/7faOjH5Hld
 
 ## Ações gratuitas recomendadas
 

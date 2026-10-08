@@ -1,5 +1,47 @@
 [
   {
+    "id": "479768503b8779019a",
+    "title": "Bota Caterpillar Trilha",
+    "raw_title": "Bota Caterpillar Trilha Coturno Adventure Envio Rápido",
+    "description": "🚨 IMPERDÍVEL! Bota Caterpillar para sua próxima aventura! 🚨 Prepare-se para qualquer desafio com a Bota Caterpillar Trilha Coturno Adventure! ⛰️ Confort...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Masculinos",
+    "old_price": "R$ 169,97",
+    "price": "R$ 67,99",
+    "discount_percent": 60.0,
+    "rating": 4.5,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mdxk4jwfjimb43",
+    "affiliate_url": "https://s.shopee.com.br/3LRS1m8sx3",
+    "created_at": "08/10/2026 15:17",
+    "created_at_iso": "2026-10-08T15:17:03",
+    "created_ts": 1791472623,
+    "niche": {
+      "key": "shopee_sapatos_masculinos",
+      "name": "Sapatos Masculinos"
+    }
+  },
+  {
+    "id": "bb24654c5f51d16bde",
+    "title": "Sapatenis Casual Masculino Sola Alta",
+    "raw_title": "Sapatenis Casual Masculino Sneaker Sola Alta Macio Chunky Confortável Estiloso Sola Oversize Lanç",
+    "description": "👟🔥 Seu estilo merece um UP! Sapatenis Masculino com super desconto! Design moderno com sola alta, super macio e confortável. Perfeito para o dia a dia c...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Masculinos",
+    "old_price": "R$ 148,46",
+    "price": "R$ 57,90",
+    "discount_percent": 61.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9650td3b8l544",
+    "affiliate_url": "https://s.shopee.com.br/AKbCMdUyBZ",
+    "created_at": "08/10/2026 15:15",
+    "created_at_iso": "2026-10-08T15:15:56",
+    "created_ts": 1791472556,
+    "niche": {
+      "key": "shopee_sapatos_masculinos",
+      "name": "Sapatos Masculinos"
+    }
+  },
+  {
     "id": "907cbc39fccb196700",
     "title": "Kit 3 Blusas Plus Size Gola V",
     "raw_title": "Kit 3 Blusas Feminina Plus Size Gola V Básica Casual - H00",
@@ -2120,68 +2162,5 @@
     "created_at": "07/10/2026 16:01",
     "created_at_iso": "2026-10-07T16:01:57",
     "created_ts": 1791388917
-  },
-  {
-    "id": "46eb0af758b793b89a",
-    "title": "Kit 4 Potes Herméticos 2L Com Copo Medidor Organizador Mantimentos Ar…",
-    "raw_title": "Kit 4 Potes Herméticos 2L Com Copo Medidor Organizador Mantimentos Arroz Feijão Sabão Em Pó Amaciante Produtos Limpeza",
-    "description": "🔥 38% OFF — Oferta encontrada! 📌 Kit 4 Potes Herméticos 2L Com Copo Medidor Organizador Mantimentos Arroz Feijão Sabão Em Pó Amaciante Produtos Limpeza...",
-    "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
-    "old_price": "R$ 99,92",
-    "price": "R$ 61,95",
-    "discount_percent": 38.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lp-mpol3c90f3lu86",
-    "affiliate_url": "https://s.shopee.com.br/7faPWiu675",
-    "created_at": "07/10/2026 14:20",
-    "created_at_iso": "2026-10-07T14:20:21",
-    "created_ts": 1791382821,
-    "niche": {
-      "key": "shopee_bebidas_alimentos",
-      "name": "Bebidas e Alimentos"
-    }
-  },
-  {
-    "id": "e297805234375e213b",
-    "title": "Protetor Solar Beauty Of Joseon SPF50+",
-    "raw_title": "Beauty Of Joseon relief sun rice probiotics / niacinamide sun cream protetor solar SPF50+ PA++10ml,50ml,50ml 1+1",
-    "description": "Pele protegida e radiante! ✨ Protetor Solar Beauty Of Joseon Relief Sun com Arroz e Niacinamida. Proteção SPF50+ PA++ para um cuidado completo! ☀️ Este...",
-    "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
-    "old_price": "R$ 50,80",
-    "price": "R$ 29,97",
-    "discount_percent": 41.0,
-    "rating": 5.0,
-    "image": "https://cf.shopee.com.br/file/sg-11134207-823rd-mp8ti5rbw9og98",
-    "affiliate_url": "https://s.shopee.com.br/9fLTuOi9ZY",
-    "created_at": "07/10/2026 14:19",
-    "created_at_iso": "2026-10-07T14:19:17",
-    "created_ts": 1791382757,
-    "niche": {
-      "key": "shopee_bebidas_alimentos",
-      "name": "Bebidas e Alimentos"
-    }
-  },
-  {
-    "id": "58e1c0adaf551af46e",
-    "title": "TRUFAS DE CHOCOLATE POTE 510G -KITRUFA KIKAKAU 30UNIDADES.",
-    "raw_title": "TRUFAS DE CHOCOLATE POTE 510G -KITRUFA KIKAKAU 30UNIDADES.",
-    "description": "🔥 48% OFF — Oferta encontrada! 📌 TRUFAS DE CHOCOLATE POTE 510G -KITRUFA KIKAKAU 30UNIDADES. Confira os detalhes e aproveite enquanto a oferta estiver di...",
-    "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
-    "old_price": "R$ 59,60",
-    "price": "R$ 30,99",
-    "discount_percent": 48.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m4-mq2tl3vyeio2f1",
-    "affiliate_url": "https://s.shopee.com.br/4qGE9VrkmD",
-    "created_at": "07/10/2026 14:18",
-    "created_at_iso": "2026-10-07T14:18:05",
-    "created_ts": 1791382685,
-    "niche": {
-      "key": "shopee_bebidas_alimentos",
-      "name": "Bebidas e Alimentos"
-    }
   }
 ]

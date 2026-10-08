@@ -1,5 +1,47 @@
 [
   {
+    "id": "363cb12cac50a86b95",
+    "title": "Bota Feminina Cano Curto Tratorada",
+    "raw_title": "Bota Feminina Cano Curto Preta Salto Grosso Tratorada Confortável Moda Inverno",
+    "description": "Prepare-se para o inverno com a Bota Feminina Cano Curto Preta Salto Grosso Tratorada! 👢 Conforto e estilo em um só calçado para arrasar na estação. Não...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Femininos",
+    "old_price": "R$ 89,11",
+    "price": "R$ 49,90",
+    "discount_percent": 44.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjis59nbonib20",
+    "affiliate_url": "https://s.shopee.com.br/3B81tcFptn",
+    "created_at": "08/10/2026 16:17",
+    "created_at_iso": "2026-10-08T16:17:29",
+    "created_ts": 1791476249,
+    "niche": {
+      "key": "shopee_sapatos_femininos",
+      "name": "Sapatos Femininos"
+    }
+  },
+  {
+    "id": "535343a7d82622603a",
+    "title": "Bota Feminina Western Texana",
+    "raw_title": "Bota Feminina Western Texana Cano Curto Bordada",
+    "description": "🚨 ALERTA DE OFERTA! Bota Feminina Western Texana Cano Curto Bordada com 72% de desconto! ✨ Dê um up no seu estilo com essa bota incrível! Perfeita para...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Femininos",
+    "old_price": "R$ 178,54",
+    "price": "R$ 49,99",
+    "discount_percent": 72.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134201-23030-3sx1l4b1j8nvde",
+    "affiliate_url": "https://s.shopee.com.br/2qVBV0H6Zh",
+    "created_at": "08/10/2026 16:16",
+    "created_at_iso": "2026-10-08T16:16:22",
+    "created_ts": 1791476182,
+    "niche": {
+      "key": "shopee_sapatos_femininos",
+      "name": "Sapatos Femininos"
+    }
+  },
+  {
     "id": "479768503b8779019a",
     "title": "Bota Caterpillar Trilha",
     "raw_title": "Bota Caterpillar Trilha Coturno Adventure Envio Rápido",
@@ -2128,39 +2170,5 @@
       "key": "shopee_jogos_consoles",
       "name": "Jogos e Consoles"
     }
-  },
-  {
-    "id": "da614afb98d828d41a",
-    "title": "Kit Furadeira e Parafusadeira Dewalt 20V",
-    "raw_title": "Kit Furadeira e Parafusadeira com Parafusadeira Dewalt Modelo DCK200ME2GT 2 Baterias 20V",
-    "description": "⚡️ Potência e qualidade Dewalt na palma da sua mão! ✨ Kit Furadeira e Parafusadeira Dewalt DCK200ME2GT com 2 Baterias 20V. A ferramenta perfeita para to...",
-    "marketplace": "Mercado Livre",
-    "category": "Ferramentas",
-    "old_price": "",
-    "price": "R$ 2.999,00",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_784742-MLA100042438679_122025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB37180897?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "07/10/2026 16:03",
-    "created_at_iso": "2026-10-07T16:03:08",
-    "created_ts": 1791388988
-  },
-  {
-    "id": "3353788c8d47f4d5f3",
-    "title": "Kit Ferramentas Furadeira Esmerilhadeira Parafusadeira",
-    "raw_title": "Kit Ferramentas Furadeira Esmerilhadeira Parafusadeira",
-    "description": "🔥 25% OFF — Oferta encontrada! 📌 Kit Ferramentas Furadeira Esmerilhadeira Parafusadeira Confira os detalhes e aproveite enquanto a oferta estiver dispon...",
-    "marketplace": "Mercado Livre",
-    "category": "Ferramentas",
-    "old_price": "R$ 1.005,79",
-    "price": "R$ 754,34",
-    "discount_percent": 25.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_801272-MLA112060022853_052026-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70110890?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "07/10/2026 16:01",
-    "created_at_iso": "2026-10-07T16:01:57",
-    "created_ts": 1791388917
   }
 ]

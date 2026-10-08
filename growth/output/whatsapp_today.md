@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 08/10/2026 07:04
+Gerado em: 08/10/2026 07:17
 
 ## Como usar
 
@@ -132,7 +132,37 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 5 — Ofertas Pet
+## Post 5 — Celulares e Tecnologia
+
+**Canal recomendado:** Celulares e Tecnologia
+
+**Horário sugerido:** 19:00 - 21:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
+
+**Texto pronto:**
+
+```txt
+📱 Oferta para Celulares e Tecnologia
+
+Mochila de Couro Executiva Impermeável
+
+💸 De: R$ 138,86
+🔥 Por: R$ 49,99
+🏷️ 64% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/2gBkhaA0tV
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 6 — Ofertas Pet
 
 **Canal recomendado:** Ofertas Pet
 
@@ -155,36 +185,6 @@ Vestido Feminino Curto Duna com Amarração Caimento Soltinho Gola Halt…
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/4VdOYLqltL
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 6 — Moda e Calçados
-
-**Canal recomendado:** Moda e Calçados
-
-**Horário sugerido:** 12:00 - 15:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
-
-**Texto pronto:**
-
-```txt
-👟 Oferta para Moda e Calçados
-
-Sandália Feminina Lumiss Rasteira Fisherman Confortável Bico Redondo…
-
-💸 De: R$ 143,82
-🔥 Por: R$ 48,90
-🏷️ 66% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/2qVAEh2eum
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

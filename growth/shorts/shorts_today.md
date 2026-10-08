@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 08/10/2026 08:21
+Gerado em: 08/10/2026 09:23
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 08/10/2026 08:21
 
 **Produtos usados:**
 
-- Kit 10 Unidades Fralda De Pano Estampada 60 x 60 Enxoval Infantil Beb…
 - Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…
 - Kit 4 Peças 2 Conjunto Infantil Bebê Menino Verão Algodão Promoção 2…
+- Kit 32 Fraldas Geriátricas ConfortMaster Pants
 
 ---
 
@@ -49,14 +49,12 @@ Gerado em: 08/10/2026 08:21
 - growth/shorts/slides/casa_cozinha/01_intro.png
 - growth/shorts/slides/casa_cozinha/02_produto_1.png
 - growth/shorts/slides/casa_cozinha/03_produto_2.png
-- growth/shorts/slides/casa_cozinha/04_produto_3.png
 - growth/shorts/slides/casa_cozinha/05_cta.png
 
 **Produtos usados:**
 
 - Panela de Arroz Elétrica 1.8L
 - Jogo Panelas Vermelho
-- Azeite Oliva Extra Virgem Mercatto
 
 ---
 
@@ -102,9 +100,9 @@ Gerado em: 08/10/2026 08:21
 
 **Produtos usados:**
 
+- Kit Teclado e Mouse Sem Fio
 - Mochila de Couro Executiva Impermeável
 - Basike Carregador Portátil Power Bank 20000mAh Bateria Externa Para i…
-- Smartphone Xiaomi 15t 5g 12+12gb Ram + 512gb, Cinza
 
 ---
 

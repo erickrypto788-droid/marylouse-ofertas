@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 08/10/2026 05:04
+Gerado em: 08/10/2026 05:22
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 08/10/2026 05:04
 **Produtos usados:**
 
 - Kit 10 Unidades Fralda De Pano Estampada 60 x 60 Enxoval Infantil Beb…
+- Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…
 - Kit 4 Peças 2 Conjunto Infantil Bebê Menino Verão Algodão Promoção 2…
-- Kit 48 Carrinhos De Metal Fricção Brinquedo Menino Maleta Pista Prese…
 
 ---
 

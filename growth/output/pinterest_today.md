@@ -1,6 +1,6 @@
 # Pinterest Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 08/10/2026 18:22
+Gerado em: 08/10/2026 19:22
 
 ## Como usar
 
@@ -86,7 +86,7 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
 
 **Descrição:**
 
-Veja ofertas de Beleza selecionadas pela MaryLouse Ofertas. Destaque de hoje: Perfumes Brand Collection 25ml - Fragrâncias femininas. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Veja ofertas de Beleza selecionadas pela MaryLouse Ofertas. Destaque de hoje: Escova Secadora Pet Elétrica 110V. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
@@ -94,7 +94,7 @@ https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=pinterest&ut
 
 **Por que postar:**
 
-Categoria com 6 oferta(s) e boa intenção de compra.
+Categoria com 11 oferta(s) e boa intenção de compra.
 
 ---
 
@@ -126,27 +126,27 @@ Categoria com 8 oferta(s) e boa intenção de compra.
 
 ---
 
-## Pin 5 — Informática
+## Pin 5 — Beleza
 
 **Tipo:** produto_direto
 
-**Board sugerido:** Celulares e Tecnologia
+**Board sugerido:** Beleza e Cuidados
 
 **Imagem para upload no Pinterest:**
 
-https://marylouse-ofertas.vercel.app/growth/pinterest/informatica.png
+https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
 
 **Título:**
 
-69% OFF: Case Gaveta HD/SSD 2.5 USB 3.0 Transparente
+78% OFF: Escova Secadora Pet Elétrica 110V
 
 **Descrição:**
 
-Oferta destaque em Informática encontrada pela MaryLouse Ofertas. Preço: R$ 30,99. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Oferta destaque em Beleza encontrada pela MaryLouse Ofertas. Preço: R$ 43,99. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
-https://s.shopee.com.br/1VznRjMLN6
+https://s.shopee.com.br/6AldfSyyYJ
 
 **Por que postar:**
 

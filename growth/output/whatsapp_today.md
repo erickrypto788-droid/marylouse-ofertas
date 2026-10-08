@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 08/10/2026 18:22
+Gerado em: 08/10/2026 19:22
 
 ## Como usar
 
@@ -57,14 +57,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
 ```txt
 💄 Oferta para Beleza e Cuidados
 
-Perfumes Brand Collection 25ml - Fragrâncias femininas
+Escova Secadora Pet Elétrica 110V
 
-💸 De: R$ 100,00
-🔥 Por: R$ 38,00
-🏷️ 62% OFF
+💸 De: R$ 199,95
+🔥 Por: R$ 43,99
+🏷️ 78% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/40h7pCEVi0
+Ver oferta: https://s.shopee.com.br/6AldfSyyYJ
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

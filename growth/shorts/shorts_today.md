@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 08/10/2026 18:22
+Gerado em: 08/10/2026 19:22
 
 ## Como usar
 
@@ -78,9 +78,9 @@ Gerado em: 08/10/2026 18:22
 
 **Produtos usados:**
 
+- Escova Secadora Pet Elétrica 110V
 - Perfumes Brand Collection 25ml - Fragrâncias femininas
 - GOKOCO Secador de Cabelo de Alta Velocidade Secador de Cabelo Profiss…
-- Perfume Feminino Olympia
 
 ---
 

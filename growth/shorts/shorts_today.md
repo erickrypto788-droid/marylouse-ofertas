@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 08/10/2026 09:23
+Gerado em: 08/10/2026 10:22
 
 ## Como usar
 
@@ -125,7 +125,7 @@ Gerado em: 08/10/2026 09:23
 **Produtos usados:**
 
 - Protetor Solar Beauty Of Joseon SPF50+
+- Substrato Pronto FERTBAC 10L
 - Hidratante Creme Facial Pele De Porcelana Kokeshi 30g Milagre do Arroz
-- Kit 4 Potes Herméticos 2L Com Copo Medidor Organizador Mantimentos Ar…
 
 ---

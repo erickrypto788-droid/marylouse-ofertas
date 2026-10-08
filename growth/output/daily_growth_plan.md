@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 08/10/2026 09:23
+Gerado em: 08/10/2026 10:22
 
 ## Categorias prioritárias
 
-- 💻 **Informática**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 📦 **Outros**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 💄 **Beleza**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 📦 **Outros**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 🍼 **Mãe e Bebê**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 💻 **Informática**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 📚 **Papelaria**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
-- 🍼 **Mãe e Bebê**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 🏋️ **Esportes**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - ❤️ **Saúde**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 🧸 **Brinquedos**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
+- 👗 **Moda Feminina**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 
 ## Top ofertas para destacar
 
@@ -66,26 +66,26 @@ Gerado em: 08/10/2026 09:23
    - Desconto: 59% OFF
    - Link: https://s.shopee.com.br/7Ae8jROFPG
 
-8. **MochilaMasculino E Feminino Bolsa Viagem Resistente A Água Notebook E…**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 37,99
-   - Desconto: 58% OFF
-   - Link: https://s.shopee.com.br/AUuadVccrk
-
-9. **Mala Case Capa Bolsa Porta Case Notebook Slim 14,6/15,6 Alça Dupla Re…**
+8. **Mala Case Capa Bolsa Porta Case Notebook Slim 14,6/15,6 Alça Dupla Re…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 28,52
    - Desconto: 38% OFF
    - Link: https://s.shopee.com.br/9fLUyKGNe1
 
-10. **Kit 32 Fraldas Geriátricas ConfortMaster Pants**
+9. **Kit 32 Fraldas Geriátricas ConfortMaster Pants**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 77,98
    - Desconto: 38% OFF
    - Link: https://s.shopee.com.br/5fpM8rK9Y6
+
+10. **Kit Sacos Leite em Pó Bebê Portátil**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 16,66
+   - Desconto: 58% OFF
+   - Link: https://s.shopee.com.br/2qVB6GKar2
 
 ## Ações gratuitas recomendadas
 

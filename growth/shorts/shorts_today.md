@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 08/10/2026 03:08
+Gerado em: 08/10/2026 03:21
 
 ## Como usar
 
@@ -78,7 +78,7 @@ Gerado em: 08/10/2026 03:08
 
 - Perfumes Brand Collection 25ml - Fragrâncias femininas
 - GOKOCO Secador de Cabelo de Alta Velocidade Secador de Cabelo Profiss…
-- Chapinha Profissional Nano Titanium
+- Le Parfum AUDACITY masculino 75ml
 
 ---
 
@@ -102,7 +102,7 @@ Gerado em: 08/10/2026 03:08
 
 - Basike Carregador Portátil Power Bank 20000mAh Bateria Externa Para i…
 - Smartphone Xiaomi 15t 5g 12+12gb Ram + 512gb, Cinza
-- Creme Gel Regenerador Facial Gota de Colágeno Kokeshi 45g
+- Miniatura Creme Dental 15g
 
 ---
 

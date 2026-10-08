@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 08/10/2026 03:08
+Gerado em: 08/10/2026 03:21
 
 ## Categorias prioritárias
 
-- 💄 **Beleza**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🍼 **Mãe e Bebê**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 💄 **Beleza**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🏋️ **Esportes**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 🧒 **Moda Infantil**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-infantil.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-infantil
 - 📦 **Outros**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 🧸 **Brinquedos**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 💻 **Informática**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 🐶 **Pet**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
-- ❤️ **Saúde**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 
 ## Top ofertas para destacar
 
@@ -66,26 +66,26 @@ Gerado em: 08/10/2026 03:08
    - Desconto: 76% OFF
    - Link: https://s.shopee.com.br/AAHkAiPnFh
 
-8. **Chapinha Profissional Nano Titanium**
-   - Categoria: Beleza
-   - Loja: Shopee
-   - Preço: R$ 34,99
-   - Desconto: 61% OFF
-   - Link: https://s.shopee.com.br/5VVuDQBFRs
-
-9. **Comedouro Elevado Duplo Ração Gato Porcelana Acrilico 190ml Porta Rac…**
+8. **Comedouro Elevado Duplo Ração Gato Porcelana Acrilico 190ml Porta Rac…**
    - Categoria: Pet
    - Loja: Mercado Livre
    - Preço: R$ 48,40
    - Desconto: 39% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-10. **Kit 4 Perfumes Femininos Árabes**
-   - Categoria: Beleza
+9. **Vestido Feminino Curto Duna com Amarração Caimento Soltinho Gola Halt…**
+   - Categoria: Pet
    - Loja: Shopee
-   - Preço: R$ 36,49
-   - Desconto: 47% OFF
-   - Link: https://s.shopee.com.br/W7EGELLXA
+   - Preço: R$ 46,80
+   - Desconto: 22% OFF
+   - Link: https://s.shopee.com.br/4VdOYLqltL
+
+10. **Kit 4 Peças 2 Conjunto Infantil Bebê Menino Verão Algodão Promoção 2…**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 44,66
+   - Desconto: 66% OFF
+   - Link: https://s.shopee.com.br/5At5HUOygi
 
 ## Ações gratuitas recomendadas
 

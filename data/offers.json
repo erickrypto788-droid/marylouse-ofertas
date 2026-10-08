@@ -1,5 +1,26 @@
 [
   {
+    "id": "9d477caa5302e7c132",
+    "title": "GTA VI Edição Standard - PS5",
+    "raw_title": "Jogo Grand Theft Auto VI Edição Standard - PS5",
+    "description": "🎮 Lançamento IMPERDÍVEL! Garanta já o seu Jogo Grand Theft Auto VI Edição Standard para PS5! Prepare-se para a próxima geração de aventuras épicas.",
+    "marketplace": "Shopee",
+    "category": "Jogos e Consoles",
+    "old_price": "",
+    "price": "R$ 449,90",
+    "discount_percent": 0.0,
+    "rating": 0.0,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820ma-mpxxrh0ud43kb3",
+    "affiliate_url": "https://s.shopee.com.br/1LgNNcOUTL",
+    "created_at": "08/10/2026 11:15",
+    "created_at_iso": "2026-10-08T11:15:55",
+    "created_ts": 1791458155,
+    "niche": {
+      "key": "shopee_jogos_consoles",
+      "name": "Jogos e Consoles"
+    }
+  },
+  {
     "id": "94bed822420c7efc78",
     "title": "Impressora térmica Impressora de recibos Mini impressora Bluetooth Im…",
     "raw_title": "Impressora térmica Impressora de recibos Mini impressora Bluetooth Impressora térmica portátil ARCASHOPPING mini impressora térmica Impressora de recibos Blu...",
@@ -2180,27 +2201,6 @@
     "created_at": "07/10/2026 11:16",
     "created_at_iso": "2026-10-07T11:16:53",
     "created_ts": 1791371813,
-    "niche": {
-      "key": "shopee_bolsas_masculinas",
-      "name": "Bolsas Masculinas"
-    }
-  },
-  {
-    "id": "85e0a2eb6352818d98",
-    "title": "Mochila Bolsa Reforçada Notebook Resistente Trabalho Faculdade Coreana",
-    "raw_title": "Mochila Bolsa Reforçada Notebook Resistente Trabalho Faculdade Coreana",
-    "description": "🔥 59% OFF — Oferta encontrada! 📌 Mochila Bolsa Reforçada Notebook Resistente Trabalho Faculdade Coreana Confira os detalhes e aproveite enquanto a ofert...",
-    "marketplace": "Shopee",
-    "category": "Bolsas Masculinas",
-    "old_price": "R$ 72,68",
-    "price": "R$ 29,80",
-    "discount_percent": 59.0,
-    "rating": 4.5,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lkz9ur4r4lj3c1",
-    "affiliate_url": "https://s.shopee.com.br/7Ae8jROFPG",
-    "created_at": "07/10/2026 11:15",
-    "created_at_iso": "2026-10-07T11:15:49",
-    "created_ts": 1791371749,
     "niche": {
       "key": "shopee_bolsas_masculinas",
       "name": "Bolsas Masculinas"

@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 08/10/2026 00:22
+Gerado em: 08/10/2026 01:22
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 08/10/2026 00:22
 **Produtos usados:**
 
 - Kit 10 Unidades Fralda De Pano Estampada 60 x 60 Enxoval Infantil Beb…
+- Kit 4 Peças 2 Conjunto Infantil Bebê Menino Verão Algodão Promoção 2…
 - Kit 48 Carrinhos De Metal Fricção Brinquedo Menino Maleta Pista Prese…
-- Trocador Anatômico Impermeável
 
 ---
 
@@ -103,8 +103,8 @@ Gerado em: 08/10/2026 00:22
 **Produtos usados:**
 
 - Smartphone 6.78" 5G 16GB+512GB Câmera HD
-- Lente para Câmera de Celular 0.45X Grande Angular + Macro para Smartp…
 - Basike Carregador Portátil Power Bank 20000mAh Bateria Externa Para i…
+- Smartphone Xiaomi 15t 5g 12+12gb Ram + 512gb, Cinza
 
 ---
 

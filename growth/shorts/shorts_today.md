@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 08/10/2026 16:19
+Gerado em: 08/10/2026 17:22
 
 ## Como usar
 
@@ -100,9 +100,9 @@ Gerado em: 08/10/2026 16:19
 
 **Produtos usados:**
 
+- Mini Power Bank 10000mAh para iPhone
 - Kit Teclado e Mouse Sem Fio
 - Mochila de Couro Executiva Impermeável
-- Basike Carregador Portátil Power Bank 20000mAh Bateria Externa Para i…
 
 ---
 

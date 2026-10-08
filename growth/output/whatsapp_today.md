@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 08/10/2026 16:36
+Gerado em: 08/10/2026 17:22
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
 ```txt
 📱 Oferta para Celulares e Tecnologia
 
-Kit Teclado e Mouse Sem Fio
+Mini Power Bank 10000mAh para iPhone
 
-💸 De: R$ 99,22
-🔥 Por: R$ 39,69
-🏷️ 60% OFF
+💸 De: R$ 118,48
+🔥 Por: R$ 24,88
+🏷️ 79% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/30obEU7u2S
+Ver oferta: https://s.shopee.com.br/W7GmwGjyt
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

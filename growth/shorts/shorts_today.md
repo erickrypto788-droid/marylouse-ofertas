@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 08/10/2026 01:22
+Gerado em: 08/10/2026 02:22
 
 ## Como usar
 
@@ -49,13 +49,11 @@ Gerado em: 08/10/2026 01:22
 - growth/shorts/slides/casa_cozinha/01_intro.png
 - growth/shorts/slides/casa_cozinha/02_produto_1.png
 - growth/shorts/slides/casa_cozinha/03_produto_2.png
-- growth/shorts/slides/casa_cozinha/04_produto_3.png
 - growth/shorts/slides/casa_cozinha/05_cta.png
 
 **Produtos usados:**
 
 - Panela de Arroz Elétrica 1.8L
-- Liquidificador Portátil Blender Elgin Daily Blend 350w 750ml 2 Copos…
 - Azeite Oliva Extra Virgem Mercatto
 
 ---
@@ -102,9 +100,9 @@ Gerado em: 08/10/2026 01:22
 
 **Produtos usados:**
 
-- Smartphone 6.78" 5G 16GB+512GB Câmera HD
 - Basike Carregador Portátil Power Bank 20000mAh Bateria Externa Para i…
 - Smartphone Xiaomi 15t 5g 12+12gb Ram + 512gb, Cinza
+- Creme Gel Regenerador Facial Gota de Colágeno Kokeshi 45g
 
 ---
 

@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 08/10/2026 02:02
+Gerado em: 08/10/2026 02:22
 
 ## Como usar
 
@@ -102,67 +102,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Ofertas Pet
-
-**Canal recomendado:** Ofertas Pet
-
-**Horário sugerido:** 17:00 - 20:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
-
-**Texto pronto:**
-
-```txt
-🐶 Oferta para Ofertas Pet
-
-Ventilador de Teto com Lampada LED Integrada Bocal E27 6 Pétalas 60w…
-
-💸 De: R$ 148,54
-🔥 Por: R$ 51,99
-🏷️ 65% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/7KxYKfAkRL
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 5 — Celulares e Tecnologia
-
-**Canal recomendado:** Celulares e Tecnologia
-
-**Horário sugerido:** 19:00 - 21:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
-
-**Texto pronto:**
-
-```txt
-📱 Oferta para Celulares e Tecnologia
-
-Smartphone 6.78" 5G 16GB+512GB Câmera HD
-
-💸 De: R$ 3.320,00
-🔥 Por: R$ 1.380,00
-🏷️ 58% OFF
-🛒 Loja: Mercado Livre
-
-Ver oferta: https://www.mercadolivre.com.br/p/MLB78262248?matt_word=marylouse&matt_tool=50459180&forceInApp=true
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 6 — Moda Feminina
+## Post 4 — Moda Feminina
 
 **Canal recomendado:** Moda Feminina
 
@@ -185,6 +125,66 @@ Kit 2 Calça Alfaiataria PREMIUM Cintura Alta Com Bolso PROMOÇÃO
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/9V23uSTsXF
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 5 — Ofertas Pet
+
+**Canal recomendado:** Ofertas Pet
+
+**Horário sugerido:** 17:00 - 20:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
+
+**Texto pronto:**
+
+```txt
+🐶 Oferta para Ofertas Pet
+
+Vestido Feminino Curto Duna com Amarração Caimento Soltinho Gola Halt…
+
+💸 De: R$ 60,00
+🔥 Por: R$ 46,80
+🏷️ 22% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/4VdOYLqltL
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 6 — Moda e Calçados
+
+**Canal recomendado:** Moda e Calçados
+
+**Horário sugerido:** 12:00 - 15:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
+
+**Texto pronto:**
+
+```txt
+👟 Oferta para Moda e Calçados
+
+Sandália Feminina Lumiss Rasteira Fisherman Confortável Bico Redondo…
+
+💸 De: R$ 143,82
+🔥 Por: R$ 48,90
+🏷️ 66% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/2qVAEh2eum
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

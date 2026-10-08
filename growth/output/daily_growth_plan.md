@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 08/10/2026 21:22
+Gerado em: 08/10/2026 22:06
 
 ## Categorias prioritárias
 
@@ -11,9 +11,9 @@ Gerado em: 08/10/2026 21:22
 - 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 💻 **Informática**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 🍳 **Casa e Cozinha**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
+- 🔌 **Eletrodomésticos**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-eletrodomesticos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_eletrodomesticos
 - 📚 **Papelaria**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
-- 🧒 **Moda Infantil**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-infantil.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-infantil
-- 🐶 **Pet**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 
 ## Top ofertas para destacar
 
@@ -73,19 +73,19 @@ Gerado em: 08/10/2026 21:22
    - Desconto: 38% OFF
    - Link: https://s.shopee.com.br/5fpM8rK9Y6
 
-9. **Escova 5 em 1 Profissional**
+9. **Jogo Panelas 5 Peças Tradicional**
+   - Categoria: Casa e Cozinha
+   - Loja: Mercado Livre
+   - Preço: R$ 179,90
+   - Desconto: 23% OFF
+   - Link: https://www.mercadolivre.com.br/p/MLB50984468?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+10. **Escova 5 em 1 Profissional**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 50,99
    - Desconto: 66% OFF
    - Link: https://s.shopee.com.br/3VksUZ4jAJ
-
-10. **Power Bank Mini Sem Fio 2em1**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 24,99
-   - Desconto: 58% OFF
-   - Link: https://s.shopee.com.br/1Vznym4GwV
 
 ## Ações gratuitas recomendadas
 

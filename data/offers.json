@@ -1,5 +1,22 @@
 [
   {
+    "id": "9c9d985a2e59c8611b",
+    "title": "Jogo Panelas Vermelho",
+    "raw_title": "Jogo Panelas Vermelho Alumínio Fundido Usinado Javaliam16a24",
+    "description": "✨ Sua cozinha merece o melhor! Jogo de Panelas Vermelho em Alumínio Fundido Usinado. Qualidade e beleza para suas receitas! 🍳 🚚 Frete Grátis para todo o...",
+    "marketplace": "Mercado Livre",
+    "category": "Casa e Cozinha",
+    "old_price": "",
+    "price": "R$ 519,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_604611-MLU77175667212_072024-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB32583536?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "08/10/2026 05:02",
+    "created_at_iso": "2026-10-08T05:02:27",
+    "created_ts": 1791435747
+  },
+  {
     "id": "ed1df55ee772b03e8d",
     "title": "Accu-Chek Active Kit Medidor De Glicose Glicosimetro",
     "raw_title": "Accu-Chek Active Kit Medidor De Glicose Glicosimetro",
@@ -2203,44 +2220,6 @@
     "niche": {
       "key": "shopee_esportes_lazer",
       "name": "Esportes e Lazer"
-    }
-  },
-  {
-    "id": "ce63f4d91f91ca6cb0",
-    "title": "Comedouro Elevado Duplo Ração Gato Porcelana Acrilico 190ml Porta Rac…",
-    "raw_title": "Comedouro Elevado Duplo Ração Gato Porcelana Acrilico 190ml Porta Racao Gato Comedouro Rosa",
-    "description": "🔥 39% OFF — Oferta encontrada! 📌 Comedouro Elevado Duplo Ração Gato Porcelana Acrilico 190ml Porta Racao Gato Comedouro Rosa Confira os detalhes e aprov...",
-    "marketplace": "Mercado Livre",
-    "category": "Pet",
-    "old_price": "R$ 78,80",
-    "price": "R$ 48,40",
-    "discount_percent": 39.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_670668-MLA109132288172_042026-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "07/10/2026 05:01",
-    "created_at_iso": "2026-10-07T05:01:26",
-    "created_ts": 1791349286
-  },
-  {
-    "id": "4ae49a72eb2798edcb",
-    "title": "Chuteira CR7 Masculina Society Adulto Infantil Profissional CampoJogo…",
-    "raw_title": "Chuteira CR7 Masculina Society Adulto Infantil Profissional CampoJogo Treino Antiderrapante Envio24h",
-    "description": "🔥 40% OFF — Oferta encontrada! 📌 Chuteira CR7 Masculina Society Adulto Infantil Profissional CampoJogo Treino Antiderrapante Envio24h Confira os detalhe...",
-    "marketplace": "Shopee",
-    "category": "Moda Infantil",
-    "old_price": "R$ 98,98",
-    "price": "R$ 59,39",
-    "discount_percent": 40.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhw46i8r60ozac",
-    "affiliate_url": "https://s.shopee.com.br/7KxYSubaK5",
-    "created_at": "07/10/2026 04:20",
-    "created_at_iso": "2026-10-07T04:20:27",
-    "created_ts": 1791346827,
-    "niche": {
-      "key": "shopee_moda_infantil",
-      "name": "Moda Infantil"
     }
   }
 ]

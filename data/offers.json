@@ -1,5 +1,56 @@
 [
   {
+    "id": "9efd99af32702cd7ff",
+    "title": "Hidratante Relaxante",
+    "raw_title": "Hidratante Corporal Relaxante",
+    "description": "✨ Sinta a diferença na sua pele! Hidratante Corporal Relaxante para momentos de puro bem-estar. 💆‍♀️ 🚚 Frete grátis!",
+    "marketplace": "Mercado Livre",
+    "category": "Beleza",
+    "old_price": "R$ 98,90",
+    "price": "R$ 85,60",
+    "discount_percent": 13.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_778206-MLA106762572310_022026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65794107?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "08/10/2026 20:09",
+    "created_at_iso": "2026-10-08T20:09:04",
+    "created_ts": 1791490144
+  },
+  {
+    "id": "5e52de263b36ce9ffe",
+    "title": "Papel Toalha Luxo Premium",
+    "raw_title": "Papel Toalha Interfolhas Folha Dupla Luxo Premium 2000 Folha",
+    "description": "✨ Conforto e praticidade! Chega de papel toalha que não absorve nada.! Garanta já o Papel Toalha Interfolhas Folha Dupla Luxo Premium com 2000 Folhas! P...",
+    "marketplace": "Mercado Livre",
+    "category": "Papelaria",
+    "old_price": "",
+    "price": "R$ 65,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_929180-MLA109884738747_032026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67465833?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "08/10/2026 20:07",
+    "created_at_iso": "2026-10-08T20:07:56",
+    "created_ts": 1791490076
+  },
+  {
+    "id": "1598512f255b08b0a6",
+    "title": "Papel Higiênico Supra Folha Dupla 24 Rolos",
+    "raw_title": "Papel Higiênico Supra Folha Dupla 24 Rolos",
+    "description": "🔥 19% OFF — Oferta encontrada! 📌 Papel Higiênico Supra Folha Dupla 24 Rolos Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Papelaria",
+    "old_price": "R$ 49,44",
+    "price": "R$ 39,90",
+    "discount_percent": 19.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_681800-MLA110841052223_042026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB38659676?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "08/10/2026 20:06",
+    "created_at_iso": "2026-10-08T20:06:26",
+    "created_ts": 1791489986
+  },
+  {
     "id": "5ba0666aee68ee506e",
     "title": "Protetor Solar Facial Acnezil FPS 30 Oil Control 60g",
     "raw_title": "Protetor Solar Facial Acnezil FPS 30 Oil Control 60g",
@@ -2091,22 +2142,5 @@
       "key": "shopee_sapatos_masculinos",
       "name": "Sapatos Masculinos"
     }
-  },
-  {
-    "id": "1c271c75e944f489f3",
-    "title": "Smartphone Xiaomi 15t 5g 12+12gb Ram + 512gb, Cinza",
-    "raw_title": "Smartphone Xiaomi 15t 5g 12+12gb Ram + 512gb, Cinza",
-    "description": "🔥 Oferta encontrada! 📌 Smartphone Xiaomi 15t 5g 12+12gb Ram + 512gb, Cinza Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Mercado Livre",
-    "category": "Informática",
-    "old_price": "",
-    "price": "R$ 3.899,00",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_913469-MLA93865329554_102025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59103594?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "07/10/2026 20:02",
-    "created_at_iso": "2026-10-07T20:02:31",
-    "created_ts": 1791403351
   }
 ]

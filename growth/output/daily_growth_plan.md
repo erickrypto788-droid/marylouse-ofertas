@@ -1,13 +1,13 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 08/10/2026 04:04
+Gerado em: 08/10/2026 04:21
 
 ## Categorias prioritárias
 
 - 🍼 **Mãe e Bebê**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- ❤️ **Saúde**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 🏋️ **Esportes**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 💄 **Beleza**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 🧒 **Moda Infantil**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-infantil.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-infantil
 - 📦 **Outros**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 🧸 **Brinquedos**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
@@ -73,19 +73,19 @@ Gerado em: 08/10/2026 04:04
    - Desconto: 39% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-9. **Vestido Feminino Curto Duna com Amarração Caimento Soltinho Gola Halt…**
+9. **Kit Oximetro de Dedo Digital + Termometro Infravermelho + Inalador Po…**
+   - Categoria: Saúde
+   - Loja: Shopee
+   - Preço: R$ 77,99
+   - Desconto: 59% OFF
+   - Link: https://s.shopee.com.br/5At5ToxP1t
+
+10. **Vestido Feminino Curto Duna com Amarração Caimento Soltinho Gola Halt…**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 46,80
    - Desconto: 22% OFF
    - Link: https://s.shopee.com.br/4VdOYLqltL
-
-10. **Kit 4 Peças 2 Conjunto Infantil Bebê Menino Verão Algodão Promoção 2…**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 44,66
-   - Desconto: 66% OFF
-   - Link: https://s.shopee.com.br/5At5HUOygi
 
 ## Ações gratuitas recomendadas
 

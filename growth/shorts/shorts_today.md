@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 08/10/2026 18:04
+Gerado em: 08/10/2026 18:22
 
 ## Como usar
 
@@ -49,11 +49,13 @@ Gerado em: 08/10/2026 18:04
 - growth/shorts/slides/casa_cozinha/01_intro.png
 - growth/shorts/slides/casa_cozinha/02_produto_1.png
 - growth/shorts/slides/casa_cozinha/03_produto_2.png
+- growth/shorts/slides/casa_cozinha/04_produto_3.png
 - growth/shorts/slides/casa_cozinha/05_cta.png
 
 **Produtos usados:**
 
 - Panela de Arroz Elétrica 1.8L
+- Cafeteira Elétrica Electrolux Ecm10 15 Xícaras 600w Grafite 110V
 - Jogo Panelas Vermelho
 
 ---

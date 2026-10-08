@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 08/10/2026 11:17
+Gerado em: 08/10/2026 12:22
 
 ## Como usar
 
@@ -147,14 +147,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Kit 2 Calça Alfaiataria PREMIUM Cintura Alta Com Bolso PROMOÇÃO
+Vestido Midi Feminino com Manga Bufante Tecido Duna com Lastex nas Co…
 
-💸 De: R$ 146,96
-🔥 Por: R$ 33,80
-🏷️ 77% OFF
+💸 De: R$ 191,67
+🔥 Por: R$ 69,00
+🏷️ 64% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/9V23uSTsXF
+Ver oferta: https://s.shopee.com.br/9fLVN3D1LM
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

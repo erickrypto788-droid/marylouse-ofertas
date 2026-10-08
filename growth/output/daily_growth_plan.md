@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 08/10/2026 11:17
+Gerado em: 08/10/2026 12:22
 
 ## Categorias prioritárias
 
 - 📦 **Outros**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
-- 💻 **Informática**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 💄 **Beleza**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 👗 **Moda Feminina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
+- 💻 **Informática**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 🍼 **Mãe e Bebê**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 📚 **Papelaria**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
+- 💄 **Beleza**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 🏋️ **Esportes**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
+- 📚 **Papelaria**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 - ❤️ **Saúde**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 🧸 **Brinquedos**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
-- 👗 **Moda Feminina**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 
 ## Top ofertas para destacar
 
@@ -52,40 +52,40 @@ Gerado em: 08/10/2026 11:17
    - Desconto: 70% OFF
    - Link: https://s.shopee.com.br/3LRQxqjfDk
 
-6. **Mochila Escolar Reforçada Notebook Impermeável Cabo De Aço**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 49,90
-   - Desconto: 52% OFF
-   - Link: https://s.shopee.com.br/9KidJQOw3c
-
-7. **Mala Case Capa Bolsa Porta Case Notebook Slim 14,6/15,6 Alça Dupla Re…**
+6. **Mala Case Capa Bolsa Porta Case Notebook Slim 14,6/15,6 Alça Dupla Re…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 28,52
    - Desconto: 38% OFF
    - Link: https://s.shopee.com.br/9fLUyKGNe1
 
-8. **Kit 32 Fraldas Geriátricas ConfortMaster Pants**
+7. **Kit 32 Fraldas Geriátricas ConfortMaster Pants**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 77,98
    - Desconto: 38% OFF
    - Link: https://s.shopee.com.br/5fpM8rK9Y6
 
-9. **Mesa Para Computador Notebook Gamer Me4153 Preto/Vermelho**
+8. **Mesa Para Computador Notebook Gamer Me4153 Preto/Vermelho**
    - Categoria: Informática
    - Loja: Mercado Livre
    - Preço: R$ 435,88
    - Desconto: 20% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB62207694?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-10. **Kit Sacos Leite em Pó Bebê Portátil**
+9. **Kit Sacos Leite em Pó Bebê Portátil**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 16,66
    - Desconto: 58% OFF
    - Link: https://s.shopee.com.br/2qVB6GKar2
+
+10. **Hub USB 4/7 Portas Alta Velocidade**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 13,80
+   - Desconto: 54% OFF
+   - Link: https://s.shopee.com.br/4B0YcdGezd
 
 ## Ações gratuitas recomendadas
 

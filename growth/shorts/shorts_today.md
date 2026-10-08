@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 07/10/2026 23:19
+Gerado em: 08/10/2026 00:22
 
 ## Como usar
 
@@ -78,9 +78,9 @@ Gerado em: 07/10/2026 23:19
 
 **Produtos usados:**
 
+- Perfumes Brand Collection 25ml - Fragrâncias femininas
+- GOKOCO Secador de Cabelo de Alta Velocidade Secador de Cabelo Profiss…
 - Chapinha Profissional Nano Titanium
-- Kit 4 Perfumes Femininos Árabes
-- Modelador Triondas 22mm
 
 ---
 
@@ -127,7 +127,7 @@ Gerado em: 07/10/2026 23:19
 **Produtos usados:**
 
 - Protetor Solar Beauty Of Joseon SPF50+
+- Hidratante Creme Facial Pele De Porcelana Kokeshi 30g Milagre do Arroz
 - Kit 4 Potes Herméticos 2L Com Copo Medidor Organizador Mantimentos Ar…
-- Arroz Jasmine Tailandês Aromático 1kg Arroz De Altitude
 
 ---

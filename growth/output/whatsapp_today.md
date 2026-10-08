@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 07/10/2026 23:19
+Gerado em: 08/10/2026 00:22
 
 ## Como usar
 
@@ -87,14 +87,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
 ```txt
 💄 Oferta para Beleza e Cuidados
 
-Chapinha Profissional Nano Titanium
+Perfumes Brand Collection 25ml - Fragrâncias femininas
 
-💸 De: R$ 89,72
-🔥 Por: R$ 34,99
-🏷️ 61% OFF
+💸 De: R$ 100,00
+🔥 Por: R$ 38,00
+🏷️ 62% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/5VVuDQBFRs
+Ver oferta: https://s.shopee.com.br/40h7pCEVi0
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

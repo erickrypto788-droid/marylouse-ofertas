@@ -1,5 +1,47 @@
 [
   {
+    "id": "907cbc39fccb196700",
+    "title": "Kit 3 Blusas Plus Size Gola V",
+    "raw_title": "Kit 3 Blusas Feminina Plus Size Gola V Básica Casual - H00",
+    "description": "✨ Estilo e conforto em DOBRO! ✨ Garanta já seu Kit com 3 Blusas Femininas Plus Size Gola V! Peças básicas e casuais, perfeitas para qualquer ocasião. Vi...",
+    "marketplace": "Shopee",
+    "category": "Roupas Plus Size",
+    "old_price": "R$ 69,49",
+    "price": "R$ 56,98",
+    "discount_percent": 18.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lb-moees5a8y32e94",
+    "affiliate_url": "https://s.shopee.com.br/50ZfwidxI6",
+    "created_at": "08/10/2026 14:17",
+    "created_at_iso": "2026-10-08T14:17:08",
+    "created_ts": 1791469028,
+    "niche": {
+      "key": "shopee_roupas_plus_size",
+      "name": "Roupas Plus Size"
+    }
+  },
+  {
+    "id": "c4fc01699c25a16e32",
+    "title": "Kit 2 Leggings Plus Size",
+    "raw_title": "Kit 2 Calças Legging Plus Size Suplex Cintura Alta Costura Reforça G1 G2 G3",
+    "description": "✨ Conforto e Estilo em Dobro! ✨ Garanta agora seu Kit 2 Calças Legging Plus Size Suplex de Cintura Alta! Com costura reforçada para durabilidade e ajust...",
+    "marketplace": "Shopee",
+    "category": "Roupas Plus Size",
+    "old_price": "R$ 72,71",
+    "price": "R$ 50,90",
+    "discount_percent": 30.0,
+    "rating": 4.7,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820md-mofx6kltdg5c0e",
+    "affiliate_url": "https://s.shopee.com.br/W7GaRzclB",
+    "created_at": "08/10/2026 14:16",
+    "created_at_iso": "2026-10-08T14:16:00",
+    "created_ts": 1791468960,
+    "niche": {
+      "key": "shopee_roupas_plus_size",
+      "name": "Roupas Plus Size"
+    }
+  },
+  {
     "id": "49fe89d38d143f3cc8",
     "title": "Camisa Social Masculina Manga longa Slim Fit",
     "raw_title": "Camisa Social Masculina Manga longa Slim Fit",
@@ -2141,81 +2183,5 @@
       "key": "shopee_bebidas_alimentos",
       "name": "Bebidas e Alimentos"
     }
-  },
-  {
-    "id": "425a5dede67f6a33f1",
-    "title": "Semente de Chia Comercial Natural - Costa Nature Life",
-    "raw_title": "Semente de Chia Comercial Natural - Costa Nature Life",
-    "description": "🔥 67% OFF — Oferta encontrada! 📌 Semente de Chia Comercial Natural - Costa Nature Life Confira os detalhes e aproveite enquanto a oferta estiver disponí...",
-    "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
-    "old_price": "R$ 63,55",
-    "price": "R$ 20,97",
-    "discount_percent": 67.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lp-mmrklv0sfrb40d",
-    "affiliate_url": "https://s.shopee.com.br/6fhsKsxu8n",
-    "created_at": "07/10/2026 14:17",
-    "created_at_iso": "2026-10-07T14:17:01",
-    "created_ts": 1791382621,
-    "niche": {
-      "key": "shopee_bebidas_alimentos",
-      "name": "Bebidas e Alimentos"
-    }
-  },
-  {
-    "id": "681a62c5eafb4536cd",
-    "title": "Compre 3 Leve 4 - Psyllium + Quitosana + Spirulina",
-    "raw_title": "Compre 3 Leve 4 - Psyllium + Quitosana + Spirulina - Enriquecido com Cromo 700 mg - Autorizado ANVISA",
-    "description": "💥 Não perca! Compre 3 Leve 4! Potencialize sua saúde e bem-estar com este super combo de Psyllium + Quitosana + Spirulina, enriquecido com Cromo 700mg....",
-    "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
-    "old_price": "R$ 49,80",
-    "price": "R$ 24,90",
-    "discount_percent": 50.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m1-mu0niwwqhse859",
-    "affiliate_url": "https://s.shopee.com.br/8Kq6Jww1o3",
-    "created_at": "07/10/2026 14:15",
-    "created_at_iso": "2026-10-07T14:15:57",
-    "created_ts": 1791382557,
-    "niche": {
-      "key": "shopee_bebidas_alimentos",
-      "name": "Bebidas e Alimentos"
-    }
-  },
-  {
-    "id": "b00f2f28bdacae7779",
-    "title": "Mini Depilador Elétrico Feminino",
-    "raw_title": "Mini Depilador Elétrico Aparador Pelos Corporal Feminino",
-    "description": "✨ Pele lisinha e sem preocupações! 💖 Garanta já o seu Mini Depilador Elétrico Aparador Pelos Corporal Feminino e tenha praticidade no dia a dia. Com Fre...",
-    "marketplace": "Mercado Livre",
-    "category": "Beleza",
-    "old_price": "",
-    "price": "R$ 36,90",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_954892-MLU74051978462_012024-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29763388?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "07/10/2026 14:03",
-    "created_at_iso": "2026-10-07T14:03:32",
-    "created_ts": 1791381812
-  },
-  {
-    "id": "1afa4e6be98837988e",
-    "title": "Chapinha Nano Titanium Azul",
-    "raw_title": "Chapinha Cabelo Nano Titanium Azul , Resultados",
-    "description": "✨ Liso perfeito sem sair de casa! ✨ A Chapinha Nano Titanium Azul garante resultados incríveis e duradouros. 🚚 Frete grátis para todo o Brasil!",
-    "marketplace": "Mercado Livre",
-    "category": "Beleza",
-    "old_price": "",
-    "price": "R$ 114,46",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_652209-MLU77170808627_062024-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB37838163?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "07/10/2026 14:02",
-    "created_at_iso": "2026-10-07T14:02:20",
-    "created_ts": 1791381740
   }
 ]

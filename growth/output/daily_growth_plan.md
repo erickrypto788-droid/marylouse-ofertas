@@ -1,11 +1,11 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 08/10/2026 11:06
+Gerado em: 08/10/2026 11:17
 
 ## Categorias prioritárias
 
 - 📦 **Outros**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
-- 💻 **Informática**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 💻 **Informática**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 💄 **Beleza**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🍼 **Mãe e Bebê**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 📚 **Papelaria**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
@@ -59,33 +59,33 @@ Gerado em: 08/10/2026 11:06
    - Desconto: 52% OFF
    - Link: https://s.shopee.com.br/9KidJQOw3c
 
-7. **Mochila Bolsa Reforçada Notebook Resistente Trabalho Faculdade Coreana**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 29,80
-   - Desconto: 59% OFF
-   - Link: https://s.shopee.com.br/7Ae8jROFPG
-
-8. **Mala Case Capa Bolsa Porta Case Notebook Slim 14,6/15,6 Alça Dupla Re…**
+7. **Mala Case Capa Bolsa Porta Case Notebook Slim 14,6/15,6 Alça Dupla Re…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 28,52
    - Desconto: 38% OFF
    - Link: https://s.shopee.com.br/9fLUyKGNe1
 
-9. **Kit 32 Fraldas Geriátricas ConfortMaster Pants**
+8. **Kit 32 Fraldas Geriátricas ConfortMaster Pants**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 77,98
    - Desconto: 38% OFF
    - Link: https://s.shopee.com.br/5fpM8rK9Y6
 
-10. **Mesa Para Computador Notebook Gamer Me4153 Preto/Vermelho**
+9. **Mesa Para Computador Notebook Gamer Me4153 Preto/Vermelho**
    - Categoria: Informática
    - Loja: Mercado Livre
    - Preço: R$ 435,88
    - Desconto: 20% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB62207694?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+10. **Kit Sacos Leite em Pó Bebê Portátil**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 16,66
+   - Desconto: 58% OFF
+   - Link: https://s.shopee.com.br/2qVB6GKar2
 
 ## Ações gratuitas recomendadas
 

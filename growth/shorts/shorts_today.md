@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 08/10/2026 07:17
+Gerado em: 08/10/2026 08:05
 
 ## Como usar
 
@@ -80,7 +80,7 @@ Gerado em: 08/10/2026 07:17
 
 - Perfumes Brand Collection 25ml - Fragrâncias femininas
 - GOKOCO Secador de Cabelo de Alta Velocidade Secador de Cabelo Profiss…
-- Le Parfum AUDACITY masculino 75ml
+- Perfume Feminino Olympia
 
 ---
 

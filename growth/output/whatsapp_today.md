@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 09/10/2026 20:22
+Gerado em: 09/10/2026 21:22
 
 ## Como usar
 
@@ -57,14 +57,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
 ```txt
 🍼 Oferta para Mamãe e Bebê
 
-Fralda Huggies Tripla Proteção
+Kit 11 Peças - 5 Fraldas 60x60cm + 6 Paninho de Boca 30x30cm 100% Alg…
 
-💸 De: R$ 49,09
-🔥 Por: R$ 27,00
-🏷️ 45% OFF
+💸 De: R$ 59,55
+🔥 Por: R$ 27,99
+🏷️ 53% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/9fLWAVFAYw
+Ver oferta: https://s.shopee.com.br/1B23Fo3yw
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

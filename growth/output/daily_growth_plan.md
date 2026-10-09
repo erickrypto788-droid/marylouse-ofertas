@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 09/10/2026 11:04
+Gerado em: 09/10/2026 11:21
 
 ## Categorias prioritárias
 
-- 💻 **Informática**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 👕 **Moda Masculina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 - 👗 **Moda Feminina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
+- 💻 **Informática**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 💄 **Beleza**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 📦 **Outros**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 🍼 **Mãe e Bebê**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🍳 **Casa e Cozinha**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 📚 **Papelaria**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
-- 🍼 **Mãe e Bebê**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 
 ## Top ofertas para destacar
 
@@ -66,26 +66,26 @@ Gerado em: 09/10/2026 11:04
    - Desconto: 45% OFF
    - Link: https://s.shopee.com.br/9fLWAVFAYw
 
-8. **Webcam Full HD com Microfone**
+8. **Blusa Feminina Plus Size Viscolycra Manga Dobrada Estampa Coração Lis…**
+   - Categoria: Pet
+   - Loja: Shopee
+   - Preço: R$ 38,42
+   - Desconto: 20% OFF
+   - Link: https://s.shopee.com.br/W7HyyNltw
+
+9. **Webcam Full HD com Microfone**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 31,99
    - Desconto: 60% OFF
    - Link: https://s.shopee.com.br/8pmPVZmGvM
 
-9. **Caneta 3D Infantil e Adulto Impressora Manual DIY com Filamento Plást…**
+10. **Caneta 3D Infantil e Adulto Impressora Manual DIY com Filamento Plást…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 22,89
    - Desconto: 62% OFF
    - Link: https://s.shopee.com.br/9zyMpa1yx2
-
-10. **Carrinho Mcqueen Vira Robô Musical Com Luz e Som Infantil Bate e Volt…**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 34,90
-   - Desconto: 71% OFF
-   - Link: https://s.shopee.com.br/905pNHZRY3
 
 ## Ações gratuitas recomendadas
 

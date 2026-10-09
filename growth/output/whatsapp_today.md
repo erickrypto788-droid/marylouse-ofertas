@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 09/10/2026 11:04
+Gerado em: 09/10/2026 11:21
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
 ```txt
 🐶 Oferta para Ofertas Pet
 
-Sandália Babuche Infantil Papete Menina ADULTO
+Blusa Feminina Plus Size Viscolycra Manga Dobrada Estampa Coração Lis…
 
-💸 De: R$ 40,16
-🔥 Por: R$ 24,90
-🏷️ 38% OFF
+💸 De: R$ 48,02
+🔥 Por: R$ 38,42
+🏷️ 20% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/7Kxb7jABMt
+Ver oferta: https://s.shopee.com.br/W7HyyNltw
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

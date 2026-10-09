@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 09/10/2026 14:20
+Gerado em: 09/10/2026 15:22
 
 ## Como usar
 
@@ -147,14 +147,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
 ```txt
 🍳 Oferta para Casa e Cozinha
 
-Panela Elétrica Britânia 2L 5 Temperaturas 650W BPE02A
+Fritadeira Air Fryer Itatiaia 3,5 Litros 127V Sem Óleo
 
-💸 De: R$ 199,85
-🔥 Por: R$ 129,90
-🏷️ 35% OFF
+💸 De: R$ 230,06
+🔥 Por: R$ 181,75
+🏷️ 21% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/1qcfEp6ZOh
+Ver oferta: https://s.shopee.com.br/905qN5Igjd
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

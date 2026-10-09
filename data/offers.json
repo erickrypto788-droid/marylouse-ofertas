@@ -1,5 +1,26 @@
 [
   {
+    "id": "71ae2c89f06ad63308",
+    "title": "Vídeo Game Portátil Retrô",
+    "raw_title": "Vídeo Game portátil 10000 jogos retrô tipo P-s.Eony 5.5 Polegadas",
+    "description": "🕹️ IMPERDÍVEL! O GAME RETRÔ DOS SONHOS! 🎮 Prepare-se para uma viagem nostálgica! Este Vídeo Game Portátil traz 10.000 jogos clássicos para você reviver...",
+    "marketplace": "Shopee",
+    "category": "Jogos e Consoles",
+    "old_price": "R$ 301,57",
+    "price": "R$ 189,99",
+    "discount_percent": 37.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-81zvv-mmzs47rry5mr4a",
+    "affiliate_url": "https://s.shopee.com.br/LnrWDw3cW",
+    "created_at": "09/10/2026 07:16",
+    "created_at_iso": "2026-10-09T07:16:29",
+    "created_ts": 1791530189,
+    "niche": {
+      "key": "shopee_jogos_consoles",
+      "name": "Jogos e Consoles"
+    }
+  },
+  {
     "id": "74e9ba5322769240cf",
     "title": "Bandeja Mesa Café Da Manhã Pézinho Dobrável Mesa Cozinha",
     "raw_title": "Bandeja Mesa Café Da Manhã Pézinho Dobrável Mesa Cozinha",
@@ -2227,43 +2248,5 @@
     "created_at": "08/10/2026 08:02",
     "created_at_iso": "2026-10-08T08:02:10",
     "created_ts": 1791446530
-  },
-  {
-    "id": "5dec58d94f32952cc1",
-    "title": "Mochila de Couro Executiva Impermeável",
-    "raw_title": "Mochila de Couro Executiva Impermeável Reforçada com Porta USB e Fone para Notebook Viagem e Trabalho",
-    "description": "🚀 IMPERDÍVEL! Mochila Executiva de Couro Impermeável! Perfeita para trabalho e viagem, com porta USB e fone para seu notebook e celular. 💼💧 Garanta já a...",
-    "marketplace": "Shopee",
-    "category": "Bolsas Masculinas",
-    "old_price": "R$ 138,86",
-    "price": "R$ 49,99",
-    "discount_percent": 64.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-8259n-mtf6udunz4ea2e",
-    "affiliate_url": "https://s.shopee.com.br/2gBkhaA0tV",
-    "created_at": "08/10/2026 07:15",
-    "created_at_iso": "2026-10-08T07:15:54",
-    "created_ts": 1791443754,
-    "niche": {
-      "key": "shopee_bolsas_masculinas",
-      "name": "Bolsas Masculinas"
-    }
-  },
-  {
-    "id": "09bb46317541a28ff6",
-    "title": "Bike Spinning Bicicleta 6kg Wct Fitness Preta",
-    "raw_title": "Bike Spinning Bicicleta 6kg Wct Fitness Preta",
-    "description": "🔥 38% OFF — Oferta encontrada! 📌 Bike Spinning Bicicleta 6kg Wct Fitness Preta Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Mercado Livre",
-    "category": "Esportes e Lazer",
-    "old_price": "R$ 1.132,90",
-    "price": "R$ 699,99",
-    "discount_percent": 38.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_648848-MLA113038268844_072026-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75107533?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "08/10/2026 07:01",
-    "created_at_iso": "2026-10-08T07:01:54",
-    "created_ts": 1791442914
   }
 ]

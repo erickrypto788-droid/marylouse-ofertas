@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 09/10/2026 15:22
+Gerado em: 09/10/2026 16:22
 
 ## Como usar
 
@@ -79,8 +79,8 @@ Gerado em: 09/10/2026 15:22
 **Produtos usados:**
 
 - Escova Secadora Pet Elétrica 110V
+- Perfume Masculino Amadeirado 100ml
 - Barbeador Elétrico 4 Em 1 Para Mulheres Remoção De Pelos Corporais fe…
-- Perfume Masculino Millions
 
 ---
 

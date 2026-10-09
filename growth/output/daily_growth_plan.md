@@ -1,91 +1,91 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 09/10/2026 15:22
+Gerado em: 09/10/2026 16:22
 
 ## Categorias prioritárias
 
-- 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 💄 **Beleza**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 💄 **Beleza**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 💻 **Informática**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 🍳 **Casa e Cozinha**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 📦 **Outros**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 📚 **Papelaria**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 - 🔌 **Eletrodomésticos**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-eletrodomesticos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_eletrodomesticos
+- 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 🍼 **Mãe e Bebê**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 
 ## Top ofertas para destacar
 
-1. **Celular 5g Smartphone 16gb/512gb Rom Dimensity 7200 Impressão Digital…**
+1. **Perfume Masculino Amadeirado 100ml**
+   - Categoria: Beleza
+   - Loja: Shopee
+   - Preço: R$ 28,98
+   - Desconto: 52% OFF
+   - Link: https://s.shopee.com.br/1B1ieovje
+
+2. **Celular 5g Smartphone 16gb/512gb Rom Dimensity 7200 Impressão Digital…**
    - Categoria: Celulares
    - Loja: Mercado Livre
    - Preço: R$ 1.380,00
    - Desconto: 66% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB75208845?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-2. **Perfume Masculino Millions**
+3. **Perfume Masculino Millions**
    - Categoria: Beleza
    - Loja: Mercado Livre
    - Preço: R$ 184,00
    - Desconto: 50% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB77141871?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-3. **Escova Secadora Pet Elétrica 110V**
+4. **Escova Secadora Pet Elétrica 110V**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 43,99
    - Desconto: 78% OFF
    - Link: https://s.shopee.com.br/6AldfSyyYJ
 
-4. **Panela Elétrica Britânia 2L 5 Temperaturas 650W BPE02A**
+5. **Panela Elétrica Britânia 2L 5 Temperaturas 650W BPE02A**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 129,90
    - Desconto: 35% OFF
    - Link: https://s.shopee.com.br/1qcfEp6ZOh
 
-5. **Leitor Cartão USB C 3 Em 1 OTG SD Micro SD Adaptador Para Celular Not…**
+6. **Leitor Cartão USB C 3 Em 1 OTG SD Micro SD Adaptador Para Celular Not…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 17,99
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/5VVxXRuYv7
 
-6. **Barbeador Elétrico 4 Em 1 Para Mulheres Remoção De Pelos Corporais fe…**
+7. **Barbeador Elétrico 4 Em 1 Para Mulheres Remoção De Pelos Corporais fe…**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 29,99
    - Desconto: 41% OFF
    - Link: https://s.shopee.com.br/8fSzF8KKEQ
 
-7. **Fralda Huggies Tripla Proteção**
+8. **Fralda Huggies Tripla Proteção**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 27,00
    - Desconto: 45% OFF
    - Link: https://s.shopee.com.br/9fLWAVFAYw
 
-8. **Fritadeira Air Fryer Itatiaia 3,5 Litros 127V Sem Óleo**
+9. **Fritadeira Air Fryer Itatiaia 3,5 Litros 127V Sem Óleo**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 181,75
    - Desconto: 21% OFF
    - Link: https://s.shopee.com.br/905qN5Igjd
 
-9. **Liquidificador Mondial Turbo 1200w 3L Inox L-1200 Preto 110V**
+10. **Liquidificador Mondial Turbo 1200w 3L Inox L-1200 Preto 110V**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 172,90
    - Desconto: 78% OFF
    - Link: https://s.shopee.com.br/W7IFStJBA
-
-10. **Cabo 4 em 1 Carregamento Rápido PD 65W USB Tipo C Lightning Duplo Nyl…**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 15,99
-   - Desconto: 73% OFF
-   - Link: https://s.shopee.com.br/8pmQ6dzTLE
 
 ## Ações gratuitas recomendadas
 

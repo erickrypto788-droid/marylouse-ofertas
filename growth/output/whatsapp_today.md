@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 09/10/2026 06:05
+Gerado em: 09/10/2026 06:21
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
 ```txt
 🍳 Oferta para Casa e Cozinha
 
-Jogo Panelas 5 Peças Tradicional
+Panela Elétrica Britânia 2L 5 Temperaturas 650W BPE02A
 
-💸 De: R$ 233,90
-🔥 Por: R$ 179,90
-🏷️ 23% OFF
-🛒 Loja: Mercado Livre
+💸 De: R$ 199,85
+🔥 Por: R$ 129,90
+🏷️ 35% OFF
+🛒 Loja: Shopee
 
-Ver oferta: https://www.mercadolivre.com.br/p/MLB50984468?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+Ver oferta: https://s.shopee.com.br/1qcfEp6ZOh
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

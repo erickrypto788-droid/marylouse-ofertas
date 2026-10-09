@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 09/10/2026 06:05
+Gerado em: 09/10/2026 06:21
 
 ## Como usar
 
@@ -54,9 +54,9 @@ Gerado em: 09/10/2026 06:05
 
 **Produtos usados:**
 
+- Panela Elétrica Britânia 2L 5 Temperaturas 650W BPE02A
 - Jogo Panelas 5 Peças Tradicional
 - Cafeteira Elétrica Electrolux Ecm10 15 Xícaras 600w Grafite 110V
-- Liquidificador Mondial L‑99 Turbo 550 W 3 Velocidades
 
 ---
 
@@ -121,11 +121,13 @@ Gerado em: 09/10/2026 06:05
 - growth/shorts/slides/supermercados/01_intro.png
 - growth/shorts/slides/supermercados/02_produto_1.png
 - growth/shorts/slides/supermercados/03_produto_2.png
+- growth/shorts/slides/supermercados/04_produto_3.png
 - growth/shorts/slides/supermercados/05_cta.png
 
 **Produtos usados:**
 
+- Galheteiro Spray Azeite Borrifador Dosador 2 em 1 Economico vidro 470…
+- Boleadores de Brigadeiros 1,2 ou 3 unidades, Enrolador Modelador Beij…
 - Papel Higiênico Supra Folha Dupla 24 Rolos
-- Substrato Pronto FERTBAC 10L
 
 ---

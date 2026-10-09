@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 08/10/2026 23:21
+Gerado em: 09/10/2026 00:22
 
 ## Como usar
 
@@ -57,14 +57,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
 ```txt
 🍼 Oferta para Mamãe e Bebê
 
-Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…
+Fralda Huggies Tripla Proteção
 
-💸 De: R$ 59,98
-🔥 Por: R$ 26,99
-🏷️ 55% OFF
+💸 De: R$ 49,09
+🔥 Por: R$ 27,00
+🏷️ 45% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/60SCXTIss4
+Ver oferta: https://s.shopee.com.br/9fLWAVFAYw
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

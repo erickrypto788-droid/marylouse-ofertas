@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 08/10/2026 23:21
+Gerado em: 09/10/2026 00:22
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 08/10/2026 23:21
 
 **Produtos usados:**
 
+- Fralda Huggies Tripla Proteção
 - Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Beb…
-- Kit 4 Peças 2 Conjunto Infantil Bebê Menino Verão Algodão Promoção 2…
-- Kit 32 Fraldas Geriátricas ConfortMaster Pants
+- Carrinho Mcqueen Vira Robô Musical Com Luz e Som Infantil Bate e Volt…
 
 ---
 
@@ -79,8 +79,8 @@ Gerado em: 08/10/2026 23:21
 **Produtos usados:**
 
 - Escova Secadora Pet Elétrica 110V
-- Perfumes Brand Collection 25ml - Fragrâncias femininas
-- GOKOCO Secador de Cabelo de Alta Velocidade Secador de Cabelo Profiss…
+- Escova 5 em 1 Profissional
+- Perfume Feminino Olympia
 
 ---
 
@@ -121,13 +121,11 @@ Gerado em: 08/10/2026 23:21
 - growth/shorts/slides/supermercados/01_intro.png
 - growth/shorts/slides/supermercados/02_produto_1.png
 - growth/shorts/slides/supermercados/03_produto_2.png
-- growth/shorts/slides/supermercados/04_produto_3.png
 - growth/shorts/slides/supermercados/05_cta.png
 
 **Produtos usados:**
 
 - Papel Higiênico Supra Folha Dupla 24 Rolos
 - Substrato Pronto FERTBAC 10L
-- Hidratante Creme Facial Pele De Porcelana Kokeshi 30g Milagre do Arroz
 
 ---

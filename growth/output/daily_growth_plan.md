@@ -1,16 +1,16 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 09/10/2026 19:21
+Gerado em: 09/10/2026 20:22
 
 ## Categorias prioritárias
 
-- 💄 **Beleza**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🏋️ **Esportes**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
+- ❤️ **Saúde**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 🧸 **Brinquedos**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
-- 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 📚 **Papelaria**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
+- 💄 **Beleza**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 💻 **Informática**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 🍼 **Mãe e Bebê**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 🍳 **Casa e Cozinha**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
@@ -73,19 +73,19 @@ Gerado em: 09/10/2026 19:21
    - Desconto: 45% OFF
    - Link: https://s.shopee.com.br/9fLWAVFAYw
 
-9. **Fritadeira Air Fryer Itatiaia 3,5 Litros 127V Sem Óleo**
-   - Categoria: Casa e Cozinha
+9. **KIT Medidor de Pressão + Oxímetro**
+   - Categoria: Saúde
    - Loja: Shopee
-   - Preço: R$ 181,75
-   - Desconto: 21% OFF
-   - Link: https://s.shopee.com.br/905qN5Igjd
+   - Preço: R$ 49,98
+   - Desconto: 72% OFF
+   - Link: https://s.shopee.com.br/LnsNlAbac
 
-10. **Liquidificador Mondial Turbo 1200w 3L Inox L-1200 Preto 110V**
-   - Categoria: Casa e Cozinha
+10. **Garrafa Térmica 1L Termômetro LED**
+   - Categoria: Saúde
    - Loja: Shopee
-   - Preço: R$ 172,90
-   - Desconto: 78% OFF
-   - Link: https://s.shopee.com.br/W7IFStJBA
+   - Preço: R$ 44,95
+   - Desconto: 59% OFF
+   - Link: https://s.shopee.com.br/4LK196i2dx
 
 ## Ações gratuitas recomendadas
 

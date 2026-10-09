@@ -1,6 +1,6 @@
 # Pinterest Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 09/10/2026 05:22
+Gerado em: 09/10/2026 06:05
 
 ## Como usar
 
@@ -38,7 +38,7 @@ https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=pinterest&
 
 **Por que postar:**
 
-Categoria com 7 oferta(s) e boa intenção de compra.
+Categoria com 6 oferta(s) e boa intenção de compra.
 
 ---
 
@@ -114,7 +114,7 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
 
 **Descrição:**
 
-Veja ofertas de Celulares selecionadas pela MaryLouse Ofertas. Destaque de hoje: Leitor Cartão USB C 3 Em 1 OTG SD Micro SD Adaptador Para Celular Not…. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Veja ofertas de Celulares selecionadas pela MaryLouse Ofertas. Destaque de hoje: Celular 5g Smartphone 16gb/512gb Rom Dimensity 7200 Impressão Digital…. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
@@ -122,31 +122,31 @@ https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=pinterest
 
 **Por que postar:**
 
-Categoria com 8 oferta(s) e boa intenção de compra.
+Categoria com 10 oferta(s) e boa intenção de compra.
 
 ---
 
-## Pin 5 — Beleza
+## Pin 5 — Celulares
 
 **Tipo:** produto_direto
 
-**Board sugerido:** Beleza e Cuidados
+**Board sugerido:** Celulares e Tecnologia
 
 **Imagem para upload no Pinterest:**
 
-https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
+https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
 
 **Título:**
 
-78% OFF: Escova Secadora Pet Elétrica 110V
+66% OFF: Celular 5g Smartphone 16gb/512gb Rom Dimensity 7200 Impressão Digital…
 
 **Descrição:**
 
-Oferta destaque em Beleza encontrada pela MaryLouse Ofertas. Preço: R$ 43,99. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Oferta destaque em Celulares encontrada pela MaryLouse Ofertas. Preço: R$ 1.380,00. Loja: Mercado Livre. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
-https://s.shopee.com.br/6AldfSyyYJ
+https://www.mercadolivre.com.br/p/MLB75208845?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 **Por que postar:**
 

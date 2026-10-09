@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 09/10/2026 09:18
+Gerado em: 09/10/2026 10:22
 
 ## Categorias prioritárias
 
-- 💻 **Informática**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 📦 **Outros**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 💻 **Informática**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 👕 **Moda Masculina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 - 👗 **Moda Feminina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
-- 📱 **Celulares**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 💄 **Beleza**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 📦 **Outros**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 🍳 **Casa e Cozinha**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 📚 **Papelaria**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
-- 🍼 **Mãe e Bebê**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- ❤️ **Saúde**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
+- 🍼 **Mãe e Bebê**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 
 ## Top ofertas para destacar
 
@@ -38,54 +38,54 @@ Gerado em: 09/10/2026 09:18
    - Desconto: 78% OFF
    - Link: https://s.shopee.com.br/6AldfSyyYJ
 
-4. **Case Gaveta HD/SSD 2.5 USB 3.0 Transparente**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 30,99
-   - Desconto: 69% OFF
-   - Link: https://s.shopee.com.br/1VznRjMLN6
-
-5. **Panela Elétrica Britânia 2L 5 Temperaturas 650W BPE02A**
+4. **Panela Elétrica Britânia 2L 5 Temperaturas 650W BPE02A**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 129,90
    - Desconto: 35% OFF
    - Link: https://s.shopee.com.br/1qcfEp6ZOh
 
-6. **Leitor Cartão USB C 3 Em 1 OTG SD Micro SD Adaptador Para Celular Not…**
+5. **Leitor Cartão USB C 3 Em 1 OTG SD Micro SD Adaptador Para Celular Not…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 17,99
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/5VVxXRuYv7
 
-7. **Barbeador Elétrico 4 Em 1 Para Mulheres Remoção De Pelos Corporais fe…**
+6. **Barbeador Elétrico 4 Em 1 Para Mulheres Remoção De Pelos Corporais fe…**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 29,99
    - Desconto: 41% OFF
    - Link: https://s.shopee.com.br/8fSzF8KKEQ
 
-8. **Fralda Huggies Tripla Proteção**
+7. **Fralda Huggies Tripla Proteção**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 27,00
    - Desconto: 45% OFF
    - Link: https://s.shopee.com.br/9fLWAVFAYw
 
-9. **Webcam Full HD com Microfone**
+8. **Webcam Full HD com Microfone**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 31,99
    - Desconto: 60% OFF
    - Link: https://s.shopee.com.br/8pmPVZmGvM
 
-10. **Caneta 3D Infantil e Adulto Impressora Manual DIY com Filamento Plást…**
+9. **Caneta 3D Infantil e Adulto Impressora Manual DIY com Filamento Plást…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 22,89
    - Desconto: 62% OFF
    - Link: https://s.shopee.com.br/9zyMpa1yx2
+
+10. **Carrinho Mcqueen Vira Robô Musical Com Luz e Som Infantil Bate e Volt…**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 34,90
+   - Desconto: 71% OFF
+   - Link: https://s.shopee.com.br/905pNHZRY3
 
 ## Ações gratuitas recomendadas
 

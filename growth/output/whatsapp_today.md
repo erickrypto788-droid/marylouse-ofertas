@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 09/10/2026 07:18
+Gerado em: 09/10/2026 08:22
 
 ## Como usar
 
@@ -147,14 +147,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Vestido Midi Feminino com Manga Bufante Tecido Duna com Lastex nas Co…
+Top Sutiã Confortável Sem Aro Plus Size
 
-💸 De: R$ 191,67
-🔥 Por: R$ 69,00
-🏷️ 64% OFF
+💸 De: R$ 99,96
+🔥 Por: R$ 25,99
+🏷️ 74% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/9fLVN3D1LM
+Ver oferta: https://s.shopee.com.br/9pewtlKohi
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

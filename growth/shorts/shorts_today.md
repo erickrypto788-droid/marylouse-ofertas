@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 09/10/2026 12:19
+Gerado em: 09/10/2026 13:10
 
 ## Como usar
 
@@ -128,6 +128,6 @@ Gerado em: 09/10/2026 12:19
 
 - Galheteiro Spray Azeite Borrifador Dosador 2 em 1 Economico vidro 470…
 - Boleadores de Brigadeiros 1,2 ou 3 unidades, Enrolador Modelador Beij…
-- Papel Higiênico Supra Folha Dupla 24 Rolos
+- Papel Higiênico Fofopel 16 Rolos
 
 ---

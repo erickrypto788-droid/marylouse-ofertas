@@ -1,18 +1,18 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 09/10/2026 14:04
+Gerado em: 09/10/2026 14:20
 
 ## Categorias prioritárias
 
 - 👟 **Calçados**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 💄 **Beleza**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 💻 **Informática**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 📦 **Outros**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 📚 **Papelaria**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
-- 📦 **Outros**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 🍼 **Mãe e Bebê**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🍳 **Casa e Cozinha**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
-- 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 👕 **Moda Masculina**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 
 ## Top ofertas para destacar
@@ -66,26 +66,26 @@ Gerado em: 09/10/2026 14:04
    - Desconto: 45% OFF
    - Link: https://s.shopee.com.br/9fLWAVFAYw
 
-8. **Blusa Feminina Plus Size Viscolycra Manga Dobrada Estampa Coração Lis…**
+8. **Cabo 4 em 1 Carregamento Rápido PD 65W USB Tipo C Lightning Duplo Nyl…**
+   - Categoria: Celulares
+   - Loja: Shopee
+   - Preço: R$ 15,99
+   - Desconto: 73% OFF
+   - Link: https://s.shopee.com.br/8pmQ6dzTLE
+
+9. **Kit 2 Capinha Para Iphone Anti Impacto Transparente Tpu Para IPhone…**
+   - Categoria: Celulares
+   - Loja: Shopee
+   - Preço: R$ 12,99
+   - Desconto: 57% OFF
+   - Link: https://s.shopee.com.br/6L5583MFyq
+
+10. **Blusa Feminina Plus Size Viscolycra Manga Dobrada Estampa Coração Lis…**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 38,42
    - Desconto: 20% OFF
    - Link: https://s.shopee.com.br/W7HyyNltw
-
-9. **Webcam Full HD com Microfone**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 31,99
-   - Desconto: 60% OFF
-   - Link: https://s.shopee.com.br/8pmPVZmGvM
-
-10. **Caneta 3D Infantil e Adulto Impressora Manual DIY com Filamento Plást…**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 22,89
-   - Desconto: 62% OFF
-   - Link: https://s.shopee.com.br/9zyMpa1yx2
 
 ## Ações gratuitas recomendadas
 

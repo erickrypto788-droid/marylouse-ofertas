@@ -1,5 +1,47 @@
 [
   {
+    "id": "83b59ab9c1f957d0ee",
+    "title": "Rasteirinha Luxo com Strass",
+    "raw_title": "Sandália Feminina Rasteirinha Luxo com Strass Brilho Confortável Casual",
+    "description": "✨ Brilhe com estilo e conforto! ✨ Transforme seus looks com a Sandália Rasteirinha de Luxo com Strass. Perfeita para qualquer ocasião casual, ela une br...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Femininos",
+    "old_price": "R$ 119,91",
+    "price": "R$ 64,75",
+    "discount_percent": 46.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mt9zw7wgqpkw2e",
+    "affiliate_url": "https://s.shopee.com.br/2qVE9nCVb8",
+    "created_at": "10/10/2026 08:17",
+    "created_at_iso": "2026-10-10T08:17:27",
+    "created_ts": 1791620247,
+    "niche": {
+      "key": "shopee_sapatos_femininos",
+      "name": "Sapatos Femininos"
+    }
+  },
+  {
+    "id": "a050ce3b538b4bedbf",
+    "title": "Sandália Rasteira Strass Nó Luxo",
+    "raw_title": "Sandalia Rasteira Strass Nó Lançamento Feminino Tendência Luxo Chinelo Confortável",
+    "description": "✨ Tendência e Conforto nos seus pés! A Sandália Rasteira Strass Nó é o lançamento que une estilo e o luxo que você merece. Perfeita para qualquer ocasião!",
+    "marketplace": "Shopee",
+    "category": "Sapatos Femininos",
+    "old_price": "R$ 111,47",
+    "price": "R$ 37,90",
+    "discount_percent": 66.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mct7zdiue4he43",
+    "affiliate_url": "https://s.shopee.com.br/3Vkux19yFK",
+    "created_at": "10/10/2026 08:16",
+    "created_at_iso": "2026-10-10T08:16:18",
+    "created_ts": 1791620178,
+    "niche": {
+      "key": "shopee_sapatos_femininos",
+      "name": "Sapatos Femininos"
+    }
+  },
+  {
     "id": "db15cc3d0e15ae86e6",
     "title": "Camisa Feminina Gola Removível",
     "raw_title": "Camisa feminina de gola sintética removível, cor de gravata, tamanho branco, conforme descrito",
@@ -2242,27 +2284,6 @@
     "created_at": "09/10/2026 08:17",
     "created_at_iso": "2026-10-09T08:17:29",
     "created_ts": 1791533849,
-    "niche": {
-      "key": "shopee_roupas_femininas",
-      "name": "Roupas Femininas"
-    }
-  },
-  {
-    "id": "2d4d6f9ed4b11ce1ba",
-    "title": "Top Sutiã Confortável Sem Aro Plus Size",
-    "raw_title": "Top Feminino Sutiã Poliamida Sem Aro com 4 Ajustes Bojo Confortável Básico Reforçado Microfibra Plus Size",
-    "description": "🚨 OFERTA RELÂMPAGO! Conforto e Preço Baixo! Garanta já o seu Top Feminino Sutiã em Poliamida! Sem aro, com bojo confortável e 4 ajustes para o caimento...",
-    "marketplace": "Shopee",
-    "category": "Roupas Femininas",
-    "old_price": "R$ 99,96",
-    "price": "R$ 25,99",
-    "discount_percent": 74.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk1ln0gv24u894",
-    "affiliate_url": "https://s.shopee.com.br/9pewtlKohi",
-    "created_at": "09/10/2026 08:15",
-    "created_at_iso": "2026-10-09T08:15:57",
-    "created_ts": 1791533757,
     "niche": {
       "key": "shopee_roupas_femininas",
       "name": "Roupas Femininas"

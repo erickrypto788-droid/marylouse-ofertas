@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 10/10/2026 15:03
+Gerado em: 10/10/2026 15:21
 
 ## Categorias prioritárias
 
@@ -8,12 +8,12 @@ Gerado em: 10/10/2026 15:03
 - 🏋️ **Esportes**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 🧸 **Brinquedos**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 🍼 **Mãe e Bebê**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- ❤️ **Saúde**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 👗 **Moda Feminina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 📚 **Papelaria**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 - 💻 **Informática**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 🧒 **Moda Infantil**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-infantil.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-infantil
-- 🍳 **Casa e Cozinha**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 
 ## Top ofertas para destacar
 
@@ -52,40 +52,40 @@ Gerado em: 10/10/2026 15:03
    - Desconto: 31% OFF
    - Link: https://s.shopee.com.br/3LRTkuIQOP
 
-6. **Tênis Infantil Baby Confortável**
+6. **Oxímetro Infantil Neonatal Pediátrico De Dedo Digital Crianças Medido…**
+   - Categoria: Saúde
+   - Loja: Shopee
+   - Preço: R$ 25,99
+   - Desconto: 61% OFF
+   - Link: https://s.shopee.com.br/9APIAGwQQz
+
+7. **Tênis Infantil Baby Confortável**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 34,90
    - Desconto: 53% OFF
    - Link: https://s.shopee.com.br/5q8nKyKMS8
 
-7. **Carregador Rápido 120W USB-C**
+8. **Carregador Rápido 120W USB-C**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 19,90
    - Desconto: 60% OFF
    - Link: https://s.shopee.com.br/40hBc3AW62
 
-8. **Kit Porta Leite em Pó + Colher Silicone**
+9. **Kit Porta Leite em Pó + Colher Silicone**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 26,88
    - Desconto: 55% OFF
    - Link: https://s.shopee.com.br/113ZZgwAsc
 
-9. **Webcam Full HD 1080p com Microfone Embutido - Widescreen USB, Ideal p…**
+10. **Webcam Full HD 1080p com Microfone Embutido - Widescreen USB, Ideal p…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 38,00
    - Desconto: 80% OFF
    - Link: https://s.shopee.com.br/6L55rNzkfK
-
-10. **Mochila Notebook Escolar Resistente**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 30,12
-   - Desconto: 25% OFF
-   - Link: https://s.shopee.com.br/2VsN5yl7ym
 
 ## Ações gratuitas recomendadas
 

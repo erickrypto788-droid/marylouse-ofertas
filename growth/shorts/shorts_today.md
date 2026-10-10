@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 10/10/2026 15:03
+Gerado em: 10/10/2026 15:21
 
 ## Como usar
 
@@ -54,9 +54,9 @@ Gerado em: 10/10/2026 15:03
 
 **Produtos usados:**
 
-- Liquidificador Mondial Turbo 1200w 3L Inox L-1200 Preto 110V
-- Fritadeira Air Fryer Itatiaia 3,5 Litros 127V Sem Óleo
 - Micro-ondas Britânia 20L Limpa Fácil
+- Termômetro Digital Infravermelho
+- Liquidificador Britânia Diamante 1100W
 
 ---
 

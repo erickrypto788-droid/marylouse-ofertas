@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 10/10/2026 22:03
+Gerado em: 10/10/2026 23:22
 
 ## Categorias prioritárias
 
+- 👗 **Moda Feminina**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 📚 **Papelaria**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
-- 💻 **Informática**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 🍼 **Mãe e Bebê**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 📦 **Outros**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 📱 **Celulares**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
-- 🍼 **Mãe e Bebê**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 👜 **Bolsas**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
+- 💻 **Informática**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 💄 **Beleza**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 👗 **Moda Feminina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 🏋️ **Esportes**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 🍳 **Casa e Cozinha**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
+- 🧸 **Brinquedos**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 
 ## Top ofertas para destacar
 
@@ -59,33 +59,33 @@ Gerado em: 10/10/2026 22:03
    - Desconto: 33% OFF
    - Link: https://s.shopee.com.br/4fwss7gTKs
 
-7. **HUAWEI WiFi AX3S | Roteador | Wi-Fi 6+, 3000Mbps | Easymesh | HiCon…**
+7. **kit 2 Camiseta T-shirt Algodão Basica Feminina 30.1 Uniforme Blusinha…**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 34,15
+   - Desconto: 51% OFF
+   - Link: https://s.shopee.com.br/20w8A4TRq2
+
+8. **HUAWEI WiFi AX3S | Roteador | Wi-Fi 6+, 3000Mbps | Easymesh | HiCon…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 175,00
    - Desconto: 71% OFF
    - Link: https://s.shopee.com.br/AAHpgiZXcg
 
-8. **Mouse Pad Desk Pad Couro Borda Costurada Gigante Antiderrapante Tapet…**
+9. **Mouse Pad Desk Pad Couro Borda Costurada Gigante Antiderrapante Tapet…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 15,89
    - Desconto: 56% OFF
    - Link: https://s.shopee.com.br/W7KAwoH6Y
 
-9. **Kit 3 Necessaires Impermeáveis**
+10. **Kit 3 Necessaires Impermeáveis**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 29,99
    - Desconto: 57% OFF
    - Link: https://s.shopee.com.br/6VOX7cBPns
-
-10. **Mesa Atividades Volante Bebê Musical Educativa Brinquedo Interativo p…**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 105,00
-   - Desconto: 58% OFF
-   - Link: https://s.shopee.com.br/3B855NCeKG
 
 ## Ações gratuitas recomendadas
 

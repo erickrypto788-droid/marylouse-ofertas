@@ -1,5 +1,39 @@
 [
   {
+    "id": "cdbe51b1097c97fce8",
+    "title": "Armário Organizador Cozinha Jet - Cinza",
+    "raw_title": "Armário Organizador Cozinha Balcão Microondas Jet - Cinza",
+    "description": "🚀 Cozinha organizada e moderna? SIM! Chega de bagunça! Apresentamos o Armário Organizador Cozinha Balcão Microondas Jet - Cinza. Perfeito para otimizar...",
+    "marketplace": "Mercado Livre",
+    "category": "Casa e Cozinha",
+    "old_price": "",
+    "price": "R$ 399,90",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_672278-MLA80537620400_112024-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB38279289?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "10/10/2026 09:03",
+    "created_at_iso": "2026-10-10T09:03:20",
+    "created_ts": 1791623000
+  },
+  {
+    "id": "ecc85fddcbf94245dc",
+    "title": "Rack Acacia para TV 43'",
+    "raw_title": "Rack Acacia Rack Para Tv Até 43 Pt-jupiter De Madeira",
+    "description": "🛋️ Renove sua sala agora! ✨ Rack Acacia para TV até 43\" Pt-Jupiter de madeira. Um toque de elegância e organização para seu ambiente, com a qualidade qu...",
+    "marketplace": "Mercado Livre",
+    "category": "Casa e Decoração",
+    "old_price": "",
+    "price": "R$ 195,32",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_837557-MLA112699471961_062026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB72068054?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "10/10/2026 09:02",
+    "created_at_iso": "2026-10-10T09:02:09",
+    "created_ts": 1791622929
+  },
+  {
     "id": "83b59ab9c1f957d0ee",
     "title": "Rasteirinha Luxo com Strass",
     "raw_title": "Sandália Feminina Rasteirinha Luxo com Strass Brilho Confortável Casual",
@@ -2203,90 +2237,6 @@
     "niche": {
       "key": "shopee_roupas_masculinas",
       "name": "Roupas Masculinas"
-    }
-  },
-  {
-    "id": "6526640474f6950900",
-    "title": "The Perfect Top Insider",
-    "raw_title": "The Perfect Top Insider",
-    "description": "🔥 Imperdível! O Top INSIDER perfeito para você! Garanta o The Perfect Top Insider, a peça essencial que une conforto e estilo. Não perca essa chance!",
-    "marketplace": "Shopee",
-    "category": "Roupas Femininas",
-    "old_price": "R$ 138,88",
-    "price": "R$ 99,99",
-    "discount_percent": 28.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7rd52-m7wmqucrqn5354",
-    "affiliate_url": "https://s.shopee.com.br/gQhyugaDI",
-    "created_at": "09/10/2026 08:20",
-    "created_at_iso": "2026-10-09T08:20:54",
-    "created_ts": 1791534054,
-    "niche": {
-      "key": "shopee_roupas_femininas",
-      "name": "Roupas Femininas"
-    }
-  },
-  {
-    "id": "e893d1f77c275b344f",
-    "title": "Kit 2 Regata Feminina Decote Quadrado",
-    "raw_title": "Kit 2 Regata Feminina Blusa Decote Quadrado",
-    "description": "👗 Estilo em dobro com super desconto! ✨ Garanta seu Kit 2 Regata Feminina Blusa Decote Quadrado e arrase em qualquer ocasião! Não perca essa chance de r...",
-    "marketplace": "Shopee",
-    "category": "Roupas Femininas",
-    "old_price": "R$ 69,60",
-    "price": "R$ 36,89",
-    "discount_percent": 47.0,
-    "rating": 4.7,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-me4z3f133xmrb6",
-    "affiliate_url": "https://s.shopee.com.br/1qcfN3yHGs",
-    "created_at": "09/10/2026 08:19",
-    "created_at_iso": "2026-10-09T08:19:47",
-    "created_ts": 1791533987,
-    "niche": {
-      "key": "shopee_roupas_femininas",
-      "name": "Roupas Femininas"
-    }
-  },
-  {
-    "id": "555922810dc663fee3",
-    "title": "Short Social Feminino Cintura Alta",
-    "raw_title": "Short Social Feminino Marrante Reto Cintura Alta Com Bolsos E Caimento Estruturado Look Moderno Dia A Dia",
-    "description": "✨ Estilo e conforto com essa OFERTA IMPERDÍVEL! ✨ Short Social Feminino Marrante Reto, cintura alta com bolsos e caimento estruturado. Ideal para um loo...",
-    "marketplace": "Shopee",
-    "category": "Roupas Femininas",
-    "old_price": "R$ 70,35",
-    "price": "R$ 37,99",
-    "discount_percent": 46.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-8261c-mk1eapwu6f427b",
-    "affiliate_url": "https://s.shopee.com.br/7ptsW5SZGt",
-    "created_at": "09/10/2026 08:18",
-    "created_at_iso": "2026-10-09T08:18:36",
-    "created_ts": 1791533916,
-    "niche": {
-      "key": "shopee_roupas_femininas",
-      "name": "Roupas Femininas"
-    }
-  },
-  {
-    "id": "d3fe88f0e9920760a3",
-    "title": "Conjunto Jeans Cropped e Calça Barrel",
-    "raw_title": "Conjunto Camisa Jeans Cropped Calça Feminina Jeans Barrel",
-    "description": "💥 Metade do preço para um look INCRÍVEL! 💥 O Conjunto Camisa Jeans Cropped Calça Feminina Jeans Barrel chegou para você arrasar! ✨ Perfeito para qualque...",
-    "marketplace": "Shopee",
-    "category": "Roupas Femininas",
-    "old_price": "R$ 299,78",
-    "price": "R$ 149,89",
-    "discount_percent": 50.0,
-    "rating": 5.0,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lw-ms4h6kkrdb0m4d",
-    "affiliate_url": "https://s.shopee.com.br/80DIiOIzqG",
-    "created_at": "09/10/2026 08:17",
-    "created_at_iso": "2026-10-09T08:17:29",
-    "created_ts": 1791533849,
-    "niche": {
-      "key": "shopee_roupas_femininas",
-      "name": "Roupas Femininas"
     }
   }
 ]

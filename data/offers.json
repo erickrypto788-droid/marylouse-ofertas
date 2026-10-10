@@ -1,5 +1,39 @@
 [
   {
+    "id": "f9856c1da0a4aa69f5",
+    "title": "Estojo Magnético Crystal iPhone",
+    "raw_title": "Estojo magnético da série Crystal para iPhone 13, iPhone 13 Pro, iPhone 13 Pro Max, iPhone 14, iPhone 14 Pro, iPhone 14 Pro Max",
+    "description": "✨ Seu iPhone merece proteção e estilo! Estojo Magnético da série Crystal para iPhone 13, 13 Pro, 13 Pro Max, 14, 14 Pro e 14 Pro Max. Mantenha seu apare...",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "",
+    "price": "R$ 99,90",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_836023-MLA99470628506_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21090695?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "10/10/2026 17:03",
+    "created_at_iso": "2026-10-10T17:03:07",
+    "created_ts": 1791651787
+  },
+  {
+    "id": "57568bbe9c0bfaf05a",
+    "title": "Smartphone Xiaomi Redmi 14C Preto 128GB 4GB RAM",
+    "raw_title": "Smartphone Xiaomi Redmi 14C Preto 128GB 4GB RAM",
+    "description": "🔥 5% OFF — Oferta encontrada! 📌 Smartphone Xiaomi Redmi 14C Preto 128GB 4GB RAM Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "R$ 799,00",
+    "price": "R$ 759,05",
+    "discount_percent": 5.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_641460-MLA115717276858_092026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43264591?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "10/10/2026 17:01",
+    "created_at_iso": "2026-10-10T17:01:50",
+    "created_ts": 1791651710
+  },
+  {
     "id": "e2bc41248bbdec7a83",
     "title": "Mini Berço Portátil Infantil Confortável Mosqueteiro para Bebês",
     "raw_title": "Mini Berço Portátil Infantil Confortável Mosqueteiro para Bebês",
@@ -2396,27 +2430,6 @@
     "niche": {
       "key": "shopee_moda_infantil",
       "name": "Moda Infantil"
-    }
-  },
-  {
-    "id": "dbd4402eaf62fba695",
-    "title": "Kit Com 2 Protetor Solar blackout buba Carro Infantil Para Carro Buba…",
-    "raw_title": "Kit Com 2 Protetor Solar blackout buba Carro Infantil Para Carro Buba Com Ventosa Protege Sol",
-    "description": "🔥 18% OFF — Oferta encontrada! 📌 Kit Com 2 Protetor Solar blackout buba Carro Infantil Para Carro Buba Com Ventosa Protege Sol Confira os detalhes e apr...",
-    "marketplace": "Shopee",
-    "category": "Beleza",
-    "old_price": "R$ 31,45",
-    "price": "R$ 25,79",
-    "discount_percent": 18.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lp-mlw6c0zdyarr02",
-    "affiliate_url": "https://s.shopee.com.br/80DJFMgXhg",
-    "created_at": "09/10/2026 16:20",
-    "created_at_iso": "2026-10-09T16:20:18",
-    "created_ts": 1791562818,
-    "niche": {
-      "key": "shopee_beleza",
-      "name": "Beleza"
     }
   }
 ]

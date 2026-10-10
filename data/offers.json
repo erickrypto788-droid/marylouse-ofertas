@@ -1,5 +1,26 @@
 [
   {
+    "id": "4faf24b348b74c9cbf",
+    "title": "Tênis Masculino Esportivo",
+    "raw_title": "Tênis Masculino Academia Casual Esportivo Para Treino Crossfit Caminhada",
+    "description": "Este Tênis Masculino é perfeito para sua rotina de academia, treinos, crossfit ou caminhada. Versatilidade e conforto garantidos para o seu dia a dia! E...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Masculinos",
+    "old_price": "R$ 120,91",
+    "price": "R$ 39,90",
+    "discount_percent": 67.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-825at-mq21xqfy1mvg15",
+    "affiliate_url": "https://s.shopee.com.br/9KihpcP2bR",
+    "created_at": "10/10/2026 07:15",
+    "created_at_iso": "2026-10-10T07:15:58",
+    "created_ts": 1791616558,
+    "niche": {
+      "key": "shopee_sapatos_masculinos",
+      "name": "Sapatos Masculinos"
+    }
+  },
+  {
     "id": "c8b61e4b4219154888",
     "title": "Arroz Motigome 1kg",
     "raw_title": "Arroz Motigome 1kg",

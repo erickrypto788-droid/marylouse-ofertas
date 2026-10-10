@@ -1,13 +1,13 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 10/10/2026 15:27
+Gerado em: 10/10/2026 16:21
 
 ## Categorias prioritárias
 
-- 💄 **Beleza**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 🍼 **Mãe e Bebê**: 15 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 🏋️ **Esportes**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 🧸 **Brinquedos**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
-- 🍼 **Mãe e Bebê**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 💄 **Beleza**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - ❤️ **Saúde**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 👗 **Moda Feminina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
@@ -38,54 +38,54 @@ Gerado em: 10/10/2026 15:27
    - Desconto: 53% OFF
    - Link: https://s.shopee.com.br/1B23Fo3yw
 
-4. **Perfume Masculino Amadeirado 100ml**
-   - Categoria: Beleza
+4. **Kit 3 Fraldas Descartáveis Pampers Supersequinha Mega M - 120 Tiras**
+   - Categoria: Mãe e Bebê
    - Loja: Shopee
-   - Preço: R$ 28,98
-   - Desconto: 52% OFF
-   - Link: https://s.shopee.com.br/1B1ieovje
+   - Preço: R$ 137,97
+   - Desconto: 32% OFF
+   - Link: https://s.shopee.com.br/6fhxFnhj5H
 
-5. **Body Vestido Infantil Canelado Tapa Fralda De Pressão Conforto Kit 2,…**
+5. **Kit 2 Fraldas Descartáveis Cremer Magic Care Hiper G 60 Tiras**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 99,99
+   - Desconto: 33% OFF
+   - Link: https://s.shopee.com.br/4fwss7gTKs
+
+6. **Body Vestido Infantil Canelado Tapa Fralda De Pressão Conforto Kit 2,…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 29,99
    - Desconto: 31% OFF
    - Link: https://s.shopee.com.br/3LRTkuIQOP
 
-6. **Oxímetro Infantil Neonatal Pediátrico De Dedo Digital Crianças Medido…**
+7. **Mesa Atividades Volante Bebê Musical Educativa Brinquedo Interativo p…**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 105,00
+   - Desconto: 58% OFF
+   - Link: https://s.shopee.com.br/3B855NCeKG
+
+8. **Oxímetro Infantil Neonatal Pediátrico De Dedo Digital Crianças Medido…**
    - Categoria: Saúde
    - Loja: Shopee
    - Preço: R$ 25,99
    - Desconto: 61% OFF
    - Link: https://s.shopee.com.br/9APIAGwQQz
 
-7. **Tênis Infantil Baby Confortável**
+9. **Tênis Infantil Baby Confortável**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 34,90
    - Desconto: 53% OFF
    - Link: https://s.shopee.com.br/5q8nKyKMS8
 
-8. **Carregador Rápido 120W USB-C**
+10. **Carregador Rápido 120W USB-C**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 19,90
    - Desconto: 60% OFF
    - Link: https://s.shopee.com.br/40hBc3AW62
-
-9. **Kit Porta Leite em Pó + Colher Silicone**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 26,88
-   - Desconto: 55% OFF
-   - Link: https://s.shopee.com.br/113ZZgwAsc
-
-10. **Webcam Full HD 1080p com Microfone Embutido - Widescreen USB, Ideal p…**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 38,00
-   - Desconto: 80% OFF
-   - Link: https://s.shopee.com.br/6L55rNzkfK
 
 ## Ações gratuitas recomendadas
 

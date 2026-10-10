@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 10/10/2026 15:21
+Gerado em: 10/10/2026 16:21
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 10/10/2026 15:21
 **Produtos usados:**
 
 - Kit 11 Peças - 5 Fraldas 60x60cm + 6 Paninho de Boca 30x30cm 100% Alg…
-- Fralda Huggies Meguinha G
-- Body Vestido Infantil Canelado Tapa Fralda De Pressão Conforto Kit 2,…
+- Kit 3 Fraldas Descartáveis Pampers Supersequinha Mega M - 120 Tiras
+- Kit 2 Fraldas Descartáveis Cremer Magic Care Hiper G 60 Tiras
 
 ---
 
@@ -79,8 +79,8 @@ Gerado em: 10/10/2026 15:21
 **Produtos usados:**
 
 - Escova Secadora GOKOCO 5 em 1
-- Perfume Masculino Amadeirado 100ml
 - Escova Secadora Oval
+- Kit 2 Protetores Solares Principia com Cor
 
 ---
 

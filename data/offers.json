@@ -1,5 +1,22 @@
 [
   {
+    "id": "351d80a56ee6ed7698",
+    "title": "Impressora de Etiquetas + 1000 Etiquetas",
+    "raw_title": "Impressora Etiquetas Adesivas + 1.000 Etiquetas 10x15cm Branco",
+    "description": "📦 Agilidade e organização para seus envios! A Impressora de Etiquetas Adesivas + 1.000 Etiquetas 10x15cm Branco é a solução perfeita para otimizar seu t...",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "R$ 699,00",
+    "price": "R$ 589,10",
+    "discount_percent": 16.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_894798-MLA115475668290_082026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB78672090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "10/10/2026 22:01",
+    "created_at_iso": "2026-10-10T22:01:58",
+    "created_ts": 1791669718
+  },
+  {
     "id": "b83d6bf7cbb466f662",
     "title": "FitS36 AlwaysFit | Psyllium + Spirulina + Picolinato de Cromo + Cafe…",
     "raw_title": "FitS36 AlwaysFit | Psyllium + Spirulina + Picolinato de Cromo + Cafeína + L-Carnitina | 60 Cápsulas",
@@ -2275,44 +2292,6 @@
     "niche": {
       "key": "shopee_bolsas_femininas",
       "name": "Bolsas Femininas"
-    }
-  },
-  {
-    "id": "3ca1eec774fa6259c3",
-    "title": "Mesa Gamer Branca AJL",
-    "raw_title": "Mesa Computador Escrivaninha Notebook Gamer cor branco AJL",
-    "description": "Transforme seu Setup! ✨ Mesa Computador Escrivaninha Notebook Gamer na cor branca da AJL! Perfeita para trabalhar, estudar ou jogar com conforto e estil...",
-    "marketplace": "Mercado Livre",
-    "category": "Casa e Decoração",
-    "old_price": "",
-    "price": "R$ 267,20",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_883611-MLU78942001945_092024-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29479675?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "09/10/2026 22:01",
-    "created_at_iso": "2026-10-09T22:01:43",
-    "created_ts": 1791583303
-  },
-  {
-    "id": "b0e281f59d8fce2c88",
-    "title": "Kit 1680 Lenços Umedecidos Bebê Upa Caixa 12 Pacotes 140 Un Cada Toal…",
-    "raw_title": "Kit 1680 Lenços Umedecidos Bebê Upa Caixa 12 Pacotes 140 Un Cada Toalha Suave Extra",
-    "description": "🔥 25% OFF — Oferta encontrada! 📌 Kit 1680 Lenços Umedecidos Bebê Upa Caixa 12 Pacotes 140 Un Cada Toalha Suave Extra Confira os detalhes e aproveite enq...",
-    "marketplace": "Shopee",
-    "category": "Mãe e Bebê",
-    "old_price": "R$ 106,65",
-    "price": "R$ 79,99",
-    "discount_percent": 25.0,
-    "rating": 5.0,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lg-mpdwewpzvkebf4",
-    "affiliate_url": "https://s.shopee.com.br/50Zi0Ri5g3",
-    "created_at": "09/10/2026 21:20",
-    "created_at_iso": "2026-10-09T21:20:30",
-    "created_ts": 1791580830,
-    "niche": {
-      "key": "shopee_mae_bebe",
-      "name": "Mãe e Bebê"
     }
   }
 ]

@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 10/10/2026 12:03
+Gerado em: 10/10/2026 12:21
 
 ## Como usar
 
@@ -72,7 +72,37 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 3 — Casa e Cozinha
+## Post 3 — Ofertas Pet
+
+**Canal recomendado:** Ofertas Pet
+
+**Horário sugerido:** 17:00 - 20:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
+
+**Texto pronto:**
+
+```txt
+🐶 Oferta para Ofertas Pet
+
+Sandália Papete Carros Infantil
+
+💸 De: R$ 59,47
+🔥 Por: R$ 34,49
+🏷️ 42% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/20w7QkGLsx
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 4 — Casa e Cozinha
 
 **Canal recomendado:** Casa e Cozinha
 
@@ -102,7 +132,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Celulares e Tecnologia
+## Post 5 — Celulares e Tecnologia
 
 **Canal recomendado:** Celulares e Tecnologia
 
@@ -132,7 +162,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 5 — Moda e Calçados
+## Post 6 — Moda e Calçados
 
 **Canal recomendado:** Moda e Calçados
 
@@ -155,36 +185,6 @@ Sandália Rasteira Strass Nó Luxo
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/3Vkux19yFK
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 6 — Saúde
-
-**Canal recomendado:** Saúde e Bem-estar
-
-**Horário sugerido:** 09:00 - 11:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/saude.png
-
-**Texto pronto:**
-
-```txt
-❤️ Oferta para Saúde
-
-KIT Medidor de Pressão + Oxímetro
-
-💸 De: R$ 178,50
-🔥 Por: R$ 49,98
-🏷️ 72% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/LnsNlAbac
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

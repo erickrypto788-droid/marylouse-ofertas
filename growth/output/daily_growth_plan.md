@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 10/10/2026 12:03
+Gerado em: 10/10/2026 12:21
 
 ## Categorias prioritárias
 
 - 💄 **Beleza**: 14 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 🍼 **Mãe e Bebê**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 📱 **Celulares**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
-- 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 👗 **Moda Feminina**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
-- 🍼 **Mãe e Bebê**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 📚 **Papelaria**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 - 🏋️ **Esportes**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
+- 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 🧒 **Moda Infantil**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-infantil.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-infantil
 - 🍳 **Casa e Cozinha**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 🔌 **Eletrodomésticos**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-eletrodomesticos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_eletrodomesticos
-- ✨ **Moda Plus Size**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
 
 ## Top ofertas para destacar
 
@@ -52,40 +52,40 @@ Gerado em: 10/10/2026 12:03
    - Desconto: 31% OFF
    - Link: https://s.shopee.com.br/3LRTkuIQOP
 
-6. **Carregador Rápido 120W USB-C**
+6. **Tênis Infantil Baby Confortável**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 34,90
+   - Desconto: 53% OFF
+   - Link: https://s.shopee.com.br/5q8nKyKMS8
+
+7. **Carregador Rápido 120W USB-C**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 19,90
    - Desconto: 60% OFF
    - Link: https://s.shopee.com.br/40hBc3AW62
 
-7. **Kit Porta Leite em Pó + Colher Silicone**
+8. **Kit Porta Leite em Pó + Colher Silicone**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 26,88
    - Desconto: 55% OFF
    - Link: https://s.shopee.com.br/113ZZgwAsc
 
-8. **Webcam Full HD 1080p com Microfone Embutido - Widescreen USB, Ideal p…**
+9. **Webcam Full HD 1080p com Microfone Embutido - Widescreen USB, Ideal p…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 38,00
    - Desconto: 80% OFF
    - Link: https://s.shopee.com.br/6L55rNzkfK
 
-9. **Mochila Notebook Escolar Resistente**
+10. **Mochila Notebook Escolar Resistente**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 30,12
    - Desconto: 25% OFF
    - Link: https://s.shopee.com.br/2VsN5yl7ym
-
-10. **Fralda Huggies Meguinha G**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 37,89
-   - Desconto: 25% OFF
-   - Link: https://s.shopee.com.br/80DJZxNwGV
 
 ## Ações gratuitas recomendadas
 

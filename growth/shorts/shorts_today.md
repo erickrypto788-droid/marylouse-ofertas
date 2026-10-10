@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 10/10/2026 14:03
+Gerado em: 10/10/2026 14:22
 
 ## Como usar
 
@@ -103,8 +103,8 @@ Gerado em: 10/10/2026 14:03
 **Produtos usados:**
 
 - Carregador Rápido 120W USB-C
-- Cabo 4 em 1 Carregamento Rápido PD 65W USB Tipo C Lightning Duplo Nyl…
 - Carregador Rápido 168W Tipo C
+- Protetor de Câmera Anti-Espião
 
 ---
 
@@ -126,8 +126,8 @@ Gerado em: 10/10/2026 14:03
 
 **Produtos usados:**
 
+- Kit Banheiro Infantil Lego | Porta Escova + Porta Papel Higiênico + P…
 - Kit 5 Potes Mantimentos Arroz Feijão Café Açúcar Sal Mickey e Minnie
 - Arroz Motigome 1kg
-- Sabão em Pó Tixan Ypê 2.2kg
 
 ---

@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 10/10/2026 12:21
+Gerado em: 10/10/2026 13:21
 
 ## Como usar
 
@@ -127,7 +127,7 @@ Gerado em: 10/10/2026 12:21
 **Produtos usados:**
 
 - Kit 5 Potes Mantimentos Arroz Feijão Café Açúcar Sal Mickey e Minnie
-- Papel Higiênico Fofopel 16 Rolos
 - Arroz Motigome 1kg
+- Sabão em Pó Tixan Ypê 2.2kg
 
 ---

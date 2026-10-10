@@ -1,49 +1,49 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 10/10/2026 00:22
+Gerado em: 10/10/2026 01:22
 
 ## Categorias prioritárias
 
-- 📚 **Papelaria**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
-- 💻 **Informática**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 💄 **Beleza**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 👜 **Bolsas**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
-- 🍼 **Mãe e Bebê**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
-- 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 📚 **Papelaria**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
+- 💻 **Informática**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 💄 **Beleza**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 📦 **Outros**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 🍼 **Mãe e Bebê**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 👜 **Bolsas**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 - 🏋️ **Esportes**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 👟 **Calçados**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 
 ## Top ofertas para destacar
 
-1. **Kit 11 Peças - 5 Fraldas 60x60cm + 6 Paninho de Boca 30x30cm 100% Alg…**
+1. **SAMSUNG SSD T5 Hd Externo 2TB/4TB/8TB/16TB Solid State Hard Drive Por…**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 197,00
+   - Desconto: 67% OFF
+   - Link: https://s.shopee.com.br/BUSW3IpNA
+
+2. **Kit 11 Peças - 5 Fraldas 60x60cm + 6 Paninho de Boca 30x30cm 100% Alg…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 27,99
    - Desconto: 53% OFF
    - Link: https://s.shopee.com.br/1B23Fo3yw
 
-2. **Perfume Masculino Amadeirado 100ml**
+3. **Perfume Masculino Amadeirado 100ml**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 28,98
    - Desconto: 52% OFF
    - Link: https://s.shopee.com.br/1B1ieovje
 
-3. **Celular 5g Smartphone 16gb/512gb Rom Dimensity 7200 Impressão Digital…**
+4. **Celular 5g Smartphone 16gb/512gb Rom Dimensity 7200 Impressão Digital…**
    - Categoria: Celulares
    - Loja: Mercado Livre
    - Preço: R$ 1.380,00
    - Desconto: 66% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB75208845?matt_word=marylouse&matt_tool=50459180&forceInApp=true
-
-4. **Perfume Masculino Millions**
-   - Categoria: Beleza
-   - Loja: Mercado Livre
-   - Preço: R$ 184,00
-   - Desconto: 50% OFF
-   - Link: https://www.mercadolivre.com.br/p/MLB77141871?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 5. **Body Vestido Infantil Canelado Tapa Fralda De Pressão Conforto Kit 2,…**
    - Categoria: Mãe e Bebê
@@ -73,19 +73,19 @@ Gerado em: 10/10/2026 00:22
    - Desconto: 41% OFF
    - Link: https://s.shopee.com.br/8fSzF8KKEQ
 
-9. **Mochila Notebook Escolar Resistente**
+9. **Webcam Full HD 1080p com Microfone Embutido - Widescreen USB, Ideal p…**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 38,00
+   - Desconto: 80% OFF
+   - Link: https://s.shopee.com.br/6L55rNzkfK
+
+10. **Mochila Notebook Escolar Resistente**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 30,12
    - Desconto: 25% OFF
    - Link: https://s.shopee.com.br/2VsN5yl7ym
-
-10. **Fralda Huggies Meguinha G**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 37,89
-   - Desconto: 25% OFF
-   - Link: https://s.shopee.com.br/80DJZxNwGV
 
 ## Ações gratuitas recomendadas
 

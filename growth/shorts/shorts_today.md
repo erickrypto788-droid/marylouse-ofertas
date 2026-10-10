@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 10/10/2026 20:22
+Gerado em: 10/10/2026 21:22
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 10/10/2026 20:22
 
 **Produtos usados:**
 
-- Kit 11 Peças - 5 Fraldas 60x60cm + 6 Paninho de Boca 30x30cm 100% Alg…
 - Kit 3 Fraldas Descartáveis Pampers Supersequinha Mega M - 120 Tiras
 - Kit 2 Fraldas Descartáveis Cremer Magic Care Hiper G 60 Tiras
+- Mini Berço Portátil Infantil Confortável Mosqueteiro para Bebês
 
 ---
 

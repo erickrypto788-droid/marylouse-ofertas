@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 10/10/2026 20:22
+Gerado em: 10/10/2026 21:22
 
 ## Como usar
 
@@ -12,37 +12,7 @@ Gerado em: 10/10/2026 20:22
 
 ---
 
-## Post 1 — Mamãe e Bebê
-
-**Canal recomendado:** Mamãe e Bebê
-
-**Horário sugerido:** 09:00 - 11:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
-
-**Texto pronto:**
-
-```txt
-🍼 Oferta para Mamãe e Bebê
-
-Kit 11 Peças - 5 Fraldas 60x60cm + 6 Paninho de Boca 30x30cm 100% Alg…
-
-💸 De: R$ 59,55
-🔥 Por: R$ 27,99
-🏷️ 53% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/1B23Fo3yw
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 2 — Beleza e Cuidados
+## Post 1 — Beleza e Cuidados
 
 **Canal recomendado:** Beleza e Cuidados
 
@@ -72,7 +42,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 3 — Ofertas Pet
+## Post 2 — Ofertas Pet
 
 **Canal recomendado:** Ofertas Pet
 
@@ -95,6 +65,36 @@ Sandália Papete Carros Infantil
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/20w7QkGLsx
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 3 — Mamãe e Bebê
+
+**Canal recomendado:** Mamãe e Bebê
+
+**Horário sugerido:** 09:00 - 11:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
+
+**Texto pronto:**
+
+```txt
+🍼 Oferta para Mamãe e Bebê
+
+Kit 3 Fraldas Descartáveis Pampers Supersequinha Mega M - 120 Tiras
+
+💸 De: R$ 202,90
+🔥 Por: R$ 137,97
+🏷️ 32% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/6fhxFnhj5H
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

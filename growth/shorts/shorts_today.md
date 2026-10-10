@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 10/10/2026 00:05
+Gerado em: 10/10/2026 00:22
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 10/10/2026 00:05
 **Produtos usados:**
 
 - Kit 11 Peças - 5 Fraldas 60x60cm + 6 Paninho de Boca 30x30cm 100% Alg…
-- Fralda Huggies Tripla Proteção
-- Carrinho Mcqueen Vira Robô Musical Com Luz e Som Infantil Bate e Volt…
+- Fralda Huggies Meguinha G
+- Body Vestido Infantil Canelado Tapa Fralda De Pressão Conforto Kit 2,…
 
 ---
 

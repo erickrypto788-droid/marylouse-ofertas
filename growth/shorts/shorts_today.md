@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 10/10/2026 08:19
+Gerado em: 10/10/2026 09:05
 
 ## Como usar
 
@@ -49,12 +49,14 @@ Gerado em: 10/10/2026 08:19
 - growth/shorts/slides/casa_cozinha/01_intro.png
 - growth/shorts/slides/casa_cozinha/02_produto_1.png
 - growth/shorts/slides/casa_cozinha/03_produto_2.png
+- growth/shorts/slides/casa_cozinha/04_produto_3.png
 - growth/shorts/slides/casa_cozinha/05_cta.png
 
 **Produtos usados:**
 
 - Liquidificador Mondial Turbo 1200w 3L Inox L-1200 Preto 110V
 - Fritadeira Air Fryer Itatiaia 3,5 Litros 127V Sem Óleo
+- Armário Organizador Cozinha Jet - Cinza
 
 ---
 

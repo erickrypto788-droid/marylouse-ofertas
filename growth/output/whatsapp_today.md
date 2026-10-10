@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 10/10/2026 11:04
+Gerado em: 10/10/2026 11:22
 
 ## Como usar
 
@@ -57,14 +57,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
 ```txt
 💄 Oferta para Beleza e Cuidados
 
-Perfume Masculino Amadeirado 100ml
+Escova Secadora GOKOCO 5 em 1
 
-💸 De: R$ 60,38
-🔥 Por: R$ 28,98
-🏷️ 52% OFF
+💸 De: R$ 997,67
+🔥 Por: R$ 429,00
+🏷️ 57% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/1B1ieovje
+Ver oferta: https://s.shopee.com.br/4VdSLDdv4X
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
@@ -132,37 +132,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 5 — Ofertas Pet
-
-**Canal recomendado:** Ofertas Pet
-
-**Horário sugerido:** 17:00 - 20:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
-
-**Texto pronto:**
-
-```txt
-🐶 Oferta para Ofertas Pet
-
-Blusa Feminina Plus Size Viscolycra Manga Dobrada Estampa Coração Lis…
-
-💸 De: R$ 48,02
-🔥 Por: R$ 38,42
-🏷️ 20% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/W7HyyNltw
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 6 — Moda e Calçados
+## Post 5 — Moda e Calçados
 
 **Canal recomendado:** Moda e Calçados
 
@@ -185,6 +155,36 @@ Sandália Rasteira Strass Nó Luxo
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/3Vkux19yFK
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 6 — Saúde
+
+**Canal recomendado:** Saúde e Bem-estar
+
+**Horário sugerido:** 09:00 - 11:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/saude.png
+
+**Texto pronto:**
+
+```txt
+❤️ Oferta para Saúde
+
+KIT Medidor de Pressão + Oxímetro
+
+💸 De: R$ 178,50
+🔥 Por: R$ 49,98
+🏷️ 72% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/LnsNlAbac
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

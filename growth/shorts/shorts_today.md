@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 10/10/2026 11:04
+Gerado em: 10/10/2026 11:22
 
 ## Como usar
 
@@ -78,9 +78,9 @@ Gerado em: 10/10/2026 11:04
 
 **Produtos usados:**
 
+- Escova Secadora GOKOCO 5 em 1
 - Perfume Masculino Amadeirado 100ml
-- Kit S.O.S Hidratação Salon Line Litrão
-- Principia Kit Completo Peles Sensíveis c/ Gel de Limpeza GL-02 + Crem…
+- Kit 2 Protetores Solares Principia com Cor
 
 ---
 

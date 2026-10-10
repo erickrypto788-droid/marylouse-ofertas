@@ -1,6 +1,6 @@
 # Pinterest Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 10/10/2026 09:05
+Gerado em: 10/10/2026 09:19
 
 ## Como usar
 
@@ -114,7 +114,7 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
 
 **Descrição:**
 
-Veja ofertas de Celulares selecionadas pela MaryLouse Ofertas. Destaque de hoje: Cabo 4 em 1 Carregamento Rápido PD 65W USB Tipo C Lightning Duplo Nyl…. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Veja ofertas de Celulares selecionadas pela MaryLouse Ofertas. Destaque de hoje: Carregador Rápido 120W USB-C. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
@@ -122,7 +122,7 @@ https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=pinterest
 
 **Por que postar:**
 
-Categoria com 6 oferta(s) e boa intenção de compra.
+Categoria com 9 oferta(s) e boa intenção de compra.
 
 ---
 

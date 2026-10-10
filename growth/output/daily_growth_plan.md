@@ -1,17 +1,17 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 10/10/2026 09:05
+Gerado em: 10/10/2026 09:19
 
 ## Categorias prioritárias
 
 - 👕 **Moda Masculina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
+- 📱 **Celulares**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 👟 **Calçados**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 👗 **Moda Feminina**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 🍼 **Mãe e Bebê**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 💄 **Beleza**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 📚 **Papelaria**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 - ✨ **Moda Plus Size**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
-- 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 🏋️ **Esportes**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 📦 **Outros**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 
@@ -45,47 +45,47 @@ Gerado em: 10/10/2026 09:05
    - Desconto: 31% OFF
    - Link: https://s.shopee.com.br/3LRTkuIQOP
 
-5. **Kit Porta Leite em Pó + Colher Silicone**
+5. **Carregador Rápido 120W USB-C**
+   - Categoria: Celulares
+   - Loja: Shopee
+   - Preço: R$ 19,90
+   - Desconto: 60% OFF
+   - Link: https://s.shopee.com.br/40hBc3AW62
+
+6. **Kit Porta Leite em Pó + Colher Silicone**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 26,88
    - Desconto: 55% OFF
    - Link: https://s.shopee.com.br/113ZZgwAsc
 
-6. **Webcam Full HD 1080p com Microfone Embutido - Widescreen USB, Ideal p…**
+7. **Webcam Full HD 1080p com Microfone Embutido - Widescreen USB, Ideal p…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 38,00
    - Desconto: 80% OFF
    - Link: https://s.shopee.com.br/6L55rNzkfK
 
-7. **Mochila Notebook Escolar Resistente**
+8. **Mochila Notebook Escolar Resistente**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 30,12
    - Desconto: 25% OFF
    - Link: https://s.shopee.com.br/2VsN5yl7ym
 
-8. **Fralda Huggies Meguinha G**
+9. **Fralda Huggies Meguinha G**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 37,89
    - Desconto: 25% OFF
    - Link: https://s.shopee.com.br/80DJZxNwGV
 
-9. **Kit 1400 Toalhas Umedecidas Bebê Limpinho**
+10. **Kit 1400 Toalhas Umedecidas Bebê Limpinho**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 48,45
    - Desconto: 59% OFF
    - Link: https://s.shopee.com.br/1gJG2JumRD
-
-10. **KIT Medidor de Pressão + Oxímetro**
-   - Categoria: Saúde
-   - Loja: Shopee
-   - Preço: R$ 49,98
-   - Desconto: 72% OFF
-   - Link: https://s.shopee.com.br/LnsNlAbac
 
 ## Ações gratuitas recomendadas
 

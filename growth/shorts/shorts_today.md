@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 10/10/2026 09:05
+Gerado em: 10/10/2026 09:19
 
 ## Como usar
 
@@ -102,9 +102,9 @@ Gerado em: 10/10/2026 09:05
 
 **Produtos usados:**
 
+- Carregador Rápido 120W USB-C
 - Cabo 4 em 1 Carregamento Rápido PD 65W USB Tipo C Lightning Duplo Nyl…
-- Protetor de Câmera Anti-Espião
-- Kit 2 Capinha Para Iphone Anti Impacto Transparente Tpu Para IPhone…
+- Carregador Rápido 168W Tipo C
 
 ---
 

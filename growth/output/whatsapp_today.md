@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 10/10/2026 09:05
+Gerado em: 10/10/2026 09:19
 
 ## Como usar
 
@@ -117,14 +117,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
 ```txt
 📱 Oferta para Celulares e Tecnologia
 
-Cabo 4 em 1 Carregamento Rápido PD 65W USB Tipo C Lightning Duplo Nyl…
+Carregador Rápido 120W USB-C
 
-💸 De: R$ 59,22
-🔥 Por: R$ 15,99
-🏷️ 73% OFF
+💸 De: R$ 49,75
+🔥 Por: R$ 19,90
+🏷️ 60% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/8pmQ6dzTLE
+Ver oferta: https://s.shopee.com.br/40hBc3AW62
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

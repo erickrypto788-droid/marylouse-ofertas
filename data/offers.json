@@ -1,5 +1,22 @@
 [
   {
+    "id": "990b77134442eaedc3",
+    "title": "Bola Futebol Campo Futsal Praia",
+    "raw_title": "Bola Futebol Campo Futsal Praia",
+    "description": "Golaço de Oferta! ⚽ Bola Futebol Campo Futsal Praia com mais de 42% OFF! 🤩 Perfeita para todos os seus jogos, seja no campo, futsal ou na praia. Não per...",
+    "marketplace": "Mercado Livre",
+    "category": "Esportes e Lazer",
+    "old_price": "R$ 44,99",
+    "price": "R$ 25,99",
+    "discount_percent": 42.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_938275-MLA100052836059_122025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39280584?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "10/10/2026 11:02",
+    "created_at_iso": "2026-10-10T11:02:09",
+    "created_ts": 1791630129
+  },
+  {
     "id": "b5673ea975c9150401",
     "title": "Micro-ondas Britânia 20L Limpa Fácil",
     "raw_title": "Micro-ondas Britânia 20L Pintura Limpa Fácil BMO23",
@@ -2268,47 +2285,5 @@
     "created_at": "09/10/2026 11:02",
     "created_at_iso": "2026-10-09T11:02:40",
     "created_ts": 1791543760
-  },
-  {
-    "id": "9875b09984222332a5",
-    "title": "KIT 2 Camisas Polo 100% Algodão",
-    "raw_title": "KIT 2 Camisa Gola Polo Alta Qualidade 100% Algodão Camiseta Básica Masculina Diversas Cores",
-    "description": "🔥 KIT 2 Camisas Polo de ALTA QUALIDADE! Garanta seu estilo e conforto com 100% algodão premium. Perfeito para qualquer ocasião! ✨",
-    "marketplace": "Shopee",
-    "category": "Roupas Masculinas",
-    "old_price": "R$ 99,67",
-    "price": "R$ 59,80",
-    "discount_percent": 40.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81zty-mkjyqctdl34035",
-    "affiliate_url": "https://s.shopee.com.br/80DImZXAPC",
-    "created_at": "09/10/2026 10:20",
-    "created_at_iso": "2026-10-09T10:20:52",
-    "created_ts": 1791541252,
-    "niche": {
-      "key": "shopee_roupas_masculinas",
-      "name": "Roupas Masculinas"
-    }
-  },
-  {
-    "id": "64dbdb33a7327a10e0",
-    "title": "Calça Jogger Masculina",
-    "raw_title": "Calças Masculina Jogger Com Punho Elástico",
-    "description": "🔥 ESTILO COM DESCONTO! 🔥 Calças Masculina Jogger Com Punho Elástico! Perfeita para o seu dia a dia, com conforto e muito estilo. Aproveite 47% OFF! Mais...",
-    "marketplace": "Shopee",
-    "category": "Roupas Masculinas",
-    "old_price": "R$ 79,23",
-    "price": "R$ 41,99",
-    "discount_percent": 47.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6zgok6rjl1jc1",
-    "affiliate_url": "https://s.shopee.com.br/905q2V69ro",
-    "created_at": "09/10/2026 10:19",
-    "created_at_iso": "2026-10-09T10:19:44",
-    "created_ts": 1791541184,
-    "niche": {
-      "key": "shopee_roupas_masculinas",
-      "name": "Roupas Masculinas"
-    }
   }
 ]

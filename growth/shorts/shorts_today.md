@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 10/10/2026 01:22
+Gerado em: 10/10/2026 02:22
 
 ## Como usar
 
@@ -80,7 +80,7 @@ Gerado em: 10/10/2026 01:22
 
 - Perfume Masculino Amadeirado 100ml
 - Barbeador Elétrico 4 Em 1 Para Mulheres Remoção De Pelos Corporais fe…
-- Principia Kit Completo Peles Sensíveis c/ Gel de Limpeza GL-02 + Crem…
+- Kit S.O.S Hidratação Salon Line Litrão
 
 ---
 
@@ -127,7 +127,7 @@ Gerado em: 10/10/2026 01:22
 **Produtos usados:**
 
 - Galheteiro Spray Azeite Borrifador Dosador 2 em 1 Economico vidro 470…
+- Kit 5 Potes Mantimentos Arroz Feijão Café Açúcar Sal Mickey e Minnie
 - Boleadores de Brigadeiros 1,2 ou 3 unidades, Enrolador Modelador Beij…
-- Papel Higiênico Fofopel 16 Rolos
 
 ---

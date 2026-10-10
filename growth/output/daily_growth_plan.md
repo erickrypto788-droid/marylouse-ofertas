@@ -1,15 +1,15 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 10/10/2026 01:48
+Gerado em: 10/10/2026 02:22
 
 ## Categorias prioritárias
 
 - 📚 **Papelaria**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 - 💻 **Informática**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 📦 **Outros**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 💄 **Beleza**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 🍼 **Mãe e Bebê**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
-- 💄 **Beleza**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 📦 **Outros**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
-- 🍼 **Mãe e Bebê**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 👜 **Bolsas**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 - 🏋️ **Esportes**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 👟 **Calçados**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
@@ -73,19 +73,19 @@ Gerado em: 10/10/2026 01:48
    - Desconto: 41% OFF
    - Link: https://s.shopee.com.br/8fSzF8KKEQ
 
-9. **Webcam Full HD 1080p com Microfone Embutido - Widescreen USB, Ideal p…**
+9. **Kit Porta Leite em Pó + Colher Silicone**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 26,88
+   - Desconto: 55% OFF
+   - Link: https://s.shopee.com.br/113ZZgwAsc
+
+10. **Webcam Full HD 1080p com Microfone Embutido - Widescreen USB, Ideal p…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 38,00
    - Desconto: 80% OFF
    - Link: https://s.shopee.com.br/6L55rNzkfK
-
-10. **Mochila Notebook Escolar Resistente**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 30,12
-   - Desconto: 25% OFF
-   - Link: https://s.shopee.com.br/2VsN5yl7ym
 
 ## Ações gratuitas recomendadas
 

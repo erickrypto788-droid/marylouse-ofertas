@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 11/10/2026 03:18
+Gerado em: 11/10/2026 04:19
 
 ## Como usar
 
@@ -102,9 +102,9 @@ Gerado em: 11/10/2026 03:18
 
 **Produtos usados:**
 
+- Mini carregador portatil power bank para celular IPNHONE Samsung Xiao…
 - Carregador Rápido 120W USB-C
 - Carregador Rápido 168W Tipo C
-- Smartphone Xiaomi Redmi 14C Preto 128GB 4GB RAM
 
 ---
 

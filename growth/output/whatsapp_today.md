@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 11/10/2026 01:04
+Gerado em: 11/10/2026 01:22
 
 ## Como usar
 
@@ -102,7 +102,37 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Celulares e Tecnologia
+## Post 4 — Moda Feminina
+
+**Canal recomendado:** Moda Feminina
+
+**Horário sugerido:** 12:00 - 14:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
+
+**Texto pronto:**
+
+```txt
+👗 Oferta para Moda Feminina
+
+Kit 4 Blusa Plus Size Camiseta Dry Fit Roupa de Academia Feminina Lon…
+
+💸 De: R$ 238,71
+🔥 Por: R$ 74,00
+🏷️ 69% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/113ZqBNWBY
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 5 — Celulares e Tecnologia
 
 **Canal recomendado:** Celulares e Tecnologia
 
@@ -132,7 +162,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 5 — Moda e Calçados
+## Post 6 — Moda e Calçados
 
 **Canal recomendado:** Moda e Calçados
 
@@ -155,36 +185,6 @@ Sandália Rasteira Strass Nó Luxo
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/3Vkux19yFK
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 6 — Saúde
-
-**Canal recomendado:** Saúde e Bem-estar
-
-**Horário sugerido:** 09:00 - 11:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/saude.png
-
-**Texto pronto:**
-
-```txt
-❤️ Oferta para Saúde
-
-Oxímetro Infantil Neonatal Pediátrico De Dedo Digital Crianças Medido…
-
-💸 De: R$ 66,64
-🔥 Por: R$ 25,99
-🏷️ 61% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/9APIAGwQQz
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

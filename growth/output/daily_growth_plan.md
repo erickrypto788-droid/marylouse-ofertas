@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 11/10/2026 01:04
+Gerado em: 11/10/2026 01:22
 
 ## Categorias prioritárias
 
 - 👗 **Moda Feminina**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
+- ✨ **Moda Plus Size**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
 - 👕 **Moda Masculina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 - 🍼 **Mãe e Bebê**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 💄 **Beleza**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 📦 **Outros**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
-- 💻 **Informática**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 📦 **Outros**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 🍳 **Casa e Cozinha**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
+- 💻 **Informática**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 📚 **Papelaria**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
-- 🏋️ **Esportes**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
+- 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 
 ## Top ofertas para destacar
 
@@ -38,54 +38,54 @@ Gerado em: 11/10/2026 01:04
    - Desconto: 57% OFF
    - Link: https://s.shopee.com.br/4VdSLDdv4X
 
-4. **SAMSUNG SSD T5 Hd Externo 2TB/4TB/8TB/16TB Solid State Hard Drive Por…**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 197,00
-   - Desconto: 67% OFF
-   - Link: https://s.shopee.com.br/BUSW3IpNA
-
-5. **Kit 3 Fraldas Descartáveis Pampers Supersequinha Mega M - 120 Tiras**
+4. **Kit 3 Fraldas Descartáveis Pampers Supersequinha Mega M - 120 Tiras**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 137,97
    - Desconto: 32% OFF
    - Link: https://s.shopee.com.br/6fhxFnhj5H
 
-6. **Kit 2 Fraldas Descartáveis Cremer Magic Care Hiper G 60 Tiras**
+5. **Kit 2 Fraldas Descartáveis Cremer Magic Care Hiper G 60 Tiras**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 99,99
    - Desconto: 33% OFF
    - Link: https://s.shopee.com.br/4fwss7gTKs
 
-7. **kit 2 Camiseta T-shirt Algodão Basica Feminina 30.1 Uniforme Blusinha…**
+6. **kit 2 Camiseta T-shirt Algodão Basica Feminina 30.1 Uniforme Blusinha…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 34,15
    - Desconto: 51% OFF
    - Link: https://s.shopee.com.br/20w8A4TRq2
 
-8. **HUAWEI WiFi AX3S | Roteador | Wi-Fi 6+, 3000Mbps | Easymesh | HiCon…**
+7. **HUAWEI WiFi AX3S | Roteador | Wi-Fi 6+, 3000Mbps | Easymesh | HiCon…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 175,00
    - Desconto: 71% OFF
    - Link: https://s.shopee.com.br/AAHpgiZXcg
 
-9. **Mouse Pad Desk Pad Couro Borda Costurada Gigante Antiderrapante Tapet…**
+8. **Mouse Pad Desk Pad Couro Borda Costurada Gigante Antiderrapante Tapet…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 15,89
    - Desconto: 56% OFF
    - Link: https://s.shopee.com.br/W7KAwoH6Y
 
-10. **Kit 3 Necessaires Impermeáveis**
+9. **Kit 3 Necessaires Impermeáveis**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 29,99
    - Desconto: 57% OFF
    - Link: https://s.shopee.com.br/6VOX7cBPns
+
+10. **Mesa Atividades Volante Bebê Musical Educativa Brinquedo Interativo p…**
+   - Categoria: Mãe e Bebê
+   - Loja: Shopee
+   - Preço: R$ 105,00
+   - Desconto: 58% OFF
+   - Link: https://s.shopee.com.br/3B855NCeKG
 
 ## Ações gratuitas recomendadas
 

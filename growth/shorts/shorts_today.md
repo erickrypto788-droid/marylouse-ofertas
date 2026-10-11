@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 11/10/2026 01:04
+Gerado em: 11/10/2026 01:22
 
 ## Como usar
 
@@ -104,7 +104,7 @@ Gerado em: 11/10/2026 01:04
 
 - Carregador Rápido 120W USB-C
 - Carregador Rápido 168W Tipo C
-- Protetor de Câmera Anti-Espião
+- Smartphone Xiaomi Redmi 14C Preto 128GB 4GB RAM
 
 ---
 

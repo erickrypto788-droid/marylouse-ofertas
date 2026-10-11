@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 11/10/2026 17:17
+Gerado em: 11/10/2026 18:04
 
 ## Categorias prioritárias
 
 - 📦 **Outros**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
-- 💻 **Informática**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 💻 **Informática**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 📚 **Papelaria**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
-- 💄 **Beleza**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🍼 **Mãe e Bebê**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 👜 **Bolsas**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
+- 💄 **Beleza**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
+- 👜 **Bolsas**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
+- 🐶 **Pet**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-pet.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_pet
 - 🧸 **Brinquedos**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - ✨ **Moda Plus Size**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
-- 👕 **Moda Masculina**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 
 ## Top ofertas para destacar
 
@@ -45,47 +45,47 @@ Gerado em: 11/10/2026 17:17
    - Desconto: 61% OFF
    - Link: https://s.shopee.com.br/3g4LwlpLiU
 
-5. **Mochila Feminina para Notebook 15.6"**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 79,90
-   - Desconto: 53% OFF
-   - Link: https://s.shopee.com.br/1BN0loRJmx
-
-6. **Fralda Descartável Pampers Supersequinha Mega M 40 Unidades**
+5. **Fralda Descartável Pampers Supersequinha Mega M 40 Unidades**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 45,99
    - Desconto: 32% OFF
    - Link: https://s.shopee.com.br/9V28d0WwKY
 
-7. **Perfume Árabe Masculino Intense Men Eau de Parfum 100ml**
+6. **Perfume Árabe Masculino Intense Men Eau de Parfum 100ml**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 26,99
    - Desconto: 46% OFF
    - Link: https://s.shopee.com.br/3B86136ly0
 
-8. **Mini Panela elétrica （110V / 220V）**
+7. **Mini Panela elétrica （110V / 220V）**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 58,88
    - Desconto: 41% OFF
    - Link: https://s.shopee.com.br/2BFYl5lvS5
 
-9. **HUAWEI WiFi AX2S | Roteador | WS7000 V2 | Dual Band | 4 Antenas | 5…**
+8. **HUAWEI WiFi AX2S | Roteador | WS7000 V2 | Dual Band | 4 Antenas | 5…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 149,00
    - Desconto: 70% OFF
    - Link: https://s.shopee.com.br/7ptwAkEGJA
 
-10. **Monitor Gamer LG UltraGear 24” IPS 180Hz 24GS60F-B**
+9. **Monitor Gamer LG UltraGear 24” IPS 180Hz 24GS60F-B**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 909,00
    - Desconto: 54% OFF
    - Link: https://s.shopee.com.br/7faVyQxR4Z
+
+10. **Monitor Gamer Mancer Horizon Z Pro, 23.8 Pol, IPS, FHD, 1ms, 144Hz, H…**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 537,12
+   - Desconto: 60% OFF
+   - Link: https://s.shopee.com.br/9fLaM6pp19
 
 ## Ações gratuitas recomendadas
 

@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 11/10/2026 17:17
+Gerado em: 11/10/2026 18:04
 
 ## Como usar
 
@@ -80,7 +80,7 @@ Gerado em: 11/10/2026 17:17
 
 - Kit 5 Bodysplash Masculinos de Grife Perfumes Famosos 60ml
 - Perfume Árabe Masculino Intense Men Eau de Parfum 100ml
-- Kit 3 Necessaires Impermeáveis
+- Maleta De Maquiagem Infantil - Kit Maquiagem Infantil Lindo
 
 ---
 

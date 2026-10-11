@@ -1,5 +1,47 @@
 [
   {
+    "id": "fe07a0dcb36ebbcb9d",
+    "title": "Termômetro Culinário Digital Infravermelho Laser",
+    "raw_title": "Termômetro Culinário Digital Infravermelho Laser -50°C a 400°C Primebras JISHOP",
+    "description": "🚀 Cozinhe com precisão de chef! Nunca mais erre o ponto da sua carne ou o preparo de doces! 🥩🍩 Este Termômetro Culinário Digital Infravermelho Laser Pri...",
+    "marketplace": "Shopee",
+    "category": "Saúde",
+    "old_price": "R$ 44,71",
+    "price": "R$ 40,69",
+    "discount_percent": 9.0,
+    "rating": 5.0,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-825ar-mrswitc2ax3beb",
+    "affiliate_url": "https://s.shopee.com.br/5fpRG86nKf",
+    "created_at": "11/10/2026 10:17",
+    "created_at_iso": "2026-10-11T10:17:04",
+    "created_ts": 1791713824,
+    "niche": {
+      "key": "shopee_saude",
+      "name": "Saúde"
+    }
+  },
+  {
+    "id": "f6c5ca8c408f920c50",
+    "title": "Inalador G-Tech Compact DC1 Infantil",
+    "raw_title": "Inalador E Nebulizador Compressor De Ar Comprimido Compact DC1 G-Tech Infantil Remédio e Corticoides",
+    "description": "🚨 Saúde do seu filho em primeiro lugar! 👶 Garanta o bem-estar dos pequenos com o Inalador e Nebulizador G-Tech Compact DC1! Essencial para remédios e co...",
+    "marketplace": "Shopee",
+    "category": "Saúde",
+    "old_price": "R$ 159,45",
+    "price": "R$ 105,24",
+    "discount_percent": 34.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-maik7ndboplb25",
+    "affiliate_url": "https://s.shopee.com.br/6Alhr39Qco",
+    "created_at": "11/10/2026 10:15",
+    "created_at_iso": "2026-10-11T10:15:56",
+    "created_ts": 1791713756,
+    "niche": {
+      "key": "shopee_saude",
+      "name": "Saúde"
+    }
+  },
+  {
     "id": "4997910bf47ffccb87",
     "title": "Motorola Razr 50 Ultra 5G Pink",
     "raw_title": "Motorola Smartphone Motorola Razr 50 Ultra 5g Cor Pink",
@@ -2216,48 +2258,6 @@
     "created_at": "10/10/2026 10:18",
     "created_at_iso": "2026-10-10T10:18:08",
     "created_ts": 1791627488,
-    "niche": {
-      "key": "shopee_eletrodomesticos",
-      "name": "Eletrodomésticos"
-    }
-  },
-  {
-    "id": "ba1bd9421f60bc4f4c",
-    "title": "Pipoqueira Elétrica Sem Óleo",
-    "raw_title": "Pipoqueira Elétrica Popcorn Maker 110V Pipoca Sem Óleo",
-    "description": "🍿 Pipoca fresquinha e saudável em casa! Com a Pipoqueira Elétrica Popcorn Maker 110V, você faz pipoca deliciosa sem usar uma gota de óleo! Perfeita para...",
-    "marketplace": "Shopee",
-    "category": "Eletrodomésticos",
-    "old_price": "R$ 150,70",
-    "price": "R$ 66,31",
-    "discount_percent": 56.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-me7iswtkw3yb2f",
-    "affiliate_url": "https://s.shopee.com.br/2VsNtPjHTL",
-    "created_at": "10/10/2026 10:16",
-    "created_at_iso": "2026-10-10T10:16:59",
-    "created_ts": 1791627419,
-    "niche": {
-      "key": "shopee_eletrodomesticos",
-      "name": "Eletrodomésticos"
-    }
-  },
-  {
-    "id": "e7de4d6cac55ff8ed2",
-    "title": "Aspirador Gaabor 2 em 1 Portátil",
-    "raw_title": "Aspirador De Pó Vertical 2 Em 1 Portátil Gaabor 650w",
-    "description": "Limpeza poderosa com desconto! 🚀 Aspirador De Pó Vertical 2 Em 1 Portátil Gaabor 650w: a solução perfeita para uma casa impecável! ✨ Leve, potente e sup...",
-    "marketplace": "Shopee",
-    "category": "Eletrodomésticos",
-    "old_price": "R$ 218,63",
-    "price": "R$ 128,99",
-    "discount_percent": 41.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m8-mo5vncqk1ssi68",
-    "affiliate_url": "https://s.shopee.com.br/905rdMG4DP",
-    "created_at": "10/10/2026 10:15",
-    "created_at_iso": "2026-10-10T10:15:52",
-    "created_ts": 1791627352,
     "niche": {
       "key": "shopee_eletrodomesticos",
       "name": "Eletrodomésticos"

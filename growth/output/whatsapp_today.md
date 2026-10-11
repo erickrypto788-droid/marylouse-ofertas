@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 11/10/2026 10:18
+Gerado em: 11/10/2026 11:22
 
 ## Como usar
 
@@ -147,14 +147,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
 ```txt
 🍼 Oferta para Mamãe e Bebê
 
-Kit 3 Fraldas Descartáveis Pampers Supersequinha Mega M - 120 Tiras
+Fralda Descartável Pampers Supersequinha Mega M 40 Unidades
 
-💸 De: R$ 202,90
-🔥 Por: R$ 137,97
+💸 De: R$ 67,63
+🔥 Por: R$ 45,99
 🏷️ 32% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/6fhxFnhj5H
+Ver oferta: https://s.shopee.com.br/9V28d0WwKY
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

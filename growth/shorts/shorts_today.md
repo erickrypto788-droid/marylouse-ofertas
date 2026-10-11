@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 11/10/2026 10:18
+Gerado em: 11/10/2026 11:22
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 11/10/2026 10:18
 
 **Produtos usados:**
 
+- Fralda Descartável Pampers Supersequinha Mega M 40 Unidades
 - Kit 3 Fraldas Descartáveis Pampers Supersequinha Mega M - 120 Tiras
 - Kit 2 Fraldas Descartáveis Cremer Magic Care Hiper G 60 Tiras
-- kit 2 Camiseta T-shirt Algodão Basica Feminina 30.1 Uniforme Blusinha…
 
 ---
 
@@ -56,7 +56,7 @@ Gerado em: 11/10/2026 10:18
 
 - Mini Panela elétrica （110V / 220V）
 - 36 Etiquetas Adesivas Temperos Condimentos Mantimentos Resistente à Á…
-- Micro-ondas Britânia 20L Limpa Fácil
+- Termômetro Digital Infravermelho
 
 ---
 
@@ -80,7 +80,7 @@ Gerado em: 11/10/2026 10:18
 
 - Kit 5 Bodysplash Masculinos de Grife Perfumes Famosos 60ml
 - Perfume Árabe Masculino Intense Men Eau de Parfum 100ml
-- Escova Secadora GOKOCO 5 em 1
+- Kit 3 Necessaires Impermeáveis
 
 ---
 

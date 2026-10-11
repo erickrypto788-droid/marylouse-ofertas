@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 11/10/2026 05:18
+Gerado em: 11/10/2026 06:22
 
 ## Como usar
 
@@ -78,9 +78,9 @@ Gerado em: 11/10/2026 05:18
 
 **Produtos usados:**
 
+- Kit 5 Bodysplash Masculinos de Grife Perfumes Famosos 60ml
+- Perfume Árabe Masculino Intense Men Eau de Parfum 100ml
 - Escova Secadora GOKOCO 5 em 1
-- Kit 3 Necessaires Impermeáveis
-- Escova Secadora Oval
 
 ---
 

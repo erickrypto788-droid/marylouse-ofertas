@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 11/10/2026 05:58
+Gerado em: 11/10/2026 06:22
 
 ## Como usar
 
@@ -42,7 +42,37 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 2 — Casa e Cozinha
+## Post 2 — Beleza e Cuidados
+
+**Canal recomendado:** Beleza e Cuidados
+
+**Horário sugerido:** 12:00 - 15:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
+
+**Texto pronto:**
+
+```txt
+💄 Oferta para Beleza e Cuidados
+
+Kit 5 Bodysplash Masculinos de Grife Perfumes Famosos 60ml
+
+💸 De: R$ 117,11
+🔥 Por: R$ 32,79
+🏷️ 72% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/4fwtno13vP
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 3 — Casa e Cozinha
 
 **Canal recomendado:** Casa e Cozinha
 
@@ -65,36 +95,6 @@ Mini Panela elétrica （110V / 220V）
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/2BFYl5lvS5
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 3 — Beleza e Cuidados
-
-**Canal recomendado:** Beleza e Cuidados
-
-**Horário sugerido:** 12:00 - 15:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
-
-**Texto pronto:**
-
-```txt
-💄 Oferta para Beleza e Cuidados
-
-Escova Secadora GOKOCO 5 em 1
-
-💸 De: R$ 997,67
-🔥 Por: R$ 429,00
-🏷️ 57% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/4VdSLDdv4X
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

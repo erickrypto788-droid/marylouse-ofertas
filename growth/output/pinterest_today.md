@@ -1,6 +1,6 @@
 # Pinterest Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 11/10/2026 05:58
+Gerado em: 11/10/2026 06:22
 
 ## Como usar
 
@@ -86,7 +86,7 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
 
 **Descrição:**
 
-Veja ofertas de Beleza selecionadas pela MaryLouse Ofertas. Destaque de hoje: Escova Secadora GOKOCO 5 em 1. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Veja ofertas de Beleza selecionadas pela MaryLouse Ofertas. Destaque de hoje: Kit 5 Bodysplash Masculinos de Grife Perfumes Famosos 60ml. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
@@ -94,7 +94,7 @@ https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=pinterest&ut
 
 **Por que postar:**
 
-Categoria com 8 oferta(s) e boa intenção de compra.
+Categoria com 13 oferta(s) e boa intenção de compra.
 
 ---
 
@@ -126,27 +126,27 @@ Categoria com 6 oferta(s) e boa intenção de compra.
 
 ---
 
-## Pin 5 — Celulares
+## Pin 5 — Beleza
 
 **Tipo:** produto_direto
 
-**Board sugerido:** Celulares e Tecnologia
+**Board sugerido:** Beleza e Cuidados
 
 **Imagem para upload no Pinterest:**
 
-https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
+https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
 
 **Título:**
 
-70% OFF: Mini carregador portatil power bank para celular IPNHONE Samsung Xiao…
+72% OFF: Kit 5 Bodysplash Masculinos de Grife Perfumes Famosos 60ml
 
 **Descrição:**
 
-Oferta destaque em Celulares encontrada pela MaryLouse Ofertas. Preço: R$ 26,99. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
+Oferta destaque em Beleza encontrada pela MaryLouse Ofertas. Preço: R$ 32,79. Loja: Shopee. Preço e disponibilidade podem mudar. Podemos receber comissão por compras feitas pelos links.
 
 **Link de destino do Pin:**
 
-https://s.shopee.com.br/1B46zIOBu
+https://s.shopee.com.br/4fwtno13vP
 
 **Por que postar:**
 

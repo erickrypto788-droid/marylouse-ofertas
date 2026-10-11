@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 11/10/2026 22:18
+Gerado em: 11/10/2026 23:20
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 11/10/2026 22:18
 **Produtos usados:**
 
 - Fralda Descartável Pampers Supersequinha Mega M 40 Unidades
-- kit 2 Camiseta T-shirt Algodão Basica Feminina 30.1 Uniforme Blusinha…
 - Lixa de Unha Elétrico Aparador Cortador Para Bebê Infantil Com Estojo…
+- Carrinho Camaro Amarelo Vira Robô Transformers Bate Volta
 
 ---
 
@@ -101,8 +101,8 @@ Gerado em: 11/10/2026 22:18
 **Produtos usados:**
 
 - Mini carregador portatil power bank para celular IPNHONE Samsung Xiao…
-- Samsung Galaxy A06 5G Preto
-- Motorola Razr 50 Ultra 5G Pink
+- Relógio Smartwatch D20 Pro Bluetooth Coloca Foto na Tela Monitor Card…
+- Kit 2 Cartões de Memória 128GB
 
 ---
 

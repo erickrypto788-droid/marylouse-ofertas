@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 11/10/2026 15:22
+Gerado em: 11/10/2026 16:21
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 11/10/2026 15:22
 **Produtos usados:**
 
 - Fralda Descartável Pampers Supersequinha Mega M 40 Unidades
-- Kit 3 Fraldas Descartáveis Pampers Supersequinha Mega M - 120 Tiras
-- Kit 2 Fraldas Descartáveis Cremer Magic Care Hiper G 60 Tiras
+- kit 2 Camiseta T-shirt Algodão Basica Feminina 30.1 Uniforme Blusinha…
+- Mini Berço Portátil Infantil Confortável Mosqueteiro para Bebês
 
 ---
 

@@ -1,16 +1,16 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 11/10/2026 15:22
+Gerado em: 11/10/2026 16:21
 
 ## Categorias prioritárias
 
-- 🍼 **Mãe e Bebê**: 13 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 📦 **Outros**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 💻 **Informática**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 📚 **Papelaria**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
+- 🍼 **Mãe e Bebê**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 💄 **Beleza**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 👜 **Bolsas**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 - 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 📦 **Outros**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 📱 **Celulares**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 🧸 **Brinquedos**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - ✨ **Moda Plus Size**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
@@ -73,19 +73,19 @@ Gerado em: 11/10/2026 15:22
    - Desconto: 41% OFF
    - Link: https://s.shopee.com.br/2BFYl5lvS5
 
-9. **Kit 3 Fraldas Descartáveis Pampers Supersequinha Mega M - 120 Tiras**
-   - Categoria: Mãe e Bebê
+9. **HUAWEI WiFi AX2S | Roteador | WS7000 V2 | Dual Band | 4 Antenas | 5…**
+   - Categoria: Informática
    - Loja: Shopee
-   - Preço: R$ 137,97
-   - Desconto: 32% OFF
-   - Link: https://s.shopee.com.br/6fhxFnhj5H
+   - Preço: R$ 149,00
+   - Desconto: 70% OFF
+   - Link: https://s.shopee.com.br/7ptwAkEGJA
 
-10. **Kit 2 Fraldas Descartáveis Cremer Magic Care Hiper G 60 Tiras**
-   - Categoria: Mãe e Bebê
+10. **Monitor Gamer LG UltraGear 24” IPS 180Hz 24GS60F-B**
+   - Categoria: Informática
    - Loja: Shopee
-   - Preço: R$ 99,99
-   - Desconto: 33% OFF
-   - Link: https://s.shopee.com.br/4fwss7gTKs
+   - Preço: R$ 909,00
+   - Desconto: 54% OFF
+   - Link: https://s.shopee.com.br/7faVyQxR4Z
 
 ## Ações gratuitas recomendadas
 

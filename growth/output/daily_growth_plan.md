@@ -1,18 +1,18 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 11/10/2026 04:19
+Gerado em: 11/10/2026 05:18
 
 ## Categorias prioritárias
 
 - ✨ **Moda Plus Size**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
-- 👗 **Moda Feminina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
-- 👕 **Moda Masculina**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
+- 👕 **Moda Masculina**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 - 🍼 **Mãe e Bebê**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 👟 **Calçados**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 💄 **Beleza**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
+- 🍳 **Casa e Cozinha**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 📦 **Outros**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 👗 **Moda Feminina**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
-- 🍳 **Casa e Cozinha**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 💻 **Informática**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 
 ## Top ofertas para destacar
@@ -45,47 +45,47 @@ Gerado em: 11/10/2026 04:19
    - Desconto: 57% OFF
    - Link: https://s.shopee.com.br/4VdSLDdv4X
 
-5. **Kit 3 Fraldas Descartáveis Pampers Supersequinha Mega M - 120 Tiras**
+5. **Mini Panela elétrica （110V / 220V）**
+   - Categoria: Casa e Cozinha
+   - Loja: Shopee
+   - Preço: R$ 58,88
+   - Desconto: 41% OFF
+   - Link: https://s.shopee.com.br/2BFYl5lvS5
+
+6. **Kit 3 Fraldas Descartáveis Pampers Supersequinha Mega M - 120 Tiras**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 137,97
    - Desconto: 32% OFF
    - Link: https://s.shopee.com.br/6fhxFnhj5H
 
-6. **Kit 2 Fraldas Descartáveis Cremer Magic Care Hiper G 60 Tiras**
+7. **Kit 2 Fraldas Descartáveis Cremer Magic Care Hiper G 60 Tiras**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 99,99
    - Desconto: 33% OFF
    - Link: https://s.shopee.com.br/4fwss7gTKs
 
-7. **kit 2 Camiseta T-shirt Algodão Basica Feminina 30.1 Uniforme Blusinha…**
+8. **kit 2 Camiseta T-shirt Algodão Basica Feminina 30.1 Uniforme Blusinha…**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 34,15
    - Desconto: 51% OFF
    - Link: https://s.shopee.com.br/20w8A4TRq2
 
-8. **HUAWEI WiFi AX3S | Roteador | Wi-Fi 6+, 3000Mbps | Easymesh | HiCon…**
+9. **HUAWEI WiFi AX3S | Roteador | Wi-Fi 6+, 3000Mbps | Easymesh | HiCon…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 175,00
    - Desconto: 71% OFF
    - Link: https://s.shopee.com.br/AAHpgiZXcg
 
-9. **Mouse Pad Desk Pad Couro Borda Costurada Gigante Antiderrapante Tapet…**
+10. **Mouse Pad Desk Pad Couro Borda Costurada Gigante Antiderrapante Tapet…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 15,89
    - Desconto: 56% OFF
    - Link: https://s.shopee.com.br/W7KAwoH6Y
-
-10. **Kit 3 Necessaires Impermeáveis**
-   - Categoria: Beleza
-   - Loja: Shopee
-   - Preço: R$ 29,99
-   - Desconto: 57% OFF
-   - Link: https://s.shopee.com.br/6VOX7cBPns
 
 ## Ações gratuitas recomendadas
 

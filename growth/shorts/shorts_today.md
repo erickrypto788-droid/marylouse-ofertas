@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 11/10/2026 04:19
+Gerado em: 11/10/2026 05:18
 
 ## Como usar
 
@@ -54,9 +54,9 @@ Gerado em: 11/10/2026 04:19
 
 **Produtos usados:**
 
+- Mini Panela elétrica （110V / 220V）
 - 36 Etiquetas Adesivas Temperos Condimentos Mantimentos Resistente à Á…
 - Micro-ondas Britânia 20L Limpa Fácil
-- Termômetro Digital Infravermelho
 
 ---
 

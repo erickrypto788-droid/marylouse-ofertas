@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 11/10/2026 04:19
+Gerado em: 11/10/2026 05:18
 
 ## Como usar
 
@@ -42,7 +42,37 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 2 — Beleza e Cuidados
+## Post 2 — Casa e Cozinha
+
+**Canal recomendado:** Casa e Cozinha
+
+**Horário sugerido:** 18:00 - 20:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
+
+**Texto pronto:**
+
+```txt
+🍳 Oferta para Casa e Cozinha
+
+Mini Panela elétrica （110V / 220V）
+
+💸 De: R$ 99,80
+🔥 Por: R$ 58,88
+🏷️ 41% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/2BFYl5lvS5
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 3 — Beleza e Cuidados
 
 **Canal recomendado:** Beleza e Cuidados
 
@@ -72,7 +102,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 3 — Ofertas Pet
+## Post 4 — Ofertas Pet
 
 **Canal recomendado:** Ofertas Pet
 
@@ -102,7 +132,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Mamãe e Bebê
+## Post 5 — Mamãe e Bebê
 
 **Canal recomendado:** Mamãe e Bebê
 
@@ -132,7 +162,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 5 — Moda Feminina
+## Post 6 — Moda Feminina
 
 **Canal recomendado:** Moda Feminina
 
@@ -155,36 +185,6 @@ Kit 4 Blusa Plus Size Camiseta Dry Fit Roupa de Academia Feminina Lon…
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/113ZqBNWBY
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 6 — Moda e Calçados
-
-**Canal recomendado:** Moda e Calçados
-
-**Horário sugerido:** 12:00 - 15:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
-
-**Texto pronto:**
-
-```txt
-👟 Oferta para Moda e Calçados
-
-Sandália Rasteira Strass Nó Luxo
-
-💸 De: R$ 111,47
-🔥 Por: R$ 37,90
-🏷️ 66% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/3Vkux19yFK
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

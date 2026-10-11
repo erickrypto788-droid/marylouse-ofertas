@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 11/10/2026 06:22
+Gerado em: 11/10/2026 07:22
 
 ## Como usar
 
@@ -117,14 +117,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
 ```txt
 🐶 Oferta para Ofertas Pet
 
-Sandália Papete Carros Infantil
+Kit 2 Sandálias Papete Infantil
 
-💸 De: R$ 59,47
-🔥 Por: R$ 34,49
-🏷️ 42% OFF
+💸 De: R$ 69,29
+🔥 Por: R$ 38,80
+🏷️ 44% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/20w7QkGLsx
+Ver oferta: https://s.shopee.com.br/9APJECLe7e
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

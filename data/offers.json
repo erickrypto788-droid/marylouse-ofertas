@@ -1,5 +1,47 @@
 [
   {
+    "id": "e6f8e9e4ba64961cf0",
+    "title": "Sapatenis Masculino Casual",
+    "raw_title": "Sapatenis Casual Masculino Sola Escura Sapato esportivo tênis confortável para trabalho festas",
+    "description": "🚨 OFERTA RELÂMPAGO! 🚨 Conforto e estilo para qualquer ocasião! 👟 Sapatenis Masculino Casual: perfeito para trabalho, festas e o dia a dia. Garanta já o...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Masculinos",
+    "old_price": "R$ 79,61",
+    "price": "R$ 53,34",
+    "discount_percent": 33.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhurpc11ujnn36",
+    "affiliate_url": "https://s.shopee.com.br/1gJHxol0g5",
+    "created_at": "11/10/2026 21:17",
+    "created_at_iso": "2026-10-11T21:17:06",
+    "created_ts": 1791753426,
+    "niche": {
+      "key": "shopee_sapatos_masculinos",
+      "name": "Sapatos Masculinos"
+    }
+  },
+  {
+    "id": "f103fb28ded12ff74c",
+    "title": "Bota PVC Chuva Motociclista",
+    "raw_title": "Bota PVC Chuva Motociclista Moto Impermeável Forrado",
+    "description": "🚨 CHUVA NÃO TE PEGA MAIS! 🌧️🏍️ Bota PVC Impermeável Forrado, perfeita para motociclistas! Mantenha seus pés secos e protegidos em qualquer clima. Confor...",
+    "marketplace": "Shopee",
+    "category": "Sapatos Masculinos",
+    "old_price": "R$ 70,00",
+    "price": "R$ 39,90",
+    "discount_percent": 43.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lx1awltl1aynb2",
+    "affiliate_url": "https://s.shopee.com.br/6q1PNbbaIL",
+    "created_at": "11/10/2026 21:15",
+    "created_at_iso": "2026-10-11T21:15:59",
+    "created_ts": 1791753359,
+    "niche": {
+      "key": "shopee_sapatos_masculinos",
+      "name": "Sapatos Masculinos"
+    }
+  },
+  {
     "id": "0dde161d860154b73e",
     "title": "Esteira Ergométrica Elétrica Dobrável Residencial Com Bluetooth Tela…",
     "raw_title": "Esteira Ergométrica Elétrica Dobrável Residencial Com Bluetooth Tela Led 14km/h Jmjn Esteira Ergometrica 120kg",
@@ -2107,27 +2149,6 @@
     "created_at": "10/10/2026 21:17",
     "created_at_iso": "2026-10-10T21:17:07",
     "created_ts": 1791667027,
-    "niche": {
-      "key": "shopee_bebidas_alimentos",
-      "name": "Bebidas e Alimentos"
-    }
-  },
-  {
-    "id": "074ca3f3a4ad44701a",
-    "title": "Ômega 3 1450mg óleo de peixe - EPA + TDH 30 cáps",
-    "raw_title": "Ômega 3 1450mg óleo de peixe - EPA + TDH 30 cáps",
-    "description": "🔥 70% OFF — Oferta encontrada! 📌 Ômega 3 1450mg óleo de peixe - EPA + TDH 30 cáps Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
-    "old_price": "R$ 69,97",
-    "price": "R$ 20,99",
-    "discount_percent": 70.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lv-mtckn7oc2oea9b",
-    "affiliate_url": "https://s.shopee.com.br/4qGJP2VYmN",
-    "created_at": "10/10/2026 21:15",
-    "created_at_iso": "2026-10-10T21:15:57",
-    "created_ts": 1791666957,
     "niche": {
       "key": "shopee_bebidas_alimentos",
       "name": "Bebidas e Alimentos"

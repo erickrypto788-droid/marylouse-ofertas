@@ -1,5 +1,26 @@
 [
   {
+    "id": "0f5cc667639e0ee3d0",
+    "title": "Mochila Pochete Tática Impermeável Masculina",
+    "raw_title": "Mochila Pochete Tática Masculina Impermeável Preta Versátil - Bolsa de Peito Esportiva",
+    "description": "⚡ OFERTA RELÂMPAGO! Mochila Pochete Tática IMPERMEÁVEL com 60% OFF! 🎒 Perfeita para o dia a dia, esportes ou aventuras! 💪 Design versátil e super-resist...",
+    "marketplace": "Shopee",
+    "category": "Bolsas Masculinas",
+    "old_price": "R$ 100,00",
+    "price": "R$ 40,00",
+    "discount_percent": 60.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-825zy-mmia18yollhh62",
+    "affiliate_url": "https://s.shopee.com.br/8V9e5zDbiB",
+    "created_at": "12/10/2026 08:15",
+    "created_at_iso": "2026-10-12T08:15:54",
+    "created_ts": 1791792954,
+    "niche": {
+      "key": "shopee_bolsas_masculinas",
+      "name": "Bolsas Masculinas"
+    }
+  },
+  {
     "id": "dfb52cc80ee5aba534",
     "title": "Bolsa Feminina 3 em 1 Impermeável",
     "raw_title": "Bolsa feminina nylon impermeável vira mochila transversal tiracolo leve 3em1",
@@ -2156,86 +2177,6 @@
     "niche": {
       "key": "shopee_esportes_lazer",
       "name": "Esportes e Lazer"
-    }
-  },
-  {
-    "id": "108d34bd678e153648",
-    "title": "SSD 1TB M.2 2280 SATA",
-    "raw_title": "Ssd 1tb M.2 2280 Sata",
-    "description": "🚀 Turbina seu PC agora! Chega de lentidão! Dê um upgrade na sua máquina com o SSD 1TB M.2 2280 SATA. Mais velocidade e espaço para todos os seus arquivo...",
-    "marketplace": "Mercado Livre",
-    "category": "Informática",
-    "old_price": "",
-    "price": "R$ 709,00",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_776121-MLU69791652657_062023-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23697502?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "11/10/2026 08:01",
-    "created_at_iso": "2026-10-11T08:01:42",
-    "created_ts": 1791705702
-  },
-  {
-    "id": "add14defb079deca28",
-    "title": "Kit 2 Sandálias Papete Infantil",
-    "raw_title": "Kit 2 Pares Sandália Infantil Papete Menina Casual Leve Lançamento",
-    "description": "✨ LANÇAMENTO IMPERDÍVEL! ✨ Sua pequena vai amar o conforto e estilo do Kit 2 Pares de Sandália Papete Menina Casual Leve! Perfeito para todas as aventur...",
-    "marketplace": "Shopee",
-    "category": "Moda Infantil",
-    "old_price": "R$ 69,29",
-    "price": "R$ 38,80",
-    "discount_percent": 44.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820li-mosh25xiujgg80",
-    "affiliate_url": "https://s.shopee.com.br/9APJECLe7e",
-    "created_at": "11/10/2026 07:20",
-    "created_at_iso": "2026-10-11T07:20:27",
-    "created_ts": 1791703227,
-    "niche": {
-      "key": "shopee_moda_infantil",
-      "name": "Moda Infantil"
-    }
-  },
-  {
-    "id": "c50d2c726d3d25c11d",
-    "title": "Fantasia de Princesa Infantil",
-    "raw_title": "Fantasia De Princesa Para Meninas , Vestido De Festa De Tule Infantil Aniversário , Halloween , Carnaval , Performance D",
-    "description": "👑 Sua pequena vai brilhar! ✨ Prepare-se para ver a alegria no rosto da sua filha com esta linda Fantasia de Princesa! Perfeita para festas de aniversári...",
-    "marketplace": "Shopee",
-    "category": "Moda Infantil",
-    "old_price": "R$ 114,08",
-    "price": "R$ 57,04",
-    "discount_percent": 50.0,
-    "rating": 5.0,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7ra19-mbexjihwmnaad7",
-    "affiliate_url": "https://s.shopee.com.br/5AtASqb56I",
-    "created_at": "11/10/2026 07:19",
-    "created_at_iso": "2026-10-11T07:19:18",
-    "created_ts": 1791703158,
-    "niche": {
-      "key": "shopee_moda_infantil",
-      "name": "Moda Infantil"
-    }
-  },
-  {
-    "id": "831b0d5d5d5189f90d",
-    "title": "Conjunto Infantil Menina",
-    "raw_title": "Conjunto Infantil Menina Regata Ribana e Short Saia Ana ruga Confortável e Estiloso",
-    "description": "💖 Sua princesa merece esse estilo e conforto! 💖 Conjunto Infantil Menina super confortável e estiloso com regata ribana e short saia Ana ruga! Perfeito...",
-    "marketplace": "Shopee",
-    "category": "Moda Infantil",
-    "old_price": "R$ 59,98",
-    "price": "R$ 29,99",
-    "discount_percent": 50.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjyfjt8mzt3a18",
-    "affiliate_url": "https://s.shopee.com.br/7Kxf2pOIKu",
-    "created_at": "11/10/2026 07:18",
-    "created_at_iso": "2026-10-11T07:18:10",
-    "created_ts": 1791703090,
-    "niche": {
-      "key": "shopee_moda_infantil",
-      "name": "Moda Infantil"
     }
   }
 ]

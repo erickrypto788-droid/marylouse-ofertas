@@ -1,5 +1,22 @@
 [
   {
+    "id": "3c1108b84c63bbec1f",
+    "title": "Bepantol Baby Pomada Hipoalergênica 200g",
+    "raw_title": "Bepantol Baby Pomada Assadura Bebe Hipoalergênica, 200g",
+    "description": "✨ Proteção máxima contra assaduras para seu bebê! A Bepantol Baby Pomada Hipoalergênica de 200g é a aliada perfeita para manter a pele do seu pequeno se...",
+    "marketplace": "Mercado Livre",
+    "category": "Mãe e Bebê",
+    "old_price": "R$ 119,90",
+    "price": "R$ 108,96",
+    "discount_percent": 9.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_772325-MLA110843234303_042026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68578906?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "12/10/2026 10:05",
+    "created_at_iso": "2026-10-12T10:05:30",
+    "created_ts": 1791799530
+  },
+  {
     "id": "8270515a737376f018",
     "title": "Kit 10 Rolos Etiqueta Térmica",
     "raw_title": "Kit 10 Rolos Etiqueta Térmica Adesiva Branco 50mm Bobina Refil Para Mini Impressora Portátil e Maquina Fotográfica",
@@ -1996,82 +2013,6 @@
     "niche": {
       "key": "shopee_saude",
       "name": "Saúde"
-    }
-  },
-  {
-    "id": "4997910bf47ffccb87",
-    "title": "Motorola Razr 50 Ultra 5G Pink",
-    "raw_title": "Motorola Smartphone Motorola Razr 50 Ultra 5g Cor Pink",
-    "description": "✨ Destaque-se com o Motorola Razr 50 Ultra 5G Pink! ✨ Um smartphone que é puro design e performance. Experimente a inovação no seu dia a dia! 📦 Frete gr...",
-    "marketplace": "Mercado Livre",
-    "category": "Informática",
-    "old_price": "",
-    "price": "R$ 4.000,00",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_731263-MLA82936820100_032025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47306242?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "11/10/2026 10:02",
-    "created_at_iso": "2026-10-11T10:02:56",
-    "created_ts": 1791712976
-  },
-  {
-    "id": "145555ff340b2bacb2",
-    "title": "Samsung Galaxy A06 5G Preto",
-    "raw_title": "Celular Samsung Galaxy A06 5g Preto",
-    "description": "💥 Oportunidade IMPERDÍVEL! Garanta já seu novo Celular Samsung Galaxy A06 5G Preto! 🚀 Tecnologia 5G para você navegar com ultra velocidade e um design m...",
-    "marketplace": "Mercado Livre",
-    "category": "Informática",
-    "old_price": "",
-    "price": "R$ 749,65",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_756193-MLA107636300621_022026-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65973005?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "11/10/2026 10:01",
-    "created_at_iso": "2026-10-11T10:01:45",
-    "created_ts": 1791712905
-  },
-  {
-    "id": "bad6152ef2f030e599",
-    "title": "Kit 30 Jogos da Velha MDF",
-    "raw_title": "Kit 30 Jogos Da Velha MDF Cru 10x10 Educativo Infantil Pintura Artesanato Escolar",
-    "description": "🎨 Liberte a criatividade da garotada! Kit com 30 Jogos da Velha em MDF cru para pintar e personalizar! Perfeito para atividades educativas, artesanato e...",
-    "marketplace": "Shopee",
-    "category": "Brinquedos e Hobbies",
-    "old_price": "R$ 27,87",
-    "price": "R$ 22,85",
-    "discount_percent": 18.0,
-    "rating": 5.0,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mo9ysdeyno5j8b",
-    "affiliate_url": "https://s.shopee.com.br/6q1Oa9V6Z8",
-    "created_at": "11/10/2026 09:20",
-    "created_at_iso": "2026-10-11T09:20:23",
-    "created_ts": 1791710423,
-    "niche": {
-      "key": "shopee_brinquedos_hobbies",
-      "name": "Brinquedos e Hobbies"
-    }
-  },
-  {
-    "id": "a08192c2296202b65b",
-    "title": "Kit Montessori de Madeira - 3 Jogos",
-    "raw_title": "Kit de Brinquedo Educativo Montessori de Madeira - Formas Geométricas - 3 Jogos",
-    "description": "✨ Seu filho vai amar e aprender brincando! Kit Montessori de Madeira com 3 Jogos de Formas Geométricas! 🧩 Estimule a criatividade e o raciocínio lógico...",
-    "marketplace": "Shopee",
-    "category": "Brinquedos e Hobbies",
-    "old_price": "R$ 70,41",
-    "price": "R$ 49,99",
-    "discount_percent": 29.0,
-    "rating": 4.4,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820mg-mqxlkplxa6f9c9",
-    "affiliate_url": "https://s.shopee.com.br/70KomSUTE9",
-    "created_at": "11/10/2026 09:19",
-    "created_at_iso": "2026-10-11T09:19:15",
-    "created_ts": 1791710355,
-    "niche": {
-      "key": "shopee_brinquedos_hobbies",
-      "name": "Brinquedos e Hobbies"
     }
   }
 ]

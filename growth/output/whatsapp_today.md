@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 12/10/2026 03:22
+Gerado em: 12/10/2026 04:22
 
 ## Como usar
 
@@ -12,37 +12,7 @@ Gerado em: 12/10/2026 03:22
 
 ---
 
-## Post 1 — Celulares e Tecnologia
-
-**Canal recomendado:** Celulares e Tecnologia
-
-**Horário sugerido:** 19:00 - 21:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
-
-**Texto pronto:**
-
-```txt
-📱 Oferta para Celulares e Tecnologia
-
-Mini carregador portatil power bank para celular IPNHONE Samsung Xiao…
-
-💸 De: R$ 89,97
-🔥 Por: R$ 26,99
-🏷️ 70% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/1B46zIOBu
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 2 — Beleza e Cuidados
+## Post 1 — Beleza e Cuidados
 
 **Canal recomendado:** Beleza e Cuidados
 
@@ -72,7 +42,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 3 — Casa e Cozinha
+## Post 2 — Casa e Cozinha
 
 **Canal recomendado:** Casa e Cozinha
 
@@ -102,7 +72,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Ofertas Pet
+## Post 3 — Ofertas Pet
 
 **Canal recomendado:** Ofertas Pet
 
@@ -132,7 +102,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 5 — Mamãe e Bebê
+## Post 4 — Mamãe e Bebê
 
 **Canal recomendado:** Mamãe e Bebê
 
@@ -155,6 +125,36 @@ Fralda Descartável Pampers Supersequinha Mega M 40 Unidades
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/9V28d0WwKY
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 5 — Celulares e Tecnologia
+
+**Canal recomendado:** Celulares e Tecnologia
+
+**Horário sugerido:** 19:00 - 21:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
+
+**Texto pronto:**
+
+```txt
+📱 Oferta para Celulares e Tecnologia
+
+Relógio Smartwatch D20 Pro Bluetooth Coloca Foto na Tela Monitor Card…
+
+💸 De: R$ 56,22
+🔥 Por: R$ 17,99
+🏷️ 68% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/6Aliic0tXo
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

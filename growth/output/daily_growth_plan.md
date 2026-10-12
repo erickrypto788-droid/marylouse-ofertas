@@ -1,19 +1,19 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 12/10/2026 03:22
+Gerado em: 12/10/2026 04:22
 
 ## Categorias prioritárias
 
+- 🧸 **Brinquedos**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 🏋️ **Esportes**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 💄 **Beleza**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 🍼 **Mãe e Bebê**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 👟 **Calçados**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 💻 **Informática**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
-- 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
-- 📦 **Outros**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 👕 **Moda Masculina**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 - 👗 **Moda Feminina**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
-- 🧸 **Brinquedos**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
+- 📦 **Outros**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 
 ## Top ofertas para destacar
 
@@ -45,47 +45,47 @@ Gerado em: 12/10/2026 03:22
    - Desconto: 72% OFF
    - Link: https://s.shopee.com.br/4fwtno13vP
 
-5. **Mini carregador portatil power bank para celular IPNHONE Samsung Xiao…**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 26,99
-   - Desconto: 70% OFF
-   - Link: https://s.shopee.com.br/1B46zIOBu
-
-6. **Fralda Descartável Pampers Supersequinha Mega M 40 Unidades**
+5. **Fralda Descartável Pampers Supersequinha Mega M 40 Unidades**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 45,99
    - Desconto: 32% OFF
    - Link: https://s.shopee.com.br/9V28d0WwKY
 
-7. **Perfume Árabe Masculino Intense Men Eau de Parfum 100ml**
+6. **Perfume Árabe Masculino Intense Men Eau de Parfum 100ml**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 26,99
    - Desconto: 46% OFF
    - Link: https://s.shopee.com.br/3B86136ly0
 
-8. **Mini Panela elétrica （110V / 220V）**
+7. **Mini Panela elétrica （110V / 220V）**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 58,88
    - Desconto: 41% OFF
    - Link: https://s.shopee.com.br/2BFYl5lvS5
 
-9. **Relógio Smartwatch D20 Pro Bluetooth Coloca Foto na Tela Monitor Card…**
+8. **Relógio Smartwatch D20 Pro Bluetooth Coloca Foto na Tela Monitor Card…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 17,99
    - Desconto: 68% OFF
    - Link: https://s.shopee.com.br/6Aliic0tXo
 
-10. **Kit 2 Cartões de Memória 128GB**
+9. **Kit 2 Cartões de Memória 128GB**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 32,98
    - Desconto: 77% OFF
    - Link: https://s.shopee.com.br/3g4Nk11c5y
+
+10. **HUAWEI WiFi AX2S | Roteador | WS7000 V2 | Dual Band | 4 Antenas | 5…**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 149,00
+   - Desconto: 70% OFF
+   - Link: https://s.shopee.com.br/7ptwAkEGJA
 
 ## Ações gratuitas recomendadas
 

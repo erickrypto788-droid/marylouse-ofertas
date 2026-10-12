@@ -1,5 +1,89 @@
 [
   {
+    "id": "576a56ff4257114f2a",
+    "title": "Creme Hidratante Facial 5% Manteiga de Karité + 5% Glicerina + 2% Nia…",
+    "raw_title": "Creme Hidratante Facial 5% Manteiga de Karité + 5% Glicerina + 2% Niacinamida CH-01Principia - 50g",
+    "description": "🔥 9% OFF — Oferta encontrada! 📌 Creme Hidratante Facial 5% Manteiga de Karité + 5% Glicerina + 2% Niacinamida CH-01Principia - 50g Confira os detalhes e...",
+    "marketplace": "Shopee",
+    "category": "Beleza",
+    "old_price": "R$ 42,86",
+    "price": "R$ 39,00",
+    "discount_percent": 9.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-maa1iap089dl6d",
+    "affiliate_url": "https://s.shopee.com.br/5VW3Jva2pj",
+    "created_at": "12/10/2026 20:19",
+    "created_at_iso": "2026-10-12T20:19:11",
+    "created_ts": 1791836351,
+    "niche": {
+      "key": "shopee_beleza",
+      "name": "Beleza"
+    }
+  },
+  {
+    "id": "4edc07756fe17f92de",
+    "title": "Kit Dupla Renovadores Faciais Kokeshi Pele Porcelana Olhos Gueixa",
+    "raw_title": "Kit Dupla Renovadores Faciais Kokeshi Pele Porcelana Olhos Gueixa",
+    "description": "🔥 29% OFF — Oferta encontrada! 📌 Kit Dupla Renovadores Faciais Kokeshi Pele Porcelana Olhos Gueixa Confira os detalhes e aproveite enquanto a oferta est...",
+    "marketplace": "Shopee",
+    "category": "Beleza",
+    "old_price": "R$ 56,20",
+    "price": "R$ 39,90",
+    "discount_percent": 29.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820l6-mq3nf4vg8k5f75",
+    "affiliate_url": "https://s.shopee.com.br/5LCd7cagAg",
+    "created_at": "12/10/2026 20:18",
+    "created_at_iso": "2026-10-12T20:18:07",
+    "created_ts": 1791836287,
+    "niche": {
+      "key": "shopee_beleza",
+      "name": "Beleza"
+    }
+  },
+  {
+    "id": "3a56e348dea3b3d8ad",
+    "title": "Pente Elétrico Alisador Cabelo Aquecimento Milti-fucional Prancha Ali…",
+    "raw_title": "Pente Elétrico Alisador Cabelo Aquecimento Milti-fucional Prancha Alisadora",
+    "description": "🔥 66% OFF — Oferta encontrada! 📌 Pente Elétrico Alisador Cabelo Aquecimento Milti-fucional Prancha Alisadora Confira os detalhes e aproveite enquanto a...",
+    "marketplace": "Shopee",
+    "category": "Beleza",
+    "old_price": "R$ 79,09",
+    "price": "R$ 26,89",
+    "discount_percent": 66.0,
+    "rating": 4.7,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-825ah-mg45arr12nf181",
+    "affiliate_url": "https://s.shopee.com.br/3g4P8YYQn9",
+    "created_at": "12/10/2026 20:17",
+    "created_at_iso": "2026-10-12T20:17:03",
+    "created_ts": 1791836223,
+    "niche": {
+      "key": "shopee_beleza",
+      "name": "Beleza"
+    }
+  },
+  {
+    "id": "af37dbd5cf26100a44",
+    "title": "Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler…",
+    "raw_title": "Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler APENAS 110V Jimmystore",
+    "description": "🔥 87% OFF — Oferta encontrada! 📌 Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler APENAS 110V Jimmystore Confira os detalhes e apro...",
+    "marketplace": "Shopee",
+    "category": "Beleza",
+    "old_price": "R$ 292,23",
+    "price": "R$ 37,99",
+    "discount_percent": 87.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7ra3j-mblwmvx5pq1o34",
+    "affiliate_url": "https://s.shopee.com.br/60SJuqKwUP",
+    "created_at": "12/10/2026 20:15",
+    "created_at_iso": "2026-10-12T20:15:59",
+    "created_ts": 1791836159,
+    "niche": {
+      "key": "shopee_beleza",
+      "name": "Beleza"
+    }
+  },
+  {
     "id": "eb7fe40c29ea34d5ec",
     "title": "Xiaomi POCO Poco X6 5G Dual SIM 256GB/12GB Branco",
     "raw_title": "Xiaomi POCO Poco X6 5G Dual SIM 256GB/12GB Branco",
@@ -2046,69 +2130,6 @@
     "created_at": "11/10/2026 20:19",
     "created_at_iso": "2026-10-11T20:19:17",
     "created_ts": 1791749957,
-    "niche": {
-      "key": "shopee_roupas_plus_size",
-      "name": "Roupas Plus Size"
-    }
-  },
-  {
-    "id": "012f572065bd5043ff",
-    "title": "Vestido rodado Plus Size manga fler com a faixa tecido Suplex Digit…",
-    "raw_title": "Vestido rodado Plus Size manga fler com a faixa tecido Suplex Digital 44/46/48/50/52 g gg g1 g2",
-    "description": "🔥 10% OFF — Oferta encontrada! 📌 Vestido rodado Plus Size manga fler com a faixa tecido Suplex Digital 44/46/48/50/52 g gg g1 g2 Confira os detalhes e a...",
-    "marketplace": "Shopee",
-    "category": "Roupas Plus Size",
-    "old_price": "R$ 38,76",
-    "price": "R$ 34,88",
-    "discount_percent": 10.0,
-    "rating": 4.7,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lw-mtlsqjsekgsj65",
-    "affiliate_url": "https://s.shopee.com.br/1BN2Z4PqE6",
-    "created_at": "11/10/2026 20:18",
-    "created_at_iso": "2026-10-11T20:18:13",
-    "created_ts": 1791749893,
-    "niche": {
-      "key": "shopee_roupas_plus_size",
-      "name": "Roupas Plus Size"
-    }
-  },
-  {
-    "id": "56c843deb9316b2314",
-    "title": "Bermuda transpassada plus size M ao G3 academia moda modesta evangéli…",
-    "raw_title": "Bermuda transpassada plus size M ao G3 academia moda modesta evangélica BERMUDA",
-    "description": "🔥 46% OFF — Oferta encontrada! 📌 Bermuda transpassada plus size M ao G3 academia moda modesta evangélica BERMUDA Confira os detalhes e aproveite enquant...",
-    "marketplace": "Shopee",
-    "category": "Roupas Plus Size",
-    "old_price": "R$ 69,91",
-    "price": "R$ 37,75",
-    "discount_percent": 46.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mae8na54cjnz99",
-    "affiliate_url": "https://s.shopee.com.br/20w9YbIL48",
-    "created_at": "11/10/2026 20:17",
-    "created_at_iso": "2026-10-11T20:17:09",
-    "created_ts": 1791749829,
-    "niche": {
-      "key": "shopee_roupas_plus_size",
-      "name": "Roupas Plus Size"
-    }
-  },
-  {
-    "id": "d4d8490ca6ec7aea79",
-    "title": "Calça Marmorizada Plus Size",
-    "raw_title": "Calça Marmorizada Plus size academia",
-    "description": "🔥 IMPERDÍVEL! Calça Marmorizada Plus Size para Academia! 🏋️‍♀️ Conforto e estilo para seus treinos! Mais de 1.100 unidades vendidas! Não perca essa chance!",
-    "marketplace": "Shopee",
-    "category": "Roupas Plus Size",
-    "old_price": "R$ 110,00",
-    "price": "R$ 37,40",
-    "discount_percent": 66.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-8258s-mqcbsvz900lp28",
-    "affiliate_url": "https://s.shopee.com.br/5VW1j2MTW0",
-    "created_at": "11/10/2026 20:16",
-    "created_at_iso": "2026-10-11T20:16:04",
-    "created_ts": 1791749764,
     "niche": {
       "key": "shopee_roupas_plus_size",
       "name": "Roupas Plus Size"

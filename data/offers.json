@@ -1,5 +1,47 @@
 [
   {
+    "id": "dfb52cc80ee5aba534",
+    "title": "Bolsa Feminina 3 em 1 Impermeável",
+    "raw_title": "Bolsa feminina nylon impermeável vira mochila transversal tiracolo leve 3em1",
+    "description": "👜 Versatilidade que cabe no seu dia a dia! Conheça a Bolsa Feminina Nylon Impermeável que vira mochila e tiracolo. Super prática, leve e perfeita para q...",
+    "marketplace": "Shopee",
+    "category": "Bolsas Femininas",
+    "old_price": "R$ 98,89",
+    "price": "R$ 37,58",
+    "discount_percent": 62.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mdzni6y96lmr72",
+    "affiliate_url": "https://s.shopee.com.br/LnwIsB7BL",
+    "created_at": "12/10/2026 07:17",
+    "created_at_iso": "2026-10-12T07:17:19",
+    "created_ts": 1791789439,
+    "niche": {
+      "key": "shopee_bolsas_femininas",
+      "name": "Bolsas Femininas"
+    }
+  },
+  {
+    "id": "8a2b9aba2e4ce1f4f8",
+    "title": "Bolsa Feminina Casual SPOETRY",
+    "raw_title": "SPOETRY Bolsa Feminina Casual de Nylon Nova Grande Ombro Tote",
+    "description": "👜 Super Oferta: Bolsa SPOETRY com preço imperdível! Perfeita para o seu dia a dia, essa Bolsa Feminina Casual de Nylon é grande, prática e ideal para us...",
+    "marketplace": "Shopee",
+    "category": "Bolsas Femininas",
+    "old_price": "R$ 98,33",
+    "price": "R$ 29,50",
+    "discount_percent": 70.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820ld-mlq1ob393uvb2b",
+    "affiliate_url": "https://s.shopee.com.br/9zyRoda6k7",
+    "created_at": "12/10/2026 07:16",
+    "created_at_iso": "2026-10-12T07:16:12",
+    "created_ts": 1791789372,
+    "niche": {
+      "key": "shopee_bolsas_femininas",
+      "name": "Bolsas Femininas"
+    }
+  },
+  {
     "id": "b1445ec23ed7281dd3",
     "title": "Owlet Dream Sock | Meia Inteligente Monitor Bebê - Rosa",
     "raw_title": "Owlet Dream Sock | Meia Inteligente Monitor Bebê - Rosa",
@@ -2191,48 +2233,6 @@
     "created_at": "11/10/2026 07:18",
     "created_at_iso": "2026-10-11T07:18:10",
     "created_ts": 1791703090,
-    "niche": {
-      "key": "shopee_moda_infantil",
-      "name": "Moda Infantil"
-    }
-  },
-  {
-    "id": "209d369a646c5be52a",
-    "title": "Tênis Infantil Leve e Confortável",
-    "raw_title": "Tênis Infantil Menino Super Leve e Confortável Escolar Esportivo - Volta as aulas",
-    "description": "👟 Seu filho merece o melhor! 👟 Garanta o Tênis Infantil Menino Super Leve e Confortável, perfeito para a escola e o dia a dia! Seus pequenos com estilo...",
-    "marketplace": "Shopee",
-    "category": "Moda Infantil",
-    "old_price": "R$ 64,58",
-    "price": "R$ 31,00",
-    "discount_percent": 52.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztf-mkynhxip4uf770",
-    "affiliate_url": "https://s.shopee.com.br/30ofsrs3im",
-    "created_at": "11/10/2026 07:17",
-    "created_at_iso": "2026-10-11T07:17:03",
-    "created_ts": 1791703023,
-    "niche": {
-      "key": "shopee_moda_infantil",
-      "name": "Moda Infantil"
-    }
-  },
-  {
-    "id": "b50ac270882c3352af",
-    "title": "Tênis Infantil Casual Moderno",
-    "raw_title": "Tênis infantil casual moderno e confortável modinha",
-    "description": "✨ SEU FILHO(A) VAI AMAR! ✨ Deixe os pezinhos dos seus pequenos cheios de estilo e conforto com este Tênis infantil casual moderno e super confortável! P...",
-    "marketplace": "Shopee",
-    "category": "Moda Infantil",
-    "old_price": "R$ 111,14",
-    "price": "R$ 48,90",
-    "discount_percent": 56.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m4-mt98kmgxdjb4fe",
-    "affiliate_url": "https://s.shopee.com.br/5VW0rSibxJ",
-    "created_at": "11/10/2026 07:15",
-    "created_at_iso": "2026-10-11T07:15:56",
-    "created_ts": 1791702956,
     "niche": {
       "key": "shopee_moda_infantil",
       "name": "Moda Infantil"

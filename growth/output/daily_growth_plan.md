@@ -1,16 +1,16 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 12/10/2026 18:03
+Gerado em: 12/10/2026 18:21
 
 ## Categorias prioritárias
 
 - 👟 **Calçados**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
-- 👗 **Moda Feminina**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
+- 📱 **Celulares**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 🍼 **Mãe e Bebê**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 👕 **Moda Masculina**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 - 🏋️ **Esportes**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
+- 👗 **Moda Feminina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - ✨ **Moda Plus Size**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
-- 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 💻 **Informática**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 🧸 **Brinquedos**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
@@ -38,54 +38,54 @@ Gerado em: 12/10/2026 18:03
    - Desconto: 61% OFF
    - Link: https://s.shopee.com.br/7VH6RJ9O5D
 
-4. **Notebook Gamer 15.6" Intel N5095**
+4. **Amplificador De Imagem Da Tela Do Celular Lupa 3D 21,6CM*16,6CM*2,7CM…**
+   - Categoria: Celulares
+   - Loja: Shopee
+   - Preço: R$ 16,99
+   - Desconto: 43% OFF
+   - Link: https://s.shopee.com.br/Lnx2CJoNQ
+
+5. **Notebook Gamer 15.6" Intel N5095**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 2.698,00
    - Desconto: 46% OFF
    - Link: https://s.shopee.com.br/BUWIvAElL
 
-5. **SSD de Alta Velocidade**
+6. **SSD de Alta Velocidade**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 87,43
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/gQmtq8KkM
 
-6. **Fralda Descartável Pampers Splashers Piscina M/G 11 Unidades**
+7. **Fralda Descartável Pampers Splashers Piscina M/G 11 Unidades**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 44,99
    - Desconto: 31% OFF
    - Link: https://s.shopee.com.br/60SIz9IM5y
 
-7. **Barbeador Costas Masculino Traseiro Dobrável Aparador Pelos**
-   - Categoria: Beleza
-   - Loja: Mercado Livre
-   - Preço: R$ 229,00
-   - Desconto: 20% OFF
-   - Link: https://www.mercadolivre.com.br/p/MLB51434487?matt_word=marylouse&matt_tool=50459180&forceInApp=true
-
-8. **Cadeira Presidente com Massagem**
-   - Categoria: Casa e Cozinha
-   - Loja: Mercado Livre
-   - Preço: R$ 743,00
-   - Desconto: 60% OFF
-   - Link: https://www.mercadolivre.com.br/p/MLB59413555?matt_word=marylouse&matt_tool=50459180&forceInApp=true
-
-9. **Adaptador USB-C Hub Multifuncional**
+8. **Fone de Ouvido Sem Fio PRO5 airpods Com Cancelamento De Ruído Blueto…**
    - Categoria: Celulares
    - Loja: Shopee
-   - Preço: R$ 17,72
-   - Desconto: 52% OFF
-   - Link: https://s.shopee.com.br/1gJK5g8mzZ
+   - Preço: R$ 42,98
+   - Desconto: 82% OFF
+   - Link: https://s.shopee.com.br/Lnx2COD8t
 
-10. **Aparelho Medidor De Pressão Arterial Digital De Braço Alta Precisão C…**
-   - Categoria: Saúde
+9. **Fone de ouvido estéreo sem fio à prova d'água com Bluetooth caixa de…**
+   - Categoria: Pet
    - Loja: Shopee
-   - Preço: R$ 40,99
-   - Desconto: 59% OFF
-   - Link: https://s.shopee.com.br/6Alj7LWnjl
+   - Preço: R$ 32,99
+   - Desconto: 69% OFF
+   - Link: https://s.shopee.com.br/1LgUE2KP6v
+
+10. **Carregador Sem Fio 5000/10000mAh iPhone**
+   - Categoria: Celulares
+   - Loja: Shopee
+   - Preço: R$ 28,88
+   - Desconto: 50% OFF
+   - Link: https://s.shopee.com.br/30oiD65Bsk
 
 ## Ações gratuitas recomendadas
 

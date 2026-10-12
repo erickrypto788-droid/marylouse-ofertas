@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 12/10/2026 18:03
+Gerado em: 12/10/2026 18:21
 
 ## Como usar
 
@@ -162,29 +162,29 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 6 — Moda e Calçados
+## Post 6 — Ofertas Pet
 
-**Canal recomendado:** Moda e Calçados
+**Canal recomendado:** Ofertas Pet
 
-**Horário sugerido:** 12:00 - 15:00
+**Horário sugerido:** 17:00 - 20:00
 
 **Imagem/card:**
 
-https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
+https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
 
 **Texto pronto:**
 
 ```txt
-👟 Oferta para Moda e Calçados
+🐶 Oferta para Ofertas Pet
 
-Chinelo Babuche Feminino + CHARMS GRÁTIS! Antiderrapante EVA Macio Co…
+Fone de ouvido estéreo sem fio à prova d'água com Bluetooth caixa de…
 
-💸 De: R$ 127,55
-🔥 Por: R$ 36,99
-🏷️ 71% OFF
+💸 De: R$ 106,42
+🔥 Por: R$ 32,99
+🏷️ 69% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/7VH7VEd4vz
+Ver oferta: https://s.shopee.com.br/1LgUE2KP6v
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

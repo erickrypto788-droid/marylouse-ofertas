@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 12/10/2026 15:21
+Gerado em: 12/10/2026 16:18
 
 ## Como usar
 
@@ -162,29 +162,29 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 6 — Ofertas Pet
+## Post 6 — Moda e Calçados
 
-**Canal recomendado:** Ofertas Pet
+**Canal recomendado:** Moda e Calçados
 
-**Horário sugerido:** 17:00 - 20:00
+**Horário sugerido:** 12:00 - 15:00
 
 **Imagem/card:**
 
-https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
+https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
 
 **Texto pronto:**
 
 ```txt
-🐶 Oferta para Ofertas Pet
+👟 Oferta para Moda e Calçados
 
-Amplificador de sinal Wi-Fi repetidor e roteador sem fio rede sem fio…
+Botina Bota Segurança Couro Legitimo Com Biqueira Elastico Com CA
 
-💸 De: R$ 89,38
-🔥 Por: R$ 58,99
-🏷️ 34% OFF
+💸 De: R$ 99,97
+🔥 Por: R$ 36,99
+🏷️ 63% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/8AWmZMCzd4
+Ver oferta: https://s.shopee.com.br/80DO22qFtU
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

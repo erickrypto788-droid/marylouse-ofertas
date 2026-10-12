@@ -1,15 +1,15 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 12/10/2026 20:05
+Gerado em: 12/10/2026 20:20
 
 ## Categorias prioritárias
 
 - 📱 **Celulares**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 👟 **Calçados**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 🍼 **Mãe e Bebê**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 💄 **Beleza**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 - 💻 **Informática**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 🏋️ **Esportes**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- ✨ **Moda Plus Size**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-plus-size.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-plus-size
 - 🍳 **Casa e Cozinha**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
 - 👗 **Moda Feminina**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
@@ -17,75 +17,75 @@ Gerado em: 12/10/2026 20:05
 
 ## Top ofertas para destacar
 
-1. **SSD Externo SAMSUNG T5**
+1. **Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler…**
+   - Categoria: Beleza
+   - Loja: Shopee
+   - Preço: R$ 37,99
+   - Desconto: 87% OFF
+   - Link: https://s.shopee.com.br/60SJuqKwUP
+
+2. **SSD Externo SAMSUNG T5**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 179,00
    - Desconto: 64% OFF
    - Link: https://s.shopee.com.br/2VsR5D1M1Z
 
-2. **Chapinha 2 em 1 Profissional | Modelador Cachos Barril 30mm | Para Ca…**
+3. **Chapinha 2 em 1 Profissional | Modelador Cachos Barril 30mm | Para Ca…**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 26,49
    - Desconto: 56% OFF
    - Link: https://s.shopee.com.br/5AtBf1Mjs0
 
-3. **Escova Secadora 3 em 1**
+4. **Escova Secadora 3 em 1**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 77,99
    - Desconto: 61% OFF
    - Link: https://s.shopee.com.br/7VH6RJ9O5D
 
-4. **Panela De Pressão 4,5litros Panelux Linha Classic Alto Brilho A Mais…**
+5. **Panela De Pressão 4,5litros Panelux Linha Classic Alto Brilho A Mais…**
    - Categoria: Casa e Cozinha
    - Loja: Shopee
    - Preço: R$ 58,90
    - Desconto: 49% OFF
    - Link: https://s.shopee.com.br/113dtXJrOZ
 
-5. **Amplificador De Imagem Da Tela Do Celular Lupa 3D 21,6CM*16,6CM*2,7CM…**
+6. **Amplificador De Imagem Da Tela Do Celular Lupa 3D 21,6CM*16,6CM*2,7CM…**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 16,99
    - Desconto: 43% OFF
    - Link: https://s.shopee.com.br/Lnx2CJoNQ
 
-6. **Notebook Gamer 15.6" Intel N5095**
+7. **Notebook Gamer 15.6" Intel N5095**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 2.698,00
    - Desconto: 46% OFF
    - Link: https://s.shopee.com.br/BUWIvAElL
 
-7. **SSD de Alta Velocidade**
+8. **SSD de Alta Velocidade**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 87,43
    - Desconto: 40% OFF
    - Link: https://s.shopee.com.br/gQmtq8KkM
 
-8. **Fralda Descartável Pampers Splashers Piscina M/G 11 Unidades**
+9. **Fralda Descartável Pampers Splashers Piscina M/G 11 Unidades**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 44,99
    - Desconto: 31% OFF
    - Link: https://s.shopee.com.br/60SIz9IM5y
 
-9. **Fone de Ouvido Sem Fio PRO5 airpods Com Cancelamento De Ruído Blueto…**
-   - Categoria: Celulares
+10. **Pente Elétrico Alisador Cabelo Aquecimento Milti-fucional Prancha Ali…**
+   - Categoria: Beleza
    - Loja: Shopee
-   - Preço: R$ 42,98
-   - Desconto: 82% OFF
-   - Link: https://s.shopee.com.br/Lnx2COD8t
-
-10. **Fone de ouvido estéreo sem fio à prova d'água com Bluetooth caixa de…**
-   - Categoria: Pet
-   - Loja: Shopee
-   - Preço: R$ 32,99
-   - Desconto: 69% OFF
-   - Link: https://s.shopee.com.br/1LgUE2KP6v
+   - Preço: R$ 26,89
+   - Desconto: 66% OFF
+   - Link: https://s.shopee.com.br/3g4P8YYQn9
 
 ## Ações gratuitas recomendadas
 

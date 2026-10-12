@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 12/10/2026 20:05
+Gerado em: 12/10/2026 20:20
 
 ## Como usar
 
@@ -78,9 +78,9 @@ Gerado em: 12/10/2026 20:05
 
 **Produtos usados:**
 
+- Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler…
 - Escova Secadora 3 em 1
 - Chapinha 2 em 1 Profissional | Modelador Cachos Barril 30mm | Para Ca…
-- Barbeador Costas Masculino Traseiro Dobrável Aparador Pelos
 
 ---
 

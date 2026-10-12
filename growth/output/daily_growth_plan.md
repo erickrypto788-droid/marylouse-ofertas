@@ -1,15 +1,15 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 12/10/2026 11:08
+Gerado em: 12/10/2026 11:22
 
 ## Categorias prioritárias
 
-- 🍼 **Mãe e Bebê**: 15 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
+- 📦 **Outros**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 🍼 **Mãe e Bebê**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 💻 **Informática**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 👗 **Moda Feminina**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-feminina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-feminina
 - 👜 **Bolsas**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
 - 🧸 **Brinquedos**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
-- 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 📚 **Papelaria**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
 - 🏋️ **Esportes**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
@@ -66,26 +66,26 @@ Gerado em: 12/10/2026 11:08
    - Desconto: 31% OFF
    - Link: https://s.shopee.com.br/60SIz9IM5y
 
-8. **Fralda Descartável Pampers Supersequinha Mega M 40 Unidades**
-   - Categoria: Mãe e Bebê
-   - Loja: Shopee
-   - Preço: R$ 45,99
-   - Desconto: 32% OFF
-   - Link: https://s.shopee.com.br/9V28d0WwKY
-
-9. **Adaptador USB-C Hub Multifuncional**
+8. **Adaptador USB-C Hub Multifuncional**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 17,72
    - Desconto: 52% OFF
    - Link: https://s.shopee.com.br/1gJK5g8mzZ
 
-10. **Aparelho Medidor De Pressão Arterial Digital De Braço Alta Precisão C…**
+9. **Aparelho Medidor De Pressão Arterial Digital De Braço Alta Precisão C…**
    - Categoria: Saúde
    - Loja: Shopee
    - Preço: R$ 40,99
    - Desconto: 59% OFF
    - Link: https://s.shopee.com.br/6Alj7LWnjl
+
+10. **Relógio Smartwatch D20 Pro Bluetooth Coloca Foto na Tela Monitor Card…**
+   - Categoria: Celulares
+   - Loja: Shopee
+   - Preço: R$ 17,99
+   - Desconto: 68% OFF
+   - Link: https://s.shopee.com.br/6Aliic0tXo
 
 ## Ações gratuitas recomendadas
 

@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 12/10/2026 11:08
+Gerado em: 12/10/2026 11:22
 
 ## Como usar
 
@@ -31,8 +31,8 @@ Gerado em: 12/10/2026 11:08
 **Produtos usados:**
 
 - Fralda Descartável Pampers Splashers Piscina M/G 11 Unidades
-- Fralda Descartável Pampers Supersequinha Mega M 40 Unidades
 - Kit Enxoval Cueiro e Paninho de boca ( 9 PEÇAS ) Bebê
+- Carrinho Rolimã Zig Zag Car
 
 ---
 
@@ -119,10 +119,12 @@ Gerado em: 12/10/2026 11:08
 - growth/shorts/slides/supermercados/01_intro.png
 - growth/shorts/slides/supermercados/02_produto_1.png
 - growth/shorts/slides/supermercados/03_produto_2.png
+- growth/shorts/slides/supermercados/04_produto_3.png
 - growth/shorts/slides/supermercados/05_cta.png
 
 **Produtos usados:**
 
+- Puff Orgânico Curvo - 1 Metro Elegância e Conforto Moderno Feijao mod…
 - Absorvente Mulher Ativa Com Abas Kit 80 Pacotes Gel Super Absorvente
 - Essência Amaciante Concentrado
 

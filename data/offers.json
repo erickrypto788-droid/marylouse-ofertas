@@ -1,5 +1,22 @@
 [
   {
+    "id": "ab7cafae5f8437badb",
+    "title": "Kit Ferramentas Informatica Cor Preto",
+    "raw_title": "Kit Ferramentas Informatica Cor Preto",
+    "description": "🔥 Oferta encontrada! 📌 Kit Ferramentas Informatica Cor Preto Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "",
+    "price": "R$ 104,50",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_837553-MLA99455899792_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43810473?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "12/10/2026 00:01",
+    "created_at_iso": "2026-10-12T00:01:24",
+    "created_ts": 1791763284
+  },
+  {
     "id": "82eacc1fc106467079",
     "title": "Cabo De Dados De Carregamento Rápido Transparente De 100 W Para Dispo…",
     "raw_title": "Cabo De Dados De Carregamento Rápido Transparente De 100 W Para Dispositivos Apple Android Tipo C Display Digital",
@@ -2057,47 +2074,5 @@
     "created_at": "11/10/2026 00:04",
     "created_at_iso": "2026-10-11T00:04:20",
     "created_ts": 1791677060
-  },
-  {
-    "id": "8f3320cc47eb240a8d",
-    "title": "Shorts Feminino de Linho Cintura Alta Bolso Faca Elegante Simples Zíp…",
-    "raw_title": "Shorts Feminino de Linho Cintura Alta Bolso Faca Elegante Simples Zíper Botão",
-    "description": "🔥 47% OFF — Oferta encontrada! 📌 Shorts Feminino de Linho Cintura Alta Bolso Faca Elegante Simples Zíper Botão Confira os detalhes e aproveite enquanto...",
-    "marketplace": "Shopee",
-    "category": "Roupas Femininas",
-    "old_price": "R$ 60,36",
-    "price": "R$ 31,99",
-    "discount_percent": 47.0,
-    "rating": 4.6,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgpsqx5a6yv4cf",
-    "affiliate_url": "https://s.shopee.com.br/9V295qwhcp",
-    "created_at": "10/10/2026 23:20",
-    "created_at_iso": "2026-10-10T23:20:20",
-    "created_ts": 1791674420,
-    "niche": {
-      "key": "shopee_roupas_femininas",
-      "name": "Roupas Femininas"
-    }
-  },
-  {
-    "id": "b1e5e00b784be797c2",
-    "title": "Kit 4 Top Cropped Academia Forro Duplo Microfibra Feminino",
-    "raw_title": "Kit 4 Top Cropped Academia Forro Duplo Microfibra Feminino",
-    "description": "🔥 51% OFF — Oferta encontrada! 📌 Kit 4 Top Cropped Academia Forro Duplo Microfibra Feminino Confira os detalhes e aproveite enquanto a oferta estiver di...",
-    "marketplace": "Shopee",
-    "category": "Roupas Femininas",
-    "old_price": "R$ 101,02",
-    "price": "R$ 49,50",
-    "discount_percent": 51.0,
-    "rating": 4.7,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-820nz-mnutu1g7jeo6cf",
-    "affiliate_url": "https://s.shopee.com.br/5At9vszrXl",
-    "created_at": "10/10/2026 23:19",
-    "created_at_iso": "2026-10-10T23:19:16",
-    "created_ts": 1791674356,
-    "niche": {
-      "key": "shopee_roupas_femininas",
-      "name": "Roupas Femininas"
-    }
   }
 ]

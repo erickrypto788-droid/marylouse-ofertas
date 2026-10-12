@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 12/10/2026 00:03
+Gerado em: 12/10/2026 00:22
 
 ## Como usar
 
@@ -49,12 +49,14 @@ Gerado em: 12/10/2026 00:03
 - growth/shorts/slides/casa_cozinha/01_intro.png
 - growth/shorts/slides/casa_cozinha/02_produto_1.png
 - growth/shorts/slides/casa_cozinha/03_produto_2.png
+- growth/shorts/slides/casa_cozinha/04_produto_3.png
 - growth/shorts/slides/casa_cozinha/05_cta.png
 
 **Produtos usados:**
 
 - Mini Panela elétrica （110V / 220V）
-- Snob Papel Toalha Cozinha Folha Dupla C/ 12 Rolos
+- Liquidificador Britânia 1200W 3L 12 Velocidades BLQ1380P
+- Kit Liquidificador 550W Turbo Power L-99-FB + Batedeira 400W Prática…
 
 ---
 
@@ -119,13 +121,11 @@ Gerado em: 12/10/2026 00:03
 - growth/shorts/slides/supermercados/01_intro.png
 - growth/shorts/slides/supermercados/02_produto_1.png
 - growth/shorts/slides/supermercados/03_produto_2.png
-- growth/shorts/slides/supermercados/04_produto_3.png
 - growth/shorts/slides/supermercados/05_cta.png
 
 **Produtos usados:**
 
 - Absorvente Mulher Ativa Com Abas Kit 80 Pacotes Gel Super Absorvente
 - Essência Amaciante Concentrado
-- 100 Saco De Lixo 60l Preto Saco Lixo Resistente Reforçado
 
 ---

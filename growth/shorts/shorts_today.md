@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 12/10/2026 14:22
+Gerado em: 12/10/2026 15:04
 
 ## Como usar
 
@@ -80,7 +80,7 @@ Gerado em: 12/10/2026 14:22
 
 - Escova Secadora 3 em 1
 - Chapinha 2 em 1 Profissional | Modelador Cachos Barril 30mm | Para Ca…
-- Kit Facial Kokeshi Completo 3 Passos Hidratação e Colágeno
+- Barbeador Costas Masculino Traseiro Dobrável Aparador Pelos
 
 ---
 

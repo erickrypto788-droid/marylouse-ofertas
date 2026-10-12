@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 12/10/2026 14:22
+Gerado em: 12/10/2026 15:04
 
 ## Categorias prioritárias
 
@@ -8,12 +8,12 @@ Gerado em: 12/10/2026 14:22
 - 📦 **Outros**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 👕 **Moda Masculina**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 - 🍼 **Mãe e Bebê**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 💻 **Informática**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 🏋️ **Esportes**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
+- 💻 **Informática**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 👟 **Calçados**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 🧸 **Brinquedos**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
-- 🍳 **Casa e Cozinha**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
+- 💄 **Beleza**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
 
 ## Top ofertas para destacar
 
@@ -59,33 +59,33 @@ Gerado em: 12/10/2026 14:22
    - Desconto: 31% OFF
    - Link: https://s.shopee.com.br/60SIz9IM5y
 
-7. **Cadeira Presidente com Massagem**
+7. **Barbeador Costas Masculino Traseiro Dobrável Aparador Pelos**
+   - Categoria: Beleza
+   - Loja: Mercado Livre
+   - Preço: R$ 229,00
+   - Desconto: 20% OFF
+   - Link: https://www.mercadolivre.com.br/p/MLB51434487?matt_word=marylouse&matt_tool=50459180&forceInApp=true
+
+8. **Cadeira Presidente com Massagem**
    - Categoria: Casa e Cozinha
    - Loja: Mercado Livre
    - Preço: R$ 743,00
    - Desconto: 60% OFF
    - Link: https://www.mercadolivre.com.br/p/MLB59413555?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
-8. **Adaptador USB-C Hub Multifuncional**
+9. **Adaptador USB-C Hub Multifuncional**
    - Categoria: Celulares
    - Loja: Shopee
    - Preço: R$ 17,72
    - Desconto: 52% OFF
    - Link: https://s.shopee.com.br/1gJK5g8mzZ
 
-9. **Aparelho Medidor De Pressão Arterial Digital De Braço Alta Precisão C…**
+10. **Aparelho Medidor De Pressão Arterial Digital De Braço Alta Precisão C…**
    - Categoria: Saúde
    - Loja: Shopee
    - Preço: R$ 40,99
    - Desconto: 59% OFF
    - Link: https://s.shopee.com.br/6Alj7LWnjl
-
-10. **Relógio Smartwatch D20 Pro Bluetooth Coloca Foto na Tela Monitor Card…**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 17,99
-   - Desconto: 68% OFF
-   - Link: https://s.shopee.com.br/6Aliic0tXo
 
 ## Ações gratuitas recomendadas
 

@@ -1,91 +1,91 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 12/10/2026 10:07
+Gerado em: 12/10/2026 10:22
 
 ## Categorias prioritárias
 
 - 🍼 **Mãe e Bebê**: 15 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
-- 💻 **Informática**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
+- 💻 **Informática**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-informatica.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_informatica
 - 👜 **Bolsas**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-bolsas.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_bolsas
+- 📦 **Outros**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
+- 📱 **Celulares**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 - 📚 **Papelaria**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-papelaria.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_papelaria
-- ❤️ **Saúde**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-saude.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_saude
 - 🏋️ **Esportes**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
 - 👟 **Calçados**: 6 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 🧸 **Brinquedos**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-brinquedos.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_brinquedos
 - 💄 **Beleza**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 👕 **Moda Masculina**: 5 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 
 ## Top ofertas para destacar
 
-1. **Chapinha 2 em 1 Profissional | Modelador Cachos Barril 30mm | Para Ca…**
+1. **SSD Externo SAMSUNG T5**
+   - Categoria: Celulares
+   - Loja: Shopee
+   - Preço: R$ 179,00
+   - Desconto: 64% OFF
+   - Link: https://s.shopee.com.br/2VsR5D1M1Z
+
+2. **Chapinha 2 em 1 Profissional | Modelador Cachos Barril 30mm | Para Ca…**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 26,49
    - Desconto: 56% OFF
    - Link: https://s.shopee.com.br/5AtBf1Mjs0
 
-2. **Escova Secadora 3 em 1**
+3. **Escova Secadora 3 em 1**
    - Categoria: Beleza
    - Loja: Shopee
    - Preço: R$ 77,99
    - Desconto: 61% OFF
    - Link: https://s.shopee.com.br/7VH6RJ9O5D
 
-3. **Mochila Unissex Notebook Resistente Água**
+4. **Mochila Unissex Notebook Resistente Água**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 27,99
    - Desconto: 65% OFF
    - Link: https://s.shopee.com.br/6VOYS1OJbM
 
-4. **Fralda Descartável Pampers Splashers Piscina M/G 11 Unidades**
+5. **Notebook Gamer 15.6" Intel N5095**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 2.698,00
+   - Desconto: 46% OFF
+   - Link: https://s.shopee.com.br/BUWIvAElL
+
+6. **SSD de Alta Velocidade**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 87,43
+   - Desconto: 40% OFF
+   - Link: https://s.shopee.com.br/gQmtq8KkM
+
+7. **Fralda Descartável Pampers Splashers Piscina M/G 11 Unidades**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 44,99
    - Desconto: 31% OFF
    - Link: https://s.shopee.com.br/60SIz9IM5y
 
-5. **Fralda Descartável Pampers Supersequinha Mega M 40 Unidades**
+8. **Fralda Descartável Pampers Supersequinha Mega M 40 Unidades**
    - Categoria: Mãe e Bebê
    - Loja: Shopee
    - Preço: R$ 45,99
    - Desconto: 32% OFF
    - Link: https://s.shopee.com.br/9V28d0WwKY
 
-6. **Aparelho Medidor De Pressão Arterial Digital De Braço Alta Precisão C…**
+9. **Adaptador USB-C Hub Multifuncional**
+   - Categoria: Celulares
+   - Loja: Shopee
+   - Preço: R$ 17,72
+   - Desconto: 52% OFF
+   - Link: https://s.shopee.com.br/1gJK5g8mzZ
+
+10. **Aparelho Medidor De Pressão Arterial Digital De Braço Alta Precisão C…**
    - Categoria: Saúde
    - Loja: Shopee
    - Preço: R$ 40,99
    - Desconto: 59% OFF
    - Link: https://s.shopee.com.br/6Alj7LWnjl
-
-7. **Relógio Smartwatch D20 Pro Bluetooth Coloca Foto na Tela Monitor Card…**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 17,99
-   - Desconto: 68% OFF
-   - Link: https://s.shopee.com.br/6Aliic0tXo
-
-8. **Kit 2 Cartões de Memória 128GB**
-   - Categoria: Celulares
-   - Loja: Shopee
-   - Preço: R$ 32,98
-   - Desconto: 77% OFF
-   - Link: https://s.shopee.com.br/3g4Nk11c5y
-
-9. **HUAWEI WiFi AX2S | Roteador | WS7000 V2 | Dual Band | 4 Antenas | 5…**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 149,00
-   - Desconto: 70% OFF
-   - Link: https://s.shopee.com.br/7ptwAkEGJA
-
-10. **Monitor Gamer LG UltraGear 24” IPS 180Hz 24GS60F-B**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 909,00
-   - Desconto: 54% OFF
-   - Link: https://s.shopee.com.br/7faVyQxR4Z
 
 ## Ações gratuitas recomendadas
 

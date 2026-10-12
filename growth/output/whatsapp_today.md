@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 12/10/2026 12:19
+Gerado em: 12/10/2026 13:22
 
 ## Como usar
 
@@ -102,7 +102,37 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Casa e Cozinha
+## Post 4 — Moda Feminina
+
+**Canal recomendado:** Moda Feminina
+
+**Horário sugerido:** 12:00 - 14:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
+
+**Texto pronto:**
+
+```txt
+👗 Oferta para Moda Feminina
+
+Vestido para casamento convidada civil Feminino Longo Elegante de Fes…
+
+💸 De: R$ 89,16
+🔥 Por: R$ 32,99
+🏷️ 63% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/9fLbokL1ZT
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 5 — Casa e Cozinha
 
 **Canal recomendado:** Casa e Cozinha
 
@@ -132,7 +162,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 5 — Ofertas Pet
+## Post 6 — Ofertas Pet
 
 **Canal recomendado:** Ofertas Pet
 
@@ -155,36 +185,6 @@ Amplificador de sinal Wi-Fi repetidor e roteador sem fio rede sem fio…
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/8AWmZMCzd4
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 6 — Moda e Calçados
-
-**Canal recomendado:** Moda e Calçados
-
-**Horário sugerido:** 12:00 - 15:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
-
-**Texto pronto:**
-
-```txt
-👟 Oferta para Moda e Calçados
-
-Sandalia Feminina Casual Confortavel Elegante Blogueira Couro Platafo…
-
-💸 De: R$ 118,37
-🔥 Por: R$ 44,98
-🏷️ 62% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/2VsQHkyzz0
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

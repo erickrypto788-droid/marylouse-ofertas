@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 12/10/2026 20:20
+Gerado em: 12/10/2026 21:22
 
 ## Como usar
 
@@ -117,14 +117,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
 ```txt
 🍼 Oferta para Mamãe e Bebê
 
-Fralda Descartável Pampers Splashers Piscina M/G 11 Unidades
+Kit 5 Camisetas Regata Bebê
 
-💸 De: R$ 65,20
-🔥 Por: R$ 44,99
-🏷️ 31% OFF
+💸 De: R$ 81,05
+🔥 Por: R$ 29,99
+🏷️ 63% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/60SIz9IM5y
+Ver oferta: https://s.shopee.com.br/8fT59rdytU
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

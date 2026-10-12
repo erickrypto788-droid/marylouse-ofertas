@@ -1,5 +1,22 @@
 [
   {
+    "id": "f81e0fc9102d1bf7ae",
+    "title": "SSD Netac NV3000 NVMe M.2 250GB",
+    "raw_title": "SSD Netac Nv3000 Ssd Nvme M2 250gb",
+    "description": "🚀 Turbine seu PC com velocidade absurda! Garanta já o seu SSD Netac NV3000 NVMe M.2 de 250GB e sinta a diferença no carregamento de jogos e programas! ⚡...",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "",
+    "price": "R$ 326,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_962098-MLA115695831628_092026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24511657?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "12/10/2026 01:01",
+    "created_at_iso": "2026-10-12T01:01:40",
+    "created_ts": 1791766900
+  },
+  {
     "id": "ca113ec0472ac3918a",
     "title": "Micro-ondas Philco 33L Pintura Limpa Fácil PM36",
     "raw_title": "Micro-ondas Philco 33L Pintura Limpa Fácil PM36",
@@ -2023,26 +2040,5 @@
     "created_at": "11/10/2026 01:02",
     "created_at_iso": "2026-10-11T01:02:26",
     "created_ts": 1791680546
-  },
-  {
-    "id": "9cb87092ebae61b44d",
-    "title": "Kit com 3,2 e 1 Calça Jeans Masculina Premium Skinny Corte tradiciona…",
-    "raw_title": "Kit com 3,2 e 1 Calça Jeans Masculina Premium Skinny Corte tradicional Basico com Lycra Lavagem Clara Escura ou Preta",
-    "description": "🔥 45% OFF — Oferta encontrada! 📌 Kit com 3,2 e 1 Calça Jeans Masculina Premium Skinny Corte tradicional Basico com Lycra Lavagem Clara Escura ou Preta C...",
-    "marketplace": "Shopee",
-    "category": "Roupas Masculinas",
-    "old_price": "R$ 99,98",
-    "price": "R$ 54,99",
-    "discount_percent": 45.0,
-    "rating": 4.8,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820mg-mr1zibs9cyrr46",
-    "affiliate_url": "https://s.shopee.com.br/7Kxea0XOXt",
-    "created_at": "11/10/2026 00:20",
-    "created_at_iso": "2026-10-11T00:20:44",
-    "created_ts": 1791678044,
-    "niche": {
-      "key": "shopee_roupas_masculinas",
-      "name": "Roupas Masculinas"
-    }
   }
 ]

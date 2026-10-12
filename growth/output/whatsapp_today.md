@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 12/10/2026 05:19
+Gerado em: 12/10/2026 06:22
 
 ## Como usar
 
@@ -87,14 +87,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
 ```txt
 🍼 Oferta para Mamãe e Bebê
 
-Fralda Descartável Pampers Supersequinha Mega M 40 Unidades
+Fralda Descartável Pampers Splashers Piscina M/G 11 Unidades
 
-💸 De: R$ 67,63
-🔥 Por: R$ 45,99
-🏷️ 32% OFF
+💸 De: R$ 65,20
+🔥 Por: R$ 44,99
+🏷️ 31% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/9V28d0WwKY
+Ver oferta: https://s.shopee.com.br/60SIz9IM5y
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

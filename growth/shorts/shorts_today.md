@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 12/10/2026 05:19
+Gerado em: 12/10/2026 06:22
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 12/10/2026 05:19
 
 **Produtos usados:**
 
+- Fralda Descartável Pampers Splashers Piscina M/G 11 Unidades
 - Fralda Descartável Pampers Supersequinha Mega M 40 Unidades
-- Kit 12 Pares de Meias Menina Recém Nascidos e Bebê com Antiderrapante…
-- Lixa de Unha Elétrico Aparador Cortador Para Bebê Infantil Com Estojo…
+- Kit Enxoval Cueiro e Paninho de boca ( 9 PEÇAS ) Bebê
 
 ---
 
@@ -77,8 +77,8 @@ Gerado em: 12/10/2026 05:19
 **Produtos usados:**
 
 - Escova Secadora 3 em 1
-- Kit 5 Bodysplash Masculinos de Grife Perfumes Famosos 60ml
 - Chapinha 2 em 1 Profissional | Modelador Cachos Barril 30mm | Para Ca…
+- Kit Facial Kokeshi Completo 3 Passos Hidratação e Colágeno
 
 ---
 

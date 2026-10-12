@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 12/10/2026 16:18
+Gerado em: 12/10/2026 17:18
 
 ## Como usar
 
@@ -120,14 +120,10 @@ Gerado em: 12/10/2026 16:18
 
 - growth/shorts/slides/supermercados/01_intro.png
 - growth/shorts/slides/supermercados/02_produto_1.png
-- growth/shorts/slides/supermercados/03_produto_2.png
-- growth/shorts/slides/supermercados/04_produto_3.png
 - growth/shorts/slides/supermercados/05_cta.png
 
 **Produtos usados:**
 
 - Puff Orgânico Curvo - 1 Metro Elegância e Conforto Moderno Feijao mod…
-- Absorvente Mulher Ativa Com Abas Kit 80 Pacotes Gel Super Absorvente
-- Essência Amaciante Concentrado
 
 ---

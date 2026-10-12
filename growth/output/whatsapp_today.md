@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 12/10/2026 16:18
+Gerado em: 12/10/2026 17:18
 
 ## Como usar
 
@@ -177,14 +177,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
 ```txt
 👟 Oferta para Moda e Calçados
 
-Botina Bota Segurança Couro Legitimo Com Biqueira Elastico Com CA
+Chinelo Babuche Feminino + CHARMS GRÁTIS! Antiderrapante EVA Macio Co…
 
-💸 De: R$ 99,97
+💸 De: R$ 127,55
 🔥 Por: R$ 36,99
-🏷️ 63% OFF
+🏷️ 71% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/80DO22qFtU
+Ver oferta: https://s.shopee.com.br/7VH7VEd4vz
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

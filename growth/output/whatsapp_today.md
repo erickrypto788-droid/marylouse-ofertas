@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 12/10/2026 07:19
+Gerado em: 12/10/2026 08:17
 
 ## Como usar
 
@@ -42,37 +42,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 2 — Ofertas Pet
-
-**Canal recomendado:** Ofertas Pet
-
-**Horário sugerido:** 17:00 - 20:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
-
-**Texto pronto:**
-
-```txt
-🐶 Oferta para Ofertas Pet
-
-Kit 2 Sandálias Papete Infantil
-
-💸 De: R$ 69,29
-🔥 Por: R$ 38,80
-🏷️ 44% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/9APJECLe7e
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 3 — Mamãe e Bebê
+## Post 2 — Mamãe e Bebê
 
 **Canal recomendado:** Mamãe e Bebê
 
@@ -102,7 +72,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Celulares e Tecnologia
+## Post 3 — Celulares e Tecnologia
 
 **Canal recomendado:** Celulares e Tecnologia
 
@@ -125,6 +95,36 @@ Relógio Smartwatch D20 Pro Bluetooth Coloca Foto na Tela Monitor Card…
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/6Aliic0tXo
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 4 — Ofertas Pet
+
+**Canal recomendado:** Ofertas Pet
+
+**Horário sugerido:** 17:00 - 20:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/pet.png
+
+**Texto pronto:**
+
+```txt
+🐶 Oferta para Ofertas Pet
+
+Amplificador de sinal Wi-Fi repetidor e roteador sem fio rede sem fio…
+
+💸 De: R$ 89,38
+🔥 Por: R$ 58,99
+🏷️ 34% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/8AWmZMCzd4
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

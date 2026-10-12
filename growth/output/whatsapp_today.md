@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 12/10/2026 04:22
+Gerado em: 12/10/2026 05:19
 
 ## Como usar
 
@@ -42,37 +42,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 2 — Casa e Cozinha
-
-**Canal recomendado:** Casa e Cozinha
-
-**Horário sugerido:** 18:00 - 20:00
-
-**Imagem/card:**
-
-https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
-
-**Texto pronto:**
-
-```txt
-🍳 Oferta para Casa e Cozinha
-
-Mini Panela elétrica （110V / 220V）
-
-💸 De: R$ 99,80
-🔥 Por: R$ 58,88
-🏷️ 41% OFF
-🛒 Loja: Shopee
-
-Ver oferta: https://s.shopee.com.br/2BFYl5lvS5
-
-⚠️ Preço e disponibilidade podem mudar.
-MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
-```
-
----
-
-## Post 3 — Ofertas Pet
+## Post 2 — Ofertas Pet
 
 **Canal recomendado:** Ofertas Pet
 
@@ -102,7 +72,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 4 — Mamãe e Bebê
+## Post 3 — Mamãe e Bebê
 
 **Canal recomendado:** Mamãe e Bebê
 
@@ -132,7 +102,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 5 — Celulares e Tecnologia
+## Post 4 — Celulares e Tecnologia
 
 **Canal recomendado:** Celulares e Tecnologia
 
@@ -162,7 +132,7 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 6 — Moda e Calçados
+## Post 5 — Moda e Calçados
 
 **Canal recomendado:** Moda e Calçados
 
@@ -185,6 +155,36 @@ Sandalia Feminina Casual Confortavel Elegante Blogueira Couro Platafo…
 🛒 Loja: Shopee
 
 Ver oferta: https://s.shopee.com.br/2VsQHkyzz0
+
+⚠️ Preço e disponibilidade podem mudar.
+MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
+```
+
+---
+
+## Post 6 — Moda Feminina
+
+**Canal recomendado:** Moda Feminina
+
+**Horário sugerido:** 12:00 - 14:00
+
+**Imagem/card:**
+
+https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
+
+**Texto pronto:**
+
+```txt
+👗 Oferta para Moda Feminina
+
+Kit 2 Regata Top Halter Blusinha Halter Neck Moda Gringa Frente Única…
+
+💸 De: R$ 101,02
+🔥 Por: R$ 46,47
+🏷️ 54% OFF
+🛒 Loja: Shopee
+
+Ver oferta: https://s.shopee.com.br/qkCdI4PKY
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

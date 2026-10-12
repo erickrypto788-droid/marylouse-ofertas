@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 12/10/2026 01:03
+Gerado em: 12/10/2026 01:20
 
 ## Como usar
 
@@ -78,9 +78,9 @@ Gerado em: 12/10/2026 01:03
 
 **Produtos usados:**
 
+- Escova Secadora 3 em 1
 - Kit 5 Bodysplash Masculinos de Grife Perfumes Famosos 60ml
-- Perfume Árabe Masculino Intense Men Eau de Parfum 100ml
-- Maleta De Maquiagem Infantil - Kit Maquiagem Infantil Lindo
+- Chapinha 2 em 1 Profissional | Modelador Cachos Barril 30mm | Para Ca…
 
 ---
 

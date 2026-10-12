@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 12/10/2026 01:03
+Gerado em: 12/10/2026 01:20
 
 ## Como usar
 
@@ -57,14 +57,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/beleza.png
 ```txt
 💄 Oferta para Beleza e Cuidados
 
-Kit 5 Bodysplash Masculinos de Grife Perfumes Famosos 60ml
+Escova Secadora 3 em 1
 
-💸 De: R$ 117,11
-🔥 Por: R$ 32,79
-🏷️ 72% OFF
+💸 De: R$ 199,97
+🔥 Por: R$ 77,99
+🏷️ 61% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/4fwtno13vP
+Ver oferta: https://s.shopee.com.br/7VH6RJ9O5D
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
@@ -162,29 +162,29 @@ MaryLouse Ofertas pode receber comissão por compras feitas pelos links.
 
 ---
 
-## Post 6 — Moda Feminina
+## Post 6 — Moda e Calçados
 
-**Canal recomendado:** Moda Feminina
+**Canal recomendado:** Moda e Calçados
 
-**Horário sugerido:** 12:00 - 14:00
+**Horário sugerido:** 12:00 - 15:00
 
 **Imagem/card:**
 
-https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
+https://marylouse-ofertas.vercel.app/growth/pinterest/calcados.png
 
 **Texto pronto:**
 
 ```txt
-👗 Oferta para Moda Feminina
+👟 Oferta para Moda e Calçados
 
-Kit 4 Blusa Plus Size Camiseta Dry Fit Roupa de Academia Feminina Lon…
+Sandalia Feminina Casual Confortavel Elegante Blogueira Couro Platafo…
 
-💸 De: R$ 238,71
-🔥 Por: R$ 74,00
-🏷️ 69% OFF
+💸 De: R$ 118,37
+🔥 Por: R$ 44,98
+🏷️ 62% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/113ZqBNWBY
+Ver oferta: https://s.shopee.com.br/2VsQHkyzz0
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

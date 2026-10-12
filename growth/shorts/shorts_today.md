@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 12/10/2026 22:22
+Gerado em: 12/10/2026 23:22
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 12/10/2026 22:22
 
 **Produtos usados:**
 
+- Bebê Reborn Boneca Realista Girafinha Luxo Em Silicone Pode Dar Banho…
 - Kit 5 Camisetas Regata Bebê
 - Fralda Descartável Pampers Splashers Piscina M/G 11 Unidades
-- Kit Enxoval Cueiro e Paninho de boca ( 9 PEÇAS ) Bebê
 
 ---
 

@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 12/10/2026 22:22
+Gerado em: 12/10/2026 23:22
 
 ## Como usar
 
@@ -117,14 +117,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/mae-bebe.png
 ```txt
 🍼 Oferta para Mamãe e Bebê
 
-Kit 5 Camisetas Regata Bebê
+Bebê Reborn Boneca Realista Girafinha Luxo Em Silicone Pode Dar Banho…
 
-💸 De: R$ 81,05
-🔥 Por: R$ 29,99
-🏷️ 63% OFF
+💸 De: R$ 223,21
+🔥 Por: R$ 75,89
+🏷️ 66% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/8fT59rdytU
+Ver oferta: https://s.shopee.com.br/1Vzukw5QcN
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

@@ -1,5 +1,39 @@
 [
   {
+    "id": "009b8584c32fc69379",
+    "title": "Whey Protein Concentrado + Whey Protein Isolado + Cafeína",
+    "raw_title": "Whey Protein Concentrado + Whey Protein Isolado + Cafeína",
+    "description": "🔥 Oferta encontrada! 📌 Whey Protein Concentrado + Whey Protein Isolado + Cafeína Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Esportes e Lazer",
+    "old_price": "",
+    "price": "R$ 658,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_647505-MLB31230837165_062019-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20818317?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "12/10/2026 14:02",
+    "created_at_iso": "2026-10-12T14:02:41",
+    "created_ts": 1791813761
+  },
+  {
+    "id": "02906701e6fbb33e6c",
+    "title": "Prancha Esteira Ergometrica Kikos E600ix Preto",
+    "raw_title": "Prancha Esteira Ergometrica Kikos E600ix Preto",
+    "description": "🔥 14% OFF — Oferta encontrada! 📌 Prancha Esteira Ergometrica Kikos E600ix Preto Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Esportes e Lazer",
+    "old_price": "R$ 222,43",
+    "price": "R$ 191,28",
+    "discount_percent": 14.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_784123-MLA112064877793_052026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70114350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "12/10/2026 14:01",
+    "created_at_iso": "2026-10-12T14:01:37",
+    "created_ts": 1791813697
+  },
+  {
     "id": "2dfb5c3a43340d73f4",
     "title": "Tenis liso EC moda conforto tenis meia calce facil",
     "raw_title": "Tenis liso EC moda conforto tenis meia calce facil",
@@ -2188,22 +2222,5 @@
       "key": "shopee_papelaria",
       "name": "Papelaria"
     }
-  },
-  {
-    "id": "724ae130b3a782d735",
-    "title": "Monitor Bebê Wifi Inteligente",
-    "raw_title": "Monitor Bebe Wifi Infravermelho Vision Noctura Intercom Inteligente",
-    "description": "Tenha seu bebê sempre à vista! 👶 Com o Monitor Bebe Wifi Infravermelho Vision Noctura Intercom Inteligente, você garante a segurança e o bem-estar do se...",
-    "marketplace": "Mercado Livre",
-    "category": "Mãe e Bebê",
-    "old_price": "",
-    "price": "R$ 1.198,90",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_782666-MLA99581406986_122025-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23076913?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "11/10/2026 14:01",
-    "created_at_iso": "2026-10-11T14:01:46",
-    "created_ts": 1791727306
   }
 ]

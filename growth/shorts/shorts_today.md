@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 13/10/2026 11:19
+Gerado em: 13/10/2026 12:03
 
 ## Como usar
 
@@ -127,7 +127,7 @@ Gerado em: 13/10/2026 11:19
 **Produtos usados:**
 
 - Piscina Feijão Infantil 50L/100L Rosa ou Azul Caixa Multiuso Polietil…
-- Puff Orgânico Curvo - 1 Metro Elegância e Conforto Moderno Feijao mod…
 - Papel higiênico INDAIAL CAICAI PAPEL HIGIENICO folha dupla de 1 un
+- Azeite Oliva Extra Virgem Português Vila Oliva 500ml (3 Un)
 
 ---

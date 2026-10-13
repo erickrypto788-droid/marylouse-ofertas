@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 13/10/2026 12:18
+Gerado em: 13/10/2026 13:05
 
 ## Como usar
 
@@ -117,14 +117,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/celulares.png
 ```txt
 📱 Oferta para Celulares e Tecnologia
 
-Amplificador De Imagem Da Tela Do Celular Lupa 3D 21,6CM*16,6CM*2,7CM…
+Power Bank Portátil FEELTRA 10.200mAh 22.5W Turbo para Celular com 3…
 
-💸 De: R$ 29,81
-🔥 Por: R$ 16,99
-🏷️ 43% OFF
-🛒 Loja: Shopee
+💸 De: R$ 239,00
+🔥 Por: R$ 129,90
+🏷️ 46% OFF
+🛒 Loja: Mercado Livre
 
-Ver oferta: https://s.shopee.com.br/Lnx2CJoNQ
+Ver oferta: https://www.mercadolivre.com.br/p/MLB75833773?matt_word=marylouse&matt_tool=50459180&forceInApp=true
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

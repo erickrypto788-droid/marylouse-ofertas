@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 13/10/2026 06:04
+Gerado em: 13/10/2026 06:22
 
 ## Como usar
 
@@ -117,14 +117,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/casa-cozinha.png
 ```txt
 🍳 Oferta para Casa e Cozinha
 
-Panela De Pressão 4,5litros Panelux Linha Classic Alto Brilho A Mais…
+Kit 10 Colheres Coração Fofa para Cozinha Mesa Posta Douradas Café So…
 
-💸 De: R$ 115,49
-🔥 Por: R$ 58,90
-🏷️ 49% OFF
+💸 De: R$ 30,19
+🔥 Por: R$ 16,00
+🏷️ 47% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/113dtXJrOZ
+Ver oferta: https://s.shopee.com.br/2VsSPbezDJ
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

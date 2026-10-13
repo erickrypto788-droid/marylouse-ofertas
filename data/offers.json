@@ -1,5 +1,39 @@
 [
   {
+    "id": "65bfe529a9aec8fead",
+    "title": "Bike Spinning Ergométrica Cor Preto",
+    "raw_title": "Bike Spinning Ergométrica Cor Preto",
+    "description": "🔥 Oferta encontrada! 📌 Bike Spinning Ergométrica Cor Preto Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Esportes e Lazer",
+    "old_price": "",
+    "price": "R$ 1.789,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_685682-MLU78981825033_092024-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36405300?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "13/10/2026 07:03",
+    "created_at_iso": "2026-10-13T07:03:05",
+    "created_ts": 1791874985
+  },
+  {
+    "id": "ebfc2b6e57465a82ad",
+    "title": "Bike Spinning Kikos Max-ks5 Preto",
+    "raw_title": "Bike Spinning Kikos Max-ks5 Preto",
+    "description": "🔥 Oferta encontrada! 📌 Bike Spinning Kikos Max-ks5 Preto Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Esportes e Lazer",
+    "old_price": "",
+    "price": "R$ 2.687,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_651330-MLA100034011273_122025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB18603556?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "13/10/2026 07:01",
+    "created_at_iso": "2026-10-13T07:01:59",
+    "created_ts": 1791874919
+  },
+  {
     "id": "45a30579a6992cc6aa",
     "title": "Garrafa Térmica Cabo Madeira Para Café 1l",
     "raw_title": "Garrafa Térmica Cabo Madeira Para Café 1l",
@@ -2341,44 +2375,6 @@
     "niche": {
       "key": "shopee_bolsas_femininas",
       "name": "Bolsas Femininas"
-    }
-  },
-  {
-    "id": "b1445ec23ed7281dd3",
-    "title": "Owlet Dream Sock | Meia Inteligente Monitor Bebê - Rosa",
-    "raw_title": "Owlet Dream Sock | Meia Inteligente Monitor Bebê - Rosa",
-    "description": "🔥 Oferta encontrada! 📌 Owlet Dream Sock | Meia Inteligente Monitor Bebê - Rosa Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
-    "marketplace": "Mercado Livre",
-    "category": "Mãe e Bebê",
-    "old_price": "",
-    "price": "R$ 3.450,00",
-    "discount_percent": 0.0,
-    "rating": null,
-    "image": "https://http2.mlstatic.com/D_NQ_NP_609292-MLU71415889747_082023-F.jpg",
-    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB26685042?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-    "created_at": "12/10/2026 07:02",
-    "created_at_iso": "2026-10-12T07:02:29",
-    "created_ts": 1791788549
-  },
-  {
-    "id": "b2be7342f4c33eabb1",
-    "title": "Kit Enxoval Cueiro e Paninho de boca ( 9 PEÇAS ) Bebê",
-    "raw_title": "Kit Enxoval Cueiro e Paninho de boca ( 9 PEÇAS ) Bebê",
-    "description": "🔥 48% OFF — Oferta encontrada! 📌 Kit Enxoval Cueiro e Paninho de boca ( 9 PEÇAS ) Bebê Confira os detalhes e aproveite enquanto a oferta estiver disponí...",
-    "marketplace": "Shopee",
-    "category": "Mãe e Bebê",
-    "old_price": "R$ 59,60",
-    "price": "R$ 30,99",
-    "discount_percent": 48.0,
-    "rating": 4.7,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7rd4l-lu12o63azpqq01",
-    "affiliate_url": "https://s.shopee.com.br/3g4OCrRNJa",
-    "created_at": "12/10/2026 06:20",
-    "created_at_iso": "2026-10-12T06:20:32",
-    "created_ts": 1791786032,
-    "niche": {
-      "key": "shopee_mae_bebe",
-      "name": "Mãe e Bebê"
     }
   }
 ]

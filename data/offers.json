@@ -1,5 +1,39 @@
 [
   {
+    "id": "796d0f8d4d363769cf",
+    "title": "Perfume Dolce & Gabbana Devotion For Men",
+    "raw_title": "Perfume masculino Dolce & Gabbana Devotion For Men Perfume Masculino 101 ml",
+    "description": "✨ Sinta o poder da sedução com o Perfume masculino Dolce & Gabbana Devotion For Men 101 ml! Uma fragrância inesquecível para o homem moderno e sofistica...",
+    "marketplace": "Mercado Livre",
+    "category": "Beleza",
+    "old_price": "",
+    "price": "R$ 875,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_860912-MLA112552110536_062026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74509688?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "13/10/2026 08:03",
+    "created_at_iso": "2026-10-13T08:03:02",
+    "created_ts": 1791878582
+  },
+  {
+    "id": "51102dc0b2a697c896",
+    "title": "Lâmina Philips Bodygroom",
+    "raw_title": "Lamina Aparador Pelos Philips Bodygroom Qg3379 Qg3280 Qg3380",
+    "description": "🚨 OFERTA IMPERDÍVEL! Mantenha seu Philips Bodygroom sempre novo! ✨ Garanta a Lâmina Aparador de Pelos Philips Bodygroom Qg3379 Qg3280 Qg3380 e tenha um...",
+    "marketplace": "Mercado Livre",
+    "category": "Beleza",
+    "old_price": "R$ 149,90",
+    "price": "R$ 129,90",
+    "discount_percent": 13.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_782959-MLA99825071093_112025-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24908965?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "13/10/2026 08:01",
+    "created_at_iso": "2026-10-13T08:01:46",
+    "created_ts": 1791878506
+  },
+  {
     "id": "7dc970ab3c3e0456ac",
     "title": "Controle Sem Fio para Nintendo Switch",
     "raw_title": "Controlador sem fio para console Nintendo Switch/NS Lite/NS OLED, Joycon Gamepad, Controle, Joystick, Joypad, Turbo,",
@@ -2375,27 +2409,6 @@
     "niche": {
       "key": "shopee_bolsas_masculinas",
       "name": "Bolsas Masculinas"
-    }
-  },
-  {
-    "id": "dfb52cc80ee5aba534",
-    "title": "Bolsa Feminina 3 em 1 Impermeável",
-    "raw_title": "Bolsa feminina nylon impermeável vira mochila transversal tiracolo leve 3em1",
-    "description": "👜 Versatilidade que cabe no seu dia a dia! Conheça a Bolsa Feminina Nylon Impermeável que vira mochila e tiracolo. Super prática, leve e perfeita para q...",
-    "marketplace": "Shopee",
-    "category": "Bolsas Femininas",
-    "old_price": "R$ 98,89",
-    "price": "R$ 37,58",
-    "discount_percent": 62.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mdzni6y96lmr72",
-    "affiliate_url": "https://s.shopee.com.br/LnwIsB7BL",
-    "created_at": "12/10/2026 07:17",
-    "created_at_iso": "2026-10-12T07:17:19",
-    "created_ts": 1791789439,
-    "niche": {
-      "key": "shopee_bolsas_femininas",
-      "name": "Bolsas Femininas"
     }
   }
 ]

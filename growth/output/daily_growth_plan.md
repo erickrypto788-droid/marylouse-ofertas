@@ -1,6 +1,6 @@
 # Plano Diário de Divulgação Orgânica — MaryLouse Ofertas
 
-Gerado em: 13/10/2026 10:18
+Gerado em: 13/10/2026 11:07
 
 ## Categorias prioritárias
 
@@ -9,11 +9,11 @@ Gerado em: 13/10/2026 10:18
 - 🍼 **Mãe e Bebê**: 12 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-mae-bebe.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_mae-bebe
 - 👟 **Calçados**: 11 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-calcados.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_calcados
 - 🏋️ **Esportes**: 10 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-esportes.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_esportes
-- 📦 **Outros**: 9 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 👕 **Moda Masculina**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-moda-masculina.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_moda-masculina
 - 💄 **Beleza**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-beleza.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_beleza
-- 📱 **Celulares**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
+- 📦 **Outros**: 8 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-outros.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_outros
 - 🍳 **Casa e Cozinha**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-casa-cozinha.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_casa-cozinha
+- 📱 **Celulares**: 7 oferta(s) — https://marylouse-ofertas.vercel.app/ofertas-celulares.html?utm_source=daily_plan&utm_medium=organic&utm_campaign=categoria_celulares
 
 ## Top ofertas para destacar
 
@@ -59,33 +59,33 @@ Gerado em: 13/10/2026 10:18
    - Desconto: 43% OFF
    - Link: https://s.shopee.com.br/Lnx2CJoNQ
 
-7. **Notebook Gamer 15.6" Intel N5095**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 2.698,00
-   - Desconto: 46% OFF
-   - Link: https://s.shopee.com.br/BUWIvAElL
-
-8. **SSD de Alta Velocidade**
-   - Categoria: Informática
-   - Loja: Shopee
-   - Preço: R$ 87,43
-   - Desconto: 40% OFF
-   - Link: https://s.shopee.com.br/gQmtq8KkM
-
-9. **Piscina Feijão Infantil 50L/100L Rosa ou Azul Caixa Multiuso Polietil…**
+7. **Piscina Feijão Infantil 50L/100L Rosa ou Azul Caixa Multiuso Polietil…**
    - Categoria: Pet
    - Loja: Shopee
    - Preço: R$ 144,57
    - Desconto: 55% OFF
    - Link: https://s.shopee.com.br/9APMLrSwYS
 
-10. **Webcam Câmera Computador Full HD 1080x1920p 2MP USB Plug Play Microfo…**
+8. **Webcam Câmera Computador Full HD 1080x1920p 2MP USB Plug Play Microfo…**
    - Categoria: Informática
    - Loja: Shopee
    - Preço: R$ 28,00
    - Desconto: 59% OFF
    - Link: https://s.shopee.com.br/8pmVt8nclo
+
+9. **MousePad Grande Rosa Desk Pad Couro Gamer Office**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 20,89
+   - Desconto: 50% OFF
+   - Link: https://s.shopee.com.br/AKbJftQFOC
+
+10. **Hub USB 8 em 1**
+   - Categoria: Informática
+   - Loja: Shopee
+   - Preço: R$ 42,90
+   - Desconto: 67% OFF
+   - Link: https://s.shopee.com.br/5VW3v0vmE8
 
 ## Ações gratuitas recomendadas
 

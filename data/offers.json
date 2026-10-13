@@ -1,5 +1,22 @@
 [
   {
+    "id": "26428ff5a9d119bd8e",
+    "title": "Fone Bluetooth Esportivo 320mah Fone Sem Fio Fone Academia Preto",
+    "raw_title": "Fone Bluetooth Esportivo 320mah Fone Sem Fio Fone Academia Preto",
+    "description": "🔥 30% OFF — Oferta encontrada! 📌 Fone Bluetooth Esportivo 320mah Fone Sem Fio Fone Academia Preto Confira os detalhes e aproveite enquanto a oferta esti...",
+    "marketplace": "Mercado Livre",
+    "category": "Eletrônicos",
+    "old_price": "R$ 78,99",
+    "price": "R$ 55,00",
+    "discount_percent": 30.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_711910-MLA118400960905_092026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68059006?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "13/10/2026 12:01",
+    "created_at_iso": "2026-10-13T12:01:39",
+    "created_ts": 1791892899
+  },
+  {
     "id": "78813e28f52b8eb12c",
     "title": "Sapatênis Casual Masculino Confort Couro Anti Stress Calce Fácil Orto…",
     "raw_title": "Sapatênis Casual Masculino Confort Couro Anti Stress Calce Fácil Ortopedico com Ziper Promoção",
@@ -2451,68 +2468,5 @@
     "created_at": "12/10/2026 12:02",
     "created_at_iso": "2026-10-12T12:02:51",
     "created_ts": 1791806571
-  },
-  {
-    "id": "78baf8b37f3252666a",
-    "title": "Chocolate Moranguete 36 Unidades Bel",
-    "raw_title": "Chocolate Moranguete 468g C/36 Unidades 13g Bel",
-    "description": "DOCE IMPERDÍVEL! 🍓 Chocolate Moranguete 468g C/36 Unidades Bel com precinho especial para adoçar seu dia! 😋 São 36 unidades para você se deliciar ou com...",
-    "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
-    "old_price": "R$ 40,08",
-    "price": "R$ 26,45",
-    "discount_percent": 34.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lys00kowtw01e5",
-    "affiliate_url": "https://s.shopee.com.br/4LK5KgfIJ9",
-    "created_at": "12/10/2026 11:20",
-    "created_at_iso": "2026-10-12T11:20:25",
-    "created_ts": 1791804025,
-    "niche": {
-      "key": "shopee_bebidas_alimentos",
-      "name": "Bebidas e Alimentos"
-    }
-  },
-  {
-    "id": "fb5c0f8606c0c8aa5a",
-    "title": "Puff Orgânico Curvo - 1 Metro Elegância e Conforto Moderno Feijao mod…",
-    "raw_title": "Puff Orgânico Curvo - 1 Metro Elegância e Conforto Moderno Feijao moderno tecido premium",
-    "description": "🔥 50% OFF — Oferta encontrada! 📌 Puff Orgânico Curvo - 1 Metro Elegância e Conforto Moderno Feijao moderno tecido premium Confira os detalhes e aproveit...",
-    "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
-    "old_price": "R$ 399,96",
-    "price": "R$ 199,98",
-    "discount_percent": 50.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lv-mnpmwo5oh5vkd7",
-    "affiliate_url": "https://s.shopee.com.br/30ohkEtAWa",
-    "created_at": "12/10/2026 11:19",
-    "created_at_iso": "2026-10-12T11:19:13",
-    "created_ts": 1791803953,
-    "niche": {
-      "key": "shopee_bebidas_alimentos",
-      "name": "Bebidas e Alimentos"
-    }
-  },
-  {
-    "id": "cc8de24acabd9d5679",
-    "title": "Creatina Max Titanium 300g Pura",
-    "raw_title": "Creatina Max Titanium 300g Pura",
-    "description": "🔥 EXPLODIU! Creatina Max Titanium 300g Pura com 74% OFF! 💪 Potencialize seus treinos com a qualidade que você já conhece.",
-    "marketplace": "Shopee",
-    "category": "Bebidas e Alimentos",
-    "old_price": "R$ 177,69",
-    "price": "R$ 46,20",
-    "discount_percent": 74.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-22100-7b7tjvynfbivb7",
-    "affiliate_url": "https://s.shopee.com.br/9KilHsZSRu",
-    "created_at": "12/10/2026 11:18",
-    "created_at_iso": "2026-10-12T11:18:09",
-    "created_ts": 1791803889,
-    "niche": {
-      "key": "shopee_bebidas_alimentos",
-      "name": "Bebidas e Alimentos"
-    }
   }
 ]

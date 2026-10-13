@@ -1,6 +1,6 @@
 # WhatsApp Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 13/10/2026 08:05
+Gerado em: 13/10/2026 08:22
 
 ## Como usar
 
@@ -147,14 +147,14 @@ https://marylouse-ofertas.vercel.app/growth/pinterest/moda-feminina.png
 ```txt
 👗 Oferta para Moda Feminina
 
-Vestido para casamento convidada civil Feminino Longo Elegante de Fes…
+Calça Pantalona de Linho
 
-💸 De: R$ 89,16
-🔥 Por: R$ 32,99
-🏷️ 63% OFF
+💸 De: R$ 99,97
+🔥 Por: R$ 39,99
+🏷️ 60% OFF
 🛒 Loja: Shopee
 
-Ver oferta: https://s.shopee.com.br/9fLbokL1ZT
+Ver oferta: https://s.shopee.com.br/4VdWvX74sI
 
 ⚠️ Preço e disponibilidade podem mudar.
 MaryLouse Ofertas pode receber comissão por compras feitas pelos links.

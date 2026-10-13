@@ -1,5 +1,68 @@
 [
   {
+    "id": "448e6d01da8188e04b",
+    "title": "Relógio de Parede LED Digital Grande",
+    "raw_title": "Relógio De Parede Led Digital Grande Termômetro Recepção",
+    "description": "⏰ Modernize seu ambiente com estilo! ✨ Relógio De Parede LED Digital Grande com Termômetro. Visibilidade incrível para sua recepção, escritório ou casa....",
+    "marketplace": "Shopee",
+    "category": "Saúde",
+    "old_price": "R$ 90,12",
+    "price": "R$ 74,80",
+    "discount_percent": 17.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7rfic-m9xz1ua16srw93",
+    "affiliate_url": "https://s.shopee.com.br/4B0fzwxvmi",
+    "created_at": "13/10/2026 00:18",
+    "created_at_iso": "2026-10-13T00:18:12",
+    "created_ts": 1791850692,
+    "niche": {
+      "key": "shopee_saude",
+      "name": "Saúde"
+    }
+  },
+  {
+    "id": "fccb659e7ace35ac05",
+    "title": "AIQUE Nebulizador Portátil Mini Inalador Silencioso Ultra-sônico Auto…",
+    "raw_title": "AIQUE Nebulizador Portátil Mini Inalador Silencioso Ultra-sônico Automático para Adultos e Crianças",
+    "description": "🔥 62% OFF — Oferta encontrada! 📌 AIQUE Nebulizador Portátil Mini Inalador Silencioso Ultra-sônico Automático para Adultos e Crianças Confira os detalhes...",
+    "marketplace": "Shopee",
+    "category": "Saúde",
+    "old_price": "R$ 68,37",
+    "price": "R$ 25,98",
+    "discount_percent": 62.0,
+    "rating": 4.8,
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7rfgf-m9cb96j6vkgp38",
+    "affiliate_url": "https://s.shopee.com.br/113eE8ENzP",
+    "created_at": "13/10/2026 00:17",
+    "created_at_iso": "2026-10-13T00:17:05",
+    "created_ts": 1791850625,
+    "niche": {
+      "key": "shopee_saude",
+      "name": "Saúde"
+    }
+  },
+  {
+    "id": "9b02534be37613ec54",
+    "title": "Balança Bioimpedância Bluetooth",
+    "raw_title": "Balança Bioimpedancia Digital Bluetooth Corporal até 180kg Resultado Pelo Celular",
+    "description": "📈 Sua saúde na palma da mão! Com a Balança Bioimpedância Digital Bluetooth, você acompanha seu corpo de forma inteligente. Receba resultados detalhados...",
+    "marketplace": "Shopee",
+    "category": "Saúde",
+    "old_price": "R$ 71,19",
+    "price": "R$ 29,90",
+    "discount_percent": 58.0,
+    "rating": 4.9,
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m8-mn0147v5c1kx50",
+    "affiliate_url": "https://s.shopee.com.br/905vkpsf5C",
+    "created_at": "13/10/2026 00:16",
+    "created_at_iso": "2026-10-13T00:16:01",
+    "created_ts": 1791850561,
+    "niche": {
+      "key": "shopee_saude",
+      "name": "Saúde"
+    }
+  },
+  {
     "id": "4d4113c46ddb2a719c",
     "title": "Babá Eletrônica Hellobaby Hb66pro Monitor Bebê 3.2 White",
     "raw_title": "Babá Eletrônica Hellobaby Hb66pro Monitor Bebê 3.2 White",
@@ -2213,48 +2276,6 @@
     "created_at": "12/10/2026 00:18",
     "created_at_iso": "2026-10-12T00:18:16",
     "created_ts": 1791764296,
-    "niche": {
-      "key": "shopee_eletrodomesticos",
-      "name": "Eletrodomésticos"
-    }
-  },
-  {
-    "id": "3dd2761fe309511cd2",
-    "title": "Kit Liquidificador 550W Turbo Power L-99-FB + Batedeira 400W Prática…",
-    "raw_title": "Kit Liquidificador 550W Turbo Power L-99-FB + Batedeira 400W Prática - B-44-B Mondial",
-    "description": "🔥 26% OFF — Oferta encontrada! 📌 Kit Liquidificador 550W Turbo Power L-99-FB + Batedeira 400W Prática - B-44-B Mondial Confira os detalhes e aproveite e...",
-    "marketplace": "Shopee",
-    "category": "Eletrodomésticos",
-    "old_price": "R$ 310,68",
-    "price": "R$ 229,90",
-    "discount_percent": 26.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-825b8-msauhkcaes5i2c",
-    "affiliate_url": "https://s.shopee.com.br/Lnvq1u9Sg",
-    "created_at": "12/10/2026 00:17",
-    "created_at_iso": "2026-10-12T00:17:12",
-    "created_ts": 1791764232,
-    "niche": {
-      "key": "shopee_eletrodomesticos",
-      "name": "Eletrodomésticos"
-    }
-  },
-  {
-    "id": "fb9bacbe7f2e72fbc9",
-    "title": "MINI Refrigerador De Ar Ventilador Umidificador Dupla Giratório+rgb C…",
-    "raw_title": "MINI Refrigerador De Ar Ventilador Umidificador Dupla Giratório+rgb Camada Ventilador Climatizador Ar C/ Reservatório",
-    "description": "🔥 68% OFF — Oferta encontrada! 📌 MINI Refrigerador De Ar Ventilador Umidificador Dupla Giratório+rgb Camada Ventilador Climatizador Ar C/ Reservatório C...",
-    "marketplace": "Shopee",
-    "category": "Eletrodomésticos",
-    "old_price": "R$ 187,13",
-    "price": "R$ 59,88",
-    "discount_percent": 68.0,
-    "rating": 4.6,
-    "image": "https://cf.shopee.com.br/file/sg-11134201-81zue-mizz3df604cj39",
-    "affiliate_url": "https://s.shopee.com.br/Lnvq22wzT",
-    "created_at": "12/10/2026 00:16",
-    "created_at_iso": "2026-10-12T00:16:08",
-    "created_ts": 1791764168,
     "niche": {
       "key": "shopee_eletrodomesticos",
       "name": "Eletrodomésticos"

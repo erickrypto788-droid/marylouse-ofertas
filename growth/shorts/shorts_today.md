@@ -1,6 +1,6 @@
 # Shorts Pack do Dia — MaryLouse Ofertas
 
-Gerado em: 13/10/2026 01:05
+Gerado em: 13/10/2026 01:21
 
 ## Como usar
 
@@ -30,9 +30,9 @@ Gerado em: 13/10/2026 01:05
 
 **Produtos usados:**
 
+- CALÇA Sumikko fralda Ajustável total max P/M/G/XG/XXG/XXXG/4XG/5XG 50…
 - Bebê Reborn Boneca Realista Girafinha Luxo Em Silicone Pode Dar Banho…
 - Kit 5 Camisetas Regata Bebê
-- Fralda Descartável Pampers Splashers Piscina M/G 11 Unidades
 
 ---
 
@@ -79,8 +79,8 @@ Gerado em: 13/10/2026 01:05
 **Produtos usados:**
 
 - Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler…
-- Escova Secadora 3 em 1
-- Chapinha 2 em 1 Profissional | Modelador Cachos Barril 30mm | Para Ca…
+- Pente Elétrico Alisador Cabelo Aquecimento Milti-fucional Prancha Ali…
+- Barbeador Costas Masculino Traseiro Dobrável Aparador Pelos
 
 ---
 

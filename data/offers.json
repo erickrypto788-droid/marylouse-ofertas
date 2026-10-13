@@ -1,5 +1,39 @@
 [
   {
+    "id": "fc8f979274e01652e9",
+    "title": "Xiaomi Redmi Note 15",
+    "raw_title": "Xiaomi Redmi Note 15",
+    "description": "🔥 Oferta encontrada! 📌 Xiaomi Redmi Note 15 Confira os detalhes e aproveite enquanto a oferta estiver disponível.",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "",
+    "price": "R$ 1.799,00",
+    "discount_percent": 0.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_893125-MLA113665227289_062026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74419020?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "13/10/2026 13:03",
+    "created_at_iso": "2026-10-13T13:03:17",
+    "created_ts": 1791896597
+  },
+  {
+    "id": "cfa299db3a9c6deb4f",
+    "title": "Power Bank Portátil FEELTRA 10.200mAh 22.5W Turbo para Celular com 3…",
+    "raw_title": "Power Bank Portátil FEELTRA 10.200mAh 22.5W Turbo para Celular com 3 Saídas",
+    "description": "🔥 46% OFF — Oferta encontrada! 📌 Power Bank Portátil FEELTRA 10.200mAh 22.5W Turbo para Celular com 3 Saídas Confira os detalhes e aproveite enquanto a...",
+    "marketplace": "Mercado Livre",
+    "category": "Informática",
+    "old_price": "R$ 239,00",
+    "price": "R$ 129,90",
+    "discount_percent": 46.0,
+    "rating": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_968504-MLA113938715402_072026-F.jpg",
+    "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75833773?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+    "created_at": "13/10/2026 13:02",
+    "created_at_iso": "2026-10-13T13:02:13",
+    "created_ts": 1791896533
+  },
+  {
     "id": "94d2f55a6bec6863e3",
     "title": "Bota Coturno Feminina Tratorada Motoqueira Lançamento Inverno",
     "raw_title": "Bota Coturno Feminina Tratorada Motoqueira Lançamento Inverno",
@@ -2395,27 +2429,6 @@
     "niche": {
       "key": "shopee_roupas_femininas",
       "name": "Roupas Femininas"
-    }
-  },
-  {
-    "id": "c1c6307519c8bd8a93",
-    "title": "Gamesir T4 Nova Lite Controlador Sem Fio Bluetooth Com Efeito Hall Pa…",
-    "raw_title": "Gamesir T4 Nova Lite Controlador Sem Fio Bluetooth Com Efeito Hall Para Nintendo Switch PC Steam Android iOS",
-    "description": "🔥 13% OFF — Oferta encontrada! 📌 Gamesir T4 Nova Lite Controlador Sem Fio Bluetooth Com Efeito Hall Para Nintendo Switch PC Steam Android iOS Confira os...",
-    "marketplace": "Shopee",
-    "category": "Jogos e Consoles",
-    "old_price": "R$ 112,63",
-    "price": "R$ 97,99",
-    "discount_percent": 13.0,
-    "rating": 4.9,
-    "image": "https://cf.shopee.com.br/file/cn-11134207-7r98o-lx3zjydgvy9x6a",
-    "affiliate_url": "https://s.shopee.com.br/qkDENUTEg",
-    "created_at": "12/10/2026 12:17",
-    "created_at_iso": "2026-10-12T12:17:58",
-    "created_ts": 1791807478,
-    "niche": {
-      "key": "shopee_jogos_consoles",
-      "name": "Jogos e Consoles"
     }
   }
 ]
